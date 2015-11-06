@@ -1,0 +1,153 @@
+comment,original,translation
+UpdaterTray#1,PC-BSD Update Manager,PC-BSD Мениджър за Актуализация
+UpdaterTray#2,Start the Update Manager,Стартирай Мениджъра за Актуализация
+UpdaterTray#3,Run at startup,Стартирай при зареждане
+UpdaterTray#4,Error!,Грешка!
+UpdaterTray#5,Update Error!,Грешка при актуализация!
+UpdaterTray#6,Error running updates2 script! ,Грешка при стартиране на скрипта updates2! 
+UpdaterTray#7,Update available!,Налична е актуализация!
+UpdaterTray#8,System Update,Системна Актуализация
+UpdaterTray#9,A system update is available!,Налична е системна актуализация!
+UpdaterTray#10,Updates available!,Налични са актуализации!
+UpdaterTray#11,System updates are available!,Налични са системни актуализации!
+UpdaterTray#12,Close the Update Manager,Затвори Мениджъра за Актуализация
+UpdaterTray#13,Your system is fully updated!,Вашата система е актуализирана напълно!
+UpdaterTray#14,Checking for updates...,Проверка за актуализации...
+UpdaterTray#15,Updating the system...,Актуализиране на системата...
+UpdaterTray#16,Upgrading PBIs...,Обновяване на PBI....
+UpdaterTray#17,System updates available!,Налични са системни актуализации!
+UpdaterTray#18,PBI updates available!,Налични са PBI актуализации!
+UpdaterTray#19,ERROR:,ГРЕШКА:
+UpdaterTray#20,Error determining remaining disk space!,Грешка при определяне на оставащото дисково пространство!
+UpdaterTray#21,"A system update is being installed.
+
+ You may double-click the system updater
+ icon to view current progress.","Системната актуализация започва инсталацията.
+
+ С двойно щракане на иконата за системна
+актуализация ще видите текущия прогрес."
+UpdaterTray#22,Pending download,Предстоящо сваляне
+UpdaterTray#23,Online Update,Интернет Актуализация
+UpdaterTray#24,One or more updates will require a reboot. You will be prompted to restart after the update is finished.,Една илиповее актуализации ще изисква рестарт. Ще бъдете попитани за рестарт след като  завърши актуализацията.
+UpdaterTray#25,Preparing to install...,Подготовка за инсталиране...
+UpdaterTray#26,Pending install,Предстояща инсталация
+UpdaterTray#27,Data verify failed... Attempting to re-download...,Неуспешна верификация на данните... Подготовка за повторно изтегляне...
+UpdaterTray#28,Downloading...,Изтегляне...
+UpdaterTray#29,Downloading updates...,Изтегляне на актуализациите...
+UpdaterTray#30,An error occured while downloading. Please try again later.,"Грешка при изтеглянето. Моля, опитайте отново по-късно."
+UpdaterTray#31,Checking data integrity...,Проверка цялостта на данните...
+UpdaterTray#32,Error running internal checksum Script! ,Грешка при работещия скрипт за вътрешна чек сума ! 
+UpdaterTray#33,An error occured while downloading. Please check your connection or try again later.,"Грешка при изтеглянето. Моля, проверете вашата връзка или опитайте отново по-късно."
+UpdaterTray#34,Data verified... Preparing to Install...,Данните проверени... Подготовка за инсталиране...
+UpdaterTray#35,Install complete!,Инсталирането завърши!
+UpdaterTray#36,Updates successfully installed! Your system will need to reboot to finish.,Актуализациите са инсталирани успешно! За да влязат промените в сила е необходимо вашата система да се рестартира.
+UpdaterTray#37,Updates successfully installed!,Актуализациите са инсталирани успешно!
+UpdaterTray#38,Installing,Инсталиране
+UpdaterTray#39,Starting installation...,Стартиране на инсталацията...
+UpdaterTray#40,An error occured while extracting. Please try again later.,
+UpdaterTray#41,An error occured while installing. Please try again later.,
+UpdaterTray#42,PBI Update available!,Налична PBI актуализация!
+UpdaterTray#43,A PBI update is available!,Налична е PBI актуализация!
+UpdaterTray#44,PBI Updates available!,Налични PBI актуализации!
+UpdaterTray#45,PBI updates are available!,Налични са PBI актуализации!
+UpdaterTray#46,"A PBI update is being installed.
+
+ You may double-click the system updater
+ icon to view current progress.",
+UpdaterTray#47,Failed Download!,
+UpdaterTray#48,Download failed... Attempting to re-download...,
+UpdaterTray#49,Downloading PBI upgrades...,
+UpdaterTray#50,Upgrade complete!,
+UpdaterTray#51,PBI Upgrades finished!,
+UpdaterTray#52,Upgrading,
+UpdaterTray#53,Performing PBI upgrades...,"
+            "
+UpdaterTray#54,An error occured while upgrading. Please try again later.,"
+            "
+UpdaterTray#55,No available updates.,"
+            "
+UpdaterTray#56,System Updater,"
+            "
+UpdaterTray#57,Failed!,"
+            "
+UpdaterTray#58,Error parsing sysupdate.conf!!!,
+UpdaterTray#59,Could not contact the PC-BSD update server! Please check your internet connection or proxy settings under Configuration,
+UpdaterTray#60,Proxy Configuration!,
+UpdaterTray#61,You will need to restart the system updater for any proxy changes to take effect!,
+systemUpdater#1,System Updater,"
+            "
+systemUpdater#2,&Close,"
+            "
+systemUpdater#3,Alt+C,"
+            "
+systemUpdater#4,System Updates,"
+            "
+systemUpdater#5,Available Updates,"
+            "
+systemUpdater#6,ID,"
+            "
+systemUpdater#7,The following system updates are available:,"
+            "
+systemUpdater#8,Select All,"
+            "
+systemUpdater#9,(last checked: unknown),"
+            "
+systemUpdater#10,Check for Updates,"
+            "
+systemUpdater#11,Install selected updates,"
+            "
+systemUpdater#12,PBI Updates,"
+            "
+systemUpdater#13,The following PBI updates are available:,"
+            "
+systemUpdater#14,Available Programs,"
+            "
+systemUpdater#15,"<font color=""#ff0000"">2 new PBI updates</font>","
+            "
+systemUpdater#16,(last checked 12-10-07),"
+            "
+systemUpdater#17,Update selected PBIs,"
+            "
+systemUpdater#18,Configuration,"
+            "
+systemUpdater#19,Check for system updates (Recommended),"
+            "
+systemUpdater#20,Check for updates to installed PBIs,"
+            "
+systemUpdater#21,Run the System Updater at startup,"
+            "
+systemUpdater#22,View Details,"
+            "
+systemUpdater#23,Error!,"
+            "
+systemUpdater#24,You need to select at least one update to install!,"
+            "
+systemUpdater#25,The update ',"
+            "
+systemUpdater#26,\' must be installed by itself. All other items will be unselected.,"
+            "
+systemUpdater#27,You need to select at least one PBI to update!,"
+            "
+systemUpdater#28,Specify custom temporary directory,
+systemUpdater#29,Configure Proxy Settings,
+systemUpdater#30,Select Temp directory,
+updaterStatus#1,Installing Updates,"
+            "
+updaterStatus#2,The system is currently installing the following updates:,"
+            "
+updaterStatus#3,&Close,"
+            "
+updaterStatus#4,Alt+C,"
+            "
+updaterStatus#5,Name,"
+            "
+updaterStatus#6,Size,"
+            "
+updaterStatus#7,Status,"
+            "
+updaterStatus#8,ID,"
+            "
+updaterStatus#9,Version,"
+            "
+updaterStatus#10, of ,"
+            "

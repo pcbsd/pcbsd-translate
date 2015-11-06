@@ -1,0 +1,204 @@
+comment,original,translation
+AddUserUI#1,Add User,Sukurti naudotoją
+AddUserUI#2,The field is empty,Laukas yra tuščias
+AddUserUI#3,Home Directory:,Pradžios katalogas:
+AddUserUI#4,Shell:,Apvalkalas:
+AddUserUI#5,Full Name:,Vardas ir pavardė:
+AddUserUI#6,New &Group,Nauja &grupė
+AddUserUI#7,Alt+G,Alt+G
+AddUserUI#8,Username:,Naudotojas:
+AddUserUI#9,Confirm Password:,Patvirtinti slaptažodį
+AddUserUI#10,Primary Group:,Pagrindinė grupė:
+AddUserUI#11,Password:,Slaptažodis:
+AddUserUI#12,&Ok,&Gerai
+AddUserUI#13,Alt+O,Alt+G
+AddUserUI#14,&Cancel,A&tsisakyti
+AddUserUI#15,Alt+C,Alt+T
+ChangePassDialog#1,Change Password,Pakeisti slaptažodį
+ChangePassDialog#2,Password:,Slaptažodis:
+ChangePassDialog#3,Confirm Password:,Pakartoti slaptažodį:
+ChangePassDialog#4,O&k,G&erai
+ChangePassDialog#5,Alt+K,Alt+E
+ChangePassDialog#6,&Cancel,A&tsisakyti
+ChangePassDialog#7,Alt+C,Alt+T
+MainDlg#1,PC-BSD User Manager,PC-BSD naudotojų tvarkytuvė
+MainDlg#2,&Users,&Naudotojai
+MainDlg#3,&Add,&Sukurti
+MainDlg#4,Alt+A,Alt+S
+MainDlg#5,&Remove,&Pašalinti
+MainDlg#6,Alt+R,Alt+P
+MainDlg#7,Home Directory:,Pradžios katalogas:
+MainDlg#8,Primary Group:,Pagrindinė grupė:
+MainDlg#9,Shell:,Apvalkalas:
+MainDlg#10,User ID:,Naudotojo ID:
+MainDlg#11,Full Name:,Vardas ir pavardė:
+MainDlg#12,Chan&ge Password...,Pakeis&ti slaptažodį...
+MainDlg#13,Alt+G,Alt+T
+MainDlg#14,&Groups,&Grupės
+MainDlg#15,A&dd,S&ukurti
+MainDlg#16,Alt+D,Alt+U
+MainDlg#17,Available:  ,Esančios:  
+MainDlg#18,Members:,Nariai:
+MainDlg#19,PC-BSD User Manager - Advanced Mode,PC-BSD naudotojų tvarkytuvė - Sudėtingesnis režimas
+MainDlg#20,Simple &View,Nesudėtingas &rodinys
+MainDlg#21,Alt+V,Alt+R
+NotRoot#1,Root Access Required,Reikalingos administratoriaus teisės
+NotRoot#2,"This program must be run as root. Click the ""Administrator Mode"" button below or restart the program as root.","Ši programa turi būti paleista root naudotojo. Spauskite žemiau esantį ""Administratoriaus būsena"" mygtuką arba paleiskite iš naujo programą root naudotoju."
+SimpleAddDlg#1,Add User,Sukurti naudotoją
+SimpleAddDlg#2,O&k,G&erai
+SimpleAddDlg#3,Alt+K,Alt+E
+SimpleAddDlg#4,Ca&ncel,At&sisakyti
+SimpleAddDlg#5,Alt+N,Alt+S
+SimpleAddDlg#6,Confirm Password:,Pakartoti slaptažodį:
+SimpleAddDlg#7,Password:,Slaptažodis:
+SimpleAddDlg#8,Full Name:,Vardas ir pavardė:
+SimpleAddDlg#9,Username:,Naudotojas:
+mainDlgCode#10,The field is empty,Laukas yra tuščias
+SimpleDlg#1,PC-BSD User Manager,PC-BSD naudotojų tvarkytuvė
+SimpleDlg#2,&Add,&Sukurti
+SimpleDlg#3,Alt+A,Alt+S
+SimpleDlg#4,&Remove,&Pašalinti
+SimpleDlg#5,Alt+R,Alt+P
+SimpleDlg#6,&Change Admin Password...,&Pakeisti administratoriaus slaptažodį...
+SimpleDlg#7,Alt+C,Alt+P
+SimpleDlg#8,A&dvanced View,S&udėtingesnis rodinys
+SimpleDlg#9,Alt+D,Alt+U
+SimpleDlg#10,Can administrate s&ystem,Gali administruoti s&istemą
+SimpleDlg#11,Alt+Y,Alt+I
+SimpleDlg#12,C&hange Password...,P&akeisti slaptažodį...
+SimpleDlg#13,Alt+H,Alt+A
+SimpleDlg#14,Full Name:,Vardas ir pavardė:
+AddDlgCode#1,New Group,Nauja &grupė
+AddDlgCode#2,Good Input,Teisingas įvedinys
+AddDlgCode#4,This field can only accept letters and numbers,Šiame lauke galima įvesti tik raides ir skaičius
+AddDlgCode#5,"This username is already in use, please choose another.","Šis naudotojo vardas jau užimtas, prašome pasirinkti kitą."
+AddDlgCode#6,Passwords match,Slaptažodžiai sutampa
+AddDlgCode#7,Passwords do not match,Slaptažodžiai nesutampa
+AddDlgCode#8,Invalid input,Klaidingas įvedinys
+AddDlgCode#9,This field may not contain ! @ or :,Šiame lauke negalima įvesti ! @ ir :
+AddDlgCode#10,Directory will be used,Bus naudojamas šis katalogas
+AddDlgCode#11,Invalid Path!,Neteisingas kelias!
+AddDlgCode#12,"Directory does not exist, but will be made","Tokio katalogo nėra, bet jis bus sukurtas"
+AddDlgCode#13,"Placing home directory outside '/home/' can cause compatibility problems with some programs.
+
+NOT RECOMMENDED","Perkėlus namų katalogą iš '/home/', gali kilti suderinamumo problemų su kai kuriomis programomis.
+
+NEREKOMENDUOJAMA"
+AddDlgCode#14,Requested path is a file (not a directory!),Nurodytas kekias yra failas (ne katalogas!)
+AddDlgCode#15,"The following errors occured whilst trying to add a new user:
+","Bandant sukurti naują naudotoją, įvyko šios klaidos:
+"
+AddDlgCode#16,"The following non-critical errors occured whilst trying to add a new user, do you wish to continue?
+","Bandant sukurti naują naudotoją, įvyko šios ne kritinės klaidos, ar norite tęsti?
+"
+AddDlgCode#17,"
+- The 'Username' field has not been filled in.","
+- neužpildytas laukas 'Naudotojo vardas'."
+AddDlgCode#18,"
+- The 'Username' field may only contain letters and numbers (not spaces).","
+- lauke 'Naudotojo vardas' gali būti tik raidės ir skaičiai (be tarpų)."
+AddDlgCode#19,"
+- The username you have chosen is already in use, please choose another.","
+- pasirinktas naudotojo vardas jau užimtas, prašome pasirinkti kitą."
+AddDlgCode#20,"
+- The 'Full Name' field has not been filled in.","
+- neužpildytas laukas 'Vardas ir pavardė'."
+AddDlgCode#21,"
+- The 'Full Name' field may not contain ! @ or :","
+- lauke 'Vardas ir pavardė' negali būti ! @ ir :"
+AddDlgCode#22,"
+- The 'Home Directory' field has not been filled in.","
+- neužpildytas laukas 'Pradžios katalogas'."
+AddDlgCode#23,"
+- The value entered as 'Home Directory' is not a valid path.","
+- lauke 'Pradžios katalogas' įrašyta reikšmė nėra teisingas kelias."
+AddDlgCode#24,"
+- Placing home directory outside '/home/' can cause compatibility problems with some programs and is NOT RECOMMENDED.","
+- Patalpinant pradžios katalogą už '/home/' ribų, gali sukelti suderinamumo problemų su kai kurioms programomis, todėl tai daryti NEREKOMENDUOJAMA."
+AddDlgCode#25,"
+- A file was selected as 'Home Directory', this value must be a directory.","
+- lauke 'Pradžios katalogas' vietoje katalogo nurodytas failas."
+AddDlgCode#26,"
+- Both password fields must be filled in.","
+- abu slaptažodžių laukai turi būti užpildyti."
+AddDlgCode#27,"
+- Passwords don't match, please try again.","
+- slaptažodžiai nesutampa, bandykite dar kartą."
+AddDlgCode#28,"
+- Invalid password","
+- klaidingas slaptažodis"
+AddDlgCode#29,Error!,Klaida!
+AddDlgCode#30,Warning!,Įspėjimas!
+AddDlgCode#31,&Yes,&Taip
+AddDlgCode#32,&No,&Ne
+ChangePassCode#1,Change Password for ',Pakeisti slaptažodį '
+ChangePassCode#2,\',\'
+ChangePassCode#3,You must specify a password,Jūs privalote įvesti slaptažodį
+ChangePassCode#4,Error changing password...,Klaida keičiant slaptažodį...
+ChangePassCode#5,The passwords didn't match. Both boxes most contain the same value.,Slaptažodžiai nesutampa. Abiejuose laukuose turi būti ta pati reikšmė.
+ChangePassCode#6,"Invalid password, please choose another.","Klaidingas slaptažodis, prašome įvesti kitą."
+ChangePassCode#7,Passwords match,Slaptažodžiai sutampa
+ChangePassCode#8,Passwords do not match,Slaptažodžiai nesutampa
+ChangePassCode#9,Invalid input,Klaidinga įvestis
+SimpleAddCode#1,Good Input,Teisinga įvestis
+SimpleAddCode#3,This field can only accept letters and numbers,Šiame lauke gali būti įvestos tik raidės ir skaičiai
+SimpleAddCode#4,"This username is already in use, please choose another.","Šis naudotojo vardas jau užimtas, prašome pasirinkti kitą."
+SimpleAddCode#5,Passwords match,Slaptažodžiai sutampa
+SimpleAddCode#6,Passwords do not match,Slaptažodžiai nesutampa
+SimpleAddCode#7,Invalid input,Klaidinga įvestis
+SimpleAddCode#8,This field may not contain ! @ or :,Šiame lauke negalima įvesti ! @ ir :
+SimpleAddCode#9,"The following errors occured whilst trying to add a new user:
+","Bandant sukurti naują naudotoją įvyko šios klaidos:
+"
+SimpleAddCode#10,"The following non-critical errors occured whilst trying to add a new user, do you wish to continue?
+","Bandant sukurti naują naudotoją įvyko šios nekritinės klaidos, ar norite tęsti?
+"
+SimpleAddCode#11,"
+- The 'Username' field has not been filled in.","
+- Laukas 'Naudotojo vardas' yra neužpildytas."
+SimpleAddCode#12,"
+- The 'Username' field may only contain letters and numbers (not spaces).","
+- Lauke 'Naudotojo vardas' galima rašyti tik skaičius ir raides (ne tarpus)."
+SimpleAddCode#13,"
+- The username you have chosen is already in use, please choose another.","
+- Naudotojo vardas, kurį pasirinkote jau yra naudojamas, prašome pasirinkti kitą."
+SimpleAddCode#14,"
+- The 'Full Name' field has not been filled in.","
+- Laukas 'Vardas ir pavardė' yra neužpildytas."
+SimpleAddCode#15,"
+- The 'Full Name' field may not contain ! @ or :","
+- lauke 'Vardas ir pavardė' negalima naudoti ! @ ir :"
+SimpleAddCode#16,"
+- Both password fields must be filled in.","
+- abu slaptažodžių laukai turi būti užpildyti."
+SimpleAddCode#17,"
+- Passwords don't match, please try again.","
+- slaptažodžiai nesutampa, bandykite dar kartą."
+SimpleAddCode#18,"
+- Invalid password","
+- klaidingas slaptažodis"
+SimpleAddCode#19,Error!,Klaida!
+SimpleAddCode#20,Warning!,Įspėjimas!
+SimpleAddCode#21,&Yes,&Taip
+SimpleAddCode#22,&No,&Ne
+SimpleDlgCode#1,Good Input,Teisinga įvestis
+SimpleDlgCode#3,This field may not contain ! @ or :,Šiame lauke negali būti ! @ ir :
+mainDlgCode#1,New User,Naujas naudotojas
+mainDlgCode#2,You must specify a name for your group,Reikia nurodyti jūsų grupės pavadinimą
+mainDlgCode#3,Error adding group...,Klaida pridedant grupę...
+mainDlgCode#4,Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted,Nurodytas klaidingas grupės pavadinimas. Grupės pavadinimas turi būti sudarytas iš raidžių ir skaičių. Nenaudokite tarpų.
+mainDlgCode#5,The group ',Grupė '
+mainDlgCode#6,"\' already exists, please choose a different name","\' jau yra, prašome nurodyti kitą pavadinimą"
+mainDlgCode#7,New Group,Nauja grupė
+mainDlgCode#8,Please enter a name for your new group,Prašome įvesti naujos grupės pavadinimą
+mainDlgCode#9,Directory will be used,Bus naudojamas katalogas
+mainDlgCode#11,Invalid Path!,Klaidingas kelias!
+mainDlgCode#12,"Directory does not exist, but will be made","Tokio katalogo nėra, bet jis bus sukurtas"
+mainDlgCode#13,"Placing home directory outside '/home/' can cause compatibility problems with some programs.
+
+NOT RECOMMENDED","Patalpinant pradžios katalogą už '/home/' ribų, gali sukelti suderinamumo problemų su kai kurioms programomis.
+
+NEREKOMENDUOJAMA"
+mainDlgCode#14,Requested path is a file (not a directory!),Nurodytas kelias yra failas (ne katalogas!)
+mainDlgCode#15,Good Input,Teisinga įvestis
+mainDlgCode#16,This field may not contain ! @ or :,Šiame lauke negalima naudoti ! @ ir :

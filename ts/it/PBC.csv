@@ -1,0 +1,112 @@
+comment,original,translation
+ExeDialog#1,Package Executable,Eseguibile Pacchetto
+ExeDialog#2,Executable Icon,Icone per l'eseguibile
+ExeDialog#3,Program Name,Nome del Programma
+ExeDialog#4,Program Executable,Eseguibile
+ExeDialog#5,Run as root,Esegui come Root
+ExeDialog#6,Run in shell prompt,Esegui in a prompt
+ExeDialog#7,&Save,&Salva
+ExeDialog#8,Alt+S,Alt+S
+ExeDialog#9,&Cancel,&Annulla
+ExeDialog#10,Alt+C,Alt+A
+ExeDialog#11,No desktop icon,Nessuna icona nel Desktop
+ExeDialog#12,Icon Files,Files Icone
+ExeDialog#13,Choose an Icon,Scegli un Icona
+ExeDialog#14,Select Executable,Seleziona Eseguibile
+ExeDialog#15,Startup notify,Notifica Avvio
+ExeDialog#16,Open as a link (Local documents),Apri come link (documenti locali)
+ExeDialog#17,Open as a web link (http:// or ftp://),Apri come web link (http:// o ftp://)
+ExeDialog#18,No Kmenu icon,Nessuna icona nel Kmenu
+ExeDialog#19,Development,In Programmazione
+ExeDialog#20,Editors,Editori
+ExeDialog#21,Edutainment,Educazione
+ExeDialog#22,Graphics,Grafica
+ExeDialog#23,Internet,Internet
+ExeDialog#24,Multimedia,Multimedia
+ExeDialog#25,Office,Ufficio
+ExeDialog#26,System,Sistema
+ExeDialog#27,Toys,Giochi
+ExeDialog#28,Taskbar Icon,Icona nel Taskbar
+ExeDialog#29,Kmenu Icon Placement,Posizione Icona nel Kmenu
+ExeDialog#30,Create sub-directory in KDE Kmenu directory selected below,Crea una sub-directory nella Kmenu directory selezionata
+ExeDialog#31,Insert icon directly into KDE Kmenu directory selected below,Inserisci un icona direttamente nella Kmenu directory selezionata
+ExeDialog#32,Create top-level Kmenu program directory,Crea una directory in KMenu
+ExeDialog#33,Games,Giochi
+ExeDialog#34,Games/Arcade,Giochi/Arcade
+ExeDialog#35,Games/Board,Giochi/Tavola
+ExeDialog#36,Games/Card,Giochi/Carte
+ExeDialog#37,Games/Kidsgames,Giochi/Bambini
+ExeDialog#38,Games/TacticStrategy,Giochi/Strategia
+ExeDialog#39,Utillities,Utilità 
+MimeDialog#1,Add a MIME Type,Aggiungi un tipo MIME
+MimeDialog#2,File Icon,Icona File
+MimeDialog#3,File Extensions,Estensione File
+MimeDialog#4,Example (*.html; *.htm ),Esempio (*.html; *.htm )
+MimeDialog#5,Open with program,Apri con programma
+MimeDialog#6,&Cancel,&Annulla
+MimeDialog#7,Alt+C,Alt+A
+MimeDialog#8,&Save,&Salva
+MimeDialog#9,Alt+S,Alt+S
+MimeDialog#10,Icon Files,Icona Files
+MimeDialog#11,Choose an Icon,Scegli un Icona
+PBCwizard#1,PC-BSD Package Creator,Creatore di Pacchetti per PC-BSD
+PBCwizard#2,Package Info,Informazioni Pacchetto
+PBCwizard#3,Package Name:,Nome Paccheeto:
+PBCwizard#4,Author:,Autore:
+PBCwizard#5,Website:,Website:
+PBCwizard#6,Package Version:,Versione Pacchetto:
+PBCwizard#7,License Text,Testo Licenza
+PBCwizard#8,"If ""Display License"" is set to ""Yes"", then during the installation, the software will require the user to accept the license agreement before going further. Setting this to ""No"" will simply skip the license screen, and continue on with installation. ","Se ""Visualizza licenza"" e' settata su ""Si"", allora, durante l'installazione, il software richiederà l'utente di accettarla prima di continuare. Settandola su ""No"" la licenza sarà semplicemente saltata. "
+PBCwizard#9,Display License,Visualizza licenza
+PBCwizard#10,No,No
+PBCwizard#11,Yes,Si
+PBCwizard#12,Directory,Directory
+PBCwizard#13,Package Directory,Directory Pacchetto
+PBCwizard#14,Library Support,
+PBCwizard#15,Specify library directory,
+PBCwizard#16,Do not include library directory,
+PBCwizard#17,Auto populate library directory,
+PBCwizard#18,Package Options,
+PBCwizard#19,"<font>Next you need to set a default icon for your program, which will be used for the KDE interface. <br><br>
+Program Executables are the files you wish to show up as icons on the desktop, or in the ""K"" menu. At least one executable must be added, but if your program has multiple binaries, you may add more.</font>",
+PBCwizard#20,Package Executables,
+PBCwizard#21,Remove,
+PBCwizard#22,Edit,
+PBCwizard#23,Add,
+PBCwizard#24,Default Program Icon,
+PBCwizard#25,Register MIME Types,
+PBCwizard#26,"<font>Some programs need to register file-types to function fully. You may specifiy up to 100 file extensions and the programs they are opened with.<br>
+<br>
+If you do not wish to register any file-types, you can safely ignore this section, and click next. </font>",
+PBCwizard#27,Mime Types,
+PBCwizard#28,Creating Package,
+PBCwizard#29,"<p align=""center"">Creating Package</p>",
+PBCwizard#30,Choose a directory,
+PBCwizard#31,Icon Files,
+PBCwizard#32,Choose an Icon,
+PBCwizard#33,PBI Version:,
+PBCwizard#34,Load saved preset,
+PBCwizard#35,"Your software package is now being created! Please wait, this may take a few moments, depending on the size of your package.
+
+In addition, you may also save a ""preset"" file, which may be loaded in the package creator for modification. ",
+PBCwizard#36,Save preset,
+PBCwizard#37,Invalid Fle,
+PBCwizard#38,"Error, this .pbc file is corrupt, or for the wrong version of Package Creator.",
+PBCwizard#39,Update URL:,
+PBCwizard#40,Edit Firstrun Script,
+PBCwizard#41,Edit Setup Script,
+PBCwizard#42,Edit Remove Script,
+PBCwizard#43,"<font>Specify the program directory you wish to include, then choose an option for library files.  You will need to choose an option for your libraries also. We recommend to use the ""Auto"" option, as this will include the necessary libraries for your program to operate on a variety of systems. <br><br>
+WARNING: Not including a library directory may render this program inoperable on systems without the required libraries.<br><br>You may also edit your initial FirstRun script, and Setup / Remove Scripts here. </font>",
+PBCwizard#44,"This information will be used during the installation, as well as in the package manager for administration. 
+
+If you have a preset file, you may load it below. 
+
+If you wish to run an ""update"" service for this PBI, enter the full URL for version check script. Please see the README for more information. 
+
+",
+PBCwizard#45,PBI Creator 4,
+PBCwizard#46,Creating PBI file...,
+PBCwizard#47,Unable to write preset file to ',
+PBCwizard#48,"\'. Check the location exists, and is writeable.",
+PBCwizard#49,Unable to save preset,

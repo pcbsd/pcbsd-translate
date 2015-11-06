@@ -1,0 +1,23 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,PC-BSD obsluha havárií
+CrashHandler#2,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.","PC-BSD zaznamenal chybu keď sa pokúšal spustiť <b>#</b><br><br>
+ 
+ Ak toto hlásenie vidíte často, máte problém s touto aplikáciou. Pre viac informácií o tejto chybe kliknite na 'Podrobnosti'"
+CrashHandler#3,&Close,&Zatvor
+CrashHandler#4,Alt+C,Alt+Z
+CrashHandler#5,&Details...,&Podrobnosti...
+CrashHandler#6,Alt+D,Alt+P
+Details#1,Crash Details...,Podrobnosti havárie...
+Details#2,Captured from Stderr:,Zachytené zo Stderr:
+Details#3,Captured from Stdout:,Zachytené zo Stdout:
+Details#4,&Save,&Ulož
+Details#5,Alt+S,Alt+U
+Details#6,&Close,&Zatvor
+Details#7,Alt+C,Alt+Z
+Details#8,Save file...,Ulož súbor...
+Details#9,Overwrite File?,Mám prepísať súbor?
+Details#10,"File already exists, would you like to overwrite it?","Súbor už existuje, chcete ho prepísať?"
+Details#11,&Yes,&Áno
+Details#12,&No,&Nie

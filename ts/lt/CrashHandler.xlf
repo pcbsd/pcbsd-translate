@@ -1,0 +1,162 @@
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <ns0:file xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" original="po/pcbsd/lt/CrashHandler.po" source-language="en-US" datatype="po">
+    <ns0:body>
+      <trans-unit id="1" xml:space="preserve" restype="x-gettext-domain-header" approved="no">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2008-02-25 16:08+0000
+PO-Revision-Date: 2008-08-29 10:31+0000
+Last-Translator: Vaidotas &lt;joshas@freemail.lt&gt;
+Language-Team: LANGUAGE &lt;LL@li.org&gt;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Pootle 1.1.0rc2
+</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2008-02-25 16:08+0000
+PO-Revision-Date: 2008-08-29 10:31+0000
+Last-Translator: Vaidotas &lt;joshas@freemail.lt&gt;
+Language-Team: LANGUAGE &lt;LL@li.org&gt;
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=3; plural=(n%10==1 &amp;&amp; n%100!=11 ? 0 : n%10&gt;=2 &amp;&amp; (n%100&lt;10 || n%100&gt;=20) ? 1 : 2);
+X-Generator: Pootle 1.1.0rc2
+</ns0:target>
+      </trans-unit>
+      <trans-unit id="2" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">PC-BSD Crash Handler</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">PC-BSD Strigties Apdorotojas</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#1</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="3" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">PC-BSD encountered an error while trying to start &lt;b&gt;#&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">PC-BSD aptiko klaidą bandant paleisti &lt;b&gt;#&lt;/b&gt;&lt;br&gt;&lt;br&gt;
+
+Jei jūs dažnai matote šį pranešimą, vadinasi su šia programa yra problemų. Norėdami sužinoti daugiau apie šią klaidą, paspauskite 'Išsamiau'.</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#2</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="4" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Close</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Užverti</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#3</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="5" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+C</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+U</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#4</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="6" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Details...</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Išsamiau...</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#5</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="7" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+D</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+I</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">CrashHandler#6</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="8" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Crash Details...</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Strigties detalės...</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#1</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="9" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Captured from Stderr:</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Sugauta iš Stderr:</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#2</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="10" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Captured from Stdout:</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Sugauta iš Stdout:</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#3</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="11" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Save</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Išsaugoti</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#4</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="12" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+S</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+I</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#5</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="13" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Close</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Užverti</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#6</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="14" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+C</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Alt+U</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#7</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="15" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Save file...</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Išsaugoti failą...</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#8</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="16" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Overwrite File?</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Pakeisti failą?</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#9</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="17" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">File already exists, would you like to overwrite it?</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">Failas jau egzistuoja, ar norite jį pakeisti?</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#10</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="18" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Yes</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Taip</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#11</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+      <trans-unit id="19" xml:space="preserve" approved="yes">
+        <ns0:source xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;No</ns0:source>
+        <ns0:target xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1">&amp;Ne</ns0:target>
+        <ns0:context-group name="po-reference" purpose="location">
+          <ns0:context context-type="sourcefile">Details#12</ns0:context>
+        </ns0:context-group>
+      </trans-unit>
+    </ns0:body>
+  </ns0:file>
+</xliff>

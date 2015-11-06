@@ -1,0 +1,38 @@
+comment,original,translation
+NetworkMan#1,IP Address:,IP adresas:
+NetworkMan#2,PC-BSD Network Manager,PC-BSD Tinklo tvarkytuvė
+NetworkMan#3,Devices,Įrenginiai
+NetworkMan#4,Device Status,Įrenginio būsena
+NetworkMan#5,Hostname:,Kompiuterio vardas:
+NetworkMan#6,999\.999\.999\.999; ,999\.999\.999\.999; 
+NetworkMan#7,Alt+C,Alt+U
+NetworkMan#8,Local Network Adapters,Vietinio tinklo adapteriai
+NetworkMan#9,Display system tray icon,Rodyti sisteminio dėklo piktogramą
+NetworkMan#10,DNS 1:,DNS 1:
+NetworkMan#11,DNS 2:,DNS 2:
+NetworkMan#12,Link Status:,Jungties būsena:
+NetworkMan#13,MAC Address:,MAC adresas:
+NetworkMan#14,&Configure,&Konfigūruoti
+NetworkMan#15,Gateway:,Vartai:
+NetworkMan#16,IPv6 gateway:,IPv6 vartai:
+NetworkMan#17,PPPoE configuration,PPPoE konfigūracija
+NetworkMan#18,Username:,Naudotojas:
+NetworkMan#19,Password:,Slaptažodis:
+NetworkMan#20,Internet Connection Sharing,Interneto ryšio paskirsta
+NetworkMan#21,Alwa&ys on connection,Visad&os prisijungęs
+NetworkMan#22,Alt+Y,Alt+O
+NetworkMan#23,PPPoE Device,PPPoE įrenginys
+NetworkMan#24,Service name (optional):,Tarnybos pavadinimas (nebūtinas):
+NetworkMan#25,Detecting Devices...,Ieškoti įrenginių...
+NetworkMan#26,IP: ,IP: 
+NetworkMan#27,Netmask: ,Tinklo kaukė: 
+NetworkMan#28,Configure ,Konfigūruoti 
+NetworkMan#29,Device Information,Informacija apie įrenginį
+NetworkMan#30,Enable device,Įjungti įrenginį
+NetworkMan#31,Disable device,Išjungti įrenginį
+NetworkMan#32,Restart the Network,Paleisti iš naujo tinklą
+NetworkMan#33,Network Configuration (Advanced),Tinklo konfigūracija (sudėtingesnė)
+NetworkMan#34,System configuration settings,Sistemos konfigūracijos nustatymai
+NetworkMan#35,Change Configuration,Pakeisti konfigūraciją
+restartPopup#1,Restarting Network,Tinklas paleidžiamas iš naujo
+restartPopup#2,Restarting the Network... Please Wait...,Tinklas paleidžiamas iš naujo... Prašome laukti...

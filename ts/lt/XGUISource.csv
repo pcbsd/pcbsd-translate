@@ -1,0 +1,34 @@
+comment,original,translation
+XGUI#1,Display Settings,Ekrano nustatymai
+XGUI#2,Apply,Pritaikyti
+XGUI#3,Skip,Praleisti
+XGUI#4,General,Bendri
+XGUI#5,Screen Resolution:,Ekrano skiriamoji geba:
+XGUI#6,1024x768,1024x768
+XGUI#7,Color Depth:,Spalvų skaičius:
+XGUI#8,24bits,24bitai
+XGUI#9,Video Driver,Vaizdo tvarkyklė
+XGUI#10,Advanced,Sudėtingesni
+XGUI#11,Monitor Settings,Vaizduoklio nuostatos
+XGUI#12,Horizontal Sync:,Horizontalioji sinchronizacija:
+XGUI#13,28.0-78.0,28.0-78.0
+XGUI#14,Vertical Refresh:,Vertikalusis atnaujinimas:
+XGUI#15,50.0-76.0,50.0-76.0
+XGUI#16,"The settings you have specified will now be tested.
+If your screen does not appear, please wait and you will be returned to this screen.","Jūsų pasirinkti nustatymai tuoj bus patikrinti.
+Jei nematysite ekrane vaizdo, prašome palaukti, nes bus atstatyti seni nustatymai."
+XGUI#17,Video Card:,Vaizdo plokštė:
+XGUI#18,Monitor:,Vaizduoklis:
+XGUI#19,Enable Dual-Head support,Įjungti dviejų vaizduoklių palaikymą
+XGUI#20,Monitor Resolution:,Vaizduoklio skiriamoji geba:
+XGUI#21,Dual-Head support is designed for systems with one video card and two monitors. Other setups may be achived by editing /etc/X11/xorg.conf,Dviejų vaizduoklių režimas skirtas kompiuteriams su viena vaizdo plokšte ir dviem vaizduokliais. Kitokie režimai gali būti įjungti redaguojant /etc/X11/xorg.conf
+XGUI#22,Unknown Monitor,Nežinomas vaizduoklis
+XGUI#23,Warning!,Įspėjimas!
+XGUI#24,PC-BSD was unable to autodetect your monitor. You may need to specify this monitor's Horizontal and Vertical refresh rates in the 'Advanced' tab.,"PC-BSD nepavyko automatiškai atpažinti jūsų vaizduoklio. Rekomenduojama nurodyti horizontalų ir vertikalų atnaujinimo dažnius ""Sudėtingesnių"" nustatymų kortelėje."
+dialogConfirm#1,Confirm Resolution,Patvirtinti skiriamają gebą
+dialogConfirm#2,Do you wish to use this resolution?,Ar norite naudoti šią skiriamają gebą?
+dialogConfirm#3,Yes,Taip
+dialogConfirm#4,No,Ne
+dialogConfirm#5,Auto-close in 10 seconds...,Automatiškai užverti po 10 sekundžių...
+dialogConfirm#6,Auto-close in ,Automatiškai užverti po 
+dialogConfirm#7, seconds..., sekundžių...

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+	<file datatype="po" original="po/pcbsd/it/NetworkManager.po" source-language="en-US">
+		<body>
+			<trans-unit approved="no" id="1" restype="x-gettext-domain-header" xml:space="preserve">
+				<source>Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2007-08-07 19:08+0100
+PO-Revision-Date: 2007-09-22 19:18+0000
+Last-Translator: Fabrizio Parrella <ph id="1">&lt;fabrizio@bibivu.com&gt;</ph>
+Language-Team: LANGUAGE <ph id="2">&lt;LL@li.org&gt;</ph>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 1.0.2
+</source>
+				<target state="translated">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2007-08-07 19:08+0100
+PO-Revision-Date: 2007-09-22 19:18+0000
+Last-Translator: Fabrizio Parrella <ph id="1">&lt;fabrizio@bibivu.com&gt;</ph>
+Language-Team: LANGUAGE <ph id="2">&lt;LL@li.org&gt;</ph>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=2; plural=(n != 1);
+X-Generator: Pootle 1.0.2
+</target>
+			</trans-unit>
+			<trans-unit approved="yes" id="2" xml:space="preserve">
+				<source>Device Properties</source>
+				<target>Proprietà Periferica</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="3" xml:space="preserve">
+				<source>Device Settings</source>
+				<target>Settaggi Periferica</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#2</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="4" xml:space="preserve">
+				<source>Netmask:</source>
+				<target>Maschera di rete (netmask):</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#3</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="5" xml:space="preserve">
+				<source>Use DHCP</source>
+				<target>Usa DHCP</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#4</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="6" xml:space="preserve">
+				<source>Static IP Address</source>
+				<target>Indirizzo IP Statico</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#5</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="7" xml:space="preserve">
+				<source>IP Address:</source>
+				<target>Indirizzo IP</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#6</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="8" xml:space="preserve">
+				<source>...</source>
+				<target>...</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#7</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="9" xml:space="preserve">
+				<source>999<ph id="1">\.</ph>999<ph id="2">\.</ph>999<ph id="3">\.</ph>999; </source>
+				<target>999<ph id="1">\.</ph>999<ph id="2">\.</ph>999<ph id="3">\.</ph>999; </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#8</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="10" xml:space="preserve">
+				<source>&amp;Cancel</source>
+				<target>&amp;Annulla</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#9</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="11" xml:space="preserve">
+				<source>Alt+C</source>
+				<target>Alt+A</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#10</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="12" xml:space="preserve">
+				<source>&amp;Save</source>
+				<target>&amp;Salva</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#11</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="13" xml:space="preserve">
+				<source>Alt+S</source>
+				<target>Alt+S</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#12</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="14" xml:space="preserve">
+				<source>Missing Fields</source>
+				<target>Campi Mancanti</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#13</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="15" xml:space="preserve">
+				<source>You must enter an IP and Netmask to continue!</source>
+				<target>Devi inserire un indirizzo IP ed una maschera di rete (netmask) per continuare !</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#14</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="16" xml:space="preserve">
+				<source>Warning</source>
+				<target>Attenzione</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#15</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="17" xml:space="preserve">
+				<source>IP Address is out of range! (</source>
+				<target>Indirizzo IP non valido! (</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#16</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="18" xml:space="preserve">
+				<source>) Fields must be between 0-255.</source>
+				<target>) I campi devono essere tra 0 e 255.</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#17</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="19" xml:space="preserve">
+				<source>Netmask is out of range! (</source>
+				<target>Maschera di rete (netmask) non valida! (</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetProperties#18</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="20" xml:space="preserve">
+				<source>PC-BSD Network Manager</source>
+				<target>PC-BSD Amministratore di Rete</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="21" xml:space="preserve">
+				<source>Devices</source>
+				<target>Periferiche</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#2</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="22" xml:space="preserve">
+				<source>Local Network Adapters</source>
+				<target>Adattatori di rete locale</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#3</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="23" xml:space="preserve">
+				<source>Display system tray icon</source>
+				<target>Visualizza l'icona nella system tray</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#4</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="24" xml:space="preserve">
+				<source>999<ph id="1">\.</ph>999<ph id="2">\.</ph>999<ph id="3">\.</ph>999; </source>
+				<target>999<ph id="1">\.</ph>999<ph id="2">\.</ph>999<ph id="3">\.</ph>999; </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#5</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="25" xml:space="preserve">
+				<source>DNS 1:</source>
+				<target>DNS 1:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#6</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="26" xml:space="preserve">
+				<source>DNS 2:</source>
+				<target>DNS 2:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#7</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="27" xml:space="preserve">
+				<source>Hostname:</source>
+				<target>Hostname:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#8</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="28" xml:space="preserve">
+				<source>Device Status</source>
+				<target>Stato Periferica</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#9</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="29" xml:space="preserve">
+				<source>Link Status:</source>
+				<target>Stato Link:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#10</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="30" xml:space="preserve">
+				<source>IP Address:</source>
+				<target>Indirizzo IP:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#11</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="31" xml:space="preserve">
+				<source>MAC Address:</source>
+				<target>Indirizzo MAC:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#12</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="32" xml:space="preserve">
+				<source>&amp;Configure</source>
+				<target>&amp;Configura</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#13</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="33" xml:space="preserve">
+				<source>Alt+C</source>
+				<target>Alt+C</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#14</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="34" xml:space="preserve">
+				<source>System-wide configuration settings</source>
+				<target>Settaggi per la configurazione si sistema</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#15</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="35" xml:space="preserve">
+				<source>Gateway:</source>
+				<target>Gateway:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#16</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="36" xml:space="preserve">
+				<source>IPv6 gateway:</source>
+				<target>Gateway per l'IPv6:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#17</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="37" xml:space="preserve">
+				<source>Enable IPv6 on this system</source>
+				<target>Abilita l'IPv6 per questo sistema</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#18</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="38" xml:space="preserve">
+				<source>DSL / PPPoE </source>
+				<target>DSL / PPPoE </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#19</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="39" xml:space="preserve">
+				<source>Enable PPPoE on this system</source>
+				<target>Abilita PPPoE su questo sistema</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#20</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="40" xml:space="preserve">
+				<source>PPPoE configuration</source>
+				<target>Configurazione PPPoE</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#21</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="41" xml:space="preserve">
+				<source>Username:</source>
+				<target>Nome Utente (username):</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#22</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="42" xml:space="preserve">
+				<source>Password:</source>
+				<target>Password:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#23</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="43" xml:space="preserve">
+				<source>Internet Connection Sharing</source>
+				<target>Condivisione la Connessione ad Internet</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#24</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="44" xml:space="preserve">
+				<source>Alwa&amp;ys on connection</source>
+				<target>Sempre su Conessione</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#25</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="45" xml:space="preserve">
+				<source>Alt+Y</source>
+				<target>Alt+Y</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#26</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="46" xml:space="preserve">
+				<source>PPPoE Device</source>
+				<target>Periferica PPPoE</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#27</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="47" xml:space="preserve">
+				<source>Service name (optional):</source>
+				<target>Nome Servizio (opzionale):</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#28</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="48" xml:space="preserve">
+				<source>Detecting Devices...</source>
+				<target>Rilevamento Periferiche...</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#29</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="49" xml:space="preserve">
+				<source>IP: </source>
+				<target>IP: </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#30</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="50" xml:space="preserve">
+				<source>Netmask: </source>
+				<target>Maschera di rete (netmask): </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#31</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="51" xml:space="preserve">
+				<source>Warning</source>
+				<target>Attenzione</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#32</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="52" xml:space="preserve">
+				<source>DNS #1 is out of range! (</source>
+				<target>DNS #1 non valido! (</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#33</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="53" xml:space="preserve">
+				<source>) Fields must be between 0-255.</source>
+				<target>) I campi devono essere compresi tra 0 e 255.</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#34</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="54" xml:space="preserve">
+				<source>DNS #2 is out of range! (</source>
+				<target>DNS #2 non valido! (</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#35</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="55" xml:space="preserve">
+				<source>Gateway is out of range! (</source>
+				<target>Gateway non valido! (</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#36</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="56" xml:space="preserve">
+				<source>Configure </source>
+				<target>Configura </target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#37</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="57" xml:space="preserve">
+				<source>Device Information</source>
+				<target>Informazioni Periferiche</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#38</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="58" xml:space="preserve">
+				<source>Enable device</source>
+				<target>Abilita Periferica</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#39</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="59" xml:space="preserve">
+				<source>Disable device</source>
+				<target>Disabilita Periferica</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#40</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="60" xml:space="preserve">
+				<source>Restart the Network</source>
+				<target>Riavvia la Rete</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NetworkMan#41</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="61" xml:space="preserve">
+				<source>Root Access Required</source>
+				<target>Accesso come Amministratore di sistema (root) richiesto</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NotRoot#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="62" xml:space="preserve">
+				<source>This program must be run as root. Click the &quot;Administrator Mode&quot; button below or restart the program as root.</source>
+				<target>Questo programma deve essere caricato come amministratore di sistema (root).  Clicca su &quot;Modo Amministrativo&quot; o eseguire il programma come amministratore (root).</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NotRoot#2</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="63" xml:space="preserve">
+				<source>Restarting Network</source>
+				<target>Riavviando la Rete</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">restartPopup#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="64" xml:space="preserve">
+				<source>Restarting the Network... Please Wait...</source>
+				<target>Riavviando la Rete... Attendere Prego...</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">restartPopup#2</context>
+				</context-group>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

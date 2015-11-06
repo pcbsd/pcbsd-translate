@@ -1,0 +1,9 @@
+comment,original,translation
+sndDialog#1,No sound card detected,Nepavyko aptikti garso plokštės
+sndDialog#2,background-image: url(:/sound.png);,background-image: url(:/sound.png);
+sndDialog#3,"PC-BSD was unable to detect a sound card. If this system has a sound card, please generate the diagnostic below and send it to support@pcbsd.org. ","PC-BSD nesugebėjo aptikti garso plokštės. Jei šioje sistemoje yra garso plokštė, prašome atlikti diagnostiką žemiau ir atsiųsti ją į support@pcbsd.org. "
+sndDialog#4,&Generate Diagnostic,Atlikti dia&gnostiką
+sndDialog#5,Never Show,Niekada nerodyti
+sndDialog#6,&Close,&Užverti
+sndDialog#7,Your diagnostic has been saved at: ,Diagnostikos failas išsaugotas čia: 
+sndDialog#8,Diagnostic Saved,Diagnostikos failas išsaugotas

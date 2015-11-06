@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.1" xmlns="urn:oasis:names:tc:xliff:document:1.1">
+	<file datatype="po" original="po/pcbsd/fi/PBUsource.po" source-language="en-US">
+		<body>
+			<trans-unit approved="no" id="1" restype="x-gettext-domain-header" xml:space="preserve">
+				<source>Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2007-08-07 19:08+0100
+PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+Last-Translator: FULL NAME <ph id="1">&lt;EMAIL@ADDRESS&gt;</ph>
+Language-Team: LANGUAGE <ph id="2">&lt;LL@li.org&gt;</ph>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;
+X-Generator: Translate Toolkit 1.0rc3
+</source>
+				<target state="translated">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2007-08-07 19:08+0100
+PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE
+Last-Translator: FULL NAME <ph id="1">&lt;EMAIL@ADDRESS&gt;</ph>
+Language-Team: LANGUAGE <ph id="2">&lt;LL@li.org&gt;</ph>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;
+X-Generator: Translate Toolkit 1.0rc3
+</target>
+			</trans-unit>
+			<trans-unit approved="yes" id="2" xml:space="preserve">
+				<source>Online Update Manager</source>
+				<target>Verkkopäivitys Hallinta</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="3" xml:space="preserve">
+				<source>Check for updates</source>
+				<target>Tarkista päivitysten tilanne</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#2</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="4" xml:space="preserve">
+				<source>Do not check for updates</source>
+				<target>Älä tarkista päivityksien tilannetta</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#3</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="5" xml:space="preserve">
+				<source>When?</source>
+				<target>Koska?</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#4</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="6" xml:space="preserve">
+				<source>Daily at:</source>
+				<target>Päivittäin klo:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#5</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="7" xml:space="preserve">
+				<source>Weekly on:</source>
+				<target>Viikottain klo:</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#6</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="8" xml:space="preserve">
+				<source>Sun</source>
+				<target>Su</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#7</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="9" xml:space="preserve">
+				<source>Mon</source>
+				<target>Ma</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#8</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="10" xml:space="preserve">
+				<source>Tue</source>
+				<target>Ti</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#9</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="11" xml:space="preserve">
+				<source>Wed</source>
+				<target>Ke</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#10</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="12" xml:space="preserve">
+				<source>Thur</source>
+				<target>To</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#11</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="13" xml:space="preserve">
+				<source>Fri</source>
+				<target>Pe</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#12</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="14" xml:space="preserve">
+				<source>Sat</source>
+				<target>La</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#13</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="15" xml:space="preserve">
+				<source>&amp;Save</source>
+				<target>&amp;Tallenna</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#14</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="16" xml:space="preserve">
+				<source>Alt+S</source>
+				<target>Alt+T</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#15</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="17" xml:space="preserve">
+				<source>Check Now</source>
+				<target>Tarkista nyt</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#15</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="18" xml:space="preserve">
+				<source>&amp;Quit</source>
+				<target>&amp;Lopeta</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#17</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="19" xml:space="preserve">
+				<source>Alt+Q</source>
+				<target>Alt+L</target>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#18</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="20" xml:space="preserve">
+				<source>Root Access Required</source>
+				<target/>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NotRoot#1</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="21" xml:space="preserve">
+				<source>This program must be run as root. Click the &quot;Administrator Mode&quot; button below or restart the program as root.</source>
+				<target/>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">NotRoot#2</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit approved="yes" id="22" xml:space="preserve">
+				<source>Check for updates at system startup</source>
+				<target/>
+				<context-group name="po-reference" purpose="location">
+					<context context-type="sourcefile">PBUMain#14</context>
+				</context-group>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

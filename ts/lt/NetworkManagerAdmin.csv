@@ -1,0 +1,30 @@
+comment,original,translation
+NetworkManAdmin#1,System Networking Config,Sistemos tinklo nustatymai
+NetworkManAdmin#2,System-wide configuration,Visos sistemos konfigūracija
+NetworkManAdmin#3,DNS 1:,DNS 1:
+NetworkManAdmin#4,999\.999\.999\.999; ,999\.999\.999\.999; 
+NetworkManAdmin#5,Hostname:,Kompiuterio vardas:
+NetworkManAdmin#6,DNS 2:,DNS 2:
+NetworkManAdmin#7,Gateway:,Vartai:
+NetworkManAdmin#8,Enable IPv6 on this system,Įjungti IPv6 šioje sistemoje
+NetworkManAdmin#9,IPv6 gateway:,IPv6 vartai:
+NetworkManAdmin#10,Enable PPPoE on this system,Įjungti PPPoE šioje sistemoje
+NetworkManAdmin#11,PPPOE Configuration,PPPoE konfigūracija
+NetworkManAdmin#12,Username:,Naudotojas:
+NetworkManAdmin#13,PPPoE Device,PPPoE įrenginys
+NetworkManAdmin#14,Password:,Slaptažodis:
+NetworkManAdmin#15,Alwa&ys on connection,Visad&os prisijungęs
+NetworkManAdmin#16,Alt+Y,Alt+O
+NetworkManAdmin#17,Service name (optional):,Tarnybos pavadinimas (nebūtinas):
+NetworkManAdmin#18,Internet Connection Sharing,Interneto ryšio paskirsta
+NetworkManAdmin#19,&Save,Iš&saugoti
+NetworkManAdmin#20,&Cancel,&Atsisakyti
+NetworkManAdmin#21,Warning,Įspėjimas
+NetworkManAdmin#22,DNS #1 is out of range! (,DNS #1 nepatenka į rėžius! (
+NetworkManAdmin#23,) Fields must be between 0-255.,) Laukų reikšmės turi būti intervale 0-255.
+NetworkManAdmin#24,DNS #2 is out of range! (,DNS #2 nepatenka į rėžius! (
+NetworkManAdmin#25,Gateway is out of range! (,Vartai nepatenka į rėžius! (
+NetworkManAdmin#26,Please enter a hostname,Prašome įvesti kompiuterio vardą
+NetworkManAdmin#27,Hostname may only contain letters and numbers,Kompiuterio vardas gali būti sudarytas tik iš raidžių ir skaičių
+NetworkManAdmin#28,Missing a PPPOE username!,Trūksta PPPOE naudotojo vardo!
+NetworkManAdmin#29,Missing a PPPOE password!,Trūksta PPPOE slaptažodžio!

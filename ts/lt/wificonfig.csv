@@ -1,0 +1,123 @@
+comment,original,translation
+dialogWPAEnterprise#1,WPA-Enterprise Configuration,WPA-Enterprise konfigūracija
+dialogWPAEnterprise#2,&Close,&Užverti
+dialogWPAEnterprise#3,Alt+C,Alt+U
+dialogWPAEnterprise#4,WPA Enterprise Configuration,WPA Enterprise konfigūracija
+dialogWPAEnterprise#5,EAP authentication method,EAP tapatumo nustatymo metodas
+dialogWPAEnterprise#6,EAP Identity:,EAP tapatybė:
+dialogWPAEnterprise#7,CA Certificate:,CA sertifikatas:
+dialogWPAEnterprise#8,Client Certificate:,Kliento sertifikatai:
+dialogWPAEnterprise#9,Private Key File:,Privataus rakto failas:
+dialogWPAEnterprise#10,Password:,Slaptažodis:
+dialogWPAEnterprise#11,Repeat Password:,Pakartoti slaptažodį:
+dialogWPAEnterprise#12,EAP-TLS,EAP-TLS
+dialogWPAEnterprise#13,EAP-TTLS,EAP-TTLS
+dialogWPAEnterprise#14,EAP-PEAP,EAP-PEAP
+dialogWPAPersonal#1,WPA Personal Config,Asmeninės WPA nuostatos
+dialogWPAPersonal#2,&Close,&Užverti
+dialogWPAPersonal#3,Alt+C,Alt+U
+dialogWPAPersonal#4,Wireless network key,Belaidžio tinklo raktas
+dialogWPAPersonal#5,Network Key,Tinklo raktas
+dialogWPAPersonal#6,Network Key (Repeat),Tinklo raktas (pakartoti)
+wepConfig#1,WEP Configuration,WEP konfigūracija
+wepConfig#2,Wireless network key,Belaidžio tinklo raktas
+wepConfig#3,Network Key,Tinklo raktas
+wepConfig#4,Network Key (Repeat),Tinklo raktas (pakartoti)
+wepConfig#5,Key Index,Rakto numeris
+wepConfig#6,&Close,&Užverti
+wepConfig#7,Alt+C,Alt+U
+wepConfig#8,Hex Key,Šešioliktainis raktas
+wepConfig#9,Plaintext,Grynasis tekstas
+wificonfigwidgetbase#1,Wireless Configuration,Belaidžio tinklo konfigūracija
+wificonfigwidgetbase#2,&General,&Bendri
+wificonfigwidgetbase#3,O&btain IP automatically (DHCP),&Automatiškai gauti IP (DHCP)
+wificonfigwidgetbase#4,Alt+B,Alt+A
+wificonfigwidgetbase#5,Alt+S,Alt+I
+wificonfigwidgetbase#6,Assign static IP address,Nurodyti statinį IP adresą
+wificonfigwidgetbase#7,IP:,IP:
+wificonfigwidgetbase#8,Netmask:,Tinklo kaukė:
+wificonfigwidgetbase#9,999\.999\.999\.999; ,999\.999\.999\.999; 
+wificonfigwidgetbase#10,Advanced,Sudėtingesni
+wificonfigwidgetbase#11,Use hardware defau&lt MAC address,Naudoti aparatūros numaty&tajį MAC adresą
+wificonfigwidgetbase#12,Alt+L,Alt+T
+wificonfigwidgetbase#13,Custom MAC address,Nurodytas MAC adresas
+wificonfigwidgetbase#14,Info,Informacija
+wificonfigwidgetbase#15,Configuration info,Konfigūracijos informacija
+wificonfigwidgetbase#16,Mac/Ether:,Mac/Eter:
+wificonfigwidgetbase#17,Gateway:,Vartai:
+wificonfigwidgetbase#18,IPv6:,IPv6:
+wificonfigwidgetbase#19,Status:,Būsena:
+wificonfigwidgetbase#20,Media:,Laikmena:
+wificonfigwidgetbase#21,Traffic info,Duomenų srauto informacija
+wificonfigwidgetbase#22,Packets:,Paketai:
+wificonfigwidgetbase#23,Errors:,Klaidos:
+wificonfigwidgetbase#24,In:,Įeinantys:
+wificonfigwidgetbase#25,Out:,Išeinantys:
+wificonfigwidgetbase#26,Close,Užverti
+wificonfigwidgetbase#27,Disable this wireless device,Išjungti šį belaidį įrenginį
+wificonfigwidgetbase#28,&Apply,&Pritaikyti
+wificonfigwidgetbase#29,Alt+A,Alt+P
+wificonfigwidgetbase#30,&OK,&Gerai
+wificonfigwidgetbase#31,Alt+O,Alt+G
+wificonfigwidgetbase#32,Missing Fields,Trūkstami laukai
+wificonfigwidgetbase#33,"You must enter an IP and Netmask to continue!
+",Norint tęsti privalote įvesti IP ir tinklo kaukę!
+wificonfigwidgetbase#34,Warning,Įspėjimas
+wificonfigwidgetbase#35,IP Address is out of range! (,IP adresas nepatenka į rėžius! (
+wificonfigwidgetbase#36,) Fields must be between 0-255.,) Laukų reikšmės turi būti intervale 0-255.
+wificonfigwidgetbase#37,Netmask is out of range! (,Tinklo kaukė nepatenka į rėžius! (
+wificonfigwidgetbase#38,Add,Pridėti
+wificonfigwidgetbase#39,Remove,Naikinti
+wificonfigwidgetbase#40,Wireless network profiles,Belaidžio tinklo profiliai
+wificonfigwidgetbase#41,Error,Klaida
+wificonfigwidgetbase#42,"You already have a wireless network with this SSID! Please remove it first.
+","Jūs jau turite belaidį tinklą su šiuo SSID! Prašome jį pašalinti.
+"
+wifiscanssid#1,Scan for Wireless networks,Ieškoti belaidžių tinklų
+wifiscanssid#2,Available wireless networks,Pasiekiami belaidžiai tinklai
+wifiscanssid#3,&Rescan,&Ieškoti iš naujo
+wifiscanssid#4,Alt+R,Alt+I
+wifiscanssid#5,Select,Pažymėti
+wifiscanssid#6,Alt+C,Alt+C
+wifiscanssid#7,Cancel,Atsisakyti
+wifiscanssid#8,Scanning for wireless networks...,Ieškoma belaidžių tinklų...
+wifiscanssid#9,Select a wireless network to connect.,Pasirinkite belaidį tinklą prie kurio norite jungtis.
+wifiscanssid#10,No wireless networks found!,Nerasta jokių belaidžių tinklų!
+wifiscanssid#11,No selection,Nepasirinkta
+wifiscanssid#12,"Error: You must select a network to connect!
+","Klaida: privalote pasirinkti tinklą prie kurio jungsitės!
+"
+wifiselectiondialog#1,Select Wireless Network,Pasirinkite belaidį tinklą
+wifiselectiondialog#2,Alt+C,Alt+C
+wifiselectiondialog#3,Cancel,Atsisakyti
+wifiselectiondialog#4,Selected Wireless Network,Pasirinktas belaidis tinklas
+wifiselectiondialog#5,Scan,Ieškoti
+wifiselectiondialog#6,Using BSSID,Naudoti BSSID
+wifiselectiondialog#7,Security Mode,Saugumo režimas
+wifiselectiondialog#8,Disabled,Išjungtas
+wifiselectiondialog#9,WEP,WEP
+wifiselectiondialog#10,WPA Personal,WPA Personal
+wifiselectiondialog#11,WPA Enterprise,WPA Enterprise
+wifiselectiondialog#12,Configure,Konfigūruoti
+wifiselectiondialog#13,Add,Pridėti
+wifiselectiondialog#14,No SSID!,Nėra SSID!
+wifiselectiondialog#15,"Error: You must select a wireless network to connect!
+","Klaida: norėdami prisijungti privalote pasirinkti belaidį tinklą!
+"
+wifiselectiondialog#16,Invalid BSSID!,Neteisingas BSSID!
+wifiselectiondialog#17,"Error: The specified BSSID appears invalid. It must be in the format xx:xx:xx:xx:xx:xx
+","Klaida: nurodytas BSSID yra neteisingas. Jis turi būti formate xx:xx:xx:xx:xx:xx
+"
+wifiselectiondialog#18,Warning,Įspėjimas
+wifiselectiondialog#19,"WEP is selected, but not configured!
+Please configure your WEP key before saving!","Pasirinktas WEP, tačiau jis nesukonfigūruotas!
+Prieš išsaugant sukonfigūruokite WEP raktą!"
+wifiselectiondialog#20,"WPA-Personal is selected, but not configured!
+Please configure your WPA key before saving!","Pasirinktas WEP-Personal, tačiau jis nesukonfigūruotas!
+Prieš išsaugant sukonfigūruokite WPA raktą!"
+wifiselectiondialog#21,"WPA-Enterprise is selected, but not configured!
+Please configure your WPA settings before saving!","Pasirinktas WEP-Enterprise, tačiau jis nesukonfigūruotas!
+Prašome sukonfigūruoti WPA parametrus prieš išsaugant!"
+wifiselectiondialog#22,WEP (Configured),WEP (sukonfigūruotas)
+wifiselectiondialog#23,WPA Personal (Configured),WPA Personal (sukonfigūruotas)
+wifiselectiondialog#24,WPA Enterprise (Configured),WPA Enterprise (sukonfigūruotas)

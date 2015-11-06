@@ -1,0 +1,103 @@
+comment,original,translation
+NotRoot#1,Root Access Required,Reikalingos administratoriaus teisės
+NotRoot#2,"This program must be run as root. Click the ""Administrator Mode"" button below or restart the program as root.","Ši programa turi būti paleista root naudotojo. Spauskite žemiau esantį ""Administratoriaus veiksena"" mygtuką arba paleiskite iš naujo programą root naudotoju."
+NotRoot#3,Run in Administrator Mode,Administratoriaus veiksena
+PBM#1,PC-BSD Package Manager,PC-BSD paketų tvarkytuvė
+PBM#2,&Remove,&Pašalinti
+PBM#3,Alt+R,Alt+P
+PBM#4,OK,Taip
+PBM#5,Cancel,Atsisakyti
+PBM#6,Error!,Klaida!
+PBM#7,"Error in return of Binary / ProgName / ProgDirName!
+ Please contact PC-BSD developers!","Binary / ProgName / ProgDirName grąžino klaidą!
+ Prašome susisiekti su PC-BSD kūrėjais!"
+PBM#8,"This program must be run as root, through the PB-Manager command!",Ši programa turi būti leidžiama root naudotoju per PB-Tvarkytuvės komandą!
+PBM#9,Error starting custom removal script!,Įvyko klaida paleidžiant adaptuotą pašalinimo scenarijų!
+PBM#10,Installed PBI Software,Įdiegta PBI programinė įranga
+PBM#11,System Components,Sistemos komponentai
+PBM#12,Available system components,Prieinami sistemos komponentai
+PBM#13,&Install,&Įdiegti
+PBM#14,Alt+I,Alt+I
+PBM#15,Install Component?,Įdiegti komponentą?
+PBM#16,Do you want to install ,Ar norite įdiegti 
+PBM#17,Error starting component install!,Įvyko klaida diegiant komponentą!
+PBM#18,Remove Component?,Pašalinti komponentą?
+PBM#19,Do you want to remove ,Ar norite pašalinti 
+PBM#20,Error starting component removal!,Įvyko klaida vykdant komponento šalinimą!
+PBM#21,"Populating list, please wait...","Užpildome sąrašą, prašome palaukti..."
+PBM#22,progDir EMPTY! Please contact PC-BSD developers!,progDir TUŠČIA! Prašome susisiekti su PC-BSD kūrėjais!
+PBM#23,INSTALLED,ĮDIEGTA
+PBM#24,NOT INSTALLED,NEĮDIEGTA
+PBM#25,Install from CD/DVD or from Internet?,Įdiegti iš CD/DVD ar iš interneto?
+PBM#26,Installation Source?,Įdiegimo šaltinis?
+PBM#27,CD/DVD,CD/DVD
+PBM#28,Internet,Internetas
+PBM#29,Insert Media,Įdėkite laikmeną
+PBM#30,Please insert the PC-BSD CD/DVD media and click OK when ready to install.,"Prašome įdėti PC-BSD CD/DVD laikmeną ir paspausti ""Gerai"", kai būsite pasirengę įdiegimui."
+PBM#31,Online Updates,Internetiniai naujiniai
+PBM#32,Available Updates,Galimi naujiniai
+PBM#33,ID,ID
+PBM#34,The following system updates are available:,Šie sistemos naujiniai yra pasiekiami:
+PBM#35,Select All,Pažymėti viską
+PBM#36,View Details,Rodyti išsamiau
+PBM#37,The following PBI updates are available:,Šie PBI naujiniai yra pasiekiami:
+PBM#38,Available Programs,Galimos programos
+PBM#39,Install selected updates,Įdiegti pažymėtus naujinius
+PBM#40,Check for Updates,Ieškoti naujinių
+PBM#41,PBI Manager,PBI tvarkytuvė
+PBM#42,Configuration,Konfigūracija
+PBM#43,Specify custom temp directory for updates,Nurodykite savo laikiną katalogą naujiniams
+PBM#44,Error parsing sysupdate.conf!!!,Įvyko klaida analizuojant sysupdate.conf!!!
+PBM#45,Update Error!,Naujinimo klaida!
+PBM#46,Could not contact the PC-BSD update server! Please check your internet connection or proxy settings under Configuration,Nepavyko susisiekti su PC-BSD naujinimų serveriu! Prašome patikrinti interneto ryšio arba įgaliotojo serverio nustatymus konfigūracijoje.
+PBM#47,Error running updates2 script! ,Įvyko klaida vykdant updates2 scenarijų! 
+PBM#48,The system is fully updated!,Sistema yra visiškai atnaujinta!
+PBM#49,System Updater,Sistemos naujintojas
+PBM#50,ERROR:,KLAIDA:
+PBM#51,Error determining remaining disk space!,Įvyko klaida nustatant likusios disko vietos dydį!
+PBM#52,Pending download,Laukiamas atsiuntimas
+PBM#53,Online Update,Internetinis naujinimas
+PBM#54,One or more updates will require a reboot. You will be prompted to restart after the update is finished.,Vienas ar daugiau naujinimų reikalauja perkrauti sistemą. Po atnaujinimo jums bus pasiūlyta perkrauti sistemą.
+PBM#55,Preparing to install...,Ruošiamasi įdiegti...
+PBM#56,Pending install,Laukiantis diegimas
+PBM#57,Data verify failed... Attempting to re-download...,Nepavyko duomenų patikrinimas... Bandoma siųsti iš naujo...
+PBM#58,Downloading...,Vyksta atsiuntimas...
+PBM#59,Downloading updates...,Siunčiami naujiniai...
+PBM#60,Checking data integrity...,Tikrinamas duomenų vientisumas...
+PBM#61,Error running internal checksum Script! ,Klaida vykdant vidinį kontrolinės sumos scenarijų! 
+PBM#62,An error occured while downloading. Please check your connection or try again later.,Siunčiant įvyko klaida. Patikrinkite interneto ryšį arba bandykite dar kartą vėliau.
+PBM#63,Data verified... Preparing to Install...,Duomenys patikrinti... Ruošiamasi įdiegti...
+PBM#64,Install complete!,Įdiegimas baigtas!
+PBM#65,Updates successfully installed! Your system will need to reboot to finish.,"Naujinimai įdiegti sėkmingai! Kad jie veiktų, reikia perkrauti sistemą."
+PBM#66,Updates successfully installed!,Naujiniai sėkmingai įdiegti!
+PBM#67,Installing,Vyksta diegimas
+PBM#68,Starting installation...,Pradedamas įdiegimas...
+PBM#69,An error occured while extracting. Please try again later.,Išpakuojant duomenis įvyko klaida. Bandykite dar kartą vėliau.
+PBM#70,An error occured while installing. Please try again later.,
+PBM#71,Select Temp directory,Pasirinkite Temp katalogą
+PBM#72,Error,Klaida
+PBM#73,You must select an update to install!,
+PBM#74,The update ',
+PBM#75,\' must be installed by itself. All other items will be unselected.,
+PBM#76,All PBI's are current!,
+PBM#77,"<font color=""#ff0000"">Checking %1 for updates...</font>",
+PBM#78,An error occured while downloading. Please try again later.,
+PBM#79,Failed Download!,
+PBM#80,Download failed... Attempting to re-download...,
+PBM#81,Downloading PBI upgrades...,
+PBM#82,Failed!,Nepavyko!
+PBM#83,Upgrade complete!,
+PBM#84,PBI Upgrades finished!,
+PBM#85,Upgrading,
+PBM#86,Performing PBI upgrades...,
+PBM#87,An error occured while upgrading. Please try again later.,
+PBM#88,Proxy Configuration!,
+PBM#89,You will need to restart the system updater for any proxy changes to take effect!,
+updaterStatus#1,Installing Updates,
+updaterStatus#2,The system is currently installing the following updates:,
+updaterStatus#3,Name,Pavadinimas
+updaterStatus#4,Size,Dydis
+updaterStatus#5,Status,Būsena
+updaterStatus#6,ID,ID
+updaterStatus#7,Version,Versija
+updaterStatus#8, of , iš 

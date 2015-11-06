@@ -1,0 +1,23 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,PC-BSD Прихващане на фатални грешки
+CrashHandler#2,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.","Възникна грешка докато PC-BSD се опитваше да стартира<b>#</b><br><br>
+
+Ако виждате често това съобщение, сигурно има проблем с приложението. За повече информация касаеща тази грешка, натиснете 'Детайли'."
+CrashHandler#3,&Close,За&тваряне
+CrashHandler#4,Alt+C,Alt+C
+CrashHandler#5,&Details...,&Детайли
+CrashHandler#6,Alt+D,Alt+D
+Details#1,Crash Details...,Детайли за фаталната грешка...
+Details#2,Captured from Stderr:,Прихванати от Stderr:
+Details#3,Captured from Stdout:,Прихванати от Stdout:
+Details#4,&Save,&Записване
+Details#5,Alt+S,Alt+S
+Details#6,&Close,За&тваряне
+Details#7,Alt+C,Alt+C
+Details#8,Save file...,Запис във файл...
+Details#9,Overwrite File?,Да презапиша ли файла?
+Details#10,"File already exists, would you like to overwrite it?","Файлът вече съществува, желаете ли да бъде презаписан?"
+Details#11,&Yes,&Да
+Details#12,&No,&Не

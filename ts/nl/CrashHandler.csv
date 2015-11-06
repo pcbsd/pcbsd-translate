@@ -1,0 +1,23 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,PC-BSD Foutopsporing
+CrashHandler#2,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.","PC-BSD is een fout tegen gekomen tijdens het starten van<b>#</b><br><br>
+
+Als u deze foutmelding vaker krijgt, dan is er een probleem met de toepassing. Klik 'Details' voor meer informatie over deze fout."
+CrashHandler#3,&Close,&Sluiten
+CrashHandler#4,Alt+C,Alt+S
+CrashHandler#5,&Details...,&Details
+CrashHandler#6,Alt+D,Alt+D
+Details#1,Crash Details...,Foutdetails...
+Details#2,Captured from Stderr:,Opgevangen uit Stderr:
+Details#3,Captured from Stdout:,Opgevangen uit Stdout:
+Details#4,&Save,&Opslaan
+Details#5,Alt+S,Alt+O
+Details#6,&Close,&Afsluiten
+Details#7,Alt+C,Alt+A
+Details#8,Save file...,Bestand opslaan...
+Details#9,Overwrite File?,Bestand overschrijven?
+Details#10,"File already exists, would you like to overwrite it?","Bestand bestaat reeds, wenst U het te overschrijven?"
+Details#11,&Yes,&Ja
+Details#12,&No,&Nee

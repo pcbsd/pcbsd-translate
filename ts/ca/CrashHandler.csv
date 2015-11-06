@@ -1,0 +1,21 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,Gestor de fallides de PC-BSD
+CrashHandler#2,&Close,&Tancar
+CrashHandler#3,Alt+C,Alt+T
+CrashHandler#4,&Details...,&Detalls...
+CrashHandler#5,Alt+D,Alt+D
+CrashHandler#6,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.",
+Details#1,Crash Details...,Detalls del problema...
+Details#2,Captured from Stderr:,Captura del canal de sortida d'error:
+Details#3,Captured from Stdout:,Captura del canal de sortida estandard:
+Details#4,&Save,&Desar
+Details#5,Alt+S,Alt+D
+Details#6,&Close,&Tancar
+Details#7,Alt+C,Alt+T
+Details#8,Save file...,Desar fitxer...
+Details#9,Overwrite File?,Sobreescriure el fitxer?
+Details#10,"File already exists, would you like to overwrite it?","El fitxer ja existeix, voleu sobreescriure'l?"
+Details#11,&Yes,&Sí
+Details#12,&No,&No

@@ -1,0 +1,124 @@
+comment,original,translation
+ExeDialog#1,Package Executable,Paketo vykdomasis failas
+ExeDialog#2,Executable Icon,Vykdomojo failo piktograma
+ExeDialog#3,Program Name,Programos pavadinimas
+ExeDialog#4,Program Executable,Vykdomasis failas
+ExeDialog#5,Run as root,Vykdyti administratoriaus teisėmis
+ExeDialog#6,Run in shell prompt,Vykdyti komandinėje eilutėje
+ExeDialog#7,&Save,Iš&saugoti
+ExeDialog#8,Alt+S,Alt+S
+ExeDialog#9,&Cancel,&Atsisakyti
+ExeDialog#10,Alt+C,Alt+C
+ExeDialog#11,No desktop icon,Be darbalaukio piktogramos
+ExeDialog#12,Icon Files,Piktogramos failai
+ExeDialog#13,Choose an Icon,Pasirinkite piktogramą
+ExeDialog#14,Select Executable,Pasirinkite vykdomąjį failą
+ExeDialog#15,Startup notify,Priminimas paleidžiant
+ExeDialog#16,Open as a link (Local documents),Atverti kaip nuorodą (vietiniai dokumentai)
+ExeDialog#17,Open as a web link (http:// or ftp://),Atverti kaip interneto nuorodą (http:// arba ftp://)
+ExeDialog#18,No Kmenu icon,Be Kmenu piktogramos
+ExeDialog#19,Development,Programavimas
+ExeDialog#20,Editors,Rengyklės
+ExeDialog#21,Edutainment,Švietimas
+ExeDialog#22,Graphics,Grafika
+ExeDialog#23,Internet,Internetas
+ExeDialog#24,Multimedia,Garsas ir vaizdas
+ExeDialog#25,Office,Biuras
+ExeDialog#26,System,Sistema
+ExeDialog#27,Toys,Pramogos
+ExeDialog#28,Taskbar Icon,Užduočių juostos piktograma
+ExeDialog#29,Kmenu Icon Placement,Kmenu piktogramos vieta
+ExeDialog#30,Create sub-directory in KDE Kmenu directory selected below,Sukurti pakatalogį pasirinktame KDE Kmenu kataloge
+ExeDialog#31,Insert icon directly into KDE Kmenu directory selected below,Įterpti piktogramą tiesiai į pasirinktą KDE Kmenu katalogą
+ExeDialog#32,Create top-level Kmenu program directory,Sukurti aukščiausio lygio Kmenu programos katalogą
+ExeDialog#33,Games,Žaidimai
+ExeDialog#34,Games/Arcade,Žaidimai/Arkada
+ExeDialog#35,Games/Board,Žaidimai/Stalo
+ExeDialog#36,Games/Card,Žaidimai/Kortų
+ExeDialog#37,Games/Kidsgames,Žaidimai/Vaikiški
+ExeDialog#38,Games/TacticStrategy,Žaidimai/TaktikaStrategija
+ExeDialog#39,Utillities,Sistemos programos
+MimeDialog#1,Add a MIME Type,Pridėti MIME tipą
+MimeDialog#2,File Icon,Failo piktograma
+MimeDialog#3,File Extensions,Failo plėtiniai
+MimeDialog#4,Example (*.html; *.htm ),Pavyzdžiui (*.html; *.htm)
+MimeDialog#5,Open with program,Atverti su programa
+MimeDialog#6,&Cancel,&Atsisakyti
+MimeDialog#7,Alt+C,Alt+A
+MimeDialog#8,&Save,Iš&saugoti
+MimeDialog#9,Alt+S,Alt+S
+MimeDialog#10,Icon Files,Piktogramų failai
+MimeDialog#11,Choose an Icon,Pasirinkite piktogramą
+PBCwizard#1,PC-BSD Package Creator,PC-BSD paketų kūrėjas
+PBCwizard#2,Package Info,Paketo informacija
+PBCwizard#3,Package Name:,Paketo pavadinimas:
+PBCwizard#4,Author:,Autorius:
+PBCwizard#5,Website:,Svetainė:
+PBCwizard#6,Package Version:,Paketo versija:
+PBCwizard#7,License Text,Licencijos tekstas
+PBCwizard#8,"If ""Display License"" is set to ""Yes"", then during the installation, the software will require the user to accept the license agreement before going further. Setting this to ""No"" will simply skip the license screen, and continue on with installation. ","Jei ""Rodyti licenciją"" nustatyta ""Taip"", tai diegimo metu programinė įranga paprašys vartotojo sutikti su licencijos sąlygomis. Jei pasirinksite ""Ne"", tai licencijos ekranas diegimo metu nebus rodomas. "
+PBCwizard#9,Display License,Rodyti licenciją
+PBCwizard#10,No,Ne
+PBCwizard#11,Yes,Taip
+PBCwizard#12,Directory,Katalogas
+PBCwizard#13,Package Directory,Paketo katalogas
+PBCwizard#14,Library Support,Bibliotekų palaikymas
+PBCwizard#15,Specify library directory,Nurodykite bibliotekų katalogą
+PBCwizard#16,Do not include library directory,Neįdėti bibliotekų katalogo
+PBCwizard#17,Auto populate library directory,Automatiškai užpildyti bibliotekų katalogą
+PBCwizard#18,Package Options,Paketo nustatymai
+PBCwizard#19,"<font>Next you need to set a default icon for your program, which will be used for the KDE interface. <br><br>
+Program Executables are the files you wish to show up as icons on the desktop, or in the ""K"" menu. At least one executable must be added, but if your program has multiple binaries, you may add more.</font>","<font>Dabar jūs turite nurodyti programos numatytąją piktogramą, kuri bus naudojama KDE vartotojo sąsajoje. <br><br>
+Programos vykdomieji failai tai tie failai, kurie rodomi piktogramomis darbalaukyje arba ""K"" meniu. Bent vienas vykdomasis failas turi būti pridėtas, bet jei jūsų programa sudaryta iš daugiau vykdomųjų failų - galite pridėti ir kelis."
+PBCwizard#20,Package Executables,Paketo vykdomieji failai
+PBCwizard#21,Remove,Pašalinti
+PBCwizard#22,Edit,Taisyti
+PBCwizard#23,Add,Pridėti
+PBCwizard#24,Default Program Icon,Numatytoji programos piktograma
+PBCwizard#25,Register MIME Types,Užregistruoti MIME tipus
+PBCwizard#26,"<font>Some programs need to register file-types to function fully. You may specifiy up to 100 file extensions and the programs they are opened with.<br>
+<br>
+If you do not wish to register any file-types, you can safely ignore this section, and click next. </font>","<font>Kai kurioms programoms reikia užregistruoti failų tipus, kad jos veiktų pilnai. Jūs galite nurodyti iki 100 failo plėtinių ir programų, su kuriomis jie bus atveriami.<br>
+<br>
+Jei nenorite registruoti failų tipų, galite saugiai praleisti šį žingsnį ir pasirinktį kitą. </font>"
+PBCwizard#27,Mime Types,MIME tipai
+PBCwizard#28,Creating Package,Paketo kūrimas
+PBCwizard#29,"<p align=""center"">Creating Package</p>","<p align=""center"">Paketo kūrimas</p>"
+PBCwizard#30,Choose a directory,Pasirinkite katalogą
+PBCwizard#31,Icon Files,Piktogramų failai
+PBCwizard#32,Choose an Icon,Pasirinkite piktogramą
+PBCwizard#33,PBI Version:,PBI versija:
+PBCwizard#34,Load saved preset,Užkrauti išsaugotas paketo parinktis
+PBCwizard#35,"Your software package is now being created! Please wait, this may take a few moments, depending on the size of your package.
+
+In addition, you may also save a ""preset"" file, which may be loaded in the package creator for modification. ","Šiuo metu kuriame jūsų paketą! Prašome palaukti, priklausomai nuo paketo dydžio, tai gali šiek tiek užtrukti.
+
+Be to, jūs galite išsaugoti paketo kūrimo parinktis, kurias galėsite užkrauti vėliau, norėdami pataisyti paketą. "
+PBCwizard#36,Save preset,Išsaugoti paketo parinktis
+PBCwizard#37,Invalid Fle,Klaidingas failas
+PBCwizard#38,"Error, this .pbc file is corrupt, or for the wrong version of Package Creator.","Klaida, šis .pcb failas yra sugadintas, arba skirtas kitai paketų kurėjo versijai."
+PBCwizard#39,Update URL:,Naujinimo svetainė:
+PBCwizard#40,Edit Firstrun Script,Taisyti pirmo paleidimo scenarijų
+PBCwizard#41,Edit Setup Script,Taisyti įdiegimo scenarijų
+PBCwizard#42,Edit Remove Script,Taisyti pašalinimo scenarijų
+PBCwizard#43,"<font>Specify the program directory you wish to include, then choose an option for library files.  You will need to choose an option for your libraries also. We recommend to use the ""Auto"" option, as this will include the necessary libraries for your program to operate on a variety of systems. <br><br>
+WARNING: Not including a library directory may render this program inoperable on systems without the required libraries.<br><br>You may also edit your initial FirstRun script, and Setup / Remove Scripts here. </font>","<font>Nurodykite programos katalogą, kurį norite pridėti, tada pasirinkite bibliotekų failų nustatymą.  Jums taip pat reikės nurodyti ir savo bibliotekų nustatymą. Rekomenduojame naudoti ""Automatinį"" režimą, kuris surinks visas jūsų programai reikalingas bibliotekas. <br><br>
+ĮSPĖJIMAS: neįtraukus bibliotekų katalogo programa gali neveikti sistemose be reikiamų bibliotekų.<br><br>Čia galite taisyti pirmo paleidimo, įdiegimo ir pašalinimo scenarijus.</font>"
+PBCwizard#44,"This information will be used during the installation, as well as in the package manager for administration. 
+
+If you have a preset file, you may load it below. 
+
+If you wish to run an ""update"" service for this PBI, enter the full URL for version check script. Please see the README for more information. 
+
+","Ši informacija bus naudojama diegimo metu, taip pat ir paketų tvarkyklėje. 
+
+Žemiau galite užkrauti nustatymų failą, jei jį išsaugojote. 
+
+Jei norite paleisti ""atnaujinimo"" paslaugą šiam PBI, įveskite pilną interneto adresą versijos tikrinimo scenarijui. Daugiau informacijos ieškokite README faile. 
+
+"
+PBCwizard#45,PBI Creator 4,PBI kūrėjas 4
+PBCwizard#46,Creating PBI file...,Kuriamas PBI failas...
+PBCwizard#47,Unable to write preset file to ',Nepavyko išsaugoti nustatymų į '
+PBCwizard#48,"\'. Check the location exists, and is writeable.","\'. Patikrinkite, ar nurodyta vieta egzistuoja ir turi leidimą rašymui."
+PBCwizard#49,Unable to save preset,Nepavyko išsaugoti nustatymų.

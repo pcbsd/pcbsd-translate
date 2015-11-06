@@ -1,0 +1,91 @@
+comment,original,translation
+CVSUpProgress#1,Please wait...,Prašome palaukti...
+CVSUpProgress#2,&Cancel,A&tsisakyti
+CVSUpProgress#3,&Close,&Užverti
+CVSUpProgress#4,CSup Progress,CSup eiga
+CVSUpProgress#5,&Start,&Pradėti
+CVSUpProgress#6,&Find Fastest...,&Rasti greičiausią...
+CVSUpProgress#7,Alt+F,Alt+R
+CVSUpProgress#8,Parts of sourcecode to download:,Pradinio kodo dalys parsisiuntimui:
+CVSUpProgress#9,Selected CVSup server: ,Parinktas CVSup serveris: 
+CVSUpProgress#10,Unable to open file,Nepavyko atverti failo
+CVSUpProgress#11,Error,Klaida
+CVSUpProgress#12,Unable to execute command,Nepavyko įvykdyti komandos
+CVSUpProgress#13,"CVSup server not set. To set your CVSup server, please click the 'Find Fastest...' button and follow the instructions.
+
+Alternatively, the CVSup server for this operation may be set manually from the following file","Nenurodytas CVSup serveris. CVSup serverio parinkimui, spauskite ""Rasti greičiausią"" ir sekite nurodymus.
+
+Taip pat CVSup serverį galima nurodyti ir rankiniu būdų iš šio failo"
+CVSUpProgress#14,Please set CVSup server before proceeding,"Prieš tęsiant, prašome nurodyti CVSup serverį"
+CVSUpProgress#15,"PC-BSD has detected the fastest server to be:
+","PC-BSD nustatė, kad greičiausias serveris yra šis:
+"
+CVSUpProgress#16,"
+
+Would you like to use this server in future?","
+
+Ar norėtumėte naudoti šį serverį ir ateityje?"
+CVSUpProgress#17,Confirm server selection,Patvirtinkite serverio pasirinkimą
+CVSUpProgress#18,Alt+S,Alt+P
+FastestCvsup#1,Change CVSup server,Pakeisti CVSup serverį
+FastestCvsup#2,All,Visi
+FastestCvsup#3,&Start,&Pradėti
+FastestCvsup#4,"Unable to reach any server. This could be because all selected servers are down, or because your internet connection is improperly configured.
+
+You may wish to try testing other servers.","Nepavyko prisijungti nei prie vieno iš serverių. Arba visi serveriai neveikia, arba jūsų interneto ryšys neteisingai sukonfigūruotas.
+
+Galite pabandyti prisijungti prie kitų serverių."
+FastestCvsup#5,Error,Klaida
+FastestCvsup#6,Alt+S,Alt+P
+FastestCvsup#7,"This dialog will detect the fastest CVSup server for your location. Detection may take several minutes if all countries are selected. To narrow down the search, and speed up detection, please unselect 'All' below, and select your country, and a couple of its neighbours from the list below.","Šis dialogo langas nustatys, kuris CVSup serveris yra greičiausias. Tai gali užtrukti kelias minutes, jei pasirinktos visos šalys. Proceso pagreitinimui rekomenduojame panaikinti žymėjimą nuo ""Visos"" ir iš sąrašo žemiau pasirinkti savo šalį bei kelias kaimynes."
+FastestCvsup#8,Please wait whilst PC-BSD attempts to find the fastest CVSup server available for your location.,"Palaukite, kol PC-BSD pabandys surasti greičiausią CVSup serverį."
+FastestCvsup#9,&Cancel,A&tsisakyti
+FastestCvsup#10,Alt+C,Alt+T
+NotRoot#1,Root Access Required,Reikalingas prisijungimas administratoriaus teisėmis
+NotRoot#2,"This program must be run as root. Click the ""Administrator Mode"" button below or restart the program as root.","Šią programą reikia vykdyti administratoriaus teisėmis. Spauskite mygtuką ""Administratoriaus veiksena"" arba paleiskite programą iš naujo kaip root naudotojas."
+NotRoot#3,Run in Administrator Mode,Administratoriaus veiksena
+PBSystemTab#1,PC-BSD System Configuration,PC-BSD sistemos konfigūracija
+PBSystemTab#2,&Close,&Užverti
+PBSystemTab#3,Alt+C,Alt+U
+PBSystemTab#4,General,Bendri
+PBSystemTab#5,Generate,Generuoti
+PBSystemTab#6,PC-BSD Version:,PC-BSD versija:
+PBSystemTab#7,Base Version:,Pagrindinė versija:
+PBSystemTab#8,"You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicans for troubleshooting purposes.","Jūs taip pat galite sukurti diagnostikos lapą, su informacija apie jūsų sistemą. Šis lapas gali būti naudinga specialistams sprendžiant problemas."
+PBSystemTab#9,Kernel,Branduolys
+PBSystemTab#10,Selected PC-BSD Kernel,Pasirinktas PC-BSD branduolys
+PBSystemTab#11,Enable ATAPI DMA Mode,Įjungti ATAPI DMA režimą
+PBSystemTab#12,Off,Išjungtas
+PBSystemTab#13,"<font size=""-1""><font color=""#ff0000"">Warning!!! Changing the booted kernel can be dangerous. Use at your own risk!</font></font>","<font size=""-1""><font color=""#ff0000"">Įspėjimas!!! Pakrauto branduolio pakeitimas gali būti pavojingas. Už riziką atsakingi jūs patys!</font></font>"
+PBSystemTab#14,Boot delay (seconds),Paleidimo delsa (sekundėmis)
+PBSystemTab#15,Alt+S,Alt+I
+PBSystemTab#16,Kernel Options,Branduolio nuostatos
+PBSystemTab#17,Tasks,Užduotys
+PBSystemTab#18,Fetch &System Source,Atsiųsti sistemos p&irminius tekstus
+PBSystemTab#19,Portsnap,Portsnap
+PBSystemTab#20,Fetch &Ports,Atsiųsti &portus
+PBSystemTab#21,Alt+P,Alt+P
+PBSystemTab#22,System Source,Sistemos pirminiai tekstai
+PBSystemTab#23,CPU Type:,Procesoriaus tipas:
+PBSystemTab#24,System Memory:,Sistemos atmintis:
+PBSystemTab#25,CSup,CSup
+PBSystemTab#26,Misc,Įvairūs
+PBSystemTab#27,Boot Screen,Įkrovos ekranas
+PBSystemTab#28,S&how splash image on boot,&Rodyti prisistatymo langą įkrovos metu
+PBSystemTab#29,Alt+H,Alt+R
+PBSystemTab#30,&Custom...,&Savadarbis...
+PBSystemTab#31,Invalid Image,Klaidingas paveikslas
+PBSystemTab#32,The file supplied does not appear to be a valid PCX image.,Šis failas nėra tinkamas PCX paveikslas.
+PBSystemTab#33,"The splash screen image cannot be any larger than 1024x768, or any greater than 8-bit (256 colours) depth.",Įkrovos ekrano paveikslas negali būti didesnis nei 1024x768 ir negali turėti daugiau nei 256 spalvų (8-bit).
+PBSystemTab#34,Custom,Savadarbis
+PortsnapProgress#1,Portsnap Progress,Porstnap eiga
+PortsnapProgress#2,Total Progress,Bendra eiga
+PortsnapProgress#3,&Cancel,A&tsisakyti
+PortsnapProgress#4,Alt+C,Alt+T
+PortsnapProgress#5,Task Progress...,Užduoties eiga...
+PortsnapProgress#6,Update Failed!,Naujinimas nepavyko!
+PortsnapProgress#7,"Unable to connect to server. Possible causes:
+- Your network is down
+- Target server is unresponsive.","Nepavyko prisijungti prie serverio. Galimos priežastys:
+- nėra ryšio su internetu
+- paskirties serveris neatsiliepia."

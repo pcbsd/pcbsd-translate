@@ -1,0 +1,20 @@
+comment,original,translation
+NotRoot#1,Root Access Required,Reikalingos administratoriaus teisės
+NotRoot#2,"This program must be run as root. Click the ""Administrator Mode"" button below or restart the program as root.","Ši programa turi būti paleista root naudotojo. Spauskite žemiau esantį ""Administratoriaus veiksena"" mygtuką arba paleiskite iš naujo programą root naudotoju."
+NotRoot#3,Run in Administrator Mode,Administratoriaus veiksena
+ServiceManager#1,Service Manager,Tarnybų tvarkytuvė
+ServiceManager#2,The following services are setup on this system. You may enable / disable them below.,Nurodytos tarnybos yra įdiegtos šioje sistemoje. Galite išjungti / įjungti jas žemiau.
+ServiceManager#3,Service Name,Tarnybos pavadinimas
+ServiceManager#4,Status,Būsena
+ServiceManager#5,Enabled at Startup,Veiksnus paleidžiant sistemą
+ServiceManager#6,Description,Aprašymas
+ServiceManager#7,Start,Paleisti
+ServiceManager#8,Stop,Stabdyti
+ServiceManager#9,Restart,Paleisti iš naujo
+ServiceManager#10,Enable Startup,Įjungti automatinį paleidimą
+ServiceManager#11,Disable Startup,Išjungti automatinį paleidimą
+ServiceManager#12,Running,Paleistas
+ServiceManager#13,Stopped,Sustabdytas
+ServiceManager#14,Startup Enabled,Automatinis paleidimas įjungtas
+ServiceManager#15,Startup Disabled,Automatinis paleidimas išjungtas
+ServiceManager#16,Please Wait...,Prašome palaukti...

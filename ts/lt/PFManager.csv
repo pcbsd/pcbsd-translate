@@ -1,0 +1,46 @@
+comment,original,translation
+AddDlg#1,Add a port,Įdėti jungtį
+AddDlg#2,Add,Pridėti
+AddDlg#3,Service:,Tarnyba:
+AddDlg#4,Policy:,Politika:
+AddDlg#5,Protocol:,Protokolas:
+AddDlg#6,Block,Blokuoti
+AddDlg#7,Allow,Leisti
+AddDlg#8,Interface:,Sąsaja:
+AddDlg#9,Port:,Jungtis:
+AddDlg#10,Direction:,Kryptis:
+AddDlg#11,Ok,Gerai
+AddDlg#12,Cancel,Atsisakyti
+MainDialog#1,Firewall Manager,Užkardos tvarkytuvė
+MainDialog#2,General,Bendri
+MainDialog#3,General settings,Bendros nuostatos
+MainDialog#4,Enable Firewall on startup,Automatiškai įjungti užkardą
+MainDialog#5,Firewall,Užkarda
+MainDialog#6,Start,Paleisti
+MainDialog#7,Restart,Paleisti iš naujo
+MainDialog#8,Stop,Stabdyti
+MainDialog#9,Configuration,Konfigūracija
+MainDialog#10,Restore default configuration,Atstatyti numatytą konfigūraciją
+MainDialog#11,Exceptions,Išimtinės situacijos
+MainDialog#12,Add entry,Įdėti įrašą
+MainDialog#13,Service,Tarnyba
+MainDialog#14,Port,Jungtis
+MainDialog#15,Policy,Politika
+MainDialog#16,Interface,Sąsaja
+MainDialog#17,Edit entry,Taisyti įrašą
+MainDialog#18,Delete entry,Šalinti įrašą
+NotRoot#1,Root Access Required,Reikalingos administratoriaus teisės
+NotRoot#2,"This program must be run as root. Click the ""Administrator Mode"" button below or restart the program as root.","Ši programa turi būti paleista root naudotojo. Spauskite žemiau esantį ""Administratoriaus veiksena"" mygtuką arba paleiskite iš naujo programą root naudotoju."
+NotRoot#3,Run in Administrator Mode,Administratoriaus veiksena
+PFAddDlg#1,incoming,gaunamas
+PFAddDlg#2,outgoing,išsiunčiamas
+PFAddDlg#3,TCP,TCP
+PFAddDlg#4,UDP,UDP
+PFManagerDlg#1,"This will turn off the firewall completly.
+Are you sure?","Užkarda bus išjungta.
+Ar tikrai to norite?"
+PFManagerDlg#2,Question,Klausimas
+PFManagerDlg#3,Restored.,Atkurtas.
+PFManagerDlg#4,Config file successfuly restored.,Nustatymų failas atkurtas sėkmingai.
+RcConfig#1,Error opening the specified rc.conf file.,Įvyko klaida atveriant nurodytą rc.conf failą.
+services#1,Unknown,Nežinomas

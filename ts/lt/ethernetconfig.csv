@@ -1,0 +1,46 @@
+comment,original,translation
+ethernetconfig#1,Network Configuration,Tinklo konfigūracija
+ethernetconfig#2,&OK,&Gerai
+ethernetconfig#3,Alt+O,Alt+G
+ethernetconfig#4,&Apply,Prit&aikyti
+ethernetconfig#5,Alt+A,Alt+A
+ethernetconfig#6,&Close,&Užverti
+ethernetconfig#7,Alt+C,Alt+U
+ethernetconfig#8,Disable this networ&k device,Išjungti šį tin&klo įrenginį
+ethernetconfig#9,Alt+K,Alt+K
+ethernetconfig#10,&General,&Bendri
+ethernetconfig#11,Obtain IP automaticall&y (DHCP),Aut&omatiškai gauti IP (DHCP)
+ethernetconfig#12,Alt+Y,Alt+O
+ethernetconfig#13,Network address configuration,Tinklinio adreso konfigūracija
+ethernetconfig#14,Assign static IP address,Priskirti statinį IP adresą
+ethernetconfig#15,Netmask:,Tinklo kaukė:
+ethernetconfig#16,IP:,IP:
+ethernetconfig#17,999\.999\.999\.999; ,999\.999\.999\.999; 
+ethernetconfig#18,Advanced,Sudėtingesni
+ethernetconfig#19,Use hardware defau&lt MAC address,Naudoti numaty&tajį aparatūrinį MAC adresą
+ethernetconfig#20,Alt+L,Alt+T
+ethernetconfig#21,Custom MAC address,Nurodytas MAC adresas
+ethernetconfig#22,IPv6 static address,IPv6 statinis adresas
+ethernetconfig#23,Address:,Adresas:
+ethernetconfig#24,Obtain IPv6 address automaticall&y,Automatiška&i gauti IPv6 adresą
+ethernetconfig#25,I&nfo,I&nformacija
+ethernetconfig#26,Configuration info,Konfigūracijos informacija
+ethernetconfig#27,Gateway:,Vartai:
+ethernetconfig#28,IPv6:,IPv6:
+ethernetconfig#29,Mac:,Mac:
+ethernetconfig#30,Media:,Laikmena:
+ethernetconfig#31,Status:,Būsena:
+ethernetconfig#32,Traffic info,Duomenų srauto informacija
+ethernetconfig#33,Packets:,Paketai:
+ethernetconfig#34,Errors:,Klaidos:
+ethernetconfig#35,In:,Įeinantys:
+ethernetconfig#36,Out:,Išeinantys:
+ethernetconfig#37,Missing Fields,Neužpildyti laukai
+ethernetconfig#38,"You must enter an IP and Netmask to continue!
+","Norint tęsti reikia įvesti IP adresą ir tinklo kaukę!
+"
+ethernetconfig#39,Warning,Įspėjimas
+ethernetconfig#40,IP Address is out of range! (,IP adresas nepatenka į rėžius! (
+ethernetconfig#41,) Fields must be between 0-255.,) Laukų reikšmės turi būti intervale 0-255.
+ethernetconfig#42,Netmask is out of range! (,Tinklo kaukė nepatenka į rėžius! (
+ethernetconfig#43,configuration,konfigūracija

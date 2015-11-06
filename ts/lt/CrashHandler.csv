@@ -1,0 +1,23 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,PC-BSD Strigties Apdorotojas
+CrashHandler#2,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.","PC-BSD aptiko klaidą bandant paleisti <b>#</b><br><br>
+
+Jei jūs dažnai matote šį pranešimą, vadinasi su šia programa yra problemų. Norėdami sužinoti daugiau apie šią klaidą, paspauskite 'Išsamiau'."
+CrashHandler#3,&Close,&Užverti
+CrashHandler#4,Alt+C,Alt+U
+CrashHandler#5,&Details...,&Išsamiau...
+CrashHandler#6,Alt+D,Alt+I
+Details#1,Crash Details...,Strigties detalės...
+Details#2,Captured from Stderr:,Sugauta iš Stderr:
+Details#3,Captured from Stdout:,Sugauta iš Stdout:
+Details#4,&Save,&Išsaugoti
+Details#5,Alt+S,Alt+I
+Details#6,&Close,&Užverti
+Details#7,Alt+C,Alt+U
+Details#8,Save file...,Išsaugoti failą...
+Details#9,Overwrite File?,Pakeisti failą?
+Details#10,"File already exists, would you like to overwrite it?","Failas jau egzistuoja, ar norite jį pakeisti?"
+Details#11,&Yes,&Taip
+Details#12,&No,&Ne

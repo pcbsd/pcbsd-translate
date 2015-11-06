@@ -1,0 +1,21 @@
+comment,original,translation
+CrashHandler#1,PC-BSD Crash Handler,
+CrashHandler#2,"PC-BSD encountered an error while trying to start <b>#</b><br><br>
+
+If you often see this message, there is a problem with this application. For more information on this error, click 'Details'.",
+CrashHandler#3,&Close,Close
+CrashHandler#4,Alt+C,
+CrashHandler#5,&Details...,
+CrashHandler#6,Alt+D,
+Details#1,Crash Details...,
+Details#2,Captured from Stderr:,
+Details#3,Captured from Stdout:,
+Details#4,&Save,
+Details#5,Alt+S,
+Details#6,&Close,
+Details#7,Alt+C,
+Details#8,Save file...,
+Details#9,Overwrite File?,
+Details#10,"File already exists, would you like to overwrite it?",
+Details#11,&Yes,
+Details#12,&No,

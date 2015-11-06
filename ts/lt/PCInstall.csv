@@ -1,0 +1,269 @@
+comment,original,translation
+AddPartitionDialog#1,Add Partition,Pridėti skaidinį
+AddPartitionDialog#2,Mount Point:,Prijungimo vieta:
+AddPartitionDialog#3,Please select the size you wish to allocate to this partition:,Prašome pasirinkti norimą skaidinio dydį:
+AddPartitionDialog#4,MB available,Laisvi MB
+AddPartitionDialog#5,&Cancel,A&tsisakyti
+AddPartitionDialog#6,Alt+C,Alt+T
+AddPartitionDialog#7,/,/
+AddPartitionDialog#8,&Save,&Išsaugoti
+AddPartitionDialog#9,Alt+S,Alt+I
+EditNetworkDialog#1,Network Settings,Tinklo nuostatos
+EditNetworkDialog#2,000.000.000.000; ,000.000.000.000; 
+EditNetworkDialog#3,IP Address,IP adresas
+EditNetworkDialog#4,Netmask,Tinklo kaukė
+EditNetworkDialog#5,Gateway,Vartai
+EditNetworkDialog#6,Use DHCP,Naudoti DHCP
+EditNetworkDialog#7,Manual Setup,Rankinis nustatymas
+EditNetworkDialog#8,Network Card Configuration,Tinklo plokštės konfigūracija
+EditNetworkDialog#9,"Please select your network device above, and then choose DHCP or enter a manual IP address.",Prašome nurodyti savo tinklo įrenginį viršuje ir tada pasirinkti DHCP arba įvesti IP adresą.
+EditNetworkDialog#10,Confirm,Patvirtinti
+EditNetworkDialog#11,Cancel,Atsisakyti
+PCInstall#1,PC-BSD Install,PC-BSD diegimas
+PCInstall#2,Select Language and Keyboard,Pasirinkite kalbą ir klaviatūros išdėstymą
+PCInstall#3,Install or Update,Diegti ar naujinti
+PCInstall#4,Installation Type,Diegimo tipas
+PCInstall#5,License,Licencija
+PCInstall#6,Disk Selection,Disko parinkimas
+PCInstall#7,Start Basic Install,Pradėti pagrindinį diegimą
+PCInstall#8,Advanced Disk Setup,Sudėtingesnė disko sąranka
+PCInstall#9,Installing PC-BSD,Diegiamas PC-BSD
+PCInstall#10,Installation Finished!,Diegimas baigtas!
+PCInstall#11,Quick Tips,Patarimai
+PCInstall#12,Fresh Install,Naujas diegimas
+PCInstall#13,License Agreement,Licencijos patvirtinimas
+PCInstall#14,I agree,Aš sutinku
+PCInstall#15,User Accounts,Naudotojų paskyros
+PCInstall#16,Remove,Pašalinti
+PCInstall#17,Edit,Taisyti
+PCInstall#18,Add,Pridėti
+PCInstall#19,Timezone,Laiko juosta
+PCInstall#20,Detected Hard Drives,Aptikti standieji diskai
+PCInstall#21,Partition Selection,Skaidinio parinkimas
+PCInstall#22,Use entire disk,Naudoti visą diską
+PCInstall#23,x of x available MB,x iš x laisvų MB
+PCInstall#24,Install Progress,Diegimo eiga
+PCInstall#25,PC-BSD is now installing on your system. Please wait... The installer will continue when finished.,PC-BSD dabar yra diegiama į jūsų kompiuterį. Prašome palaukti... Pabaigus diegimo programa pratęs darbą.
+PCInstall#26,Select Update Partition,Pasirinkite naujinimo skaidinį
+PCInstall#27,Next,Toliau
+PCInstall#28,Back,Atgal
+PCInstall#29,Finish,Baigti
+PCInstall#30,System Language,Sistemos kalba
+PCInstall#31,Exit Confirmation,Išėjimo patvirtinimas
+PCInstall#32,Are you sure you want to quit? The system will be rebooted!,Ar Jūs tikrai norite baigti? Sistema bus perkrauta!
+PCInstall#33,OK,Gerai
+PCInstall#34,Use Encrypted Swap Space,Naudoti šifruotą sukeitimų failą
+PCInstall#35,Running fdisk on /dev/,Paleidžiamas fdisk dirbti su /dev/
+PCInstall#36,Running fdisk on ,Paleidžiamas fdisk dirbti su 
+PCInstall#37,Writing BSD Label to ,Rašoma BSD žymė į 
+PCInstall#38,Running newfs on ,Paleidžiamas newfs dirbti su 
+PCInstall#39,Mounting drive ,Prijungiamas diskas 
+PCInstall#40,CD Mount Error,CD prijungimo klaida
+PCInstall#41,PCBSD Installer,PCBSD diegimo programa
+PCInstall#42,Retry,Pakartoti
+PCInstall#43,Quit,Baigti
+PCInstall#44,Failed Starting AddUserProc,Nepavyko paleisti AddUserProc
+PCInstall#45,Failed Starting SystemConfig,Nepavyko paleisti SystemConfig
+PCInstall#46,MB available out of ,MB laisvų iš 
+PCInstall#47,MB,MB
+PCInstall#48,Device,Įrenginys
+PCInstall#49,Mount,Prijungti
+PCInstall#50,Size,Dydis
+PCInstall#51,Type,Tipas
+PCInstall#52,Add Partition,Pridėti skaidinį
+PCInstall#53,Please select the size you wish to use for this new partition.,Prašome pasirinkti norimą dydį šiam naujam skaidiniui.
+PCInstall#54,Editing Partition,Redaguojamas skaidinys
+PCInstall#55,DiskLabel Error:,DiskLabel klaida:
+PCInstall#56,You cannot remove the '/' partition. ,Jūs negalite pašalinti '/' skaidinio. 
+PCInstall#57,You cannot remove the 'SWAP' partition. ,Jūs negalite pašalinti 'SWAP' skaidinio. 
+PCInstall#58,Error!,Klaida!
+PCInstall#59,You already have a partition setup for this mount point!,Jūs jau pasirinkote prijungimo vietą šiam skaidiniui!
+PCInstall#60,Max Partitions:,Daugiausiai skaidinių:
+PCInstall#61,You exceeded the max number of partitions.,Jūs viršijote maksimalų skaidinių skaičių.
+PCInstall#62,Please select the size you wish to allocate to this mount,Prašome pasirinkti norimą skirti dydį šiai prijungimo vietai
+PCInstall#63,System Update / Repair,Sistemos naujinimas / taisymas
+PCInstall#64,Disk Partition Setup,Disko skaidinių nuostatos
+PCInstall#65,Failed Starting TimeZone.sh,Nepavyko paleisti TimeZone.sh
+PCInstall#66,No existing PC-BSD partitions detected!,Neaptikta egzistuojančių PC-BSD skaidinių!
+PCInstall#67,Customize Disk Partitions,Tinkinti disko skaidinius
+PCInstall#68,Error: PC-BSD needs a partition with at least 4GB of space.,Klaida: PC-BSD skaidiniui reikia mažiausiai 4GB vietos.
+PCInstall#69,Mounting CD...,Prijungiamas CD...
+PCInstall#70,Setting up Users...,Sukuriami naudotojai...
+PCInstall#71,Running System config...,Leidžiamas sistemos konfigūravimas...
+PCInstall#72,Setting up Timezone...,Derinama laiko juosta...
+PCInstall#73,Insert CD #2,Įdėkite CD #2
+PCInstall#74,Insert CD #2 and click OK to continue. ,Įdėkite CD #2 ir spauskite Gerai norėdami tęsti. 
+PCInstall#75,Mounting CD #2...,Prijungiamas CD #2...
+PCInstall#76,Unmounting CD #1...,Atjungiamas CD #1...
+PCInstall#77,Copying ,Kopijuojama 
+PCInstall#78,Installing ,Įdiegiama 
+PCInstall#79,Install the PC-BSD bootloader,Įdiegti PC-BSD paleidyklę
+PCInstall#80,License agreement,Licencijos patvirtinimas
+PCInstall#81,Select Language,Pasirinkite kalbą
+PCInstall#82,Drive selection,Disko parinkimas
+PCInstall#83,Install PC-BSD,Įdiegti PC-BSD
+PCInstall#84,"Automatic syncronization with internet 
+Network Time Servers (NTP)","Automatinis sinchronizavimas internetu su 
+tinkliniais laiko serveriais (NTP)"
+PCInstall#85,<h1>Select installation choice</h1>,<h1>Pasirinkite diegimo būdą</h1>
+PCInstall#86,<h1>License agreement</h1>,<h1>Licencijos patvirtinimas</h1>
+PCInstall#87,<h1>Partition selection</h1>,<h1>Skaidinio parinkimas</h1>
+PCInstall#88,Password:,Slaptažodis:
+PCInstall#89,Verify password:,Patvirtinkite slaptažodį:
+PCInstall#90,Add user,Sukurti naudotoją
+PCInstall#91,Full name:,Vardas ir pavardė:
+PCInstall#92,Shell:,Apvalkalas:
+PCInstall#93,Apply,Vykdyti
+PCInstall#94,<h1>Ready to install</h1>,<h1>Pasiruošta diegimui</h1>
+PCInstall#95,<h1>Disk partition setup</h1>,<h1>Disko skaidinių nuostatos</h1>
+PCInstall#96,<h1>Setup Complete!</h1>,<h1>Diegimas baigtas!</h1>
+PCInstall#97,You must setup at least one username to continue. ,Norėdami tęsti jūs turite sukurti bent vieną naudotoją. 
+PCInstall#98,Username may contain only letters and numbers!,Naudotojo vardas gali būti sudarytas tik iš raidžių bei skaičių!
+PCInstall#99,Error: User passwords do not match!,Klaida: Naudotojo slaptažodžiai nesutampa!
+PCInstall#100,"<p align=""right""><h1>Drive selection</h1></p>","<p align=""right""><h1>Disko parinkimas</h1></p>"
+PCInstall#101,"You will now need to select the drive or partition that PC-BSD is loaded on.
+
+A list of partitions and the version of PC-BSD they are running on is listed in the ""Partition selection"" box. Select one of these to continue.","Dabar jums reikės pasirinkti diską arba skaidinį, kuriame yra PC-BSD sistema.
+
+Sąrašą skaidinių ir PC-BSD versijų galima rasti ""Skaidinio pasirinkimo"" laukelyje. Norėdami tęsti pasirinkite vieną iš jų."
+PCInstall#102,PC-BSD Installer,PC-BSD diegimo programa
+PCInstall#103,Allow submitting anonymous usage statistics. (bsdstats.org),Leisti siųsti anoniminę naudojimosi statistiką. (bsdstats.org)
+PCInstall#104,Root passwords must match to continue.,Norint tęsti root slaptažodžiai turi sutapti.
+PCInstall#105,Administrator password (root),Administratoriaus slaptažodis (root)
+PCInstall#106,Special Thanks,Ypatingos padėkos
+PCInstall#107,Secure by design,Suprojektuota įvertinant saugumą
+PCInstall#108,Watch your favorite movies,Žiūrėkite mėgiamus filmus
+PCInstall#109,Listen to your music,Klausykite savo muzikos
+PCInstall#110,Ideal for schools and universities,Idealus mokykloms ir universitetams
+PCInstall#111,Outstanding commercial support,Išskirtinė komercinė priežiūra
+PCInstall#112,Join the community,Prisijunk prie bendruomenės
+PCInstall#113,Network Setup,Tinklo nuostatos
+PCInstall#114,"The user accounts you setup will be used to run the PC-BSD desktop interface and most programs. Your root (administrator) password lets you perform low level system tasks, as well as installing and removing PBIs (PC-BSD Installer applications). Your user password can be used to protect your account and restrict access to your system. 
+
+NOTE: When adding users, you will have a choice of the default ""shell"". If you are unsure what this is, leave it set to the default (/bin/csh).","Naudotojų paskyros bus naudojamos dirbant PC-BSD grafinėje aplinkoje bei paleidžiant daugumą programų. Administratoriaus slaptažodis (root) leis jums atlikti visus sistemos konfigūravimo darbus, taip pat diegti ir pašalinti PBI paketus. Naudotojo slaptažodis naudojamas apsaugoti jūsų paskyrą bei apriboti prieigą prie sistemos.
+
+PASTABA: Kuriant naudotojus, jūs galėsite pasirinkti numatytą ""apvalkalą"". Jei Jūs neesate tikras kas tai yra, palikite numatytą (/bin/csh)."
+PCInstall#115,"Welcome to PC-BSD! PC-BSD has been designed with the ""casual"" computer user in mind. Installing the system is simply a matter of a few clicks and a few minutes for the installation process to finish. Hardware such as video, sound, network and other devices will be auto-detected and available at the first system startup. Home users will immediately feel comfortable using PC-BSD's desktop interface with the popular KDE desktop manager included. 
+
+Please select your language, keyboard layout and timezone, then click ""Next"" to continue.","Sveiki atvykę į PC-BSD! PC-BSD buvo sukurta eiliniam kompiuterio vartotojui. Sistemos diegimas yra labai paprastas - jums tereikia kelis kartus spragtelėti pele ir po keletos minučių sistema bus įdiegta. Aparatinė įranga (vaizdo, garso, tinklo ir kiti įrenginiai) bus automatiškai aptikta ir ja bus galima naudotis jau po pirmojo sistemos paleidimo. Namų vartotojai jausis patogiai naudodami į PC-BSD įtrauktą KDE darbalaukio aplinką. 
+
+Prašome pasirinkti savo kalbą, klaviatūros išdėstymą ir laiko juostą, o tada spauskite ""Toliau""."
+PCInstall#116,&Reboot,&Perkrauti
+PCInstall#117,Start,Pradėti
+PCInstall#118,"An error occured while extracting the system image! Please check the install CD, or try selecting 'Safe Mode' 
+when the installation CD begins booting. The system will now reboot.","Išskleidžiant sistemos atvaizdą įvyko klaida! Prašome patikrinti   CD, arba bandykite pasirinkti 'Safe Mode' kuomet diegimo CD krausis. Sistema dabar persikraus."
+PCInstall#119,Invalid Partition,Neteisingas skaidinys
+PCInstall#120,Warning: /home is a link to /usr/home. This entry will be adjusted.,Įspėjimas: /home yra nuoroda į /usr/home. Šis įrašas bus suderintas.
+PCInstall#121,Warning: The '/boot' directory must be on the '/' partition.,Įspėjimas: '/boot' katalogas turi būti '/' skaidinyje.
+PCInstall#122,Developer-friendly platform,Programuotojams draugiška platforma
+PCInstall#123,Enterprise-class stability,Verslo klasės stabilumas
+PCInstall#124,Check out the quick-guide,Peržvelk trumpą gidą
+PCInstall#125,Failed Starting SetKeyboard.sh,Klaida paleidžiant SetKeybord.sh
+PCInstall#126,Please wait.. Checking for existing PC-BSD Installs,Prašome palaukti... Ieškoma esamų PC-BSD diegimų
+PCInstall#127,User accounts,Naudotojų paskyros
+PCInstall#128,Components,Komponentai
+PCInstall#129,Loading...,Kraunasi...
+PCInstall#130,<h1>User accounts</h1>,<h1>Naudotojų paskyros</h1>
+PCInstall#131,Username:,Naudotojas:
+PCInstall#132,Auto-login User (The first user listed will be logged on automatically),Automatinis naudotojo prisijungimas (Pirmasis naudotojas iš žemiau esančio sąrašo automatiškai prisijungs)
+PCInstall#133,"You will now need to select the drive or partition that you wish to install PC-BSD onto. (Warning: Choosing an extended partition will erase any logical partitions!)
+If you wish to load PC-BSD as the only operating system on this system, you will want to select ""Use entire disk"" for the partition. If you want to dual-boot with another operating system, you will need to select one of the primary partitions to continue. A boot loader is not needed if entire disk is used by PC-BSD.","Dabar jums reikės pasirinkti diską ar skirsnį į kurį norite įdiegti PC-BSD (Įspėjimas: pasirinkus išplėstajį skaidinį bus sunaikinta informacija apie loginius skaidinius)
+Jei jūs norite naudoti PC-BSD kaip vienintelę operacinę sistemą skaidiniui pasirinkite ""Naudoti visą diską"". Jei kompiuteryje norėsite turėti kelias operacines sistemas, tai norint tęsti jums reikės pasirinkti vieną iš pagrindinių skaidinių. Jei PC-BSD naudos visą diską, įkrovos programa yra nereikalinga."
+PCInstall#134,Customize the partition layout. (Advanced),Tinkinti skaidinio išdėstymą. (Sudėtingiau)
+PCInstall#135,"PC-BSD can setup partitions on the particular drive / slice you selected for install. Here you may edit the sizes and mount points of partitions to fit your particular system needs. If you wish, you may customize the PC-BSD partition setup below, changing default sizes and add or remove partitions.
+
+SWAP space encryption is good security addition for portable computer users and can help guard sensitive data.","PC-BSD gali sukurti skaidinius pasirinktame diegimui diske. Čia jūs galite keisti skaidinių dydžius ir prijungimo vietas, kad tenkintų jūsų poreikius. Jei norite, tai galite tinkinti PC-BSD diegimą. SWAP vietos šifravimas yra geras būdas apsaugoti nešiojamų kompiuterių vartotojus ir gali padėti apsaugoti svarbią informaciją."
+PCInstall#136,System Components,Sistemos komponentai
+PCInstall#137,<h1>System Components</h1>,<h1>Sistemos komponentai</h1>
+PCInstall#138,Available Components,Galimi komponentai
+PCInstall#139,Selected Components,Parinkti komponentai
+PCInstall#140,"When you click ""Next"" the installer will then format your drive or partitions, and install PC-BSD onto the system.","Kai Jūs paspausite ""Toliau"" diegimo programa sužymės jūsų diską arba skaidinį ir įdiegs PC-BSD į sistemą."
+PCInstall#141,"Thank you for choosing PC-BSD as your operating system! Please sit back and relax while your system is installed.
+
+After your system is loaded, you may wish to visit us on the web at www.pcbsd.org. The PC-BSD website is your portal to all things related to PC-BSD. Browse our FAQs, download software, or participate in our forums.","Ačiū, kad renkatės PC-BSD kaip savo operacinę sistemą! Prašome šiek tiek palaukti, kol jūsų sistema yra diegiama.
+
+Po to kai jūsų sistema užsikraus, jūs galite aplankyti mus www.pcbsd.org. PC-BSD tinklapyje rasite viską apie PC-BSD. Peržiūrėkite DUKs, atsisiųskite programinę įrangą arba dalyvaukite mūsų forumuose."
+PCInstall#142,"Thank you for installing this release of PC-BSD! 
+
+We at the the PC-BSD team wish to thank all our dedicated users and developers for making this release possible. If you wish to help with future releases of PC-BSD, please visit the Team page at www.pcbsd.org","Ačiū, kad pasirinkote šią PC-BSD laidą.
+
+Mūsų PC-BSD komanda nori padėkoti visiems atsidavusiems naudotojamas ir programuotojams, kurie prisidėjo prie šios laidos. Jei jūs norite padėti su būsimom PC-BSD laidom, tai prašome aplankyti komandos tinklapį www.pcbsd.org"
+PCInstall#143,Installing additional components...,Įdiegiami papildomi komponentai...
+PCInstall#144,Keyboard Settings,Klaviatūros nustatymai
+PCInstall#145,Layout:,Išdėstymas:
+PCInstall#146,Variant:,Variantas:
+PCInstall#147,&Change Keyboard,&Pakeisti klaviatūrą
+PCInstall#148,Alt+C,Alt+P
+PCInstall#149,us - USA,us - USA
+PCInstall#150,Model:,Modelis:
+PCInstall#151,pc105 - Generic 105-key PC,pc105 - bendra 105 klavišų PC
+PCInstall#152,off - Using default layout,išjungtas - naudojamas numatytasis išdėstymas
+PCInstall#153,"BSD licenses represent a family of a permissive free software licenses. The original was used for the Berkeley Software Distribution, a Unix-like operating system for which the license is named. The original owners of BSD were the Regents of the University of California because BSD was first written at the University of California, Berkeley. The first version of the license was revised, and the resulting licenses are more properly called modified BSD licenses. For complete license details visit: http://www.pcbsd.org/content/view/32/26/","BSD licencijos atstovauja laisvos programinės įrangos licencijų grupę. Pradinė licencija buvo naudojama Berklio Programinės įrangos Unix tipo operacinės sistemos distribucijoje, pagal kurią ir buvo pavadinta. Pirmieji BSD sąvininkai buvo Kalifornijos universiteto valdybos nariai, nes BSD buvo sukurta Kalifornijos universitete, Berklyje. Pirmoji licencijos versija buvo peržiūrėta ir naujos licencijos vadinamos pakeistomis BSD licencijomis. Pilną licencijos aprašymą galite rasti: http://www.pcbsd.org/content/view/32/26/"
+PCInstall#154,"If this is a new system, with no existing PC-BSD setup, you will want to perform a ""Fresh Install"".  
+
+If you are updating your existing PC-BSD system to a different version, or wish to repair a PC-BSD system, select ""System Update / Repair"".","Jei tai nauja sistema, be įdiegtos PC-BSD, jums reikia vykdyti ""Naują diegimą"".  
+
+Jei naujinate įdiegtą PC-BSD sistemą, ar norite sutaisyti neužsikraunančią PC-BSD sistemą - rinkitės ""Sistemos naujinimas / taisymas""."
+PCInstall#155,Installation Choice,Diegimo pasirinkimas
+PCInstall#156,Desktop Edition,Darbalaukio laida
+PCInstall#157,Server Edition,Serverio laida
+PCInstall#158,Installation Method,Diegimo būdas
+PCInstall#159,Install from CD/DVD/USB,Diegti iš CD/DVD/USB
+PCInstall#160,Install from Network,Diegti iš tinklo
+PCInstall#161,/bin/csh,/bin/csh
+PCInstall#162,/bin/tcsh,/bin/tcsh
+PCInstall#163,/bin/sh,/bin/sh
+PCInstall#164,File System (Advanced),Failų sistema (sudėtingesnė)
+PCInstall#165,Leave as default if unsure!,"Jei nesate įsitikinęs, palikite kaip nustatyta!"
+PCInstall#166,"PC-BSD has several optional components which some users may wish to install. You may select any of the components above that you wish to load on your system. 
+
+Note: If performing a CD install you will need CD #3 to install any of the above components.","PC-BSD turi kelis neprivalomus komponentus, kuriuos kai kurie vartotojai norės įdiegti. Galite pasirinkti juos aukščiau, jie bus įdiegti į sistemą. 
+
+Pastaba: jei diegiama iš CD, aukščiau pasirinktiems komponentams įdiegti bus reikaligas CD #3."
+PCInstall#167,"Installation is now complete! You may now remove the installation media from the drive. When you click reboot, the system will automatically restart. You will be prompted to setup your display resolution during the startup process. 
+
+Need help with something? Please checkout our FAQs at faqs.pcbsd.org or post your questions at forums.pcbsd.org.","Diegimas baigtas! Dabar galite išimti diegimo laikmeną iš įrenginio. Paspaudus mygtuką ""Perkrauti"" sistema bus automatiškai perkrauta. Paleidimo metu jums reikės nurodyti savo vaizduoklio skiriamąją gebą.
+
+Reikia pagalbos? Prašome perskaityti DUK faqs.pcbsd.org arba užduoti klausimus forume forums.pcbsd.org."
+PCInstall#168,Cancel,Atsisakyti
+PCInstall#169,"Error: Could not load the install disc. Please check that the CD/DVD is in the drive.
+ Press OK to try again, or Cancel to reboot the system.","Klaida: nepavyko užkrauti diegimo disko. Prašome patikrinti ar CD/DVD diskas yra įrenginyje.
+ Norėdami pabandyti dar kartą, spauskite ""Gerai"". Jei norite perkrauti sistemą, spauskite ""Atsisakyti""."
+PCInstall#170,Failed Starting PCBSD.InstallCD1.sh,Nepavyko paleisti PCBSD.InstallCD1.sh
+PCInstall#171,You cannot remove the '/bootdir' partition. ,Jūs negalite pašalinti '/bootdir' skaidinio. 
+PCInstall#172,"Error: Could not locate CD #2. Please check that the CD is in the drive. Press OK to try again, or Cancel to abort install.","Klaida: nerastas CD #2. Prašome patikrinti ar jis yra įrenginyje. Norėdami pakartoti, spauskite ""Gerai"", arba ""Atsisakyti"", norėdami nutraukti diegimą."
+PCInstall#173,Installing CD2...,Diegiamas CD2...
+PCInstall#174,Unmounting CD #2...,Atjungiamas CD #2...
+PCInstall#175,Insert CD #3,Įdėkite CD #3
+PCInstall#176,Insert CD #3 and click OK to continue. ,"Įdėkite CD #3 ir spauskite ""Gerai"" norėdami tęsti. "
+PCInstall#177,Mounting CD #3...,Prijungiamas CD #3...
+PCInstall#178,"Error: Could not locate CD #3. Please check that the CD is in the drive. Press OK to try again, or Cancel to abort install.","Klaida: nerastas CD #3. Prašome patikrinti ar CD yra įrenginyje. Norėdami pabandyti iš naujo, spauskite ""Gerai"", arba ""Atsisakyti"", norėdami nutraukit diegimą."
+PCInstall#179,Enabling NIC,Įjungiamas NIC
+PCInstall#180,Failed to setup a network connection!,Nepavyko nustatyti tinklo ryšio!
+PCInstall#181,Confirming valid network location,Patvirtinamas teisingas tinklo adresas
+PCInstall#182,The specified URL does not appear to be a valid install location. Please check the network location and try again.,Nurodytas URL nėra teisinga diegimo vieta. Patikrinkite tinklo adresą ir bandykite dar kartą.
+PCInstall#183,ZFS Warning,ZFS įspėjimas
+PCInstall#184,"Warning: ZFS usage is primarily for high-end systems with a 64 bit processor and 4+ GB of memory. It may run on lesser hardware, but is not recommended.",Įspėjimas: ZFS skirta naudoti galingose sistemose su 64 bitų procesoriumi ir daugiau nei 4 GB operatyviosios atminties. Naudoti silpnesnėse sistemose nerekomenduojama.
+PCInstall#185,Version 7,7-toji versija
+PCInstall#186,/bin/bash,/bin/bash
+PCInstall#187,Version:,Versija:
+PCInstall#188,Install software with a click,Įdiekite programinę įrangą pelės paspaudimu
+WorkingDialog#1,Working Dialog,Darbo dialogo langas
+dialogKeyboard#1,Keyboard Settings,Klaviatūros nustatymai
+dialogKeyboard#2,Model,Modelis
+dialogKeyboard#3,Layout,Išdėstymas
+dialogKeyboard#4,Variant,Variantas
+dialogKeyboard#5,&Save,&Išsaugoti
+dialogKeyboard#6,Alt+S,Alt+I
+dialogKeyboard#7,&Cancel,A&tsisakyti
+dialogKeyboard#8,Alt+C,Alt+T
+dialogSelectNetServer#1,Select Installation Source,Diegimo šaltinio pasirinkimas
+dialogSelectNetServer#2,Install from Internet ,Diegti iš interneto 
+dialogSelectNetServer#3,Install from specified server,Diegti iš nurodyto serverio
+dialogSelectNetServer#4,Local Network Install,Diegti iš vietinio tinklo
+dialogSelectNetServer#5,Enter the server name,Įveskite serverio vardą
+dialogSelectNetServer#6,FTP,FTP
+dialogSelectNetServer#7,HTTP,HTTP
+dialogSelectNetServer#8,Enter the directory path,Įveskite kelią į katalogą
+dialogSelectNetServer#9,Select,Pasirinkti
+dialogSelectNetServer#10,Cancel,Atsisakyti

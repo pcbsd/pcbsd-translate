@@ -1,0 +1,22 @@
+comment,original,translation
+NetworkTray#1,Configure ,Konfigūruoti 
+NetworkTray#2,Device Information ,Informacija apie įrenginį 
+NetworkTray#3,Start the Network Manager,Paleisti tinklo tvarkytuvę
+NetworkTray#4,Restart the Network,Paleisti tinklą iš naujo
+NetworkTray#5,Connect to PPPoE service.,Prisijungti prie PPPoE tarnybos.
+NetworkTray#6,Disconnect from PPPoE service.,Atsijungti nuo PPPoE tarnybos.
+NetworkTray#7,Can not start network configuration utility.,Nepavyko paleisti tinklo konfigūravimo programos.
+NetworkTray#8,IP:,IP:
+NetworkTray#9,IPv6:,IPv6:
+NetworkTray#10,Netmask:,Tinklo kaukė:
+NetworkTray#11,Gateway:,Vartai:
+NetworkTray#12,Mac/Ether:,Mac/Eter:
+NetworkTray#13,Media:,Laikmena:
+NetworkTray#14,Status:,Būsena:
+NetworkTray#15,No connection detected.<br> Check your cable connection and try again!,"Nėra ryšio.<br> Patikrinkite, ar įjungtas tinklo kabelis, ir bandykite dar kartą!"
+NetworkTray#16,SSID:,SSID:
+NetworkTray#17,Connection Strength:,Ryšio stiprumas:
+NetworkTray#18,Connection Speed:,Ryšio greitis:
+NetworkTray#19,No wireless connection detected.<br> Double-click to start the wireless configuration wizard.,"Nerastas belaidis ryšys.<br> Norėdami paleisti belaidžio ryšio konfigūravimo vedlį, du kartus spustelkite pele."
+NetworkTray#20,Can not restart the network!,Nepavyko paleisti tinklo iš naujo!
+NetworkTray#21,Can not open the network manager!,Nepavyko atidaryti tinklo tvarkytuvės!

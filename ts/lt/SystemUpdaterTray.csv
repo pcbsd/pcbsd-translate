@@ -1,0 +1,23 @@
+comment,original,translation
+UpdaterTray#1,Start the Update Manager,Paleisti naujinimų tvarkytuvę
+UpdaterTray#2,Check for updates,Ieškoti naujinimų
+UpdaterTray#3,Run at startup,Paleisti startuojant sistemai
+UpdaterTray#4,Error!,Klaida!
+UpdaterTray#5,Error parsing sysupdate.conf!!!,Klaida analizuojant sysupdate.conf!!!
+UpdaterTray#6,System Update Error,Sistemos naujinimo klaida
+UpdaterTray#7,Could not contact the PC-BSD update server! Please check your internet connection or proxy settings.,Nepavyko susisiekti su PC-BSD naujinimų serveriu! Prašome patikrinti interneto ryšio arba įgaliotojo serverio nustatymus.
+UpdaterTray#8,Error running updates2 script! ,Klaida vykdant updates2 scenarijų! 
+UpdaterTray#9,Update available!,Yra naujinimas!
+UpdaterTray#10,System Update,Sistemos naujinimas
+UpdaterTray#11,A system update is available!,Yra sistemos naujinimas!
+UpdaterTray#12,PC-BSD Update Manager,PC-BSD naujinimų tvarkytuvė
+UpdaterTray#13,Your system is fully updated!,Jūsų sistema atnaujinta!
+UpdaterTray#14,Checking for updates...,Ieškoma naujinimų...
+UpdaterTray#15,Updating the system...,Sistema atnaujinama...
+UpdaterTray#16,Upgrading PBIs...,Atnaujinami PBI...
+UpdaterTray#17,System updates available!,Yra sistemos naujinimų!
+UpdaterTray#18,PBI updates available!,Yra PBI naujinimų!
+UpdaterTray#19,PBI Update available!,PBI naujinimas!
+UpdaterTray#20,A PBI update is available!,Yra PBI naujinimas!
+UpdaterTray#21,PBI Updates available!,PBI naujinimai!
+UpdaterTray#22,PBI updates are available!,Yra PBI naujinimų!
