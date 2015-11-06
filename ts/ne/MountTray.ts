@@ -4,92 +4,92 @@
 <context>
     <name>DeviceWidget</name>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="32"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="32"/>
         <source>Form</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="135"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="135"/>
         <source>Open the disk tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="158"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="158"/>
         <source>Automatically use this device when it is attached to the system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="161"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.ui" line="161"/>
         <source>Auto-Run</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="120"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="120"/>
         <source>Play</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="123"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="123"/>
         <source>Browse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="133"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="133"/>
         <source>Unmount</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="144"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="144"/>
         <source>Mount</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="164"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="164"/>
         <source>Device Mounted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="164"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="164"/>
         <source>%1 has been automatically mounted on %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="204"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="204"/>
         <source>Device Busy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="204"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="204"/>
         <source>The device appears to be busy. Do you want to forcibly unmount the device?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="214"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="214"/>
         <source>Unmount Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="214"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="214"/>
         <source>The device could not be unmounted. Please try again later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="224"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="224"/>
         <source>No Filesystem Detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="224"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="224"/>
         <source>Select a filesystem to try:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="235"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="235"/>
         <source>The device could not be mounted. Please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="236"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/DeviceWidget.cpp" line="236"/>
         <source>Device Mounting Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -97,32 +97,32 @@
 <context>
     <name>FSDialog</name>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="4"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="4"/>
         <source>System Disk Capacity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
         <source>Mount Point</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
         <source>Filesystem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
         <source>Used/Total</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="22"/>
         <source>Percent %</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="65"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsDialog.cpp" line="65"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
@@ -130,7 +130,7 @@
 <context>
     <name>FSWatcher</name>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/fsWatcher.cpp" line="141"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/fsWatcher.cpp" line="141"/>
         <source>Disk(s) Almost Full</source>
         <translation type="unfinished"></translation>
     </message>
@@ -138,67 +138,67 @@
 <context>
     <name>MountTray</name>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="41"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="41"/>
         <source>More Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="45"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="45"/>
         <source>View Disk Usage</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="46"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="46"/>
         <source>Rescan Devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="49"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="49"/>
         <source>Load ISO File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="50"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="50"/>
         <source>Change Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="53"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="53"/>
         <source>Close Tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="388"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="388"/>
         <source>Devices Available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="388"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="388"/>
         <source>New Devices are available for use</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="128"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="128"/>
         <source>Please Wait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="34"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="34"/>
         <source>Network Shares</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="128"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="128"/>
         <source>Rescanning devices attached to the system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="171"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="171"/>
         <source>Select ISO File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="171"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/mountTray.cpp" line="171"/>
         <source>ISO Files (*.iso)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -206,37 +206,37 @@
 <context>
     <name>SettingsDialog</name>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="5"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="5"/>
         <source>Mount Tray Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="10"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="10"/>
         <source>Auto-play optical disks with SMPlayer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="15"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="15"/>
         <source>Monitor disk storage space</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="18"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="18"/>
         <source>Perform check on device notifications</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="19"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="19"/>
         <source>Maximum time between checks (minutes)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="31"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="31"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-i18n/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="32"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="32"/>
         <source>Apply</source>
         <translation type="unfinished"></translation>
     </message>

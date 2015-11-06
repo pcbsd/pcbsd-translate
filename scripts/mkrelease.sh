@@ -8,11 +8,8 @@ if [ ! -e "${PROGDIR}/scripts/sync-pcbsd.sh" ] ; then
    exit 1
 fi
 
-
 rm -rf ${PROGDIR}/qmtmp
 mkdir ${PROGDIR}/qmtmp
-
-
 
 # Now run on each file in each language
 cd ${PROGDIR}/ts
