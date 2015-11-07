@@ -8,8 +8,20 @@ if [ ! -e "${PROGDIR}/scripts/sync-pcbsd.sh" ] ; then
    exit 1
 fi
 
+<<<<<<< HEAD
 rm -rf ${PROGDIR}/qmtmp
 mkdir ${PROGDIR}/qmtmp
+=======
+if [ -n "${1}" ] ; then
+  TARGETDIR="$1"
+else
+  TARGETDIR="${PROGDIR}/qm"
+fi
+
+if [ ! -d "${TARGETDIR}" ] ; then
+  mkdir -p ${TARGETDIR}
+fi
+>>>>>>> fdf7666c7cc07786b3987d2a8b135913440773dd
 
 # Now run on each file in each language
 cd ${PROGDIR}/ts
@@ -19,12 +31,8 @@ do
    QMNAME="`echo $i | cut -d '/' -f 3 | sed 's|.ts||g'`_$NLANG.qm"
    echo "Creating: $i ->  $QMNAME"
 
-   /usr/local/lib/qt5/bin/lrelease $i -qm ${PROGDIR}/qmtmp/$QMNAME >/dev/null 2>/dev/null
+   /usr/local/lib/qt5/bin/lrelease $i -qm ${TARGETDIR}/$QMNAME >/dev/null 2>/dev/null
    if [ $? -ne 0 ] ; then exit 1; fi
 done
 
-cd ${PROGDIR}/qmtmp
-
-echo "Creating release file..."
-tar cvJf ../dist/pcbsd-i18n.txz . 2>/dev/null
-rm -rf ${PROGDIR}/qmtmp
+echo "Translation files created at: $TARGETDIR"
