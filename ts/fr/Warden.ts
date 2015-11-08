@@ -99,31 +99,31 @@
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished">IPv6 Pont adresse (Nécessite VNET)</translation>
+        <translation>Adresse de la Passerelle IPv6 (Requiert VNET)</translation>
     </message>
     <message>
         <source>IPv6 Default Router (Requires VNET)</source>
-        <translation type="unfinished">IPv6 Routeur par défaut (Nécessite VNET)</translation>
+        <translation>Routeur par Défaut IPv6 (Requiert VNET)</translation>
     </message>
     <message>
         <source>Aliases</source>
-        <translation type="unfinished">Alias</translation>
+        <translation>Alias</translation>
     </message>
     <message>
         <source>IPv4 Aliases</source>
-        <translation type="unfinished">IPv4 Alias            </translation>
+        <translation>Alias IPv4</translation>
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished">IPv4 Adresse Passerelle            </translation>
+        <translation>Alias de la Passerelle IPv4</translation>
     </message>
     <message>
         <source>IPv6 Aliases</source>
-        <translation type="unfinished">IPv6 Adresse            </translation>
+        <translation>Alias IPv6</translation>
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
-        <translation>Alias Passerelle IPv6</translation>
+        <translation>Alias de la Passerelle IPv6</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -159,39 +159,39 @@
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
-        <translation type="unfinished">Lorsque ce paramètre est réglé, ces utilisateurs sont considérés comme des privilégiés, et peuvent manipuler les drapeaux de système de fichiers soumis à des contraintes habituelles sur kern.securelevel.</translation>
+        <translation>Lorsque ce paramètre est activé, de tels utilisateurs sont considérés comme privilégiés, et peuvent manipuler les indicateurs de système de fichiers soumis aux contraintes habituelles de kern.securelevel.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation type="unfinished">Les utilisateurs privilégiés à l&apos;intérieur de la prison seront capables de monter et démonter les types de systèmes de fichiers marqués comme jail-friendly.</translation>
+        <translation>Les utilisateurs privilégiés à l&apos;intérieur de la jail seront capables de monter et démonter les types de systèmes de fichiers marqués comme jail-friendly.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation type="unfinished">Les utilisateurs privilégiés à l&apos;intérieur de ce Jail seront capables de monter et démonter le système de fichiers devfs.</translation>
+        <translation>Les utilisateurs privilégiés à l&apos;intérieur de la jail seront capables de monter et démonter le système de fichiers devfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation type="unfinished">Les utilisateurs privilégiés à l&apos;intérieur de ce Jail seront capables de monter et démonter le système de fichiers nullfs.</translation>
+        <translation>Les utilisateurs privilégiés à l&apos;intérieur de la jail seront capables de monter et démonter le système de fichiers nullfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation type="unfinished">Les utilisateurs privilégiés à l&apos;intérieur de ce Jail seront capables de monter et démonter le système de fichiers procfs.</translation>
+        <translation>Les utilisateurs privilégiés à l&apos;intérieur de la jail seront capables de monter et démonter le système de fichiers procfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation type="unfinished">Les utilisateurs privilégiés à l&apos;intérieur de ce Jail seront capables de monter et démonter le système de fichiers ZFS.</translation>
+        <translation>Les utilisateurs privilégiés à l&apos;intérieur de la jail seront capables de monter et démonter le système de fichiers ZFS.</translation>
     </message>
     <message>
         <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
-        <translation type="unfinished">La racine de ce Jail peut administrer les quotas sur le système de fichiers de ce Jai(s).</translation>
+        <translation>La racine de la prison peut administrer des quotas sur le(s) système(s) de fichiers de la jail.</translation>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation type="unfinished">Cela permet d&apos;accéder à d&apos;autres piles de protocoles qui n&apos;ont pas eu la fonctionnalité de ce Jail supplémentaire pour eux.</translation>
+        <translation>Cela permet l’accès à d&apos;autres piles de protocoles auxquels aucune fonctionnalité de jail n&apos;a été ajouté.</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished">Warden</translation>
+        <translation>Warden</translation>
     </message>
     <message>
         <source>Invalid IPv4 address!</source>
@@ -234,39 +234,39 @@
     <name>dialogImport</name>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished">Importer Jail</translation>
+        <translation>Importer une Jail</translation>
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished">Entrez votre surnom pour cette nouvelle Jaill. Vous avez la possibilité de changer l&apos;adresse IP / nom d&apos;hôte de de ce Jail importé. Les références internes à l&apos;ancienne IP / nom d&apos;hôte peut encore être changé après l&apos;importation.</translation>
+        <translation>Entrez le nom pour cette nouvelle jail. Vous avez la possibilité de changer l&apos;adresse IP / nom d&apos;hôte de la Jail importée. Les références internes à l&apos;ancienne IP / nom d&apos;hôte peuvent encore être changées après l&apos;importation. </translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Ok</translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Annuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished">IPv4 Adresse</translation>
+        <translation>Adresse IPv4</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Nom d&apos;hôte</translation>
+        <translation>Nom d&apos;hôte</translation>
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished">Nom du Jail</translation>
+        <translation>Nom de Jail</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished">999.999.999.999; {999\.999\.999\.999;?}</translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 <context>
