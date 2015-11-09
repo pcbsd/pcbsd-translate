@@ -83,19 +83,19 @@
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished">IPv4 Pont adresse (nécessite VNET)</translation>
+        <translation>Adresse Passerelle IPv4 (Requiert VNET)</translation>
     </message>
     <message>
         <source>IPv4 Default Router (Requires VNET)</source>
-        <translation type="unfinished">IPv4 Routeur par défaut (Nécessite VNET)</translation>
+        <translation>Routeur par défaut IPv4 (Requiert VNET)</translation>
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished">IPv6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adresse IPv4 {6 ?}</translation>
+        <translation>Adresse IPv6</translation>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
@@ -312,39 +312,39 @@
     </message>
     <message>
         <source>Working on Jail</source>
-        <translation type="unfinished">Travailler sur Jail</translation>
+        <translation>Travaillé sur Jail</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Jail Information</source>
-        <translation type="unfinished">Jail information</translation>
+        <translation>Information Jail</translation>
     </message>
     <message>
         <source>Jail Type:</source>
-        <translation type="unfinished">Type de Jail:</translation>
+        <translation>Type de Jail :</translation>
     </message>
     <message>
         <source>Size on Disk:</source>
-        <translation type="unfinished">Taille sur le disque:</translation>
+        <translation>Taille sur le disque :</translation>
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished">Lancer au démarrage:</translation>
+        <translation>Lancer au démarrage :</translation>
     </message>
     <message>
         <source>Network Information</source>
-        <translation type="unfinished">Information réseau</translation>
+        <translation>Information Réseau</translation>
     </message>
     <message>
         <source>Active Connections:</source>
-        <translation type="unfinished">Activer Connexions:</translation>
+        <translation>Connexions Actives :</translation>
     </message>
     <message>
         <source>IPs:</source>
-        <translation type="unfinished">IPs:</translation>
+        <translation>IPs :</translation>
     </message>
     <message>
         <source>Listening on Ports:</source>
@@ -384,39 +384,39 @@
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="unfinished">Image instantanée</translation>
+        <translation>Instantanés</translation>
     </message>
     <message>
         <source>Restore existing snapshot</source>
-        <translation type="unfinished">Restaurer la version instantanée existante</translation>
+        <translation>Restaurer l&apos;instantané existant</translation>
     </message>
     <message>
         <source>R&amp;estore</source>
-        <translation type="unfinished">R&amp;estaurer            </translation>
+        <translation>R&amp;estaurer</translation>
     </message>
     <message>
         <source>Create a new snapshot</source>
-        <translation type="unfinished">Créer une image instantanée</translation>
+        <translation>Créer un nouvel instantané</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Ajouter</translation>
+        <translation>&amp;Ajouter</translation>
     </message>
     <message>
         <source>Delete the snapshot</source>
-        <translation type="unfinished">Supprimer la version l&apos;instantanée</translation>
+        <translation>Supprimer l&apos;instantané</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Supprimer</translation>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <source>Scheduled Snapshots</source>
-        <translation type="unfinished">Planifier une image instantanée</translation>
+        <translation>Instantanés Planifiés</translation>
     </message>
     <message>
         <source>Snapshot Frequency</source>
-        <translation type="unfinished">Fréquence d&apos;image instantanée</translation>
+        <translation>Fréquence d&apos;Instantané</translation>
     </message>
     <message>
         <source>Days to keep</source>
@@ -456,39 +456,39 @@
     </message>
     <message>
         <source>&amp;Remove Jail</source>
-        <translation type="unfinished">&amp;Supprimer ce Jail</translation>
+        <translation>&amp;Supprimer la Jail</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;Dossier</translation>
+        <translation>&amp;Fichier</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished">&amp;Configuration</translation>
+        <translation>&amp;Configurer</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished">&amp;Quitter</translation>
+        <translation>&amp;Quitter</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished">Sortir</translation>
+        <translation>Sortir</translation>
     </message>
     <message>
         <source>New Jail</source>
-        <translation type="unfinished">Nouveau Jail</translation>
+        <translation>Nouvelle Jail</translation>
     </message>
     <message>
         <source>&amp;Refresh Jails</source>
-        <translation type="unfinished">&amp;Rafraîchir Jails</translation>
+        <translation>&amp;Actualiser les Jails</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Rafraîchir</translation>
+        <translation>Actualiser</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation type="unfinished">&amp;Paramètres</translation>
+        <translation>&amp;Paramètres</translation>
     </message>
     <message>
         <source>Configuration</source>
@@ -528,39 +528,39 @@
     </message>
     <message>
         <source>Stop the selected jail</source>
-        <translation type="unfinished">Arrêter la sélection jail</translation>
+        <translation>Arrêter la jail sélectionnée</translation>
     </message>
     <message>
         <source>Stop this Jail</source>
-        <translation type="unfinished">Arrêter ce Jail</translation>
+        <translation>Arrêter cette Jail</translation>
     </message>
     <message>
         <source>Start this Jail</source>
-        <translation type="unfinished">Commencer ce Jail</translation>
+        <translation>Démarrer cette Jail</translation>
     </message>
     <message>
         <source>Start update manager</source>
-        <translation type="unfinished">Lancer le gestionnaire de mise à jour</translation>
+        <translation>Démarrer le gestionnaire de mise à jour</translation>
     </message>
     <message>
         <source>Toggle Autostart</source>
-        <translation type="unfinished">Toggle DémarrageAutomatique</translation>
+        <translation>Basculer sur Démarrage Automatique</translation>
     </message>
     <message>
         <source>Export jail to .wdn file</source>
-        <translation type="unfinished">Exporter jail a .wdn fichier</translation>
+        <translation>Exporter la jail dans un fichier .wdn</translation>
     </message>
     <message>
         <source>Clone this Jail</source>
-        <translation type="unfinished">Cloner ce Jail</translation>
+        <translation>Cloner cette Jail</translation>
     </message>
     <message>
         <source>Delete Jail</source>
-        <translation type="unfinished">Supprimer Jail</translation>
+        <translation>Supprimer la Jail</translation>
     </message>
     <message>
         <source>Stopping Jail</source>
-        <translation type="unfinished">Arrêter ce Jail</translation>
+        <translation>Arrêt de la Jail</translation>
     </message>
     <message>
         <source>Stopping Jail:</source>
@@ -600,39 +600,39 @@
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished">Chargement...</translation>
+        <translation>Chargement...</translation>
     </message>
     <message>
         <source>Loading snapshots...</source>
-        <translation type="unfinished">Chargement de la version instantanée...</translation>
+        <translation>Chargement d&apos;instantanés...</translation>
     </message>
     <message>
         <source>For snapshot support you must be using ZFS</source>
-        <translation type="unfinished">Pour le support de la version instantanée, vous devez utiliser ZFS</translation>
+        <translation>Pour que les instantanés soient supportés, vous devez utiliser ZFS</translation>
     </message>
     <message>
         <source>No label</source>
-        <translation type="unfinished">Aucune étiquette</translation>
+        <translation>Aucune étiquette</translation>
     </message>
     <message>
         <source>No snapshots available. You may create one below.</source>
-        <translation type="unfinished">Pas de version instantanée disponibles. Vous pouvez en créer un ci-dessous.</translation>
+        <translation>Pas d&quot;instantanés disponibles. Vous pouvez en créer un ci-dessous.</translation>
     </message>
     <message>
         <source>No jail selected!</source>
-        <translation type="unfinished">Pas de jail sélectionné!</translation>
+        <translation>Aucune jail sélectionnée !</translation>
     </message>
     <message>
         <source>Working on jail:</source>
-        <translation type="unfinished">Travailler sur Jail:</translation>
+        <translation>Travaille sur la jail :</translation>
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
-        <translation type="unfinished">Entrez le nom d&apos;hôte pour ce Jail cloné</translation>
+        <translation>Entrer le nom d&apos;hôte pour cette jail clonée</translation>
     </message>
     <message>
         <source>Cloned jail hostname:</source>
-        <translation type="unfinished">Cloné le nom d&apos;hôte de ce Jail:</translation>
+        <translation>Nom d&apos;hôte de Jail clonée :</translation>
     </message>
     <message>
         <source>Creating new snapshot... Please wait...</source>
@@ -675,42 +675,42 @@
     <name>dialogWorking</name>
     <message>
         <source>Working</source>
-        <translation type="unfinished">Travail</translation>
+        <translation>Opérationnel</translation>
     </message>
 </context>
 <context>
     <name>wizardNewJail</name>
     <message>
         <source>New Jail Wizard</source>
-        <translation type="unfinished">Assistant nouveau Jail</translation>
+        <translation>Assistant Nouvelle Jail</translation>
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation type="unfinished">Cet assistant vous guidera à travers la création d&apos;un nouveau Jail. Tout d&apos;abord, entrer un nom d&apos;hôte et IP qui n&apos;est pas en cours d&apos;utilisation sur le réseau. Si vous prévoyez d&apos;utiliser IPv6 pour accéder au Jail, cochez la case d&apos;adresse IPv6 et l&apos;entrée d&apos;une adresse IPv6 valide. Lorsque vous avez terminé, cliquez sur Suivant pour continuer.</translation>
+        <translation>Cet assistant vous guidera à travers la création d&apos;une nouvelle jail. Tout d&apos;abord, entrer un nom d&apos;hôte et une adresse IP non utilisée sur le réseau. Si vous prévoyez d&apos;utiliser IPv6 pour accéder à la Jail, cochez la case d&apos;adresse IPv6 et l&apos;entrer une adresse IPv6 valide. Une fois terminé, cliquez sur Suivant pour continuer.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Nom d&apos;hôte</translation>
+        <translation>Nom d&apos;hôte</translation>
     </message>
     <message>
         <source>Jailbird</source>
-        <translation type="unfinished">Jailbird</translation>
+        <translation>Jailbird</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adresse IPv4 {6 ?}</translation>
+        <translation>Adresse IPv6</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished">IPv4 Adresse</translation>
+        <translation>Adresse IPv4</translation>
     </message>
     <message>
         <source>Please select the type of jail you want to create. </source>
-        <translation type="unfinished">Veuillez sélectionner le type de jail que vous voulez créer.</translation>
+        <translation>Veuillez sélectionner le type de jail que vous voulez créer. </translation>
     </message>
     <message>
         <source>Jail Type</source>
-        <translation type="unfinished">Jail Type</translation>
+        <translation>Type de Jail</translation>
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
@@ -722,91 +722,91 @@
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished">Jail Version</translation>
+        <translation>Version de Jail</translation>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
-        <translation type="unfinished">Ports Jail (non sécurisé, permet de faire tourner les applications X)</translation>
+        <translation>Ports Jail (non sûre, permet de faire tourner les applications X)</translation>
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished">Linux Jail (Tourner Linux dans un Jail ) - Expérimental!</translation>
+        <translation>Linux Jail (Exécuter Linux dans une Jail) - Expérimental !</translation>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
-        <translation type="unfinished">Ensuite entrez le mot de passe administrateur pour ce jail.</translation>
+        <translation>Ensuite entrez le mot de passe root pour cette jail. </translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished">Mot de passe administrateur</translation>
+        <translation>Mot de passe Root</translation>
     </message>
     <message>
         <source>Root Password (Confirm)</source>
-        <translation type="unfinished">Mot de passe administrateur (confirmer)</translation>
+        <translation>Mot de passe Root (Confirmer)</translation>
     </message>
     <message>
         <source>Please select the Linux install script to use for this jail.</source>
-        <translation type="unfinished">Veuillez sélectionner le script d&apos;installation Linux à utiliser pour ce Jail.</translation>
+        <translation>Veuillez sélectionner le script d&apos;installation Linux à utiliser pour cette Jail.</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished">Veuillez prendre un moment pour définir d&apos;autres options pour ce Jail. Notez que le système d&apos;option source exige qu&apos;ils soient présents dans /usr/src.</translation>
+        <translation>Veuillez prendre un moment pour définir d&apos;autres options pour cette Jail. Notez qu&apos;inclure les options sources système exige qu&apos;elles soient présentes dans /usr/src. </translation>
     </message>
     <message>
         <source>Jail Options</source>
-        <translation type="unfinished">Jail Options</translation>
+        <translation>Options de Jail</translation>
     </message>
     <message>
         <source>Include system source</source>
-        <translation type="unfinished">Inclure le système source</translation>
+        <translation>Inclure les sources système</translation>
     </message>
     <message>
         <source>Include ports tree</source>
-        <translation type="unfinished">Inclure les ports</translation>
+        <translation>Inclure l’arborescence des ports</translation>
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation type="unfinished">Lancer ce jail lors du démarrage système</translation>
+        <translation>Lancer la jail lors du démarrage système</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
-        <translation type="unfinished">Utilisez la version du système (par défaut)</translation>
+        <translation>Utilisez la version du système (par défaut)</translation>
     </message>
     <message>
         <source>Hostname cannot contain spaces!</source>
-        <translation type="unfinished">Nom de l&apos;hôte ne peut pas contenir d&apos;espaces!</translation>
+        <translation>Le nom de l&apos;hôte ne peut pas contenir d&apos;espaces !</translation>
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
-        <translation type="unfinished">Nom de l&apos;hôte ne peut pas contenir de caractères spéciaux!</translation>
+        <translation>Le nom de l&apos;hôte ne peut pas contenir de caractères spéciaux !</translation>
     </message>
     <message>
         <source>Hostname already used!</source>
-        <translation type="unfinished">Nom d&apos;hôte déjà utilisé!</translation>
+        <translation>Nom d&apos;hôte déjà utilisé !</translation>
     </message>
     <message>
         <source>IP already used!</source>
-        <translation type="unfinished">IP est déjà utilisée!</translation>
+        <translation>IP déjà utilisée !</translation>
     </message>
     <message>
         <source>Invalid IP address!</source>
-        <translation type="unfinished">Adresse IP invalide !</translation>
+        <translation>Adresse IP invalide !</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished">Adresse IPv6 invalide !</translation>
+        <translation>Adresse IPv6 invalide !</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
-        <translation type="unfinished">Veuillez prendre un moment pour définir d&apos;autres options pour ce Jail.</translation>
+        <translation>Veuillez prendre un moment pour définir d&apos;autres options pour cette Jail.</translation>
     </message>
     <message>
         <source>Select Script</source>
-        <translation type="unfinished">Sélectionnez Script</translation>
+        <translation>Sélectionner le Script</translation>
     </message>
     <message>
         <source>Linux install files (*)</source>
-        <translation type="unfinished">Linux installation fichier (*)</translation>
+        <translation>Fichiers d&apos;installation Linux (*)</translation>
     </message>
 </context>
 </TS>
