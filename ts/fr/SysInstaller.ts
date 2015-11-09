@@ -821,11 +821,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer AppCafe? Cela vous permet de gérer les paquets et les jails depuis un navigateur internet ou un appareil mobile.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer AppCafe</translation>
     </message>
 </context>
 <context>

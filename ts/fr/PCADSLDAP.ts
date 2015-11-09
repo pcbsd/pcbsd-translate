@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fr">
 <context>
     <name>pcADSLDAP</name>
     <message>
         <source>AD and LDAP Configuration</source>
-        <translation type="unfinished">Configuration AD et LDAP </translation>
+        <translation>Configuration AD et LDAP</translation>
     </message>
     <message>
         <source>Active Directory</source>
-        <translation type="unfinished">Dossier Actif            </translation>
+        <translation>Active Directory</translation>
     </message>
     <message>
         <source>Enable Active Directory</source>
-        <translation type="unfinished">Dossier Actif Activé        </translation>
+        <translation>Activer Active Directory</translation>
     </message>
     <message>
         <source>Domain Name (DNS/Realm-Name)</source>
-        <translation type="unfinished">Nom Domaine (DNS/Nom-Réel)            </translation>
+        <translation>Nom Domaine (DNS/Nom-Réel)</translation>
     </message>
     <message>
         <source>NetBIOS Name</source>
-        <translation type="unfinished">Nom NetBIOS            </translation>
+        <translation>Nom NetBIOS</translation>
     </message>
     <message>
         <source>Workgroup Name</source>
-        <translation type="unfinished">Nom du Groupe de travail            </translation>
+        <translation>Nom du Groupe de travail</translation>
     </message>
     <message>
         <source>Allow Trusted Domains</source>
-        <translation type="unfinished">Assigner un domaine de confiance            </translation>
+        <translation>Autoriser les Domaines de Confiance</translation>
     </message>
     <message>
         <source>Administrator Name</source>
-        <translation type="unfinished">Administrateur Nom           </translation>
+        <translation>Nom Administrateur</translation>
     </message>
     <message>
         <source>Administrator Password</source>
-        <translation type="unfinished">Administrateur mot de passe</translation>
+        <translation>Mot de passe Administrateur</translation>
     </message>
     <message>
         <source>Administrator Password (Confirm)</source>
-        <translation type="unfinished">Administrateur mot de passe (Confirmer)            </translation>
+        <translation>Mot de passe Administrateur (Confirmer)</translation>
     </message>
     <message>
         <source>LDAP</source>
-        <translation type="unfinished">LPDA            </translation>
+        <translation>LDAP</translation>
     </message>
     <message>
         <source>Enable LDAP</source>
-        <translation type="unfinished">Activer LDAP            </translation>
+        <translation>Activer LDAP</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Nom d&apos;hôte            </translation>
+        <translation>Nom d&apos;hôte</translation>
     </message>
     <message>
         <source>Base DN</source>
-        <translation type="unfinished">Base DN     </translation>
+        <translation>Base DN</translation>
     </message>
     <message>
         <source>Allow Anon Binding</source>
-        <translation type="unfinished">Assigner Anon de liaison   </translation>
+        <translation>Autoriser Anon Binding</translation>
     </message>
     <message>
         <source>Root bind DN</source>
@@ -69,11 +69,11 @@
     </message>
     <message>
         <source>Root bind password</source>
-        <translation type="unfinished">Administrateur de liaison mot de passe            </translation>
+        <translation>Mot de passe Administrateur de liaison</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished">Mot de passe crypté            </translation>
+        <translation>Mot de passe de Cryptage</translation>
     </message>
     <message>
         <source>User Suffix</source>
