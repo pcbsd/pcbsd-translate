@@ -110,12 +110,12 @@ dataset, and counts against quotas and reservations. In addition, the
 used property is updated when multiple copies are enabled. Consider setting
 this property when the file system is created because changing this property
 on an existing file system only affects newly written data.</source>
-        <translation type="unfinished">Setzt die Anzahl der Kopien der Benutzerdaten pro Dateisystem. Diese Kopien
+        <translation>Setzt die Anzahl der Kopien der Benutzerdaten pro Dateisystem. Diese Kopien
 sind zusätzlich zur pool-level Redundanz. Der benötigte Speicherplatz für diese
-mehrfachen Kopien orientieren sich an der Datei und dataset größe, diese zählen
+mehrfachen Kopien orientieren sich an der Datei und Dataset-Größe, diese zählen
 ebenfalls bei Quotas und Reservierungen. Überlegen sie diese Option zu aktivieren
 wenn das Dateisystem erstellt wird, denn wenn sie diese Option erst später
-aktivieren, wird es nur für Daten angewand welche ab dem Moment geschrieben bzw.
+aktivieren, wird es nur für Daten angewandt welche ab dem Moment geschrieben bzw.
 erneut geschrieben werden.</translation>
     </message>
     <message>
@@ -268,22 +268,25 @@ neither user data nor metadata is cached. If set to metadata, only metadata is c
     </message>
     <message>
         <source>Controls whether the setuid bit is honored in a file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuert ob das setuid bit vom Dateisystem berücksichtigt wird.</translation>
     </message>
     <message>
         <source>Controls whether a file system is available over NFS and what
 options are used. If set to on, the zfs share command is invoked
 with no options. Otherwise, the zfs share command is invoked with
 options equivalent to the contents of this property.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuert ob und mit welchen Optionen ein Dateisystem per NFS
+erreichbar ist. Ist es auf on gesetzt ist das zfs share command
+ohne weitere Optionen aktiv. Sind Optionen gesetzt ist das
+zfs share command mit diesen Optionen aktiviert.</translation>
     </message>
     <message>
         <source>The sharesmb property has currently no effect on FreeBSD.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die sharesmb Option hat im Moment keinen Effekt in FreeBSD.</translation>
     </message>
     <message>
         <source>Controls whether the .zfs directory is hidden or visible in the root of the file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuert ob der .zfs Ordner im root des Dateisystems sichtbar oder unsichtbar ist.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the dataset type as filesystem (file system or clone), volume, or snapshot.</source>

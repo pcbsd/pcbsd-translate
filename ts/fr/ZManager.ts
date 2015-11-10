@@ -115,11 +115,11 @@ expressed as a multiplier. Compression can be enabled by the zfs set compression
 dataset command. The value is calculated from the logical size of all files and the
 amount of referenced physical data. It includes explicit savings through the use of
 the compression property.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant le ratio de compression obtenu pour un ensemble de données,
- exprimée comme un multiplicateur. La compression peut être activée par la commande zfs set compression = on
- commande de données. La valeur est calculée à partir de la taille logique de tous les fichiers et les
- quantité de données physiques indiquée. Il comprend des économies explicites grâce à l&apos;utilisation de
- la propriété de compression.</translation>
+        <translation>Propriété en lecture seule qui indique le ratio de compression obtenu pour un jeu de données,
+exprimée en multiplicateur. La compression peut être activée par la commande zfs set compression=on.
+La valeur est calculée à partir de la taille logique de tous les fichiers et la quantité
+de données physiques référencée. L&apos;utilisation de la propriété de compression
+permet un gain significatif.</translation>
     </message>
     <message>
         <source>Sets the number of copies of user data per file system. These copies
