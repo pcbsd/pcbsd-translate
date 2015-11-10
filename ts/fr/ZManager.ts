@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fr">
 <context>
     <name>DialogFSProp</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Apply changes recursively to all descendants</source>
-        <translation type="unfinished">Appliquer les modifications de manière récursive à tous les descendants     </translation>
+        <translation>Appliquer les modifications de manière récursive à tous les descendants</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished">Propriété</translation>
+        <translation>Propriété</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished">Source </translation>
+        <translation>Source</translation>
     </message>
     <message>
         <source>Add user property</source>
-        <translation type="unfinished">Ajouter la propriété de l&apos;utilisateur</translation>
+        <translation>Ajouter la propriété de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Remove user property</source>
-        <translation type="unfinished">Retirez la propriété de l&apos;utilisateur    </translation>
+        <translation>Supprimer la propriété de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Inherit from parent</source>
-        <translation type="unfinished">Hériter du parent</translation>
+        <translation>Hériter du parent</translation>
     </message>
     <message>
         <source>Revert changes</source>
-        <translation type="unfinished">Annuler les changements</translation>
+        <translation>Annuler les changements</translation>
     </message>
     <message>
         <source>Controls how ACL entries are inherited when files and directories are created. The values are
 discard, noallow, restricted, and passthrough. For a description of these values, see ACL Properties.</source>
-        <translation type="unfinished">Contrôle des entrées ACL sont héritées lorsque les fichiers et les répertoires sont créés. Les valeurs sont
- discard, noallow, restricted, and passthrough. Pour une description de ces valeurs, voir Propriétés ACL.   </translation>
+        <translation>Contrôle comment les entrées ACL sont héritées lorsque les fichiers et les répertoires sont créés. Les valeurs sont
+discard, noallow, restricted, and passthrough. Pour une description de ces valeurs, voir Propriétés ACL.</translation>
     </message>
     <message>
         <source>Controls how an ACL entry is modified during a chmod operation.
 The values are discard, groupmask, and passthrough. For a description of
 these values, see ACL Properties.</source>
-        <translation type="unfinished">Contrôle le processus de modification des entrées ACL lors d&apos;une opération chmod.
-Les valeurs possibles sont discard, groupmask et passthrough. Pour une description des 
-ces valeurs, voir Propriétés ACL.  </translation>
+        <translation>Contrôle comment une entrée ACL est modifiée lors d&apos;une opération chmod.
+Les valeurs sont discard, groupmask et passthrough. Pour une description des
+ces valeurs, voir Propriétés ACL.</translation>
     </message>
     <message>
         <source>Controls whether the access time for files is updated when they are read.
 Turning this property off avoids producing write traffic when reading files and
 can result in significant performance gains, though it might confuse mailers and
 similar utilities.</source>
-        <translation type="unfinished">Contrôle si le temps d&apos;accès aux fichiers est mis à jour lorsqu&apos;ils sont lus.
-La désactivation de cette propriété évite hors production trafic d&apos;écriture lors de la lecture des fichiers et
- peut entrainer des gains de performance significatifs, même si cela risque d&apos;induire les expéditeurs et
- utilitaires similaires. </translation>
+        <translation>Contrôle si le temps d&apos;accès aux fichiers est mis à jour lorsqu&apos;ils sont lus.
+La désactivation de cette propriété évite de produire du trafic d&apos;écriture lors de la lecture des fichiers et
+peut entrainer des gains de performance significatifs, bien que cela risque d&apos;embrouiller les messageries et
+utilitaires similaires.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space available to a dataset
 and all its children, assuming no other activity in the pool. Because disk space is
 shared within a pool, available space can be limited by various factors including
 physical pool size, quotas, reservations, and other datasets within the pool.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque disponible pour un ensemble de données
- et tous ses enfants, en supposant qu&apos;aucun autre activité dans le pool. Parce que l&apos;espace disque est
- partagées au sein d&apos;un pool, l&apos;espace disponible peut être limitée par divers facteurs, y compris
- taille du pool physique, les quotas, les réservations et autres ensembles de données au sein du pool.</translation>
+        <translation>Propriété en lecture seule indiquant la quantité d&apos;espace disque disponible pour un jeu de données
+et tous ses enfants, en supposant aucune autre activité dans le pool. Parce que l&apos;espace disque est
+partagées au sein d&apos;un pool, l&apos;espace disponible peut être limitée par divers facteurs, comprenant
+la taille du pool physique, les quotas, les réservations et autres jeux de données au sein du pool.</translation>
     </message>
     <message>
         <source>If this property is set to off, the file system cannot be mounted,
@@ -87,15 +87,15 @@ mechanism to inherit properties. One example of setting canmount=off is
 to have two datasets with the same mountpoint, so that the children of
 both datasets appear in the same directory, but might have different
 inherited characteristics.</source>
-        <translation type="unfinished">Si cette propriété est désactivée, le système de fichier ne peut pas être monté,
-et est ignoré par &apos;zfs mount -a&apos;. La définition de cette propriété sur off est
-similaire à définir la propriété mountpoint sur aucun, sauf que les
- ensembles de données possède toujours une propriété mountpoint normale, ce qui peut être héritée
-La définition de cette propriété sur off permet des ensembles de données qui seront utilisés uniquement comme un 
- mécanisme d&apos;hériter des propriétés. Un exemple de mise en canmount = off est 
- d&apos;avoir deux ensembles de données avec le même point de montage, de sorte que les enfants de 
- deux ensembles de données apparaissent dans le même répertoire, mais peuvent avoir différentes 
- hérité caractéristiques.</translation>
+        <translation>Si cette propriété est désactivée, le système de fichier ne peut pas être monté,
+et est ignoré par &apos;zfs mount -a&apos;.  Paramétrer cette propriété sur off est
+similaire à définir la propriété mountpoint sur aucun, alors que les
+jeux de données conservent une propriété mountpoint normale, qui peut être héritée
+Paramétrer cette propriété sur off permet d&apos;utiliser les jeux de données comme un 
+simple mécanisme d&apos;héritage de propriétés. Un exemple en paramétrant canmount=off est
+d&apos;avoir deux jeux de données avec le même point de montage, de sorte que les enfants des
+deux jeux de données apparaissent dans le même répertoire, en ayant des caractéristiques
+héritées différentes.</translation>
     </message>
     <message>
         <source>Controls the checksum used to verify data integrity. The default
@@ -103,11 +103,11 @@ value is on, which automatically selects an appropriate algorithm
 (currently, fletcher4, but this may change in future releases). The
 value off disables integrity checking on user data. Disabling
 checksums is NOT a recommended practice.</source>
-        <translation type="unfinished">Contrôle la somme de contrôle permettant de vérifier l&apos;intégrité des données. La valeur par défaut 
- valeur est en marche, qui sélectionne automatiquement un algorithme approprié 
-(actuellement, fletcher4, mais cela pourrait changer dans les versions futures). Le 
-valeur hors intégrité désactive la vérification des données des utilisateurs. Désactivation 
-checksums n&apos;est pas une pratique recommandée.      </translation>
+        <translation>Contrôle la checksum pour vérifier l&apos;intégrité des données. La valeur par défaut
+valeur est ON, ce qui sélectionne automatiquement un algorithme approprié
+(actuellement, fletcher4, mais cela pourrait changer dans les versions futures). La
+valeur OFF désactive la vérification de l&apos;intégrité sur des données utilisateurs. Désactiver
+les checksums n&apos;est pas une pratique recommandée.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the compression ratio achieved for a dataset,
@@ -521,7 +521,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogMount</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dialogue</translation>
     </message>
     <message>
         <source>Device to mount:</source>
@@ -548,7 +548,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogName</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dialogue</translation>
     </message>
     <message>
         <source>Pool name:</source>
@@ -587,7 +587,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogNewPool</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dialogue</translation>
     </message>
     <message>
         <source>Selected</source>
@@ -789,7 +789,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valeur</translation>
     </message>
     <message>
         <source>Total size of the storage pool.</source>
