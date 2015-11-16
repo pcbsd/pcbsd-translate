@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Вимкнути використання з&apos;єднань  IPv6</translation>
     </message>
 </context>
 <context>

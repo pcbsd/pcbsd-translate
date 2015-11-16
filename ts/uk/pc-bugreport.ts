@@ -183,11 +183,11 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Відправити листа в список розсилки FreeBSD. Перегляньте наступну веб сторінку для того щоб підписатися чи переглянути цей список розсилки.</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Відправити повідомлення про ваду, використовуючи систему відслідковування вад PC-BSD</translation>
     </message>
 </context>
 <context>

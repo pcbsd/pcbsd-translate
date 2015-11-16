@@ -285,43 +285,43 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрипт налаштування встановлення PC-BSD</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Утиліта керування дисками</translation>
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка читання /tmp/pc-sys/</translation>
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасовано встановлення конфігураційного скрипта</translation>
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка оберіть бажаний тип встановлення</translation>
     </message>
     <message>
         <source>Graphical desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Графічна стільниця</translation>
     </message>
     <message>
         <source>PC-BSD (Graphical desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD (Графічна стільниця)</translation>
     </message>
     <message>
         <source>Best for servers and headless systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Найкраще для серверів та безмоніторних систем</translation>
     </message>
     <message>
         <source>TrueOS (Console based server)</source>
-        <translation type="unfinished"></translation>
+        <translation>TrueOS (консольний сервер)</translation>
     </message>
     <message>
         <source>Restore from an existing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити з наявної резервної копії</translation>
     </message>
 </context>
 <context>
@@ -714,15 +714,15 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>New Partition Size (Total)</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір нового розділу (загальний)</translation>
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
-        <translation type="unfinished"></translation>
+        <translation>Будь ласка оберіть диск чи розділ для встановлення. </translation>
     </message>
     <message>
         <source>Use GRUB bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати завантажувач GRUB</translation>
     </message>
 </context>
 <context>
@@ -821,11 +821,11 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити AppCafe? Це дозволить керувати пакунками та тюрмами (jails) використовуючи веб переглядач чи мобільний пристрій.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити AppCafe</translation>
     </message>
 </context>
 <context>

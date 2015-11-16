@@ -463,7 +463,9 @@ Please configure your WPA settings before saving!</source>
         <source>WPA-Enterprise is selected, but not configured!
 Please configure your WPA settings before saving!
 Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA-Enterprise було обрано але не налаштовано!
+Будь ласка налаштуйте WPA перед збереженням
+Дійсними налаштуваннями Phase2 є MD5, MSCHAPV2, GTC або OTP.</translation>
     </message>
 </context>
 </TS>
