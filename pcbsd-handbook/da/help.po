@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -488,29 +488,4 @@ msgstr ""
 # e4c70c8c0ae8410da3d93fabd064ecc5
 #: ../../help.rst:259
 msgid "`Definitive Guide to PC-BSD® <http://www.apress.com/9781430226413>`_ (book)"
-msgstr ""
-
-# 355d7a56fe404fcb83b78bccb900a697
-# fb84e286732c4d9382627380ca7938db
-# 878a563c8f0c4d2b9167a90b22113847
-# 412fecc04d83403880a75184ab9c3ff6
-# 43c8d109f77543f0a5d5f85cc9c6fc1a
-# 4aba6b0df38c4f2a969a50d53931cd40
-#: ../../help.rst:1
-#: ../../help.rst:141
-#: ../../help.rst:177
-#: ../../help.rst:190
-#: ../../help.rst:209
-#: ../../help.rst:233
-msgid "help"
-msgstr ""
-
-# 9d60cc1d916c4aeeac01d1fc8c18fc0a
-#: ../../help.rst:18
-msgid "forums"
-msgstr ""
-
-# ed3e2547692b4893a4a27256ef79240c
-#: ../../help.rst:108
-msgid "irc"
 msgstr ""

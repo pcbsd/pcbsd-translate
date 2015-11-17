@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1181,110 +1181,8 @@ msgstr ""
 msgid "PC-BSD® uses `Pootle <https://en.wikipedia.org/wiki/Pootle>`_ for managing localization of the menu screens used by the installer and the PC-BSD® utilities. Pootle makes it possible to find out if your native language has been fully localized for PC-BSD®. Pootle also makes it easy for users to check and submit translated text as it provides a web editor and commenting system. This means that translators can spend their time making and reviewing translations rather than learning how to use a translation tool."
 msgstr ""
 
-# 4052166cfb10404c96847ea5e2751e6c
-# e15441c366694937bf21cce9d02b933a
-# ed12de1ad13345d096667130c87045af
-# 7ccb793f50f7470eb9f3254dc4a38fb0
-# 727f9821462b4c0c9e9b010970b4402e
-# d062cfc9d950495494f0d74e95bbb145
-# e089e35fb1a8427b947de409ea1fc261
-# 13d4023b8a094be2a3f608239cb84f02
-# 897bfe0777a7495590638ebf139f45de
-# 1b2b361549d14eb59b0745c42e2f149f
-# c81bc0d6daaa4d0bb40a9ae08bed6fee
-# f34aba0291754d7eaf7d518990118fd0
-# cacd766d75b14bf78b18370054a95f6e
-# fbcccdc7290447389c3759e72638e89e
-# a57add5f92c64b22a7741db20a7dc0f1
-# 544fc1cdfb7c49b1b11e59a7e79fb140
-# aaa020e2481e4d8b98630f95dd62388d
-# 8d06224463464055a3ec8b340785e568
-# 725d903cee374ceba7c46b94d6c2a17e
-# d8b58f3d05b945cb9dcda5bbedb04ceb
-# 4afb5fca1d5b48f1adc1fbe25f771c95
-# da81f5b4c9b44cb5978f38035e33e98e
-# d54e28cfcb5b47b0a1dc7a0c4998cc1e
-# 7f6152f66eac41879760461587411bf4
-# 7cf225580d0e46acaf9b4ed0302ea804
-# 05545c2683a04c0baf60ca9d227142d9
-# 32eba10c94e54b67a53adb3006dd993d
-# 13a01cd7b823415fb7bcac0abdbf79b2
-# e7fbe0420dca4f73beb5fa8f50284948
-# 8b87c81d9c7e4f648d05d17c2667b4d6
-# 8878fed1f4b449d6beab404d3589b2ce
-# 0d438300edf448009a6e95e855c3cb14
-# a6feb28c8ece43ff9d62a1ab58c8caf2
-# 3a22dc5739094a34899babba31193cb6
-# 3fa9b5fbc60d4b62bc4cafd9a94d22dd
-# cda61f17ee9b42a1abd745c110616373
-# c97eaf75c2584d6c8e67e158e6f2110e
-# 3be98de1ef6c4721be8e3d60e566d6a7
-# d364b90e221a40b68ec41b3fd4f11295
-# dfbf19fbc810498baf35494a4abd9b44
-# 4e09782d334a44ce9519569775131688
-# 1e65b43560f140b3bda11d33e908856c
-# e72ae443a6f94140838334d62d0a2954
-# 40c4525c126c434697a5f8b1f60b1567
-# 40feb71aec1a44bcaf51d07ecd1d8d9f
-# 99d88db64da14c93a8c74f83ca58bb3e
-# 49c2078abee04527825c0adf608cbccc
-# 44ddb0d99872445fa51bdb47154108e2
-# dcf0adc4901742d297b1a1a326df432e
 #: ../../support.rst:76
-msgid "To see the status of a localization, open up the `translation website <http://translate.pcbsd.org/>`_ in a web browser, as seen in Figure 11.2a."
-msgstr ""
-
-# e18cad29ec344f8d87c17dd4f7f8ae52
-# cda6a400e8634836bab32492091830a3
-# 101bf7ae18cf4fffb2c94a4f0c177c65
-# 8beecd079948449d96f9b442e6c20bf1
-# b89fdb74959647298d18575992521b26
-# dfde8e24d6304f62b6061de254755859
-# 1b1e3b703ded4af891ab2bf52db0cc90
-# e4710baf63ef458bb47f15bcfd4df000
-# 709482bba7c54f7881fffdb6d1f96651
-# 3e4ff4c451c64ed8bf066e45f149d3d5
-# acc6a7b1d8a44f32bbb6747d474bb9a2
-# dfe0c87028c9432ea5558ea881308ed6
-# 1ee7f7f1611c41429608f2f21e2f2af6
-# c3e4f145d5994f0aa3ccf3ccce822fac
-# 412bb944378c4c328c835491a7f6d6d2
-# 40681126f4eb46ad83564fc21d7e9960
-# 80e484196cb14d50afb6a615a443a971
-# 8cc904fb83264771af6f3be71edcd5e9
-# 22afc10d8bd64d16af0b72a256e1d756
-# fffc0f80a4e14d67b81a2f8228a002b0
-# 60443dba22d54a25861d5ba2964fa30d
-# 097c9a58a1574a458f71a564a73d090d
-# 923cdf5f67a84989a94ccd6f7d78ca99
-# 2781ed00ca974c4f96587d2345871438
-# 28b363464cff405e84790370bd366f9e
-# e5d33f18d72043e58f2257e14125b99a
-# aba8218d74b84c36812edae313f5ab02
-# b5b776c59ae243d7a2e53fb4ce98804d
-# 9ebe403f2b654ad5a567835dc2fba83d
-# ad6eb39b6ca04347906955de7a2ffaea
-# c3e468ff9eca4be2b71048c6745a3e15
-# b2ea23cfdcd04a86b20e2a3b601b1352
-# 598db3a26e3f4e7892fe1ed0ec918f37
-# 075d83b4472c4a4e94a225b1da99a397
-# 32937018d35e4a9498f7a823539eb0d7
-# 4a9dd78872ec4e4d9b16cf335deeb284
-# 74cb949e636345a88966450dd444f124
-# be9ee9ba3f9942f589b05a889305d110
-# 8f069f527b7540e2a112031e65486e9f
-# c37ef1f190a041e89062c3b7f2ca333b
-# 6ecd23fba9ac4b66b503fbdc040fab62
-# 746e18960fa24bf2865ada6d943a3987
-# 557e15b5cad149d78dc6465cafc710b7
-# 4298fcfb99dd4a8db238544dcf8e2c0a
-# 64a0d1a355494161b34cd6dd3d0a0687
-# 7ad881cfc6764af5959cf692c904acbc
-# 40a2ee995c514e37a66bc59ca285254c
-# cfc9d1396e924c97b6ae86cfff06fe41
-# 380d2b6abf664602876405c913127290
-#: ../../support.rst:78
-msgid "**Figure 11.2a: The PC-BSD® Pootle Translation System**"
+msgid "To see the status of a localization, open up the `translation website <http://translate.pcbsd.org/>`_ in a web browser, as seen in :numref:`Figure %s: The PC-BSD® Pootle Translation System <translate1>`."
 msgstr ""
 
 # ed4253650c5e4340a78f7cb0d29e9aee
@@ -1336,6 +1234,7 @@ msgstr ""
 # abfd5ef859b84e1a8e9a81af4d8ea7a8
 # 05737a8031574d88b545f0f053e668c2
 # 504e4a5132ee4925ab7a4cc41babbbbf
+#: ../../support.rst:83
 #: ../../support.rst:82
 msgid "The localizations PC-BSD® users have requested are listed alphabetically on the left. If your language is missing and you would like to help in its translation, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_ so it can be added."
 msgstr ""
@@ -1389,326 +1288,21 @@ msgstr ""
 # aa4b2d6ec0b34d21ba7c2924485300fe
 # e85ea439747d45a6afa144654fe8a280
 # ade35e841ac046028efadd239633d417
+#: ../../support.rst:86
 #: ../../support.rst:85
 msgid "The green bar in the \"Progress\" column indicates the percentage of PC-BSD® menus that have been localized. If a language is not at 100%, it means that the menus that currently are not translated will appear in English instead of in that language."
 msgstr ""
 
-# 5b811e355b784dc8aec243f315667160
-# d8ba1d5fafd346749b6bb5b2f5d5664d
-# aa2cdefff7054a58b843fc82f9d36661
-# 8d03d9fe7b1c4917ad5d2e43d77bf9eb
-# d9d2e3524bae485b97509de1ac1f94ab
-# 0042de4ede734ac0bb1cbe2f0f2a5ccb
-# 03957bd641574949a8181e2001db32f4
-# 9033b6cf9d2647c9875f779894083a7b
-# ca6ed11bcb2f4d81998773c67b59787e
-# c76ea0c1e199424faa740874d19927be
-# a13c4b0d37424fea97db3a5a0125b38d
-# f24557d71c0a41dc8b3ccf539614bd14
-# 4271ea15fad4495e96dd0cd3709464ef
-# 01add3cb2a63400ca289e05931c86313
-# d93da27d74914551b41e7d4dad9cff26
-# ee4bc01908ac4245878e7c2899bbd901
-# 9849fb4815ec447f9fa057fc07f04526
-# 87a87cbfa74d4fafabf64eeb0ecbcaa4
-# 0b33badb31fd45b6b3ca853baacca465
-# b60efdc9034d43b6857cc4d525252402
-# 600de10e474648639d795ed6dda8f026
-# 38ee6f0ab0ab413ea52c366517e33d02
-# 18a32eec55c54d44b3ecb552aeed92f6
-# c9e15a30ec3e4abc8464963c4c49bffe
-# 9bd11b99e7104faca64bf351ba61496b
-# daee484d67024860a42c74083ee1c7e6
-# 1339cdbd8a99473993fba149471be28b
-# b5aede18aa314623bea259052af2f56b
-# e181eb70db7c4c82ac3a2151af833eb0
-# 70ddc42a3b374ab08ee0b740a000df06
-# 5227bc2cdeeb4ca9aff4db43eca57d10
-# 28fa27ba46174ffd968a290aebc63623
-# 8de93066f6bf45a1a55d55552b9e8b97
-# 6fcfe794dfdc4ac98c3609e925234a05
-# db7f81ed11de489497a641bca9239481
-# dd9bac7e72b84ea39c5470d8811a09bc
-# 877f7dd2361f4e6d80354f2f6da47c2e
-# 087ef4544f5f45efb65b5ceb9b12a8ae
-# 424d0d72730d4e4fa6ed58bfdd5744c8
-# fe81df7a34da41d6a28f93620b951c73
-# b528c7840d114678b0280eaa0e8767fb
-# c988be81f39545bd89e5ab4b2bf86cf6
-# 5a9be731b88b4cb0be7144ed12e6f9a1
-# 7f1bd2ee488e42398e16a742c6eae90f
-# 5a4048d6ae4c4ee8bd01232c2f10248f
-# 07062c8e6e164568858f310640ffad16
-# 778c78b511bd4bfbbd68f1f44874c133
-# b8014b5b8f1843cc9bbff8b4b10f4042
-# 2e8de906740b4b49be98cdec01c08f96
-#: ../../support.rst:88
-msgid "If you click on a language name then click on the \"PC-BSD\" hyperlink under the \"Name\" column, you will see each menu item that is available for translation. The example shown in Figure 11.2b is for the Greek localization. In this example, the menu for \"ethernetconfig\" is complete, but the one for \"LifePreserver\" is not."
+#: ../../support.rst:89
+msgid "If you click on a language name then click on the \"PC-BSD\" hyperlink under the \"Name\" column, you will see each menu item that is available for translation. The example shown in :numref:`Figure %s: Viewing a Language's Available Menus <translate2>` is for the Greek localization. In this example, the menu for \"ethernetconfig\" is complete, but the one for \"LifePreserver\" is not."
 msgstr ""
 
-# 147b66904a354e2b813aeb997412c628
-# 17c65711893d45e1b8146ae0a745f20b
-# 4b9c73276d874ac189bba33e7ffcb34d
-# 96e923185d704b128d3f50770a929593
-# c6c63de80fad44f5878262e1bf7812e0
-# 0b0c6b4ceca14de59dfaeb2143e79b5b
-# 1816b814db7d4e3c8fdf7632c4a04369
-# d48ad6464b254b6aab8ab6d63f1da17a
-# 83d9040116694349982c707de214f2c5
-# bc68cfe6692a4478bbd08b993dff9e7c
-# 74b0e2a92c6c4ccc985f4c9c93a40d16
-# e3f7ae528f5d41fda4f7b9b40e4df255
-# fad405f694774bd6870b11ed056635ac
-# d9ae15463481480a8e5b14f68c66e4af
-# 9528ee4bfa5e47de9c1857f0ebf5b9f2
-# ee265f8644c743668a855d1ca70da4fa
-# 06ade4bf5b844440be2ae313b3e7b8d7
-# ce115c0b4317457b99659be2796ab3c8
-# 5d01d6683cf8429e88a01c0f247eef5d
-# ac82b909081f431da9916629e1f50bad
-# 6ee0b1a4f6304b41a4a5a84b475956f3
-# b573b297c442412ea229e6a80486e5e0
-# 2b51f23378c24406a9f79f3cb25300e3
-# 9aecaa75ba784928b7954b99a0f764a2
-# c1306772f084451f80a9f8bb2b92e593
-# 519a3c956e224ff19d1bfdd92b7e3167
-# e02844135e364e41aefcf0eeed4f6a5f
-# 69497ba9757843bcb618d8300be64259
-# 437dc7867bd34b94864594d06a70ade8
-# 4dbddf3de1984113a78f89c7dbd37d9d
-# 6e1ab276eec84f8fa2a19d2321bada9e
-# 697098fdae0d462ab4fd9f50b1af7e7a
-# 80e34cbe2b1d4033a1151bd2aa1c305a
-# 95daa65d9e02478dbe74b61ac0ee9a4c
-# 1c20e6a998e84b2db26a21826e6bd277
-# 8b4aa3727bda494bb81aa3b01358fc0c
-# 85df25fe68574fd185d180bba2a0f8ae
-# 9aac9deba8094f4e9c64bc0b93ba1466
-# 4e6cbef181414d689ec02ba5bfbf73a9
-# 92b072da527e4eab9efd18c9cebeef05
-# a99967a1139a47e890e3d66012396aa4
-# 96509b13882e481da0f715e312a3e393
-# 5444fa4e369343788e7446965050e9ef
-# 8d07b52886d147b19dc491d85de33ccc
-# 76c40e792add4840838f10bb9215051b
-# 3af5d456096d4fc19e5143c2f3b7c08c
-# 4c28f0081b7a41469386c37efed2f4c9
-# a7a0b19c9137497c8bc2650d5ba698e5
-# 765b96f5fb8f4231a1d615fddd6e42c9
-#: ../../support.rst:92
-msgid "**Figure 11.2b: Viewing a Language's Available Menus**"
+#: ../../support.rst:97
+msgid "In order to edit a translation, you need to first create a Pootle login account. Once you are logged in to Pootle, navigate to the menu item that you wish to translate. In :numref:`Figure %s: Using the Pootle Interface to Edit a Translation String <translate3>`, the translator has clicked on \"LifePreserver.ts\" then clicked the \"Translate\" tab."
 msgstr ""
 
-# 9a1871c30b1541f9a830d55bd93a4231
-# 199daa6ebdcf4a3b8aae43d24aa6f90e
-# faccd60e19634902be6d7c172ab3a153
-# 7546f859f2ee4316a5c3eb400739c7bf
-# 38e279e2e6ee499f8090530d432e6379
-# ffe56cdd893744f396015b98143f3e0d
-# 5961febff1044c24a99501f3fb08ca6e
-# 3d5f6b91a1a345bd9b696fcfa7cf4fb3
-# a1291bbbf1734383a5a9b4646beef75b
-# 4d92eccbdc4c4f54b4fe77f4bea4d284
-# 594f6b69e35c4e918b960251b42a0872
-# b4324b457326404c9d8b6d9cf29a7302
-# 257fc5bd83d54d62add95f09f5cff66a
-# 986cf76712e04464b2dd611aed456a80
-# 25bcbad60a8c4d1e9f256e84f4d92f7a
-# 58b8489163614da49c8060ffde836318
-# 50257e5f2feb4fd38b406b4881dc8a83
-# 27f468eaecf041539ac9594baf50b339
-# f0be097955f146148b78e1f72357b435
-# 57bd66601143471b8fe378380714245a
-# 5fc313c7ecbb438aa324696a06d41b59
-# 278fa129d65e4c078bc3646d1a0f2e0c
-# df92ba9ec8be4400b3a4bd6ff04dbb48
-# b31b773fda15483aa9a718fe7db9617d
-# d76b1cee98484e9c8eb28b78f4101dc5
-# 23bba87b50134f1e848a2724db254724
-# eb59e270466b4f9b968ae61ce277fb62
-# 13a3290a8bc54c1b8e244b546090e658
-# 6ec906ef5446462bbde4cb52b225df53
-# b95c7e5208524b7ebab1ff8252fd238c
-# 5013987ea8a94cd2b325e8c018c699fd
-# 17a990b022aa47b59559b53230444f8d
-# abdcfb4bf06b4de1b37599a5a49358af
-# 6691e808077f49c28bea478668250e6b
-# d4c577109c87445cb186e9acb8a33bd0
-# 96cb2a96efde4fe89693113a5255e97f
-# 9fdad936e61544fe8f09686c8fdaf4be
-# 7816f7df1afb47da8a27bb79281db2d4
-# f14de82178c6455ab5b103e7cea9b18d
-# 1ee81236523244fd816ae5450d1e50bc
-# e8bdb60cf8fb4f48bdd2c6ba463a14ac
-# 8928bd6fdcc649c9864ed742dde1daea
-# 1bfc561b2ad44258aae13296d6786a03
-# da9aa0d1166e42a1b39837838cc7bc40
-# 9c8c480b2492493eb97b970b7107456d
-# 9d0b22e09887485bb492fed00391f231
-# 27c05100ea3f4d4c8831eaf21d4a0cd3
-# d6e287a56e404278b1b5ec8630b73591
-# a5643c62fa4a4e708bf169e1920f94a2
-#: ../../support.rst:96
-msgid "In order to edit a translation, you need to first create a Pootle login account. Once you are logged in to Pootle, navigate to the menu item that you wish to translate. In Figure 11.2c, the translator has clicked on \"LifePreserver.ts\" then clicked the \"Translate\" tab."
-msgstr ""
-
-# 0d0586dae0664ff6bd2e64d274726739
-# cc92d6ef493d448c9a321bf63eb864af
-# b4317aa46f064170a6972dea89d902ae
-# edbc0aa80cc34be18dfc5c46734c5aa7
-# 4698db60bdf444469fb3cb3db1ee8571
-# 9ed3f724cb834823b8ac1975e0ac2546
-# a35c3be960cf4198abe6d06cdb87e24b
-# 8988d8165d084d3fa75fe5a20a606da1
-# fe62d4e52b504dfc9095accb9e1d427d
-# 9c6057042c51444b99942aeaf2c1ab77
-# 65ac093837aa41dc93eef2eaf9ce830e
-# aedf548981754b6a88afc46806eb6cb3
-# a246e77059b34984be044da4184fa286
-# d4e1accb97c44e38a3b2afb877a5e071
-# aaff50f01c5a46a9ae3c067ca09f8f8a
-# 9a822e66ddf1412ea2b78e80e5ca9e42
-# f2e5f1b5166d4a708bf5ac3bb239369f
-# b6bc563e17d74d69aa64abed82f3df4b
-# a88a4e37f85d41e18b5d5621916956ac
-# f9fd6f1013184630a3c8dddc66be5fcf
-# cb59091bb99047b7bb3d1e5921275baa
-# e7a4d678cd754c8a808269df71845ca4
-# c861d475182d497e913784be307c9534
-# 671019c818244b3ea4009bd8d62759f4
-# 057c5b3291614f36a745a7f8436a93c7
-# b8f1019cbd5347fb8c7bd3beb10b4ba4
-# 89328ddc41344acfbd0cd54dd0f8e11e
-# 9d6c1fc8bceb446a92aa566cee899af0
-# 9c6572ec93e049fe9e2d736ea548c5e2
-# 0039e31f57dd4a4ab9d578c57858e028
-# ca1febbe2e31471fb37a5cd42bbfd306
-# 345dd7a09d6e4bf58e93494f4b626960
-# 160db5f30fc44d48928ff10b14261260
-# 30dfa29886d1445aab39eb7799f11b21
-# bba18989da3a41679e7b0f520b587ece
-# 899bf25c70a2463cbd200d20191bcd7d
-# 0893a147acd54513a8717ccb9f70209c
-# d0489a24812a4618b3eddbf6c0f3b114
-# 23d90307b1964991aa5518fa13379375
-# c3e77c4ad2b246be9150f5afab0ed98c
-# 4040fd6220f34acc882459cc8acea66c
-# 5cf264d9ed0b4a259e84d1570fde9a0d
-# bafa9669a7cf436b9c1e6ec6eb620db4
-# 8801102c1bb54e32939916cc0da6a15d
-# fc9c2539c29148168e5f9443307e4eb4
-# 7d4673378a9f47e9b8ec6e4decf7dfd3
-# c9e8a9ba7c1f4db0a3f0cd2156a4096d
-# 127ca09224ea4275a19c498eb0ee4a5a
-# c76d7a8fa1be41a6b993857a523d01f0
-#: ../../support.rst:99
-msgid "**Figure 11.2c: Using the Pootle Interface to Edit a Translation String**"
-msgstr ""
-
-# 6c4d6a3b604d4122b2fc308d3bb34aa0
-# 2ed6bbc371a642a5b2a72468ae7bf4dd
-# dc6eca84a50141939dfd79210791efe7
-# e8fd81bc6ca84efb9e015f0386191a82
-# 74726361852448e6b17a493932b8cf9d
-# a4aef47c685f406c8901ac5a97cd7da0
-# a9e412b594394d67820779e31024c904
-# 5be85718345a4dffbc64f383461ac4e1
-# 9bbaf91a351341e3a3150d72530b530f
-# 19d7e3c5e20b470cbdd4fc97ed9d3d9c
-# fe6a60e3a9b34d258d72efb72e088253
-# b502e7edaef24939a1f19cb2270e18d1
-# 1909cd33d0254198b38ac80420c9720c
-# cd85eaf4f2574c2c831438d5791f5603
-# 658aee25fb67401ab44ac84bb48dbcad
-# 2bd2be1a67cc4269822e5cf99054ca1b
-# c06aabe0f95b433a8783104ab2e3c5db
-# ae1ce64133864452bf91c29c029e9e74
-# 6e473329fffc4b08813e28d38b71d670
-# 3a4591cf68dd4c8b84efad1e205d94ad
-# 25ff87fd52e94744bbd8114727baf5e3
-# 86bd8335bf3041bb94ff113794c46a93
-# 15660228a87e447ea6e9531dd6c48b14
-# 31fe33fb708543cc9d0a3ae503a5b538
-# 2c1b0cec1439476e8480dc331032670d
-# a7fe41320cd441a988add07ba5f7736a
-# 651fd157ece84704bfd515461faf48ec
-# 4b6442a390ff46a1a7336f39fae3ef15
-# 34be8782ef044841a6dead316ea00b56
-# 8e41797f1e6540778a87c03dfeecbd06
-# beea15ad94f64306a04f25553debeddf
-# b6dc0744cf0043e893f8bb9924ee4c57
-# 56a2ac5cbee84945b06fc88e210987f9
-# 1f2f56f337254daba3cc67403e5b8b2e
-# 4dedaac6a57a43ad9fea98aa8af5518a
-# d64deae949ee4360955b88dba008f34f
-# 7e7a74e6d15d45c98a825af5db0775c9
-# e10112a038b1452e974a065d408eb5db
-# 4edac0d2e0ab42e388f1d84282063e14
-# 1169aa633bc74cba86dbef4374fec763
-# 1c01d1a5997c406e9ecbe4528b48b838
-# 223df2cd440e440bb246fdbf85c21904
-# 410f2e6d04a14dc48c848a62061952af
-# 51c6369ab45e42b0b52dac12072edc8b
-# 5d46c4aca93841a0aa334fcb8aa4dfb9
-# c3727ceacbe44fe8bd9f576ee493ed74
-# e554799ff95b443aaba61763d71cef3d
-# 7a7d716ab5414ff38cae794a4fe55407
-# c089412f33c54d8ca57660239c5a66e6
-#: ../../support.rst:103
-msgid "In this example, the first string, the phrase \"Classic Home-Dir Backup\" has not yet been translated. To add the translation, type the translated text into the white text field and click the \"Submit\" button. To translate another text field, click on the hyperlink associated with its name, or use the \"Next\" and \"Previous\" links to navigate between text fields. Sometimes, a text field exists in another screen and already has a translation. Figure 11.2d provides an example where the translator clicked the hyperlink for \"Filename\" which displays three previous translations. The translator then clicked the first suggestion and it was automatically added to the white text field."
-msgstr ""
-
-# bd00c2dc502e4da4a3be081019a30a22
-# 1c595bc2bb0d4f23aa16b1fc620ca774
-# 113c582eab3341989332308cde8cfb68
-# e1430a9192b44a67ab72362ab6aa0f29
-# 876f9b7f681a49c48b4d4802d217fb2b
-# e2c4ca6ebb0340f8aec3381643ac8e6a
-# 247c2b6dda2a432ab80614c152b3d959
-# 77bce0032c204d91b089bb4bd90e0885
-# 8859982a2baa43d8b7936bc2c4d1d53f
-# e4806bae93cc4702846629cddb1eef81
-# 175647cd3d07436f81e3698b420b7c7b
-# b1fca85e9d344a45a14840f0945efc69
-# d9a03dc6e86a4d35990a4b2216bc3c95
-# 1c6f896e233c4733b72c62e74b47b5a6
-# c2fb0f481bf6401480468f27a04caef4
-# ccabdd9004f246fd9be44c8544cf7a51
-# 4fa7d80335ef4dd7870e30954d323e6c
-# b718cacefe8b4cb99cd0d909baf55470
-# d33ea9bcafa24312848faf8cad2ce70d
-# 5d983e52e6d64fd7a1b048c275874094
-# a28611f053e948f0a7756a4ae01c6bb4
-# 33f2abb9fae54439b1a9054511ed52df
-# 91c6ad1fe2dc4282b354bbc1af9281fc
-# 89862f329110481e9313216a6a421ffc
-# 1c4bb3fa67874452a22b36f799689168
-# 5e2dfdd0250548f981493ec06a68db87
-# 07eee764729f479bb803f7585d31fb7b
-# 94a89541b87c45569c08b455a7bf6dfa
-# 5766ebe1294440dd9d2641ad32f7d1be
-# 20036c6415614664a506faba23c30b49
-# 7d21371367134a89bdeb4c97b092abe7
-# c5af107f499d43acba5103003ece234f
-# 7728d775ebf44ac089b0ed9f319fe59b
-# bc48691749a845478febb0941c3424b4
-# 3225ae349c204e7a9c73a4d55ed20210
-# ba05012ce3cc4efa9ef8dceb7d664ab8
-# 325e701fb34947438353d1cae9120a39
-# 9e9ec0573fb6406b997720cf2d44fe50
-# fdcff21bb6eb472f8a742669aa38c6ac
-# 6318d701270348bea9c02d17dfc1826d
-# f3ff7485db9c44598c995d0cd242b27e
-# b2cf3e8a4a5f4b4eb1bd7a9a924dc97a
-# c430313eedac4065b3a7e2336c32cb26
-# fab49eba9c674a4dbb9cbd87302029ed
-# 7ddfbf6533064b2ca690f9ae55c9eb4a
-# 0bd0897c699943d9b7cacc8a2dee117b
-# 48f42b9e44574e2d8e59f590c1c472e2
-# b8b4c5d0dcce461b8642ee6ffe7b6d3c
-# c6112015e7164bdeb917b90ea0b3ecb4
-#: ../../support.rst:109
-msgid "**Figure 11.2d: Selecting a Suggested Translation**"
+#: ../../support.rst:104
+msgid "In this example, the first string, the phrase \"Classic Home-Dir Backup\" has not yet been translated. To add the translation, type the translated text into the white text field and click the \"Submit\" button. To translate another text field, click on the hyperlink associated with its name, or use the \"Next\" and \"Previous\" links to navigate between text fields. Sometimes, a text field exists in another screen and already has a translation. :numref:`Figure %s: Selecting a Suggested Translation <translate4>` provides an example where the translator clicked the hyperlink for \"Filename\" which displays three previous translations. The translator then clicked the first suggestion and it was automatically added to the white text field."
 msgstr ""
 
 # 292a01a4f9304c76b846a14a423be5ab
@@ -1760,6 +1354,7 @@ msgstr ""
 # 9a6ddffdaf9b4e79ab117d657af5920c
 # d411ccb7c6ba43faa397b85773066a7b
 # 99af2df37c294db9bbec291d3c046260
+#: ../../support.rst:114
 #: ../../support.rst:113
 msgid "If you need help with a translation or using the Pootle system, you can ask for help on the translations mailing list or in the `translations forum <https://forums.pcbsd.org/forum-40.html>`_."
 msgstr ""
@@ -1813,6 +1408,7 @@ msgstr ""
 # fa25a20344b84392a5037f9a9504e86f
 # 5cac8670426d49b8bc58992286b962d4
 # 8f862eb2570b42b7a832a9427b345976
+#: ../../support.rst:121
 #: ../../support.rst:120
 msgid "Documentation Translation"
 msgstr ""
@@ -1866,6 +1462,7 @@ msgstr ""
 # eeef4da7d1614d2496235b65ed935012
 # 3e27a776246a4539b1c5b211e8705eb9
 # 1430bb63143f4a4cb8b9c43b61d61ecc
+#: ../../support.rst:123
 #: ../../support.rst:122
 msgid "The source for the PC-BSD® Users Handbook is stored in the `PC-BSD® github repository <https://github.com/pcbsd/pcbsd/tree/master/src-qt5/docs>`_. This means that the documentation and any translations can be built with the operating system and updates to this documentation can be automatically installed when the system is updated using :ref:`Update Manager`. This has the added advantage of making sure that the installed version of the Handbook always matches the operating system version and that, as new features are added, that they are documented and appear as a local copy on the user's system. The local copy is stored in :file:`/usr/local/share/pcbsd/doc/html` and a desktop shortcut provides easy access to the documentation."
 msgstr ""
@@ -1919,114 +1516,13 @@ msgstr ""
 # 9458b468db5949578bde6ea0a3d42dfd
 # f83e8c9e462944d7b256b21bd01359ed
 # 789653c59ddc44df879411831a8b9ae9
+#: ../../support.rst:130
 #: ../../support.rst:129
 msgid "At this time, the PC-BSD® build server has been configured to automatically build the HTML version of the PC-BSD® Users Handbook. Over time, additional :file:`Makefiles` will be tested and added to provide the documentation in other formats, such as single HTML, PDF, and EPUB. Instructions for building your own HTML or PDF version can be found in this `README.md <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_."
 msgstr ""
 
-# bc22a14019e144669aa82b99ab4899e0
-# 2d447caadc8941f69cd30ea15c8ecd60
-# fc591fe3bcb2407d8e5d8522f6e483a2
-# a8bcc809afcb4b86a22202e54e96cfbd
-# bc31874049e34770929b475640573852
-# 36ac69447fcb4b06b502108a9037b5f5
-# 68004b4a1dc149f885d8c0f68ee1bb83
-# 633e122f86a54d5492235e22b6ac60de
-# affcf374b7754d6c8348e2f2786c1786
-# 871c615cfbaa449abef0c44bec6c029e
-# 5b7e80500ff9406497b54a63ed2c3015
-# 87b3b040a2444bfbaf77d3f196abbe35
-# 161a00faa09344aaafec7ccb2d1b4fa2
-# 754ca3b51be2487c9e9964d48d82a270
-# b6b17f49e51a4c538b9b5b2f94aa9143
-# 1f4b54fc9ad34dfbab6f22ccbae04502
-# 9220bc03255e4fb5a704e2648fc4c805
-# d3cf065f32cb4aaabf170adbd00fd318
-# ceb766f8253741908088b6fa470a9965
-# abfb9c11de1749939120cb784e65847a
-# ffb78e51562f47b3b3aba37192227a05
-# d10727709ea8424888b11af8b97d3549
-# 2dd14290104b48edaaaa2942e9abb640
-# e76eea90ab4b48f1a03019dbde0fc0ac
-# 691274fa970e4bc08b1dd6871cee2964
-# a72740a209b04444b6fd394f03aa9f62
-# cd35ce29b9d742da8b46173e7db2dbd9
-# 53184cda491a493f96904fbe41fbacf6
-# 25d62462f221418b9749d16af604baa6
-# b72ab0a040dd4c7fb39dec6499693d6a
-# 34190f042d4e4ce3976bae708f34a951
-# 75b7a2fb34cf40e6b1b617ab63858858
-# e61515e8bb4a48d3aa73b809f2d0c4de
-# d4d6b7f7fe184ab39c916c3eb3c39ce9
-# 4666004694c543d2ba70c0b0b00bba96
-# 3a81e9c6757b4251a810d87d5c547d87
-# da17c3e912d44b5ea6bdbaa86e3cb85a
-# 29ac1247fbe64444a26822523edfdaef
-# 9f1027f924614fa89ea3197415b1603e
-# e5f73f7f2c1b4277a1b7ebe7db03b2b2
-# b28763f0969740ce81ec48dcd7d6627c
-# b0336c1147954967975ddf9379535b79
-# c671eb703319400e8e348d84f5c1621b
-# 2938e10fa0b54e79a30153cab70df4e0
-# 102d747241794b11a14dc2144310bc83
-# bc8e68f3422746fcb00a45b06a16f290
-# 8de04dd9b0254d48821c17c8c77b0be9
-# fb4318510a604cd68da074839bd55c7b
-# f584c713658848d988d04e3d680d29f2
-#: ../../support.rst:133
-msgid "The documentation source files have been integrated into the Pootle translation system so that the PC-BSD® documentation can be translated using a web browser. The process is similar to :ref:`Interface Translation` except that you must first select \"PC-BSD Handbook\" from the \"Projects\" drop-down menu shown in Figure 11.2e."
-msgstr ""
-
-# 2b840f1e41824fa2b7e6b38f72932523
-# 18f7f1bbfea34b1fa1f570c684cd00e0
-# e56de0eaed4b4a1499f59ad051fecf67
-# 8209c128c32540eba295c83e5f3675c0
-# cf942760b2074a8da26d4e013bb0d4bc
-# 9cbcdce1399c492eab5db4acf2d0b723
-# 70d68cfdd0db4864b330ccab71cec37a
-# fbcff1bbdb8143fdac0c3e1e86493d51
-# 9725f839b6a0489eb75f27afe694c09e
-# a67c850c43a54581967cca011c177a76
-# edcb3bc5cbad4638a96da163d22edca4
-# 34f1456a2b7c447890e199af544e6a4c
-# b1175ce8b0b8453393af5107bb222f53
-# 3be81f26c9d84152a343f1cf12e141d6
-# 677e05a2a6714921a49a644aec0e8263
-# ec33423c43424028893a0c7ab2cd45ca
-# bfc60aeb2d734868825aedb9a2951ca2
-# cf1894f46b384612876c81dae26b75d2
-# 70022d0a82b6497bbe29698b88530933
-# 7b1b31eee35848c6992d1caff85279e9
-# a6010eb6252f4940a8482efc3fc4c4c3
-# 29d76976ae964f6ebf33809ba7b82f70
-# b586ee85d94842f2bee64c6524d266ea
-# 5f499b3386384cd7a44df18bb067ae30
-# 65e3759af471459cb859c5b7bdd007e2
-# d9906c25032e4202a15d913731b9ab83
-# 4d3f765056434cdfad03ef6a1e38c6d1
-# 451c56f7d87e4e368a96cfeec232c7fc
-# 2adfa9f44d0e44e1a51ef31b03eb9adb
-# 043ba9bc5fdd4e0a958d2159c5bcf2ad
-# ff3eb5cb5e80423e8233680f0617dc2f
-# 88b8566eb3b841efaffea8479e258f90
-# 24cc1a59069749aeb3fedd535a51a69f
-# a222f823f9e94487b52451e0840d84fc
-# 42ca44c46eb046f087fa5e8057d79249
-# 63cface850e44e86b789ac177e246728
-# 576972f1f25047ad8bb1ea0222d35555
-# f81a845bf8584d119caea79b728a859a
-# cb7fb007cb2f4980abd77cb52a0022ec
-# 145b2a75cc214b249a18e616898af069
-# 6c3d9f6c44774112b9a53690a392c151
-# 8a76d2ced0a248458325eb41c7f7e8b3
-# 9150b00055854f0abcabd6dfbf44717d
-# 6134078965c14d2e97833c3e9fc1bfbe
-# a2264bda9379440d974c5b58920c3855
-# 70695e3bef294f50a7fd90387c72b401
-# b4fc78e2faf24333bd4debc3d87452cc
-# 25aeb5bae66c4211bcae74b0d1e826af
-# 574833942a0541ac8178722176f242c9
-#: ../../support.rst:136
-msgid "**Figure 11.2d: Selecting the Handbook Project**"
+#: ../../support.rst:134
+msgid "The documentation source files have been integrated into the Pootle translation system so that the PC-BSD® documentation can be translated using a web browser. The process is similar to :ref:`Interface Translation` except that you must first select \"PC-BSD Handbook\" from the \"Projects\" drop-down menu shown in :numref:`Figure %s: Selecting the Handbook Project <translate5>`."
 msgstr ""
 
 # b858daa5c04d4a45b28a2828a8e4d532
@@ -2078,6 +1574,7 @@ msgstr ""
 # 5535d6c00b6643a1b72d7c623f44a84c
 # 4e6660b6fbb04a25bdb1ff94196cc52d
 # d2be3a5be0a74503b6d858cd8a6cbfdb
+#: ../../support.rst:142
 #: ../../support.rst:140
 msgid "You can then select the language to translate into from the available languages list. If the language that you want to translate is not listed, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_ and request that it be added."
 msgstr ""
@@ -2131,167 +1628,13 @@ msgstr ""
 # f3b7c13fbcda40d2bc95499334828428
 # 2b4527c6465b490b8d0ebf4c5d618fe3
 # 8a207cf8b0be417baa1e5cecc3c3549b
+#: ../../support.rst:145
 #: ../../support.rst:143
 msgid "When translating the documentation, be aware of the following:"
 msgstr ""
 
-# 835a6fc324554d15965ad965e6ee6841
-# 7c3e932e33b045838309373ade0ed55e
-# 02c3fd0405174befb55fdcd25c03f7e9
-# 537f40a5fb0c426eac5b9649765c171c
-# aef026c8c9ea4665a92f723c80e5a0fe
-# ebe9bec7c5f5402ba7dfc84e348fbd82
-# 3642d465f60e44269835808e9539b0e3
-# 917a7685eace43fc8ee2e60a22ca778e
-# 30d356beb5c64fe7aa5ceb6d0981a368
-# 3198f48e286c47d5925bc416dcf44706
-# 3aaf5315752e4a9fb1d3cef34d53540c
-# 919dc642b8834370a0d8e6e35545fbf2
-# fc01826263174709b08d9ec2f730fa99
-# 5eef71651b4f46a19531a5d3f4010b9c
-# 07eee790da5a4806ae5f3385562ac686
-# ee2922d22175406cb8f3a56978154519
-# 8b08771d1eab4e17843340b99915f594
-# a573a69f34624df9a5f70236d3c01a5c
-# 4157dd7475314387b4eee13aff7713ea
-# 937c404e3bcb4f16b3a5a0fc36f1066f
-# 41dbd4d096144e939a879781647bc96b
-# 63546c1db12e4b9eb0343ac77443f4c9
-# e9bec476e0a34e9fbeeeb1f2431cd24c
-# 09c2760c0a0246c2973e5b680e9e881f
-# 55cad268e6db46058d15019366fb1c7d
-# a8efbdf926e24b2fb01c13f16046df2a
-# c7272021a1cd48b4a14b8e079a69d2ff
-# 52edcec0b44e41068c7c84f19d103bda
-# 6fb666b9f32e452d8d3e9db177acb27f
-# 1979b333c6e443f18e84213df930423d
-# 42d2324fde404b54b166c60115066531
-# 1d5f6c7eaa624ab282eea053aac0d980
-# 3a1d6e571f2c4f0ab689600d2f3630ef
-# 1f717c5729f44824b0295564e0e39704
-# 41071a05f46c4bc3852465331be5a49c
-# 1a694b07c5fb4b5aa415e5f8d8272cb8
-# 53d8a18474334c43b4207a8ab3321d08
-# 4cd805b4e5334baca74d6202fb7a9366
-# e42316e2b5a14130b6adf89866736227
-# d2f9111900d34103a828ce3d24a87e8c
-# fa3fd41143454a32bf623faafc23cf4d
-# 886a5fd9c0d64ea39f64e9223d2ab360
-# f46e288665674f8382829b3995a78b85
-# 4ee40d57b55d4506b7eb310b468fb1f8
-# 503d0012c2a64d4a89e99d1b360583ad
-# 28918cdfb83f45c9ae9cec1bfe3e30c5
-# 8f104c6d21164593825b38e785f99825
-# 08055d25508a43e5a1d68a31b226564d
-# 188a84fd9d2342e9a510670a0bbcc37e
-#: ../../support.rst:145
-msgid "At this time, some formatting tags are still displayed in raw text, as seen in the examples in Figures 11.2e and 11.2f. **It is IMPORTANT that you do not accidentally remove the formatting as this can break the documentation build for that language.** In the first example, it is OK to translate the phrase \"Using the Text Installer\" but care must be taken to not accidental remove any of the surrounding colons and backticks, or to change the text of the \"ref\" tag. In the second example, the asterisks are used to bold the word \"install\". It is OK to translate \"install\", but do not remove the asterisks."
-msgstr ""
-
-# d805324c718f4181b306253b4450b562
-# 354fbd0b220e4f38a49c099fb5684bd0
-# c23a0597a7bf408b8c8074d548ee0155
-# 22d6b28dd2b24f978cb3bb0164848f7e
-# f102f170fb9844a48039fc109d3e59ba
-# a8276d1c93aa4c299dc60a51341c5aa4
-# f98a8afa1c224eaba3c33018f5aaa6cf
-# 3c7702319e9541f1aef6d5e4820e0971
-# 8426d62611b04f1694ed13536d50a0ef
-# 07ab9a17c178465e8ee7455176fb06d3
-# ee2f58c4125c4c51b034a486f49a9843
-# ac0b83ad154643228e3619bed28a650e
-# 2f9f2bd2ba494ea1b43d0282b1288662
-# 0cb8c162365d4c089b2e8898c56cc61c
-# e725e69566214762aeb142fca1c8db38
-# eda9bcb136f3437cae088c9ca5e13f16
-# 95059eb26011443bb17e18ac8ee12ea1
-# 8a799eed063541d89dbdd041d1209ba9
-# 7c11c72ab2b94cbfb940a1f3698a64c2
-# e8a4a9285f1d41b08c6a8ef20586d9e5
-# 24de5fdaf11644da9d1172eb5b0a7f93
-# 5bc877e9d7ce44b496980f32a5007831
-# 1c1fe1e4f83e4dd79151caf512e79bb2
-# 94a7d8de0afb485480cb97c0c7a72172
-# 5739fe82d7954a43a0e3f1e845ef9aa8
-# 8c00c3a13456422da5b7447ef4ff763a
-# e580126312b14321a544598d82cff42e
-# 7ab89f0866aa491c8ffc17c24ba26afd
-# c71db2f17e9f4d81b220e159d942ed8c
-# 4fb62426f17b4c76a41ed8baf0046ca1
-# 59bb11a9bc0e4ea5b57dfb24e240fa72
-# 6d2bd3a422b24e8c855ffe737f987781
-# 3fa83c7ee3244947a949ee36b1980acb
-# 3b34bee99995446081e5d0b80f7084a6
-# fec82431e06241ab8868639b9d9127a3
-# 1de1b6d4904e45978a59d617d111360e
-# 2bbd92b4cd6d4dcf8e3a99da9cc05114
-# 54eb13972c7f466ea5683181f1f80376
-# 44dc45f4988342fe944b5844053c97f4
-# 3231a6ec813c4d0c979e27cdd055411f
-# bcdd271d4d3949838de7aa5e168a49be
-# eaeac6c28c1f42eaaadd38779423ef32
-# 0724926ea33e4f56ad0bf1ad931bd407
-# 90032586591a4969a853b0694b9e4509
-# fa43666b0ca24a4b8eac3c5c6fd4571c
-# 470f6ba692c94f348a5aec10b5f362ad
-# 10606ee252274148947923f2b2c6ab6a
-# 90759743a0af48e7871649e6c47def7b
-# a1c4c335373d4296b6ac1cb3bc477bf9
-#: ../../support.rst:151
-msgid "**Figure 11.2e: Do Not Remove Formatting Characters**"
-msgstr ""
-
-# b596e481eec64386ac4e036da6845779
-# 1d7c1013d6e04de7a263f0f3bf26b317
-# aeef63ef083f44b481bb7c412837f098
-# 39984fb285a946ba9301ac0208e46242
-# 8d63cf50e7d849289c0d2de080880a21
-# d73db20d86794c5dad9a4f88a39ae342
-# 3e4f045240b84829a7e49017e5b66597
-# 61a9183ec5c34217b829a4b69df1a538
-# 42feede0a23149bfae3ae0086d94af2d
-# e341f31dc15f47bd99aedf9e5e995a41
-# 4b3af6f2d4164d438696e57551f97982
-# 09f22747eeec489c80855cdfb204cba2
-# 4d87c2b285c546c28ea8b767d4586510
-# f5ca07727ad34a49b79e03e2310eccc9
-# d0684b92c4104f899677cd4184085673
-# b981e777e5104ae2aa8f22c755827931
-# fe7c869548ab44a190b255d2355469ef
-# 11aef35e5f6d4294a4f652275d2f8546
-# 63e512118e1249edba577819a50a4ae0
-# a4572c9ff3bd490f92ddba73086aea6f
-# 7699c77b5e06414c8febb46f44043825
-# f050e53f6c464d68b93985c5f00a1ff2
-# c7196474e65e4d33a3bf53eb25da7605
-# f03e9b34027945fe9647a36c43b9e8f6
-# daa1a11b6a794b1b8addf605e0c5834b
-# 891476046d8b448c8bd5d3ce9a9da520
-# b766eb570b004fb89f890b00df592f2c
-# e796266fc1954ff3ab27cf1ecac89979
-# 27ff66e5c1a24853bd112e97fb9efc57
-# c09fec1f2db5487a8c54c233bb2d896e
-# a7b4749d3aff43279f21d33f5813301d
-# a3e6b43afa9e4431b6c04644c49d67eb
-# 8fe9c7ea7605482dbff6f1d910f4144d
-# 7187a883cd484d96ac3d6b42ccbe65c8
-# 5feaf6103de14ce4922d0d084ea32628
-# e353ac21ddbf46b7850f759c402217b6
-# 896ed2387d0d4bfa99a40eb04109549d
-# 75026aa475e446f7b146162c4ab178f3
-# b6ce8218ac704a14a0a4e562900cd7f4
-# 30991804bf5048169dd486949c43343d
-# a8445267dea84ab2ac4cb4524f2deb0d
-# 0054c8e66e7c41748d0e0232d72444f8
-# e4ae7ffc4a524b0fa943d4cc0af7c01e
-# d4eacf09a72d4a39a2d1104979ad9f73
-# 43513776ad9f484187f5dd93046b36cd
-# 2a5eda90c44647e28960868de292d707
-# d62055134c26499a9d37ab5aaf26b39a
-# 5a86ca7cfe9644629292d82f41a2acba
-# 7978ace1227a482bb64bb45da0e86c40
-#: ../../support.rst:155
-msgid "**Figure 11.2e: Another Formatting Characters Example**"
+#: ../../support.rst:147
+msgid "At this time, some formatting tags are still displayed in raw text, as seen in the examples in :numref:`Figure %s: Do Not Remove Formatting Characters <translate6>` and :numref:`Figure %s: Another Formatting Characters Example <translate7>`. **It is IMPORTANT that you do not accidentally remove the formatting as this can break the documentation build for that language.** In the first example, it is OK to translate the phrase \"Using the Text Installer\" but care must be taken to not accidental remove any of the surrounding colons and backticks, or to change the text of the \"ref\" tag. In the second example, the asterisks are used to bold the word \"install\". It is OK to translate \"install\", but do not remove the asterisks."
 msgstr ""
 
 # 235e5600567f4087bd210546a2d2c0bb
@@ -2343,6 +1686,7 @@ msgstr ""
 # 3d3362a54d814726b373f5c63e7dfe68
 # 5c82bba0d8bb4409983d74a9b256a973
 # f8154dadb565419e994c7ae4552dcc4d
+#: ../../support.rst:161
 #: ../../support.rst:159
 msgid "If you would like to receive notifications of documentation changes that affect translations, subscribe to the `Translation-notifications <http://lists.pcbsd.org/mailman/listinfo/translations-notifications>`_ mailing list."
 msgstr ""
@@ -2396,6 +1740,7 @@ msgstr ""
 # 282018624f994556b19775d1e09f58fc
 # ae4ec1e708814303bcd0b903e7d4a3a1
 # 2f22eaa2132f4cc0944802bf9fbbaeb7
+#: ../../support.rst:164
 #: ../../support.rst:162
 msgid "If you would like to build a local HTML copy that includes the latest translations, either for your own use or to visualize the translated Guide, do the following from the command line. These instructions are for a PC-BSD® system::"
 msgstr ""
@@ -2449,6 +1794,7 @@ msgstr ""
 # a174b751a1b34e1a83d0ad84f77f1647
 # 5d25567041e145f2b27faed69db7414d
 # ca924fa58bd94d74a58cb129301d3c49
+#: ../../support.rst:179
 #: ../../support.rst:177
 msgid "This will make an HTML version of the Guide for each of the available translations. In this example, translations are available for English (in :file:`html`), German, Spanish, French, Brazilian Portuguese, and UK English. To update the HTML at a later time::"
 msgstr ""
@@ -2502,6 +1848,7 @@ msgstr ""
 # 29a458e4b2744da4980862cbc90f7b78
 # 0634c15cf8f84fbfac1b079a84f149e6
 # 92a52d5777974b5eb9cfccab177ed9de
+#: ../../support.rst:192
 #: ../../support.rst:190
 msgid "Website Translation"
 msgstr ""
@@ -2555,6 +1902,7 @@ msgstr ""
 # ab8b196275f244c3b9ace6df6c3b9f8c
 # 9b60f355a65d4459bad84b19c3827451
 # a492b8ea94b14c2ab4db6c837b2eded5
+#: ../../support.rst:194
 #: ../../support.rst:192
 msgid "If you are interested in translating the PC-BSD® website, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_. Someone will introduce you to the webmaster who will get you started on website translation."
 msgstr ""
@@ -2608,6 +1956,7 @@ msgstr ""
 # be4a7e145e4b4cfeb993d976ff179cb0
 # 76b22b65c4ff49ef803e08e8054a71e0
 # 04cf286870a34dde87c97d7704b1e257
+#: ../../support.rst:198
 #: ../../support.rst:196
 msgid "Currently, the following translated websites are available:"
 msgstr ""
@@ -2661,6 +2010,7 @@ msgstr ""
 # 3dfd5fb925594c999f39e90a3e06cf58
 # 37ef556fcce048789721c663a780f29b
 # 0178944d39694af981c083e7f9efa57c
+#: ../../support.rst:200
 #: ../../support.rst:198
 msgid "`French <http://www.pcbsd.org/fr/>`_"
 msgstr ""
@@ -2714,6 +2064,7 @@ msgstr ""
 # 64bce07c320d43459ed3209e8e056862
 # 67b7a3012420492abfe162e743bdc097
 # 1ed69eb3d82c499298c546251f3160b9
+#: ../../support.rst:202
 #: ../../support.rst:200
 msgid "`Spanish <http://www.pcbsd.org/es/>`_"
 msgstr ""
@@ -2767,6 +2118,7 @@ msgstr ""
 # b9014f03cb0340a88358f170fdfcf6e5
 # 3315d2a72bbf4b1d82194d31670209e5
 # 2f0a4c4117e142619c9b508b3e7fc5d1
+#: ../../support.rst:208
 #: ../../support.rst:206
 msgid "Become a Developer"
 msgstr ""
@@ -2820,6 +2172,7 @@ msgstr ""
 # e026e3e44cf84473bdb8dd745f8e724c
 # 05caf0ab1e2f4d0f9112ce2fb0c409ad
 # eb08546f18b2459ca21d5039b2e4ec8c
+#: ../../support.rst:210
 #: ../../support.rst:208
 msgid "If you like programming, and especially coding on FreeBSD, we would love to see you join the PC-BSD® team as a PC-BSD® committer. Developers who want to help improve the PC-BSD® codebase are always welcome! If you would like to participate in core development, subscribe to the `developers mailing list <http://lists.pcbsd.org/mailman/listinfo/dev>`_. Once you have signed up, feel free to browse the active tickets in the PC-BSD® `bug tracker <https://bugs.pcbsd.org/projects/pcbsd/>`_. If you see something that you want to work on, or have a proposal for a project you wish to add to PC-BSD®, please let us know via the developers list and we will be happy to help get you started."
 msgstr ""
@@ -2873,6 +2226,7 @@ msgstr ""
 # 0c906d543b634819923743fb79520f7d
 # 8de8b38f28fa4b9cabd93ba8fd9b7d46
 # 72fba5a26a4e422dba0ef26b0c30544e
+#: ../../support.rst:216
 #: ../../support.rst:214
 msgid "Most of the PC-BSD® specific GUI tools are developed in C++ using the Qt Libraries, and other non-GUI development is done using standard Bourne shell scripts. There may be cases where other languages or libraries are needed, but those will be evaluated on a case-by-case basis, so feel free to let us know your proposals on the developers mailing list."
 msgstr ""
@@ -2926,6 +2280,7 @@ msgstr ""
 # 3fdf79f011fb47bfa96b031f513dffa5
 # 13bdefa68ab94687a6cf35624d423900
 # 11c016cdf05f40e9b2f54ce33cceee4d
+#: ../../support.rst:224
 #: ../../support.rst:222
 msgid "Getting the Source Code"
 msgstr ""
@@ -2979,6 +2334,7 @@ msgstr ""
 # b8170678dc4340be98a42c32912b0fb1
 # 8f09c7d3dc7141ac9612163772ea3e5e
 # 16adeffb0e4c4034bfba7417d2560c5b
+#: ../../support.rst:226
 #: ../../support.rst:224
 msgid "The PC-BSD® source code is available from github and :command:`git` needs to be installed in order to download the source code. When using PC-BSD®, :command:`git` is included in the base install."
 msgstr ""
@@ -3032,6 +2388,7 @@ msgstr ""
 # f21cd745becb42fe8ab98a6450103977
 # 1088d2f8f1a747038345fa44d231beea
 # 9a9da14d76504336b5c92533fbc6a256
+#: ../../support.rst:229
 #: ../../support.rst:227
 msgid "To download the source code, :command:`cd` to the directory to store the source and type::"
 msgstr ""
@@ -3085,6 +2442,7 @@ msgstr ""
 # e6b5cffa8d7142438fa6fa187d1b7ee0
 # b4962a8e6be34ff888bcf4fffe5a1159
 # 9d1464ccbcbc46f0a0e30cde4c4a1e66
+#: ../../support.rst:233
 #: ../../support.rst:231
 msgid "This will create a directory named :file:`pcbsd/` which contains the local copy of the repository. To keep the local copy in sync with the official repository, run :command:`git pull` within the :file:`pcbsd` directory."
 msgstr ""
@@ -3138,6 +2496,7 @@ msgstr ""
 # 307151e73e6d4b76899900a568600738
 # 3e8198e1ba2442a1a1ef31edb95be9b0
 # 1bb74d9337cc44bda26b8f50013d6eec
+#: ../../support.rst:236
 #: ../../support.rst:234
 msgid "PC-BSD® graphical applications use Qt version 5 and their source is located in :file:`pcbsd/src-qt5/`. In order to compile the applications in this directory, install the \"PC-BSD Build Toolchain\" PBI using :ref:`AppCafe®`. To instead install this PBI from the command line, type :command:`pkg install pcbsd-toolchain`."
 msgstr ""
@@ -3191,6 +2550,7 @@ msgstr ""
 # db04b86543a5401aa9a2b26d68243f08
 # 89e48f9abdf1494aa9c25224fbb1b9b5
 # 52c3732e209d49909d4b3d981036babf
+#: ../../support.rst:239
 #: ../../support.rst:237
 msgid "Most of the PC-BSD® source code is divided into two sub-categories:"
 msgstr ""
@@ -3244,6 +2604,7 @@ msgstr ""
 # 03313c1dd2bf4975bff0da5169afe6b1
 # e83ed08ece684c09a61f9b7dcd3002bd
 # a9c7ae498e9343e794cef0f10d272237
+#: ../../support.rst:241
 #: ../../support.rst:239
 msgid ":file:`src-sh/` contains shell and C programs which do not include GUIs. These are the command line utilities used in TrueOS® and PC-BSD®."
 msgstr ""
@@ -3297,6 +2658,7 @@ msgstr ""
 # 4e102e1cb3554b31b512e65ec144481f
 # 59d8ce06dc004e39991ae1919bca850e
 # 220c6b69983f46bc83aed554d4eef002
+#: ../../support.rst:243
 #: ../../support.rst:241
 msgid ":file:`src-qt5/` contains the Qt5-based GUIs seen in PC-BSD®."
 msgstr ""
@@ -3350,6 +2712,7 @@ msgstr ""
 # 03cdc5a8d23749638d45e90363a02a80
 # 01c94863fc3441d9881c7a6af2c224bc
 # 1924b841546f4af7b44aa414477e94bf
+#: ../../support.rst:245
 #: ../../support.rst:243
 msgid "To compile the command line utilities::"
 msgstr ""
@@ -3403,6 +2766,7 @@ msgstr ""
 # d0a17db651cb4400ba8907590f97828c
 # a5cf2a76ec66400c866baa319f0e0c96
 # 5d2d6b7b44f74a12a37b661dde637323
+#: ../../support.rst:251
 #: ../../support.rst:249
 msgid "To compile the graphical utilities::"
 msgstr ""
@@ -3456,6 +2820,7 @@ msgstr ""
 # 1799b4edde7045819e217912866c35f7
 # 6ace4047270f491d8daea6074be57fa2
 # 5146edd9baad4bcbb888d28649ee7014
+#: ../../support.rst:259
 #: ../../support.rst:257
 msgid "Several Qt IDEs are available in :ref:`AppCafe®`. The `QtCreator <http://wiki.qt.io/Category:Tools::QtCreator>`_ PBI is a full-featured IDE designed to help new Qt users get up and running faster while boosting the productivity of experienced Qt developers. `Qt Designer <http://doc.qt.io/qt-4.8/designer-manual.html>`_ is lighter weight as it is only a :file:`.ui` file editor and does not provide any other IDE functionality. To install this package, check the \"Search all available PBI and packages\" in the \"App Search\" tab of AppCafe® and search for \"qt5-designer\". Alternately, install it using :command:`pkg install qt5-designer`."
 msgstr ""
@@ -3509,6 +2874,7 @@ msgstr ""
 # e5803423870647bb9dc153f20e916aa1
 # dd4d3fc8ef16487ab75cdf556592fe78
 # ab09ade5be154894ad3049310b5b68cc
+#: ../../support.rst:265
 #: ../../support.rst:263
 msgid "If you plan to submit changes so that they can be included in PC-BSD®, fork the repository using the instructions in `fork a repo <https://help.github.com/articles/fork-a-repo>`_. Make your changes to the fork, then submit them by issuing a `git pull request <https://help.github.com/articles/using-pull-requests>`_. Once your changes have been reviewed, they will be committed or sent back with suggestions."
 msgstr ""
@@ -3562,6 +2928,7 @@ msgstr ""
 # 0086d24f62784f4ba41ca389679d8b24
 # 4185495137f1425dbd9a3e962d34253c
 # b63c476abd364c83bcaead4561791467
+#: ../../support.rst:274
 #: ../../support.rst:272
 msgid "Design Guidelines"
 msgstr ""
@@ -3615,6 +2982,7 @@ msgstr ""
 # c837b5e19cef43b2a1536072b1d415cf
 # e62940a143c94658a5547137c4e0d42b
 # 8241800cb9d2464e8e66c2dfc752549e
+#: ../../support.rst:276
 #: ../../support.rst:274
 msgid "PC-BSD® is a community driven project that relies on the support of developers in the community to help in the design and implementation of new utilities and tools for PC-BSD®. The Project aims to present a unified design so that programs feel familiar to users. As an example, while programs could have \"File\", \"Main\", or \"System\" as their first entry in a menu bar, \"File\" is used as the accepted norm for the first category on the menu bar."
 msgstr ""
@@ -3668,6 +3036,7 @@ msgstr ""
 # 32335661318e47a595700c9e78f6d17c
 # 1174428863144da79252f3dd00ff97c9
 # 6d529a4b3a8c468ea3eee6cabc5ba3de
+#: ../../support.rst:280
 #: ../../support.rst:278
 msgid "This section describes a small list of guidelines for menu and program design in PC-BSD®."
 msgstr ""
@@ -3721,6 +3090,7 @@ msgstr ""
 # c4ec35c9e4c845dcb945d99c9684215f
 # 85a877ab0f7645019f93e6f1c80ede78
 # a4e7bdb04ab64f4f8807367f34ba2185
+#: ../../support.rst:282
 #: ../../support.rst:280
 msgid "Any graphical program that is a full-featured utility, such as :ref:`Life Preserver`, should have a \"File\" menu. However, file menus are not necessary for small widget programs or dialogue boxes. When making a file menu, a good rule of thumb is keep it simple. Most PC-BSD® utilities do not need more than two or three items on the file menu."
 msgstr ""
@@ -3774,6 +3144,7 @@ msgstr ""
 # dc44c2441f5b4289994996998ae6e5fe
 # 425530d43d1d49818a408bda919faf97
 # 8bafe8fbe60a4030a67aacfd7731b587
+#: ../../support.rst:286
 #: ../../support.rst:284
 msgid "\"Configure\" is our adopted standard for the category that contains settings or configuration-related settings. If additional categories are needed, check to see what other PC-BSD® utilities are using."
 msgstr ""
@@ -3827,6 +3198,7 @@ msgstr ""
 # 12d5027e672e467abfc9d17214a8573b
 # a46ab7cc648a424aba7819d6d0dee6da
 # 7738f0fad9414e5185af0ef2b96ab3a6
+#: ../../support.rst:289
 #: ../../support.rst:287
 msgid "File menu icons are taken from the KDE Oxygen theme located in :file:`/usr/local/share/icons/oxygen`. Use these file menu icons so we do not have a bunch of different icons used for the same function. Table 11.3a lists the commonly used icons and their default file names."
 msgstr ""
@@ -3880,6 +3252,7 @@ msgstr ""
 # 71f776624ab3442cbf5909b4aa35647a
 # ba8cd7944047414f8c0b1418e0ab0cd3
 # 562835e7a9644c61aca6368bdcb48779
+#: ../../support.rst:293
 #: ../../support.rst:291
 msgid "**Table 11.3a: Commonly Used File Menu Icons**"
 msgstr ""
@@ -3933,6 +3306,7 @@ msgstr ""
 # 8d7cd016b5404c5a8fb1ae5ef8dfe7ca
 # 658b8d9980c54bffae0bd608bc481a4c
 # 2bef2efe18c54a6eac1e80a62cfd4e44
+#: ../../support.rst:296
 #: ../../support.rst:294
 msgid "Function"
 msgstr ""
@@ -3986,6 +3360,7 @@ msgstr ""
 # 0948c1a65624464aad9f19a507590633
 # 55a98e53655242a6a75acf7b2433e32a
 # a8124be60d8e48d0864b24bf4393ead3
+#: ../../support.rst:296
 #: ../../support.rst:294
 msgid "File Menu Icon"
 msgstr ""
@@ -4039,6 +3414,7 @@ msgstr ""
 # c62e92c4072945d3b80b2f93fc2890a9
 # 1189c1fb580243da94982c9f0b919e85
 # e981fbdac79646e8a118611f922d1cc8
+#: ../../support.rst:296
 #: ../../support.rst:294
 msgid "File Name"
 msgstr ""
@@ -4190,6 +3566,9 @@ msgstr ""
 # fc47fa1d00fc49d9b375850c2e3eb15a
 # 7b6dd1e3df8d4f8a9b87f1114a23beff
 # 01149d7da108481784d15180e8bc4569
+#: ../../support.rst:298
+#: ../../support.rst:331
+#: ../../support.rst:341
 #: ../../support.rst:296
 #: ../../support.rst:329
 #: ../../support.rst:339
@@ -4245,6 +3624,7 @@ msgstr ""
 # 6843e55c7d9c4789af6b260fa7c7d3d3
 # dec26d18746a4c2a896b99a2e51f822e
 # 81b143d711c548ef96c281ebec07171c
+#: ../../support.rst:298
 #: ../../support.rst:296
 msgid "row 1, cell 2"
 msgstr ""
@@ -4298,6 +3678,7 @@ msgstr ""
 # 2a0c905f852f44289c60c1d5bd713853
 # 0768e50b7f8548729561fcebb0ea9d46
 # 32680e3fceec4b3d92de42b036ec2205
+#: ../../support.rst:298
 #: ../../support.rst:296
 msgid "window-close.png"
 msgstr ""
@@ -4400,6 +3781,8 @@ msgstr ""
 # 85b6d6870a324e9da7bb1d08aa71d099
 # e7ba0e261a5d40bba906d1f65624991d
 # 4e1b6d38a78d42eb8f782f17434d529c
+#: ../../support.rst:300
+#: ../../support.rst:343
 #: ../../support.rst:298
 #: ../../support.rst:341
 msgid "Settings"
@@ -4454,6 +3837,7 @@ msgstr ""
 # 026124789c604e058ef55f4cf4ce5a85
 # 0d5a3b818a9a467d897e4b06a749cec7
 # 01161cb5faf54cccb90eb6dc978122f2
+#: ../../support.rst:300
 #: ../../support.rst:298
 msgid "row 2, cell 2"
 msgstr ""
@@ -4507,6 +3891,7 @@ msgstr ""
 # 0f5a9468d6804966b5f5e7cde8ca8007
 # 28a50760a70d4d4f9dca3846d516f918
 # a1f4192ff77948d4b6820353852b96ad
+#: ../../support.rst:300
 #: ../../support.rst:298
 msgid "configure.png"
 msgstr ""
@@ -4560,6 +3945,7 @@ msgstr ""
 # 0ab09bda2c174662ba7f748fe55e86c3
 # 151e643a06ba4fc9a6bde910c1a5c0b5
 # 10f9e3489a1943c5aae8f9e0e285db05
+#: ../../support.rst:304
 #: ../../support.rst:302
 msgid "PC-BSD® utilities use these buttons as follows:"
 msgstr ""
@@ -4613,6 +3999,7 @@ msgstr ""
 # b574a1e632ab4d9ab50778061145fdd9
 # 2f90462019d04bbc8603c2f44e860464
 # ec6e61a4bbbb458faee4c1fb64d83a30
+#: ../../support.rst:306
 #: ../../support.rst:304
 msgid "**Apply:** applies settings and leaves the window open."
 msgstr ""
@@ -4666,6 +4053,7 @@ msgstr ""
 # 65427dd81a3647028572e1c0f5ba3ca9
 # 80cbab6f3a7c4722a6048bc8adf3f49a
 # 93dc26b9b8fd410d88587adef0a9caa3
+#: ../../support.rst:308
 #: ../../support.rst:306
 msgid "**Close:** closes program without applying settings."
 msgstr ""
@@ -4719,6 +4107,7 @@ msgstr ""
 # 5f3b3323fe7d4b04a47bdbb27f628fd6
 # 6a952d0fa57a491ba3a612051f75c1f5
 # 54b1decfd4594460aabb6dbad9db482f
+#: ../../support.rst:310
 #: ../../support.rst:308
 msgid "**OK:** closes dialogue window and saves settings."
 msgstr ""
@@ -4772,6 +4161,7 @@ msgstr ""
 # eb8115a6f0d3407a9b8b240084ef5a3c
 # ab39783134414697ba910c49bcd91922
 # 7bc450e894b84d909ba8b610f1d20290
+#: ../../support.rst:312
 #: ../../support.rst:310
 msgid "**Cancel:** closes dialog window without applying settings."
 msgstr ""
@@ -4825,6 +4215,7 @@ msgstr ""
 # 04daf4d4c33e4662a64e36461debfa3b
 # 2cbe48ca27244d6083a20b416848dd64
 # 5413b5a3fa19471eacc48daa4804be1b
+#: ../../support.rst:314
 #: ../../support.rst:312
 msgid "**Save:** saves settings and closes window."
 msgstr ""
@@ -4878,6 +4269,7 @@ msgstr ""
 # f26e6d39c96744f29a8789c9029f363b
 # 25c23f26e2c54537809b5731473e492a
 # dae45c82feca4a40a0814a384cf034b2
+#: ../../support.rst:316
 #: ../../support.rst:314
 msgid "Fully functional programs like :ref:`Life Preserver` do not use close buttons on the front of the application. Basically, whenever there is a \"File\" menu, that and an \"x\" in the top right corner of the application are used instead. Dialogues and widget programs are exceptions to this rule. A good example of a widget program would be :ref:`Update Manager`."
 msgstr ""
@@ -4931,6 +4323,7 @@ msgstr ""
 # ed5b322e775f4937b3c14f68182fc136
 # 8ddf01f5ae8943b7ad3aa128cfd91dc8
 # c2de4f2005c34cb9973d8b15102bf6b7
+#: ../../support.rst:320
 #: ../../support.rst:318
 msgid "Many users benefit from keyboard shortcuts and we aim to make them available in every PC-BSD® utility. Qt makes it easy to assign keyboard shortcuts. For instance, to configure keyboard shortcuts that browse the \"File\" menu, put *&File* in the text slot for the menu entry when making the application. Whichever letter has the *&* symbol in front of it will become the hot key. You can also make a shortcut key by clicking the menu or submenu entry and assigning a shortcut key. Be careful not to duplicate hot keys or shortcut keys. Every key in a menu and submenu should have a key assigned for ease of use and accessibility. Tables 11.3b and 11.3c summarize the commonly used shortcut and hot keys."
 msgstr ""
@@ -4984,6 +4377,7 @@ msgstr ""
 # 8452d1debebb44e9a3096e11c9c071af
 # 13f3af69c494490a8985078be36837b1
 # a115050171d14a81a8fc759d6926d2a3
+#: ../../support.rst:326
 #: ../../support.rst:324
 msgid "**Table 11.3b: Shortcut Keys**"
 msgstr ""
@@ -5037,6 +4431,7 @@ msgstr ""
 # 3b33d2800f0547c1a53c106892f4b3e3
 # 7af51d48bcd6429d8f3028d1d739adee
 # a21fb35bb40d4d97bdfaed54a61e8243
+#: ../../support.rst:329
 #: ../../support.rst:327
 msgid "Shortcut Key"
 msgstr ""
@@ -5139,6 +4534,8 @@ msgstr ""
 # 2657a18ebc81421082115bc4c63a19f0
 # c51911458a8e431985e4d1ad3c6fb05d
 # 9a01f31de34b4331823ea08273807775
+#: ../../support.rst:329
+#: ../../support.rst:339
 #: ../../support.rst:327
 #: ../../support.rst:337
 msgid "Action"
@@ -5193,6 +4590,7 @@ msgstr ""
 # ab7fa0d061784ecc91cc491f37af4528
 # ba7726f0fff2400b82c50d63171c024e
 # 34d8d416f6f4498788441ae248989c9e
+#: ../../support.rst:331
 #: ../../support.rst:329
 msgid "CTRL + Q"
 msgstr ""
@@ -5246,6 +4644,7 @@ msgstr ""
 # 0c5fd092fd82429d8cc1bfe059f7eb4f
 # a5900be9386c47f698e0df420ef57613
 # 4353dc1b7d2f438fa1515b650f4eb2c7
+#: ../../support.rst:333
 #: ../../support.rst:331
 msgid "F1"
 msgstr ""
@@ -5299,6 +4698,7 @@ msgstr ""
 # bad5946d717547bcbe0d8df61059c9b3
 # b191711435e14fd28606db1d1bba0027
 # 33d774f6c5774be9923acda0ea49cc10
+#: ../../support.rst:333
 #: ../../support.rst:331
 msgid "Help"
 msgstr ""
@@ -5352,6 +4752,7 @@ msgstr ""
 # bb5491e15aab44108ad2dba078808503
 # 7dea628cd4bf4c7c90b929fb65a51fb6
 # 75fd2ec29ff74a478cca33abb70755c7
+#: ../../support.rst:336
 #: ../../support.rst:334
 msgid "**Table 11.3c: Hot Keys**"
 msgstr ""
@@ -5405,6 +4806,7 @@ msgstr ""
 # 6de405733a7545be873e735c0ff42a3b
 # 1ab296ddc4f341c8bc191f12268367bd
 # c280f5adcbb042a4a0285d5648f0ad6e
+#: ../../support.rst:339
 #: ../../support.rst:337
 msgid "Hot Key"
 msgstr ""
@@ -5458,6 +4860,7 @@ msgstr ""
 # f196da96536644c6aeba8b59fa550f23
 # 18ecdb4e274b4a9cb832b7763fa130de
 # 4d12f44b451a4bef926e805a2bb0da32
+#: ../../support.rst:341
 #: ../../support.rst:339
 msgid "Alt + Q"
 msgstr ""
@@ -5511,6 +4914,7 @@ msgstr ""
 # 15b98e2728e84996958f318fa4f1cbba
 # afa8fbe73ec14f9483b4601f94623387
 # 6f0adbdaa0914a638e15b0b3fb6bd8fc
+#: ../../support.rst:343
 #: ../../support.rst:341
 msgid "Alt + S"
 msgstr ""
@@ -5564,6 +4968,7 @@ msgstr ""
 # ab9293a063b7450c814abb88cc9f1179
 # d946f0801fda4b93a5d02144efa42097
 # c4b5f59957ff4a4593855eef1bc1ddcc
+#: ../../support.rst:345
 #: ../../support.rst:343
 msgid "Alt + I"
 msgstr ""
@@ -5617,6 +5022,7 @@ msgstr ""
 # 4a3cc21ad8094110bf5a5d59613ae734
 # 573bd65205a24a6fa75395087883a6f5
 # b21c159d6d4b4622a48f7744784f65c7
+#: ../../support.rst:345
 #: ../../support.rst:343
 msgid "Import"
 msgstr ""
@@ -5670,6 +5076,7 @@ msgstr ""
 # 220106a94ada480eb8b7c16c01e816a0
 # f7359ee8b0354fa6b5fe58afdcf3c9b8
 # 4a721fef8b1c491b871412b4e1e05def
+#: ../../support.rst:347
 #: ../../support.rst:345
 msgid "Alt + E"
 msgstr ""
@@ -5723,6 +5130,7 @@ msgstr ""
 # 2ce94aaef1944b8cbc1be21cef5c0309
 # 19535f2d8f204cbdae81e26539b1f2b5
 # 403aef5f338d44fba32deb6c48850466
+#: ../../support.rst:347
 #: ../../support.rst:345
 msgid "Export"
 msgstr ""
@@ -5776,6 +5184,7 @@ msgstr ""
 # 133dce93c0ee4885b2a4001e49a0d47e
 # b6cd281dd976469ea61ab579927c38e9
 # fe17a589f9ef49e2b78dfbbe6a4333b5
+#: ../../support.rst:349
 #: ../../support.rst:347
 msgid "ALT + F"
 msgstr ""
@@ -5829,6 +5238,7 @@ msgstr ""
 # 1d91e46f53df45d1ba41d11703d2db6b
 # c279d849f77240c1a2e6fe870f9cebe3
 # a2c9419770ea4a17b2891efb1d1fd5e1
+#: ../../support.rst:349
 #: ../../support.rst:347
 msgid "File Menu"
 msgstr ""
@@ -5882,6 +5292,7 @@ msgstr ""
 # 070f9490e9c1413c85645f48a6e3903a
 # 5fe0392a1e724e419c2ff11a66a20a7e
 # 07fe6aa9fc30426ca42a0a47019d2537
+#: ../../support.rst:351
 #: ../../support.rst:349
 msgid "ALT + C"
 msgstr ""
@@ -5935,6 +5346,7 @@ msgstr ""
 # 32475c13aab34d8e811310a5838f684d
 # 37bbe83b006b4feab95de5236abc986f
 # 4d5277e6ea0f4a36babf849bede535b5
+#: ../../support.rst:351
 #: ../../support.rst:349
 msgid "Configure Menu"
 msgstr ""
@@ -5988,6 +5400,7 @@ msgstr ""
 # 66d57f2b7baa4ef3b87937416277f2b9
 # cd779abc8d0a465f939959da5bdf54f0
 # 20995581468045f28e2527df7ab67905
+#: ../../support.rst:353
 #: ../../support.rst:351
 msgid "ALT + H"
 msgstr ""
@@ -6041,6 +5454,7 @@ msgstr ""
 # 508bd10996f5468f935b12b31124782d
 # 38ab11fa5df84753bedceb01850ac046
 # 706c7079dadc4d86979175f97a21a33a
+#: ../../support.rst:353
 #: ../../support.rst:351
 msgid "Help Menu"
 msgstr ""
@@ -6094,6 +5508,7 @@ msgstr ""
 # a32a9c3b494047539984c62a5810f8a5
 # dae988182ab6407fb38b57e27d99e09b
 # 1d59289282b74732953918c946c1dd90
+#: ../../support.rst:356
 #: ../../support.rst:354
 msgid "When saving an application's settings, the QSettings class should be used if possible. There are two different \"organizations\", depending on whether the application is running with *root* permissions or user permissions. Use \"PCBSD\" for the organization for applications that run with user permissions and \"PCBSD-root\" for applications that are started with root permissions via :command:`sudo`. Proper use prevents the directory where settings files are saved from being locked down by *root* applications, allowing user applications to save and load their settings. Examples 11.3a and 11.3b demonstrate how to use the QSettings class for each type of permission."
 msgstr ""
@@ -6147,6 +5562,7 @@ msgstr ""
 # 6d56555a55504caea62d897858db513d
 # 78d7ae4f045c45b3b6cbc0871c85d8ad
 # 22de1fc4cafd48588b89351cf94b57c0
+#: ../../support.rst:362
 #: ../../support.rst:360
 msgid "**Example 11.3a: User Permission Settings**::"
 msgstr ""
@@ -6200,6 +5616,7 @@ msgstr ""
 # a39af4060cc443e39c4c4b51969808cb
 # ed465528038a4a878296eb585a0282f8
 # 6ba098b86efc4df59f0b0ae905296e72
+#: ../../support.rst:367
 #: ../../support.rst:365
 msgid "**Example 11.3b: Root Permission Settings**::"
 msgstr ""
@@ -6253,6 +5670,7 @@ msgstr ""
 # 50f15e858748439d87da2dfdcba6aa08
 # e85a6ffa21514e2c98716d5fe1dd8f49
 # b801320d4ef34ba4a7d1d9f8ce5da44b
+#: ../../support.rst:373
 #: ../../support.rst:371
 msgid "Developers will also find the following resources helpful:"
 msgstr ""
@@ -6306,6 +5724,7 @@ msgstr ""
 # 138c7e6da6cd4e99947b36462b96cc11
 # 0d55fd77b5fb4d4aa1c9b291db8ccdb5
 # 69ea62b2c5fa434a90644d0955e5b87c
+#: ../../support.rst:375
 #: ../../support.rst:373
 msgid "`Commits Mailing List <http://lists.pcbsd.org/mailman/listinfo/commits>`_"
 msgstr ""
@@ -6359,6 +5778,7 @@ msgstr ""
 # cc383f4359634bfdb58cb40288d99049
 # 2b408d247c1c451d8826b29c883bef4c
 # 4c88856cdc0a4180b3a58ac78947aad2
+#: ../../support.rst:377
 #: ../../support.rst:375
 msgid "`Qt 5.4 Documentation <http://doc.qt.io/qt-5/index.html>`_"
 msgstr ""
@@ -6412,6 +5832,7 @@ msgstr ""
 # c1d8152da6874ebfab1e1c084461ac82
 # cfc8b91a34854bc4bdca3c48ac1767f3
 # 92c881b976b146a78e3b8fe682fc8f8c
+#: ../../support.rst:379
 #: ../../support.rst:377
 msgid "`C++ Tutorials <http://www.cplusplus.com/doc/tutorial/>`_"
 msgstr ""
@@ -6465,6 +5886,7 @@ msgstr ""
 # bac91f043597404e8ea72156dae9360b
 # 3065003ca03248d79f016ffc3c504f12
 # baad5503d612490ab65f64738b9d6fc7
+#: ../../support.rst:385
 #: ../../support.rst:383
 msgid "Make Minor Modifications to a PBI Module"
 msgstr ""
@@ -6518,6 +5940,7 @@ msgstr ""
 # 748c85ab9cdb4c2f940b2cad0f845c0f
 # 63ff90408f3a4b9d95009ae0cd0b7d74
 # be018ce57a8b47ca8ad7afd2fed0a6fc
+#: ../../support.rst:387
 #: ../../support.rst:385
 msgid "If you have a GitHub account and are logged in, you can contribute minor PBI changes to the `pbi-modules repository <https://github.com/pcbsd/pcbsd/tree/master/pbi-modules>`_ using a web browser. If you do not have a GitHub account, `create one <https://github.com/>`_ using a valid email address as you will need to confirm your email address."
 msgstr ""
@@ -6571,6 +5994,7 @@ msgstr ""
 # 2e328b15204d473b90a61cac0ce18538
 # cfdd847e446244cf9b1e897fe3d4893a
 # 2ba7eb28041f43ed95bc9029aa9160a6
+#: ../../support.rst:391
 #: ../../support.rst:389
 msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 8.1a."
 msgstr ""
@@ -6624,6 +6048,7 @@ msgstr ""
 # 883b98487ee545929f9ffe0f67672438
 # 12e97981acb64b6881fb80bac2863051
 # 301fa422c24642cf9a0b3b74b02e19ee
+#: ../../support.rst:397
 #: ../../support.rst:395
 msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
 msgstr ""
@@ -6677,6 +6102,7 @@ msgstr ""
 # 9237ae461fb94b7da7c3ea27d4ea6211
 # 8d0105ca18f44ce2879ed8845e5ad3d4
 # c24411c451c84183944795c6c3fdeddd
+#: ../../support.rst:406
 #: ../../support.rst:404
 msgid "Purchase PC-BSD® Swag"
 msgstr ""
@@ -6730,6 +6156,7 @@ msgstr ""
 # fc4a1480a24c44b9a384c1ecaf2e0528
 # 226902ef92c5407eaea2ecaeb45b84ef
 # 9edfbf5f517348b89999a3d9f6269066
+#: ../../support.rst:408
 #: ../../support.rst:406
 msgid "While PC-BSD® is free, some users may wish to purchase media or other items to show their support for the PC-BSD® Project. PC-BSD® items are available from the following websites:"
 msgstr ""
@@ -6783,6 +6210,7 @@ msgstr ""
 # 458309d49585490295e0716df2c1d83d
 # d0166bbc67e3418cacccf61414c524cf
 # 40393d8c153148778dd1fb78a7795fc8
+#: ../../support.rst:411
 #: ../../support.rst:409
 msgid "`FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
 msgstr ""
@@ -6836,6 +6264,7 @@ msgstr ""
 # aa8accf1169a4eb1b39fdc2f83eaa53b
 # 07fd75ebdd79475da7be6941f429fe47
 # f2fb4f5d06f647f18455cf86da9b6e20
+#: ../../support.rst:414
 #: ../../support.rst:412
 msgid "Amazon: sells The Definitive Guide to PC-BSD® (hard copy and Kindle formats) as well as the Kindle versions of the PC-BSD® Handbook. Items available for purchase in your country may vary."
 msgstr ""
@@ -6889,6 +6318,7 @@ msgstr ""
 # b57ac29a9fbc4a44bda424d050bf789e
 # 159f025494c5445caa0091f66ddd0be7
 # 8b3710e598df4fe5a99b0f6cd1253121
+#: ../../support.rst:417
 #: ../../support.rst:415
 msgid "`The PC-BSD® Corporate Storefront <http://pcbsd.qbstores.com/>`_: sells high-quality apparel and accessories."
 msgstr ""
@@ -6942,6 +6372,7 @@ msgstr ""
 # 172b1c9b001448c495cd535cb8a1e278
 # 6eb525d763c144fcb1de8e152b75c12a
 # db79fc95cc0b4269ba263894f0102415
+#: ../../support.rst:423
 #: ../../support.rst:421
 msgid "Become an Advocate"
 msgstr ""
@@ -6995,6 +6426,7 @@ msgstr ""
 # 378162e52bc7493da430db4248bfc31b
 # 426ba2a2b3d241c1ad1a120d0c712699
 # 1014e7003cc649f9959a663dc06cdf8b
+#: ../../support.rst:425
 #: ../../support.rst:423
 msgid "So you love PC-BSD®? Why not tell your family, friends, fellow students and colleagues about it? You will not be the only one that likes a virus-free, feature-rich, no-cost operating system. Here are some suggestions to get you started:"
 msgstr ""
@@ -7048,6 +6480,7 @@ msgstr ""
 # 2ef57e2e12b64f8d9b28194b166c9989
 # d0ad4884a6ad4cdeb03036cc0ac3a791
 # 27d02c2b3ffb4d4796cb3a9f06235003
+#: ../../support.rst:428
 #: ../../support.rst:426
 msgid "Burn a couple of DVDs and pass them out. If your school or user group has an upcoming event where you can promote PC-BSD®, you can request additional DVDs from sales@pcbsd.com."
 msgstr ""
@@ -7101,6 +6534,7 @@ msgstr ""
 # 7c09e181af404d26bd6ebdc22fcec606
 # 5540d5dffc384ac99b698a8842d3afcc
 # d082a64e11a340e1890a16bcd9104c3b
+#: ../../support.rst:431
 #: ../../support.rst:429
 msgid "Consider giving a presentation about PC-BSD® at a local community event or conference. Let us know about it and we will help you spread the word."
 msgstr ""
@@ -7154,618 +6588,7 @@ msgstr ""
 # 05879a9684984adf9170559bad57818d
 # 755d6efd29e042359858c29a06ecb727
 # 8a8accea86584c35b242a42556832e75
+#: ../../support.rst:433
 #: ../../support.rst:431
 msgid "Write a personal blog detailing your journey from your first PC-BSD® install experience to your most recent accomplishment. The blog could also be used to teach or explain how to perform tasks on PC-BSD®. A regional language blog may help build the community in your area and to find others with similar interests."
-msgstr ""
-
-# 373ee7ddaf9347f4b480e1844eed9ee1
-# 65e9b8d147c8400da871e804b136392a
-# d8d14d0ecf4345c492a46594eef3467f
-# e984f302954141a988f2444466383d48
-# a3f9d908aed44bf39a27fa7fd20ac721
-# eb21e36c8ac34363ace26ef27a59d75b
-# 7da5b39817c4478a8efc9d556dbf29e6
-# b1639d407fbb462583eed564fd7eff3f
-# d11ea5d394624b92a587e346627f7eb7
-# afb84dd3c66e4c27aee198e1873c2dfd
-# 8769dcc84651493c9e531e8a39eb4182
-# f3e518a96abf478fbbedb734870d362d
-# 239420c0333647e99f538b80ca4d672c
-# 00eabcf6d0c247de9754ecf7ca608881
-# b4c13d22431147a29e7a0b6b1a5df617
-# f94c9e07b58946b7a4eac8d4688e8066
-# 59aa894cad0b4ee3a45ef732ebcff35f
-# 659d9736b5134b2aaefac326a24eb64e
-# 26439bea7c36462ca455b9496ae28047
-# 4f1f96ce95c04897864be51e4255bfb9
-# 56533f30f5e644f1b0cc6b1e337540ec
-# 87920e7682df44b9aacdd3bd20575301
-# b0cdde8579de4cc19789daf338dba8fe
-# b275215ead314e0089a757883015746a
-# 396d5ddfdd9e4089bc91329d9327cf68
-# 4c4e00f196af46bfacc1fbe3aab97735
-# 064c761379af4692b68ca664eb4ab87f
-# 570f111bd9d0490f9e754f39ef0ef02a
-# 7934f3f388dd4791bfe53ac784bfb0c3
-# 44c02b465928486db0c63f76115a3866
-# 2b344129deb4422793c7d71d1ee382c9
-# d612d80d7598442bb8e8a740eff9f1ad
-# 4ab181590c324255909d905badade0bf
-# 45cdc52c85a94f3bafd9ed1826139213
-# 5c6eabd2a8d7457ba9db97bef441ee7d
-# f7c5ef7065ae4171a5c2fcda1471e960
-# 574f7f35547843e79fab4f7f91a59c72
-# 832baa0aa8c54d71a221330e31aff083
-# 5af60447c1d24ebfbc48f8a9a0ee9021
-# 15586fb33db54168b0d2083257eb102e
-# 28808a36e5db4198a1581dbc3c970f59
-# 4aa691f428434cd3ba340b56bd291638
-# 51e4a0780950497d83a433c2806863be
-# 193c69257a114b19b58c0620ed5155b4
-# da84d7338e794d56b1ebf9c1b5fcca48
-# 16fe7aac1c274a04b5ae4c391c35d47c
-# 77167253a4a642fda7cbd82596c21786
-# 1522f42731d7455fb6d467bb3032abda
-# 0fbcca6b3fbd430e84ecb88c6ee89c5a
-# 6c94327019bd4b8eaeb04c5c5e344ba2
-# 1792dfe8125e48788378dba8f68bbde8
-# e3a431f0034844968b110b57ed87dfa4
-# 6a5f6443a2dc43029995779ddd80a9e8
-# f8af4b06c03748c3bf5c620b16316abb
-# 32ccc3fc7bb747a2b5722109e1735134
-# 46a2ad2a1ebd4bbbbec14a5a35fcdd7d
-# 34e16231e24540a797831d1d485dbdb5
-# a05cfc37adbf4cca99f799147de98b24
-# 456cd6289c2b46f4ab6160833908e893
-# 21380119025943a8904ee8af776f3d66
-# 5c96fb8966894237a281cc5b59924a24
-# e1d44a467766469680da8b885322820e
-# a0855a86b45c40738bd862fb75b25d29
-# ff71532588264e0888f3861331a7e4d6
-# 542a87c1008d450581ea767093d2ca3a
-# 778e131ce79640c392308d75e8e28fb9
-# b4b59ac3528b4a049f4904f1de3d43e1
-# 6e9cee76a01d47ccba8fa6755931d24e
-# 180dee9bb6014fa0ae91eb1bba1cecb0
-# 1eaef5e7cdae4954a45c621b7ef900fc
-# 7e2dd8ea972d42a98ced347ed7a537ad
-# bbca23f689f741249c0793b95dd79804
-# 21ddb7948f4742e3a7d82a501f2f5304
-# 3df99985b0d04fe38c7f5dec82940e1f
-# 259f35973c3345b7894ae2ea9e385bd9
-# c8c42583d7584742a79dd4bcada9adbd
-# 622eb416b2884a8fba2bb9dae98bf58c
-# 4a26b301b5e046d68b53788f0096d2d8
-# e7b837189f914970a6bfcf80026ef818
-# 9fa22ee9335945e4b921617f91b96911
-# af9aecb7ff9f4c93b913b9c5185ec859
-# a27300a01ac04fa6ab0ebe03c0625847
-# bafc379a088a407a945ddc2780ed3fac
-# 72d4085ce8d64f5c9bfdec713d88470d
-# 614ecb369e894482811951d221cb701f
-# 737c529c3f78411db4e413e4e6b272d2
-# 4946aa2226ad4359be2383163812c65f
-# a7821f5f783c4d0997d87b900fef99fe
-# 0d092326f47f444a8e58c34dd8b382e8
-# 3c332db262a24d36a7ded65bf15e168a
-# a63433388b3b427991ba460807212150
-# 58c9fd575ffe4ed1a59c191b8a059bbb
-# 3b43082ee6aa4367b09d992d3631e058
-# e08df215f4274f5f8659a49104a51e49
-# 4135c325e1a14f208e34549f0db0a05b
-# f4fad9157b494ee29fd6bc33ef2bac6e
-# d98b0e7e90ac462ba34dd164ada00394
-# 627d2be57e004cd5b57999a8fd4015f1
-# a53a82da451c46ba89e924fc52299c30
-# 251837dbca31416eabe0577e9b44d9c9
-# e4c56d149003465f874f6cf0ac7601df
-# abac1901236648ee8cce2ba2f48d4260
-# a823a752a7034962b58d5d56e448c40b
-# c6827a0cb77d43b688d59693dacbba84
-# 749a9cd7a52d477189b2a8c2b572dacc
-# 8f70dfdcd52d4e73bf9fe1bec41f1949
-# b20ffad3a5304607b28665b2bec87752
-# 83247c2a354049c8ad4a009a683434d2
-# 4be4c277a5e94d6c88a19f319f983803
-# 956596b9568c4be08e322a251d242ba1
-# 52eee9bfcb104797bb073c7766ac4fe6
-# 3a0bc9da385c411aa3dc75523e8408c3
-# aa7c2f518e084c658f2853a7cfde50dc
-# 11425ec78ce04d8ab3303244b761bed6
-# 8a66f825a5bf46ac9c12e1a966dc8749
-# 61b4c7898bee468cb6043c1b89345aea
-# daab0f3c61f840799313d7916bb4f2c8
-# 87ff8d09d7044f6a989e375c84d30821
-# 34e5a24ac0514857a16dd56773776924
-# 07a2773d08354410837568029377cae6
-# 58aa5fcc65aa485593f7064d16868e7f
-# 9efe937cb92146168943fc21aa134315
-# b03bb20ba2424022910c35ccb081106c
-# dd4ae3f2d16c48cf809deedc8b8c3f5a
-# 3d9d219d800d4a2897fd42b2d8d2c755
-# 1da2a16f4da54610a27bffc820845d28
-# f85aff084a594245b8332d150ab3546f
-# c46a9cc652fd4c52b34d9ed0b0131ad9
-# bef38285c6534cbab76600ffae023b72
-# 9ea6242a0f814ee59c82138dadfe2884
-# bb97cf93d7b242d29ffe65bf4ba1c18d
-# 2cbabc7d0f4e47c7a1fab128c0e4f96d
-# e3a9f5327e17445cbca603fef56d66dd
-# 21fd6ce9f9664fb7ab3e98c7731dfc00
-# 2a637e81ebb14582bcd98683318fddcd
-# 645daff2641344f9a57cea17ba06edf2
-# 5c65b9db037e4ce9a4460321406612fe
-# 9637763e056d4350bb4da6c484271086
-# 7089b4c6bf70431193a235208d1999c2
-# 8c8a41e8264843b1acf7d0cea11b705c
-# 88c747da6a8e4c2785e50eeb46b00e6a
-# 50d6e23d9124493681fb174b2f30348b
-# 36756c60d69a4b2092e5357733480791
-# 5bee35a226f3438dac0ff998caa1baa9
-# 40278bd55126423eaab1692b8ace16ec
-# f32e68cfe5cd4cb5bf080ef0314d9d11
-# 1439a6268bcc4ac69cae6039f65c6fdb
-#: ../../support.rst:1
-#: ../../support.rst:400
-#: ../../support.rst:417
-msgid "advocacy"
-msgstr ""
-
-# 2c950333e2c74a0aa4d9a9bac91cca97
-# a2a1cb1ee1a74c0aa9c8ed1148dd70e2
-# a21ce273d0164029ae2a1162197d4d22
-# 32f4e449049c4eaf9d25b6f8d73dcd56
-# 3f49554bd7d04fb2a90a2e9202b30ab0
-# 8a9e26a7d5c94e6588423a7dbd0b5da8
-# 9df3b5a8ef624437b36e8dcb011d60f2
-# feb3341f2b44497b827275c658ff8897
-# cb54204f78cf4fc48654322863e23717
-# 98d0a62e9a0f4421a32c0decce66daf3
-# 50bd401b4fc544dcb7a5bc37f937ce1e
-# 5472d96d7d604b98bdb87e3428b48ebe
-# e0cfd7482af440fca87a7864ebd82bff
-# c95a8cd96d394456b50de3e66661d93f
-# 2bdab6ed2a79400e83ec14773c5f5b1f
-# cab270b0fdbd40b99ae0299722b3b6e3
-# 46e3e11db07a4c1b93a37638e2baea62
-# 5f18283870a74b06bfd45bdea0ce0a3d
-# 6f909955932c49ab9ca6ca514c3e9590
-# 231a690e56cd49efaf5949618f96ce95
-# f81b73530bdf4a49994ccb5147615d41
-# 7bbf13605a9647fdac24f07380fe35b9
-# ad4aafa45c4b4e9fba0c261ec8521680
-# 068b556b6ae444d180681756ac560bc2
-# 36fbcd15becb49f683be15197bf2ba9c
-# a793226c4e164e7ab81e8938dc031285
-# 5cc08b280b5043d485edb5a7f1708c36
-# c824cd564db84649b05b6d280e1844cd
-# c65bc46ff19c454d87b1d2d40d8d8b30
-# 8e421f18ffa543b79e5fe044f868e045
-# 3d8196efda2d4cdea5aadb46ffe5a1c7
-# 13ba290a82ca406f8aa747ef9848aea6
-# cebf5003f1424b09bc9db743928c11be
-# c27bd150e3c7427c9547d1b992b9525c
-# 3e77d0ed59274631b3496dd93537274d
-# 27e5817008c84df88dda8683aba61e31
-# 4f2ac59401324be1bb6f88c58299d45f
-# 46ced82734be400b82bd30f0b37b0c2a
-# c505e46846634c47872d881e78c655ea
-# 95f8998a03a34fdbaef775825abd3ff6
-# d8ea8763429a4d4d8b6e92576ba14f45
-# 1f23bb7dcf924aa18bb658f1d656094d
-# 737a8b29256247d4825ed9f4fbfe6b5f
-# 5fc1905be4e445b28623fb2c8862ccdc
-# ae61858ea04f4e0d926e6e5de6150052
-# 11e831a7adc449ebb5792c18b279715b
-# 4be0b5b5fa93451aa308bc0384daf3d0
-# e6e6be08c8a2405bb015cef9d523141b
-# 4b76eb6be79c4261aa068d1d8de8ef62
-#: ../../support.rst:9
-msgid "testing"
-msgstr ""
-
-# 54fcf9063f05423085bdcad74534497d
-# 7d9b011c56ed41e9921a8ecaaa0fb871
-# 74933d58fc7a4cbe99eadfeb47ef6ccf
-# a0ae9336ce4c4bf392b17307bd2f9685
-# 11edc81d1ce1451aa690c56b67ac94dc
-# bbfa7ca0b99f4ebfab03f8a1e2c11701
-# 9e644189c5384fb08a4c4b0ddc3716bd
-# 27c95841ee0e4b75b8f55514cbe69065
-# 9e11e00649e6456e9601a08e7d04e363
-# af8b6a70f4044f7885c19f883b0b1d60
-# fb474141c9954ad38a7e5006f874e54a
-# 25b52af962a940f99f02da849862b1bd
-# 535cdab283de4d419e079b90b2a74c1e
-# 31ca185339a94730adde6c066d93c7c7
-# f46ff36b965841cb9d77d817dafaa6fd
-# 91bd8f026cab49ecb2e761e2d97957ef
-# 63bac7c7b6f24095aed9c8d830fdb02d
-# 16b3fc49e2984cb1a20ee851807fe3a4
-# 47b017d1f0234e38bbaea44af27260c8
-# f852b9b3a80641bfb4f0d5f076469503
-# 1df5b957817a48f58a3cfb92a302d9f2
-# 20e0dc1f65334633997486abbc6e89cd
-# a9b67af46dae4ec3ae2edf823da29b0b
-# af79b398e55e44a18602a360a43ae917
-# 7c3346622d60416691fbb05519e7863b
-# 90949ac7254c4c9497cd2c563900812b
-# 83c4cb6cbc8645f68bf86335155af758
-# 666c6e3f528a490eb68271168b7fd5b9
-# fccf2ea0b0ab4a0b9451cbb96b705474
-# eadd437910e947c4a7aec619d5031914
-# 43b6bf6d06184ffa85fa06b3dc689819
-# 9d4be0c9f6f4427484a9611e037ce6e9
-# 1f4784623ec4489a87e470b10798e379
-# 9d95773219524bae9f25a128cded4a07
-# b432ac72866147e7bf0550d0b120fca5
-# a922375359014955a9cac1678aa9de1d
-# edafea0c66da4f7d804c040320fd35d0
-# 26a7c5ce03bf479a8e84dfd9d2ce9771
-# 89a996cff34444488477a79dc4c2e83a
-# 2843be145919456ab78faa878e1dcc30
-# 71091a7bace04667841dd71e15c17658
-# b240185084f74865ba6a02364acdb5c2
-# 703529baf67c4ffdb90963b1f1b5852a
-# 6a83b654620a4c8e97df4353b41b9c46
-# 3fb3270b73904a86a0d905fa7d568bc6
-# ada37ebe57cb404ebdfd30acf43fdef8
-# 5fb7e4f58a6749bc88f3ca89a89b1025
-# a9ec4a27bccc4efe8bdb3d7f5b8bf15d
-# 036f3d86ba2041daa3d197dfad9ac257
-# fab9a13a40754fa1bfa3b68768d28226
-# 810dad4301524e3d97d7c0ee621f646d
-# da23688cd48f47cfb87bb5ade66abc65
-# 24811da6a5114dad8969dbcf4415ef7c
-# 5d5b9152368d4425b16a1847f45e1a9c
-# a0cf50004fd6457a8804dfa428187215
-# 65c22d493636499ca5e825f4603832df
-# 85bcc8ecd05347c09009a3892bba98ca
-# a647bf70956240c7bfa13de3d4d385bf
-# f6866141000445fd81cef88ca1d11d9b
-# 3cb215fc38674a0d8dff673d79f8eef9
-# 247ae3ea13244391ba819de0a9770c71
-# fca60e0eb2b945b3956a1255c373401e
-# e55774b79a114666b23eebcf08c80a42
-# ce0b8945624b4d62b49ff847e61078f3
-# 79899799522d4769bc7e38635a087ec3
-# c56933a154fa42f68c42abd8f58debd9
-# 3609a89b59d6439a9b1e6d65ae86315b
-# d6002e9465a046ac81018f9eda9df59f
-# 136adefb36284d39bb7f2bb587551131
-# 16d94c6ec68e4409a185c76539c96d05
-# 5f3f01c716074d81a820732f0e2c4b35
-# 297d304b3b0e42449d975152a14d4129
-# a1f17050209a421dbb8581fc592141b9
-# 9bdad860151e4245a9d389a7902f35f9
-# a71058b12a6942f297c04b4b2168f6da
-# e1e03c68db50465287ebddba9ad03b95
-# 5861c0f067e546e8ba94fa03943b28c8
-# dadc8db205cd453abcc0a2133166f327
-# 024e7f27140a4d39ba487cea22b86d69
-# 2d0ffe8eac784996bbbe270b74d598b7
-# 74c3f88ce8924bb0a104fda9e932cfb8
-# 6813423e99fd481bb86b0e95fcc0b18e
-# 17402d24758d4d2fbb5375f4fad06acf
-# 27f2c7942bc04d9ba9895c640d3eeba6
-# 72f7c3c19b1243c28cb226c6ec24d6fd
-# 4d4ebacc40f44deb921e388df53f24da
-# c7150c9439274dbfaa569eea258f0abe
-# 0856c598090d40de9effd26f3f005b72
-# e1bf2cd258b242e68e4f0662c8aa8248
-# ef3e69d75bbb411e843eaf7a97ee34eb
-# 475217dd29304b85abef60e52ff806f4
-# 7266ef054aaa4ac196857a8de55ac212
-# 6ad09a3ef8704cbb9797a0206ad94a8f
-# ee5bf2e3cb084c40958d78d41687da12
-# c10614139c6d4125ba03859df61a0aad
-# e837a57428664d8199890217a750bccb
-# b0bbf78c316d46a088f3d4edb20f4ac1
-# 021867db54334c668779ad3986d25cb9
-# 6386952dfeec42eca358e6e8325bbc73
-# 06af8d599ed343f785ecb3d458a4e773
-# eff369afe0ff4f8da1fa5ab8a56546b0
-# e1493560f711474c8163bb301932ca87
-# 8ea947748f2241b6a1709273af1a982e
-# 57151e77e54a484490b6f751b63fe482
-# e8ce3cd79bc64415b7595be7b56b6ec5
-# fee5661120904501a4f724ffa3961e07
-# 6e472fbf63bf4930beb8e99638ee1603
-# 26e4feafc44c45478c466fc5d150c592
-# 05d3ee8b03cc417ebbdea0bfae1594c8
-# cdf756d1b4f64b7da8005d50b8d9e16b
-# 609d867acbb349e2a80bea95fcddadd8
-# a49512fb002c4a25b942c2494b4415fe
-# 2a63381d75fb4c03a1a53ddb1126f00d
-# 301ebd82b45947e4b1db9810fd148d75
-# 3ce68636e9bd45db9cf37e2898c0c3d7
-# 22831c42e7494922b22661253a5e4863
-# 487cbc88a7e6449ea01b70830b6ce22a
-# 0de6b27762be4593995f4ca39f1203ff
-# 6c3fe5586c034b8f951d4354cf635b0e
-# fb344e6aee2f4192a4e27cff7720c806
-# 75380e53d47148a8b8760665e2401512
-# 106a2ce81c6346a884fbc3d9ffed8427
-# 9d6086f993264e9db27fc16f4e1bfa92
-# fcbc59706278440ba9903bf2963d3c92
-# d6445b6722774de38b92b8dd16e67050
-# f45c54f87fa34c09ac870c6515a865cf
-# 098869b6964c430e8d778bc1f0e0ef93
-# 9c75ee5030e34caca6e4d6998f5d6f40
-# 9de1904ef1d24b1ca1dbcc1055c5ae64
-# c65d3d9b69154dfb901ff082ffea8db4
-# 2c8ca17fca0f445e931598df386abc35
-# 28b12aa17b2447aaad73b8a3424880bc
-# d3af3ee957684b9da203df175078374c
-# bb1df727f2a64f67bb66cd415dd8a0bf
-# 014807ebb743452abc524adfbb158e12
-# 9dcd8254736449eaa7d2c050b23adb2a
-# bc9d53f2a528469d827c0aa4c18cfa34
-# 0aacf93b1cda47c8967926b8f21a057c
-# 74bf41fcb32f4e6884dc5c1ea8b4bc5e
-# 700d40944d974a40a7e79a5f54b8f180
-# 8d4603671aee416689d1fc7fd18e9b80
-# 61c0ec2d91e64772b3c2f19ab5b27730
-# 5a40c2a4e06f4950979f95024f7aceee
-# 93bc241cc2754d849926f1062177f45a
-# e1a2803cdc374bb3ba20baedeec3e73f
-# fed8cbe354c84e4a91c47563d4d48d89
-# 3e63b3d245af4327832edcb08a889d16
-# fde8d8b4f9314da79750d64651ee4e90
-# 66965bc394eb4a98a84c830e79dfedad
-# 34313b684bb741ca9916bcf3b5c56b6c
-# e8ad7e3faf1147d5ba3da7f0ea20998a
-# 60d9be4586144c81816356e189fd4630
-# c7b129eb3d2b4da680951e950bd24221
-# 73ee2e5a7f8448b9888c95b9db5472f4
-# 33d2bb2d20904389826e28a6834235cc
-# 1dac4606ebd046689254d5aaa19737fb
-# 3c78866c3f2a4f9a9b046cdc4de37268
-# e43d10aea07d4d58b2ae8fc1b33331c1
-# d6a6be4f98264a32964df7da81fc25a0
-# 7dd6ca56f2084156889581b32567732f
-# 28b0e308a2ad4b68932dab0a7b6033af
-# cdc1fdda359b49dcab2eff9804bb8cb7
-# b836982d9c324277b0fe2f74cee6fc72
-# bcd7654b7abe4ee6a8e8e1871716732b
-# fc628d763730485b91638aab384075dc
-# a63cc0b7cc4c4320b26bdd90a99dcaa7
-# b5b0e7c73e044770aa1e17d63494fdd8
-# bb236883c00e42f1b08de33837aa767a
-# 782918e916db480ba1ca8e865f9be54f
-# 6192cc59b8e04a3c8f49150700a9fc9a
-# 388e98d1f3924cbe86434d2a39c16828
-# 8f4a12c2973b4e599ba9596b846331d6
-# 343ec458f36a43fbb66740f43bcd00a7
-# a13f045a422549daa2030efeec47b4f6
-# 902e5eefec7d49878c3093efe58143ae
-# b926a7ac56964008a246ed44d4853988
-# 16d19b67372541499f1b5192a35f184b
-# 0516fbeb272e4e9d8072d3f009c5b60b
-# 099047072ec6473c96c694ed39d1d780
-# 68af1210d4994523bc2827c5971bb83e
-# 33c73487689a4e08a78c5d88f89390a0
-# 7edb55629b18473c92e64728312d61da
-# 7737e777470243e7b80ee74dbc4d55c1
-# 77c3eb064b334dbf8929301c977c768f
-# a53e70f24f4343b5ae1259a96190d920
-# 5d6821653ccd496ea8a166fe259393f8
-# 32be42c080a245b0ac4e4bd20db82df8
-# 8ea9373c4d8c4633a35a38459e13c22d
-# 6d549bc9ce9b46a89791a070c13f03ec
-# 4b4b63bf0fd346fdb15a15bd93214f84
-# 3525fd2546e443ab9caa3e5041c20c8a
-# 062a2df6961d47b187eb44f3c2158b5f
-# 206101db30394afb836b1f1e2bdbb9ff
-# 94eb206dc88f466692bd14176cf161e3
-# 63ebc91dc3784f41b3d9012174aa41a4
-# 4ec8e201977143c2bc4b66a380180257
-#: ../../support.rst:44
-#: ../../support.rst:65
-#: ../../support.rst:116
-#: ../../support.rst:186
-msgid "translations"
-msgstr ""
-
-# 0219e9a2adac45328569fcacd8a33a59
-# d72e7fa1aee345258bc3123adef466a8
-# 6ac667fe0b2f4a60a63f445eb12cbf35
-# 39dd93617f87443b9e059c72eacfe058
-# aa6c85e21c8d4b2a8b8efbd342fffb58
-# fa094225ef2a4b78b260488ebab5c4f1
-# a9780b1771bd4efe9285f74de93b4d3e
-# 2308f55d59dc4a0d9221c2d2fad97c4a
-# 65b88d0975a8409093bdd01a15f8771d
-# 62cfb929ca2240cea0c45893dd33cee6
-# f97b540e848c41b988e338cfaa193dd1
-# b5b1923d79f24bbf9187952f8aec0700
-# 15772351163c47ee83c81ea005dca7cd
-# a79b743bab9247cf8780d5fd38b75bfd
-# 18a4fa7f4344403f98109bd13cdcb011
-# 7ed00178725c4ff8b59667fdaceee0a7
-# 67b48eac150a4b8c8a8d8a2c544af9e0
-# d6cae91fe11c4441ae815cd1613b2950
-# 837e2b810c33472580137043f8401d5e
-# 01a884f347b249fbb38b026ad10cc80a
-# a8637f127e7c408784fdfa06c6c2633f
-# cc3de0d6696e4f0895e94b869e15a2e5
-# 6962b33526264d10a239d39a864fe1f1
-# af12375f08ab4a2bb9748226582d3550
-# dbf17a8025884010932ba8b7b291d1a0
-# be4b087c2efd431fa89ab35aba298195
-# 1a20c4097387434cac78fb1370002549
-# b8b506c73abc4ecaaf34fe1a8fe8abb4
-# 16c57ed03bf342b58948935792c9ee8e
-# c8803588de2e4c0287f0575045eb1290
-# 2053536ddd16457b93f47cc1fa700446
-# 6ceb1465f47a4fbc8ede0bea357bb5a1
-# 9250ed0f3a1c448d91c276f6327ca91d
-# fbd77bd334db4ff881f6ea5fc3ee5755
-# ec4d99ba1d4440819367a1ffa84e8c30
-# db0fae0bab8c4ef4a43d4a5f3dd8de97
-# 8815841aa8534c79875cd138063e3d3c
-# e192c18ffb2f4846b2ab7239628efed6
-# c5276b162da44a75933e46f29e6e3729
-# 3ddfe10764fa47f5b40fb9b3d37a2b12
-# 648b2451463b47d482e442c70a95295c
-# fa13b7f4354d45988a21eeae41df20fa
-# cae56c38a5c54e119aaa133a24805c24
-# 88b38f583fc741b9957eb2adf81e313f
-# c2f6dde83f46443e92a7b44103dcc639
-# c31af8a9112c46059012ddcf82751c32
-# 9fac33bbd4214871a151e52817a937c4
-# 0d2e42804c7343f7a489e6bb467a7fe5
-# ae32bdd6a80f4e7a906733a0398e17c9
-# 4b05089808f748ba9ffa6c9f18bccb62
-# 7299fbc9c5014aa89ba1019d60023f16
-# d957d5dde9274cf0bd3aacc70d90d402
-# b583363fcb5a466b8a4ea247e20424dc
-# bb5c4fd992b74289942a539375f292e6
-# 02c9412eef9c426e83d1c2f79f93bd07
-# ae1029c9c2e44f77b9845e84689ab387
-# dd29793491c740fe941046b7f004f515
-# 5a9293c78dac454386f279a68ee40da7
-# c8cbfb9d511a42ab94a255ab013bc98e
-# 6574e2fa4fe94202a45f4f4bdb9b2086
-# f496fa5f853540318029a30ff787e558
-# 7955f7d8ad85466d9cd230bc85edab3e
-# 0db98d4de9bc4a578df4226fc06d1d71
-# f19065cc084d433f8c5a7a4109c01f42
-# 94503cc0d39f4b95b3fccd801d0f240e
-# b66d4c30c3af458e9192b4e21c387389
-# faabb9ff89d04f70aa5355a02f974e47
-# 4a862bcb149b40fbbf846eeae065e42e
-# 62da5212efbd40948b4a726ffe76dc42
-# 639e77c21e214ed68c18bb1346dd8faa
-# bcc08fe8aad248139a008a04e7566c3a
-# efce70684ae3452fbc7048049d09ff9b
-# fdaa875383c84ee9a79f908c92870d48
-# 015d9edb047c4f438ea689788e98267e
-# 4d465ede64dc49c3b05db9bfdd51b73b
-# 1c1374895de54c2e92b4f92100584966
-# 3a35f41878a14a57b5f43720a1288dfe
-# 4cc2936d4a5640fd8822549006321281
-# 5d62f453f5a445eea5e6674f6d573720
-# 09a82fa4ae6f409d98f00b316435798a
-# 50021624edf24cd199d6e6a0af24ce72
-# fa05aa4f23b7433fb69352f2f4d1126e
-# bd799d1fe4fc4f36a62edfee7e42e669
-# a622e054f5494c26b425b7522dcd4a67
-# c9f04656f14e4a2c8913c22a577475c6
-# fb3772a119784d7eb45f2a6049b7d5f7
-# 66ac78230aa547d79a0a9f49c4fbd558
-# 461f30f2d603452d908d818f20828c88
-# e1515582c30f4b15b51acdb4e4a7c656
-# 6e50e67d521a43919b96195e385f5e0d
-# 33c3ebb698c948eb8ca462bd56f2bbb5
-# 6d0b470715104ae49a873a29008b08e0
-# 5aa7ec732e014c289318a7f3acf7174c
-# 6fdb6633a50b437ba781040ee15e75dc
-# 4cbdf3180e6e45c6adfa55d56e0cde9e
-# d742df525008483db744d12c7f52561a
-# ee5484e090a24572aecc0f16d751f614
-# 56514e036d864d0f9743c239f0bd3d4c
-# 0ef102d69bf14645bfce1e7a6ba2c348
-# 8ee6e58dc5c3459e8e79c350d25373e3
-# ae74a7fc20cf4a2caa30b38d4ad24d1e
-# dafd888172d64216bead528ab872daed
-# b7ed7b10a16d4ba397ae57e2e79c8b7a
-# 770c7633e1e64774bf6b741be0ef2940
-# 3b5583d722ea4ea29c8bc03020c00d3b
-# fa6d377883be43a295aaa65746418488
-# dc2068a217f6489790a60566b4c394db
-# 2a8dc2cd99574a34ae8de250e40ddfb6
-# 3795f4f046144bfc8de1f6777ebe8bf9
-# ec3f53ba30a842a89881c97382ed62f6
-# 1d0b301502a640e0acd0d41583b8a0b5
-# 1a787634f7ae4711b41840c57af082cb
-# 8efe0f29793d4d5e9943fb42c224398d
-# e4c0d356f5b2490db44b26cc97498297
-# b63d4195d0144eec9bea3fecd04b9f80
-# b691271e9fec4c459632eafff9826df8
-# 620e8605c5574af782daeca4097c94ae
-# 30a37b0a50974c61bc7fd66e6b3d6f2a
-# e95cd7e3f39943b88316bd7b62f0a703
-# da63597c612b46cdbc805f24b26c24c1
-# 3b617f66eb2548a796821ee0788ccbcf
-# 60f9f1ff13544c1e8d247b98b51b81f9
-# d97c8053a981485fa97645c903d5a2b0
-# 08c7f28ad69947b8a8e8b0eea53d9820
-# fd6a0d509cff4688a35f1d9348a31ee0
-# 0b072297bef74f4a888f890d16b05df3
-# 3d628c4095434c909c33dfc3fbb7dee6
-# 65bb3c3819be4ac9859e0a8013237ed1
-# 0774fd1ff54b4241836594b4fc0c2f7a
-# 31d820651abb4489babfc536e3cb941f
-# 25da12cb94034198acf9e48c7231283a
-# 200071ef21294c9d8aa30ccf849c68b9
-# c27a6344868449c08d7eabfdd7a43851
-# 949a80094319472583cb490789fed271
-# d774a5c690aa49a7ab13be2394f0970a
-# d79e54f4878847a7a340014b26e7759a
-# 00e4121118de4030b6186eddf0b50a2a
-# 2b06cd2f3b8d4f9cbf604a6afbb9bba1
-# 27acceb9b3f2420fba45ab3c5e86e5ae
-# fdf325d43df04c36be6758a5ef247cc4
-# 04efd60d92d54d26a7cb37bbe7bf6d6b
-# 1f75cda5f0bc4e05a433fc7b90831ed0
-# fdc97247d06e4b629365c4bab343df40
-# 7583a93ab01843b9b9bee8747a642d8b
-# 35aae9310bd349a799cbdaa7d60a8f63
-# d9e684ef7f9d4badb517dce6e6297b55
-# 64eb393b9e3c4f9e84a03f5b4502d209
-# df806a3e1dea42239fa43f288db4ebf4
-# f76ab31e08384b36b8a2de869c6c877f
-# 7898fb661953457497cc802049c7e181
-# 5944145ba61848c0bc3b78481427d577
-# b104c660947f42b4a6dfe2e83758156b
-# a42b137e9a704953a426a08ba447199d
-# 5ffd48f039c14ea4ad7c2b0ff8ee771a
-# 46cd5fba1b634252871ba9a9844fc2e4
-# 388b9a20ac9e4a04981781449c8fd1a9
-# 1bd81ea9c929468784e9a1abd930bea7
-# a2c2d7cc6a2f4e81a7e90a25aa879373
-# d468b159efd24ed5b83a3d258f1f1c82
-# 76648de0ac7c47ef9222b4793e4c0700
-# cb569ef35bae435ab7716dc8a591c755
-# e38b100619f749e382c30c1083067c23
-# b18adf8db21f4a17925b3d0c19710193
-# a19e8fc2b30049be93ce3803e4e3034a
-# 5a07ad2be93740eab4115aad576e08e2
-# bf3a08920fd34bfab08da692cc1e3e89
-# aa92b99677bf4646a5c346f4c1ee346b
-# 9e6883863dba454a9c53d877c3728df2
-# 931faa788e61465fad111e304c8a8c75
-# e5a98f26768c4cda9b7bc3e837b70f08
-# ed89dd889f744d059737b9999fb9461e
-# 853d074f3cb54678b84c0a57dea5d34d
-# 3ba3b6eeb6304092b7af164ae959a50e
-# 44063730427942a18f20abb1d35086b3
-# 1d0e325cbfb54973ae0d30d869485efd
-# 4ca13008ed74438aa3893051a8e4853f
-# 0593f559029d42cc8d90f67ab36cde03
-# bc1be2c16603444594e23e8ed2934917
-# d09213b01a12474c99014e81eb2c2971
-# 4645525175ef4f43adcd926a411048cd
-# f9285e86589548b495663f6643213ce7
-# e92d3ceda0fd420987b4d68f3cc8ff80
-# 5e446d32049c40be8980f38c04efed2b
-# df70a93985344b69a5f54eb405b13ccd
-# 623046e6946a4d8aacc0ccc1362e5ebb
-# bafbf63ab5b64eea8e1bad85cab8a55b
-# 60a793beb987446095e2d4b46c6c06cd
-# fb9768ce1c40425c8fd3752e1ce26465
-# e818ff4c007a4b6ab43b0072a7b4790a
-# 2edb4da5c3b442e08ca40d0a37cf4094
-# 851549e37ce943de8c31923e51155fca
-# ebd7ac8a327741838ad5c3ee44fed830
-# d52848a618e0416abdd09ce16cc645bd
-# 0e7dcded8af348a3a24299aa17bfc09f
-# 3c8ee92159ea4a14a6e85f260b092ee8
-# ce4ce2d9ef434835b4f24d3496a5b020
-#: ../../support.rst:202
-#: ../../support.rst:218
-#: ../../support.rst:268
-#: ../../support.rst:379
-msgid "development"
 msgstr ""

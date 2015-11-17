@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -174,110 +174,8 @@ msgstr ""
 msgid "To begin the PC-BSD® installation, insert the prepared boot media and boot the system. If the computer boots into an existing operating system instead of the installer, reboot and check your computer's BIOS program to ensure that the drive containing the installation media is listed first in the boot order. Save your BIOS changes and reboot."
 msgstr ""
 
-# 2b02a1475f434fd1a6fa3172c46e387c
-# 57b9bc4fbeee4b44a714c9b7b0973210
-# 2b28f60a1b3540109aac0777ab6d77c1
-# 667b2bad346d48c4b474cbec9f8d4476
-# c7db20a4ce034e61834fcaf71f11b9d6
-# 73ac7f0c25eb4f24ab9336074d2e0078
-# 2781a7f290194c909fe474f11a82ef12
-# 4b4875fe802e4efc9761e87eb646695d
-# a5c89a37051142d396813da1bb873886
-# 8a89cc3cbde540659685bf4637e9c5ba
-# d94c1420b54c42b998b75915c74cf25d
-# 4f84e6db6bb74f87a10db77b74c9a3a4
-# e066b392273f4682a002dd263ca5bc53
-# 60aaa556ddbc4ea9b6d68557ddaaa0a1
-# 7b3cc7852e5341fea79776b01c64fecd
-# 3c9114c917b542e4bdf64db7a0821f08
-# f1f8f41a540e43dc9bfb95f5e3e7f6ad
-# b4d8c8e49b504fc59a2e6c96830a6e77
-# 41e446ec35da4535b111d45715db7276
-# d9c93d03165a4581917fa7308d9bb76d
-# 17d3ab28343b48519bda5e64ad2b5104
-# 9de2bdd88f2348bd838d86106db59d5d
-# dd74646dfb8e4be7a35a9d74077bdb5a
-# abc4399ed08d46468dc481ec4b4d14a6
-# 2e510652f3d0489c8dbfb4a5f0ec78cb
-# 5c6a1cfd4a2746b6a648b3edc88b28ce
-# f93ed43b041c4eaf825488bd6ead8957
-# 1d6595d744274898982ea61a59bfec6a
-# bc71630d978449938453b10492694a5d
-# 394074ed4a5e48b68151490bb2a797b8
-# 2b67f5d49b2c45c7aa7b1ac5375e8857
-# b7d1e076ee17493db6a8afedb51a7b7d
-# 9e8b3f525eb14354abdb3a3e64f660a3
-# 6fcfd47654ee4f298c6d64c4f06907de
-# 2db8081a0f1644bea0f709dc8944ef26
-# 7189c04832814dc78e3a36bb7d6288c2
-# 56593c8ad769471e8e5753ad8fc03f4b
-# 882cb0ef4b2b4b89979a7d7bfef28fed
-# 9ad3ab6cf5584ab580e70e085e2c6197
-# 642273bb37bb4944a00bc79cfbe6bf93
-# dcaa68af25294bb0ab15ce190f45fda5
-# f593ac1691dd44b6970ebb9a7faa8b3a
-# 2d0d957099594e45bcdc5fe69c21b3e6
-# e0f7ecc44e88420abdd305779ff8f294
-# b4d90bc06d1c48f98683a01fa76600dd
-# 8d2b04cc9757483484a8241d9f63ed5a
-# 7b579b3e5d864935a6bf9ded54d66bec
-# bba0c942529b4f509b3aae317274e73a
-# 1a4230f63e474e1db84d0fa1cb82ca62
 #: ../../install.rst:15
-msgid "The initial boot screen, shown in Figure 3a, offers a choice of using either the graphical or the text based installer. Unless you select otherwise, the graphical installer will load. To instead use the text based installer, either from the console or over a serial connection, use the arrow keys to select an option. If the graphical installer hangs when loading the graphics driver, try selecting the VESA mode option of the graphical installer."
-msgstr ""
-
-# bf676d9fd80a4867bbb14cb25579b633
-# 4498e9c86b9b464bb78ad7122ae4e463
-# 544a0aa874bf4162a51c98194ac507ad
-# 6e677f78d1f54778ba6be64cd15cde86
-# 026be984ecc7420e832bfd0a6dc85797
-# c1db6d9a6c064781a171bf7b31645ad9
-# 20e1d0419f704c5fad9c49b53c3eb0fd
-# 6572bb31489c46a2ac33ecb4b20d68b8
-# 9168e4bd753e4704903c956781d7aaef
-# 65384ae56ceb49e6939c4cd8617b059e
-# d2a62323ce9841f59735e079d1cceb41
-# f7946d5f39044013abcb1f956ff2c20a
-# 0f1a22d079914c72a0dbf2872687217b
-# 3a82cae52ba74139a9d9d0c7d55afedd
-# 0e978a6026494d8daad4880b5533c0a8
-# c33ce978f7614abfbc3f626a36235c25
-# 2ed8eb7a581b44d8bbb0aeed97e1cd6a
-# f005c1bba61e4679aea68d8169d8456c
-# 3313610123ca44cbbeabd96a6a1af9bd
-# 7c85d49eac9742568863bd910f8d084e
-# f0e6ceb7977f46d289ecf00156ee0e7c
-# 0a3c194fc1aa424ea7b6b446aec2eae0
-# 0a75e177e983409aad15f7518138a4e9
-# dd3a7ed7f5ec4d86aa8b61de70b2e5f7
-# 65840e97c37045c997ad826d39ab52e6
-# 56239c6cd1714aba945316282f67445f
-# a47b146ca5ad49fcb40182d5b320da45
-# f180271b95cf42e8aca9460df1ab78d9
-# a79ab56eb4204221aa3ff541dcbead2a
-# 9903239248904c99abcd2647a33c83e6
-# dc40f006b3fa42deac17041e58f79e6d
-# ef79bb25e86f489186b6a324e0d29611
-# c1837dfb811b493eaf2c0bcdfe8a359a
-# 0184feb97c3c462b865b7274d87124a1
-# 1d8685529e0047fe9e633590563c43b7
-# d0f921da92d64d99a4d0e66819468013
-# ee348f91d45b4368884b36c445e46649
-# 8065fff4a90c4fd288847c5c0b611538
-# 6654d5ef49754b8aa01230c6c1fad504
-# 942e51f5b0aa4dd4b77ecb2b81152c68
-# 34a425bd59794978b539e853c515662b
-# e03e04643b5d4e41b43e6f5f055c1118
-# 80662e63fd4c42469c47c1dbaa4dd418
-# 4273c4f103114118af02a796b74d39ce
-# 95c2a1ebf4a548499cb7fe50d593f28f
-# 56a319957ace40b1b0f17e9fc15a7f86
-# 4d60ce827983457f8780b378fb0ad9e7
-# fb4cac1db9da4b6880e07a6d5b9a7750
-# c2d5f3e4bd8f4df3806f622165b26f48
-#: ../../install.rst:19
-msgid "**Figure 3a: PC-BSD® Installer Boot Menu**"
+msgid "The initial boot screen, shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1a>`, offers a choice of using either the graphical or the text based installer. Unless you select otherwise, the graphical installer will load. To instead use the text based installer, either from the console or over a serial connection, use the arrow keys to select an option. If the graphical installer hangs when loading the graphics driver, try selecting the VESA mode option of the graphical installer."
 msgstr ""
 
 # 61db3a00a34a4f6bb74e6a11b358c693
@@ -386,110 +284,8 @@ msgstr ""
 msgid "Language Selection Screen"
 msgstr ""
 
-# 44d959ee2ff84c6894ba02fcd091f6ae
-# e4816214f9c44531b4a5fb67646cbd64
-# edaa1f9782f34582993e760097a3c957
-# fd33a84cb533402daed8c5f79b4827b2
-# 68c28c50a51e458bb7931f4d92bbc29c
-# 39fc2022dcf349e2b0d81df3760fb24c
-# 77b67ab4f66d4fb8a582301f141ea89a
-# d2744012a5834b65823b5af51cb4cb9f
-# 5e7c9a53ea574fa8942b97d1afefcefa
-# 45181f7b24f240b4af42b3ae7f67bffa
-# 82807e5645bd428f851cf26523f7cb92
-# e12996bc578c45eaafaa153d3fc35331
-# 9137fe69606d4f96b48e0170e4f0528b
-# 9c89c863ac5d4f0faf191f151024dd08
-# 5985cea31a50434083aeb68529334a6f
-# befaa9af38d246da8051d0330cd3bb07
-# f1d3e6a3bf504f8bb5de381a495e047d
-# 50d85e627d0e4c4d8c5884f7ae978362
-# cb719b7a6fa8468c8be769e114bd3f75
-# 4db2ffa0c7804e9cb2914815b11732b9
-# ab01b0394ac1436bb764f3d07b639f46
-# 8992b659a989439a90ca665ddcd85aef
-# 1447202ee6f643219dc27c530a30ea3f
-# 52c7017d5bc54849b8559c245eaefa80
-# bbdff7f4ba0049bcbf5d8d9191965035
-# a5a353e9e0614127989a400b4eaa166d
-# 9ce8c5a0202643b7887f5850ce124bed
-# 541d206c29554681b5af68b7c88b3f70
-# ec165afac620414eaba6a4ce565317d2
-# f3d3bf1925234c34bfb217faa8c91d68
-# 8064e3c1da374c8fa7638904037b709c
-# e410ecc27c7a4ed69865ca1b8c6e2b34
-# 91b427333be14e57b4fcdeb6c982ad46
-# ea267a342ae6461fbdcfa92b07c955fd
-# 37a7f59005924a24b10ade1eeeeeba43
-# ae59c42299314eadbabee63c0588a626
-# b87e223c1aec4a04bfcf8978a98a0222
-# 8000b3d64d344ca2afafb229a83f8092
-# 5a791fd871cd4ca0b5a15e4c471779ae
-# 2082e68c5fb14235bbb2659f2820c142
-# 3effefc4928142e295825c163df0455e
-# 007f7ac22fee46edafadac7a3ab7cb84
-# 30a6e1f0fa7c421287d128c69893fa0d
-# 3456af0c7da044cea91dc310c0db9e3d
-# 76016e6d8a8b4f309cd9c238f769e97c
-# 33fcda6cd8434fd29e3f33bea4907b71
-# 58dd637e5f7e4b228e1556339c4634e8
-# e3e4a9f000494fa99a7abcd61be08559
-# d1ce99d16d214ed2a2be2b56396b00ce
 #: ../../install.rst:31
-msgid "The first graphical installer screen, seen in Figure 3.1a, indicates that the installer successfully loaded and is ready to present you with its options."
-msgstr ""
-
-# 69a7f536a7474ffa979975f94b0ff2fe
-# 8856758222044e86b6e6715671053c1c
-# e9b93a83f5064c7ea199a738304fc15d
-# 8f2fa1f5fa4343e98ef61791f94c619f
-# 615a74470ce441b7b1a8ad7274346ba6
-# 24bf929e1ba346ec99099cc50e8ef74f
-# c720f9c32c6f450093cbc5eaa40484fa
-# f91826d3649640da86b11726930ed157
-# 4efa029998df4bd8a010a93c0ce5f57b
-# bc80e4a7ffa54c9593cf08756e85c1e9
-# 14a6987ed3d7485f97b038c6b20eadd7
-# 561c248814874f5d872e4b6ef44af2c7
-# 833eeef3aeb04d16a611ec616c83b957
-# 11c67fc5a160436bb6f36a9adfc00343
-# be2ffca74d4f484797916f2e78b47650
-# 65a7b1cb4ca34055a61fa6c5078b0e1d
-# 0f0dc6a43cf6417dae4c7c71dbd1fec0
-# 55a6a9c7fe564d1b8d2da53459730dd5
-# b3942ad4b2ea402b9fdaa31ec78a6df8
-# b9035d0ef5ff4a61bed45599b38eb9b8
-# ef84384ddeef4c0cbb89af60b1fc1304
-# 55c93058fc034f478390966fe7246d2b
-# 5740295383bc457db7d836a45317d976
-# d5c4b4b74ca84ca2926442633e3a8fc5
-# 812cf5ee3ff24c359c2062bbf84963c0
-# b18138b52e3c494cba0a8322309a0719
-# 6de2cab182184711ad9883037ab5cb26
-# 80a6b44ef069485ead63b49162c0a97e
-# cc017bfe009b4f31bcf0704209f9220c
-# e81c17508ca74515b09fb58323e74104
-# a7c99940096549c3b1a3897ad67d9926
-# 659ef7a6dc0942e586af18ac199e2c88
-# 19a7cbccd2cc4399bdabdd2a60df8ef7
-# 8f919bbd6f0848e4abc5ba84089127f9
-# 4655a29302f9421e9914e1daf5724d84
-# 001449a9c86b450bb4dca12689d494fc
-# e7b05d9b402d48499fdfd0f5ed26f716
-# 3a58038adb67479a9fda833309919289
-# 21b582d7885d4f33be0abb815bb970a5
-# a67d6904f472499ea4b89bf192135a16
-# d8ac76444e1747af80dad5d5fc05731b
-# ddd020d568ff4e73bc1228da005d112d
-# ee4c2759c86b4dc498631a9bac46698a
-# d01feca4e715438797d45bcc6e122129
-# 5e2f366aa961474c92b325cffff23d5e
-# 517d77b69e304e8c8b8afa3d828a15b3
-# 40de4cb0957041afb73568ab62ab0c90
-# cdad8b5c87d24ce395f58f7ff246913c
-# 88f9792303d14bd3a57f1850f5b8a101
-#: ../../install.rst:33
-msgid "**Figure 3.1a: Welcome and Language Selection Screen**"
+msgid "The first graphical installer screen, seen in :numref:`Figure %s: Welcome and Language Selection Screen <install2a>`, indicates that the installer successfully loaded and is ready to present you with its options."
 msgstr ""
 
 # 00a2f16adf6a4a62ab493d99addeb19b
@@ -541,6 +337,7 @@ msgstr ""
 # da2866943aac433cb08b84bdab62fa17
 # b5da218becb04e4b8f029f40b85a201f
 # 194f39129d194657a58fb8d643f966c4
+#: ../../install.rst:38
 #: ../../install.rst:37
 msgid "Starting on the left-hand side, the icons in the bottom navigation area allow you to:"
 msgstr ""
@@ -594,6 +391,7 @@ msgstr ""
 # ff0c67474c0243d88165ced4c81c5507
 # f1ad2ad127564b58b6054ed66d2c07e6
 # 0cc94a73bd204aa985335e3597679eee
+#: ../../install.rst:40
 #: ../../install.rst:39
 msgid "access :ref:`Hardware Compatibility` information"
 msgstr ""
@@ -647,6 +445,7 @@ msgstr ""
 # 77e0eed0164c4cb88bd4d7cc159a397f
 # 59bd4c77de70491b92425fc6b1feb6be
 # 43da542508ea4aabba7ad1f949655e61
+#: ../../install.rst:42
 #: ../../install.rst:41
 msgid "manage :ref:`Network Configuration` for a network installation or system restore"
 msgstr ""
@@ -700,6 +499,7 @@ msgstr ""
 # 25384f0ba21f4dc3a54f93adfa2771ff
 # e2969860e22748ed8750f47683b2c7ea
 # aa93f7d386ac46d1802f523fe0e9cbdf
+#: ../../install.rst:44
 #: ../../install.rst:43
 msgid "read that screen's Help text"
 msgstr ""
@@ -753,6 +553,7 @@ msgstr ""
 # 57563fae0d874c6e90127f19b2360b8a
 # 31984368d6a749acadc2170ce1902daf
 # bffba4e5ec6d44a088c0a74c5d2ea87d
+#: ../../install.rst:46
 #: ../../install.rst:45
 msgid "use the onscreen keyboard"
 msgstr ""
@@ -806,6 +607,7 @@ msgstr ""
 # 031759a065894722a50b1f1c909388cb
 # bebf2e68d87e4fb4bb6556c4143a8968
 # 714042ad983a4e6ca2b74068b42cc392
+#: ../../install.rst:48
 #: ../../install.rst:47
 msgid "switch between the US keyboard layout and a user selected layout"
 msgstr ""
@@ -859,6 +661,7 @@ msgstr ""
 # b471d50938f1418aa861db4d98240b69
 # d1c3493bcfae432eb88889a6c39d7504
 # b8bff0b6321f47c3a0d2b2ad7e6631e6
+#: ../../install.rst:50
 #: ../../install.rst:49
 msgid "access the emergency shell described in :ref:`Using the System Utilities Menu`"
 msgstr ""
@@ -912,6 +715,7 @@ msgstr ""
 # ebc55c486f46406681dfa77ee1bf7acb
 # d0c7ba3ed6834cd6b771236374fa89bf
 # 4f57279847e14fee88a4fe482eaa2308
+#: ../../install.rst:52
 #: ../../install.rst:51
 msgid "access the :ref:`Disk Manager` utility"
 msgstr ""
@@ -965,6 +769,7 @@ msgstr ""
 # 0898d909e30640b2bf764d28407d4838
 # 4be8c48c9324421c8f4f69b1a169f1d6
 # 9bb59cf9905f4e60851545993d79d9ed
+#: ../../install.rst:54
 #: ../../install.rst:53
 msgid "abort the installation"
 msgstr ""
@@ -1018,6 +823,7 @@ msgstr ""
 # 6f0df621f5414c29ac681b107411724b
 # 0da43957cee143179c391f5c581c6157
 # 3eece24e5b1e4afe94325ed7d1b2b693
+#: ../../install.rst:56
 #: ../../install.rst:55
 msgid "navigate to a previous or upcoming screen"
 msgstr ""
@@ -1071,6 +877,7 @@ msgstr ""
 # 265fc7f55b9b48bd805adc4c017486ca
 # 9d0b99e531a24c9985c077eff3fc5ffe
 # 06240d1de2894ea5a0b5c0f9aad87b6f
+#: ../../install.rst:58
 #: ../../install.rst:57
 msgid "Hover over an icon to view its description in the tip bar at the bottom of the screen."
 msgstr ""
@@ -1124,6 +931,7 @@ msgstr ""
 # be57064226b54091b320cacc4f679c17
 # 558049902b4742f48fe8982dc90d57c6
 # 82bbbbf4f8ad43d48a5e7bb953478277
+#: ../../install.rst:60
 #: ../../install.rst:59
 msgid "the default keyboard layout can be changed now, during the post-installation :ref:`Language Screen`, or when :ref:`Logging In`."
 msgstr ""
@@ -1177,6 +985,7 @@ msgstr ""
 # c9d805810e0c4b60bb2d6d69a8cb8542
 # 1d72f46a41ad46d5b54ca3cd1ac377ae
 # b00d0f634d90418780d571e1f299ce9d
+#: ../../install.rst:62
 #: ../../install.rst:61
 msgid "A button is also provided to \"Load config from USB\". If you have saved the configuration from a previous installation, it can be loaded at this time from a FAT-formatted USB stick."
 msgstr ""
@@ -1230,6 +1039,7 @@ msgstr ""
 # 03ca434b08d54d2c845cf2c987a89c0c
 # 932193bc1398416f842fbab80d31e8f1
 # 2a183b72eb714e329cc705df005a8706
+#: ../../install.rst:65
 #: ../../install.rst:64
 msgid "By default, PC-BSD® menus will display in English, unless you select another language in the drop-down menu in this screen. The menus in PC-BSD® have been translated to several different languages and you can see the status of your native language at the `PC-BSD® Translation Site <http://translate.pcbsd.org/>`_. If your language does not show 100% translation at this website, it means that not all of the menus have been translated yet and that the untranslated menus will be displayed in English. Refer to :ref:`Become a Translator` if you would like to assist in translating the graphical menus to your native language."
 msgstr ""
@@ -1283,6 +1093,7 @@ msgstr ""
 # 1b73582cf1c64e508faf38db5d4cbcfc
 # b9fc89313f2e45ba9901f833c9bff8bb
 # 79116917cffe4620b933b0a791593c27
+#: ../../install.rst:70
 #: ../../install.rst:69
 msgid "small screens may not display the entire installer window, which means that the buttons at the bottom of the window are hidden and inaccessible. There are two solutions for this situation: press :kbd:`Alt` while dragging the window with the mouse, or press :kbd:`Alt+N` to select the next button of the window."
 msgstr ""
@@ -1336,6 +1147,7 @@ msgstr ""
 # 8911a40d6b35499f891b32f8e42fa891
 # eef7543f937c4bfeb5d7cb93d7852fc5
 # 4356b405e380498584daebe28e22eb2e
+#: ../../install.rst:74
 #: ../../install.rst:73
 msgid "When you are finished reviewing this screen, click the \"Next\" button to go to the next installation screen."
 msgstr ""
@@ -1389,220 +1201,17 @@ msgstr ""
 # e07ea2de6be441d4b7b1986e3c49bd22
 # a65a925bd4844462a825831c2006650b
 # 3d197faf1eb749dba16bdc394f858c97
+#: ../../install.rst:80
 #: ../../install.rst:79
 msgid "System Selection Screen"
 msgstr ""
 
-# 1fa0fc3808a04d0ab5ecdd1eff4d0be7
-# 3db67850510b4e6ea1782705d1b3b02a
-# 2a0c94d832a647658c19e22ebf343045
-# f199dba169034b67af8eff627030cb11
-# 03dc7bda67eb422fb47fc7837335922a
-# beb92e5d62224e81bc33b4523c551115
-# f73e846ef3074dc896719cd420f2cdd2
-# 7ba8253caa5b4e29a2c61a5218a4e619
-# 53a195c2eacc445abbec0dcd2f28a5c2
-# d83c56e320b24536a2738154415a02e8
-# 841d00edf2cf48ac8662b9bd70979eea
-# c4624727be75482ca0b7b70671dfe6e0
-# 6e7d383eeee3460bbb48a349b108deaa
-# 664923f7c5a74030b5716982e724cd49
-# f9d3c7ef3bd14189b6afd54e3a4e4871
-# 4dfb054ba7214a4eb1db4f58ab1e4def
-# c6742c7dfc8249e9b89e45ae3e92bdf3
-# 5168ed2f704845eba8f4fd2ce2ff063b
-# 2f624189b5f740d2966f0eac56b6285f
-# a736e9deea6a4b4c9326c999de48a39e
-# f2a3742bcdd1449e80dad655891753ed
-# 47969618c8344dad839b3544028dbb31
-# dea39f986758402da2dd93880db5e0be
-# 3693434193384b7aa2b74af551ad4ae3
-# 07436b574595462889264ea6076a298f
-# d5810ace0d5647a7b807fd3f443e3238
-# fdb0bd7d62d44a8489da75a8a7ffe867
-# ff4f74b2de52499f971ec5e1c65d2c4e
-# fc997d89d17f451aa645626283262796
-# 1374d27c84a14703882ebb942edebef1
-# 2fc7ab7893164a5db79726a8fc892abc
-# 90b7da729fd643619cdfcb30ce62ec73
-# 4dbe99a61f804eb3963bdd9163722233
-# 2e0d2ebe0a484d3286ffa998253ea8ae
-# 218ffa5880d14522b39ec1dc8c4f91f8
-# 15fcf60d478c4a009cbb51deff911058
-# d7310ec5687448f78d41ee6fe3472fc5
-# 6a83c117fae041e9bb3024e82ab8bf65
-# 9b41cde83e4348be97260f0f564787c2
-# a9a32cb773d34cfba6561988b1e0f884
-# 6bcd6c091546458093075bbfe90ae188
-# a41ee7d4cc124be5a30d698d4de14bff
-# 191ac989513141d19fe5530c0cb2c2ee
-# 73c13f3bb63e40b0a84c10f46468ebce
-# decce2d73908419e94bb6b309cf9b205
-# 4cce7d86475f49d991381cfe4617485f
-# f030ae9df3c54d1b84dd1bff9b2525ff
-# 70f9043442184bcb80501f80faa58641
-# f1f03f081be84deb9e98a508d125cf6b
-#: ../../install.rst:81
-msgid "The \"System Selection\" screen, shown in Figure 3.2a, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
+#: ../../install.rst:82
+msgid "The \"System Selection\" screen, shown in :numref:`Figure %s: System Selection Screen <install3a>`, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
 msgstr ""
 
-# e4e28785f2f249fbb5331b52e3824fa5
-# 644509272e9048bc8fd69a4908c5362b
-# 39feaf4d4a6e49ba8ba950f0654c8223
-# 377fd952fd954afe9ea217d73696bc14
-# 8b3408bf62224ece86a83568619ee88a
-# 2ad431ac3b744227a9c8960da89dc8f6
-# 8e20414843a04be2936afe3e0938857b
-# 79f5b3c3166b421082e9ecd05c7e0ad8
-# 8fc54318468d4fe38c915c213d1e72b7
-# 7b5aa74839c3487a921bb6e62bbf4025
-# 9f7296b6d10d4cfaa2374df90e569ede
-# 3ddc3a12ceed4e9aaff2be4189c4aef5
-# 40511bbd48df4566923c79b724b1e599
-# 641ddef9110143359235b7e401622609
-# 99c0dcf8370e4ecf9301d3c13cf11be6
-# 4474769cfa504a0396ea29029e0c21f6
-# 3a7443e5f0b84dd1bdac543e96396b8b
-# 44797c1331884a7cb98ed73416054e07
-# 782d095dae6f466e9d7faa694ace7b92
-# 50dfa8a29b844b93a9ead8a37614b5e7
-# 01b4faae2969471097a08ad12db1be96
-# 80c121c5b13c42aeb1b5ac7580345d58
-# 1fe16ac013f949a2aa7a5b7c35158efe
-# 95f8fa17164e4954a3f23e4b066106dc
-# 2028be527c2543968fc195d04681eaa2
-# 7d08ccfd86704969bc225e1c51e2fed2
-# c201d2a12c9e4b03baa5af062cac2bcd
-# d4cc1a8fd8b348c1a87ccde90e5f9d49
-# b0d289c98bd84405bf70595e84e72931
-# 787f9c1e03154dfc9427c603f882eb87
-# 0bdb21bf5d364abb802eb4f12a1f7b17
-# 1c3313f552db4d5a87fbf78f064337ab
-# d104c28cfa324a7d8eb0e5b0af5d12f9
-# ed6e4150106f4d68b3a673735031f68b
-# a6da353c531e4ce98487f06cfd10adc1
-# ef17750a51c545fbaa3f4b31350232c2
-# c8a32acced14485c889280bf279908f6
-# 663c2afa8d6f44a3b78175eb7f454fba
-# deb6fa6ffaad4fcdba60b0cfac00f16a
-# 09e5f2887a6c45d9a5748299784ed02d
-# a8002ac3c8b344788264c71d8bd746ac
-# 312fc989fa234a5f963f68294b4f62f5
-# 4b37cb13894a4bfda1ddc01f52c11c2d
-# 6a6d0a3c2f51437a92cac40e021301e9
-# e8767ddcbb7244428aade483407a9675
-# 6aac8e28d7154b55850aa97ea25e0fdc
-# ae23345a0d164d48ab13dbf9191b6249
-# 91d8177a09a442e2837a0816c9d2c88e
-# 98616c52cc9f4726bdfd79a36bdea127
-#: ../../install.rst:85
-msgid "**Figure 3.2a: System Selection Screen**"
-msgstr ""
-
-# 89fa3c2ab65141ef9a0c2459a6be2fb7
-# f8102b920af248088059a8c6b720ca92
-# 2c6dde2cbf044d98b50702456b2509ec
-# 3371acd9f9a34eba82b3804f7c601bb7
-# d4c061ebc23e4fd89599ace089d56660
-# 3e799cf0ad234cffacc5f38025f64928
-# ded2fae33fe84a1f80701d78a5ba45dc
-# 8c1b10b27c08465cbf53d027aa340885
-# f77b555f269f4912954e8804a311d157
-# 6e69ea7cbadf41c3a877d821d180f20c
-# 32e5b82612ef4ab69c52c5eec8bf9fd7
-# 0ee9f280f4054b768601a668be4f28f6
-# de80129c04654071817f5a51ac9dadda
-# 2bd7e2b56f1146b4a77358dbb91d2d87
-# 9375b4a0d730482696ee11644f030e69
-# e711bd3eeca442c5b93f83bd0882291d
-# b026356d58b7400789d60d6e2f941d08
-# d9f970e2fe984bf5a4923a637047e518
-# 34edce2baa87438991d8f6063c96499a
-# a330f06f37e046a38abb3ecdad2eb122
-# 7f81d26964cc4c21bac9ea3cddc38ace
-# 31c5774f3dbb4f2ba6521b77efeb3129
-# 7262343f2284479fb50455d1577f209c
-# ebe3688339404c4c88cd1044d3f4a3ab
-# ae3f101872d6404b9f463d61d30a5252
-# 07d78dc23e964057ac95481478ffcf8e
-# 777aebebd44e4ad9afd4fc57395c0673
-# cddb7324e7384c4b85456a9bd39dc468
-# 7e8691ad29664d8981aa40d467f4113a
-# 8012a9357dac4085b41215f01697c036
-# 9c5825defec8465f8f6dc76e30c5629a
-# 7ef5e986739e45cd92ae0b8e0c2b562a
-# 68b271356c1341d8b36c94123d4b3bdf
-# 08036c5bcf9b4f188b437b0cd94d7543
-# 99140999a87947e7baeaf722437b3fa7
-# 2351a51d8c9b404aba5a833dc82deb1f
-# 9211c5fdd0014d75a99eb692c26db6ff
-# 47393b6653814d699574383d68783fc0
-# 719912e75c624ab99bf050cee8453ae6
-# 526ee90646d14472b918d7e73fe62ea1
-# 1eeeebb0dd9b4d31b0dbf6de5f387d28
-# 46cd69ff39b5441284e17849cbd05e40
-# 00ab8cf6465b43f8a37700b143f77ebd
-# 6e894c3d4ed1474bbd5008e0eebf042d
-# 13697a567ace40e18e8d0e760d9ef4b2
-# cde4ded6244146d88646913cb95a7c97
-# d00562e99152450cbc3c7b0696909a82
-# e58069ab775a4ff18f7e2f02d01011fb
-# 83139255e06b4928872a32489b56578e
-#: ../../install.rst:89
-msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in Figure 3.2b."
-msgstr ""
-
-# ebbf3a7c99544b63b55fd42fcd123ad4
-# d88898f36dba4218a6403c8fb4e5438d
-# 8452284936fb4d6daa58589eede761cf
-# 0e0a1220a49b4fe6a187c6b0372853e3
-# 2bb964ffc698473bacf5e01dd444f592
-# 0bf4ff367f0f45e1acc3084671fd171d
-# d34b47f340104d9c881fd956e19d13ed
-# 5589464b49294ba091de3e830fa3591b
-# 8dd4b4f73a2c40a09d705edd394960e5
-# 31a616704ddf4585bba488bc22972d03
-# 9725fc37d1cb4053a790d05a0b0a540f
-# d0395e15580b4fd0a19d6c7803a2e9cb
-# 11353a1ad20c4dc7a7d260fa5c6b1f49
-# 50aa66ebd69d429c97da0d7f3de3a635
-# f16a429b5a9944d1b0c4d8d28ab826e1
-# 6f3d8dde372c4df48e58a5a0082c84b8
-# b0307e2132c24658a6c95c8f81ae43bb
-# 22996544f73b4713a5425f61eca84754
-# 6ef381a9697c4969b715e4d81119e60b
-# f752e461d77548b780b5033eb97067f3
-# cc1f5c6d056744efa3a93203d54976bd
-# 5097d8057abd40c89a19ddc1fab19605
-# 2c4c85e7d05b4337beb6e14ac5ef3606
-# 9a78b1d1bcc841e5806c073b415f85ba
-# 574bcc1b7ba24d5989b48a9395678fdb
-# c77b7612876b4ea4b1827e0b0e18119f
-# cc50e64635c44fda81d34d6bda4729bb
-# 75112cad21214e879ec4725cace91b0e
-# f1ce521db5a6406f853c357996720134
-# 70ba7cb95994484faf3e20cc085dbd43
-# 3cdc4b9a7a81471c81357299bf9d7a2c
-# 45514ffa0c944814b51d34ebb4baeac9
-# d249320c119b4cec84eda2c61f5c5a38
-# 2c8e2e64b5f2457f93d3edf470f43b64
-# 8ec4cdfbfe1d4425bbd1034b4d815162
-# 8b5afb60481b4b35a79b2aaa896b5f17
-# 7efc22f65b684572babc6fcee1096f73
-# a3f3bf6f84ca4e72b79aeea2b9edb716
-# ee6a2a09b28b43159050990fb5fd85a8
-# 0b700b457414457daf43b1f69a652e39
-# a58dda419d9e48edb8f3e135b7984a40
-# 5a05b6a8ffc54b14b49d631fe629cbd6
-# bd7d3ec7dad844399b575f7c2b48b6c2
-# 30aaacd421844932923865608d3f7425
-# d12f543c33a6443b9a1a2d47eb0000ae
-# 46f975d6f1ac495fb4e2f69011db6a60
-# 475d389543c845ffa59917e2e5e3d67d
-# dbe652ebfc8c4c3db94e6d06c5faa176
-# 9d38649e51ec4d36abf25575858a84e3
-#: ../../install.rst:93
-msgid "**Figure 3.2b: Browsing Additional System Components**"
+#: ../../install.rst:90
+msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in :numref:`Figure %s: Browsing Additional System Components <install4>`."
 msgstr ""
 
 # a0ce5ca8372c439ba492851ea8ba80fc
@@ -1654,6 +1263,7 @@ msgstr ""
 # c16a170293fd4bb0ac6a1ba48aed11b2
 # 2cd43a8288e84f4aae3bbcadd03c5ed7
 # ee5e2be8d974450ba1c19308643591c4
+#: ../../install.rst:98
 #: ../../install.rst:97
 msgid "Check the ► next to a component in order to expand it so that you can check or uncheck its sub-components. All components that are checked will be installed. If you highlight then right-click a component and select \"View Packages\", a pop-up menu will list the name of the packages that are installed with that component."
 msgstr ""
@@ -1707,6 +1317,7 @@ msgstr ""
 # 401a36e89f1341c79fa0c9abc62e620a
 # bf8f155ed40f4409901e15cee1d5edd5
 # 5ab3e7b300414c808549d0571990307f
+#: ../../install.rst:102
 #: ../../install.rst:101
 msgid "The following components are available for installation."
 msgstr ""
@@ -1760,6 +1371,7 @@ msgstr ""
 # a0471c89755b4edca908b6dd8c5a9795
 # 713cd33c08b54d9996ab699f25a0378f
 # 1405c3db7a1241a2951b0f3f3f8b9be9
+#: ../../install.rst:104
 #: ../../install.rst:103
 msgid "**Desktops:** the following desktops are available: :ref:`Awesome`, :ref:`Cinnamon`, :ref:`FVWM`, :ref:`GNOME`, :ref:`i3`, :ref:`IceWM`, :ref:`KDE4`, :ref:`Lumina`, :ref:`LXDE`, :ref:`MATE`, :ref:`Openbox`, :ref:`Ratpoison`, :ref:`spectrwm`, :ref:`WindowLab`, :ref:`Window Maker`, and :ref:`XFCE4`. Each desktop that is selected will be installed and will appear in the login menu of the installed PC-BSD® system."
 msgstr ""
@@ -1813,6 +1425,7 @@ msgstr ""
 # ee562a562b4d46fb9ae991b0c4adfc5e
 # 2d3e971fa4714cc9936cd25d63634737
 # 397ff20cf85a453f9eeedb0a82fc0c8a
+#: ../../install.rst:109
 #: ../../install.rst:108
 msgid "even if you uncheck all desktops, :ref:`Fluxbox` is always installed and available in the login menu of a PC-BSD® system."
 msgstr ""
@@ -1866,6 +1479,7 @@ msgstr ""
 # 517619f17752432b92bdcea03cc1d8bf
 # 303e90ce75a14b44ba0b6c21554facb3
 # 669056dcc12946dbb42f493c11823627
+#: ../../install.rst:111
 #: ../../install.rst:110
 msgid "**Devel:** check the box to install `QGit <http://sourceforge.net/projects/qgit/>`_."
 msgstr ""
@@ -1919,6 +1533,7 @@ msgstr ""
 # f7e506bad1b74028acfc248d87e4d77d
 # 42f1d37385d24dea906b7bdd7aa87200
 # 51746a2ee8524ec89cd1f1952086dfbf
+#: ../../install.rst:113
 #: ../../install.rst:112
 msgid "**Drivers:** if you have an NVIDIA video card, the correct driver should already be checked for you."
 msgstr ""
@@ -1972,6 +1587,7 @@ msgstr ""
 # 712470e119bf45d4a01d1ce2c9e0cc88
 # 0162c9a843fd470a809623cbb9617346
 # f3c2d0f614f1450a82f515accc223786
+#: ../../install.rst:115
 #: ../../install.rst:114
 msgid "**Editors:** check the box to install `LibreOffice <http://www.libreoffice.org/>`_."
 msgstr ""
@@ -2025,6 +1641,7 @@ msgstr ""
 # 32cba52603aa465f97add5f5ff0ebf22
 # 75b0a073f2b24817a7c18aa3cd0beea9
 # b68e163cf5a14dd5a30a84b9fef0d5c8
+#: ../../install.rst:117
 #: ../../install.rst:116
 msgid "**Emulators:** check the box to install `VirtualBox <https://www.virtualbox.org/>`_."
 msgstr ""
@@ -2078,6 +1695,7 @@ msgstr ""
 # 1c152509bfe143eda6013c4cc656d380
 # 7ac6305e2a5642a1b1ad38d60aac67bf
 # 3a9631725c23491d89d4877d0f5b9b2e
+#: ../../install.rst:119
 #: ../../install.rst:118
 msgid "**i18n:** if you expand the ► you can select to install localization for for the KDE desktop and for the operating system."
 msgstr ""
@@ -2131,6 +1749,7 @@ msgstr ""
 # 578fa032034741b7be496b2c7d8d2c2d
 # 68f1199166704da5ae0222d9b3d47e09
 # df4000e71d04499ba2379ae8bd2d2fba
+#: ../../install.rst:121
 #: ../../install.rst:120
 msgid "**IRC:** check the box to install `HexChat <http://hexchat.github.io/>`_."
 msgstr ""
@@ -2184,6 +1803,7 @@ msgstr ""
 # 70b3e7cbd02f4a74bd3e05281d7a3c33
 # d43d95afaeab44488129448d324911ce
 # 192e881525ea447aa2add2223f8ee8cd
+#: ../../install.rst:123
 #: ../../install.rst:122
 msgid "**Java:** if you expand the ► you can select to install `IcedTea <http://icedtea.classpath.org/wiki/IcedTea-Web>`_ and `OpenJDK <http://openjdk.java.net/>`_ versions 7 and 8."
 msgstr ""
@@ -2237,6 +1857,7 @@ msgstr ""
 # 07ae4a1f36854403bca8d22ff0db7df7
 # 46dd6c2c98774c8fbb80486f665b6d84
 # f2a239835782422fbb09e9ba2f781eea
+#: ../../install.rst:126
 #: ../../install.rst:125
 msgid "**Mail:** check this box to install the `Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_ email client."
 msgstr ""
@@ -2290,6 +1911,7 @@ msgstr ""
 # 655be09095b74964a229aea15b9e4ece
 # c86d334ae779481f80d49bf0ccc6857b
 # 1c745477cc46492d917d5871b247d6c5
+#: ../../install.rst:128
 #: ../../install.rst:127
 msgid "**MediaCenter:** if you expand the ► you can select to install `KODI <http://kodi.tv/>`_ and `PlexHome Theater <https://plex.tv/>`_."
 msgstr ""
@@ -2343,6 +1965,7 @@ msgstr ""
 # 7eb6f16c8ab444c0a1e1ac361dfde07a
 # 573b102d8d1b4563b24c97f489d44753
 # bd2afcf6a32e48fc94a7a8d7a6674635
+#: ../../install.rst:130
 #: ../../install.rst:129
 msgid "**Net:** check this box to install the `KRDC <https://www.kde.org/applications/internet/krdc/>`_ remote desktop client."
 msgstr ""
@@ -2396,6 +2019,7 @@ msgstr ""
 # 3dcb968de69b4ec2ac41f7e2553e3126
 # f607106244004d6689243043e6dafdf1
 # 2eab4b68299040d3b340d9fe4c27b87e
+#: ../../install.rst:132
 #: ../../install.rst:131
 msgid "**Net-IM:** check this box to install the `Pidgin <http://www.pidgin.im/>`_ IRC client."
 msgstr ""
@@ -2449,6 +2073,7 @@ msgstr ""
 # afaae4ceeda84063b91ef08e82dcd5b9
 # 94750dd8ed88474f8387e7d9106f20ce
 # c5a0a82d51dd48768608588414525560
+#: ../../install.rst:134
 #: ../../install.rst:133
 msgid "**Roles:** if you expand the ► you can select to install the following installation roles: \"Development\", \"Internet\", \"Media\", and \"Office and Productivity\"."
 msgstr ""
@@ -2502,6 +2127,7 @@ msgstr ""
 # ec4f78cc94f34d6686e26cf4538798e0
 # 5b10979b707c4b6188b7fa7823994264
 # 54c6200b69904db692f26c2e33a4cb1c
+#: ../../install.rst:137
 #: ../../install.rst:136
 msgid "**Security:** check this box to install the `OpenVPN <https://openvpn.net/index.php/open-source.html>`_ VPN client."
 msgstr ""
@@ -2555,6 +2181,7 @@ msgstr ""
 # fa018d6637ba4601a0c7c2efc9a1b205
 # 5113ba52c3824a8389ba32f2050f4f55
 # 0fbe7e932e694d09a74cbd54cf544ba7
+#: ../../install.rst:139
 #: ../../install.rst:138
 msgid "**SysUtils:** check this box to install the `PySalt <http://saltstack.com/community/>`_ distributed remote execution and configuration management system."
 msgstr ""
@@ -2608,6 +2235,7 @@ msgstr ""
 # ada9b9b94d784b07b29b7f80badea001
 # 825b9f117988400ea72cfa93172da1d9
 # 6e88f63211344a0f94035b0115f164a5
+#: ../../install.rst:142
 #: ../../install.rst:141
 msgid "**Virtualization:** if you expand the ► you can install `VirtualBox Guest Additions <https://www.virtualbox.org/>`_ and `VMwareGuest <http://open-vm-tools.sourceforge.net/about.php>`_."
 msgstr ""
@@ -2661,6 +2289,7 @@ msgstr ""
 # c89a56edea5049ba9a84de8b301c2e80
 # a4027ce74ab7418fa7c20918137bf0b3
 # 9264eddf80a44f9bb28fbafdaa20e313
+#: ../../install.rst:145
 #: ../../install.rst:144
 msgid "**Web:** if you expand the ► you can select to install the `Chromium <http://www.chromium.org/>`_ and `Firefox <https://www.mozilla.org/en-US/firefox/new/>`_ web browsers. By default, Firefox is selected."
 msgstr ""
@@ -2714,6 +2343,7 @@ msgstr ""
 # 49175bd2ac4c40f0924cb3f40f0a0df7
 # 55ed0ed655d74494b4db69cc506a7a00
 # 79440a9504f7422c94f97a739066494d
+#: ../../install.rst:148
 #: ../../install.rst:147
 msgid "Once you have made your selection(s), click the \"Save\" button to save your selections. The \"PC-BSD Package Selection\" box will list the components that you selected for installation. You can now click the \"Next\" button to proceed to the next screen."
 msgstr ""
@@ -2767,6 +2397,7 @@ msgstr ""
 # 8bb526b1d56c40e3a12cf5c9383207c2
 # 95f681a943864b9ca6f5654f652fef1d
 # f22157612cc44976bcaf3cd94e84ed7d
+#: ../../install.rst:151
 #: ../../install.rst:150
 msgid "if you are installing a desktop, the installer will display a pop-up message if it cannot find a physical or virtual disk that does not meet the recommended minimum size of 50GB. It will let you continue an installation on a smaller disk, but you may run into disk space issues on smaller disks."
 msgstr ""
@@ -2820,114 +2451,13 @@ msgstr ""
 # f3163cf68489445b8f9ed10dcc207219
 # b26e2d8f46d344a0925e3f77632d9aa0
 # e32cab6f9ff941c5b7f1d6e26505c5d7
+#: ../../install.rst:158
 #: ../../install.rst:157
 msgid "Disk Selection Screen"
 msgstr ""
 
-# e10cfdeb7036478caad7589b51775b0f
-# 332fbcf37acd4fe58b53cdff2e0dc5e3
-# ced61a3a410841f6b6bf6aed37237c29
-# 59b906273606442cb7a58ebbd5c98776
-# b4c9cc1eccdf401b98b77558a28f1660
-# 88698241bf9e4a43a3307ed570c8b6b1
-# a77b22201fa7495aa27c72f2e11159d2
-# cf377c2e27934538a0644c0a4905e544
-# 0754251826f64b4c954e00c0320b3535
-# ba21fb5df2234198b7651a44968d6eac
-# d2eab2f92e4a4e7fa45abfd8a01dfc24
-# 611ca176df744552a9a42387cde47272
-# ab95dfa4b84c4f648ad3de3630dd387c
-# 3f05605712b742ec968c4699a43a4dd4
-# 9a4576fa84f944f395d476ff9ad1cb74
-# 82708b68f6b147109c6cae1f4c9ed5e3
-# a86215e1dc324144b3923aefeabe088f
-# 3efbed9fb6bf47189adbc5a52db222f1
-# 5d50ed1c8c6a43ff93c63abed37daf07
-# 8a2efbbe673a48b88f13e35517a6fb2d
-# ead46fe1cd4148b7896643980d9212ff
-# 231545c8342f44cc85e5e23bd2cc5a44
-# c798cb4eff4f4d6cb0d7a794bea4ceff
-# 5be69e6d8ccd4fa6910a288b36cdf263
-# d4d899445f054a0dae6d6e2baf25aeeb
-# 293d04eb6b4b4c5794c06d08b8840570
-# 7b4aea19bf864facb31c496caa59b24a
-# 98c3f0ee5b4943a484867805e6e2d9d0
-# 12a6dd6cc5044b6f84f9b8a5584a0ff8
-# 4d701afd2a8a4a28802c006156a0f92b
-# 7f187937cab5448880defcaee5c9c45e
-# f4643999771e4287b39a1772d556a829
-# 297c09555b7a4cfd96cfcd50021e65f3
-# 4cda06e5923c4215b392d8778a074730
-# b64217ac60ec498aafc5fac05373d5d6
-# 78b2fc08e2124f048c43446a66d9f707
-# befb8253746f48db927624c73122c372
-# 5e89c4f85cf34bf899027ce91a98e560
-# 1c8303c1920347d49b94c2323abaf8dc
-# b33819fe8ec347ecb0af0d53f1f02ea5
-# f965e73975c4472d84b3b5d36e20ea47
-# c6de1c0698e743529fd632879991b008
-# df14d5b915154973b407570e9e219f1b
-# 83b13b0b0a4a4d9ba677c16dd0bc3ff1
-# 982f3108bfdc4f8fac6c6ac282830244
-# d2137732297447a6abe18454b60ac286
-# 7f1b0d3d857847428448f9ee6d4972cc
-# bc11abc558ab4cba9c65cdd9e2148976
-# cda248b68af544b0a1c07152dc3297a2
-#: ../../install.rst:159
-msgid "The \"Disk Selection\" screen, seen in Figure 3.3a, summarizes the default disk configuration."
-msgstr ""
-
-# 07047f63b5b34ef4b42397c937c405c6
-# 9c0f4642e21949ea80e55708df9c49ad
-# 91e00b7ad7d0465dbdb033f1281ca6f0
-# b263934e0c1d417abe3649a7f9cfbef6
-# 7d43c4c729e041cd9c70a9e3d83092c9
-# d262ae68716741948abe345e6876f25e
-# 8afac4d7dee44ee2b070907fe7602855
-# 7bc3c90bb1444df99e6e2e7759a0a95b
-# f3917893bc394191b5fcf289ae5414dc
-# 4a32806fd95e429999dece5ee92b4476
-# 1391f94a48c346d0bd96dac81a0bd1a4
-# f7e4a6ff18864181a74dae08e95b6e21
-# 49a505b1c7a44d41879607676bbf4073
-# 9a858c08026046b0875aa037d634d87d
-# 7266c498be90477bbc8fca27277f6cd3
-# d96384b4848045dc9694e0dcaaa8bd4f
-# 545401505b4849eaab21986c6c1987be
-# 3924970b2f114be39eba5a08da971a3a
-# 0c42a9fbd40344c0b69d9bb070eecfdf
-# bdcf429174f6467e89d8d1c9c6ba3da9
-# d2a5b69918c64bdd8ed47c86646ea4f6
-# eb857d48088c4b0ebca3c6d7b5d1daa1
-# e04ccaa73ff442f5a8f541d1d5cf25ea
-# ff0d375b6ecb42e0ac60c02d85078f9c
-# 6583489dedd54d7a80fa6827d3fc1674
-# 572645a039d343c39e218adb9d8cf504
-# 59f5011de8a142d3b2732a9cc96e0cc6
-# c99791720c1f41baa138c780079b003c
-# ba9b784693ea4da8bb411308b1f37b9a
-# 2e0a72a66dd84d259ca81c5b2949574f
-# 5c3593b99c904ee998295c6827cf1726
-# 48e7e96d70b74e4e9903c831e83273e2
-# 588aa284034443f0ba444e3c41335d91
-# 0df174ea5ef84996bf5b24337dfe6cb4
-# 99677bd4475c43dc85ab1546ba28415f
-# 6c4f08aacc8948ce9430eb246af0fd93
-# 5d2ce521af554687850297920a8aeb46
-# 349a28164b6643bb8fcddd8832eac7f9
-# b49aa9c9dad3422c9d5486400c6a4191
-# 6f43a4074dc94d5dab548abc63b855e6
-# 433294d9b854441fa804e42bbaa891bc
-# 883e3da201ce4e22b4fb69917475ec0d
-# ed045968d4f64fe8ab5536b0b195ffd0
-# 2d6e48261c084cc28a016ece75729788
-# 2f6041e7ec67430ebf40cc640449d1c9
-# 25447f3640be40508562dab9b6530cbf
-# bed3d9a3fd844ae89dc89f4626d71056
-# 0c989c9869494f90a9e16a8f63494f1a
-# 608022ae570046f7ba890bf53551a85d
-#: ../../install.rst:161
-msgid "**Figure 3.3a: Disk Selection Screen**"
+#: ../../install.rst:160
+msgid "The \"Disk Selection\" screen, seen in :numref:`Figure %s: Disk Selection Screen <install5a>`, summarizes the default disk configuration."
 msgstr ""
 
 # d9e9a2a10cc24e81b72f56c8ad67d956
@@ -2979,114 +2509,13 @@ msgstr ""
 # 5b83c8a1110d4c26841f37ff459d7f40
 # d7738dd71adc48f5a0c6e7deabc3ee0a
 # 925340ddb3a24d44bab6be387fd6f3bf
+#: ../../install.rst:166
 #: ../../install.rst:165
 msgid "by default, PC-BSD® will assume that you wish to install on the entire first disk. If you are installing PC-BSD® as the only operating system on your computer, simply click \"Next\" to start the installation. However, if this is not your intent, review the rest of this section to determine how to layout your disk. If you plan on booting PC-BSD® with another operating system, you should also review the section on :ref:`Dual Booting`."
 msgstr ""
 
-# a6c2fa5832c64089a71c8d1031feb5ec
-# d72b014ce18f4953abe1832e86279829
-# 0251ff4589c449988c4ba8be6a8434d8
-# 0431a744de1a4bbc82d30b47b5c16ab3
-# d4d144fc8a3c47b0a79927bcf03f1acc
-# 2e95664bef804cc5a9833d8aae4a8d4f
-# 060149130f994a9caf354fe4a3290a3d
-# e11295fa87f14a40a025a96e8dc6b683
-# 6502381b2e7d46acae3ff6d3d65afa13
-# bcf1efdb7fc94a6e96cdb0aba9423e9e
-# 91201a64c03044c2ab4a77081d483214
-# fcc593c94a684080858ad8cfbbc15bc1
-# 458a4f5c95254146aea72fc4ebabefd0
-# 942fa380107c4e589c9ff6fc19d71402
-# 40a39ba7f8024440a7e7d3df4b46fc86
-# 6a65acc775244d66a870d505c3dbd34a
-# ddef00bfa998429ab964a39f309b94fd
-# cb253fdc2bac41179640afba383809a0
-# d22e42b16a92452a8c2211340fbda623
-# 8bac8b3c6cbb4c798cf1775b0d78841e
-# 05ce5aaa240b401891cdcc11ccbb5ed4
-# f38b13180b2648269ce360f3dd3b406f
-# dda8d49ad66842868f7a7659d744d8d1
-# 91443d77da2e4bdf8ad78e58083785da
-# 3fe6f13e770246f9bb2495424bc17e28
-# 360196eb9abc42a1adfcfec2c00f4308
-# 4e2ba089ab59475f9251a8c0392110cb
-# 8a4240337ae0429085dbfbc4bb9121c5
-# 7dbb4a713a014a4aa324c34e159d15b0
-# 33c6d629edfa4730be6e044108eb07ef
-# db317a970b1c4e33819dfae06682a1b6
-# 48c0f23766244d7b88e90b24a77a4ab3
-# 2922bb2802cc411dbaf45f65d8ef6959
-# 189647aa85654db0857615dd89e6fe8d
-# 7fa83ea39c81451d971047250f6f0148
-# 12864872d3af462b80970d576e22dd86
-# 5109c25ac9f74cfaa177db8a4a67dc71
-# 2b7c61c2083e4a67a9c1c004fd2bdd0a
-# 482fc8ea2d9f4b0db86121b77710445e
-# e4d87ffd19194ee694181abe22c5bc57
-# aeff4f0d1e624bc78f245fae0211d063
-# 6159b717fcf840258dc7482b61155f03
-# e9fb7e6487fb426394b09d5838b690b6
-# 0d2c9d998e9c436283773e962de214e3
-# 180835f3e28f4ef89abdf1900fe00b05
-# 20237e9a0fe848fc962e64e4e2e3003c
-# 56c30474d1264de4a999c39c1c9484e6
-# 8a0c12c39ce64e7cb7632fa21abdbd94
-# 6ecbbe511d2940fca100fb3efff398ae
-#: ../../install.rst:169
-msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in Figure 3.3b."
-msgstr ""
-
-# 2cb179bbb2aa4fe59fbf210662061927
-# cd5a5b47dc3840b696511b4f86249988
-# 9f8636eb09a345aea8978fa35ac55175
-# 041c07d36e0b4ace968035ac8ca660b6
-# ba33d938df7344a29d8fa97c46380d7c
-# 0e62249e3b704050b90042310d114ea3
-# 434b57e1907c4befa0811706e5347698
-# a70a00d4cf55423ab63a31c1c4987f03
-# 55dfe792f4c04dd882fe14a9ba974332
-# 5122b9c0d02843d08f05e13841d83327
-# 46e9552b52bf4f0f9b24047b8dcc10c5
-# f84cc48b46bb491bbce15eef2ec99ce9
-# f02cddddcb1c4269b0453d3cc01bc628
-# e22c472ec4bf4d0cb42a84a19e53aaa1
-# 0a109f644f864945956186e9856c55dc
-# 2b8058528f23495dbef18ae7229fd3b7
-# b105955ce6104709adefc0cedee46245
-# 3e226985d1304d248fcf637d4e6d5efa
-# 7efa3b4a22b34662810e4e85b53d2333
-# 0eb9ef3319ba4a408bfcb1f387a558df
-# 02fb9667c4bb4dd2982ffcdde45dcece
-# 009863275deb48d695fc0828b55109ae
-# ece7d5070c734285aa972e9cd5d98892
-# f93ea7bf80be4627bea2d93bbe2732e6
-# fd1c1be565ea4d4ba2a4d31bb8297757
-# c25f3a40c114407895ae26b02676ff1b
-# 4c4c117ad917457b8f859f357da559b4
-# 7c993f1408c8475a96f847897d0dca05
-# bbcae0645d7943e3b40418023589fb44
-# c497ce9e86ee4768a842fb3d63c8a859
-# 518548d41e8d42a0a4c7292a376fa32f
-# 233c5316d6a44157a085c70f4c8438e8
-# 0e1a548b506d4211be36c358304151e8
-# 67b53681166b441a86583412b19a716d
-# afb219eefd384da2817eb04fe8672984
-# 4d1eea794f744aa897306c05ec404aae
-# e48e59089624445b8ff0212aa5359c10
-# d453f1f40cdf4cd289172063a806ab62
-# 0415e03718114a43a3b0ef3b32f54102
-# fdf5479ed33d431693cefab17e27dc8c
-# b461fc2c9ae04c64b1ad88aa3c2c10ae
-# 21e3d0b7657045c79a7ba65c5dc8f343
-# c36d32bd8ca643a598c2d1774449c983
-# 3c0a8f8942f541548aa6fae97e7b5bb0
-# ff463fa5f6de414cbcb4af901e809af7
-# 8242a15845e94b3cb164b77770e9c11d
-# ccc2b665d9734b7bb58d5bd326cca190
-# fe4ade8c267a40558b21761cd0656287
-# b3a44f86c86f4d338a90bbe419e0d004
-#: ../../install.rst:171
-msgid "**Figure 3.3b: Disk Setup Wizard**"
+#: ../../install.rst:170
+msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in :numref:`Figure %s: Disk Setup Wizard <install6>`."
 msgstr ""
 
 # ce64fa4b0ce34bd8bba2614963481b43
@@ -3138,6 +2567,7 @@ msgstr ""
 # b5ff1186d71a43c8a7b5b806a8cf57f3
 # 797a3dfec1c4422e81566f7447241ac3
 # 0ef0b6aa30074f5091969f8a690012ef
+#: ../../install.rst:176
 #: ../../install.rst:175
 msgid "The wizard provides three modes of operation. The rest of this section describes these modes in detail."
 msgstr ""
@@ -3191,6 +2621,7 @@ msgstr ""
 # cebd428c7a824242bcf0b1624635506e
 # 314365a1cf1a476d8f78bf877ec7c709
 # 5fc3589e37484b25aaea7fd1dcb20338
+#: ../../install.rst:178
 #: ../../install.rst:177
 msgid "**Basic:** (default) select this mode if you wish to specify which partition or disk to install to."
 msgstr ""
@@ -3244,6 +2675,7 @@ msgstr ""
 # d5efcf1dedbc4bd59e3bf66b7bbf1cd9
 # 5ca6961b44b241f3bbab5f5d76d2d938
 # d3a6f0955f324bec9fed35f892d3c920
+#: ../../install.rst:180
 #: ../../install.rst:179
 msgid "**Advanced:** select this mode if you wish to specify the installation partition or disk, use GPT partitioning, use a UEFI BIOS, force the block size, change the default ZFS pool name, specify the filesystem layout, add a log or cache device, or encrypt the disk."
 msgstr ""
@@ -3297,6 +2729,7 @@ msgstr ""
 # 3e4dd8d4a0a541eab64e449858ed5b85
 # ff9664af4847473f983c15960ff4d2c8
 # b17976671eff41edbe4e1d5c3035d8a4
+#: ../../install.rst:183
 #: ../../install.rst:182
 msgid "**FreeBSD Expert:** select this mode if you prefer to drop down to a shell to manually enter the commands to setup your disk."
 msgstr ""
@@ -3350,6 +2783,7 @@ msgstr ""
 # f81a048e20a44c51803bd3c2628840dd
 # dfd8d140ba9948b490052c655e4e453b
 # de65a4dbe907444a8f4f1203ffb4a786
+#: ../../install.rst:185
 #: ../../install.rst:184
 msgid "regardless of the mode that you select, once the disk wizard completes and you click \"Next\" at the disk \"Summary\" screen, a pop-up window will ask if you would like to start the installation. Be sure to review the disk summary before clicking \"Yes\" and starting the installation. The disk \"Summary\" screen is your **very last chance** to make sure that you are ready. Once you click \"Yes\", the selected hard drive or partition will be formatted and any data it contains will be lost."
 msgstr ""
@@ -3403,6 +2837,7 @@ msgstr ""
 # 9a54322d8a664a78aff0fc228d633b32
 # cca1317b37924861a8d88f472af1c779
 # 5f52ecaf038f4cd99315a11d7af4c08d
+#: ../../install.rst:190
 #: ../../install.rst:189
 msgid "Once you have finished configuring your disks, you can save the finished configuration to re-use it at a later time. Insert a FAT-formatted USB stick and click \"Save Config to USB\"."
 msgstr ""
@@ -3456,114 +2891,13 @@ msgstr ""
 # 8f382a09cab4476ab4f4b70f82d23715
 # 135936771b2d45e1bd7a787c3a6b2437
 # c4849a8e0e9a441493910cb3f84cabdc
+#: ../../install.rst:197
 #: ../../install.rst:196
 msgid "Basic Mode"
 msgstr ""
 
-# ee41b49dfdb64925897f53ba21cf03ad
-# 4729a56df3da4d06a270c0feef873665
-# 7442ded4473b44fe82242bdd3c29a80f
-# a13f1a6549934230bfec331c5169c0a6
-# 0fe0697f4c29403f9db11925d7b5a458
-# be2973dda6d442cf8ac1a5c14ee2758a
-# 8cd3241ebd924cf499fa65bbe8a4919f
-# bdc192f5d03840c0b7095a3c10568b3f
-# c99e8629dd7b47e4b355196fd692adf8
-# 2c0eed700fc64a619bb11e2449f55dca
-# 07cb3260b7f74861bff3b61024d6627c
-# 70e72679929c4dc7838d722b1a5cbea1
-# 3b4d494704cc4d39a904b0feae9af7f7
-# 741d722ca0e244bcb7591598fd52ad66
-# d05a73659ab14c8d8c51790e27ad15ae
-# febb4ee3abd4442ab4ef90535d909c12
-# 3fab78336b2442819aa26bfdf75ddca2
-# fbbb82d9e8374de6986bd1f839b77d85
-# 521d8bcfe29e4f6a84019eb6a7cab56d
-# ad6622bd38a74e06b4a6f526270b519f
-# 826c94ebf6ba40308791f0cd9904a49f
-# 4c5f37b8abf84298a33bd705441e2909
-# 86be86cf3a12437c9d8c65c9804e8a4a
-# 81da1657743445b3a518408e05603327
-# bab0135c21a9438283ed94ddea6de5dd
-# ec760ebeadf54746b0e06146cdea2e61
-# bcc6e09940cf4554a92e9fac7bc8ed77
-# 8baf080fd0594ab49d4e264da782f7d4
-# f0ee82804b7a47c69a43b07d84276a25
-# 80f506028fb542d8a9cd1b6015d03534
-# 097b2505f729430a82fd81cb34977f00
-# a74f358981c2471da049e97fd18a0464
-# 4ca54598f8fd40d6b35b7879d2ac41b6
-# af8b9acd5504420e9c4300bfdcfbff95
-# 170bf3a5cd13411a8f3a80186fce3e11
-# 8bac9beed42c49a691fbfa97209c50c7
-# ccaf8c98c7f84323bdc468eab65f134e
-# cfcb2e8288364ac0a7ee77e0a6008d21
-# 2b6eb0ff55b247ab8beff5998894148b
-# 81ec2a894ffe43be84c67226320fe4f8
-# d1492ec708194f50bfa710ef80eb661e
-# cad3ac8d3f4b439b86980f0165cc4179
-# c56a920092b741249ef1e47bf375bdf0
-# c1ede1116010444ca2052ad2112db634
-# 8b327e3a2dcf419dbba9bdaefd68ed08
-# a70adc4526174afd939d161dd6ee82d9
-# 84423f3d160b41cbafc50e551061167a
-# 93136b158b60416c81e5f4f437f6751c
-# 45966324aa6241e4abd3e635da9d6a72
-#: ../../install.rst:198
-msgid "If you select \"Basic\" mode, the wizard will display the screen shown in Figure 3.3c."
-msgstr ""
-
-# 08f3af29561a462089ed7748d4c6175c
-# d3aeffad19854ac190e5518b8480eff1
-# 5586692080564ed8a44edf7a66c9410e
-# cdb6587b1c6343859231003a8a16753e
-# 4f65828016d54d0685576200eea09317
-# 85817566fc26499a8e974611dfed1a5f
-# 69fb650eaec04396a94290f022f75b15
-# e1f81795a62b4ad5a6d162bac9188e5d
-# 01f7c79bea4b482591423e58f9ff2c32
-# f9c3e7a06a584f15bc57974b9162dfc7
-# de5d642783e14d1f838d117791406105
-# 0a664a98bce44d4b9fdbd72b0de6389a
-# 7233fb86075541bbbca4925c7b505798
-# 3a509275860348f0bda9bfd0d2aff9b9
-# f1001e780b184787aa01768a7375169a
-# 7b1ae8c23a1644f59be8f913143bfd6f
-# 78e508e627f2402d96cb9c367be50b15
-# c0859b6dd81a4c3cbec6fee10a132082
-# 280e161ce60241829f7fb94c35a93dd5
-# 7f246266b0be4f4f8911119c0bbe4b25
-# 8c23ebaa153c493a9fe2de25b92f6b74
-# dbebd0cac75f450b99b538cd1468d7c0
-# 313a96f9f9d949bf8c4d9ff1e2821747
-# be6f5b7d71494544b1c535251551ab17
-# f7a80792bdab4d15896c676bb2b5a297
-# f7f2153b304c40b795b504dc89678eda
-# 7142c99a8d824bd6b1090310c84fc6d9
-# 264a005379e840d796653bcf760771bb
-# ee3b78739c554ca9b69da845a2e39e1c
-# d46eaed8454c4ecb99b2c9f2a4f9d15d
-# b5ad2797012d4c1ab6fd7d14764914f1
-# f3f0e40aa23e4605a6294b3f1e53baa2
-# a1caf05420764bf69bb4829f8b1a1d9c
-# 51378cb48b384f278883e1445f7e7741
-# b986ecbf89fa498f9a8e1f4abdd7b679
-# 07a4d79e32e74e279b7aeeea42ee0f0b
-# 1d421d28bb2d43c0b544b5eb1bbe5eb5
-# 6c36414039524a0d81c25f4cd36a4934
-# b75a8c6065b14307a8720f4709ee2bba
-# 4fe144cb1cc242a793e009d0436dac6e
-# 4a0ad7862ae44ad794bc3c85f3e79c00
-# 1fc49b97c82f428db2e802ff3fd0eaf7
-# c710567883594ef79d64dabbad6bbe8d
-# 130a68831e4248758de3d1934577ee77
-# b6403009853c4a9b8bb0f25876f4f86f
-# 7a27021f2893480b95c7a374229700b2
-# 111b1adad8fa4c9882fefe821f50b274
-# f5a9997a662243159871f705e8357d67
-# 72c24d43c7334271ba5d66a2811db1de
-#: ../../install.rst:200
-msgid "**Figure 3.3c: Select a Disk or Partition**"
+#: ../../install.rst:199
+msgid "If you select \"Basic\" mode, the wizard will display the screen shown in :numref:`Figure %s: Select a Disk or Partition <install7>`."
 msgstr ""
 
 # 3da7d93e8bb54f7c90a1990c470b6ce4
@@ -3615,6 +2949,7 @@ msgstr ""
 # 8072305543a14e6bb108e287ee64d1f6
 # 94d771c1228843668772afca7114ad65
 # 5cd6d6d866334982838e67c11f0de4e9
+#: ../../install.rst:205
 #: ../../install.rst:204
 msgid "By default, the first hard disk will be selected. If you wish to install on a different disk, use the \"Selected Disk\" drop-down menu to select the disk to install into."
 msgstr ""
@@ -3668,6 +3003,7 @@ msgstr ""
 # 6624d988ba2242868b908635d3dc962d
 # ad3495955c88402da05a17f7bb9d37a2
 # 7885f8dbe32a47b59767ebe4f964793a
+#: ../../install.rst:208
 #: ../../install.rst:207
 msgid "By default, the entire selected disk will be formatted. If the disk has been divided into partitions or you have an area of free space, use the \"Selected Partition\" drop-down menu to select the desired partition."
 msgstr ""
@@ -3770,6 +3106,8 @@ msgstr ""
 # 66abe49bc41a4b059779cde39e1cd334
 # 9ee51aaadd954e4daa3bf0b0bc5ca496
 # a7dfdc31ae534beb84dbb163e3bd7520
+#: ../../install.rst:211
+#: ../../install.rst:236
 #: ../../install.rst:210
 #: ../../install.rst:235
 msgid "PC-BSD® will only install into a primary partition, a GPT partition, or an area of free space. That is, you can not install PC-BSD® into a secondary or an extended partition. If you wish to create an area of free space to install into, refer to :ref:`Creating Free Space` for instructions."
@@ -3824,6 +3162,7 @@ msgstr ""
 # 1660e6a1c5af44faa4c993add7cbf453
 # e8f16019c28b4de19bb50bbf2e60f704
 # 60696dfe4531488eadf08dc873006a13
+#: ../../install.rst:214
 #: ../../install.rst:213
 msgid "Once you have selected the disk and partition, click \"Next\" to return to the disk \"Summary\" screen so that you can review your selections. If you wish to change anything, use the \"Back\" button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard. Click \"Next\" then \"Yes\" to start the installation."
 msgstr ""
@@ -3877,114 +3216,13 @@ msgstr ""
 # 1ff4f620a81846d1ae9a1c53cb4673af
 # 6ad26ce77927421d82fb6cbf2fac1319
 # ec87ed592517479086755d8ead0221df
+#: ../../install.rst:222
 #: ../../install.rst:221
 msgid "Advanced Mode"
 msgstr ""
 
-# c8163fabf1644269937d7777fa01e438
-# afcdee5c6f7349d3a29445576ee47909
-# d8b74199524d45ab8af359bf4fd8c173
-# c44813223b224615b6962ea2ef1a3118
-# 4029d815e772490fbfa7ae0e97c46219
-# e2d6d8f7cc57453b906d6ed855017061
-# 25d71f6b5cc94c579e0a11f6346e4e21
-# 811a932f9b2343bb89e4323e48626a9e
-# 7afa7e9fc1924efdb699c52e9a3fa080
-# 18427b7c6a2b412fbdffe5e88d574037
-# 722ed09638f8431ebcc8a02342499283
-# 8e18c40fbcc34e68a7fc806378f24bc5
-# 4c5de93b952345bfa49bfd4df8f03e3e
-# edd9cc80c3d44dd5ac06b4a10e352647
-# e470e13a9e30481a88ae9b957390afdf
-# f41726ce2f9245d6b65007a51ffd0670
-# 8289a53285884d14bbcccde86319d035
-# 34ec3926e4bb4a9eb5f4cd80fe6098d4
-# 7541bc64dc1142eebbeacfc1a7bafda2
-# d8fba6b26c594775954100f4cbea8577
-# a1ecfdeca42f47eb90536a96469d6bc1
-# 48a149167369474db2a5e6dcd50c0a1d
-# 18e3c07a57f34260aefd0e44b9ebb486
-# 072fa2a430af4be09b05128d3cb9e5b7
-# 1c65d70e130740d78d84e849462bdff9
-# 0368473a371b45ce8f2e2ea40c3c0493
-# 1bcd740a824d474fb6f49a4d93fa2719
-# 54cb7a4f801e4bc1893741ebb6a8d5b3
-# 30fdbc2461644e33a2732c9c25902d95
-# ff1414a5391b42c1a2b80ef21035f935
-# 306cdc902a1e4f09876cccfa927c9129
-# 97e8ef0efb1540a687ca1fbb5c33fac0
-# 0ad3b1f6a15c4936963a6119980241ef
-# 7ebf1eb367e74918a50559bf52416830
-# 32a7d6bf33a641218a89c68079dc2b9e
-# 6932b52d75a04b60b84eefa74664f454
-# 4d9be667c8614394950c4b2341f3b21b
-# 7b3d47ddbd954e35abdc25f591d9345c
-# 16dbae075c724c3c80529ec5489811ee
-# 17d20659dcd945fbab480e69ff389419
-# aea594971bee468f948fdc296442afaf
-# ccdcae6098c04633aeaba6501f79febd
-# ce3022143ec7453f9fd302e029232e16
-# 718d2ef899654f1d83073667b8b654d1
-# 0eedcc02e99e4366b88c87fc05661554
-# f58311fe185b433fb253a9cdb157b0e3
-# d3e9f6c4579d490ca75f4b21987339bf
-# ff46e89816aa450b94dcff56a86885f6
-# df07fdb9b80f432bb7712f3b423d0972
-#: ../../install.rst:223
-msgid "If you select advanced mode, the wizard will display the screen shown in Figure 3.3d."
-msgstr ""
-
-# eb6829b8958844afba814bcf6b1ef5e1
-# ed2ad8168fdc4aed8a0609854aed3d9b
-# fe9072b8c0854b159f65d30be8aeb3f4
-# 7ad51f864e91435dbd7bd74e005a581d
-# 2061f6447dee4056a9509efb75e19f0f
-# 228d441cac594c219bda764b971e9c94
-# 4f299a0d40dc474c82d49374f1a814b9
-# a1384b7801384e348e76a33c7920b67f
-# 360658617b714128abb2c65b7740fe2f
-# 9558f385ee1e4382a66881aca184511d
-# 3d130be7c7654ae29ba44a97efa874a2
-# d4a377844030426ab9c260ae76980ee7
-# 78d6c7bca8da446da6bfcabeda1e9f70
-# 84e7e3515feb4cb2a50b9dba749c40f6
-# 503dfac17566451ba17b9aeb8a78d081
-# 16874ff8c56b459d963208498b73da04
-# 83d866ba86904f9da829d0bbece84cbd
-# 46fdecc8108948478a6433c032ffa36f
-# 7a69e31b5b9c4bf6adfc4fc7f8f23863
-# 17cdaf1b978745fd84726302f98a20f0
-# 9c3233d92abf48d39660b7581cb839be
-# 133c8889cd4b4670be15b23006f1dca6
-# 46769620bf5d4a1089e88983ed48526f
-# 7dbae7ff133e4ab38b73e839a727009e
-# 36c20d3c0c5f4148bace82214562ae63
-# 3aea5984419848ad8e4ffdf36cf96f78
-# 10185f0461174e4c9bfd26706dc6ec57
-# 5a7a11dcc3c84356805454281126f4ba
-# d0f434a5c48e456791310252c96a6b20
-# 7d8e96a821fa464ea378c0c8942b7ef5
-# 56d15f76430147a8a57d3dae87bb475c
-# d06ee5d1c7d143429e3bbdfaa99c9d9c
-# 46d53707db8047efb8988169256d8fab
-# 93e7f0de0f5e43a9bece32f534f2a6ab
-# f6dd70b68ad749d4869a30a4fe836e4d
-# f1249852d7fa4376ac7d4074db31dc9f
-# dac628c6c6904bb0ad5573e1fd9cdd1a
-# 56a50651e3a74050a47049af8ad97624
-# d828f9395cd1496dba47eb6cabbcd8fd
-# 25b0950f76884bcd916f73ad25fd2610
-# 940a3de76fdb4184a5706db8931d1ce7
-# 36838c7849d44989a48ac5e6e43533db
-# c38f426592cb43219a4dbf1c83d68c5f
-# cbad7c8a36ad4c019a9876f6a458db32
-# ccd7f6b3aa8c46c5919b4a58baaf3446
-# 2b31b449f1364c68b6f8fab8169e33dd
-# dd8e9bd202b54e768031659da9477924
-# 257078364af241b4aa7ba77755063773
-# b71db71136b64d40a888e8ab25bf3d74
-#: ../../install.rst:225
-msgid "**Figure 3.3d: Advanced Mode Options**"
+#: ../../install.rst:224
+msgid "If you select advanced mode, the wizard will display the screen shown in :numref:`Figure %s: Advanced Mode Options <install8a>`."
 msgstr ""
 
 # 8e90c13aa85b4aa581537f049adcba5d
@@ -4036,6 +3274,7 @@ msgstr ""
 # df02a7f7ec284e86ae6a683ceff1cd11
 # 738e26eecd4a4d76abea93c1649a557d
 # 0e7766a734364e6681cf7bc48fe1c15d
+#: ../../install.rst:230
 #: ../../install.rst:229
 msgid "This screen provides the following options:"
 msgstr ""
@@ -4089,6 +3328,7 @@ msgstr ""
 # e172ff11e8b74c7ba6774f5e2056d52d
 # 593bd8e521b64baa850d2bec12b1dadb
 # 24b4783c3ac54618a33939843c22cfbe
+#: ../../install.rst:232
 #: ../../install.rst:231
 msgid "**Selected Disk:** select the disk to install into."
 msgstr ""
@@ -4142,6 +3382,7 @@ msgstr ""
 # 9932fb037f3f418fa00420b41caec00c
 # df8532c50b794ef4a2e6cb2260463b1d
 # f82ff00a087a414390594e7c82d9e6a7
+#: ../../install.rst:234
 #: ../../install.rst:233
 msgid "**Selected Partition:** select the desired partition or area of free space."
 msgstr ""
@@ -4195,6 +3436,7 @@ msgstr ""
 # 1a6c99f3e5eb4cc2be206a436f20d80d
 # 6294dfd4e253408ab1fc083ddd134266
 # 91ddf3fa4cca42fa9c8d3d82b9f70d45
+#: ../../install.rst:239
 #: ../../install.rst:238
 msgid "**Partition Scheme:**  the default of \"GPT (Best for new hardware)\" is a partition table layout that supports larger partition sizes than the traditional \"MBR (Legacy)\" layout. **If your installation disk/partition is larger than 2 TB, this option must be selected**. Some older motherboards do not support this option. If the installation fails, try again with \"MBR (Legacy)\" selected. When in doubt, try the default selection first. Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
 msgstr ""
@@ -4248,6 +3490,7 @@ msgstr ""
 # f64a32d22bc540129611534a09fd76d1
 # d9158af6435e4c33b766a28f05fa8de5
 # 474463c09f244c81bb6e2d76ccea36ec
+#: ../../install.rst:244
 #: ../../install.rst:243
 msgid "**Target Installation:** when installing to non-UEFI systems, keep the default selection of \"BIOS (Legacy motherboards)\". If the hardware supports UEFI, change the selection to \"UEFI (Modern motherboards)\". Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
 msgstr ""
@@ -4301,6 +3544,7 @@ msgstr ""
 # e0e3c7421aea478c8837c400595de0d3
 # 41873d7d22b9464787b9fb00f8219ec7
 # db620e0b7b35449e906bedc4dd77b4fe
+#: ../../install.rst:248
 #: ../../install.rst:247
 msgid "**Force ZFS 4k block size:** this option should only be checked if you know for sure that the disk supports 4k, even though it lies and reports its size as 512b. Use with caution as it may cause the installation to fail."
 msgstr ""
@@ -4354,6 +3598,7 @@ msgstr ""
 # 2cd9c68235db45b1b62399fc4f3b0ff4
 # c8de5304f4a84e039a62bd32e9b4303c
 # cbbfcc465b66478497194cb10a5cea0b
+#: ../../install.rst:251
 #: ../../install.rst:250
 msgid "**ZFS pool name:** if you wish to use a pool name other than the default of *tank*, check this box and input the name of the pool."
 msgstr ""
@@ -4407,6 +3652,7 @@ msgstr ""
 # 9591a6bfe9a4425688361887d8a5e28f
 # fc3fe2fe2a5a4090856f6822eef35204
 # bba9444f106b436cb030bb5751fd5102
+#: ../../install.rst:253
 #: ../../install.rst:252
 msgid "After making your selections click \"Next\" to access the ZFS configuration screens. The rest of this section provides a ZFS overview and demonstrates how to customize the ZFS layout. Note that *root* is a reserved term and can not be used as a pool name."
 msgstr ""
@@ -4460,6 +3706,7 @@ msgstr ""
 # afe2ff39740648b3a46015d2ed306672
 # 0a2c3404854e49fc8e3cfe52e34a9615
 # ec96425fda4d4bdb98494bfca21fe7c4
+#: ../../install.rst:260
 #: ../../install.rst:259
 msgid "ZFS Overview"
 msgstr ""
@@ -4513,6 +3760,7 @@ msgstr ""
 # fd62323fe13e458b8451454fd8d233d7
 # e288955e7eba47358b96543b4b84a92e
 # 37d8f34d9c804e7280a825ee16973064
+#: ../../install.rst:262
 #: ../../install.rst:261
 msgid "ZFS is an enterprise grade file-system, which provides many features including: support for high storage capacities, high reliability, the ability to quickly take snapshots, boot environments, continuous integrity checking and automatic repair, RAIDZ which was designed to overcome the limitations of hardware RAID, and native NFSv4 ACLs."
 msgstr ""
@@ -4566,6 +3814,7 @@ msgstr ""
 # 06c631229fe9456bb244deb2bf1b16ae
 # 77b8893a1a5540b0b4f791be891e978d
 # 57d088155f04444eb3a3d57b7293229c
+#: ../../install.rst:266
 #: ../../install.rst:265
 msgid "If you are new to ZFS, the `Wikipedia entry on ZFS <https://en.wikipedia.org/wiki/ZFS>`_ provides an excellent starting point to learn about its features. Additionally, `FreeBSD Mastery: ZFS <http://zfsbook.com>`_ by Michael W Lucas and Allan Jude is a very helpful resource and is more specific to ZFS as it is implemented in FreeBSD."
 msgstr ""
@@ -4619,6 +3868,7 @@ msgstr ""
 # 02a23718b6cd4572ab4d51aab0f7a516
 # b8043af8a2ac4b4894bef0180f78a857
 # c72e9425da194b02bc53811ca20ab300
+#: ../../install.rst:268
 #: ../../install.rst:267
 msgid "These resources are also useful to bookmark and refer to as needed:"
 msgstr ""
@@ -4672,6 +3922,7 @@ msgstr ""
 # a30f7f093f514eccac89951b3ef45ae1
 # 30609ac7dc724719ab8b9b865d34ce95
 # de3fe4a782e44c989ea05e5e2117250c
+#: ../../install.rst:270
 #: ../../install.rst:269
 msgid "`ZFS Evil Tuning Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Evil_Tuning_Guide>`_"
 msgstr ""
@@ -4725,6 +3976,7 @@ msgstr ""
 # 3e2217998ade40248ce75d047be719a1
 # aa9717411dea4c7c81f3ba87393a9fc8
 # 8b15653b39db4733ba1c0e137e557fc0
+#: ../../install.rst:272
 #: ../../install.rst:271
 msgid "`FreeBSD ZFS Tuning Guide <https://wiki.FreeBSD.org/ZFSTuningGuide>`_"
 msgstr ""
@@ -4778,6 +4030,7 @@ msgstr ""
 # fbc6c6a03d8a48a28518e4773d5749c1
 # e4312ad5fbca4cfc892bad6de5028716
 # 3a5c462c48174ca4bc455a2d4cfb0b17
+#: ../../install.rst:274
 #: ../../install.rst:273
 msgid "`ZFS Best Practices Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide>`_"
 msgstr ""
@@ -4831,6 +4084,7 @@ msgstr ""
 # 5c13fb8bb78247e0937a1307a5247472
 # 98912a63e51249c09a5f33978eb01904
 # e2b6322da90f45ec891f1897072d7121
+#: ../../install.rst:276
 #: ../../install.rst:275
 msgid "`ZFS Administration Guide <http://docs.oracle.com/cd/E19253-01/819-5461/index.html>`_"
 msgstr ""
@@ -4884,6 +4138,7 @@ msgstr ""
 # d3fcbde1f34e4402a1c14b24892ca709
 # 833d1c824be449349f3ba23bc2be0014
 # 83d949392d474bc3921879cd61ed2464
+#: ../../install.rst:278
 #: ../../install.rst:277
 msgid "`Becoming a ZFS Ninja (video) <https://blogs.oracle.com/video/entry/becoming_a_zfs_ninja>`_"
 msgstr ""
@@ -4937,6 +4192,7 @@ msgstr ""
 # 82122625fdd5424ca5bdc8e3a07164c1
 # 41fa05d83fce4b42b6dfad7d2a689346
 # fbffa0a806534ec3a1442e228aaa2b7c
+#: ../../install.rst:280
 #: ../../install.rst:279
 msgid "`blog post explaining how ZFS simplifies the storage stack <https://blogs.oracle.com/bonwick/entry/rampant_layering_violation>`_"
 msgstr ""
@@ -4990,6 +4246,7 @@ msgstr ""
 # a209359cf6d64d769389587e790b3ced
 # 703c44124421429c9e5580af3fe16315
 # c874b4bce6b147b08aed550c0640b8a7
+#: ../../install.rst:282
 #: ../../install.rst:281
 msgid "The following is a glossary of terms used by ZFS:"
 msgstr ""
@@ -5043,6 +4300,7 @@ msgstr ""
 # a4222018ca7444a19f79de680a4d6b11
 # 614b37af5d194180ac4d35c8ed1b969b
 # e49814ad7ed34856b2ca0632c26f4496
+#: ../../install.rst:284
 #: ../../install.rst:283
 msgid "**Pool:** a collection of devices that provides physical storage and data replication managed by ZFS. This pooled storage model eliminates the concept of volumes and the associated problems of partitions, provisioning, wasted bandwidth, and stranded storage. Thousands of filesystems can draw from a common storage pool, each one consuming only as much space as it actually needs. The combined I/O bandwidth of all devices in the pool is available to all filesystems at all times. The `Storage Pools Recommendations <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide#ZFS_Storage_Pools_Recommendations>`_ of the ZFS Best Practices Guide provides detailed recommendations for creating the storage pool."
 msgstr ""
@@ -5096,6 +4354,7 @@ msgstr ""
 # 5c9bc203d13044cbb20e666bc2276fd7
 # 408fcc1aeca844e2b815e8c85c21432d
 # b7634ec7fee244deb9f862bf1832c36f
+#: ../../install.rst:291
 #: ../../install.rst:290
 msgid "**Mirror:** a form of RAID where all data is mirrored onto two or more disks, creating a redundant copy should a disk fail."
 msgstr ""
@@ -5149,6 +4408,7 @@ msgstr ""
 # 064e83a9a5f74d85b5d7702b262b363b
 # 98b8f5a8622b477aada4581b30c5fecd
 # 9b90c6bb57a648749c02c1ba77dcaa6d
+#: ../../install.rst:293
 #: ../../install.rst:292
 msgid "**RAIDZ:** ZFS software solution that is equivalent to RAID5 in that it allows one disk to fail without losing data. Requires a minimum of 3 disks."
 msgstr ""
@@ -5202,6 +4462,7 @@ msgstr ""
 # 381b8ec76af34f0b9fd9b338575d0cb2
 # 6a1f3c9db64e45db8353f4027a67276a
 # 6b777698eaec4dfa995c8373817ffdff
+#: ../../install.rst:295
 #: ../../install.rst:294
 msgid "**RAIDZ2:** double-parity ZFS software solution that is similar to RAID6 in that it allows two disks to fail without losing data. Requires a minimum of 4 disks."
 msgstr ""
@@ -5255,6 +4516,7 @@ msgstr ""
 # 9d49df496d234e87a482031d922998f7
 # 1ac76ebf9bef43b8b4a12ec189062e73
 # a3593e96201c40de8e0290b6e81b088b
+#: ../../install.rst:298
 #: ../../install.rst:297
 msgid "**RAIDZ3:** triple-parity ZFS software solution. RAIDZ3 offers three parity drives and can operate in degraded mode if up to three drives fail with no restrictions on which drives can fail."
 msgstr ""
@@ -5308,6 +4570,7 @@ msgstr ""
 # 2cf08a34cef54b78aaa99f613440c6c6
 # 6838ffce5b0646379cca7b8faef9d6e7
 # 621fd4f7c0a54b739fdfa387f4214c9e
+#: ../../install.rst:301
 #: ../../install.rst:300
 msgid "**Dataset:** once a pool is created, it can be divided into datasets. A dataset is similar to a folder in that it supports permissions. A dataset is also similar to a filesystem in that you can set properties such as quotas and compression."
 msgstr ""
@@ -5361,6 +4624,7 @@ msgstr ""
 # e016d2f9750f4cd3902422e8bbb267eb
 # e68a7fc7faf348b4aee707290c59c3f7
 # c0214b3a397448a486ef66dd157dd5a1
+#: ../../install.rst:304
 #: ../../install.rst:303
 msgid "**Snapshot:** a read-only point-in-time copy of a filesystem. Snapshots can be created quickly and, if little data changes, new snapshots take up very little space. For example, a snapshot where no files have changed takes 0MB of storage, but if you change a 10GB file it will keep a copy of both the old and the new 10GB version. Snapshots provide a clever way of keeping a history of files, should you need to recover an older copy or even a deleted file. For this reason, many administrators take snapshots often (e.g. every 15 minutes), store them for a period of time (e.g. for a month), and store them on another system. Such a strategy allows the administrator to roll the system back to a specific time or, if there is a catastrophic loss, an off-site snapshot can restore the system up to the last snapshot interval (e.g. within 15 minutes of the data loss). Snapshots can be cloned or rolled back, but the files on the snapshot can not be accessed independently."
 msgstr ""
@@ -5414,6 +4678,7 @@ msgstr ""
 # 8a7eaeb5b05e4b5dae60bab17b9ec920
 # ddf596ca5b744e42b77f2b45eab3c6f7
 # b2806a1c8ed04fe68a5f86bb44621718
+#: ../../install.rst:312
 #: ../../install.rst:311
 msgid "**Clone:** a writable copy of a snapshot which can only be created on the same ZFS volume. Clones provide an extremely space-efficient way to store many copies of mostly-shared data such as workspaces, software installations, and diskless clients. Clones do not inherit the properties of the parent dataset, but rather inherit the properties based on where the clone is created in the ZFS pool. Because a clone initially shares all its disk space with the original snapshot, its used property is initially zero. As changes are made to the clone, it uses more space."
 msgstr ""
@@ -5467,6 +4732,7 @@ msgstr ""
 # b8baae3616b34219af7c2bab5b271071
 # 4f5f8f8e29fb4e8682a287eff4207b09
 # 89519755efcd4a439f509a2f2dc9b59a
+#: ../../install.rst:317
 #: ../../install.rst:316
 msgid "**ZIL:** is effectively a filesystem journal that manages writes. The ZIL is a temporary storage area for sync writes until they are written asynchronously to the ZFS pool. If the system has many sync writes, such as from a database server, performance can be increased by adding a dedicated log device known as a SLOG (Secondary LOG). If the system has few sync writes, a SLOG will not speed up writes. When creating a dedicated log device, it is recommended to use a fast SSD with a supercapacitor or a bank of capacitors that can handle writing the contents of the SSD's RAM to the SSD. If you decide to create a dedicated log device, the SSD should be half the size of system RAM as anything larger than that is unused capacity. Note that a dedicated log device can not be shared between ZFS pools and that the same device cannot hold both a log and a cache device."
 msgstr ""
@@ -5520,6 +4786,7 @@ msgstr ""
 # 6c16d28dc855498fbd049ff9b6936815
 # e7b903a665454698a6b24ff925e82472
 # 091f3d2938484106b3832f35d76ee37e
+#: ../../install.rst:324
 #: ../../install.rst:323
 msgid "**L2ARC:** ZFS uses a RAM cache to reduce read latency. If an SSD is dedicated as a cache device, it is known as an L2ARC and ZFS uses it to store more reads which can increase random read performance. However, adding a cache device will not improve a system with too little RAM and will actually decrease performance as ZFS uses RAM to track the contents of L2ARC. RAM is always faster than disks, so always add as much RAM as possible before determining if the system would benefit from a L2ARC device. If you have a lot of applications that do large amounts of random reads on a dataset small enough to fit into the L2ARC, read performance may be increased by adding a dedicated cache device. SSD cache devices only help if your working set is larger than system RAM, but small enough that a significant percentage of it will fit on the SSD. Note that a dedicated L2ARC device can not be shared between ZFS pools."
 msgstr ""
@@ -5573,114 +4840,13 @@ msgstr ""
 # 4c621a2781f6484683dc671eb30b7ab7
 # b0f15b9de5e848349b78603100da8754
 # 13c2af38668a4958a1ce539651295b59
+#: ../../install.rst:335
 #: ../../install.rst:334
 msgid "ZFS Layout"
 msgstr ""
 
-# c753f5c99c6a44c8959ef1e1c4668fa7
-# b8f7600df1ed4aae97c8e4f0ba052606
-# 36ce727045994afeb59ebaa7374136ea
-# cac2a2149974471a8ac6d0e4c806e611
-# e9effd817c5b4da68df3b9160022f523
-# 567613315f8c43daa891eb41abfd47a3
-# 970273aca31949c28584995636f3cd1d
-# 318cd3d5a0824ea58bff2e5babe99402
-# 1f084a3b81234a859be16e87c4429c0e
-# 161bb08adcdf4466b739763006ce6a55
-# 74dc0e1455984925a644ca4efbd5388e
-# e6d97ee01a5a459cb7c2dd12ce8a4a6f
-# 07f1719e94ea46ca8a4c1ed709f674c3
-# f5bf99242b11442a97fa75fad605bc16
-# 34630612c92b4b53b3fc421b5511fc7a
-# f4d842c1ee044d82812aa10036353b14
-# c898203a16b74ef39fc581f93f52721e
-# 8bb0966fead84cae917337101faf5c5e
-# e2e4ff867c2d4284b32659ffc23879e1
-# 986b96a2af0e433bb771be2cbd0f67ed
-# a0e99b267bcf40bf9d9cb3f41f1abf36
-# 210984d710e1487fabc0055b3ffa76fe
-# 73628e66f96f4639a3d5f4044f08f8b9
-# 8fc7e9db0b994d00ab8dab113ecc928b
-# c4e3bdcb03884581957b7531fc6822ac
-# 75b599acee3c4480b1066e5d8c20f102
-# 01297a7732b74a94a2409a778bca0633
-# 4e8cae5aa9b440a292981d5ac142292f
-# 392d1fea8c5a4ba3942d9b08d47ae91a
-# 925ecfc331274ff096171dd83b0b0596
-# 21298ab73ac84e64a7c68ff05bdd8624
-# b5db88d9b174434cbe34455329daae32
-# 37217184bf1743d1807d66633c324c26
-# e810bc3eff454b16add37edae044baf3
-# 41f96df679f0406cbad526d27fd87d17
-# 7912805c3286476db70d06b4eb3ba461
-# 0514e95f5e1d4f20bac97c37a5126af5
-# d150e7e659dd4c2cbda1b71aecff3a81
-# 9c5b328a91d64ddd8944ca136266fb47
-# 4bfe4ee6919d448aa15424b47b4d3ab1
-# b417ad4aa3b64ab5b9c7a6a177a7d5f2
-# 03b07505ee014479995b572953bb8efb
-# 88904ea1b0854fb08ea791daa9e3ce3d
-# 0183c0a1879c454f9e5a20a0a1bded64
-# e28de7619e664dc290e2778b690e0eae
-# b95142dd5cdd4367ab661743cbd5d504
-# 69e9b199126947489bdbbfed0b97ec72
-# 57d6edc69d6a43caaf4e65632bc58c46
-# 6dbbb4b0028642dfba617462a4e4dedb
-#: ../../install.rst:336
-msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in Figure 3.3e."
-msgstr ""
-
-# b830992d368a42fd9d637264d31b141f
-# f266d80cf6b546e794ff17563bffc64a
-# 486a19665b524fb3b3580df1ccd28334
-# 68405b857a4445d0b39dcf3a7cec32ae
-# 71ee1e7f55254d0183cc6a1adf9f075f
-# 5ff55e3a9e06419e87802173b955e833
-# 57e057c3268c4701adf8c146bc9dbf31
-# 70dfdb29cc894b80af47b56fd6067fcf
-# b93e3ffa0763490ca4e17b9b4e50b51f
-# 4eeb2ff9e5034f3fa41346782fba211e
-# 2c9eec88fd0545509008e102a12dc81d
-# 779b80c6171f4c41b5df9098f9052cf9
-# 4cb399138e0540a88cb5740389686ebe
-# 19bf0f9eff1f4d59af1754c4b57639cb
-# 98758d099680426bb6a3f12c239fffc7
-# 49b6cd64b25349eca3a8399eafea328c
-# 9ea58e55fa544f07929364de0721d2a8
-# e9b15087fd564f7780c511db089968ab
-# d11c064dafa34e46a6e4957489c14068
-# 9627d7e279a34989825bd6572ba685cd
-# 7cabcc8fe84a4663ab954614b924bf9d
-# 75dc38d8c8c5473bb140dd5f2d1fb7ea
-# 12da17e81ddf4ab8b8114c5cd182fccf
-# 8a0cd5616761445a9895f26fe7aef3a7
-# 666add64ec66481981da7262a2730358
-# 4e4e70c03f654e09873613b4baaf5eb2
-# ee6ef31e1dc340f7bcf38927abd75f58
-# 60a0c73a55da46b0850636d3ec3a8207
-# 6ae611a4c1f249cc8eb3461cddf72e51
-# 9eaec9cc6fc94dae8572fd8b4fa31462
-# 35459c11061042bd9d42f204b2207c04
-# a7a619a5f8c342a8b426b20d1aa1c87d
-# 47939dc38d6d434d91171197975f416a
-# f99c0be41083426a9298e77026a97f9e
-# 11c36357c24d4bcbadf0951961a9004c
-# 2ac7c14771d74210a2a7e450c0179f09
-# 814999d6d25f4a38849dddc10c5283b2
-# d7d388163f444dbdb5e34dfb8656dae8
-# 4b6f78ed8d134f9aa46aa13ab6d48ede
-# cfb87ce4d9e24af9b4bb78ad5ae9593e
-# 33408d3bdcd7476281a51f5843214e2c
-# c1e7d00ad6dc4bc1b3adaebb02747a71
-# 9666a063a0e643518e4bdb947c4fc838
-# ed3e5f3405f94940b1742c237fa78f26
-# 3bf2e675f88a4c3d9e4a40260810f91a
-# e3294c60afd44adfa05ec8a431c44e37
-# 6ddde341d2ef4dab9b47b47db7461e21
-# b7692a001a1d4323bb34c2e234d1b2b0
-# d0bb1f24570a48eb8438e5a64e3b65f3
-#: ../../install.rst:338
-msgid "**Figure 3.3e: ZFS Configuration**"
+#: ../../install.rst:337
+msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in :numref:`Figure %s: ZFS Configuration <install9a>`."
 msgstr ""
 
 # 26794785b385484cad3727f9ab96ca9f
@@ -5732,6 +4898,7 @@ msgstr ""
 # 4b3c7b99dec643d3b5b2de74a7ca8312
 # a7b9993cd72e46ef9fb7f33934f2ad3a
 # 9035d619156b458aa405d723154a4e29
+#: ../../install.rst:343
 #: ../../install.rst:342
 msgid "If your system contains multiple drives and you would like to use them to create a ZFS mirror or RAIDZ*, check the box \"Add additional disks to zpool\" which will enable this screen. Any available disks will be listed in the box below the \"ZFS Virtual Device Mode\" drop-down menu. Select the desired level of redundancy, then the desired number of disks."
 msgstr ""
@@ -5785,6 +4952,7 @@ msgstr ""
 # be34438e455d4aab94e083e616bef849
 # 448d32e617a3437492cdbdd0ac2aacfa
 # b8fe026a44b54fc5aaf9a8b09595dda0
+#: ../../install.rst:347
 #: ../../install.rst:346
 msgid "the PC-BSD® installer requires you to use entire disks (not partitions) when adding additional disks to the pool."
 msgstr ""
@@ -5838,6 +5006,7 @@ msgstr ""
 # db3f72f0f6ab43e89b52ae2d15e1fb4d
 # e6f07a8ae99648e6bb8e5f9f3f8a8118
 # 63201954846241459270bc0b9897d1b7
+#: ../../install.rst:349
 #: ../../install.rst:348
 msgid "While ZFS will let you use disks of different sizes, this is discouraged as it will decrease storage capacity and ZFS performance."
 msgstr ""
@@ -5891,6 +5060,7 @@ msgstr ""
 # f068d81a2eac493bb37cf5fbe5b678e8
 # 8ad415ae39ea47b3994dbe3048aed987
 # a57d67d5fefc4fd88d09e11db77f2dbc
+#: ../../install.rst:351
 #: ../../install.rst:350
 msgid "The PC-BSD® installer supports the following ZFS configurations:"
 msgstr ""
@@ -5944,6 +5114,7 @@ msgstr ""
 # d8ba393289df45b993293d1cb5175cec
 # ce666b0a57fb4436a17a11a7c412b338
 # 3f3c312a336e4786a6a903ce639ab646
+#: ../../install.rst:353
 #: ../../install.rst:352
 msgid "**mirror:** requires a minimum of 2 disks."
 msgstr ""
@@ -5997,6 +5168,7 @@ msgstr ""
 # 420d47685e504bd28fd84689fcd57800
 # 6946d856be144876aed559b5b97ae780
 # 33e9dcdd8a834e29900fbad1d8cc7bdc
+#: ../../install.rst:355
 #: ../../install.rst:354
 msgid "**RAIDZ1:** requires a minimum of 3 disks. For best performance, a maximum of 9 disks is recommended."
 msgstr ""
@@ -6050,6 +5222,7 @@ msgstr ""
 # 534a5d0c9ff34ae4bf3fa55bd76bb17e
 # 737e46ba7f804ed8ac5badce5a130a17
 # 427fea3edd9345baa9d9a578031b9fad
+#: ../../install.rst:357
 #: ../../install.rst:356
 msgid "**RAIDZ2:** requires a minimum of 4 disks. For best performance, a maximum of 10 disks is recommended."
 msgstr ""
@@ -6103,6 +5276,7 @@ msgstr ""
 # bd9022ffeda54a92adbeabee44a20150
 # 9b945f6210264a23b6ef6c01c84d43d1
 # 5ead69d8aaf145698c6577ae859cb193
+#: ../../install.rst:359
 #: ../../install.rst:358
 msgid "**RAIDZ3:** requires a minimum of 5 disks. For best performance, a maximum of 11 disks is recommended."
 msgstr ""
@@ -6156,6 +5330,7 @@ msgstr ""
 # 4b63140effad4400beca7e38bb2ff2c0
 # 7214972e3dc14285b4494cac4368ad3d
 # 99bfc0dc452b4eeeafd8807959c7686d
+#: ../../install.rst:361
 #: ../../install.rst:360
 msgid "**stripe:** requires a minimum of 2 disks. **Note that a stripe does NOT provide ANY redundancy. If any disk fails in a stripe, all data in the pool is lost!**"
 msgstr ""
@@ -6209,220 +5384,17 @@ msgstr ""
 # e4e2da599da64b8b8b548f6409a6b4c9
 # 2e2ff48d63194ddd9256ebd6d5e79dff
 # 0d9d7c7435134cada3089257177c7528
+#: ../../install.rst:364
 #: ../../install.rst:363
 msgid "The installer will not let you save a configuration if your system does not meet the minimum number of disks required by that configuration. As you select a configuration, a message will indicate how many more disks you need to select."
 msgstr ""
 
-# 0ac32d2aa69846388484ac6a3df15e7c
-# a2970d703de040f99db9b105aa9ef9a0
-# 7bcb16b9733a48b6aecbcbb25045e476
-# e2fc18b844214ba8a7c99c7e92350e53
-# aa1be8af427e477085cd510b39031537
-# 427f1671a8b54aa2ae87647611ebc04b
-# 3e34247b41c14d4ab7564ca569b832cc
-# d7801697b7874aea8927d2d2696b3790
-# cf041f2138d5486392c0b8cf330c5fef
-# eeb32c5ea5fa47328c73ac00b9682b4c
-# 305bf9cc17284aaf96669822283081a7
-# 6e5ffed88a7f46d088f83d2b9368958f
-# 7c35b3a0a22443dd9ddbce336ec8b91e
-# bf6a5eb24bbd4ab293fe93c4099688e6
-# 1b1fa02890fd4659914bdbfaf1dd093a
-# 8899bc7e1458498eaeff396f066e39da
-# d51ef733d1754642a893b5f6a99f3f7e
-# 8accd11d2a9d4b98ba03220fcd4a0f90
-# ae95030b246b45f6bf6ce4f462ba5c80
-# 2418098418f84b7cafca6b907fa3509a
-# 472e7f837dac4fc4998b66a2c699f1da
-# eed8de10b67b4752baac87fbaa10c21f
-# 93e71558449f47b8b48cda9cd7780aef
-# 9346f50e1faf4b5788c3286bbac53ddb
-# c3d352a241764092823457d24f2dd6c6
-# 919ec8ee2d7b4a3bbb3f5a828572f8ab
-# 69e6a5ad54d44b9a93eacc60c148814a
-# 61e28714943543f1912a06ef9fec4561
-# 7d0ad62503cd4c58b5c331b9678b25c9
-# 523a015774354ed6aab65516c71d6f64
-# e3dffa0056b24ec395cb0da8593cb818
-# 8a7be3dd11694390a616e45313888439
-# 5200d7f780874bef9f8443fb652c0786
-# 59c8a6caa39e4001aeddfc750b148d60
-# 54bff59e98e74ec8b73ab787d43e2373
-# 69947ffed03c44ada5c7e92b3ce79815
-# 9abac5a4bcca44609ded5e7a8a0c3b6a
-# 60ee3a897b79401683302fa5f9425a51
-# 152c07ecb0324963839b70793265960d
-# c3491eec8b6b43f08db7fffcbf3bb333
-# e314f1e60f334e4ab8de73974db2c02f
-# 422a639943bd4278b6f42304bb28d49b
-# 6d00931922e6495c9a217ea1d1d1579b
-# bd004b8500ee490e8f9d4ceb0bd1bf6f
-# 3d5d8f1e9c4b4c57934e8ae7e32323d1
-# b13327253bf4474796dfd895ff545eb2
-# 33e258d0ef14486c947a540a6028d573
-# b864c66d8cc24e3aa073e5ce43d4cd33
-# e95c1696109b44db97684efe305b9037
-#: ../../install.rst:366
-msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in Figure 3.3f."
+#: ../../install.rst:367
+msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in :numref:`Figure %s: Add L2ARC or ZIL <install10a>`."
 msgstr ""
 
-# 0dd723b242b444abaf11f5d1adc5ff68
-# 60aec9f1a79a494fb206fc64394bbb70
-# 450d6d46f16d4e988f9ee6f8704f822a
-# 8bd04c9814694725990869970c474b69
-# 710466e7984944b688b86acbacae96fe
-# c6cf99b806924ed691a5289c7e437b87
-# 798af18cd3a245e3875008a626a1a2ba
-# c4507d6b3238477db83025168b9d3ff0
-# 3da0259420b24b71a04c720ecbd75a76
-# ba72eb3a621c4764a7787c8edbb7ac13
-# 8fbe3a01007c49fa9b055c2595bdb4ae
-# 41ef0f4c4d7e42a4ac3d88cbee258733
-# 8277e5bfd08d4982b201bd608b5bf2af
-# 51a7d4a8ac494f7fad05654422fa6aee
-# 736c24cd3726485da0b7560d30612a2b
-# a860655f4f074cb49ef33cb520461de6
-# 856b1e78e3a84011ba472013431242a5
-# ced29417fc6d4aa6911344fe9e67f828
-# 2324486729fe47ccaa88e3ed6a002bc7
-# f8564f9bedd64a68ab87e8408574fc9a
-# 5c2bb49e3f93405dbd12c18fa6c12022
-# 78def21b0b5148b185255462ca148141
-# 0527cef4575c4f84baccdc19141f0cff
-# b2d0d243602a46ed928a6a46857a638a
-# 11abd260e5d445389d13fe6c48601f12
-# b0932d25b38e4ae69fbfc97e99ff51e9
-# 2440ec20a1f74cd48a27eb73bcaf0a16
-# 9bc0c21b05a5434da8f93332b2db642d
-# a8caaee345be405997b4026cd62e2932
-# 7f163c9223da45319d827589c10a7f97
-# 051c32048c6d4a74a741256992410411
-# 80174b6b1a5446a8bb0b0084ed8ca41a
-# f4a49a5f4e31473183809530f2d0032f
-# 8286acb58665460393d2cc2d785279a6
-# 4672c163d085481fb9d4f85613c77ad1
-# 51f1510816fc470794974058debad588
-# ca535c11c4a24fa3868eb53b548aa8f9
-# 0d40c724ced549358911f58823f4ee51
-# c2c6c095075c4ac5a78399b4ae601196
-# aef0049c4f07463f9703466bd50e899b
-# f6f0cfde503848e290edcc887c97c09b
-# 98baec6170d44d36a775cb109bad2040
-# 05575e5d06b54ae9ba52aa5c3d927f90
-# b6f7460576fc451084d63f0f557b6f7a
-# b1fa594412aa48d3be9ad3d2e932e95f
-# ba39bbf853554a76ada2aba98cc2f666
-# e37abbbfce504359aa5227d326635173
-# 073d5d6a033f4ff8807ef7d48a851a3c
-# 8b7a4e482b234ed49f3d294c688a6c9e
-#: ../../install.rst:369
-msgid "**Figure 3.3f: Add L2ARC or ZIL**"
-msgstr ""
-
-# 0a72b294884140e795830c85822fa17b
-# 966bc27199be46d19e2e5e3cc462d9da
-# d5c010e9a840478499b82b908c2defe8
-# 00925e05bd32490e854d3757bd1d0917
-# 0bf0eef2576b4ca08418f39bb7a84140
-# 033a5a0094314cb8a5518df80d978da5
-# a86e28ed8bc0462495bcf31b160f539f
-# ee2c390feb164556a4b25108f93ef31c
-# e31dfefa441a4010898c41a406402621
-# cee174ba01a949d885e238bfccf712ef
-# 4e45ec2d1dc34dac89d4fa54bb50fc22
-# 88c1ec2a3e094726910ca13be014fe2c
-# c529afbd4107408fad9c06e239289018
-# e5d48482836f480d8ab89e4d88ea4dbd
-# 1ffc2a92bad045ec958f97332413b647
-# e12890e1133648b0800eeb951422cb0f
-# 495ccc827eb44d52884f7615fba467c7
-# 1d61120bfab1455cb4908caed72bacad
-# 6709781bc3a14dcdbf9512771cbb882e
-# 1e743add77bd44c69cb8c1171fae375b
-# 24713fa457424359815da4cc0e0c039a
-# 6fd77fc2389d48f9a708cbca7dda6d49
-# e30f9adcf2464abab91ce73d6b9b822d
-# 47d72f38c93f434b8fb81853a12ff20d
-# 819fef18e2d741d1a346adf2a59c0734
-# c60102b77439475c838566ec3834374c
-# 9fa4f6b636bd4977b5b57b8d24abeceb
-# b2bffcc721654ce58cca652f4904181d
-# 62b2c2f0373b411f8ad3015cbfec4445
-# c28ef569c0244db3b4d0a6b61cd74981
-# b19d676efd6b4cd889ee5a5f83fed210
-# 59a17655b4f14a04b4d966904c722d1b
-# ac5e6ef9ef8a457cab9ba03fba5714df
-# 4b4d452e52e247089ed521a8c32ce557
-# a32d3373ed2049aa908f3ccfa76d9bc5
-# cf016341849942db9b5435b468946182
-# b21f51633e8d4d0c8c21ae53dd76bfab
-# 0b99dae3e2fc418ea2e497c422d313f9
-# d80fe2940eff468593b3af20ec811a26
-# 6e7034efd6de4d75a754414a8f0f5722
-# 705bd7acdf084dacabcec30a03b40944
-# 0161335b7513494cb0df96364ab4cf59
-# 91087ea12c154217af095aa811cb4605
-# f337f21d4a4e42599fbff7749a6cadd6
-# 7f596b31e9d14186b198e9b146afacbf
-# 4ee4131ec48d4f09a381e23e55025416
-# 35876dc963aa47a085d9f85f53e17aef
-# 9c3cbbf7fd5146e497095c8c3a395d6e
-# 6c5d885bd70347d0896020cf47940ea4
-#: ../../install.rst:373
-msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in Figure 3.3g."
-msgstr ""
-
-# 160c901a94174026ab83f4055b09c0d5
-# 635f20be561c43db97573f0be7b7ae39
-# 0c47834cc7c248129a269ada5d42c9b5
-# 02b226e962d4475ca54f5c0b7e70c811
-# 8933d603519e4817907d22b5a5469448
-# fa87e0fc7e0545d8b64e8f3f80fabbca
-# 41f97be0891140e294a6353cf355e57c
-# 47032cdb0d21413d8fdb981211bf6953
-# f63d803759594eb8800314784246b736
-# 9da3ce0cc6c949c992c2bd2505c35ecf
-# de3f13e7cccb4c2588fdfa1bbfce5d1a
-# 84213edc65d947c28b09a48e0ae441e5
-# cf77d854d9ac4978998de71cdc736cc4
-# ed1f591d82d54276ae6eec0667761083
-# 9b91591172c64b62af311b0c1fe69ca8
-# 9267a3671fab46f2a20426ecaa43ad01
-# 6031a2f44dd54288adeecdac98e22e94
-# 188eef9267864d15ab529ba3147dd774
-# bb7576e4472848829ed79ef9aeec1f4c
-# 08b05e9ea8dc42efb253b1a8793e9485
-# 433b631e023149b2acea9ce4aa5ad397
-# de63461bbf27404fbf4f8f7543f1029e
-# 887af0b05eda4564b432f7fd772d2d09
-# 1c54f3b28b464a2796682ff516c9660d
-# c3c7720dccba4d1e9838b077b8a03638
-# ec031b73aae14c4a875473a1f644187c
-# cd7e31086c9f4317b5f6364301b9ffb5
-# 6ff10254f2d64ddf950f325f5610566e
-# 3a35f0290db545309d240b940141c739
-# 69b2d8591d374ab190400740c22b6093
-# 6c76739e33d24930b321b935a8f2fe17
-# 153e11d46dd1400db51b020b05757817
-# f67b2b32f33c4fcf8f028c8b6ba148b0
-# 56c6bf6fd4c64cc5b4e1bd4dff8858da
-# 9cb967d42ddc4199873dab555376aa16
-# 4d21a89480324eaa86f019be2b94223a
-# c4b4c54c18544dd3b67d8780d5de87f1
-# d2346c25265649c881c04201416123a7
-# 6ba47a1a7a964f7296229d95d9ae0692
-# 0ddd6c639ba64b1098226eb5683f7462
-# ef75d270f9a647f6b8a089d852501f40
-# b87b377bb6e24064a9bf91844da15b74
-# f7f692c99fe44873b0eb72ded2c525de
-# d9f729d7c28b44afac0c69ca2a92ff58
-# 9fcb98d71e204dba8b316a0db584c86d
-# 465a91b16898440f8debf6291a96da5a
-# 68890f7fb0e04cd6a6c150a5a143d025
-# 3ed7d8f4ada14193bbe68ba3338184e7
-# daa2f30372e448939caed0bb8a0f61c4
-#: ../../install.rst:377
-msgid "**Figure 3.3g: Configure Encryption**"
+#: ../../install.rst:374
+msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in :numref:`Figure %s: Configure Encryption <install11a>`."
 msgstr ""
 
 # aa940af353744107a05ed26f92c8c38d
@@ -6474,6 +5446,7 @@ msgstr ""
 # 8ff27ba45670420cafa1b8478ee91944
 # a4396001cc12479f9e58555ccd806e8f
 # e17e7b2b7f7647b8bc5ebd3ef3dc4225
+#: ../../install.rst:382
 #: ../../install.rst:381
 msgid "This screen can be used to configure full-disk encryption which is meant to protect the data on the disks should the system itself be lost or stolen. This type of encryption prevents the data on the disks from being available during bootup, unless the correct passphrase is typed at the bootup screen. Once the passphrase is accepted, the data is unencrypted and can easily be read from disk."
 msgstr ""
@@ -6527,6 +5500,7 @@ msgstr ""
 # f9f8fbe3346b4c719bd32a3df7da0191
 # dd666bb529e44a6b9851793d1ae31cb3
 # deca046db36f4dfa896261c54eb9479e
+#: ../../install.rst:386
 #: ../../install.rst:385
 msgid "To configure full disk encryption, check the box \"Encrypt disk with GELI\". This option will be greyed out if \"GPT (Best for new hardware)\" is not selected as GELI does not support MBR partitioning at this time. If needed, use the \"Back\" button to go back to the :ref:`Advanced Mode` screen and select the option \"GPT (Best for new hardware)\". Once the \"Encrypt disk with GELI\" box is checked, input a good passphrase twice into the \"Password\" fields. This password should be long and something that you will not forget, but hard for other users, especially those who know you, to guess."
 msgstr ""
@@ -6580,114 +5554,13 @@ msgstr ""
 # 0bc79583e9934d1fba1db65a75887555
 # 4a440d1dcd7e4fd2af8c2f54594e4e6a
 # 9090f4bee70e41b0bcef4b743897cb4b
+#: ../../install.rst:391
 #: ../../install.rst:390
 msgid "if you ever forget this passphrase, you will be unable to decrypt the disks and will lose access to their data!"
 msgstr ""
 
-# 4b13cecc7a7b44239c048c9298f25688
-# d7a73d888ec74e55a37cb92868575ec6
-# 6e57306ec73048d5b0bfc1af22ecf284
-# 1c363869a8b4428799203e3ac2e56996
-# c2a01bf71c904de48453581f05eb7f6b
-# eeba653c3c5f4204b3aeacfde967e904
-# 498b648bd12b48f09a18a5ae2641b9b5
-# 781d264eab7b4325983494f93825de34
-# c7e7f52fc9374cbabd85d7f685c6b457
-# 48fc292032954719a133c8785fb845b6
-# ed62fe06d6c9434eab5cf7bf5b314057
-# d07527726b714ed9bc5e20efb27458fd
-# 9d33f4959fdb4d24b8e4f6455ee47ae3
-# 66dc047dda07474a82aa580700fb9d8d
-# 1e3f028958da4f0691114acaf1de8d65
-# 079f850737d643d4bbec365d2ddc44f2
-# 6475ab96db61411a89edfa1c2db007ab
-# c944f4fe66ad410ea47a4d8093ae9f81
-# 5a978e70946a4dd4beae143e51c8fcc4
-# 35713b7c232a4ef099f81bed78dba988
-# 9b50b25c1b7f48619eb4e186c38b2e53
-# 36b3feba170541599357c48fef03a18d
-# 31c4556e5fa14d3e83501bb7cbf8ff4c
-# 6208f83604cd4a12a2f6e6490b661d1b
-# 38166faa345941719669a66d507ee4ec
-# 5f2dc4feb1e241eaa51fc904ed16f5d2
-# 6aa610e1dca54bf7b3936eeeeea47c48
-# 9425946506fb42ea8237c14a6e3fcace
-# f2d2f008b8734c83aaccfb1e3600a370
-# 33c7c27c6f2d49b1bacec2acebd4e4c7
-# dffd0e491e2a4787becaf73e7d035e5e
-# 5d268507bf58419da63976704bc8afb9
-# 582d37d91f58425d9d440978700b9efd
-# 580286b1692141cfb8985cc5ceb46fd3
-# 627d9633fb134ad48932d5300440edbe
-# 3711ee6521fb409eb58d0a3242075df4
-# 6846893797ef474593b4bab327c9c9a7
-# 566a12901ce449a7b5da52a16d1e825c
-# 54cef74dae5749a7a9c2ea7bd750ddfb
-# c4ee812bbd7147e3b86b13d850604a25
-# 85c61c2bceab4553a424732723ebe96b
-# 12a3b30955454dbcb587c208bee57565
-# 0a7fe1c9207945968d288ac32f3df7fc
-# 66e68a8ad14147eab79ffbd61ebf0e88
-# 07d80c77f23c4d01881c23f679a7b80a
-# d4e6be9fabe2479f8f232f7c97e010c5
-# 4c8d67376f8e470a9ef801b5d7817e18
-# 7b7ff9f1bd294063b0b2d6d6ef5d2b59
-# f7ee4514f59b450a80324f6a9e6c1182
-#: ../../install.rst:392
-msgid "When finished, click \"Next\" to move on the screen shown in Figure 3.3h."
-msgstr ""
-
-# 7eb38e22ba1d4007a17ddad0070cae4d
-# d1987866e6d1411787db0c501002b422
-# 71b965d6b91d43c48d47a08a09ff1d23
-# 40c135b9fbf345da8329942716d127e3
-# eff520c0bc6c481bb72a5acb9c795247
-# 904eec6158484faa99683285d5b83f9a
-# f7c224ffc0a045288ba6fc8d0c75a349
-# 5aa16c83cb98488a93609820a3dbcfab
-# e4f637f781f24fb1b1ea4d49464172f5
-# 59f654053fbe462ca452d46b063e421f
-# c176335e77a14c3ba1424a47272bd61e
-# 68c808e397c745c8844e98bf5d631f74
-# 26c75dca187047cfabfa3d6981e95c5d
-# f59b2b243789463aaf3cfa496427ef95
-# 2b0ded895ca641779f7a5b2d1624a6f1
-# bab43ba96bb749659e18b77828693a90
-# f1f2c68b5fed481eb095a08422601710
-# 97dce83b080d4d8a9d2a36ec62ec9f40
-# 061e03bb13ab4a40948bef9f98c6aad6
-# bb2c0cd7d7fc451d9a28744efb692589
-# a923b904318441d3911c254cedb4e4b9
-# 27b0ced9815340d8a280981c3a1cb306
-# b111ccf7716b4e2f971be44aab478b78
-# 150211d9b6ea4c75b6bcd1a246d1936f
-# 3aa7a37334604b4abb3ddd58b4e15d7c
-# 875080cb2de542f4b5c00e22ad5b00ce
-# eefa4820fab2400797d03d7e21422abd
-# a99cbca5aaf2448f87b5b2fc8b661b5c
-# 88edce798e844450a2493ca7a03f0af5
-# bba3c696886743beaccd46efef4bacfb
-# 48fac97558cb48ffb73c9becf48d8e1a
-# 349858498b1b4b31b4d76c6b2262c4ee
-# 44b74151af0149449588b6d03670dd7f
-# f3531f153f5647488b7a6ee37997c627
-# 99e2f9e10ebc4ebeb20c891ad2cf8211
-# dde85fd3b8284608b97d979e2f69513d
-# 3b1215ade4a441d9944f40a3d0e5a45e
-# 714798d0e5c5489ea8a61fd671f96599
-# 7d7a69919b7040229dff84b5eee92e46
-# 37937cf24c9a4abd930f0bbdfc352d69
-# c5ad935235fb49168ca4262951f44721
-# 637ae584603142f0b78cb7defef5c4be
-# 4277e6ba26f64a0b8cbbbca3064586d1
-# 9a6f209f4c4e4a92bc33eb76cd3e8d15
-# e31c1b20f1d84ca2ac82769b5e396580
-# ea0ea5cd6dae4d4da0aec14cd831ef18
-# 28f302d986c54c27a9029b8c78a3f86f
-# d34b6e889668409298662346be614d7b
-# 501320caef0a4c798784e66d5470753d
-#: ../../install.rst:394
-msgid "**Figure 3.3h: Default ZFS Layout**"
+#: ../../install.rst:393
+msgid "When finished, click \"Next\" to move on the screen shown in :numref:`Figure %s: Default ZFS Layout <install12a>`."
 msgstr ""
 
 # 76ddc058d9e54e06884118533f1ef283
@@ -6739,6 +5612,7 @@ msgstr ""
 # 445b6fa5ba8b4727af540b04ad381620
 # 6873fd41e7ec4cdc8771d573aed32689
 # 5662b2fb986d41d0b4a46b8081942edd
+#: ../../install.rst:399
 #: ../../install.rst:398
 msgid "Regardless of how many disks you selected for your ZFS configuration, the default layout will be the same. ZFS does not require separate partitions for :file:`/usr`, :file:`/tmp`, or :file:`/var`. Instead, you create one ZFS partition (pool) and specify a mount for each dataset. A :file:`/boot` partition is not mandatory with ZFS as the PC-BSD® installer puts a 64k partition at the beginning of the drive."
 msgstr ""
@@ -6792,6 +5666,7 @@ msgstr ""
 # 84bd869b81dd41c7ad92cc24aba5bbdb
 # ce71025b46284765b15bb39326f58089
 # 13dd31ea5f6a448ab06c0369ce253358
+#: ../../install.rst:403
 #: ../../install.rst:402
 msgid "**do not remove any of the default mount points** as they are used by PC-BSD®."
 msgstr ""
@@ -6845,6 +5720,7 @@ msgstr ""
 # 4e9933232ca94dfe9cf384b88d3d9cb8
 # 36823850acc84bf7bf9b2193a4017192
 # 62b479b4a2a44204a573b066ee5244dc
+#: ../../install.rst:405
 #: ../../install.rst:404
 msgid "You can use the \"Add\" button to add additional mount points. You will only be prompted for the name of the mount point as size is not limited at creation time. Instead, the data on any mount point can continue to grow as long as space remains within the ZFS pool."
 msgstr ""
@@ -6898,6 +5774,7 @@ msgstr ""
 # 389c045b498a43d49dbf213c0157e330
 # b4bab95a76104c419af5c36503015b38
 # a3edfb10747041ed91226395fcecfca4
+#: ../../install.rst:408
 #: ../../install.rst:407
 msgid "If you wish to set the swap size, click the \"Swap Size\" button. This will prompt you to enter a size in MB. If you have created a RAIDZ or mirror, a swap partition of the specified size will be created on each disk and mirrored between the drives. For example, if you specify a 2048MB swap size, a 2GB swap partition will be created on all of the specified disks, yet the total swap size will be 2GB, due to redundancy."
 msgstr ""
@@ -6951,6 +5828,7 @@ msgstr ""
 # 2112cdf9868f40109aaccb7080247ae7
 # 2f5ab1ed09034c6da0567f7dba674fc5
 # 081d6f67ab6d44968dfcc88aa94c0dc3
+#: ../../install.rst:412
 #: ../../install.rst:411
 msgid "If you right-click any mount point, you can toggle between enabling or disabling any of the following ZFS properties."
 msgstr ""
@@ -7004,6 +5882,7 @@ msgstr ""
 # 10e8329aa5a0439aaddb0b2208341049
 # ed663fe8a50c4022b1f34a3d19faa8f2
 # ac32a1ff09494bf3af32dcf4e61b9f5e
+#: ../../install.rst:414
 #: ../../install.rst:413
 msgid "**atime:** when set to \"on\", controls whether the access time for files is updated when they are read. When set to \"off\", this property avoids producing write traffic when reading files and can result in significant performance gains, though it might confuse mailers and some other utilities."
 msgstr ""
@@ -7057,6 +5936,7 @@ msgstr ""
 # 5294c9bd47324fd98dcdc506c5e7e714
 # f47837dce2f241fc9072d5a87ddd6ec3
 # d04a5e577ea644749895750a7b10d279
+#: ../../install.rst:417
 #: ../../install.rst:416
 msgid "**canmount:** if set to \"off\", the filesystem can not be mounted."
 msgstr ""
@@ -7110,6 +5990,7 @@ msgstr ""
 # b3cbbb314437488aa8d8fdbbdc3eb2b7
 # 53ba22b3625248f590ad6541ad95ea64
 # 1a70ffee14fc446d88fd4018ced469c6
+#: ../../install.rst:419
 #: ../../install.rst:418
 msgid "**checksum:** automatically verifies the integrity of the data stored on disks. **Setting this property to \"off\" is highly discouraged.**"
 msgstr ""
@@ -7163,6 +6044,7 @@ msgstr ""
 # f372e543c52e44d3bd0230dc44826d43
 # 43736b00af1649ab96d71bdef789e315
 # 4708aec9c6a64c2ab8db1aac05f0e983
+#: ../../install.rst:422
 #: ../../install.rst:421
 msgid "**compression:** if set to \"on\", automatically compresses stored data to conserve disk space."
 msgstr ""
@@ -7216,6 +6098,7 @@ msgstr ""
 # 54802c3f56b1442991d4f77c1c74f91d
 # 759e342038fe4271a39ca236bcf8a20a
 # a0595cf03d414a0dbb5b458e37edc89a
+#: ../../install.rst:424
 #: ../../install.rst:423
 msgid "**exec:** if set to \"off\", processes can not be executed from within this filesystem."
 msgstr ""
@@ -7269,6 +6152,7 @@ msgstr ""
 # bc6b895ea4074ae2804038d8544bfdea
 # c1b62dfb7f5946d88504fa694d659ec2
 # 7c3682f8fcd04e1ab2269188aaafa2dc
+#: ../../install.rst:426
 #: ../../install.rst:425
 msgid "**setuid:** if set to \"on\", the set-UID bit is respected."
 msgstr ""
@@ -7322,6 +6206,7 @@ msgstr ""
 # f9575b0bdb5344cfb0e06a2a822f2103
 # cf664b2ab0884659a299dc8430bb2e65
 # 67e12bfcd9024a749b6dee56751a0ee8
+#: ../../install.rst:428
 #: ../../install.rst:427
 msgid "Once you click \"Next\", the wizard will show a summary of your selections. If you wish to change anything, use the “Back” button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
@@ -7375,6 +6260,7 @@ msgstr ""
 # f6a7222e5be64c7999ee1917498ecaf3
 # 3cdaaae2b3ef45138ecc4f2510bfe8f8
 # 698a73a996024e82927a407b72534722
+#: ../../install.rst:435
 #: ../../install.rst:434
 msgid "FreeBSD Expert Mode"
 msgstr ""
@@ -7428,6 +6314,7 @@ msgstr ""
 # b99a421dbefc4fb0bc56fdb6463db4de
 # 6aaa1fb887884bb7a56133b871e2e9ba
 # 0bc3e32159d7424eaf24288dac77eb9d
+#: ../../install.rst:437
 #: ../../install.rst:436
 msgid "If you select FreeBSD expert mode, you will be prompted to launch a terminal where you can use command line utilities such as :command:`bsdinstall` to manually configure the partitions. When you are finished, type :command:`exit` to leave the terminal, then click \"Next\" to review the disk summary. If you wish to change anything, use the \"Back\" button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
@@ -7481,114 +6368,13 @@ msgstr ""
 # 6eea00cf8aa1445da10e0edb492511b0
 # 93340ad65df44cf8b0511fd25598b732
 # f0f681f69c0d4469994630b4d52111bf
+#: ../../install.rst:446
 #: ../../install.rst:445
 msgid "Installation Progress Screen"
 msgstr ""
 
-# 799b50f3c4bd4392a71428fce67d28b1
-# 6722cb81373f4fafba36051f94fdd004
-# b408517471324ee498582ea4e720b2f6
-# cb2108a2abfa49d29a8ed7d76ee53047
-# 2607eaa6721f46fda6317b0415029d8b
-# a181592844424633b0ff8d7f087d5668
-# 458137806408418992fe1248aa8f3294
-# b6643529ed0145fab23c1ee82d8b3165
-# fa42a4a6ecdd4f2b8373bcc1325dca4f
-# a6cbe8f21b83461b8b72ebce401c1c5c
-# 611d1b05d710462eaba34dc039eadead
-# 2907a479aa104b849f0b4d4696bd1254
-# 25f7d3354d6e48b8b04e638606aacbf6
-# 34b75177ce58427d8abd1d2c00d915b8
-# 0d8d9928468744df9f1f5109e8d4e5ee
-# 2705d365395f4df1a9e32c1d6bea5656
-# 21871b1c8c1a4ce6bc80a01dc5f80db5
-# 6e3475e3596643b795cc423106dafd91
-# 948188f7996c469b9721807077e60937
-# 28f09868643c48f7bf7e3ff18d250f92
-# 1931eadcfb4441f09fbf0f79bacaa113
-# eacd6251d570418ba7f16b91c7d1fdb7
-# 85b8f4daf08e463a9f430ffd5a7a32b5
-# e09b5164bbed4af781d0397d9a01e240
-# 678fe47fcc1e480b8ec1ca609574ec98
-# 7e5df8c3d0b64cd7a60785858e32269f
-# b4c47c96c2bf412abddc10fdceb38d3e
-# 8e6afd169130429b94653f215ae7f616
-# a228f8c4d35c47efbdc13dec930ce5ef
-# 65478f75458b46c1b7a4159e48239499
-# 4e8c25645c96490b9afe32ea7dd398e1
-# cc1f49acbd6c468c8f7ac30f7c86e080
-# 3255bb6e58a44d9f8f016c388c306f45
-# 23436356013d423aa29afcf0c44e34d2
-# 69731b72446a4301a47f142044df95d8
-# 83e49f7ec86e4eddac41d66d3b3910b5
-# 92b9436f7e454a0a8078eb2e8ff361dd
-# d50b12585f3f40d39d4db186948a8e51
-# 655aade6c65d4ef2946341667030843a
-# e4df0e75ddb9442a9a8bdd96c35d8516
-# 2ec18d50619843fb9bdffc57bca49de1
-# a94892b777644884876577101bc74804
-# 59af07aa9fd54df4a6d56038c04ddccd
-# f15c71f463024849a6c879a947bab622
-# 321eaadd50ee46e6a3f2612d32e9a01e
-# 48f34bd4309a4b75a723393907cf6ca2
-# 4b30ae93dbf44b429390f40fe8e3a951
-# 59b40716ff1e4ebba2dcb5a45763b0fb
-# 93fd8d72ec4c4242948790f690f73a09
-#: ../../install.rst:447
-msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in Figure 3.4a, provides a progress bar and messages so that you can watch the installation's progress."
-msgstr ""
-
-# a6024f82177c4258b07155607bcbd4b2
-# 779271948e154b9a8a9e49679dec2697
-# 02c6a00ce3834a8b81ac020b240d53cf
-# 9ffa03e1a2d341bca5d92ac163daf7ab
-# 86b2e94dec74448e9566d2698b7703a9
-# 69ec7498d9cc45fab68766bdddafb297
-# 11bd5af957564892a1806a185b3c86f6
-# b4be1d1b9f0a4034ace0aa56fd75f72b
-# 685531e8e80b4bc69d8506dde0531f57
-# a61b096b13444416a8effc2b55805b3e
-# a809519dbf0a4fa090928cd8f68d90c8
-# 23379db0e0d145ab83f0cc58b509cd65
-# ba8b8678904842bb9f14e4c2e05526df
-# c510f9dd724342ba8e67624ea17b8650
-# c8ac3214a0d44eb5a914acd574b4e52a
-# 03f77c094dea4b83a3d97e306a62f631
-# 8c38a7307e694bec9d5b857814ff17b9
-# e9f7f5fdcd464d40aa1fac66e243add1
-# 8d999e6ca67e40ab80c849722d6da00c
-# 63fbde9cee5d4ddebecd7020fd0ed583
-# 29a4f447caba428380feecb841655ef0
-# d913cb57315c4c00a409bb2f3494dfef
-# 0583f0559e914d188f11dc83a9bdb3dc
-# 2e26d32ed1b047939b210731543edc57
-# ff1aa11218564ec291c8ef782766fc32
-# 6197be807229478e9460307de98adc7d
-# ef54bb9a358a455894dd9c4d22a6ee13
-# 64b8cc5d46d2403e8a1ea47647bc65c3
-# aa375c8318bd4f3d9bad7630712bc857
-# f34e4c64cc7c460e9c3d035929d01bd3
-# 7bf00750fd4e4dcfa50f400cb95f27ed
-# ef3e9f4e69f24cd98aaf919024a72065
-# 2d0458e8aace4cb986291542c5108a25
-# 492cbc646c964a37810629036557dc8c
-# 0daedb4036cb4aa4a3c0c489ffe01cc0
-# 1d495ca7dce148328c3d27ceb1d172ee
-# 15dac5046a0b4e0789cc4dbe078d025c
-# 884431db76aa43e38b328e977e3ca179
-# c5ac124bf7854d1793062e1239c9a999
-# 7e863578d9ce4f4a846997c3810c022a
-# f71f39dcda3e477186596c1517f761f0
-# b35fb3bfce1c491b928363fe83f2e417
-# 45417b62a2844e908cd6edaf22771b86
-# 7ea7c3449d5d4fe39ca19139386e3176
-# 4d6818ab4e8a49f8b46fda1d4372425d
-# a125bbe4e39d4c22ab2f6e64775023b4
-# 9e600d3f11294c5b9e61708690431aff
-# 7001ca9378384a9690d8fa4dc02aabab
-# 8c193e93a74845c3846721088c142624
-#: ../../install.rst:450
-msgid "**Figure 3.4a: Installation Progress Screen**"
+#: ../../install.rst:448
+msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in :numref:`Figure %s: nstallation Progress Screen <install13a>`, provides a progress bar and messages so that you can watch the installation's progress."
 msgstr ""
 
 # 8d0ec8db274446a0b92cf16fb2d62e53
@@ -7640,6 +6426,7 @@ msgstr ""
 # 6a579de360f3462fad4a459e2552ba5d
 # ca0c31107bf2419080a86df48a5f2074
 # 0b29b8ea745f4404af80bcfeebe0088c
+#: ../../install.rst:455
 #: ../../install.rst:454
 msgid "How long the installation takes depends upon the speed of your hardware, the installation type you selected, and the number of components to be installed. A typical installation takes between 15 and 30 minutes."
 msgstr ""
@@ -7693,114 +6480,13 @@ msgstr ""
 # 5dcc6bdbe4e24a03a2ae7be288629965
 # 1ec4065113ea4a42aacbebdb6213cb13
 # 0eadc0b9d6ca489e88e93710388a7568
+#: ../../install.rst:462
 #: ../../install.rst:461
 msgid "Installation Finished Screen"
 msgstr ""
 
-# f4045a0ff77646bfada004c7f9ea1424
-# 1bde2210008848058188d902548f1e9d
-# acf058514fa742eea34d17889ce39a0c
-# f22d2f79804d45269a6715802bac70de
-# 2fb8b0506df1426381f131a9e5910325
-# ebbd03d6d2e4413aa0b334e3fa9d9ae0
-# 880cdcb3d4364c31b299ae6ea219d2d3
-# 4d424a9fc4c44fd396334a25e86db230
-# 58b4b1aa9f78413dbf91cd175d1c5a10
-# 7e3dd03bb9f643efbc3f3260e553b379
-# e188d868e7324513974c8112cd9a48c1
-# 37cec18a1d7546df88cc0b0d4447fee6
-# 00355cac7ee74468aebe4b5acd4b293b
-# ce8d285260c34dceafdc52e145693bc7
-# a64ad4bb509c467e935df6b6472e87b4
-# a935fef3dd634799a239e51346a026be
-# ff2df11e01b64281aac2d1f694d5d910
-# 08c19bcc781e4442ba90db7f4759ed4a
-# 9772c332e63345cd81adc1058a3b7fc4
-# 32fbab9191e1446e8cc1979b6f751b01
-# 44e518c318e14e84b5f490f76539262a
-# 26c6dc0e40cf430ea74990d24949b8bc
-# 2207c95f2c604c2fb0f73667aeeb9035
-# 20ed9e883a034474812fb62841c1c18a
-# 160706fcf79b44568a79da0f03abe286
-# e0ff5bdbffde430b977ae7917c90a6a6
-# 0dc96d1c746d4b0da80f62c323f40e45
-# c42d60a4d9a746409bfbb5292254a72b
-# 074cb410bab7422096fd475fc3bdd592
-# 4bf00a6a99934a729fbf90946fd612c3
-# 91a5c653833246e18b2fee32bf408db8
-# c54523df924846f79e01494550417891
-# 25c017e61b2f4f868ee4e2ef8bd87c83
-# 97ea15820af04ba5946e1196d328b2e1
-# c9f4263990834bcf877c16230a789f38
-# 6824c7ab574d467fa4fa9191a91d4575
-# 9bf5f60bb635462a8ed734b7389e016c
-# 72ef6bcb316d48be9080b14f75e022a5
-# f68ff6d17ea2423bb32aa5946f70467d
-# 2f2d5d5bcdf24f9b893df0b9875cd79f
-# 2d1b8cc11d8145eaad49c7caab12a9b9
-# fa858572de56407ca00e1e8a3a15c5e9
-# 27da2acd493a49e4b477b08644970dee
-# 1022698a84ce4409b80f99d94438015c
-# 7a02e32ecbc54ef4808c5397cd5ea403
-# 73dba142d86f49ce84a87a0c175d70c1
-# 70a4a4959f3a47a8927ddcb15b4387fc
-# 5c6b127ff6184fe4b30902b89e4d3035
-# 01d787c058bc479c84224c2da65ae81c
-#: ../../install.rst:463
-msgid "The screen shown in Figure 3.5a appears once the installation is complete."
-msgstr ""
-
-# f5be26a0d5ba4580963ebf69d7ca7d9f
-# 74778fa7c313489995e10a6ee4263295
-# f3cb80069179423489f889ce2ddaa12d
-# ef108b543fbd4523b5c6b4174bdb64ec
-# c40987ad15924711bfe42a18ffe769de
-# 73d08dd90e314db191b18b08a249cacf
-# 1a0efb0269684c589d5d8d73ba338887
-# b4e575a9c94d40e4b82d606a20f8e457
-# 553bbe5d76f44fd8916a1bb922a439f3
-# 089361ca5e7e44b8a656b6f03294b369
-# 9a492084ef944beb98543f037e275345
-# 3c15f5726df14743bbdfb38295f001ea
-# 90a48d2599a745a68c11c09606a8e9b6
-# 54c30db036d641e0a2bbd3f42b9b53f2
-# 3690d854abee45c981a5aa8674bbbd9a
-# 7cf0c4d38d8c4389a3ae5168fd74d1bf
-# 3e5071138f0846b8b970c49be1e96439
-# bce0acf309cd45a083c2e99a7b624220
-# 345dad989d65408db1c518aabacedddb
-# a0ef828939d1486ea8ece017a40dd10b
-# 7aaeb4d9ea994336a9de66a9265eef81
-# 1bec5cf37ea64326bdb5f49e422b9e8a
-# dc8f28fec96d4e5bb81a39563b7cd8f9
-# cda8a9792a1d4638b3a142864971fa61
-# 9f9960a7d8a94bc896f87220d4beabb3
-# 04ee03ab07bc47bcbb7ab294668c2cee
-# 77ddb68d383c41d0b644171ea71c2234
-# c657d1b2a48749fc8684490bcd74c4c3
-# 1b2d48f77d114f3e9ae26130be115a56
-# 23485e33383c4b1f844551fbe47dafa4
-# 66a58491191d4c7bbfadde8986117606
-# dbdd6fbebada4f6eb5351a9836e500ba
-# 672d5ec503a5471e9d011b8517ebe67e
-# e3a747e2e7e54fa9b0490ee8669c6f0f
-# b5401a7b4bf84bd09ba817b37b82bf78
-# ac3448024e484f8ab1e3432fa1d0f1c2
-# ed5ef6f632774c3abfd0d1afb64b0217
-# 1fb988ea3c3f40e6b49fb06c6fe632d9
-# a0a920ee363c4693896e825a9b01f22b
-# 68a34cfbe0ce4123bf7d0446cb61dc67
-# 82091c871a6b404fa750288c1f7387e0
-# f9964c7888a64a8486c012a12cfe3929
-# 7dab14c532f844f38f7d657719f444c2
-# 99ed2e83a3b949c290e2515d7520b240
-# 9dc80080cc47485cb4a191ce5611706d
-# c283c2f14b594845881c2717f2bdd045
-# 701f361abb114d2090772818cf68ba24
-# 17b00e17875f4cee9623498cbd532066
-# d28065e6415b46ec8914f942c03aeacd
-#: ../../install.rst:465
-msgid "**Figure 3.5a: PC-BSD® Installation is Now Complete**"
+#: ../../install.rst:464
+msgid "The screen shown in :numref:`Figure %s: PC-BSD® Installation is Now Complete <install14a>` appears once the installation is complete."
 msgstr ""
 
 # 6ca086b4f3514190add67b7c550f6d10
@@ -7852,565 +6538,7 @@ msgstr ""
 # b5f491cf8ff7447ea36658365383ad39
 # 47714927f73a41ef8cec558d54eb5ec2
 # 1c1eadc85b2a41beb09fbac78eeeab67
+#: ../../install.rst:470
 #: ../../install.rst:469
 msgid "Click the \"Finish\" button to reboot into your PC-BSD® installation. Wait until the installer exits before removing the installation media."
-msgstr ""
-
-# 66511035d9894e87baa7d6deca2fe578
-# 2d1970fedfd3460ca6aa8b95674d716a
-# b5f3295eecde4807a27e77a495d129f5
-# 129d3bcd89124e308bfa916016329bc4
-# 567658cfbafe4c60afc5b91027fa0b5b
-# 16e7031ab490428f8778ab6b3d014f36
-# 538221b506ec4675b0fe9ff2d4a340f1
-# 3e6b8713fc744cd698b14087fd282ba8
-# d5b8d7a83f34432790775da81f8aebaf
-# b9d0ab2d778848138b6f0e1acb5f1e5c
-# 49a52ec1ad8e42eaab23f4e30724e2da
-# 29040b4be4b1479492258c687a57a097
-# a5cf39c6b3d24c739ea8a8db4fb7ce9a
-# ce986b49e7fc4ae0bd4b1beb60d3d247
-# 1e7a43e8d4844ad08fefacaff20813b0
-# 06e491ae72174d48b14a506a26d94d09
-# 324279ee364f44879a3ddc8aaf37f66f
-# 36a1ab9abf64494c8164791e078985d7
-# d7820698c0564030a5fca8b32bfdc77f
-# 3bf3098c117d4df2b4d27417382248d7
-# 22c15bbd78364da8b123c6604797d67a
-# 3db9f5591da5452db787d7da39d1103f
-# 7bd7314efaaf45e6834b7392ea21547a
-# d30e6f67bbb94b70b04781284f497ad2
-# f96420fd464143c9b244d58979154b9b
-# 49458355f531413199fb668eb50f8950
-# ac36d8c1403749c6986dcc2a3997b068
-# 2b47c2374ad1471181215864c755f1a2
-# 7090aef3684f48068fa0bcf9ff3f400d
-# a33cdc8bfbef4febaa3f86eaa2072239
-# c332a5fd303747d783b04f13afebcac3
-# e9f38591cd464d42bf68300204328ba0
-# 212507f4d4594c9991fa2dc6abfd4286
-# a1d22c3adeb34046ab2e29c68f30ab0e
-# c5ec4a675eb34b98ba2d2f9abff6b293
-# 7c1826c03f374042aebaae448d964481
-# 928bd0a51c2b4ab5b1064b0dd0dd4f59
-# 32aea1545eff40d7a50922cc5e0ba69c
-# 96410c0ea08d4b2b847c7865a5918e45
-# 5623434f962d4f4789ebb81317d45fbf
-# f8758f33bc4c456d81fbd2c57486a3a0
-# 057b313976f5446fafdd1938df52c074
-# da0e4ceb4f2548a1a6c7710d73893099
-# 5545425eb58440438025233f008e2a2e
-# e5db3a81d6b6482683dcfd436010f3b6
-# d46d4465aae644eb86e58dcbb5e2413b
-# 2726d6eada4b4292965d772a2c5b94ca
-# 1786d6d1d8824fa69a7c4dfb23651ef8
-# 4ddfa0e5912a444c931ebfe5e113a638
-# 9a786f9232154f0c9cba5b9125319187
-# 1bb2f0c445a84434a0b4a807d98e5db6
-# 7c4e5c01ce994be792e7e6f0c4d64d0a
-# 4bd995dd9f5945b383f99e4e4378b19c
-# e8e68eaf774347d29b936baee4109cf2
-# 40c063e27b874a0e8b7b686f6647b8f4
-# 8a48b51c352241c1b7e5d265e1dfead6
-# b1d61d5d8b6c40f7985a2ec150fb04b2
-# 52c368c077e54854824be35891b215d6
-# 466ff82613474522b1e38d9ecf6c4f65
-# fcd50c9f40224765ad9769472e75f712
-# e33e6f0f075744d1a7aaeafd94483100
-# d84d843878bf4a439dea9d6454cdb070
-# 1ed0d05ab8994a959df5d254e3f88df7
-# e142b8076185417889be1148aad4c57f
-# acc42e0ae0cd4966979e016455feeb84
-# f1ecf97981e54090b93b424047411036
-# 8e697cd841a8475190ceb952f9e01643
-# b2aabe9b3e294ee5967e223baf90b5fa
-# 953626b2df67423cbc132caf28d35fc6
-# 169da0182d9448cdb6ced0f91232bdcf
-# 6d3deb1282ba47b28c3f2557b7a5d75d
-# df59a2101fb14084afed1fc951839854
-# b4aa0928a5fd4ce19446a2ef1f9ffbdb
-# 435174c347ad4cd383e7a585b64ed197
-# dfe25aa77e6f4fa09a1edac4cecba1ac
-# 8791f83591a541bcae78de120ab64838
-# d74cd861a66e431cb84f3432ae90f282
-# 9914ba0fd7ad44c899f6e7815a7b3958
-# be7e6a0e47eb45d7aeedcde149baf706
-# 7bf1af8b188f4d18bcf9b2c6d85ba014
-# fa8dd5009840426eaac9e876a37d9a5f
-# 126d475c70734f368ef5effe36efb93b
-# b32864a00a9042009aff60dcd449977e
-# 0addf457888d49878756ba7f1741e34a
-# b12952e96e594b1f8b869c87427d2f9c
-# 4db8e4753a1a4ce5b420f624ebe3e12c
-# 2321fa48c2be407bbef98ec7f12d0241
-# 1003b504b77e46f38c09f31d62abcd69
-# eafa8df64b534a3c9e95166ebfffd36c
-# a6624cfbe66b40a1bc7b799bd0eb89fc
-# ec13de0263384e6ea62d7770b81e6bbf
-# e6d5888391e54752a16a5a4354bc3e91
-# 9b0d6d1be44d430ab8cf8cc77b34b760
-# b24ecb6e27214d078ce320b2944ae445
-# 52e5dae16c634bf4a28083926300e004
-# 30d8fb261d314b76bb693c999911ed13
-# 550c2c75166a4d00988f90503a274720
-# b659539d8fba4f27a9e4da213de3e705
-# 2cc6ecd886d54f6d83dd98ebf37496cd
-# 0bfd97cad9ce447d92a00a248f49b2c5
-# 28711aefd8a541c49ef3ef04cbba9360
-# 6738989df1474e9aacb95e9c94f2600c
-# 022bc1fffbc9488695c8c7932f353754
-# c658fb203e4e462983358e3d9f5762d7
-# d89771d9efde4116b30b314e402e71cf
-# 0dc1224c2dd04bc9a8a61e78b0957892
-# e2c24893aa8f4c3abe2117304c020123
-# 4e689c83b203466a9e58a48b712d4d3e
-# b81874e24b4a4d9fa17c34935a4e02c1
-# 0aefa8569d574af6bd283729d13698a6
-# e378491b628846f5b1a5778b816e2a6d
-# 8a79c72626be47d8b93bfffb5369923f
-# 0b1f56f97a1c418f85a9394e84646f87
-# a992b83a576e44debff0ba06d954b624
-# 6a87a8ed6b08430d93ff87410e80234c
-# ae1f0e6b9c6a4e028926aa2f67f8045d
-# 24e07f3c0d8f42e88d961b382bfccea6
-# 46efcd6bd9d646d9ac67b198292abb3f
-# e0a0c970ea424d9e8bf87e77e800fdcd
-# 44d014765e8441ab9829d8b632996c00
-# 71ea49c4d6644f78a3e825f75e2658d9
-# 32d6df215cd9431b899ce65cd74eb144
-# 0ce4af4180b1408ab04735de4d405a60
-# 37773eb8fea04af0b7359c638b929701
-# c8d75fab64ed4d559c7fa23f6f32a369
-# 37c339d020ef48779b4f6a33d0d3256e
-# 89c3b29c6f404de4b3c0e14dbfccc349
-# 9d438dd8cc0c4ccdad19d2b0bf2f56f0
-# f1829fecf453409fbac23ae106899c28
-# 05c214a8850341b79e083c8d6e1c7d28
-# 8d57a4b514bf4a2182a5082f64daab63
-# ae315a718e884ff5b875dd739fb755a2
-# d75e72f19db940449d5e3d24b5c492bb
-# affce47f00f94094ac2f3c5fec97294d
-# 207e493c5bbe41088e55538cdf0be295
-# 0227603c583241e6a2ff6ada53e95aef
-# 25e8f96374f4428686966e5e4ab2132f
-# cb4b99f897304b2f9854c72705b49d9f
-# 320bbefcff6b490eaf0dad5c98e41aa6
-# 1e29a7a3c0894ccc8fa6523bed57b54c
-# 1e197fb3eb114e82919989cdd9648a5d
-# 30b55df7665542c591cebd988ffdfc33
-# 7e6b7b53a8e74367ad5f84f39eafdba0
-# 56323f7e082842a591b33f57d1f979a6
-# f9ad13f4a6fc4f0aa62e8985b280461c
-# f56b4181a8054152a8569257c77e3c2c
-# 0cdbe142494846f68964b08981a806a8
-# 6c8fd52ecad24ff2ad6e7225d1ab779c
-# c0ffd39e0707492084fdb610e80d7229
-# b7838164259a4cf4b45bec42a96cc580
-# 5c2b06e85aa941fb9a0686f940fdd86b
-# 78d0f4352cc8476095bcc6b7a3c879cf
-# fefdfce7dc8a4fcc8b1bdaf8dd701e9d
-# 59c27453381d41a28cde43d8e95042c9
-# ba5002b5f59c40b9a30c2527c9c54c63
-# 37eb9d391f504a32917a55a868fc2420
-# efdde14dd29f428aa0575bed37829287
-# 2188c81efe804223bf34dc10582dbcb1
-# df4e762ac6a244b08de35a22cb844241
-# f59f574e64444c6fbee3eefafff6cd69
-# b27f7f7280114f6b86d24f6d0a445b76
-# c764b79d40034c5394844584b65e4159
-# 98a0998865ac483686b1fa14413f90d0
-# 8daedd6b48e64efa9b2e5dff93fc04a0
-# 31123a3ce5ff476696375a4e08f1c08c
-# 4497c94693214cea9fef0115be029636
-# b617f4e9292c4165aaa1843ba09b5e95
-# 1b95dddb0b9d4c668e268988a48c1a9b
-# 57936f60fe85491ba888e87743dba978
-# a55764a70968443a8c2c0e623eda02e7
-# ee15899147164b21a9997317fd82b250
-# 7b8925111b6145b993ac9baa3408178e
-# 20eef812968e4f4da19fff854f213db5
-# 683114f5989e4f15bbf173f5d1da3572
-# bd62bcd772dc491fa667f431824e86c3
-# bd70511d97cf4938882e887e44adafd6
-# d35737ba63ea486d8b2720ae025b4b71
-# a20f8529754945e494890ed161bc900d
-# 843e893476024113a50730065d266d74
-# a1674e2404f849d59ee35fc46829f432
-# 0d1605b06ed5473a80910e1d70131d76
-# 355d9f28db2b48e7bdcc681942b062fb
-# a183e2f65889402b86494e5a875e4a49
-# 78ae4ebb6ea94e8cb3a940582870b184
-# f34c1f6db0894354a354016f75d7b8bf
-# 944700392b7e40b39a2670bfeaf0bda9
-# 6d4677587be7456f8d8f221765600140
-# fbcfb5d1d76f4fc78ba984b135490510
-# 36a0c5a496aa48da8b3aa9eb8fe00a0a
-# 83614396601b44d3ba969be006d34785
-# 437d48f98fd941dc94e5bc7356c5bbae
-# 06b51815b66a4fe490374c9dd786be7d
-# 7897bcc68d744ceaab2a30c5b304e93b
-# b44f6a236495446aa79251f9d9b09093
-# 34094499e08b4bc1ad1e7afb293fd8bf
-# 85aff3ac7499458fbd7900a608f6eab0
-# bfec5967d183420db61dcaaedec0c336
-# 80303493896741baa5cc078f44c10a6e
-# 1f57110ed45b459f9ea525b9b2fc5d2e
-# c415865847e84484816d741fad33d970
-# 24d3dcaa7b09408b9daca8cc521e7a0f
-# 480fe80a23cb4acfbe7ad0d24966404f
-# 6b24491450504d89802f8607ce07b0ff
-# db0c2ad49aaa41e3a827197ac5f1449f
-# 5bb68db6a8e64aa29c6b5eac81da9274
-# 951b2961af8540fabc7ef80e9e800e66
-# e4aaa39b1d094ad884e30d83d96c494d
-# 33862bd0a8ec4b0b8369844bccb35a51
-# 3aa2ac1edb604b0595f2c8965819fe8c
-# 832feb69eeec44cb896e98131861f771
-# 5e030f922732461d809c583570da786b
-# b504bba4f80a4c40a789358ff5c9e7b2
-# 7ca5f9e318c84d70bfe8583d5e45938b
-# 75009cda316e4336a30e17beed02bd80
-# 0dd199f4766048cfa62e2b7ddc97c3d4
-# eeee7f0b5d81454290f3e1b578e941c6
-# 0dc07c074de843da92389c9bd295c786
-# 4f26c35cd6c340debb4f2befc3544cbc
-# 7d7674f0b4114b909a2ec3e5f72ff83a
-# 42029b2f5c0144729b8d481a4d001851
-# ebdb70b078604d09b919cdd6fee9c551
-# 65d4ec5d1cb047c781c92002aa82d32f
-# fb62f6820cfa409bbb30e4b2c407ef82
-# b3aba0d235c94128be55faf3d2595dcb
-# e9fdb629b193460381de053bea427648
-# 3ba3b70f7a7443578e32e903ada473e1
-# 003b189367424095b179591f964eca43
-# 8889c7ec38fd4d80b421f282e5cedd42
-# bd4f08042ac24587a0a0f164e51903eb
-# 80a96138ec12452ea8f5bba155be6ff8
-# 74ec3def8d9946768b3035e470277800
-# b84ad8ae745e409cba887dcf727b43c7
-# cf2770c3d80f43fca10702c1019555ca
-# 8fa0581b9ebb47fda5a6479ea91a1174
-# dc4f04f430094c0592d4b42ac8f01d43
-# 8be7f563c0d84c82ae1123ff7e557620
-# d68875e0a1fb4c8eaa07579c9a3325e1
-# 7fe12047e1f64712a56f664c1f54579e
-# 74f06791280a4600b7323c8cbe2f40b1
-# 8c41d3194c3a4b7d9f0d798323d41806
-# ae42b74c888947e196b657ebddf312fe
-# a03f2d6109944983ad7b09703f610448
-# 7d0fdb9f85944420b9922a52f7f386d9
-# d929471e8d494d5fba747ff563546059
-# ffbe6b2f8e0846b99ac62e5ab1e42ce7
-# 677c9015d5b34b33a763df57033b44c2
-# 0fb40ba018fa48ee90cb3d34352e4dc1
-# e20738a9929e4e44b997fabc8d4bd1d0
-# f8b677fb55924a83b0c903c1a5f1302d
-# 60ab498f5ba54a56aef0322d8ee11e64
-# ecc56e8aa7fc486284f1aa254bb606f5
-# 1fe6c875826b4f43ba7cee14a499d65a
-# c8d373c60f7c45a2ba87f7ea7e0e84c1
-# 0d96a314a54f472685ae91f9251b5152
-# a7d06521e35241aca91b426b5ca64091
-# e1ee7d85c4154ef5a419cb5a3d1796dc
-# 3f93f8b1c90e48c3b94aa3723476e4c9
-# 79b4f22cc7c44de88db4cac12893a6c1
-# cf05cb3b68184a679718edca36794871
-# 60d76e85258148a7b8cf2af608c0006d
-# 47cbbb41d2414f7db1251e3d28306206
-# 99a44434b6304f9ca988e93f3862556a
-# 45f3514ad2424b02bdf55dabff56291f
-# 8f12183231dc425aa34cd158d0abe9bb
-# 55fbd147abb24d24981828d53e61e692
-# 60e9fbed80bb4a1797bdf4ce8af6218a
-# be02875c78c74c019f64cc28b221dee6
-# cc8229a651414b5586aab282d8f6528a
-# 3e355de6942f4f9786f3369de168d445
-# d8ab19d2b76145cda1ea641f9c3783a4
-# 45b02a2ba8034c6ca17a99b4859895fb
-# 85ff91f9f36a46b88416cf4e063e7400
-# d69b4497d6064bf5acca6353dedcf160
-# 2a0630f6d8f54d54ac29d2e4114f125f
-# 6c330382f9064fbf8b2bdd2e05038320
-# cfa0139b7ae741e493667299f45c8ead
-# 6b138e434c714438b39ba3787187af2d
-# b7fd4cab7e444a81a4e1eba4b11f27d4
-# 85923587e7a84b4d8bc21b11b453b777
-# 28ef8706a7ca419597461a01138899cb
-# 7d0028c60d1a4ebfad9051ceb7cd7297
-# 06e9565fb2ad44678e4d116f7c8c71af
-# 7703b097639a40baba01ef6d3f7f0bf8
-# e54a576d28f64bce900cd1ea33a545d5
-# 785dbd68623044b391061531c46bec50
-# 8b1f1294578e45249a09ae7bd66ad41d
-# 822bcbd177df4560ba2d88a510fe035b
-# cdc7af0b6dbf4a68b10612c1dea42a6f
-# f5c2514f9093484f88ffc3b148aadcc1
-# 96fe4811b1c94a0383a4ca93ffd7cc80
-# 9b41c0698545450bae04a47cf7cfe997
-# 85d80046566f414cb0fb01244739457b
-# ede655c114734481b9101592d341251c
-# 04656bc17f6b42b88b181d6a4ede4323
-# 5b3056c1a3234d65b3f2582bb12337c4
-# 9256a971b8c04d898e125631bf699667
-# 5db37d496b194221ac6cd361102827b0
-# 2c1116b0de4c40f699ffa98766037bb3
-# 10fe4613fdeb4639bbc772098f08af46
-# 6f29f2b5ed5249d5b292c4f5b0f40b1c
-# 8765cea68a4f4bcdba605dca05d03efd
-# b6757afbc8084eb680f9ca5cc3754ff9
-# 649233ce85224004873140780e75b078
-# 2dece547dea441c5beff92d903776d7d
-# 7dccaa5c92ca4404849e2dafd1de656d
-# 8373a7f4ede8445fb3e449ca7116f0ab
-# 7ae8ff429c9d486287c5bb3f21fbfc46
-# d76dce4c58b9473facf59f4c4499a614
-# e4b1ffe35e81418ba5a5104a1588556b
-# b0856b3057444d048727d8054491bef0
-# ab4f17d5dcb14d72aaa1a06d99a59826
-# 5b428d48dd6a4ddabb469ab3ebcb8609
-# 61791484155b4dbea0d4a89ee400aa71
-# 7e82dedc97194340887e5f76eb959aaf
-# 647ecaf6a7494202b6b552d411e48ade
-# e5eab689c0104ef7b4eee16929ff2bf2
-# 86912f7cd72147ffabbb8eab63b83f4e
-# b690a5cae49d4654984f357d3083ab6c
-# 74f77fe2034d4d969761c6d0505dd073
-# a6539dd218894cd2b6424b584b25068d
-# 78c4f4f96a7e4e06bda3d896cfecac01
-# c3382c08e9ff46a38c76d60d08d16293
-# 6d13ea97bc2c4ea5a7b0d16a8f9d56e8
-# b8f172196f4b414da1728defbf1d3f03
-# 3793d37952af4e45976fe812db3f6779
-# 5fcc9ffc34974e0790bef7df90f8618d
-# 85aa6390f6ef47e0a0c1e433f43f3cf8
-# f6e952a843ab4324bf929fca298ed326
-# 6ef3116eee594b469e79d6c7824cd9bb
-# 28b271bb0d9f411d910f3d74b40692e8
-# 898e4fcdca664c118c79b5b93286985d
-# b77ebf5e87eb4d8caedcecce0bee399d
-# 58e05d41976c471b9b26084867c7285d
-# f4a45ad319394530af3b4be134adb3f2
-# 48d660a1c2dd45df8ff4a7cd49a6b0f7
-# 9529e62ab6a04f3697ea6abe4013fb9b
-# 8942fa57ccc44a069c2063e6e302b71c
-# 9a827331280944ecbd686d989b0f04e9
-# 9979df1df2f341368c2bed73e142c83f
-# c9c47130b56f4486842445ab0792ae1d
-# 801f19baef0b4203a2ccb188b0bbfffb
-# faf77f4de98a45929ae32e5824cd9455
-# 9230653115d04157914b37fde8d16deb
-# e3c5f9c8f0ac4a72a916d55263d068a4
-# 639857dc493943f29ab1731cf63737d2
-# 6336322b91674b3c908a894deac01b74
-# 7f3d2530325d4d73bbc43af4bf5faee6
-# dadcd6aabe2044f79e1876fdc27a85ec
-# c797605eca84466fb127ca479af9598a
-# 3d88e9594f954f8e94c21a18ffae058a
-# 134e3e3fd28940a7a62947fd37a0a8b1
-# e1f91e1967ed4eb79fa3f5267483faae
-# 076e2f4b9c0f4923a1c8cacd09d5c9ee
-# c05ef156b9cd4673894bfd2e8c31dc64
-# 96ba75d1a2a74f338229087e5d701372
-# 7813ca8c55d64ada8b249ffc01e13f14
-# f79e0e8eb48f443f9bc59875596433b2
-# c8cb8a3640484888b57c97921ec529d2
-# eaafa1ef9fc146b4a211c7d76c4e1998
-# 8cda4f4961ba4bf196fa5113280ee37a
-# 6836531859674ed388842663c8da63fd
-# 658cfdc7868049c0b7badb10d9badd25
-# f31f00368b894d5a9b14fff3116cbcb2
-# 03ba397f9ecb438c9f855284722faf7a
-# 3f2d14c9692d40c7832b4647a6573935
-# ffe742df308e4f4f8610b641642afe1f
-# d0a6edd444224abd8df68c994299b349
-# 66c49dcb0307497e95b2ecdb0b31c6b7
-# df78b024c5854635a735ee6e1f149ed8
-# 217e2301b91c4d0eacb612e8456a2ef4
-# 161126a2f8b742b18d3f78d4643d90ef
-# c047a37afd6e429d92560b6d1f65b1d7
-# 43c67431b9a04411a3a5ad1640bc3221
-# f95a7a55b4fd4f87b2ebad9734f942bd
-# 4119ab797a57426c9205d2ed04e933cd
-# 72c30024d68948ddaf571070f4a3e598
-# 7eda2c6cb8e14476a725a14a882e2046
-# 85a5b56149fb42a8bf21ac9dd2c3776e
-# 4d1ea71b1f9f43c1a3b7c4def3fc8036
-# 14716eb60c6941c8bee655bce1d04e1c
-# 3ab65cf7b33e4992970103d7ad0fed15
-# 4de1f27b81124e3aa4f06d2e1c5deb7e
-# f373f1defa2b489a94e3f245524a0d82
-# fb082fd2e38e4e3cbaa065e08cd52c9d
-# cba0f19ffa5340a7aeda204376c2cd6f
-# 13ebc3affae0466080d38badd078ff09
-# 904784dc38bc454cbb8736b40fbb4453
-# 0f3b2c08591f4f31b014b21216128040
-# 67c4ca26c17c457da09508d110ec7fbe
-# f2d9dfe440924e2fa018bef37d10489f
-# 7e019f16b6e648c0958d33deeec345f9
-# c0b6353c5f964d5d9a07e8bf35b6fb48
-#: ../../install.rst:1
-#: ../../install.rst:25
-#: ../../install.rst:75
-#: ../../install.rst:153
-#: ../../install.rst:192
-#: ../../install.rst:217
-#: ../../install.rst:441
-#: ../../install.rst:457
-msgid "installation"
-msgstr ""
-
-# 1ec67b936a934bd4931949dfd403bc17
-# 314c28cb8c23461eba096eef0a6360aa
-# 6eb0a24a62b341cdb365faaa6d052c3f
-# 49a8b174feb64b5fa0f907197624d970
-# fdb478f685ca4a14ac297e623b7cba34
-# cd6bd699a3644fc5bdaf6b9a4e10c3b8
-# 942fae8fb1d9407bb334c36d1b6c286e
-# fac45b2de2d341428d9153bee68b02b4
-# 91d24bd767ae4510929e82b149e79388
-# 7e41773f49b343e8a08eaf17e4a7ee6a
-# b89629fd15674f99a5209378e4b843fa
-# d367c303a97e4aa2b25e5395c8748e56
-# 02780c283865459fa973ba950f54baef
-# b9f2fe574824469caece3cb3f365100a
-# 81efe293433646979a48a143c224b949
-# 94d4d970ffa64c458fb58edbdeac4700
-# 332e7152b5524d02be925fa013748412
-# 55550bd3d06e4a2387564fa53f744e9d
-# 412a5411c78e4e4c8cfb4ee12212669b
-# 500c1819e5364a138413b745e6072abf
-# 60c89ba52e8e4b5fbc4ee41a92ffede1
-# 46f5bbbd0b4a40cea229ed413575df01
-# f23a427aaa7842138a05739c16acb293
-# 9139054cbb084c69b035931648869b91
-# c301473730eb4e7983478663677d7765
-# a92d02772912436e8e242de8f8422640
-# 7bff19bfc4a249b4ba97585ac96bca21
-# 3f9a6f6b090e417aba702e23a3d17319
-# 6c8308764c174a1dafa6a8af13f3c932
-# 78d4c4dbcb404d0d9fb254c6a240874f
-# 0daafe439db54a469189b70cae221114
-# 1162a0e1ec484cc19d26acaabb742f39
-# 415b2eec36b04c4a89a7ff694677379e
-# 6b9db323d46445e5b93e33146f0412db
-# cfb7338f87864562a6f15d36862f6b61
-# 566b36a3af8d45aabc35eb79613ce33a
-# 55bb3aa95d5b4a5eb6d48f564f922769
-# 97541dd27b80457ea38cd7cbd931521c
-# c40a3632717f400597f907961f1b228e
-# b18e742b59fa4f709178b424c6eeca1e
-# 866ffaf397474f47b8981404d76d966a
-# eac2b86b56ff4977b48ef3bb6c29528f
-# 8104b269e24c4971b6a9a9112faa4390
-# 932e954b22054955a56618edd654d325
-# a0a64279c5f4438cbd992b4bf6cb0ffa
-# 0fc22799a54544af8c9b0a7b3ae6c435
-# 06d1c417cb9a4c528214978492a41a37
-# a6879e33e0b444c4ac84e494e13d1893
-# ef113367cc0a465ab7bddca46af98a3e
-# cc66548e063e4cd3be5741fb243260d8
-# fa39cb4d209d4bcba20ebaa4db4f0576
-# 8f7008b374334f7293e0e5b1c8eb3ffc
-# d569f2d4bff147e096360d65281b0fdf
-# b4b143b03aa641b09809dfe8e4fb7954
-# 94f0e05f29954afb99e30194067f53a2
-# b440847e72d74d1ba3c54e050bc486d4
-# 3c95c95275244a8db2d7ed7b2629dd47
-# 47ce2746037f48f4a6dbe5cde303ef9e
-# 39ac8e08c2da4553b6c5ac61ac7bbbde
-# 268f9fdc98a0413eaa65ba93829df8b1
-# 5b41c63a644b409287eb37a376b5a5cb
-# e5ad9f12b5ab462e9b3aa5c443bae638
-# 3ce42804480b4396aa428f454ce894fc
-# 256b25b6302649d59c2d943326f12e43
-# d4abd2e12b3c495792283af1c56ca2f3
-# 92b5d7b69b0c42958706c47402a53a88
-# af4c9c7b29bd4ba28fac8ee5ae6321e0
-# 6b4e1230a4e2435b8c68238dc709e786
-# ba82e6fa07794debb54100c49d4f412d
-# 662c8555d252486f9eef139224166177
-# e4225e12a41a4359a62a647d1a5c902e
-# 4e6f745fac4e4b36ab14735bb9a97711
-# 95622f7758ea4718a2b59a314744ea65
-# 4033480ac5eb4d66870e1045274713f1
-# ee11d53407d542c7a432809c33abdba7
-# 82ddceb743164de8bd60163babbaa9a7
-# 61eb9fa7bd3842a2a8215a38d5616ed8
-# bfeda57d528a4c31b8e50554b9a8c056
-# b23116d8813246eaa968b61284b6b3f0
-# bba3ee09f0f843df9363363e0fb33c1b
-# 1272883302dd4a588b021a62f2e0b80d
-# 8e895730682c4a8faedaa5d17dc7032f
-# 578ba8b961a3413f82ed951acdd7ef53
-# 7f7b87d960d84030ab6ad5dfc1a9737b
-# 562457c29e844cbc85fd4dd417fdc079
-# 273d3821e4d54ab289e9b7903fcfdc4f
-# 4014329aa2604f74aef4bf156a8acb75
-# 6e3b003606134a12a92bfbc5b67da663
-# e7cac571fbb6499c863b96f94dd7414c
-# a7319a3d74a6445887e8394a1001a650
-# 71c98d30297b4a34a20010d33dfce524
-# bb2cfe9300df462d9126d27302353878
-# 460683e61cee49d59cd19bc58f03d416
-# 4d2cbb050cb64c088c2f2fabd9d61b35
-# f7d7250947774d92a563b9754709a8e6
-# 2cc7025e88344cde8a4a658a8277e995
-# 4d94dd2cfc6b40c191aeb8618722d443
-# ecb9de45d213434ba6853fd4d125178c
-#: ../../install.rst:255
-#: ../../install.rst:330
-msgid "ZFS"
-msgstr ""
-
-# 01a22082d5d94aa1b1226a4d575ca6a2
-# 43fbba6d9fc246dcaf6c0a0f70ccb296
-# e33d1b2cfe034154b0df33c695f5b35d
-# 1ad46e4d1d774090b1246363b55510ad
-# c847808aa11949e6befed1f2827509cc
-# d80d507518ce442395a0bfd5673b4847
-# e1ebb383713a4d25b213434cf70b858c
-# 0d7f9236722f49319170571504db43c4
-# 60e7b3dd861e477ab504e5d076b8a927
-# cdf1419c2b4c49e6a0127c42e84f7c68
-# ce165f90ddde443bbe32d23d04b0944c
-# 6102cc6c76364528a84651852ebc59bd
-# b6deb9324174477c8cd5ecf0418522ff
-# 135595aaf8564993883cc4eebcefa710
-# 09abf9e4c51643aa9a7598faf81ff235
-# 4fda56177b314018911401aa2db95fde
-# 6f64fd6174034ddb842a84d46a02a47c
-# 6e17a55e545249a48943ea973db3fcaf
-# 05e34f7160674c238ef3e657a289d137
-# 47626a515bd9449aa0d2c488393610cc
-# 876836c9986a4122bfa1872690da259a
-# e008574b3244422db67ec839704abd54
-# 83722c5558944fc3a3f6712e3f969959
-# 7d18af4902714b0c99133751cdec7325
-# 044e6d27f6d64fcba7ee097c56476848
-# 93604799360142a484ed3d7538d579b8
-# 9d844405458b4cb091a3c2d87bbaa218
-# eb1f39ab3d4144babd6c0e20e248a22c
-# 79b0ca9886824378b4f64a797dd9dad9
-# 42e2b2e7694244408856365ab06fb061
-# bcc4a9c7389e490f9f10ee779ee43d85
-# b531babf2dc7469dae5d3fb8ae629a59
-# 37af6298cdd243ec800bb8eedf6c0521
-# 90d2572ab9634b2986daa9f81fb4c29c
-# 1c02969dbc3b44a1a4ce6f1539626ecc
-# 3c0098b2dbbf42fc9c4fccada1a76b23
-# 971e3cfab86e4c2fb4129a96916f2688
-# 1307e243a5d6412ea6d2f4b82e603ed3
-# d0b4d13639cb4c5a9582a7438203f484
-# 828cb4438f8f4311a01287544f430e34
-# 1e7cd8d1d42147d9977d7358f2b978c1
-# 7e02436915b24435b708d88d0ee834fb
-# b14f5a1147af432bab7fb938fd08d033
-# 9977824b760046d0bc443921c91c1155
-# e3d7a5292dbd42fdb82c6902339ab229
-# 45490ee0e59e4a6682e30c24cf9f5a08
-# 5c753d3323434413b0e83b041d09464d
-# 5c494a2f66ca4aa7861d969b16439253
-# 98d0e30d4802470aa655f5d56172e0f1
-#: ../../install.rst:430
-msgid "install"
 msgstr ""

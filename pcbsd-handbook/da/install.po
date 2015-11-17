@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,14 +30,8 @@ msgstr ""
 msgid "To begin the PC-BSD® installation, insert the prepared boot media and boot the system. If the computer boots into an existing operating system instead of the installer, reboot and check your computer's BIOS program to ensure that the drive containing the installation media is listed first in the boot order. Save your BIOS changes and reboot."
 msgstr ""
 
-# 2b02a1475f434fd1a6fa3172c46e387c
 #: ../../install.rst:15
-msgid "The initial boot screen, shown in Figure 3a, offers a choice of using either the graphical or the text based installer. Unless you select otherwise, the graphical installer will load. To instead use the text based installer, either from the console or over a serial connection, use the arrow keys to select an option. If the graphical installer hangs when loading the graphics driver, try selecting the VESA mode option of the graphical installer."
-msgstr ""
-
-# bf676d9fd80a4867bbb14cb25579b633
-#: ../../install.rst:19
-msgid "**Figure 3a: PC-BSD® Installer Boot Menu**"
+msgid "The initial boot screen, shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1a>`, offers a choice of using either the graphical or the text based installer. Unless you select otherwise, the graphical installer will load. To instead use the text based installer, either from the console or over a serial connection, use the arrow keys to select an option. If the graphical installer hangs when loading the graphics driver, try selecting the VESA mode option of the graphical installer."
 msgstr ""
 
 # 61db3a00a34a4f6bb74e6a11b358c693
@@ -50,735 +44,741 @@ msgstr ""
 msgid "Language Selection Screen"
 msgstr ""
 
-# 44d959ee2ff84c6894ba02fcd091f6ae
 #: ../../install.rst:31
-msgid "The first graphical installer screen, seen in Figure 3.1a, indicates that the installer successfully loaded and is ready to present you with its options."
-msgstr ""
-
-# 69a7f536a7474ffa979975f94b0ff2fe
-#: ../../install.rst:33
-msgid "**Figure 3.1a: Welcome and Language Selection Screen**"
+msgid "The first graphical installer screen, seen in :numref:`Figure %s: Welcome and Language Selection Screen <install2a>`, indicates that the installer successfully loaded and is ready to present you with its options."
 msgstr ""
 
 # 00a2f16adf6a4a62ab493d99addeb19b
+#: ../../install.rst:38
 #: ../../install.rst:37
 msgid "Starting on the left-hand side, the icons in the bottom navigation area allow you to:"
 msgstr ""
 
 # 26c7e49b24a84868ad6d236847bc20ea
+#: ../../install.rst:40
 #: ../../install.rst:39
 msgid "access :ref:`Hardware Compatibility` information"
 msgstr ""
 
 # b06880ecef3b4abca93f47f8ca217681
+#: ../../install.rst:42
 #: ../../install.rst:41
 msgid "manage :ref:`Network Configuration` for a network installation or system restore"
 msgstr ""
 
 # c76d07e9f3644504a8feb7961771f56e
+#: ../../install.rst:44
 #: ../../install.rst:43
 msgid "read that screen's Help text"
 msgstr ""
 
 # c4dd6329ab8b442e9091c7d8e4d455e7
+#: ../../install.rst:46
 #: ../../install.rst:45
 msgid "use the onscreen keyboard"
 msgstr ""
 
 # 65519662c83441bb8c6247fd185827c8
+#: ../../install.rst:48
 #: ../../install.rst:47
 msgid "switch between the US keyboard layout and a user selected layout"
 msgstr ""
 
 # 30d7b7f536e34649b12c3a5bad38352b
+#: ../../install.rst:50
 #: ../../install.rst:49
 msgid "access the emergency shell described in :ref:`Using the System Utilities Menu`"
 msgstr ""
 
 # 230ba5daee794f3fba61f180b3978ad5
+#: ../../install.rst:52
 #: ../../install.rst:51
 msgid "access the :ref:`Disk Manager` utility"
 msgstr ""
 
 # 08252fc9200544a19b499d84270bdcd6
+#: ../../install.rst:54
 #: ../../install.rst:53
 msgid "abort the installation"
 msgstr ""
 
 # db481668d58141a39f2eefcd3f22acda
+#: ../../install.rst:56
 #: ../../install.rst:55
 msgid "navigate to a previous or upcoming screen"
 msgstr ""
 
 # d45ee884c5d54288be209bda807e4111
+#: ../../install.rst:58
 #: ../../install.rst:57
 msgid "Hover over an icon to view its description in the tip bar at the bottom of the screen."
 msgstr ""
 
 # 5dccdcf83f6b43cf850b000860de983a
+#: ../../install.rst:60
 #: ../../install.rst:59
 msgid "the default keyboard layout can be changed now, during the post-installation :ref:`Language Screen`, or when :ref:`Logging In`."
 msgstr ""
 
 # 7f469865cf68434a98f91536e93eac51
+#: ../../install.rst:62
 #: ../../install.rst:61
 msgid "A button is also provided to \"Load config from USB\". If you have saved the configuration from a previous installation, it can be loaded at this time from a FAT-formatted USB stick."
 msgstr ""
 
 # 2a42902f0d044df788770c8b831a139a
+#: ../../install.rst:65
 #: ../../install.rst:64
 msgid "By default, PC-BSD® menus will display in English, unless you select another language in the drop-down menu in this screen. The menus in PC-BSD® have been translated to several different languages and you can see the status of your native language at the `PC-BSD® Translation Site <http://translate.pcbsd.org/>`_. If your language does not show 100% translation at this website, it means that not all of the menus have been translated yet and that the untranslated menus will be displayed in English. Refer to :ref:`Become a Translator` if you would like to assist in translating the graphical menus to your native language."
 msgstr ""
 
 # 834054f8db934a5a9279f5ebfb19590d
+#: ../../install.rst:70
 #: ../../install.rst:69
 msgid "small screens may not display the entire installer window, which means that the buttons at the bottom of the window are hidden and inaccessible. There are two solutions for this situation: press :kbd:`Alt` while dragging the window with the mouse, or press :kbd:`Alt+N` to select the next button of the window."
 msgstr ""
 
 # a3c1a917cc7f406ca6b478572458d815
+#: ../../install.rst:74
 #: ../../install.rst:73
 msgid "When you are finished reviewing this screen, click the \"Next\" button to go to the next installation screen."
 msgstr ""
 
 # 9c7dda09aa204ad7b6cc3b8df142bbec
+#: ../../install.rst:80
 #: ../../install.rst:79
 msgid "System Selection Screen"
 msgstr ""
 
-# 1fa0fc3808a04d0ab5ecdd1eff4d0be7
-#: ../../install.rst:81
-msgid "The \"System Selection\" screen, shown in Figure 3.2a, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
+#: ../../install.rst:82
+msgid "The \"System Selection\" screen, shown in :numref:`Figure %s: System Selection Screen <install3a>`, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
 msgstr ""
 
-# e4e28785f2f249fbb5331b52e3824fa5
-#: ../../install.rst:85
-msgid "**Figure 3.2a: System Selection Screen**"
-msgstr ""
-
-# 89fa3c2ab65141ef9a0c2459a6be2fb7
-#: ../../install.rst:89
-msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in Figure 3.2b."
-msgstr ""
-
-# ebbf3a7c99544b63b55fd42fcd123ad4
-#: ../../install.rst:93
-msgid "**Figure 3.2b: Browsing Additional System Components**"
+#: ../../install.rst:90
+msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in :numref:`Figure %s: Browsing Additional System Components <install4>`."
 msgstr ""
 
 # a0ce5ca8372c439ba492851ea8ba80fc
+#: ../../install.rst:98
 #: ../../install.rst:97
 msgid "Check the ► next to a component in order to expand it so that you can check or uncheck its sub-components. All components that are checked will be installed. If you highlight then right-click a component and select \"View Packages\", a pop-up menu will list the name of the packages that are installed with that component."
 msgstr ""
 
 # 83b2b06eaf7c445080f1755c597ab449
+#: ../../install.rst:102
 #: ../../install.rst:101
 msgid "The following components are available for installation."
 msgstr ""
 
 # 7b595c4cc85d41ad9c61c660ad5f0ee3
+#: ../../install.rst:104
 #: ../../install.rst:103
 msgid "**Desktops:** the following desktops are available: :ref:`Awesome`, :ref:`Cinnamon`, :ref:`FVWM`, :ref:`GNOME`, :ref:`i3`, :ref:`IceWM`, :ref:`KDE4`, :ref:`Lumina`, :ref:`LXDE`, :ref:`MATE`, :ref:`Openbox`, :ref:`Ratpoison`, :ref:`spectrwm`, :ref:`WindowLab`, :ref:`Window Maker`, and :ref:`XFCE4`. Each desktop that is selected will be installed and will appear in the login menu of the installed PC-BSD® system."
 msgstr ""
 
 # bab06724de634babb256749088c74072
+#: ../../install.rst:109
 #: ../../install.rst:108
 msgid "even if you uncheck all desktops, :ref:`Fluxbox` is always installed and available in the login menu of a PC-BSD® system."
 msgstr ""
 
 # cb7115e003474ceca19cd7947118b5ec
+#: ../../install.rst:111
 #: ../../install.rst:110
 msgid "**Devel:** check the box to install `QGit <http://sourceforge.net/projects/qgit/>`_."
 msgstr ""
 
 # 2f5ceb6fa5a14e07ae10916b31721b5b
+#: ../../install.rst:113
 #: ../../install.rst:112
 msgid "**Drivers:** if you have an NVIDIA video card, the correct driver should already be checked for you."
 msgstr ""
 
 # ab728668616d428cacab7c4b2789f424
+#: ../../install.rst:115
 #: ../../install.rst:114
 msgid "**Editors:** check the box to install `LibreOffice <http://www.libreoffice.org/>`_."
 msgstr ""
 
 # 894a8fd6ddb04173af54da726fdbb56a
+#: ../../install.rst:117
 #: ../../install.rst:116
 msgid "**Emulators:** check the box to install `VirtualBox <https://www.virtualbox.org/>`_."
 msgstr ""
 
 # c22c647bacfc455484d25071e5b3afce
+#: ../../install.rst:119
 #: ../../install.rst:118
 msgid "**i18n:** if you expand the ► you can select to install localization for for the KDE desktop and for the operating system."
 msgstr ""
 
 # b163a0db465a443a9819b01b27f6317c
+#: ../../install.rst:121
 #: ../../install.rst:120
 msgid "**IRC:** check the box to install `HexChat <http://hexchat.github.io/>`_."
 msgstr ""
 
 # c9739f75b92b46f482173454e23a60f6
+#: ../../install.rst:123
 #: ../../install.rst:122
 msgid "**Java:** if you expand the ► you can select to install `IcedTea <http://icedtea.classpath.org/wiki/IcedTea-Web>`_ and `OpenJDK <http://openjdk.java.net/>`_ versions 7 and 8."
 msgstr ""
 
 # 7b5e2647535a4f789214e005409e2631
+#: ../../install.rst:126
 #: ../../install.rst:125
 msgid "**Mail:** check this box to install the `Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_ email client."
 msgstr ""
 
 # 92862aafb5cb407a826640fed3bad5ab
+#: ../../install.rst:128
 #: ../../install.rst:127
 msgid "**MediaCenter:** if you expand the ► you can select to install `KODI <http://kodi.tv/>`_ and `PlexHome Theater <https://plex.tv/>`_."
 msgstr ""
 
 # 375981c5dfcf4c88ab372f61a6e92d8b
+#: ../../install.rst:130
 #: ../../install.rst:129
 msgid "**Net:** check this box to install the `KRDC <https://www.kde.org/applications/internet/krdc/>`_ remote desktop client."
 msgstr ""
 
 # 2e738226f2304cdaac8f21fc71790fae
+#: ../../install.rst:132
 #: ../../install.rst:131
 msgid "**Net-IM:** check this box to install the `Pidgin <http://www.pidgin.im/>`_ IRC client."
 msgstr ""
 
 # 865cf49c53154b91abc6db78a3987b04
+#: ../../install.rst:134
 #: ../../install.rst:133
 msgid "**Roles:** if you expand the ► you can select to install the following installation roles: \"Development\", \"Internet\", \"Media\", and \"Office and Productivity\"."
 msgstr ""
 
 # 39bb25f8d5a7426498f1877067c9539c
+#: ../../install.rst:137
 #: ../../install.rst:136
 msgid "**Security:** check this box to install the `OpenVPN <https://openvpn.net/index.php/open-source.html>`_ VPN client."
 msgstr ""
 
 # 8b03bea8404346ff932b76939feba224
+#: ../../install.rst:139
 #: ../../install.rst:138
 msgid "**SysUtils:** check this box to install the `PySalt <http://saltstack.com/community/>`_ distributed remote execution and configuration management system."
 msgstr ""
 
 # ed29c20b80534cf0aebc40fee547a8bc
+#: ../../install.rst:142
 #: ../../install.rst:141
 msgid "**Virtualization:** if you expand the ► you can install `VirtualBox Guest Additions <https://www.virtualbox.org/>`_ and `VMwareGuest <http://open-vm-tools.sourceforge.net/about.php>`_."
 msgstr ""
 
 # b0aad05dd9c94ddaaa3a994cd5df73ae
+#: ../../install.rst:145
 #: ../../install.rst:144
 msgid "**Web:** if you expand the ► you can select to install the `Chromium <http://www.chromium.org/>`_ and `Firefox <https://www.mozilla.org/en-US/firefox/new/>`_ web browsers. By default, Firefox is selected."
 msgstr ""
 
 # bf0b7afeabe94df383fd04fc3c097039
+#: ../../install.rst:148
 #: ../../install.rst:147
 msgid "Once you have made your selection(s), click the \"Save\" button to save your selections. The \"PC-BSD Package Selection\" box will list the components that you selected for installation. You can now click the \"Next\" button to proceed to the next screen."
 msgstr ""
 
 # d587d7ceaea842ddbb5de282f7d06298
+#: ../../install.rst:151
 #: ../../install.rst:150
 msgid "if you are installing a desktop, the installer will display a pop-up message if it cannot find a physical or virtual disk that does not meet the recommended minimum size of 50GB. It will let you continue an installation on a smaller disk, but you may run into disk space issues on smaller disks."
 msgstr ""
 
 # 55c3bc80c18944be95b5a8d47951f2ca
+#: ../../install.rst:158
 #: ../../install.rst:157
 msgid "Disk Selection Screen"
 msgstr ""
 
-# e10cfdeb7036478caad7589b51775b0f
-#: ../../install.rst:159
-msgid "The \"Disk Selection\" screen, seen in Figure 3.3a, summarizes the default disk configuration."
-msgstr ""
-
-# 07047f63b5b34ef4b42397c937c405c6
-#: ../../install.rst:161
-msgid "**Figure 3.3a: Disk Selection Screen**"
+#: ../../install.rst:160
+msgid "The \"Disk Selection\" screen, seen in :numref:`Figure %s: Disk Selection Screen <install5a>`, summarizes the default disk configuration."
 msgstr ""
 
 # d9e9a2a10cc24e81b72f56c8ad67d956
+#: ../../install.rst:166
 #: ../../install.rst:165
 msgid "by default, PC-BSD® will assume that you wish to install on the entire first disk. If you are installing PC-BSD® as the only operating system on your computer, simply click \"Next\" to start the installation. However, if this is not your intent, review the rest of this section to determine how to layout your disk. If you plan on booting PC-BSD® with another operating system, you should also review the section on :ref:`Dual Booting`."
 msgstr ""
 
-# a6c2fa5832c64089a71c8d1031feb5ec
-#: ../../install.rst:169
-msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in Figure 3.3b."
-msgstr ""
-
-# 2cb179bbb2aa4fe59fbf210662061927
-#: ../../install.rst:171
-msgid "**Figure 3.3b: Disk Setup Wizard**"
+#: ../../install.rst:170
+msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in :numref:`Figure %s: Disk Setup Wizard <install6>`."
 msgstr ""
 
 # ce64fa4b0ce34bd8bba2614963481b43
+#: ../../install.rst:176
 #: ../../install.rst:175
 msgid "The wizard provides three modes of operation. The rest of this section describes these modes in detail."
 msgstr ""
 
 # 075b1452f9564218b3b5fd391a5127e9
+#: ../../install.rst:178
 #: ../../install.rst:177
 msgid "**Basic:** (default) select this mode if you wish to specify which partition or disk to install to."
 msgstr ""
 
 # 36922f1dbc984446b5c101099140d506
+#: ../../install.rst:180
 #: ../../install.rst:179
 msgid "**Advanced:** select this mode if you wish to specify the installation partition or disk, use GPT partitioning, use a UEFI BIOS, force the block size, change the default ZFS pool name, specify the filesystem layout, add a log or cache device, or encrypt the disk."
 msgstr ""
 
 # 5aa6c45dc88640d581c7ea3dd5a63498
+#: ../../install.rst:183
 #: ../../install.rst:182
 msgid "**FreeBSD Expert:** select this mode if you prefer to drop down to a shell to manually enter the commands to setup your disk."
 msgstr ""
 
 # b3f4bf0a04754d3b9d02c6a734be4f32
+#: ../../install.rst:185
 #: ../../install.rst:184
 msgid "regardless of the mode that you select, once the disk wizard completes and you click \"Next\" at the disk \"Summary\" screen, a pop-up window will ask if you would like to start the installation. Be sure to review the disk summary before clicking \"Yes\" and starting the installation. The disk \"Summary\" screen is your **very last chance** to make sure that you are ready. Once you click \"Yes\", the selected hard drive or partition will be formatted and any data it contains will be lost."
 msgstr ""
 
 # 36a183160878429fbabc4505131b0a6f
+#: ../../install.rst:190
 #: ../../install.rst:189
 msgid "Once you have finished configuring your disks, you can save the finished configuration to re-use it at a later time. Insert a FAT-formatted USB stick and click \"Save Config to USB\"."
 msgstr ""
 
 # 1e9c9b171b334b9a891068d4a33228e0
+#: ../../install.rst:197
 #: ../../install.rst:196
 msgid "Basic Mode"
 msgstr ""
 
-# ee41b49dfdb64925897f53ba21cf03ad
-#: ../../install.rst:198
-msgid "If you select \"Basic\" mode, the wizard will display the screen shown in Figure 3.3c."
-msgstr ""
-
-# 08f3af29561a462089ed7748d4c6175c
-#: ../../install.rst:200
-msgid "**Figure 3.3c: Select a Disk or Partition**"
+#: ../../install.rst:199
+msgid "If you select \"Basic\" mode, the wizard will display the screen shown in :numref:`Figure %s: Select a Disk or Partition <install7>`."
 msgstr ""
 
 # 3da7d93e8bb54f7c90a1990c470b6ce4
+#: ../../install.rst:205
 #: ../../install.rst:204
 msgid "By default, the first hard disk will be selected. If you wish to install on a different disk, use the \"Selected Disk\" drop-down menu to select the disk to install into."
 msgstr ""
 
 # e81e94e30e1a4baa8b2030c9ca50ad43
+#: ../../install.rst:208
 #: ../../install.rst:207
 msgid "By default, the entire selected disk will be formatted. If the disk has been divided into partitions or you have an area of free space, use the \"Selected Partition\" drop-down menu to select the desired partition."
 msgstr ""
 
 # b14c80a9734b4247a50a19f5441b0a70
 # a37e813824c54e03aeb8e2eca897d1db
+#: ../../install.rst:211
+#: ../../install.rst:236
 #: ../../install.rst:210
 #: ../../install.rst:235
 msgid "PC-BSD® will only install into a primary partition, a GPT partition, or an area of free space. That is, you can not install PC-BSD® into a secondary or an extended partition. If you wish to create an area of free space to install into, refer to :ref:`Creating Free Space` for instructions."
 msgstr ""
 
 # 055d5fdfd2944efab44603d5a0a504e9
+#: ../../install.rst:214
 #: ../../install.rst:213
 msgid "Once you have selected the disk and partition, click \"Next\" to return to the disk \"Summary\" screen so that you can review your selections. If you wish to change anything, use the \"Back\" button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard. Click \"Next\" then \"Yes\" to start the installation."
 msgstr ""
 
 # aa14fe31bcd64656b225eb190a349147
+#: ../../install.rst:222
 #: ../../install.rst:221
 msgid "Advanced Mode"
 msgstr ""
 
-# c8163fabf1644269937d7777fa01e438
-#: ../../install.rst:223
-msgid "If you select advanced mode, the wizard will display the screen shown in Figure 3.3d."
-msgstr ""
-
-# eb6829b8958844afba814bcf6b1ef5e1
-#: ../../install.rst:225
-msgid "**Figure 3.3d: Advanced Mode Options**"
+#: ../../install.rst:224
+msgid "If you select advanced mode, the wizard will display the screen shown in :numref:`Figure %s: Advanced Mode Options <install8a>`."
 msgstr ""
 
 # 8e90c13aa85b4aa581537f049adcba5d
+#: ../../install.rst:230
 #: ../../install.rst:229
 msgid "This screen provides the following options:"
 msgstr ""
 
 # 099807fcfa1244fbbf969efd895478d2
+#: ../../install.rst:232
 #: ../../install.rst:231
 msgid "**Selected Disk:** select the disk to install into."
 msgstr ""
 
 # 208f8d78c44445d18ee7bc3d23517340
+#: ../../install.rst:234
 #: ../../install.rst:233
 msgid "**Selected Partition:** select the desired partition or area of free space."
 msgstr ""
 
 # 8ef30cf85193424599e2b8a621ee4141
+#: ../../install.rst:239
 #: ../../install.rst:238
 msgid "**Partition Scheme:**  the default of \"GPT (Best for new hardware)\" is a partition table layout that supports larger partition sizes than the traditional \"MBR (Legacy)\" layout. **If your installation disk/partition is larger than 2 TB, this option must be selected**. Some older motherboards do not support this option. If the installation fails, try again with \"MBR (Legacy)\" selected. When in doubt, try the default selection first. Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
 msgstr ""
 
 # f96f616c92104ec3984ef15a8a11e6c7
+#: ../../install.rst:244
 #: ../../install.rst:243
 msgid "**Target Installation:** when installing to non-UEFI systems, keep the default selection of \"BIOS (Legacy motherboards)\". If the hardware supports UEFI, change the selection to \"UEFI (Modern motherboards)\". Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
 msgstr ""
 
 # 919ab83f48be4dfb82cb17ea5594f09c
+#: ../../install.rst:248
 #: ../../install.rst:247
 msgid "**Force ZFS 4k block size:** this option should only be checked if you know for sure that the disk supports 4k, even though it lies and reports its size as 512b. Use with caution as it may cause the installation to fail."
 msgstr ""
 
 # 412e886f44554e2ababf087b2db340e2
+#: ../../install.rst:251
 #: ../../install.rst:250
 msgid "**ZFS pool name:** if you wish to use a pool name other than the default of *tank*, check this box and input the name of the pool."
 msgstr ""
 
 # 615b27cb7c1f4681b763ee7b247cc139
+#: ../../install.rst:253
 #: ../../install.rst:252
 msgid "After making your selections click \"Next\" to access the ZFS configuration screens. The rest of this section provides a ZFS overview and demonstrates how to customize the ZFS layout. Note that *root* is a reserved term and can not be used as a pool name."
 msgstr ""
 
 # d7356b0833d34073877f7cb692b0823f
+#: ../../install.rst:260
 #: ../../install.rst:259
 msgid "ZFS Overview"
 msgstr ""
 
 # 80e4c4a3da994734806573da68887fb9
+#: ../../install.rst:262
 #: ../../install.rst:261
 msgid "ZFS is an enterprise grade file-system, which provides many features including: support for high storage capacities, high reliability, the ability to quickly take snapshots, boot environments, continuous integrity checking and automatic repair, RAIDZ which was designed to overcome the limitations of hardware RAID, and native NFSv4 ACLs."
 msgstr ""
 
 # 286beeaeb1e746ce9256578dc42bbb1c
+#: ../../install.rst:266
 #: ../../install.rst:265
 msgid "If you are new to ZFS, the `Wikipedia entry on ZFS <https://en.wikipedia.org/wiki/ZFS>`_ provides an excellent starting point to learn about its features. Additionally, `FreeBSD Mastery: ZFS <http://zfsbook.com>`_ by Michael W Lucas and Allan Jude is a very helpful resource and is more specific to ZFS as it is implemented in FreeBSD."
 msgstr ""
 
 # 81d4f7f4809b4616b60d05d50b553a65
+#: ../../install.rst:268
 #: ../../install.rst:267
 msgid "These resources are also useful to bookmark and refer to as needed:"
 msgstr ""
 
 # 266a11f43639467082a82d60d6628b7d
+#: ../../install.rst:270
 #: ../../install.rst:269
 msgid "`ZFS Evil Tuning Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Evil_Tuning_Guide>`_"
 msgstr ""
 
 # ea9a44b3b5df4fa3a2ac82b00a41279e
+#: ../../install.rst:272
 #: ../../install.rst:271
 msgid "`FreeBSD ZFS Tuning Guide <https://wiki.FreeBSD.org/ZFSTuningGuide>`_"
 msgstr ""
 
 # 3c7bace78cff445181d13a4d237ca91f
+#: ../../install.rst:274
 #: ../../install.rst:273
 msgid "`ZFS Best Practices Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide>`_"
 msgstr ""
 
 # ea403fca10164ca0912cc334ed51350b
+#: ../../install.rst:276
 #: ../../install.rst:275
 msgid "`ZFS Administration Guide <http://docs.oracle.com/cd/E19253-01/819-5461/index.html>`_"
 msgstr ""
 
 # 69256307d8a546f8ae4da732ea401e2c
+#: ../../install.rst:278
 #: ../../install.rst:277
 msgid "`Becoming a ZFS Ninja (video) <https://blogs.oracle.com/video/entry/becoming_a_zfs_ninja>`_"
 msgstr ""
 
 # 0dfd72b97de9466e99efc10f4a0064aa
+#: ../../install.rst:280
 #: ../../install.rst:279
 msgid "`blog post explaining how ZFS simplifies the storage stack <https://blogs.oracle.com/bonwick/entry/rampant_layering_violation>`_"
 msgstr ""
 
 # f2f621d77a6940c192cda1912a073a5a
+#: ../../install.rst:282
 #: ../../install.rst:281
 msgid "The following is a glossary of terms used by ZFS:"
 msgstr ""
 
 # a1ee5f32faca48458aad2e3c799dd034
+#: ../../install.rst:284
 #: ../../install.rst:283
 msgid "**Pool:** a collection of devices that provides physical storage and data replication managed by ZFS. This pooled storage model eliminates the concept of volumes and the associated problems of partitions, provisioning, wasted bandwidth, and stranded storage. Thousands of filesystems can draw from a common storage pool, each one consuming only as much space as it actually needs. The combined I/O bandwidth of all devices in the pool is available to all filesystems at all times. The `Storage Pools Recommendations <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide#ZFS_Storage_Pools_Recommendations>`_ of the ZFS Best Practices Guide provides detailed recommendations for creating the storage pool."
 msgstr ""
 
 # bb1d64e0ad5545fe89a492cb59d7c2f9
+#: ../../install.rst:291
 #: ../../install.rst:290
 msgid "**Mirror:** a form of RAID where all data is mirrored onto two or more disks, creating a redundant copy should a disk fail."
 msgstr ""
 
 # 3ba777b6081443378466ceac930f6102
+#: ../../install.rst:293
 #: ../../install.rst:292
 msgid "**RAIDZ:** ZFS software solution that is equivalent to RAID5 in that it allows one disk to fail without losing data. Requires a minimum of 3 disks."
 msgstr ""
 
 # def3339654954beca827211e8c6807c6
+#: ../../install.rst:295
 #: ../../install.rst:294
 msgid "**RAIDZ2:** double-parity ZFS software solution that is similar to RAID6 in that it allows two disks to fail without losing data. Requires a minimum of 4 disks."
 msgstr ""
 
 # 6fc2a242e3fa4ed694c3451acd211bdd
+#: ../../install.rst:298
 #: ../../install.rst:297
 msgid "**RAIDZ3:** triple-parity ZFS software solution. RAIDZ3 offers three parity drives and can operate in degraded mode if up to three drives fail with no restrictions on which drives can fail."
 msgstr ""
 
 # 4e29b62014b14f5fa2cd577e391062be
+#: ../../install.rst:301
 #: ../../install.rst:300
 msgid "**Dataset:** once a pool is created, it can be divided into datasets. A dataset is similar to a folder in that it supports permissions. A dataset is also similar to a filesystem in that you can set properties such as quotas and compression."
 msgstr ""
 
 # e160401dd07d4bf99a34cc8a3a7e4a74
+#: ../../install.rst:304
 #: ../../install.rst:303
 msgid "**Snapshot:** a read-only point-in-time copy of a filesystem. Snapshots can be created quickly and, if little data changes, new snapshots take up very little space. For example, a snapshot where no files have changed takes 0MB of storage, but if you change a 10GB file it will keep a copy of both the old and the new 10GB version. Snapshots provide a clever way of keeping a history of files, should you need to recover an older copy or even a deleted file. For this reason, many administrators take snapshots often (e.g. every 15 minutes), store them for a period of time (e.g. for a month), and store them on another system. Such a strategy allows the administrator to roll the system back to a specific time or, if there is a catastrophic loss, an off-site snapshot can restore the system up to the last snapshot interval (e.g. within 15 minutes of the data loss). Snapshots can be cloned or rolled back, but the files on the snapshot can not be accessed independently."
 msgstr ""
 
 # 3bf3c7f7942d430aa0eb1ea131539669
+#: ../../install.rst:312
 #: ../../install.rst:311
 msgid "**Clone:** a writable copy of a snapshot which can only be created on the same ZFS volume. Clones provide an extremely space-efficient way to store many copies of mostly-shared data such as workspaces, software installations, and diskless clients. Clones do not inherit the properties of the parent dataset, but rather inherit the properties based on where the clone is created in the ZFS pool. Because a clone initially shares all its disk space with the original snapshot, its used property is initially zero. As changes are made to the clone, it uses more space."
 msgstr ""
 
 # bff15fced9f641dc9e60b67f70da5621
+#: ../../install.rst:317
 #: ../../install.rst:316
 msgid "**ZIL:** is effectively a filesystem journal that manages writes. The ZIL is a temporary storage area for sync writes until they are written asynchronously to the ZFS pool. If the system has many sync writes, such as from a database server, performance can be increased by adding a dedicated log device known as a SLOG (Secondary LOG). If the system has few sync writes, a SLOG will not speed up writes. When creating a dedicated log device, it is recommended to use a fast SSD with a supercapacitor or a bank of capacitors that can handle writing the contents of the SSD's RAM to the SSD. If you decide to create a dedicated log device, the SSD should be half the size of system RAM as anything larger than that is unused capacity. Note that a dedicated log device can not be shared between ZFS pools and that the same device cannot hold both a log and a cache device."
 msgstr ""
 
 # 085d299ccfed4b89807b95d5764a3d5a
+#: ../../install.rst:324
 #: ../../install.rst:323
 msgid "**L2ARC:** ZFS uses a RAM cache to reduce read latency. If an SSD is dedicated as a cache device, it is known as an L2ARC and ZFS uses it to store more reads which can increase random read performance. However, adding a cache device will not improve a system with too little RAM and will actually decrease performance as ZFS uses RAM to track the contents of L2ARC. RAM is always faster than disks, so always add as much RAM as possible before determining if the system would benefit from a L2ARC device. If you have a lot of applications that do large amounts of random reads on a dataset small enough to fit into the L2ARC, read performance may be increased by adding a dedicated cache device. SSD cache devices only help if your working set is larger than system RAM, but small enough that a significant percentage of it will fit on the SSD. Note that a dedicated L2ARC device can not be shared between ZFS pools."
 msgstr ""
 
 # eb03d0fc8d5b47e2b84c9b523e6aaf8f
+#: ../../install.rst:335
 #: ../../install.rst:334
 msgid "ZFS Layout"
 msgstr ""
 
-# c753f5c99c6a44c8959ef1e1c4668fa7
-#: ../../install.rst:336
-msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in Figure 3.3e."
-msgstr ""
-
-# b830992d368a42fd9d637264d31b141f
-#: ../../install.rst:338
-msgid "**Figure 3.3e: ZFS Configuration**"
+#: ../../install.rst:337
+msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in :numref:`Figure %s: ZFS Configuration <install9a>`."
 msgstr ""
 
 # 26794785b385484cad3727f9ab96ca9f
+#: ../../install.rst:343
 #: ../../install.rst:342
 msgid "If your system contains multiple drives and you would like to use them to create a ZFS mirror or RAIDZ*, check the box \"Add additional disks to zpool\" which will enable this screen. Any available disks will be listed in the box below the \"ZFS Virtual Device Mode\" drop-down menu. Select the desired level of redundancy, then the desired number of disks."
 msgstr ""
 
 # 8d3f5ed8d265494fadc8a91662e553fb
+#: ../../install.rst:347
 #: ../../install.rst:346
 msgid "the PC-BSD® installer requires you to use entire disks (not partitions) when adding additional disks to the pool."
 msgstr ""
 
 # 8c857aeeedb743149a82026e1878e4f3
+#: ../../install.rst:349
 #: ../../install.rst:348
 msgid "While ZFS will let you use disks of different sizes, this is discouraged as it will decrease storage capacity and ZFS performance."
 msgstr ""
 
 # bbe89d0f7d504c31bdd89122fe12c100
+#: ../../install.rst:351
 #: ../../install.rst:350
 msgid "The PC-BSD® installer supports the following ZFS configurations:"
 msgstr ""
 
 # e225c7862e4e48bbbefd8606e8deee21
+#: ../../install.rst:353
 #: ../../install.rst:352
 msgid "**mirror:** requires a minimum of 2 disks."
 msgstr ""
 
 # a929479710284c5d9b360b5148dc03ac
+#: ../../install.rst:355
 #: ../../install.rst:354
 msgid "**RAIDZ1:** requires a minimum of 3 disks. For best performance, a maximum of 9 disks is recommended."
 msgstr ""
 
 # 338f163bd43d4145bd7e7e1ae0babf4d
+#: ../../install.rst:357
 #: ../../install.rst:356
 msgid "**RAIDZ2:** requires a minimum of 4 disks. For best performance, a maximum of 10 disks is recommended."
 msgstr ""
 
 # 3fc7505176ef406ab750b4980b29d3bf
+#: ../../install.rst:359
 #: ../../install.rst:358
 msgid "**RAIDZ3:** requires a minimum of 5 disks. For best performance, a maximum of 11 disks is recommended."
 msgstr ""
 
 # 0620d93b4999468395556672e0415752
+#: ../../install.rst:361
 #: ../../install.rst:360
 msgid "**stripe:** requires a minimum of 2 disks. **Note that a stripe does NOT provide ANY redundancy. If any disk fails in a stripe, all data in the pool is lost!**"
 msgstr ""
 
 # ce710e326ec142d1b48b1019ce13318a
+#: ../../install.rst:364
 #: ../../install.rst:363
 msgid "The installer will not let you save a configuration if your system does not meet the minimum number of disks required by that configuration. As you select a configuration, a message will indicate how many more disks you need to select."
 msgstr ""
 
-# 0ac32d2aa69846388484ac6a3df15e7c
-#: ../../install.rst:366
-msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in Figure 3.3f."
+#: ../../install.rst:367
+msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in :numref:`Figure %s: Add L2ARC or ZIL <install10a>`."
 msgstr ""
 
-# 0dd723b242b444abaf11f5d1adc5ff68
-#: ../../install.rst:369
-msgid "**Figure 3.3f: Add L2ARC or ZIL**"
-msgstr ""
-
-# 0a72b294884140e795830c85822fa17b
-#: ../../install.rst:373
-msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in Figure 3.3g."
-msgstr ""
-
-# 160c901a94174026ab83f4055b09c0d5
-#: ../../install.rst:377
-msgid "**Figure 3.3g: Configure Encryption**"
+#: ../../install.rst:374
+msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in :numref:`Figure %s: Configure Encryption <install11a>`."
 msgstr ""
 
 # aa940af353744107a05ed26f92c8c38d
+#: ../../install.rst:382
 #: ../../install.rst:381
 msgid "This screen can be used to configure full-disk encryption which is meant to protect the data on the disks should the system itself be lost or stolen. This type of encryption prevents the data on the disks from being available during bootup, unless the correct passphrase is typed at the bootup screen. Once the passphrase is accepted, the data is unencrypted and can easily be read from disk."
 msgstr ""
 
 # 52cc9ae6d5cd4842b22540ec237a2afd
+#: ../../install.rst:386
 #: ../../install.rst:385
 msgid "To configure full disk encryption, check the box \"Encrypt disk with GELI\". This option will be greyed out if \"GPT (Best for new hardware)\" is not selected as GELI does not support MBR partitioning at this time. If needed, use the \"Back\" button to go back to the :ref:`Advanced Mode` screen and select the option \"GPT (Best for new hardware)\". Once the \"Encrypt disk with GELI\" box is checked, input a good passphrase twice into the \"Password\" fields. This password should be long and something that you will not forget, but hard for other users, especially those who know you, to guess."
 msgstr ""
 
 # 71aa2f89d7464209b7413168180e7a17
+#: ../../install.rst:391
 #: ../../install.rst:390
 msgid "if you ever forget this passphrase, you will be unable to decrypt the disks and will lose access to their data!"
 msgstr ""
 
-# 4b13cecc7a7b44239c048c9298f25688
-#: ../../install.rst:392
-msgid "When finished, click \"Next\" to move on the screen shown in Figure 3.3h."
-msgstr ""
-
-# 7eb38e22ba1d4007a17ddad0070cae4d
-#: ../../install.rst:394
-msgid "**Figure 3.3h: Default ZFS Layout**"
+#: ../../install.rst:393
+msgid "When finished, click \"Next\" to move on the screen shown in :numref:`Figure %s: Default ZFS Layout <install12a>`."
 msgstr ""
 
 # 76ddc058d9e54e06884118533f1ef283
+#: ../../install.rst:399
 #: ../../install.rst:398
 msgid "Regardless of how many disks you selected for your ZFS configuration, the default layout will be the same. ZFS does not require separate partitions for :file:`/usr`, :file:`/tmp`, or :file:`/var`. Instead, you create one ZFS partition (pool) and specify a mount for each dataset. A :file:`/boot` partition is not mandatory with ZFS as the PC-BSD® installer puts a 64k partition at the beginning of the drive."
 msgstr ""
 
 # 923747a428d0429daee29163adfb8469
+#: ../../install.rst:403
 #: ../../install.rst:402
 msgid "**do not remove any of the default mount points** as they are used by PC-BSD®."
 msgstr ""
 
 # 96d0f7188afc4271a5d3e51dc8b8315c
+#: ../../install.rst:405
 #: ../../install.rst:404
 msgid "You can use the \"Add\" button to add additional mount points. You will only be prompted for the name of the mount point as size is not limited at creation time. Instead, the data on any mount point can continue to grow as long as space remains within the ZFS pool."
 msgstr ""
 
 # 20e2fb59624c454cb77a0078c0cca113
+#: ../../install.rst:408
 #: ../../install.rst:407
 msgid "If you wish to set the swap size, click the \"Swap Size\" button. This will prompt you to enter a size in MB. If you have created a RAIDZ or mirror, a swap partition of the specified size will be created on each disk and mirrored between the drives. For example, if you specify a 2048MB swap size, a 2GB swap partition will be created on all of the specified disks, yet the total swap size will be 2GB, due to redundancy."
 msgstr ""
 
 # 7341a4c4d23545d29a416254a5fd7e13
+#: ../../install.rst:412
 #: ../../install.rst:411
 msgid "If you right-click any mount point, you can toggle between enabling or disabling any of the following ZFS properties."
 msgstr ""
 
 # e42677b3a8f34d3b97aef35993e09c3e
+#: ../../install.rst:414
 #: ../../install.rst:413
 msgid "**atime:** when set to \"on\", controls whether the access time for files is updated when they are read. When set to \"off\", this property avoids producing write traffic when reading files and can result in significant performance gains, though it might confuse mailers and some other utilities."
 msgstr ""
 
 # ae174e9acf6c4807b17b53f18ff8eb3f
+#: ../../install.rst:417
 #: ../../install.rst:416
 msgid "**canmount:** if set to \"off\", the filesystem can not be mounted."
 msgstr ""
 
 # d201ed32552d4b4bb6e194856dc5aa3b
+#: ../../install.rst:419
 #: ../../install.rst:418
 msgid "**checksum:** automatically verifies the integrity of the data stored on disks. **Setting this property to \"off\" is highly discouraged.**"
 msgstr ""
 
 # 2c014b038c364fc7a184180a70030c8e
+#: ../../install.rst:422
 #: ../../install.rst:421
 msgid "**compression:** if set to \"on\", automatically compresses stored data to conserve disk space."
 msgstr ""
 
 # 7cf2daddb36f43918b17505dbf7a9f54
+#: ../../install.rst:424
 #: ../../install.rst:423
 msgid "**exec:** if set to \"off\", processes can not be executed from within this filesystem."
 msgstr ""
 
 # 41cb29ed67464cd58f1da2b0ac3deb7b
+#: ../../install.rst:426
 #: ../../install.rst:425
 msgid "**setuid:** if set to \"on\", the set-UID bit is respected."
 msgstr ""
 
 # a55d766d23374e7a9e9ff0b5223262fc
+#: ../../install.rst:428
 #: ../../install.rst:427
 msgid "Once you click \"Next\", the wizard will show a summary of your selections. If you wish to change anything, use the “Back” button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
 
 # 77024098cab54ed2ba20cdadda890685
+#: ../../install.rst:435
 #: ../../install.rst:434
 msgid "FreeBSD Expert Mode"
 msgstr ""
 
 # 8bd111537e4047e48d78d0ca57e19daf
+#: ../../install.rst:437
 #: ../../install.rst:436
 msgid "If you select FreeBSD expert mode, you will be prompted to launch a terminal where you can use command line utilities such as :command:`bsdinstall` to manually configure the partitions. When you are finished, type :command:`exit` to leave the terminal, then click \"Next\" to review the disk summary. If you wish to change anything, use the \"Back\" button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
 
 # 63dd51897849402cbb2771e8e742c02c
+#: ../../install.rst:446
 #: ../../install.rst:445
 msgid "Installation Progress Screen"
 msgstr ""
 
-# 799b50f3c4bd4392a71428fce67d28b1
-#: ../../install.rst:447
-msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in Figure 3.4a, provides a progress bar and messages so that you can watch the installation's progress."
-msgstr ""
-
-# a6024f82177c4258b07155607bcbd4b2
-#: ../../install.rst:450
-msgid "**Figure 3.4a: Installation Progress Screen**"
+#: ../../install.rst:448
+msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in :numref:`Figure %s: nstallation Progress Screen <install13a>`, provides a progress bar and messages so that you can watch the installation's progress."
 msgstr ""
 
 # 8d0ec8db274446a0b92cf16fb2d62e53
+#: ../../install.rst:455
 #: ../../install.rst:454
 msgid "How long the installation takes depends upon the speed of your hardware, the installation type you selected, and the number of components to be installed. A typical installation takes between 15 and 30 minutes."
 msgstr ""
 
 # dbc806b682f241439eb04a6231c43612
+#: ../../install.rst:462
 #: ../../install.rst:461
 msgid "Installation Finished Screen"
 msgstr ""
 
-# f4045a0ff77646bfada004c7f9ea1424
-#: ../../install.rst:463
-msgid "The screen shown in Figure 3.5a appears once the installation is complete."
-msgstr ""
-
-# f5be26a0d5ba4580963ebf69d7ca7d9f
-#: ../../install.rst:465
-msgid "**Figure 3.5a: PC-BSD® Installation is Now Complete**"
+#: ../../install.rst:464
+msgid "The screen shown in :numref:`Figure %s: PC-BSD® Installation is Now Complete <install14a>` appears once the installation is complete."
 msgstr ""
 
 # 6ca086b4f3514190add67b7c550f6d10
+#: ../../install.rst:470
 #: ../../install.rst:469
 msgid "Click the \"Finish\" button to reboot into your PC-BSD® installation. Wait until the installer exits before removing the installation media."
-msgstr ""
-
-# 66511035d9894e87baa7d6deca2fe578
-# 2d1970fedfd3460ca6aa8b95674d716a
-# b5f3295eecde4807a27e77a495d129f5
-# 129d3bcd89124e308bfa916016329bc4
-# 567658cfbafe4c60afc5b91027fa0b5b
-# 16e7031ab490428f8778ab6b3d014f36
-# 538221b506ec4675b0fe9ff2d4a340f1
-# 3e6b8713fc744cd698b14087fd282ba8
-#: ../../install.rst:1
-#: ../../install.rst:25
-#: ../../install.rst:75
-#: ../../install.rst:153
-#: ../../install.rst:192
-#: ../../install.rst:217
-#: ../../install.rst:441
-#: ../../install.rst:457
-msgid "installation"
-msgstr ""
-
-# 1ec67b936a934bd4931949dfd403bc17
-# 314c28cb8c23461eba096eef0a6360aa
-#: ../../install.rst:255
-#: ../../install.rst:330
-msgid "ZFS"
-msgstr ""
-
-# 01a22082d5d94aa1b1226a4d575ca6a2
-#: ../../install.rst:430
-msgid "install"
 msgstr ""

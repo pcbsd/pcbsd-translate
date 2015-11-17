@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1009,24 +1009,4 @@ msgstr ""
 # 4364f5cd5ab4463ba7834de4672b4975
 #: ../../introduction.rst:358
 msgid "`A Sysadmin's Unixersal Translator (ROSETTA STONE) <http://bhami.com/rosetta.html>`_"
-msgstr ""
-
-# 26687492a6dd41f1841ad1fefa6c0e4d
-#: ../../introduction.rst:109
-msgid "features"
-msgstr ""
-
-# d7386532894e440f87b8e4a7b9cbc8d5
-#: ../../introduction.rst:150
-msgid "What's New"
-msgstr ""
-
-# e83ffba0275e4feb9172b941ca9fa7ce
-#: ../../introduction.rst:225
-msgid "filesystems"
-msgstr ""
-
-# b9fb0888de6441e3a875da6565b491fc
-#: ../../introduction.rst:278
-msgid "devices"
 msgstr ""

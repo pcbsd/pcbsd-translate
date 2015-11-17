@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"POT-Creation-Date: 2015-11-17 11:17-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -274,713 +274,607 @@ msgstr ""
 msgid "**before** shrinking a partition, make sure that you first back up your valuable data to an external media such as a removable USB drive!"
 msgstr ""
 
-# 8db771dc7a894dcc88dd08d80903e814
 #: ../../preinstall.rst:176
-msgid "To shrink the drive, open Computer Management and click :menuselection:`Storage --> Disk Management`. In the example shown in Figure 2.3a, the Windows system has three partitions: a 16GB recovery partition, a 100MB system partition, and a 450GB data partition."
+msgid "To shrink the drive, open Computer Management and click :menuselection:`Storage --> Disk Management`. In the example shown in :numref:`Figure %s: Viewing Disk Layout in Disk Management <partition1>`, the Windows system has three partitions: a 16GB recovery partition, a 100MB system partition, and a 450GB data partition."
 msgstr ""
 
-# 195338bd23d945e4a3cc6c7e4c994f12
-#: ../../preinstall.rst:179
-msgid "**Figure 2.3a: Viewing Disk Layout in Disk Management**"
+#: ../../preinstall.rst:184
+msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, in this example it is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
 msgstr ""
 
-# 4a6de92a16ef4fd1ab4e62aa7d3307ee
-#: ../../preinstall.rst:183
-msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, in this example it is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in Figure 2.3b."
-msgstr ""
-
-# 8babe3f442dd4db1bd94e4e8b477bb7a
-#: ../../preinstall.rst:187
-msgid "**Figure 2.3b: Available Shrink Space**"
-msgstr ""
-
-# 9adc7937e0a6496981a7e71676083d54
-#: ../../preinstall.rst:191
-msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in Figure 2.3c."
-msgstr ""
-
-# 5b4b8570ead14ba38aee529d3983c0d9
-#: ../../preinstall.rst:194
-msgid "**Figure 2.3c: Disk Now Has Free Space**"
+#: ../../preinstall.rst:192
+msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in :numref:`Figure %s: Disk Now Has Free Space <shrink2>`."
 msgstr ""
 
 # c434221d1bef448ca4375e118fa9b440
+#: ../../preinstall.rst:199
 #: ../../preinstall.rst:198
 msgid "it is important that you **do not** choose to install PC-BSD® into any of the three Windows partitions when you get to the :ref:`Disk Selection Screen` of the installer. It is a good idea to write down the sizes of all of the partitions so that you will recognize the free space when the PC-BSD® installer displays your current partitions."
 msgstr ""
 
 # dbdf069cf38c48d0bf5056473952ecdc
+#: ../../preinstall.rst:206
 #: ../../preinstall.rst:205
 msgid "Obtaining PC-BSD®"
 msgstr ""
 
 # d7348ee5a70646a89c80c450960c465d
+#: ../../preinstall.rst:208
 #: ../../preinstall.rst:207
 msgid "PC-BSD® version numbers are similar to those used by FreeBSD. In addition, PC-BSD® provides two branches. The branch that you choose to install or upgrade to determines when you will receive updates as new features and drivers are added to the operating system. Downloadable image names include the version number, where |version| is the most recent version, and either the word :file:`RELEASE` or :file:`STABLE`, where:"
 msgstr ""
 
 # 232ae74ec07146928e405cffa4049e3e
+#: ../../preinstall.rst:212
 #: ../../preinstall.rst:211
 msgid "**RELEASE:** indicates that new drivers and features will not be added to the operating system until the next RELEASE version becomes available and the user upgrades to that new version. If reliability is more important to you than new features or drivers, use the RELEASE version."
 msgstr ""
 
 # 498e29da97244dd098ae8682a65764cc
+#: ../../preinstall.rst:215
 #: ../../preinstall.rst:214
 msgid "**STABLE:** around the 1st of each month, :ref:`Update Manager` will provide a patch which will update the operating system to include all of the new features and drivers. If you wish to have or test the latest features and drivers as they become available and can tolerate possible breakage caused by new features being available before the next RELEASE, use the STABLE version."
 msgstr ""
 
 # bae0b366101649119d03c1cb3763f4df
+#: ../../preinstall.rst:219
 #: ../../preinstall.rst:218
 msgid "The image files for the current RELEASE can be downloaded from the `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_. Previous RELEASE versions and STABLE versions can be downloaded from the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_."
 msgstr ""
 
 # a246f094363f4571865e5c2bb9a2b5ad
+#: ../../preinstall.rst:222
 #: ../../preinstall.rst:221
 msgid "Several types of files are available for download. Before downloading a file, review the following descriptions to see which one best suits your needs:"
 msgstr ""
 
 # 51e18b12cd9545dcba219a61d131dca5
+#: ../../preinstall.rst:224
 #: ../../preinstall.rst:223
 msgid "Files beginning with :file:`PCBSD` and ending in :file:`DVD-USB.iso` contain all of the information needed to install a graphical desktop or command-line server as well as several applications during installation. This type of file can either be burned to a DVD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
 msgstr ""
 
 # 913f18d9be174cb3bf732870c6ee8d83
+#: ../../preinstall.rst:230
 #: ../../preinstall.rst:229
 msgid "Files beginning with :file:`TrueOS` contain a command-line installer and are used to install a command-line version of a server. This type of file can either be burned to a CD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
 msgstr ""
 
 # 892ef246f4b247dcad2ad760b8adbaa6
+#: ../../preinstall.rst:236
 #: ../../preinstall.rst:235
 msgid "Files containing :file:`netinstall` in their name are used to perform a network install. These files can be burned to a CD, so are a smaller initial download size. However, they require an Internet connection during installation as the files needed by the installer will be downloaded from the Internet."
 msgstr ""
 
 # 388a714fb5d24d0fb4e262886c2348c2
+#: ../../preinstall.rst:239
 #: ../../preinstall.rst:238
 msgid "If you plan to install a graphical desktop, download the file with :file:`PCBSD` in its name and either burn it to a DVD media or write it to a removable USB device."
 msgstr ""
 
 # 06c31d6eca4c459b90c3e46d5d4804b2
+#: ../../preinstall.rst:242
 #: ../../preinstall.rst:241
 msgid "If you prefer to install a command-line only server, you can either download the same ISO or download the ISO with :file:`TRUEOS` in the name. The :file:`TRUEOS` download is smaller and can be burned to a CD or written to a removable USB device."
 msgstr ""
 
 # 3798d3611729458ca7ebb945a133cf6e
+#: ../../preinstall.rst:245
 #: ../../preinstall.rst:244
 msgid "Pre-installed virtual images are also available, making it easy to use or try out PC-BSD® in a virtual environment. Four types of images are available:"
 msgstr ""
 
 # 3f7c55260a644d2fab16fda71bfffb40
+#: ../../preinstall.rst:248
 #: ../../preinstall.rst:247
 msgid "Files ending in :file:`.ova` can be used in VirtualBox, as described in :ref:`Using the Downloadable .ova File`."
 msgstr ""
 
 # 1aa3927999c84a2b8575cb44a7b35574
+#: ../../preinstall.rst:250
 #: ../../preinstall.rst:249
 msgid "Files ending in :file:`.vdi.xz` can be used in Virtualbox, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 msgstr ""
 
 # 98364976acef417faf35b5bd49f79157
+#: ../../preinstall.rst:252
 #: ../../preinstall.rst:251
 msgid "Files ending in :file:`.vmdk.xz` can be used in VMware, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 msgstr ""
 
 # 4e349c09c7d946d08d2e3a8950a6200c
+#: ../../preinstall.rst:254
 #: ../../preinstall.rst:253
 msgid "Files ending in :file:`.raw.xz` can be used in Qemu and can also be converted to other virtual image formats."
 msgstr ""
 
 # 4ecae8a6623740f4a18ca30a7ac6cf0d
+#: ../../preinstall.rst:256
 #: ../../preinstall.rst:255
 msgid "When selecting a virtual image file, choose a format that matches your virtualization technology, and an edition that matches what you would like to use. The following editions are available:"
 msgstr ""
 
 # 533347be674146ed90e64c76326576e8
+#: ../../preinstall.rst:259
 #: ../../preinstall.rst:258
 msgid ":file:`consumer-desktop`: provides an installed version of PC-BSD® with the KDE and Fluxbox desktop environments."
 msgstr ""
 
 # 9a76e5c37a294c27af94f0464c6ac911
+#: ../../preinstall.rst:261
 #: ../../preinstall.rst:260
 msgid ":file:`trueos-server`: provides a pre-installed TrueOS® server that is command-line only."
 msgstr ""
 
 # 97ea2c288f0d4eddb37c04fd4a3ecae4
+#: ../../preinstall.rst:263
 #: ../../preinstall.rst:262
 msgid "If you downloaded an installation file, instead of a virtual image, refer to :ref:`Burning the Installation Media` for instructions on how to burn the file to bootable media."
 msgstr ""
 
 # 6498a5b34bb54711af6fa5724950ba93
+#: ../../preinstall.rst:266
 #: ../../preinstall.rst:265
 msgid "If you have a slow download connection or wish to support the PC-BSD® project financially, you can purchase PC-BSD® DVDs from the `FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
 msgstr ""
 
 # 5c857854db5f4215a1cf4b5d9e991fdf
+#: ../../preinstall.rst:269
 #: ../../preinstall.rst:268
 msgid "Members of the PC-BSD® project attend many IT conferences across the globe and give out PC-BSD® DVDs at conference booths. Visiting a PC-BSD® booth is an excellent way to meet other PC-BSD® users and to get your questions answered. Check the `PC-BSD® Blog <http://blog.pcbsd.org/>`_ to see if any events are happening near you. If you are organizing a PC-BSD® booth, `contact us <http://www.pcbsd.org/en/support/>`_ to arrange for DVDs."
 msgstr ""
 
 # 813186043a104e739300f825d5e69fce
+#: ../../preinstall.rst:277
 #: ../../preinstall.rst:276
 msgid "Data Integrity Check"
 msgstr ""
 
 # 441602e6db764541bc5778cdb6dec9a7
+#: ../../preinstall.rst:279
 #: ../../preinstall.rst:278
 msgid "After downloading the desired file, it is a good idea to check that the file is exactly the same as the one on the PC-BSD® server. While downloading, a portion of the file may get damaged or lost, making the installation file unusable. Each PC-BSD® installation file has an associated MD5 and SHA256 checksum. If a checksum of the file you downloaded matches, your download was successful. If a checksum does not match, try downloading the file again. In order to verify a checksum, you will need to use a checksum verification utility."
 msgstr ""
 
 # 6d24306c350d4439885c7f1b2bd30943
+#: ../../preinstall.rst:284
 #: ../../preinstall.rst:283
 msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_  only lists the SHA256 while the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
 msgstr ""
 
-# 0fa108e794984741a65b5de63ecd2800
-#: ../../preinstall.rst:287
-msgid "If you are currently using a Windows system, you can download and install the `FastSum <http://www.fastsum.com/>`_ utility in order to verify the MD5 checksum. Once installed, launch the program and click the \"Files\" button, shown in Figure 2.4a, to browse to the location of your downloaded file."
-msgstr ""
-
-# bef732a049434ae58bca6e7db4cbdfa7
-#: ../../preinstall.rst:290
-msgid "**Figure 2.4a: Verifying a Checksum Using FastSum**"
+#: ../../preinstall.rst:288
+msgid "If you are currently using a Windows system, you can download and install the `FastSum <http://www.fastsum.com/>`_ utility in order to verify the MD5 checksum. Once installed, launch the program and click the \"Files\" button, shown in :numref:`Figure %s: Verifying a Checksum Using FastSum <fastsum1>`, to browse to the location of your downloaded file."
 msgstr ""
 
 # b62b47282de24f818448bbeead0865d9
+#: ../../preinstall.rst:295
 #: ../../preinstall.rst:294
 msgid "Once the file is selected, click the green arrow to calculate the checksum. Once calculated, it will be listed in the \"Checksum\\State\" column, though FastSum will capitalize the letters."
 msgstr ""
 
 # 9cc49afd06c04b48bcc1feb120e8cebd
+#: ../../preinstall.rst:298
 #: ../../preinstall.rst:297
 msgid "On Linux and BSD systems you can use the built-in :command:`md5` or :command:`md5sum` command line tool to check the MD5 checksum. In this example, the file is located in the :file:`Downloads` subdirectory directory. You should substitute the name and location of the file that you downloaded::"
 msgstr ""
 
 # f4cb18fe5d6e47098bcc151a2954d970
+#: ../../preinstall.rst:307
 #: ../../preinstall.rst:306
 msgid "Burning the Installation Media"
 msgstr ""
 
 # 74b312c1dc144053bbd44399ba3814cb
+#: ../../preinstall.rst:309
 #: ../../preinstall.rst:308
 msgid "If you downloaded an :file:`.iso` file, it can be burned to either a DVD (or a CD, if it is the TrueOS ISO) or to a removable USB device. This section demonstrates how to do so using several different applications and operating systems."
 msgstr ""
 
 # 9957172225634660b658b8a6471309ff
+#: ../../preinstall.rst:316
 #: ../../preinstall.rst:315
 msgid "Burning to DVD on Windows"
 msgstr ""
 
 # a72b6ab3a9224857b586a2ee27fc0dd7
+#: ../../preinstall.rst:318
 #: ../../preinstall.rst:317
 msgid "Windows 7 has built-in support for writing ISO images to disc. Right-click on the :file:`.iso` file in Windows Explorer and select \"Burn disk image\". Select the DVD device in the \"Disk Burner\" drop-down menu and then click \"Burn\" to write the disc. See the Microsoft article `Burn a CD or DVD from an ISO file <http://windows.microsoft.com/en-US/windows7/Burn-a-CD-or-DVD-from-an-ISO-file>`_ for more detailed instructions."
 msgstr ""
 
-# 1e68a16ea08942fbba38715bb7deaef2
-#: ../../preinstall.rst:321
-msgid "Alternately, the `InfraRecorder utility <http://infrarecorder.org/>`_ is an open source burning application for both CDs and DVDs. Once installed, open InfraRecorder and click on the \"Write Image\" button shown in Figure 2.5a."
+#: ../../preinstall.rst:322
+msgid "Alternately, the `InfraRecorder utility <http://infrarecorder.org/>`_ is an open source burning application for both CDs and DVDs. Once installed, open InfraRecorder and click on the \"Write Image\" button shown in :numref:`Figure %s: Initial InfraRecorder Screen <infra1>`."
 msgstr ""
 
-# 3ede4d5794034b33aeb31459858d19e7
-#: ../../preinstall.rst:324
-msgid "**Figure 2.5a: Initial InfraRecorder Screen**"
-msgstr ""
-
-# be7a6e8b52d94e5793e7c4a5e9cb6db3
-#: ../../preinstall.rst:328
-msgid "InfraRecorder will display a screen where you can browse to the location of the :file:`.iso` file. Once selected, you will be presented with an options screen shown in Figure 2.5b. You can accept the defaults and click \"OK\" to start the burn. When finished, the burner tray will open and a dialog box will appear indicating that the burning process has finished."
-msgstr ""
-
-# 30bebb58ba2b4e558934f7cbb5b3cdd3
-#: ../../preinstall.rst:332
-msgid "**Figure 2.5b: Burn Options in InfraRecorder**"
+#: ../../preinstall.rst:329
+msgid "InfraRecorder will display a screen where you can browse to the location of the :file:`.iso` file. Once selected, you will be presented with an options screen shown in :numref:`Figure %s: Burn Options in InfraRecorder <infra2>`. You can accept the defaults and click \"OK\" to start the burn. When finished, the burner tray will open and a dialog box will appear indicating that the burning process has finished."
 msgstr ""
 
 # 3ba3a878d54149db97f1988235d621e9
+#: ../../preinstall.rst:341
 #: ../../preinstall.rst:340
 msgid "Burning to DVD on a BSD or Linux System"
 msgstr ""
 
 # 76b936b721364883ab90f451bd85c2bc
+#: ../../preinstall.rst:343
 #: ../../preinstall.rst:342
 msgid "`The K3B burner <https://www.kde.org/applications/multimedia/k3b/>`_ is an easy-to-use graphical burning application for Linux and BSD systems. This utility can be installed using :ref:`AppCafe®`. Once installed, it can be run from any desktop by typing :command:`k3b`."
 msgstr ""
 
-# 8d03ac6fdfa44361a1bd9b19722c9338
-#: ../../preinstall.rst:345
-msgid "To burn your ISO, launch K3B, insert a blank DVD/CD media, browse to the location of the :file:`.iso` file in the screen shown in Figure 2.5c, and click :menuselection:`Tools --> Burn Image...` to see the screen in Figure 2.5d."
-msgstr ""
-
-# bf0c3e88bcbc4b57a9389be6aeb9e5c1
-#: ../../preinstall.rst:348
-msgid "**Figure 2.5c: Selecting the Burn Image Tool Within K3B**"
-msgstr ""
-
-# 121fb631e8dd4311b7154751a1fb28d7
-#: ../../preinstall.rst:352
-msgid "**Figure 2.5d: K3B's Burn Image Screen**"
+#: ../../preinstall.rst:346
+msgid "To burn your ISO, launch K3B, insert a blank DVD/CD media, browse to the location of the :file:`.iso` file in the screen shown in :numref:`Figure %s: Selecting the Burn Image Tool Within K3B <k3b1>`, and click :menuselection:`Tools --> Burn Image...` to see the screen in :numref:`Figure %s: K3B's Burn Image Screen <k3b2>`."
 msgstr ""
 
 # e22bfb06d145499383b42cb34dfe8943
+#: ../../preinstall.rst:358
 #: ../../preinstall.rst:356
 msgid "Click the \"Start\" button to burn the file. K3B will automatically eject the media once the burn is complete."
 msgstr ""
 
-# dd2c77abdb0c4178bf8f1f8b96a147c2
-#: ../../preinstall.rst:358
-msgid "`The Brasero burner <https://wiki.gnome.org/Apps/Brasero>`_ provides an alternative, easy-to-use burning application included with the :ref:`GNOME` desktop. A PBI is also available within :ref:`AppCafe®`. Once installed, Brasero can be launched by typing :command:`brasero` from within any window manager. Figure 2.5e shows the initial Brasero screen."
+#: ../../preinstall.rst:360
+msgid "`The Brasero burner <https://wiki.gnome.org/Apps/Brasero>`_ provides an alternative, easy-to-use burning application included with the :ref:`GNOME` desktop. A PBI is also available within :ref:`AppCafe®`. Once installed, Brasero can be launched by typing :command:`brasero` from within any window manager. :numref:`Figure %s: Brasero's Initial Screen <brasero1>` shows the initial Brasero screen."
 msgstr ""
 
-# a077b81bf779479187149406f29f6dc2
-#: ../../preinstall.rst:362
-msgid "**Figure 2.5e: Brasero's Initial Screen**"
-msgstr ""
-
-# f9d5e30766754381ab0d11cec50ca1eb
-#: ../../preinstall.rst:366
-msgid "Click \"Burn image\" to open the screen seen in Figure 2.5f. Use the \"Click here to select a disk image\" button to select your :file:`.iso` file."
-msgstr ""
-
-# 71158c9bc27c4c57871c0b76d9d328ba
 #: ../../preinstall.rst:368
-msgid "**Figure 2.5f: Brasero Image Burning Setup**"
+msgid "Click \"Burn image\" to open the screen seen in :numref:`Figure %s: Brasero Image Burning Setup <brasero2>`. Use the \"Click here to select a disk image\" button to select your :file:`.iso` file."
 msgstr ""
 
-# 84413082eb294785a267d4f45e0b9970
-#: ../../preinstall.rst:372
-msgid "The name and size of your :file:`.iso` file should appear and Brasero will indicate the size of the media. The lower portion of Figure 2.5f shows the menu that appears if you click on the \"Properties\" button. You can change these options if you wish, but it is fine to keep the default settings. When you are ready, click the \"Burn\" button and Brasero will burn your ISO."
+#: ../../preinstall.rst:375
+msgid "The name and size of your :file:`.iso` file should appear and Brasero will indicate the size of the media. If you click on the \"Properties\" button, you can change some options, but it is fine to keep the default settings. When you are ready, click the \"Burn\" button and Brasero will burn your ISO."
 msgstr ""
 
 # 26cea726ddf8456fa1763e9414680727
+#: ../../preinstall.rst:378
 #: ../../preinstall.rst:376
 msgid "If you are familiar with using the command line on a FreeBSD or PC-BSD® system, you can use the :command:`growisofs` command line utility to burn the DVD. This utility is included with the dvd+rw-tools FreeBSD port which is installed by default on a PC-BSD® system. If that software is not yet installed on a FreeBSD system, issue this command as the superuser::"
 msgstr ""
 
 # 61108c05b3ee4e45ad17e8e5124adfe8
+#: ../../preinstall.rst:384
 #: ../../preinstall.rst:382
 msgid "Depending upon the type of DVD burner hardware, you may have to configure the system to use it. If the device is ATAPI (i.e. not USB or SCSI), the ATAPI driver must be loaded. The superuser can issue this command::"
 msgstr ""
 
 # b67f25b1a4da4ecfba2c2b1f3f3f4626
+#: ../../preinstall.rst:389
 #: ../../preinstall.rst:387
 msgid "If you just get your prompt back, the driver successfully loaded. If you get the message \"kldload: can't load atapicam: File exists\", this means that the driver was already loaded. If the device is USB or SCSI, no additional drivers need to be loaded if you are running the generic FreeBSD kernel. After inserting the DVD media into the device, you can start the burn using this command::"
 msgstr ""
 
 # 6653eb591b6544c5bf991a42dd86c6e9
+#: ../../preinstall.rst:395
 #: ../../preinstall.rst:393
 msgid "If your device is not the first CD device, change the number *0* accordingly. If your ISO has a different name, substitute the correct name in the command shown above."
 msgstr ""
 
 # 2d200397d90c4a2abad4b1f603b6791e
+#: ../../preinstall.rst:402
 #: ../../preinstall.rst:400
 msgid "Burning to DVD on a Mac OS X System"
 msgstr ""
 
 # 83c94601607948ad9041767c5e6d5b23
+#: ../../preinstall.rst:404
 #: ../../preinstall.rst:402
 msgid "To burn the ISO on a Mac OS X system, go to :menuselection:`Finder --> Applications --> Utilities --> Disk Utility`. With a blank media inserted into the burner, highlight the device representing the DVD writer and click the \"Burn\" button. This will open up a browser where you can select the ISO to burn."
 msgstr ""
 
 # c29d5ffb890e4970a5ce648e270db352
+#: ../../preinstall.rst:407
 #: ../../preinstall.rst:405
 msgid "Once the ISO is highlighted, click the \"Burn\" button. A pop-up message will indicate that the device is ready to burn. Click \"Burn\" once more and Disk Utility will write the ISO to the DVD media."
 msgstr ""
 
 # dfe70b72fa8742d98fa9826465f4e518
+#: ../../preinstall.rst:414
 #: ../../preinstall.rst:412
 msgid "Writing to a USB Device"
 msgstr ""
 
 # 0807fdd056c3443db77075747855dde9
+#: ../../preinstall.rst:416
 #: ../../preinstall.rst:414
 msgid "To write to a USB device, you will need the following:"
 msgstr ""
 
 # daac771bff3443d980107394505f4223
+#: ../../preinstall.rst:418
 #: ../../preinstall.rst:416
 msgid "a utility that can write the image to a USB media; the utility that you use will depend upon your operating system"
 msgstr ""
 
 # 369748b8489849528004bc0566640020
+#: ../../preinstall.rst:420
 #: ../../preinstall.rst:418
 msgid "a USB thumb drive or hard drive large enough to hold the image"
 msgstr ""
 
 # ba6a88bdafae4d57ae575b86881fe898
+#: ../../preinstall.rst:422
 #: ../../preinstall.rst:420
 msgid "Once the image is written, boot from the removable device and proceed with the PC-BSD® installation."
 msgstr ""
 
 # d5ad2310c9e74edc833b9fe118ae3716
+#: ../../preinstall.rst:424
 #: ../../preinstall.rst:422
 msgid "if there is a card reader on the system or the USB drive is connected using a USB dongle, device enumeration may be affected. For example, with the USB card reader dongle as the destination, the device name could be :file:`/dev/da1` instead of :file:`/dev/da0`."
 msgstr ""
 
 # 509b56cb45b8426cbea7e2a973c966aa
+#: ../../preinstall.rst:427
 #: ../../preinstall.rst:425
 msgid "To write the :file:`.iso` file to a flash card or removable USB drive on a BSD or Linux system, use the :command:`dd` command line utility. On a FreeBSD system, the superuser can use this command to write the file to the first plugged in USB device::"
 msgstr ""
 
 # 1b0c925f4b754b538b1cc96b24248219
+#: ../../preinstall.rst:435
 #: ../../preinstall.rst:433
 msgid "When using the :command:`dd` command:"
 msgstr ""
 
 # 854da2d2de5d41d2a4ed9e0d807b5bf9
+#: ../../preinstall.rst:437
 #: ../../preinstall.rst:435
 msgid "**if=** refers to the input file to be written"
 msgstr ""
 
 # ef88adf9204a4088b076f38492057fa6
+#: ../../preinstall.rst:439
 #: ../../preinstall.rst:437
 msgid "**of=** refers to the output file (the device name of the flash card or removable USB drive); increment the number in the name if it is not the first USB device"
 msgstr ""
 
 # 990994b846254891a3d37e9823b69666
+#: ../../preinstall.rst:442
 #: ../../preinstall.rst:440
 msgid "**bs=** refers to the block size"
 msgstr ""
 
 # 9dec4aeb4ea44edf84a8ce0c081f556c
+#: ../../preinstall.rst:444
 #: ../../preinstall.rst:442
 msgid "on Linux, if you type :command:`mount` with the USB stick inserted, you will see two or more device nodes corresponding to the USB stick. For example, :file:`/dev/sdc` and :file:`/dev/sdc1`, where :file:`/dev/sdc1` corresponds to the primary partition of the USB stick. Before using the :command:`dd` command, ensure that the usb stick is first unmounted. Then, remember to use :file:`/dev/sdc` (the device node without the number) as the option for the output file **of=**. Once the :command:`dd` completes, you might not be able to mount the USB stick on Linux as Linux has very limited support for UFS, the BSD filesystem that gets created on the USB stick."
 msgstr ""
 
 # ec4ef499ab5348fab7fe2a8fe7d0e39f
+#: ../../preinstall.rst:450
 #: ../../preinstall.rst:448
 msgid "To burn the image file on a Windows system, you can use `win32-image-writer <http://sourceforge.net/projects/win32diskimager/>`_. When downloading win32-image-writer, download the latest version that ends in :file:`-binary.zip` and use a utility such as Windows Explorer or 7zip to unzip the executable."
 msgstr ""
 
-# c1b95223042f4edeac247b16f1884c8a
-#: ../../preinstall.rst:451
-msgid "If you launch :command:`win32-image-writer.exe`, it will start the Win32 Disk Imager utility, shown in Figure 2.5g. Use the \"browse\" button to browse to the location of the :file:`.iso` file. Insert a USB thumb drive and select its drive letter (in this example, drive D). Click the \"Write\" button and the image will be written to the USB thumb drive."
-msgstr ""
-
-# f9d7ac020edf436c95a3f5ccf2d7ee68
-#: ../../preinstall.rst:455
-msgid "**Figure 2.5g: Using Win32 Disk Imager to Write the Image**"
+#: ../../preinstall.rst:453
+msgid "If you launch :command:`win32-image-writer.exe`, it will start the Win32 Disk Imager utility, shown in :numref:`Figure %s: Using Win32 Disk Imager to Write the Image <writer1>`. Use the \"browse\" button to browse to the location of the :file:`.iso` file. Insert a USB thumb drive and select its drive letter (in this example, drive D). Click the \"Write\" button and the image will be written to the USB thumb drive."
 msgstr ""
 
 # 168047c0206d4d51b94acef5267aa4a8
+#: ../../preinstall.rst:461
 #: ../../preinstall.rst:459
 msgid "To burn the :file:`.iso` file on Mac OS X, insert a USB stick and open Terminal. Run the :command:`diskutil list` command to find out the device name of the USB disk, unmount the USB disk, then use :command:`dd` to write the image to the raw disk (:file:`rdisk`). In the following example, an 8GB USB stick has a device name of :file:`/dev/disk1` and a raw device name of :file:`/dev/rdisk1`.::"
 msgstr ""
 
 # d8dd083edf3344b5bc9b4bf8681ba7d6
+#: ../../preinstall.rst:490
 #: ../../preinstall.rst:488
 msgid "Virtualization"
 msgstr ""
 
 # 2db2635e539b4967b99b6d4642686291
+#: ../../preinstall.rst:492
 #: ../../preinstall.rst:490
 msgid "A virtualized environment allows you to test drive an operating system without overwriting your current operating system. This is an excellent way to practice installation, determine whether all of your hardware is supported, or to try multiple versions of different operating systems. Virtualization software effectively creates windows (known as virtual machines) into which you can install and use an operating system. The only limitation to virtualization is your hardware as each virtual machine uses CPU and RAM. Depending upon the amount of CPU and RAM in your computer, you may find that the operating system you install using virtualization software runs slowly. If your computer slows down greatly, try closing other applications running on your computer to free up some RAM."
 msgstr ""
 
 # 9fbfbee23b424110afa491e396e96d78
+#: ../../preinstall.rst:499
 #: ../../preinstall.rst:497
 msgid "During the installation of PC-BSD®, you can choose to install the `VirtualBox <https://www.virtualbox.org/>`_ open source virtualization program and the `VirtualBox Guest Additions <http://www.virtualbox.org/manual/ch04.html>`_ with the operating system. The guest additions add mouse pointer integration, shared folders between the host and guest, better video support, and a shared clipboard. To install these after installation, use :ref:`AppCafe®` and search for \"virtualbox\"."
 msgstr ""
 
 # b407efd0fb1c4ff882003f07ce50c902
+#: ../../preinstall.rst:504
 #: ../../preinstall.rst:502
 msgid "the first time you run VirtualBox on a PC-BSD® system, a background script will automatically give your user account the permissions required to run this application. Depending upon your desktop, this might break any existing shortcuts to VirtualBox. To fix the shortcut, logout and back in."
 msgstr ""
 
 # 288ab4a70596473d80c1fdc220106494
+#: ../../preinstall.rst:507
 #: ../../preinstall.rst:505
 msgid "If your computer is running another operating system, download the binary for your operating system from the `VirtualBox Downloads page <https://www.virtualbox.org/wiki/Downloads>`_. VirtualBox runs on Windows, Linux, Macintosh, and OpenSolaris and supports a large number of operating systems that can be installed into a virtual machine."
 msgstr ""
 
 # 42f6a276e945434b91a040748eb05d49
+#: ../../preinstall.rst:511
 #: ../../preinstall.rst:509
 msgid "This section describes how to prepare VirtualBox for an installation of PC-BSD® using an :file:`.iso` file as well as how to use the downloadable :file:`.vmdk`, :file:`.vdi`, and :file:`.ova` images with VirtualBox."
 msgstr ""
 
 # 93e8b7f502564570a570f43a87b0c37f
+#: ../../preinstall.rst:518
 #: ../../preinstall.rst:516
 msgid "Creating a Virtual Machine for an ISO File"
 msgstr ""
 
 # e3109ca09034496ab24a4b4e46f98b84
+#: ../../preinstall.rst:520
 #: ../../preinstall.rst:518
 msgid "Once you have downloaded the PC-BSD® ISO and installed VirtualBox on the current system, create a virtual machine and use the ISO to install PC-BSD® into the virtual machine. The virtual machine must meet the following minimum requirements:"
 msgstr ""
 
 # 59bf8780c1b1458fbca468700b717939
+#: ../../preinstall.rst:523
 #: ../../preinstall.rst:521
 msgid "1024 MB base memory size"
 msgstr ""
 
 # b815cf0492694d70a261cf293f49b13b
+#: ../../preinstall.rst:525
 #: ../../preinstall.rst:523
 msgid "a virtual disk **at least 20 GB in size** for a TrueOS® installation or **at least 50 GB in size** for a PC-BSD® installation"
 msgstr ""
 
 # 9ff041b607ec48f68308599719766788
+#: ../../preinstall.rst:527
 #: ../../preinstall.rst:525
 msgid "a bridged adapter"
 msgstr ""
 
-# c7e30de78afc46e990273b8c97c819f4
-#: ../../preinstall.rst:527
-msgid "To create the virtual machine, start VirtualBox to see the screen shown in Figure 2.6a."
-msgstr ""
-
-# 9af5a903c6574761b9b54bbb451de059
 #: ../../preinstall.rst:529
-msgid "**Figure 2.6a: Initial VirtualBox Screen**"
+msgid "To create the virtual machine, start VirtualBox to see the screen shown in :numref:`Figure %s: Initial VirtualBox Screen <vbox1>`."
 msgstr ""
 
-# 9fdf640c076a46f09952b59333533255
-#: ../../preinstall.rst:533
-msgid "Click the \"New\" button to start the new virtual machine wizard. Click the \"Next\" button to see the screen in Figure 2.6b."
-msgstr ""
-
-# 939df83877374c80ac82b226b0ac0ab1
 #: ../../preinstall.rst:535
-msgid "**Figure 2.6b: Type in a Name and Select the Operating System for the New Virtual Machine**"
+msgid "Click the \"New\" button to start the new virtual machine wizard. Click the \"Next\" button to see the screen in :numref:`Figure %s: Type in a Name and Select the Operating System for the New Virtual Machine <vbox2>`."
 msgstr ""
 
-# 43004722a5b44ea6b659dbd01b685a08
-#: ../../preinstall.rst:539
-msgid "Enter a name for your virtual machine, which can be anything that makes sense to you. Click the \"Operating System\" drop-down menu and select \"BSD\". In the \"Version\" drop-down menu, select \"FreeBSD (64 bit)\". Click \"Next\" to see the screen in Figure 2.6c."
-msgstr ""
-
-# df223a20cd1843cf968de0957c4680a5
 #: ../../preinstall.rst:542
-msgid "**Figure 2.6c: Select the Amount of Memory Reserved for the Virtual Machine**"
+msgid "Enter a name for your virtual machine, which can be anything that makes sense to you. Click the \"Operating System\" drop-down menu and select \"BSD\". In the \"Version\" drop-down menu, select \"FreeBSD (64 bit)\". Click \"Next\" to see the screen in :numref:`Figure %s: Select the Amount of Memory Reserved for the Virtual Machine <vbox3>`."
 msgstr ""
 
-# 231b18d2d6654460b5e36434ea86e1f4
-#: ../../preinstall.rst:546
-msgid "The base memory size must be changed to **at least 1024 MB.** If your system has a lot of RAM, use more. Any number within the green area is considered a safe value by VirtualBox, meaning it should not slow down your computer too much. When finished, click Next to see the screen in Figure 2.6d."
-msgstr ""
-
-# 094362f7fc544fb3a92b38ee5a4d34f6
 #: ../../preinstall.rst:549
-msgid "**Figure 2.6d: Select Whether to Use an Existing or Create a New Virtual Hard Drive**"
+msgid "The base memory size must be changed to **at least 1024 MB.** If your system has a lot of RAM, use more. Any number within the green area is considered a safe value by VirtualBox, meaning it should not slow down your computer too much. When finished, click Next to see the screen in :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`."
 msgstr ""
 
-# d75ce42a7d9549c8b0ec17d52f50ee6b
-#: ../../preinstall.rst:553
-msgid "This screen is used to create the virtual hard drive, or the amount of disk space that will be available to the virtual machine. If this is your first virtual machine, keep the default of \"Create a virtual hard drive now\" and click \"Create\" to go to the screen shown in Figure 2.6e. If you have created a virtual machine in the past and wish to reuse its disk space, select \"Use an existing virtual hard drive file\" from the drop-down menu. You can create as many virtual machines as you wish. However, if your computer is getting low on disk space, you should consider reusing existing virtual hard drives to prevent your physical hard drive from being used up by old virtual machines."
+#: ../../preinstall.rst:557
+msgid "This screen is used to create the virtual hard drive, or the amount of disk space that will be available to the virtual machine. If this is your first virtual machine, keep the default of \"Create a virtual hard drive now\" and click \"Create\" to go to the screen shown in :numref:`Figure %s: Select the Hard Drive Type <vbox5>`. If you have created a virtual machine in the past and wish to reuse its disk space, select \"Use an existing virtual hard drive file\" from the drop-down menu. You can create as many virtual machines as you wish. However, if your computer is getting low on disk space, you should consider reusing existing virtual hard drives to prevent your physical hard drive from being used up by old virtual machines."
 msgstr ""
 
-# 99be89fad4fe4a7ba011baf02787043a
-#: ../../preinstall.rst:559
-msgid "**Figure 2.6e: Select the Hard Drive Type**"
+#: ../../preinstall.rst:567
+msgid "Select \"VDI\" and click the \"Next\" button to see the screen in :numref:`Figure %s: Select the Storage Type <vbox6>`."
 msgstr ""
 
-# 3a4f48a405f54657949cc11ec7f483f8
-#: ../../preinstall.rst:563
-msgid "Select \"VDI\" and click the \"Next\" button to see the screen in Figure 2.6f."
-msgstr ""
-
-# b6bae9f77ed649e18468c0fb0a006e2e
-#: ../../preinstall.rst:565
-msgid "**Figure 2.6f: Select the Storage Type**"
-msgstr ""
-
-# 1b455e8507464042a1c75aad0597c008
-#: ../../preinstall.rst:569
-msgid "You can now choose whether you want \"Dynamically allocated\" or \"Fixed size\" storage. The first option uses disk space as needed until it reaches the maximum size that you will set in the next screen. The second option creates a disk the same size as that specified amount of disk space, whether it is used or not. Choose the first option if you are worried about disk space; otherwise choose the second option as it allows VirtualBox to run slightly faster. Once you select \"Next\", you will see the screen in Figure 2.6g."
-msgstr ""
-
-# 967233b77bd44725a11190f602406b11
-#: ../../preinstall.rst:574
-msgid "**Figure 2.6g: Select the File Name and Size of the Virtual Disk**"
+#: ../../preinstall.rst:573
+msgid "You can now choose whether you want \"Dynamically allocated\" or \"Fixed size\" storage. The first option uses disk space as needed until it reaches the maximum size that you will set in the next screen. The second option creates a disk the same size as that specified amount of disk space, whether it is used or not. Choose the first option if you are worried about disk space; otherwise choose the second option as it allows VirtualBox to run slightly faster. Once you select \"Next\", you will see the screen in :numref:`Figure %s: Select the File Name and Size of the Virtual Disk <vbox7>`."
 msgstr ""
 
 # eca135fbe3eb43e0b52036f9679919c5
+#: ../../preinstall.rst:582
 #: ../../preinstall.rst:578
 msgid "This screen is used to set the size (or upper limit) of the virtual machine. If you plan to install PC-BSD® into the virtual machine, **increase the size to at least 20 GB** or you will receive an error during the PC-BSD® installation. If you plan to install KDE, GNOME, multiple desktop managers, or applications within the virtual machine, you will probably want to choose at least 50GB. Whatever size you set, make sure that your computer has enough free disk space to support it. Use the folder icon to browse to a directory on disk with sufficient space to hold your virtual machine."
 msgstr ""
 
-# f504ab6a229946af89e976c9725119ab
-#: ../../preinstall.rst:583
-msgid "Once you make your selection and press \"Next\", you will see a summary of your choices. You can use the \"Back\" button to return to a previous screen if you wish to change any values. Otherwise, click \"Create\" to finish using the wizard. Your virtual machine should now show up in the left box, as seen in the example in Figure 2.6h."
-msgstr ""
-
-# 3b6251acb4a144589a011aaf09fa389a
 #: ../../preinstall.rst:587
-msgid "**Figure 2.6h: The New Virtual Machine**"
+msgid "Once you make your selection and press \"Next\", you will see a summary of your choices. You can use the \"Back\" button to return to a previous screen if you wish to change any values. Otherwise, click \"Create\" to finish using the wizard. Your virtual machine should now show up in the left box, as seen in the example in :numref:`Figure %s: The New Virtual Machine <vbox8>`."
 msgstr ""
 
-# db3fd997898b4eafa5d03cb3cb911bf7
-#: ../../preinstall.rst:591
-msgid "In order to use your network card, configure bridging on your virtual machine. To do this, go to :menuselection:`Settings --> Network`. In the \"Attached to\" drop-down menu select \"Bridged Adapter\" then select the name of the physical interface from the \"Name\" drop-down menu. In the example shown in Figure 2.6i, the Intel Pro/1000 Ethernet card is attached to the network and has a device name of :file:`re0`."
-msgstr ""
-
-# 5fb3bcffbd3645dfa92b648978857dee
 #: ../../preinstall.rst:595
-msgid "**Figure 2.6i: Configuring a Bridged Adapter in VirtualBox**"
+msgid "In order to use your network card, configure bridging on your virtual machine. To do this, go to :menuselection:`Settings --> Network`. In the \"Attached to\" drop-down menu select \"Bridged Adapter\" then select the name of the physical interface from the \"Name\" drop-down menu. In the example shown in :numref:`Figure %s: Configuring a Bridged Adapter in VirtualBox <vbox9>`, the Intel Pro/1000 Ethernet card is attached to the network and has a device name of :file:`re0`."
 msgstr ""
 
-# 860ae182cef640f484fc6c1193ca63bf
-#: ../../preinstall.rst:599
-msgid "Before starting your virtual machine, configure it to use your installation media. Click the \"Storage\" hyperlink in the right frame to access the storage screen seen in Figure 2.6j."
-msgstr ""
-
-# 969013f648084ed79e1902b0f8b491df
-#: ../../preinstall.rst:602
-msgid "**Figure 2.6j: The Storage Settings of the Virtual Machine**"
+#: ../../preinstall.rst:603
+msgid "Before starting your virtual machine, configure it to use your installation media. Click the \"Storage\" hyperlink in the right frame to access the storage screen seen in :numref:`Figure %s: The Storage Settings of the Virtual Machine <vbox10>`."
 msgstr ""
 
 # 12d51d1a145c476283021996cc64477e
+#: ../../preinstall.rst:610
 #: ../../preinstall.rst:606
 msgid "Double-click the word \"Empty\", which represents your DVD reader. If you wish to access the PC-BSD® installer from your DVD reader, double-check that the \"Slot\" is pointing to the correct location (e.g. \"IDE Secondary Master\") and use the drop-down menu to change it if the location is incorrect. Click the \"CD/DVD Device\" drop-down menu to change it from empty to the \"Host Drive\" value."
 msgstr ""
 
 # 0745fe3fa7b54d89a8a6ce788eaab676
+#: ../../preinstall.rst:614
 #: ../../preinstall.rst:610
 msgid "If you prefer to use an ISO that is stored on your hard disk, click the DVD icon then \"Choose a virtual CD/DVD disk file\" to open a browser menu where you can navigate to the location of the ISO. Highlight the desired ISO and click \"Open\". The name of the ISO will now appear in the \"Storage Tree\" section."
 msgstr ""
 
 # f4ad2f98e6f242068db64d0f7b4a5889
+#: ../../preinstall.rst:617
 #: ../../preinstall.rst:613
 msgid "You are now ready to install PC-BSD® into your virtual machine. Simply highlight the virtual machine and click on the green \"Start\" icon. A window will open indicating that the virtual machine is starting. If you have a DVD inserted, you should hear it spin and it should start to boot into the installation program. If it does not or if you are using an ISO stored on the hard disk, press \"F12\" to select the boot device when you see the message to do so, then press \"c\" to boot from CD-ROM. You can then proceed through the installation as described in :ref:`Installing PC-BSD®`."
 msgstr ""
 
 # f047b6dca8e24ed2a3c04a933813d25c
+#: ../../preinstall.rst:626
 #: ../../preinstall.rst:622
 msgid "Using the Downloadable VirtualBox or VMWare Disk"
 msgstr ""
 
 # c9c02388012c4fce9c6f1c4d9f4d2536
+#: ../../preinstall.rst:628
 #: ../../preinstall.rst:624
 msgid "PC-BSD® provides pre-built VirtualBox and VMWare disks which create a a pre-made virtual machine with PC-BSD® already installed. The VirtualBox file ends in a :file:`.vdi.xz` extension and the VMWare disk file ends in a :file:`.vmdk.xz` extension. The :file:`.xz` means that the file needs to be unzipped first so that it just ends with a :file:`.vdi` or :file:`.vmdk` extension."
 msgstr ""
 
 # 5fb6a076729149598b22542d11fb633e
+#: ../../preinstall.rst:632
 #: ../../preinstall.rst:628
 msgid "On a Linux or BSD system, use the :command:`xz` command by giving it the name of the file which you downloaded::"
 msgstr ""
 
 # 85adb9ba1dff4c309cc05296f11fa0de
+#: ../../preinstall.rst:636
 #: ../../preinstall.rst:632
 msgid "Since this is a large file, the command will take a few minutes to extract the image. You will receive the prompt back when it has finished."
 msgstr ""
 
 # 8ad5afabc5b64d6a995b389159fd524b
+#: ../../preinstall.rst:638
 #: ../../preinstall.rst:634
 msgid "On a Windows system, you can use a utility such as `7-Zip <http://www.7-zip.org/>`_. On a Mac OS X system, simply double-click the file in \"Finder\" to extract it."
 msgstr ""
 
-# 6012a1eaf79e4a99bc2eaa3c5a08e134
-#: ../../preinstall.rst:637
-msgid "Once the file is unzipped, open VirtualBox. When you get to Figure 2.6d, select \"Use an existing virtual hard drive file\"."
+#: ../../preinstall.rst:641
+msgid "Once the file is unzipped, open VirtualBox. When you get to :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`, select \"Use an existing virtual hard drive file\"."
 msgstr ""
 
 # 8a18f0c26ca64e4f98adae8ddb06a006
+#: ../../preinstall.rst:644
 #: ../../preinstall.rst:639
 msgid "Use the browse icon to browse to the location of the :file:`.vdi` or :file:`.vmdk` file then press \"Next\". A message will indicate that the virtual machine will be created. Click the \"Create\" button to finish the wizard. You can then configure the network adapter and start the virtual machine."
 msgstr ""
 
 # 9c82e0d7c9b64b46a0b566a1c9969868
+#: ../../preinstall.rst:647
 #: ../../preinstall.rst:642
 msgid "The \"consumer-desktop\" virtual machine will boot into the post-installation configuration screens so that the system can be configured. Once the display wizard is finished and the login menu appears, input the username and password that you configured at the :ref:`Create a User Screen`."
 msgstr ""
 
 # 91a4b5c0b89a4369b7d2c598cc005442
 # f72f25b0a3bf4aff8de1df34b2234bd7
+#: ../../preinstall.rst:650
+#: ../../preinstall.rst:683
 #: ../../preinstall.rst:645
 #: ../../preinstall.rst:678
 msgid "When using the \"trueos-server\" edition, the virtual machine will boot into a password prompt. Enter *root* as the username and *pcbsd* as the password. It is recommended to immediately change the *root* password by typing :command:`passwd` and following the prompts. It is also recommended to create a user account to login with. You can do so by typing :command:`adduser` and following the prompts."
 msgstr ""
 
 # 1a34f8089d6b43a59f1e75b3bac48f3f
+#: ../../preinstall.rst:658
 #: ../../preinstall.rst:653
 msgid "Using the Downloadable .ova File"
 msgstr ""
 
 # af617ac71583457395e3882704366845
+#: ../../preinstall.rst:660
 #: ../../preinstall.rst:655
 msgid "A file that ends in a :file:`.ova` extension is a tarball of a virtual machine that follows the Open Virtualization Format (OVF). This file can be used in any virtualization technology that supports OVF, such as VirtualBox or VMware."
 msgstr ""
 
 # 2ba27e0fe79a4f6a8da2d1de717d5288
+#: ../../preinstall.rst:663
 #: ../../preinstall.rst:658
 msgid "If you double-click the :file:`.ova` file on a Windows or Mac system, it will automatically open the image for you in the default virtualization application."
 msgstr ""
 
 # 357c4160262f4347a46c822975e83de5
+#: ../../preinstall.rst:665
 #: ../../preinstall.rst:660
 msgid "The first time you open an :file:`.ova` file on a PC-BSD® system, right-click the file, select \"Open With\", browse to the application to open it with, and check the box \"Remember application association for this type of file\". The following example assumes the user has selected :menuselection:`System --> Oracle VM VirtualBox` as the application."
 msgstr ""
 
-# 74554de6a46544d3af53564ee7c52784
-#: ../../preinstall.rst:664
-msgid "The first time a PC-BSD® :file:`.ova` file is opened, a screen will open so that you can review the virtual machine's settings that came with the file. An example is shown in Figure 2.6k. To edit a setting, double-click its name."
-msgstr ""
-
-# fd7e567e592b439ebf859bc0262a669d
-#: ../../preinstall.rst:667
-msgid "**Figure 2.6k: Appliance Settings Screen**"
+#: ../../preinstall.rst:669
+msgid "The first time a PC-BSD® :file:`.ova` file is opened, a screen will open so that you can review the virtual machine's settings that came with the file. An example is shown in :numref:`Figure %s: Appliance Settings Screen <ova1>`. To edit a setting, double-click its name."
 msgstr ""
 
 # 5d501f7b58624c72ac569a2309370060
+#: ../../preinstall.rst:676
 #: ../../preinstall.rst:671
 msgid "Depending upon the setting, you can either type in the desired value or select it from a drop-down menu. Once you are finished, click the \"Import\" button. It will take a few minutes for the import to complete and a status bar will indicate the status of the import. Once imported, the virtual machine will show in the left frame of VirtualBox. Highlight the virtual machine and click \"Start\" to boot into the image."
 msgstr ""
 
 # 54059496cb894216a8d37dce6af4257d
+#: ../../preinstall.rst:680
 #: ../../preinstall.rst:675
 msgid "When using the \"consumer-desktop\" edition, the virtual machine will boot into Figure 4.2a so that you can perform the post-installation configuration for the desktop."
-msgstr ""
-
-# 053b123be28242ab9c3925e68c104332
-# 4f2d254419bb4ea18984e3edc85bddf3
-# 8a474c69c8244d8e9ee7358561e7deb8
-#: ../../preinstall.rst:21
-#: ../../preinstall.rst:62
-#: ../../preinstall.rst:154
-msgid "hardware"
-msgstr ""
-
-# ceab4dd159ce42cfa2e5242b47358776
-#: ../../preinstall.rst:114
-msgid "laptops"
-msgstr ""
-
-# ffc9a52633d04fddbd47e32e02e7749f
-#: ../../preinstall.rst:147
-msgid "thinkpad"
-msgstr ""
-
-# 7867e4b43137479880c844342439f831
-#: ../../preinstall.rst:163
-msgid "partition"
-msgstr ""
-
-# f1fbbc0d2e464e18b4dfcd55524b15c8
-#: ../../preinstall.rst:272
-msgid "checksum"
-msgstr ""
-
-# c82944170e104d47992e194f09bcf47f
-# c456c5550437498a82e57263a6b24384
-# 5f83b849e2614e1899afa98f7a58eccc
-#: ../../preinstall.rst:302
-#: ../../preinstall.rst:336
-#: ../../preinstall.rst:408
-msgid "burn"
-msgstr ""
-
-# 6d40f97c1c074711b1f9ae282fa34ffe
-#: ../../preinstall.rst:311
-msgid "Windows"
-msgstr ""
-
-# 62b48b4d977946dc9363af956cb576e4
-#: ../../preinstall.rst:396
-msgid "Mac"
-msgstr ""
-
-# 0184c60ae8c54fc9bcf73b1f6beaab4f
-# 8f4707cf0ce9414a819182d8a25b007c
-# 13fe5092d57b4323835dddfa8e5657aa
-# 289502dfded64fa88ed9ed1ece43b754
-#: ../../preinstall.rst:484
-#: ../../preinstall.rst:512
-#: ../../preinstall.rst:618
-#: ../../preinstall.rst:649
-msgid "virtualization"
 msgstr ""
