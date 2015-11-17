@@ -8,10 +8,6 @@ if [ ! -e "${PROGDIR}/scripts/sync-pcbsd.sh" ] ; then
    exit 1
 fi
 
-<<<<<<< HEAD
-rm -rf ${PROGDIR}/qmtmp
-mkdir ${PROGDIR}/qmtmp
-=======
 if [ -n "${1}" ] ; then
   TARGETDIR="$1"
 else
@@ -21,7 +17,6 @@ fi
 if [ ! -d "${TARGETDIR}" ] ; then
   mkdir -p ${TARGETDIR}
 fi
->>>>>>> fdf7666c7cc07786b3987d2a8b135913440773dd
 
 # Now run on each file in each language
 cd ${PROGDIR}/ts
