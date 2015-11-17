@@ -1,0 +1,715 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2015, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# f74eec3bf1fa41fc939118735392dabf
+#: ../../support.rst:5
+msgid "Supporting PC-BSD®"
+msgstr ""
+
+# 0148e54a6601467a9271cb1bf79da4ab
+#: ../../support.rst:7
+msgid "PC-BSD® is a community project which relies on involvement from its users and supporters. This section lists some ideas for becoming involved."
+msgstr ""
+
+# c3a35c21524d48f4922c3608b2af97be
+#: ../../support.rst:13
+msgid "Become a Beta Tester"
+msgstr ""
+
+# 002e46ef0d9544f0bbf8cd90cc69ba3f
+#: ../../support.rst:15
+msgid "If you like playing around with operating systems and have a bit of spare time, one of the most effective ways you can assist the PC-BSD® community is by reporting problems you encounter while using PC-BSD®."
+msgstr ""
+
+# 9df0de01a756427c8a7bf5a14c1e25ec
+#: ../../support.rst:18
+msgid "If you have a spare system or virtual machine, you can also download and try out the latest release candidate snapshots. These versions are still in testing and have not been officially released yet. Having as many people as possible using PC-BSD® on many different hardware configurations assists the Project in finding and fixing bugs. This makes using PC-BSD® better for everyone. Subscribing to the `PC-BSD® blog <http://blog.pcbsd.org/>`_ is a good way to keep up-to-date on the availability of testing snapshots and any major bugs that affect users."
+msgstr ""
+
+# ff1434baaa4f45a89dfc8ee295915fdb
+#: ../../support.rst:23
+msgid "If becoming a tester interests you, subscribe to the `testing mailing list <http://lists.pcbsd.org/mailman/listinfo/testing>`_. As new testing versions become available they will be announced on this list. You will also be able to see what problems other testers are finding and can check to see if the problem exists on your hardware as well. You can also subscribe to `these RSS feeds <http://dir.gmane.org/gmane.os.pcbsd.testing>`_ if you want a quick way to keep up with the subjects being discussed on the testing mailing list."
+msgstr ""
+
+# 64345692e174487c97de276ebb608ec9
+#: ../../support.rst:28
+msgid "Anyone can become a beta tester. Follow these tips so that you can accurately describe your findings so they can be fixed as soon as possible:"
+msgstr ""
+
+# dc767ccd3a264459b6bfabec5b3ce0fb
+#: ../../support.rst:30
+msgid "Before you :ref:`Report a bug`, search the testing mailing list to see if anyone else has reported a similar problem."
+msgstr ""
+
+# b8d12169620d4e46a03061853d8f2935
+#: ../../support.rst:32
+msgid "When reporting a new issue, use a descriptive subject that includes the error and the version of PC-BSD®. Ideally, the subject is short (8 words or less) and contains key words about the error. An example would be \"AppCafe on 10.2-RELEASE-p1 fails to create jail\"."
+msgstr ""
+
+# 05282aaae43b47fab9704e869a147b64
+#: ../../support.rst:35
+msgid "Ensure that the body of the bug report includes the PC-BSD® version."
+msgstr ""
+
+# 82afa11673d34fcbaa2e3ac6af780aa8
+#: ../../support.rst:37
+msgid "Give a short (2-3 sentences) description of how to recreate the error. If there is an error message, include its complete text."
+msgstr ""
+
+# 215c876bccda453dae51f125ca45dc8b
+#: ../../support.rst:39
+msgid "Include any other info that may be useful (e.g. this used to work on 10.0)."
+msgstr ""
+
+# a13519a064334a7f808a449c7f15395d
+#: ../../support.rst:41
+msgid "If the problem appears to be hardware related, include a copy of :file:`/var/run/dmesg.boot` as this file shows the hardware that was probed the last time the PC-BSD® system booted."
+msgstr ""
+
+# 320fd1e4077944e28e7642871bff5f04
+#: ../../support.rst:48
+msgid "Become a Translator"
+msgstr ""
+
+# e4750a77ed85434986df2d94796cc675
+#: ../../support.rst:50
+msgid "If you are interested in translating PC-BSD® into your native language, there are three translation areas that you can choose to become involved in:"
+msgstr ""
+
+# 58544d9c86f24a579ebc0933bdefa7c9
+#: ../../support.rst:52
+msgid "Translate the graphical menus within the PC-BSD® operating system."
+msgstr ""
+
+# fe74535613c94886840d1edb89ce829f
+#: ../../support.rst:54
+msgid "Translate the documentation that is published with PC-BSD®."
+msgstr ""
+
+# 3cce157571e244da93c51fdec2aa305d
+#: ../../support.rst:56
+msgid "Translate the PC-BSD® website."
+msgstr ""
+
+# 369a295c73914e1382e0a5e77eae4e6a
+#: ../../support.rst:58
+msgid "This section describes each of these translation areas in more detail and how to get started as a translator."
+msgstr ""
+
+# 1f90c107a8de4a27bf77925974e21875
+#: ../../support.rst:60
+msgid "Regardless of the type of translation you are interested in, you should first join the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_. When you join, send an email to introduce yourself and indicate which language(s) and which type(s) of translations you can assist with. This will allow you to meet other volunteers as well as keep abreast of any notices or updates that affect translators."
+msgstr ""
+
+# ee12c71cfbe84e41aa37a63ca32f6a92
+#: ../../support.rst:69
+msgid "Interface Translation"
+msgstr ""
+
+# ddd5d19154d54554987e5e52c2d644e1
+#: ../../support.rst:71
+msgid "PC-BSD® uses `Pootle <https://en.wikipedia.org/wiki/Pootle>`_ for managing localization of the menu screens used by the installer and the PC-BSD® utilities. Pootle makes it possible to find out if your native language has been fully localized for PC-BSD®. Pootle also makes it easy for users to check and submit translated text as it provides a web editor and commenting system. This means that translators can spend their time making and reviewing translations rather than learning how to use a translation tool."
+msgstr ""
+
+# 4052166cfb10404c96847ea5e2751e6c
+#: ../../support.rst:76
+msgid "To see the status of a localization, open up the `translation website <http://translate.pcbsd.org/>`_ in a web browser, as seen in Figure 11.2a."
+msgstr ""
+
+# e18cad29ec344f8d87c17dd4f7f8ae52
+#: ../../support.rst:78
+msgid "**Figure 11.2a: The PC-BSD® Pootle Translation System**"
+msgstr ""
+
+# ed4253650c5e4340a78f7cb0d29e9aee
+#: ../../support.rst:82
+msgid "The localizations PC-BSD® users have requested are listed alphabetically on the left. If your language is missing and you would like to help in its translation, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_ so it can be added."
+msgstr ""
+
+# 36ef3a084469446eb32dcbda9e38f6d0
+#: ../../support.rst:85
+msgid "The green bar in the \"Progress\" column indicates the percentage of PC-BSD® menus that have been localized. If a language is not at 100%, it means that the menus that currently are not translated will appear in English instead of in that language."
+msgstr ""
+
+# 5b811e355b784dc8aec243f315667160
+#: ../../support.rst:88
+msgid "If you click on a language name then click on the \"PC-BSD\" hyperlink under the \"Name\" column, you will see each menu item that is available for translation. The example shown in Figure 11.2b is for the Greek localization. In this example, the menu for \"ethernetconfig\" is complete, but the one for \"LifePreserver\" is not."
+msgstr ""
+
+# 147b66904a354e2b813aeb997412c628
+#: ../../support.rst:92
+msgid "**Figure 11.2b: Viewing a Language's Available Menus**"
+msgstr ""
+
+# 9a1871c30b1541f9a830d55bd93a4231
+#: ../../support.rst:96
+msgid "In order to edit a translation, you need to first create a Pootle login account. Once you are logged in to Pootle, navigate to the menu item that you wish to translate. In Figure 11.2c, the translator has clicked on \"LifePreserver.ts\" then clicked the \"Translate\" tab."
+msgstr ""
+
+# 0d0586dae0664ff6bd2e64d274726739
+#: ../../support.rst:99
+msgid "**Figure 11.2c: Using the Pootle Interface to Edit a Translation String**"
+msgstr ""
+
+# 6c4d6a3b604d4122b2fc308d3bb34aa0
+#: ../../support.rst:103
+msgid "In this example, the first string, the phrase \"Classic Home-Dir Backup\" has not yet been translated. To add the translation, type the translated text into the white text field and click the \"Submit\" button. To translate another text field, click on the hyperlink associated with its name, or use the \"Next\" and \"Previous\" links to navigate between text fields. Sometimes, a text field exists in another screen and already has a translation. Figure 11.2d provides an example where the translator clicked the hyperlink for \"Filename\" which displays three previous translations. The translator then clicked the first suggestion and it was automatically added to the white text field."
+msgstr ""
+
+# bd00c2dc502e4da4a3be081019a30a22
+#: ../../support.rst:109
+msgid "**Figure 11.2d: Selecting a Suggested Translation**"
+msgstr ""
+
+# 292a01a4f9304c76b846a14a423be5ab
+#: ../../support.rst:113
+msgid "If you need help with a translation or using the Pootle system, you can ask for help on the translations mailing list or in the `translations forum <https://forums.pcbsd.org/forum-40.html>`_."
+msgstr ""
+
+# 3359f1c8cbda4b7a88b462bc1b6efb22
+#: ../../support.rst:120
+msgid "Documentation Translation"
+msgstr ""
+
+# 3e2109b9ff3b41138cc1a86e7ae9e488
+#: ../../support.rst:122
+msgid "The source for the PC-BSD® Users Handbook is stored in the `PC-BSD® github repository <https://github.com/pcbsd/pcbsd/tree/master/src-qt5/docs>`_. This means that the documentation and any translations can be built with the operating system and updates to this documentation can be automatically installed when the system is updated using :ref:`Update Manager`. This has the added advantage of making sure that the installed version of the Handbook always matches the operating system version and that, as new features are added, that they are documented and appear as a local copy on the user's system. The local copy is stored in :file:`/usr/local/share/pcbsd/doc/html` and a desktop shortcut provides easy access to the documentation."
+msgstr ""
+
+# 4dc9d6433bfb4fbea4aecf952320d56d
+#: ../../support.rst:129
+msgid "At this time, the PC-BSD® build server has been configured to automatically build the HTML version of the PC-BSD® Users Handbook. Over time, additional :file:`Makefiles` will be tested and added to provide the documentation in other formats, such as single HTML, PDF, and EPUB. Instructions for building your own HTML or PDF version can be found in this `README.md <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_."
+msgstr ""
+
+# bc22a14019e144669aa82b99ab4899e0
+#: ../../support.rst:133
+msgid "The documentation source files have been integrated into the Pootle translation system so that the PC-BSD® documentation can be translated using a web browser. The process is similar to :ref:`Interface Translation` except that you must first select \"PC-BSD Handbook\" from the \"Projects\" drop-down menu shown in Figure 11.2e."
+msgstr ""
+
+# 2b840f1e41824fa2b7e6b38f72932523
+#: ../../support.rst:136
+msgid "**Figure 11.2d: Selecting the Handbook Project**"
+msgstr ""
+
+# b858daa5c04d4a45b28a2828a8e4d532
+#: ../../support.rst:140
+msgid "You can then select the language to translate into from the available languages list. If the language that you want to translate is not listed, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_ and request that it be added."
+msgstr ""
+
+# f8ff1cd18a9443b28c24482fa4e173d1
+#: ../../support.rst:143
+msgid "When translating the documentation, be aware of the following:"
+msgstr ""
+
+# 835a6fc324554d15965ad965e6ee6841
+#: ../../support.rst:145
+msgid "At this time, some formatting tags are still displayed in raw text, as seen in the examples in Figures 11.2e and 11.2f. **It is IMPORTANT that you do not accidentally remove the formatting as this can break the documentation build for that language.** In the first example, it is OK to translate the phrase \"Using the Text Installer\" but care must be taken to not accidental remove any of the surrounding colons and backticks, or to change the text of the \"ref\" tag. In the second example, the asterisks are used to bold the word \"install\". It is OK to translate \"install\", but do not remove the asterisks."
+msgstr ""
+
+# d805324c718f4181b306253b4450b562
+#: ../../support.rst:151
+msgid "**Figure 11.2e: Do Not Remove Formatting Characters**"
+msgstr ""
+
+# b596e481eec64386ac4e036da6845779
+#: ../../support.rst:155
+msgid "**Figure 11.2e: Another Formatting Characters Example**"
+msgstr ""
+
+# 235e5600567f4087bd210546a2d2c0bb
+#: ../../support.rst:159
+msgid "If you would like to receive notifications of documentation changes that affect translations, subscribe to the `Translation-notifications <http://lists.pcbsd.org/mailman/listinfo/translations-notifications>`_ mailing list."
+msgstr ""
+
+# 58c0f585faf14ae4bb2d8381a02df4c3
+#: ../../support.rst:162
+msgid "If you would like to build a local HTML copy that includes the latest translations, either for your own use or to visualize the translated Guide, do the following from the command line. These instructions are for a PC-BSD® system::"
+msgstr ""
+
+# 94100d11ec22410faec2ce277a515e47
+#: ../../support.rst:177
+msgid "This will make an HTML version of the Guide for each of the available translations. In this example, translations are available for English (in :file:`html`), German, Spanish, French, Brazilian Portuguese, and UK English. To update the HTML at a later time::"
+msgstr ""
+
+# 200a71e0161c4f01bf61dc69503d70ee
+#: ../../support.rst:190
+msgid "Website Translation"
+msgstr ""
+
+# d540a0623f174aa49959955f989694d0
+#: ../../support.rst:192
+msgid "If you are interested in translating the PC-BSD® website, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_. Someone will introduce you to the webmaster who will get you started on website translation."
+msgstr ""
+
+# a5bc4efb53574d848e750d80b54bf329
+#: ../../support.rst:196
+msgid "Currently, the following translated websites are available:"
+msgstr ""
+
+# a3a0dc9b226b4030bda9a1119760f416
+#: ../../support.rst:198
+msgid "`French <http://www.pcbsd.org/fr/>`_"
+msgstr ""
+
+# 4a3019f8eecd4ebd8498a4ef9a7059c3
+#: ../../support.rst:200
+msgid "`Spanish <http://www.pcbsd.org/es/>`_"
+msgstr ""
+
+# 823402f95e6546668ae7a0b443cc10e2
+#: ../../support.rst:206
+msgid "Become a Developer"
+msgstr ""
+
+# 745ed3abdfab45468991ec4d247fb906
+#: ../../support.rst:208
+msgid "If you like programming, and especially coding on FreeBSD, we would love to see you join the PC-BSD® team as a PC-BSD® committer. Developers who want to help improve the PC-BSD® codebase are always welcome! If you would like to participate in core development, subscribe to the `developers mailing list <http://lists.pcbsd.org/mailman/listinfo/dev>`_. Once you have signed up, feel free to browse the active tickets in the PC-BSD® `bug tracker <https://bugs.pcbsd.org/projects/pcbsd/>`_. If you see something that you want to work on, or have a proposal for a project you wish to add to PC-BSD®, please let us know via the developers list and we will be happy to help get you started."
+msgstr ""
+
+# d5647c05817943f1ae300e02d7ac6ca4
+#: ../../support.rst:214
+msgid "Most of the PC-BSD® specific GUI tools are developed in C++ using the Qt Libraries, and other non-GUI development is done using standard Bourne shell scripts. There may be cases where other languages or libraries are needed, but those will be evaluated on a case-by-case basis, so feel free to let us know your proposals on the developers mailing list."
+msgstr ""
+
+# 37a225502b814863bed35b3079249d75
+#: ../../support.rst:222
+msgid "Getting the Source Code"
+msgstr ""
+
+# 89682aeaf56141f482f2830f48f4dbed
+#: ../../support.rst:224
+msgid "The PC-BSD® source code is available from github and :command:`git` needs to be installed in order to download the source code. When using PC-BSD®, :command:`git` is included in the base install."
+msgstr ""
+
+# 407ffc4c57a84ce9acfc3d177b55c077
+#: ../../support.rst:227
+msgid "To download the source code, :command:`cd` to the directory to store the source and type::"
+msgstr ""
+
+# 9e536741058a4860ac99d3952ed24451
+#: ../../support.rst:231
+msgid "This will create a directory named :file:`pcbsd/` which contains the local copy of the repository. To keep the local copy in sync with the official repository, run :command:`git pull` within the :file:`pcbsd` directory."
+msgstr ""
+
+# fd81575683a848d9be6208dfda4b3036
+#: ../../support.rst:234
+msgid "PC-BSD® graphical applications use Qt version 5 and their source is located in :file:`pcbsd/src-qt5/`. In order to compile the applications in this directory, install the \"PC-BSD Build Toolchain\" PBI using :ref:`AppCafe®`. To instead install this PBI from the command line, type :command:`pkg install pcbsd-toolchain`."
+msgstr ""
+
+# fc857aa586c4438cad09875653e9117b
+#: ../../support.rst:237
+msgid "Most of the PC-BSD® source code is divided into two sub-categories:"
+msgstr ""
+
+# 4d4785fda5c04498a0ab96b18016a469
+#: ../../support.rst:239
+msgid ":file:`src-sh/` contains shell and C programs which do not include GUIs. These are the command line utilities used in TrueOS® and PC-BSD®."
+msgstr ""
+
+# 7c9d880c9fca4120816c10bed42ffa19
+#: ../../support.rst:241
+msgid ":file:`src-qt5/` contains the Qt5-based GUIs seen in PC-BSD®."
+msgstr ""
+
+# 17c1cf832a5f4f0e9b8d330887237607
+#: ../../support.rst:243
+msgid "To compile the command line utilities::"
+msgstr ""
+
+# b0c9abf2fee848f9a75eb93fd594b5d1
+#: ../../support.rst:249
+msgid "To compile the graphical utilities::"
+msgstr ""
+
+# 48ddecafa9364f8c96c1340f06f4b197
+#: ../../support.rst:257
+msgid "Several Qt IDEs are available in :ref:`AppCafe®`. The `QtCreator <http://wiki.qt.io/Category:Tools::QtCreator>`_ PBI is a full-featured IDE designed to help new Qt users get up and running faster while boosting the productivity of experienced Qt developers. `Qt Designer <http://doc.qt.io/qt-4.8/designer-manual.html>`_ is lighter weight as it is only a :file:`.ui` file editor and does not provide any other IDE functionality. To install this package, check the \"Search all available PBI and packages\" in the \"App Search\" tab of AppCafe® and search for \"qt5-designer\". Alternately, install it using :command:`pkg install qt5-designer`."
+msgstr ""
+
+# 4aeff6c8f73e4dda9e994f62633f9786
+#: ../../support.rst:263
+msgid "If you plan to submit changes so that they can be included in PC-BSD®, fork the repository using the instructions in `fork a repo <https://help.github.com/articles/fork-a-repo>`_. Make your changes to the fork, then submit them by issuing a `git pull request <https://help.github.com/articles/using-pull-requests>`_. Once your changes have been reviewed, they will be committed or sent back with suggestions."
+msgstr ""
+
+# 54ee1d05854d429fb7b140e7e0622e8a
+#: ../../support.rst:272
+msgid "Design Guidelines"
+msgstr ""
+
+# a09cf3e23f3d457f932adf4347f6bc09
+#: ../../support.rst:274
+msgid "PC-BSD® is a community driven project that relies on the support of developers in the community to help in the design and implementation of new utilities and tools for PC-BSD®. The Project aims to present a unified design so that programs feel familiar to users. As an example, while programs could have \"File\", \"Main\", or \"System\" as their first entry in a menu bar, \"File\" is used as the accepted norm for the first category on the menu bar."
+msgstr ""
+
+# 7835be28dee34a21b28822054126f1c9
+#: ../../support.rst:278
+msgid "This section describes a small list of guidelines for menu and program design in PC-BSD®."
+msgstr ""
+
+# 9f4d4c5aac8a425f92cf85be39f3fb79
+#: ../../support.rst:280
+msgid "Any graphical program that is a full-featured utility, such as :ref:`Life Preserver`, should have a \"File\" menu. However, file menus are not necessary for small widget programs or dialogue boxes. When making a file menu, a good rule of thumb is keep it simple. Most PC-BSD® utilities do not need more than two or three items on the file menu."
+msgstr ""
+
+# 041b1f8cb4f04acc8cb2269e5638b386
+#: ../../support.rst:284
+msgid "\"Configure\" is our adopted standard for the category that contains settings or configuration-related settings. If additional categories are needed, check to see what other PC-BSD® utilities are using."
+msgstr ""
+
+# a2c57b3c524344119752f26ef9cb9f86
+#: ../../support.rst:287
+msgid "File menu icons are taken from the KDE Oxygen theme located in :file:`/usr/local/share/icons/oxygen`. Use these file menu icons so we do not have a bunch of different icons used for the same function. Table 11.3a lists the commonly used icons and their default file names."
+msgstr ""
+
+# 598e94e102e643aab54fbbdd7efd8026
+#: ../../support.rst:291
+msgid "**Table 11.3a: Commonly Used File Menu Icons**"
+msgstr ""
+
+# 39b72116670e4ca0b5f4754fb3196446
+#: ../../support.rst:294
+msgid "Function"
+msgstr ""
+
+# f6c85041ef864502aa3b44782fbd40ff
+#: ../../support.rst:294
+msgid "File Menu Icon"
+msgstr ""
+
+# e78501365dd843bc89159ec20cdd355e
+#: ../../support.rst:294
+msgid "File Name"
+msgstr ""
+
+# 695cd4156d254455aa0734f8b77b1dec
+# 91d43140a1f94f479848b05ec2cc8f2e
+# 0eaf7e67cf5046289205ad0d824d7c23
+#: ../../support.rst:296
+#: ../../support.rst:329
+#: ../../support.rst:339
+msgid "Quit"
+msgstr ""
+
+# a797dd1a518f4d65885a50a968c0a144
+#: ../../support.rst:296
+msgid "row 1, cell 2"
+msgstr ""
+
+# 53ff9daa18094865a530d28c4bee9967
+#: ../../support.rst:296
+msgid "window-close.png"
+msgstr ""
+
+# 8ada6893d78141f8a86d00c4c6d9f6c2
+# 9b5719d21b134bc097471dec5b2c8c30
+#: ../../support.rst:298
+#: ../../support.rst:341
+msgid "Settings"
+msgstr ""
+
+# be875ce0c1e9447fb6058851f9418b74
+#: ../../support.rst:298
+msgid "row 2, cell 2"
+msgstr ""
+
+# 2e7de4dc1bc64f639cd404c5ebcfeea2
+#: ../../support.rst:298
+msgid "configure.png"
+msgstr ""
+
+# b24c98415b624046bf97ece20763f90e
+#: ../../support.rst:302
+msgid "PC-BSD® utilities use these buttons as follows:"
+msgstr ""
+
+# 9acec7763ed844299e117ff5809b3d73
+#: ../../support.rst:304
+msgid "**Apply:** applies settings and leaves the window open."
+msgstr ""
+
+# 287874eed0e24d818c825407eaeeadf0
+#: ../../support.rst:306
+msgid "**Close:** closes program without applying settings."
+msgstr ""
+
+# 276685c9155b4e2e8d27bce50c5d0639
+#: ../../support.rst:308
+msgid "**OK:** closes dialogue window and saves settings."
+msgstr ""
+
+# b3911fb3fc694af7a4afd77c5d42fb55
+#: ../../support.rst:310
+msgid "**Cancel:** closes dialog window without applying settings."
+msgstr ""
+
+# 5785c11f5d584eb3a5edf8428e5af59b
+#: ../../support.rst:312
+msgid "**Save:** saves settings and closes window."
+msgstr ""
+
+# 7aaf0da0baf84fc7a72921025c1acb1d
+#: ../../support.rst:314
+msgid "Fully functional programs like :ref:`Life Preserver` do not use close buttons on the front of the application. Basically, whenever there is a \"File\" menu, that and an \"x\" in the top right corner of the application are used instead. Dialogues and widget programs are exceptions to this rule. A good example of a widget program would be :ref:`Update Manager`."
+msgstr ""
+
+# cb8a8a48e347491ab61ab91c454c1f8d
+#: ../../support.rst:318
+msgid "Many users benefit from keyboard shortcuts and we aim to make them available in every PC-BSD® utility. Qt makes it easy to assign keyboard shortcuts. For instance, to configure keyboard shortcuts that browse the \"File\" menu, put *&File* in the text slot for the menu entry when making the application. Whichever letter has the *&* symbol in front of it will become the hot key. You can also make a shortcut key by clicking the menu or submenu entry and assigning a shortcut key. Be careful not to duplicate hot keys or shortcut keys. Every key in a menu and submenu should have a key assigned for ease of use and accessibility. Tables 11.3b and 11.3c summarize the commonly used shortcut and hot keys."
+msgstr ""
+
+# bfc3f7452ad9474fb829aa7c716ec49a
+#: ../../support.rst:324
+msgid "**Table 11.3b: Shortcut Keys**"
+msgstr ""
+
+# 31d9c37e833d41fc81e6d276ba5d3a1b
+#: ../../support.rst:327
+msgid "Shortcut Key"
+msgstr ""
+
+# 5b7ce72aa1e34232af0686bf6cb336cb
+# e06c54d1b6af414b931b342ffabdaa43
+#: ../../support.rst:327
+#: ../../support.rst:337
+msgid "Action"
+msgstr ""
+
+# 943c610182d24c95bac698cb573e0a28
+#: ../../support.rst:329
+msgid "CTRL + Q"
+msgstr ""
+
+# 0b283b5d9b8a447082df57c2e4e127ff
+#: ../../support.rst:331
+msgid "F1"
+msgstr ""
+
+# 460f2eb01dbc4551b7f4b6dc6c1ce4a9
+#: ../../support.rst:331
+msgid "Help"
+msgstr ""
+
+# b0492fb7accf431394494664aa6951af
+#: ../../support.rst:334
+msgid "**Table 11.3c: Hot Keys**"
+msgstr ""
+
+# ee4a4fa4a68442c29ca94f934c539f53
+#: ../../support.rst:337
+msgid "Hot Key"
+msgstr ""
+
+# cc4ef7ec6af146a783671f4bb2d63423
+#: ../../support.rst:339
+msgid "Alt + Q"
+msgstr ""
+
+# fa3cb944635448c599cd7d7075ce2128
+#: ../../support.rst:341
+msgid "Alt + S"
+msgstr ""
+
+# 4efe81197d3d4ff6a4a1d94e370971b1
+#: ../../support.rst:343
+msgid "Alt + I"
+msgstr ""
+
+# a3f00be628c34df397f1c103a582b207
+#: ../../support.rst:343
+msgid "Import"
+msgstr ""
+
+# 2f073855389e415fafe59fd84babf027
+#: ../../support.rst:345
+msgid "Alt + E"
+msgstr ""
+
+# 6d137f3bbe4744f48cbf72050356d29a
+#: ../../support.rst:345
+msgid "Export"
+msgstr ""
+
+# 6ae12c2e87b842628ffae0ec9c3e64a7
+#: ../../support.rst:347
+msgid "ALT + F"
+msgstr ""
+
+# e98fe8be18d64d79a72d38a4f2fab2d8
+#: ../../support.rst:347
+msgid "File Menu"
+msgstr ""
+
+# 7e28d640a00a4643971e3581e6856292
+#: ../../support.rst:349
+msgid "ALT + C"
+msgstr ""
+
+# e114e54b9a4845429a21684987a01d91
+#: ../../support.rst:349
+msgid "Configure Menu"
+msgstr ""
+
+# b06ffc985ba54af5a98fd6b2d4023ac5
+#: ../../support.rst:351
+msgid "ALT + H"
+msgstr ""
+
+# 70179ce70bca41118a61365e2e3cd7ae
+#: ../../support.rst:351
+msgid "Help Menu"
+msgstr ""
+
+# 47372535845042f09d13238a07f9be22
+#: ../../support.rst:354
+msgid "When saving an application's settings, the QSettings class should be used if possible. There are two different \"organizations\", depending on whether the application is running with *root* permissions or user permissions. Use \"PCBSD\" for the organization for applications that run with user permissions and \"PCBSD-root\" for applications that are started with root permissions via :command:`sudo`. Proper use prevents the directory where settings files are saved from being locked down by *root* applications, allowing user applications to save and load their settings. Examples 11.3a and 11.3b demonstrate how to use the QSettings class for each type of permission."
+msgstr ""
+
+# e4c3f952f3b04cf190781f3187b14ea1
+#: ../../support.rst:360
+msgid "**Example 11.3a: User Permission Settings**::"
+msgstr ""
+
+# 42c6c02a1ea3452a9b3f8ae91f85ae2c
+#: ../../support.rst:365
+msgid "**Example 11.3b: Root Permission Settings**::"
+msgstr ""
+
+# 9dbb20c3544f44d98313d3790e227fcf
+#: ../../support.rst:371
+msgid "Developers will also find the following resources helpful:"
+msgstr ""
+
+# dc547c01ad96443a97430aa97603c61d
+#: ../../support.rst:373
+msgid "`Commits Mailing List <http://lists.pcbsd.org/mailman/listinfo/commits>`_"
+msgstr ""
+
+# fa3f4d02fbf148a690758faf515c4e2a
+#: ../../support.rst:375
+msgid "`Qt 5.4 Documentation <http://doc.qt.io/qt-5/index.html>`_"
+msgstr ""
+
+# 40a25e9aabfb4f2087d3609f9182c527
+#: ../../support.rst:377
+msgid "`C++ Tutorials <http://www.cplusplus.com/doc/tutorial/>`_"
+msgstr ""
+
+# 584431f37af9471299a7942f00d5d132
+#: ../../support.rst:383
+msgid "Make Minor Modifications to a PBI Module"
+msgstr ""
+
+# e9407ef9a43949a587a3b31fa1e15170
+#: ../../support.rst:385
+msgid "If you have a GitHub account and are logged in, you can contribute minor PBI changes to the `pbi-modules repository <https://github.com/pcbsd/pcbsd/tree/master/pbi-modules>`_ using a web browser. If you do not have a GitHub account, `create one <https://github.com/>`_ using a valid email address as you will need to confirm your email address."
+msgstr ""
+
+# edde40261448428facd70e5ab7ca783d
+#: ../../support.rst:389
+msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 8.1a."
+msgstr ""
+
+# 9ffda58ff5cc4c68a6f9c36dcd342536
+#: ../../support.rst:395
+msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
+msgstr ""
+
+# 352b0234eeab4fd9948896cfd663f15c
+#: ../../support.rst:404
+msgid "Purchase PC-BSD® Swag"
+msgstr ""
+
+# d74601ad84844fb6868870cced2fe2a3
+#: ../../support.rst:406
+msgid "While PC-BSD® is free, some users may wish to purchase media or other items to show their support for the PC-BSD® Project. PC-BSD® items are available from the following websites:"
+msgstr ""
+
+# a54ab6b9d43947259de59b682580475d
+#: ../../support.rst:409
+msgid "`FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
+msgstr ""
+
+# dad9fab24ad14642a22fe858b1eef7bf
+#: ../../support.rst:412
+msgid "Amazon: sells The Definitive Guide to PC-BSD® (hard copy and Kindle formats) as well as the Kindle versions of the PC-BSD® Handbook. Items available for purchase in your country may vary."
+msgstr ""
+
+# 3c4844dd964e4546b1b95fb5b5b5d03c
+#: ../../support.rst:415
+msgid "`The PC-BSD® Corporate Storefront <http://pcbsd.qbstores.com/>`_: sells high-quality apparel and accessories."
+msgstr ""
+
+# 69b3f8e018f94b0c9c6fb75242266bd9
+#: ../../support.rst:421
+msgid "Become an Advocate"
+msgstr ""
+
+# 4fce6ddb40f0452fb20e2e7435d0701c
+#: ../../support.rst:423
+msgid "So you love PC-BSD®? Why not tell your family, friends, fellow students and colleagues about it? You will not be the only one that likes a virus-free, feature-rich, no-cost operating system. Here are some suggestions to get you started:"
+msgstr ""
+
+# 79b6e6f0356245c5804e7cfbed715caa
+#: ../../support.rst:426
+msgid "Burn a couple of DVDs and pass them out. If your school or user group has an upcoming event where you can promote PC-BSD®, you can request additional DVDs from sales@pcbsd.com."
+msgstr ""
+
+# 5a256463ef4d436fa99cdb4b1a89af0e
+#: ../../support.rst:429
+msgid "Consider giving a presentation about PC-BSD® at a local community event or conference. Let us know about it and we will help you spread the word."
+msgstr ""
+
+# 489bd6f28e4e4730a76be45ab571b7c8
+#: ../../support.rst:431
+msgid "Write a personal blog detailing your journey from your first PC-BSD® install experience to your most recent accomplishment. The blog could also be used to teach or explain how to perform tasks on PC-BSD®. A regional language blog may help build the community in your area and to find others with similar interests."
+msgstr ""
+
+# 373ee7ddaf9347f4b480e1844eed9ee1
+# 65e9b8d147c8400da871e804b136392a
+# d8d14d0ecf4345c492a46594eef3467f
+#: ../../support.rst:1
+#: ../../support.rst:400
+#: ../../support.rst:417
+msgid "advocacy"
+msgstr ""
+
+# 2c950333e2c74a0aa4d9a9bac91cca97
+#: ../../support.rst:9
+msgid "testing"
+msgstr ""
+
+# 54fcf9063f05423085bdcad74534497d
+# 7d9b011c56ed41e9921a8ecaaa0fb871
+# 74933d58fc7a4cbe99eadfeb47ef6ccf
+# a0ae9336ce4c4bf392b17307bd2f9685
+#: ../../support.rst:44
+#: ../../support.rst:65
+#: ../../support.rst:116
+#: ../../support.rst:186
+msgid "translations"
+msgstr ""
+
+# 0219e9a2adac45328569fcacd8a33a59
+# d72e7fa1aee345258bc3123adef466a8
+# 6ac667fe0b2f4a60a63f445eb12cbf35
+# 39dd93617f87443b9e059c72eacfe058
+#: ../../support.rst:202
+#: ../../support.rst:218
+#: ../../support.rst:268
+#: ../../support.rst:379
+msgid "development"
+msgstr ""

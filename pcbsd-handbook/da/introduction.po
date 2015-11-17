@@ -1,0 +1,1032 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2015, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# e2c5bbd654b34a42896df37091a48895
+#: ../../introduction.rst:2
+msgid "**Preface**"
+msgstr ""
+
+# b4a7b488fa534c4493da86fc56a4f741
+#: ../../introduction.rst:4
+msgid "Written by users of the PC-BSD® operating system."
+msgstr ""
+
+# 75834a3adeee48cbada8a189b6141c83
+#: ../../introduction.rst:6
+msgid "Version |version|"
+msgstr ""
+
+# cf586867b443421ea1b994d31d1145c9
+#: ../../introduction.rst:8
+msgid "Copyright © 2005 - 2015 The PC-BSD® Project."
+msgstr ""
+
+# 910118bc567b4d4db1c0cc7504e23ea1
+#: ../../introduction.rst:10
+msgid "Welcome to PC-BSD®! This Handbook covers the installation and use of PC-BSD® |version|. This Handbook is a work in progress and relies on the contributions of many individuals. If you are interested in assisting with the Handbook, refer to the documentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_. If you use IRC Freenode, you are welcome to join the #pcbsd channel where you will find other PC-BSD® users."
+msgstr ""
+
+# 688de4e74af34025b93c7223f3ef2a27
+#: ../../introduction.rst:12
+msgid "Previous versions of the Handbook in various formats and languages are available from `here <ftp://ftp.pcbsd.org/pub/handbook/>`_."
+msgstr ""
+
+# 7d3c4ef2eefc4bd49a6a0a2e72b58794
+#: ../../introduction.rst:14
+msgid "The PC-BSD® Users Handbook is freely available for sharing and redistribution under the terms of the `Creative Commons Attribution License <https://creativecommons.org/licenses/by/4.0/>`_. This means that you have permission to copy, distribute, translate, and adapt the work as long as you attribute the PC-BSD® Project as the original source of the Handbook."
+msgstr ""
+
+# 63ea424ebf344163bd8144fa5a6ea097
+#: ../../introduction.rst:16
+msgid "PC-BSD® and the PC-BSD® logo are registered trademarks of `iXsystems <https://www.ixsystems.com/>`_. If you wish to use the PC-BSD® logo in your own works, ask for permission first from marketing@ixsystems.com."
+msgstr ""
+
+# 20d97b7cdcf24497856d04030c0d9197
+#: ../../introduction.rst:18
+msgid "AMD is a trademark of Advanced Micro Devices, Inc."
+msgstr ""
+
+# 719443c9c7164ecdbf46ceff8b96cd77
+#: ../../introduction.rst:20
+msgid "Apache is a trademark of The Apache Software Foundation."
+msgstr ""
+
+# 73d60ca19e324d768c57dd4886907760
+#: ../../introduction.rst:22
+msgid "AppCafe® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+
+# f70bd5804d82435299e6cc0682046a1d
+#: ../../introduction.rst:24
+msgid "Asus® and Eee PC® are registered trademarks of ASUSTeK® Computer Inc."
+msgstr ""
+
+# 648c7f02f8c343469b8266612cb30725
+#: ../../introduction.rst:26
+msgid "Facebook® is a registered trademark of Facebook Inc."
+msgstr ""
+
+# 6567439c3d2f4e73b7d320daac2b4c12
+#: ../../introduction.rst:28
+msgid "Flash® is a registered trademark of Adobe Systems Incorporated in the United States and/or other countries."
+msgstr ""
+
+# c7b1fe0f9b874fbea32ac167e2aefc30
+#: ../../introduction.rst:30
+msgid "FreeBSD® is a registered trademark of the `FreeBSD Foundation <https://www.freebsdfoundation.org/>`_."
+msgstr ""
+
+# 401fc1fd2936476581f1951e2f2ccb23
+#: ../../introduction.rst:32
+msgid "FreeNAS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+
+# ccffd5410c754f28a06a7d663cf0d9fe
+#: ../../introduction.rst:34
+msgid "IBM® is a registered trademark of International Business Machines Corporation."
+msgstr ""
+
+# 5e2284f4a2ee45c8a31b26878acb40da
+#: ../../introduction.rst:36
+msgid "Intel, the Intel logo, Pentium Inside, and Pentium are trademarks of Intel Corporation in the U.S. and/or other countries."
+msgstr ""
+
+# bf7e5b320c3348c2b545c231b60e8782
+#: ../../introduction.rst:38
+msgid "Java™ is a trademark of Oracle America and/or its affiliates in the United States and other countries."
+msgstr ""
+
+# 6be6b63345254743ae25c135144f9a49
+#: ../../introduction.rst:40
+msgid "Lenovo® is a registered trademark of Lenovo."
+msgstr ""
+
+# 6c1faa03e7aa430cb9d88b4e4baf3430
+#: ../../introduction.rst:42
+msgid "LinkedIn® is a registered trademark of LinkedIn Corporation."
+msgstr ""
+
+# 29442af215054097a9f713f9b28b7612
+#: ../../introduction.rst:44
+msgid "Linux® is a registered trademark of Linus Torvalds."
+msgstr ""
+
+# 7a3e47eb062145c4a74f15934c1fb690
+#: ../../introduction.rst:46
+msgid "Mac and Mac OS are trademarks of Apple Inc., registered in the U.S. and other countries."
+msgstr ""
+
+# 8568b774d8944b18b91128724a0d6169
+#: ../../introduction.rst:48
+msgid "MacBook® is a registered trademark of Apple Inc."
+msgstr ""
+
+# 21af3f0986d84397a3cd2231f9485968
+#: ../../introduction.rst:50
+msgid "MySQL is a trademark of Oracle."
+msgstr ""
+
+# 85418a676b9242bca23287357291c84b
+#: ../../introduction.rst:52
+msgid "NVIDIA® is a trademark and/or registered trademark of NVIDIA Corporation in the U.S. and other countries."
+msgstr ""
+
+# fb8b7b07038643babed0406295abeb77
+#: ../../introduction.rst:54
+msgid "PostgreSQL® is a registered trademark of the PostgreSQL Global Development Group."
+msgstr ""
+
+# 5c3095ec2ffa4400804c0479b77bd947
+#: ../../introduction.rst:56
+msgid "ThinkPad® is a registered trademark of Lenovo."
+msgstr ""
+
+# 7bddc103ce5340e38ff802309baf2726
+#: ../../introduction.rst:58
+msgid "TrueOS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+
+# 51bce8df5eb545c18b71934e457c42bd
+#: ../../introduction.rst:60
+msgid "Twitter is a trademark of Twitter, Inc. in the United States and other countries."
+msgstr ""
+
+# ce748f99ae944b45b13d5449e01720fa
+#: ../../introduction.rst:62
+msgid "UNIX® is a registered trademark of The Open Group."
+msgstr ""
+
+# 3ac2abb15ef34e7f91cbb40f87b9fa8e
+#: ../../introduction.rst:64
+msgid "VirtualBox® is a registered trademark of Oracle."
+msgstr ""
+
+# d090c7dcbc654d0cbca332813a721a7f
+#: ../../introduction.rst:66
+msgid "VMWare® is a registered trademark of VMWare, Inc."
+msgstr ""
+
+# 2ad7586ef1e2432794d453158a0084f5
+#: ../../introduction.rst:68
+msgid "Windows® is a registered trademark of Microsoft Corporation in the United States and other countries."
+msgstr ""
+
+# e89acfe3dd7d4a43a7474dd616b6910a
+#: ../../introduction.rst:70
+msgid "**Typographic Conventions**"
+msgstr ""
+
+# ba639d72c1c64668a93e8741814bbcfa
+#: ../../introduction.rst:72
+msgid "Names of graphical elements such as buttons, icons, fields, columns, and boxes are enclosed within quotes. For example: click the \"Browse Categories\" button."
+msgstr ""
+
+# 144164b09d474a71b286b9b12e35247c
+#: ../../introduction.rst:74
+msgid "Menu selections are italicized and separated by arrows. For example: :menuselection:`Control Panel --> About`."
+msgstr ""
+
+# ca00f05e91b04934ae7b2ed4fb221e40
+#: ../../introduction.rst:76
+msgid "Commands that are mentioned within text are highlighted in :command:`bold text`. Command examples and command output are contained in green code blocks."
+msgstr ""
+
+# 28801a4cf9e645b0a2d3fdea98145436
+#: ../../introduction.rst:78
+msgid "File names are enclosed in a blue box :file:`/like/this`."
+msgstr ""
+
+# 37a719dfe9174198b40d5eb07b86f201
+#: ../../introduction.rst:80
+msgid "Keystrokes are formatted in a blue box. For example: press :kbd:`Enter`."
+msgstr ""
+
+# ffaa1fbefdbb42a685a94c338856171e
+#: ../../introduction.rst:82
+msgid "**bold text** is used to emphasize an important point."
+msgstr ""
+
+# c5e84a40f25f4b50a08c186aee7b987b
+#: ../../introduction.rst:84
+msgid "*italic text* is used to represent device names or text that is input into a GUI field."
+msgstr ""
+
+# 6308c68193d94c50b406c20b2a8db190
+#: ../../introduction.rst:87
+msgid "Introduction"
+msgstr ""
+
+# 13cbd4755fbe421fa0f7f03ee3a4ed56
+#: ../../introduction.rst:89
+msgid "Welcome to PC-BSD®!"
+msgstr ""
+
+# 294897dcb291404b89167187c822a907
+#: ../../introduction.rst:91
+msgid "`PC-BSD® <http://www.pcbsd.org/>`_ began in 2005 when Kris Moore presented the first beta version of a FreeBSD operating system pre-configured for desktop use. Since then, PC-BSD® has matured into a polished, feature-rich, free-of-charge, open source operating system that meets the desktop or server needs of the beginner to the advanced user alike."
+msgstr ""
+
+# 98b17fd1a7bd4c8c806d25ca2a668bfe
+#: ../../introduction.rst:93
+msgid "PC-BSD® is essentially a customized installation of FreeBSD, not a forked derivative. Since the underlying FreeBSD system has been kept intact, you have a fully functional FreeBSD system under the hood. PC-BSD® provides a graphical installer which can be used to easily install a desktop or a server version of FreeBSD, known as TrueOS®. Other differences from FreeBSD include:"
+msgstr ""
+
+# a9d2c944a16f4e8891a0bb2f0a286b5c
+#: ../../introduction.rst:95
+msgid "PC-BSD® pre-configures at least one desktop environment during a desktop installation. Installed desktop environments appear in the login menu, allowing the user to select which environment to log into."
+msgstr ""
+
+# 6f297854666642c88b05dd313fb217c4
+#: ../../introduction.rst:97
+msgid "The PC-BSD® graphical installer supports additional features such as configuring ZFS and encryption during installation."
+msgstr ""
+
+# 1c4da90ebb084f8f8fd187d02cb7ec8e
+#: ../../introduction.rst:99
+msgid "PC-BSD® provides a graphical software management system for the desktop and a command line equivalent for the server."
+msgstr ""
+
+# 1353d24aa75b41738510de6e09fcbee5
+#: ../../introduction.rst:101
+msgid "PC-BSD® provides a :ref:`Control Panel` of utilities for configuring the system. The graphical versions of these utilities are available on both versions, the desktop and server."
+msgstr ""
+
+# e4c093c2e66345268114bc0b7b523f00
+#: ../../introduction.rst:103
+msgid "PC-BSD® comes pre-configured with a number of automatic scripts to perform tasks such as connecting digital cameras or USB memory sticks."
+msgstr ""
+
+# 5e754dcb02b940bb8d19c1542ca7493e
+#: ../../introduction.rst:105
+msgid "The PC-BSD® boot menu supports boot environments, or snapshots of the operating system, and the PC-BSD® Update Manager automatically adds a new boot environment to the boot menu before updating the operating system or software. This means that if an update fails, you can reboot into the previous version of the operating system, before the update occurred."
+msgstr ""
+
+# d60a49700d5d413bb30b32f850175c5a
+#: ../../introduction.rst:107
+msgid "PC-BSD® started off as an independent project, but since October, 2006 PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+
+# 8a65d8c60a7c4374af5232379aaef208
+#: ../../introduction.rst:113
+msgid "Goals and Features"
+msgstr ""
+
+# dc522c03c67045daa10ea2f052f71a20
+#: ../../introduction.rst:115
+msgid "PC-BSD® provides the following features:"
+msgstr ""
+
+# 552b65a2f7a245d3954063c55521b39e
+#: ../../introduction.rst:117
+msgid "**Easy installation:** to install either a graphical desktop or command-line server version of PC-BSD®, simply insert the installation media, reboot the system to start the installer, and answer a few questions in the installation menus."
+msgstr ""
+
+# e07d91b87574445f97edcc54c52a665a
+#: ../../introduction.rst:120
+msgid "**Automatically configured hardware:** video, sound, network, and other devices are automatically configured for you."
+msgstr ""
+
+# 095f4a3318ab4725a7bbc42ac66d38b9
+#: ../../introduction.rst:122
+msgid "**Intuitive desktop interface:** PC-BSD® comes with a choice of :ref:`Desktops` to support your day-to-day computing needs."
+msgstr ""
+
+# 75cdf70b01d542f5a9f937922bc38342
+#: ../../introduction.rst:124
+msgid "**Easy software management:** with :ref:`AppCafe®`, installing, upgrading, and uninstalling software is safe and easy."
+msgstr ""
+
+# 21b09d7ed27b4ef6b715d3e9201b7bd0
+#: ../../introduction.rst:126
+msgid "**Lots of software available:** in addition to its own software, PC-BSD® can install software that has been ported to FreeBSD (currently over 24,700 applications)."
+msgstr ""
+
+# c1b6267010c04239b265a3fa557b95af
+#: ../../introduction.rst:129
+msgid "**Easy to update:** PC-BSD® provides a built-in :ref:`Update Manager` that will notify you of available updates and allow you to apply operating system security fixes, bug fixes, and system enhancements as well as upgrade to newer versions of the operating system or installed software."
+msgstr ""
+
+# 7f66863babc04b72ba03a978025d359d
+#: ../../introduction.rst:132
+msgid "**Virus-free:** PC-BSD® is not affected by viruses, spyware, or other malware."
+msgstr ""
+
+# d1562dac21a34deb8cc5230edc941a8f
+#: ../../introduction.rst:134
+msgid "**No defragmentation:** PC-BSD® hard drives do not need to be defragmented and do not slow down over time. PC-BSD® uses OpenZFS which is a self-healing filesystem."
+msgstr ""
+
+# ae5c52832bd24119bac2d1c739bfed1b
+#: ../../introduction.rst:137
+msgid "**Laptop support:** provides power saving and swap space encryption and automatically switches between wired and wifi network connections."
+msgstr ""
+
+# d456b263f0e843ce8629b004680ca9c6
+#: ../../introduction.rst:139
+msgid "**Secure environment:** PC-BSD® provides a pre-configured firewall and a built-in host-based Intrusion Detection System."
+msgstr ""
+
+# e1e5ffa2a8da468a9afacc7b7abe4646
+#: ../../introduction.rst:141
+msgid "**Easy system administration:** PC-BSD® provides a :ref:`Control Panel` containing many graphical tools for performing system administration tasks."
+msgstr ""
+
+# 52e9a64eaa364121a6ac8aa88981b43f
+#: ../../introduction.rst:143
+msgid "**Localization:** PC-BSD® supports a number of native languages and locales."
+msgstr ""
+
+# 9493b4080ae54e37a3d097b4944f5361
+#: ../../introduction.rst:145
+msgid "**Vibrant community:** PC-BSD® has a friendly and helpful community."
+msgstr ""
+
+# 01001b728a344e2a850801d02003850c
+#: ../../introduction.rst:147
+msgid "**Professional support:** professional email and phone support is available from `iXsystems <https://www.ixsystems.com/support/>`_."
+msgstr ""
+
+# fd80fa746dd04fdcb4e7481c92e478ac
+#: ../../introduction.rst:154
+msgid "What's New in |version|"
+msgstr ""
+
+# 845b9c50dda54bd0bc32228d804e9bcd
+#: ../../introduction.rst:156
+msgid "The following features or enhancements were introduced for PC-BSD® |version|:"
+msgstr ""
+
+# 41a2cd11aa83454f96bf8b06195fac77
+#: ../../introduction.rst:158
+msgid "Based on FreeBSD 10.2 which adds these `features <https://www.freebsd.org/releases/10.2R/relnotes.html>`_."
+msgstr ""
+
+# c09300aaf2c74cd4947d9986051ce7fb
+#: ../../introduction.rst:160
+msgid "CD-sized network installers are available for both the graphical and text installers. The installation looks the same for both, with the difference being the size of the downloaded media and the fact that the installation files are retrieved over the network rather than from the installation media."
+msgstr ""
+
+# 5d17c01e010c4ed08cc0197493607508
+#: ../../introduction.rst:163
+msgid "Lumina has been updated to `0.8.6 <http://blog.pcbsd.org/2015/08/lumina-desktop-0-8-6-released/>`_."
+msgstr ""
+
+# 9cd01f629d43483f90700367b4da54ef
+#: ../../introduction.rst:165
+msgid "`iocage <https://github.com/iocage/iocage>`_ has replaced Warden as the back-end for jail management in :ref:`AppCafe®` and the \"Warden\" tab has been renamed to \"Plugins\". The Warden graphical utility has been removed from Control Panel and the command line usage docs have been changed to describe how to use the :command:`iocage` command line utility."
+msgstr ""
+
+# 78762dda3cc047078d2c746c64eafeef
+#: ../../introduction.rst:168
+msgid "The default Serif/Sans Serif font is now `Noto <http://www.google.com/get/noto/>`_ instead of Dejavu."
+msgstr ""
+
+# 685dd2788dd84b29a2ff89b7728dcfa3
+#: ../../introduction.rst:170
+msgid "The graphical installer now uses the `Droid <http://www.droidfonts.com/>`_ font."
+msgstr ""
+
+# ac29acfeec81478497ab50f5a748b035
+#: ../../introduction.rst:172
+msgid "The installer now supports installing to free space. This means that you no longer need to temporarily format a partition after shrinking a drive when installing PC-BSD® in a dual-boot scenario."
+msgstr ""
+
+# 25de551a8f774812b9552ab52b7030ff
+#: ../../introduction.rst:175
+msgid "The graphical installer now provides a shortcut to :ref:`Disk Manager`."
+msgstr ""
+
+# 2a3c2078b3444fa8839bf28a1dd9deb8
+#: ../../introduction.rst:177
+msgid "Wine has been removed from the installer but can be installed afterwards using :ref:`AppCafe®`."
+msgstr ""
+
+# fb21930911914fd189df16c23d3917a1
+#: ../../introduction.rst:179
+msgid "The \"Domain Name\" field has been added to the :ref:`Time Zone Selection Screen`."
+msgstr ""
+
+# e38a52d12536491eb54ac3ab7961d842
+#: ../../introduction.rst:181
+msgid "The \"Enable Optional Services\" screen has been added to the post-configuration wizard. Currently, this screen allows you to enable the SSH service or to disable IPv6."
+msgstr ""
+
+# 814fa3a89f8f409c966af04ef0a54f6f
+#: ../../introduction.rst:183
+msgid "The \"Tile Plugins\" and \"Cascade Plugins\" entries have been added to the right-click menu of Lumina."
+msgstr ""
+
+# 34284fcfba574bd69b1d49005771e8d8
+#: ../../introduction.rst:185
+msgid "You can now create and manage more than two panels using the Lumina configuration utility."
+msgstr ""
+
+# 260569bb70db4e5488f8bd3455d07d89
+#: ../../introduction.rst:187
+msgid "The \"Save Pkg List\" option has been added to the \"Configure\" button of :ref:`AppCafe®`."
+msgstr ""
+
+# 6e564517689245d1a4c9b229d809e31c
+#: ../../introduction.rst:189
+msgid "The \"Enterprise (Long Term Support)\" repository has been added to :menuselection:`AppCafe® --> Configure --> Repository Configuration`. This option is meant for enterprise users that wish to only receive software updates which fix known security vulnerabilities."
+msgstr ""
+
+# 167e71cc34d64966ab662ac7a3b1465d
+#: ../../introduction.rst:192
+msgid "If you install or uninstall any software in AppCafe®, a \"Status\" tab will appear so that you can review the installation log."
+msgstr ""
+
+# 77040732babc40ffa1e70a91015ea827
+#: ../../introduction.rst:194
+msgid "The :menuselection:`System --> Branches` menu has been added to :ref:`Update Manager`. This can be used to change which software branch is used to track updates."
+msgstr ""
+
+# 6adcb58b824049ba8c6dd62a079b4984
+#: ../../introduction.rst:196
+msgid "The **showeol** option has been added to :command:`pc-updatemanager`."
+msgstr ""
+
+# 18cefa3941db4db583138f91d7897c5b
+#: ../../introduction.rst:198
+msgid "The \"Allow Valid Users with UID under 1000\" checkbox and \"Additional Excluded Users\" field have been added to :menuselection:`Control Panel --> Login Manager --> Misc`."
+msgstr ""
+
+# eee5e1d0438346b8bf431a68cea08dbd
+#: ../../introduction.rst:200
+msgid "The **probe-netdrives**, **list-mountednetdrives**, **mountnet**, and **unmountnet** options have been added to :ref:`pc-sysconfig`."
+msgstr ""
+
+# 09a4e13b0f1d40128d24fc6212e1be26
+#: ../../introduction.rst:205
+msgid "The \"Domain Name\" field has been added to :menuselection:`Control Panel --> Network Configuration --> Network Configuration (Advanced)`."
+msgstr ""
+
+# 475c7f65a4a540519d6fed219d20ca8e
+#: ../../introduction.rst:207
+msgid "The \"Replication Server\" screen has been removed from the :ref:`Life Preserver` initial configuration wizard and an option has been added to the last screen of the wizard offering to open the advanced configuration options so that replication can be configured."
+msgstr ""
+
+# 7b252f86f0cc4229a411652e2220c698
+#: ../../introduction.rst:210
+msgid "Life Preserver's \"Local Snapshots\" tab now allows you to create a list of datasets to exclude when creating snapshots."
+msgstr ""
+
+# 354e3b1284274e85afd7488b25d4ea21
+#: ../../introduction.rst:212
+msgid "Life Preserver's \"Replication\" tab now allows you to create a list of datasets to exclude when replicating to the remote server."
+msgstr ""
+
+# 8f1b1982547c43a080eca4045d161b67
+#: ../../introduction.rst:214
+msgid "The \"Reset Replication Password\" option has been added to the :menuselection:`Life Preserver --> Snapshots` menu."
+msgstr ""
+
+# 02faab682ca44d24bdca588dc4e692ae
+#: ../../introduction.rst:220
+msgid "PC-BSD® for Linux Users"
+msgstr ""
+
+# 3c92bc0b6e54485a8fef10bb53379d74
+#: ../../introduction.rst:222
+msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
+msgstr ""
+
+# c94879a7db144e019fddf14d4f6e7585
+#: ../../introduction.rst:228
+msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
+msgstr ""
+
+# 84fe2939990e45639707991d5ecefd41
+#: ../../introduction.rst:232
+msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
+msgstr ""
+
+# eb8a4e5772974dd0a3d234d887a8d04e
+#: ../../introduction.rst:236
+msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
+msgstr ""
+
+# 754d9a1d17ef48ef820fc0f541a52f31
+#: ../../introduction.rst:239
+msgid "Filesystem"
+msgstr ""
+
+# 60382045c7c84e0189110595374c8740
+#: ../../introduction.rst:239
+msgid "Native to"
+msgstr ""
+
+# 5963bd60f1da4d0fb129c44a136be98d
+#: ../../introduction.rst:239
+msgid "Type of non-native support"
+msgstr ""
+
+# 057e78db22d041ab8ac506200a98a4b6
+#: ../../introduction.rst:239
+msgid "**Usage notes**"
+msgstr ""
+
+# d868835fc6e9412c9cb0bd8c81025de5
+#: ../../introduction.rst:241
+msgid "Btrfs"
+msgstr ""
+
+# 1d1c9266c44f4975b4cbc5a3a5e80684
+# d8b1dc8f980c4e569299b0913672811b
+# 1a34f74ab4ed4d47a12bf68d297c2b23
+# 44b6814a963a4d6798470a9e4ed7466f
+# 4db1845bcc7e44cfad00d24bab60263b
+# a7d9c758bc964a50b8919affc3ea37b8
+# b2ca8e426d9d4b30bf000fc458900119
+# b5423b8cafcf407ba9f56e158b6cc546
+#: ../../introduction.rst:241
+#: ../../introduction.rst:245
+#: ../../introduction.rst:247
+#: ../../introduction.rst:252
+#: ../../introduction.rst:263
+#: ../../introduction.rst:269
+#: ../../introduction.rst:293
+#: ../../introduction.rst:216
+msgid "Linux"
+msgstr ""
+
+# dabe50a623ec443c9af8b62adb63680e
+# 7cd40023a65a48c3b8dfe436224da0ed
+# a63465b17a204799a0e6459058e1ef54
+# aab96c239a2a4e76b4f5d94139d3de60
+#: ../../introduction.rst:241
+#: ../../introduction.rst:243
+#: ../../introduction.rst:260
+#: ../../introduction.rst:263
+msgid "none"
+msgstr ""
+
+# 6c10fc3ec9cc48d780b46dae97782bff
+#: ../../introduction.rst:243
+msgid "exFAT"
+msgstr ""
+
+# 797f339b427c42efa377ba203d585805
+# dc045a5a53f74e3a9eb9252e950af517
+# 33e93297aea4481db1afbda5e592eb16
+# 0f059e0593f1404e8e49ae043464935c
+# 3df4ff994f6544b086be4ea3e57bc691
+#: ../../introduction.rst:243
+#: ../../introduction.rst:256
+#: ../../introduction.rst:258
+#: ../../introduction.rst:265
+#: ../../introduction.rst:267
+msgid "Windows"
+msgstr ""
+
+# ea49a5632a9f47e39ca838f961641a37
+#: ../../introduction.rst:243
+msgid "requires a license from Microsoft"
+msgstr ""
+
+# 2e957f5b8f30408f931b93a68e078712
+#: ../../introduction.rst:245
+msgid "EXT2"
+msgstr ""
+
+# 883a074d9c8e4a8a98418a25c7916245
+# 6e58bff8083d4a979118514d4c68159c
+# d51e6bb9e8894de281bc3574d97f336b
+# a04bc02b483f429ebe8cebae8acbd5cf
+# bde8359ef3a449b58172d97827c4abb9
+#: ../../introduction.rst:245
+#: ../../introduction.rst:247
+#: ../../introduction.rst:256
+#: ../../introduction.rst:258
+#: ../../introduction.rst:267
+msgid "r/w support loaded by default"
+msgstr ""
+
+# 6503ca9700994fa8b4821e1371d84363
+#: ../../introduction.rst:247
+msgid "EXT3"
+msgstr ""
+
+# 13c541faf5e44372a171c6913ec3828e
+#: ../../introduction.rst:247
+msgid "since EXT3 journaling is not supported, you will not be able to mount a filesystem requiring a journal replay unless you :command:`fsck` it using an external utility such as `e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
+msgstr ""
+
+# c6639145544a4a80913b24d46c5ca950
+#: ../../introduction.rst:252
+msgid "EXT4"
+msgstr ""
+
+# f2cc857135c04804a2045125a11d5ffb
+#: ../../introduction.rst:252
+msgid "r/o support loaded by default"
+msgstr ""
+
+# 82d2839ab4554f728b7192cd7a502ad7
+#: ../../introduction.rst:252
+msgid "EXT3 journaling, extended attributes, and inodes greater than 128 bytes are not supported; EXT3 filesystems converted to EXT4 may have better performance"
+msgstr ""
+
+# c3b9eaac21cf4b049d19e56235bd5215
+#: ../../introduction.rst:256
+msgid "FAT16"
+msgstr ""
+
+# c9e7acbb5acd41b4974c285482d30ed2
+#: ../../introduction.rst:258
+msgid "FAT32"
+msgstr ""
+
+# 94d003d80e6347399a54e166583664ea
+#: ../../introduction.rst:260
+msgid "HFS+"
+msgstr ""
+
+# 6efa7f3793254f8e90a0612211c00979
+#: ../../introduction.rst:260
+msgid "Mac OS X"
+msgstr ""
+
+# 9168da3bca42416b9099520e95b53bd2
+#: ../../introduction.rst:260
+msgid "older Mac versions might work with `hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
+msgstr ""
+
+# 4892fa0679b746f4afa630e573526f96
+#: ../../introduction.rst:263
+msgid "JFS"
+msgstr ""
+
+# 71d1f911065f4ba295d847a09e910803
+#: ../../introduction.rst:265
+msgid "NTFS5"
+msgstr ""
+
+# 7dc8f745aa1b437580e1a7a30e7174a8
+#: ../../introduction.rst:265
+msgid "full r/w support loaded by default"
+msgstr ""
+
+# 8bfcde243db74886b61bd3780252a4d9
+#: ../../introduction.rst:267
+msgid "NTFS6"
+msgstr ""
+
+# 6cbf741efe1c40a0a6cdbfe1e219b64a
+#: ../../introduction.rst:269
+msgid "ReiserFS"
+msgstr ""
+
+# 69bb628b8ab4431c9f28fa9d59d7d31a
+#: ../../introduction.rst:269
+msgid "r/o support is loaded by default"
+msgstr ""
+
+# 8b66c18630884b48b88afb79755a1d15
+#: ../../introduction.rst:271
+msgid "UFS2"
+msgstr ""
+
+# 18bb651f47a54e5b92dfdb77154d1192
+#: ../../introduction.rst:271
+msgid "FreeBSD"
+msgstr ""
+
+# db31f1df9e50400b92ed4ef7402379e2
+#: ../../introduction.rst:271
+msgid "check if your Linux distro provides ufsutils; r/w support on Mac; UFS Explorer can be used on Windows"
+msgstr ""
+
+# b5a41b8e1ddc4d4cb30d0bb90e45c52f
+#: ../../introduction.rst:273
+msgid "changed to r/o support in Mac Lion"
+msgstr ""
+
+# d956843ad33a474ab76f6539f83ce262
+#: ../../introduction.rst:275
+msgid "ZFS"
+msgstr ""
+
+# 44646a7241e54e9791e7b9368050892b
+#: ../../introduction.rst:275
+msgid "PC-BSD, FreeBSD"
+msgstr ""
+
+# e370c022b638450ea79e7e08219fdc2f
+#: ../../introduction.rst:280
+msgid "Linux and BSD use different naming conventions for devices. For example:"
+msgstr ""
+
+# 1362e695f5c94d7b98dd593a8e8b1b55
+#: ../../introduction.rst:282
+msgid "in Linux, Ethernet interfaces begin with :file:`eth`; in BSD, interface names indicate the name of the driver. For example, an Ethernet interface may be listed as :file:`re0`, indicating that it uses the Realtek :file:`re` driver. The advantage of this convention is that you can read the **man 4** page for the driver (e.g. type :command:`man 4 re`) to see which models and features are provided by that driver."
+msgstr ""
+
+# 90d486344cd14133a1f805d9d51d73e9
+#: ../../introduction.rst:286
+msgid "BSD disk names differ from Linux. IDE drives begin with :file:`ad` and SCSI and USB drives begin with :file:`da`."
+msgstr ""
+
+# b21112f016124579a10d15e804faf603
+#: ../../introduction.rst:288
+msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
+msgstr ""
+
+# 42eebf31d82843409dcb6ae8a350a20a
+#: ../../introduction.rst:290
+msgid "**Table 1.3b: Names for BSD and Linux Features**"
+msgstr ""
+
+# 90ad5bec229d490b9f290860e33c12fe
+#: ../../introduction.rst:293
+msgid "PC-BSD"
+msgstr ""
+
+# e9b558f17c544855b73dac964ee4a1ea
+#: ../../introduction.rst:293
+msgid "**Description**"
+msgstr ""
+
+# 1162f788dfd746f3862fc8afba04c926
+#: ../../introduction.rst:295
+msgid "IPFW"
+msgstr ""
+
+# 39d9b7f91e0c400dab22405e9042a04e
+#: ../../introduction.rst:295
+msgid "iptables"
+msgstr ""
+
+# 181dfc4427564766bf7fffd41470037a
+#: ../../introduction.rst:295
+msgid "default firewall"
+msgstr ""
+
+# f53bedfea3654c869898e9a714a50ad8
+#: ../../introduction.rst:297
+msgid ":file:`/etc/rc.d/` for operating system and :file:`/usr/local/etc/rc.d/` for applications"
+msgstr ""
+
+# 2f6b74ace7e341b3bbbb4dace26637f1
+#: ../../introduction.rst:297
+msgid ":file:`rc0.d/`, :file:`rc1.d/`, etc."
+msgstr ""
+
+# 9a6b03494ad24f8eb76dc828244d08a1
+#: ../../introduction.rst:297
+msgid "in PC-BSD the directories containing the startup scripts do not link to runlevels as there are no runlevels; system startup scripts are separated from third-party application scripts"
+msgstr ""
+
+# 27b9a751e1c743a39fceb49bc2649e4f
+#: ../../introduction.rst:301
+msgid ":file:`/etc/ttys` and :file:`/etc/rc.conf`"
+msgstr ""
+
+# c6b5f8ae39f84674a4aeae9dcd0a58cd
+#: ../../introduction.rst:301
+msgid ":command:`telinit`, :file:`init.d/`"
+msgstr ""
+
+# 6abd754e62334b649343a8ddcaba3081
+#: ../../introduction.rst:301
+msgid "terminals are configured in *ttys* and *rc.conf* indicates which services will start at boot time"
+msgstr ""
+
+# 0b2ced51ae8d427ab6df041c8e343b6f
+#: ../../introduction.rst:305
+msgid "If you are comfortable with the command line, you may find that some of the commands that you are used to have different names on BSD. Table 1.3c lists some common commands and what they are used for."
+msgstr ""
+
+# 3bbfa56a3c5e46808f87337f530fe512
+#: ../../introduction.rst:308
+msgid "**Table 1.3c: Common BSD and Linux Commands**"
+msgstr ""
+
+# 63229e2d90fa4dc6ba97790cf0a1bc1b
+#: ../../introduction.rst:311
+msgid "Command"
+msgstr ""
+
+# b052e1d40281423890de308fec423490
+#: ../../introduction.rst:311
+msgid "**Used to:**"
+msgstr ""
+
+# 924284f42e7b49c983490b3e9014dc78
+#: ../../introduction.rst:313
+msgid ":command:`dmesg`"
+msgstr ""
+
+# 7777501f3a8c43bca39e7cd826c1f212
+#: ../../introduction.rst:313
+msgid "discover what hardware was detected by the kernel"
+msgstr ""
+
+# d1289be5133c45b9b7eafa02b35a00f4
+#: ../../introduction.rst:315
+msgid ":command:`sysctl dev`"
+msgstr ""
+
+# 7dba6eef85f343dba49c6a7d15bfd6e2
+#: ../../introduction.rst:315
+msgid "display configured devices"
+msgstr ""
+
+# 554d955f472e42ca8c79038cc2ddf527
+#: ../../introduction.rst:317
+msgid ":command:`pciconf -l -cv`"
+msgstr ""
+
+# 4be07ff5fc304afb9759ce6862792d6e
+#: ../../introduction.rst:317
+msgid "show PCI devices"
+msgstr ""
+
+# 06d91cb3f26c425db19411b1df384e25
+#: ../../introduction.rst:319
+msgid ":command:`dmesg | grep usb`"
+msgstr ""
+
+# 509a8082c91f4447abe0843f4fd26799
+#: ../../introduction.rst:319
+msgid "show USB devices"
+msgstr ""
+
+# ca9ddbe1c3f84ccbb20a8dbf3444229e
+#: ../../introduction.rst:321
+msgid ":command:`kldstat`"
+msgstr ""
+
+# 7ca3cf8064d54896a5fcb2a36c861e21
+#: ../../introduction.rst:321
+msgid "list all modules loaded in the kernel"
+msgstr ""
+
+# 158349c49fa0454986f54b945aa86171
+#: ../../introduction.rst:323
+msgid ":command:`kldload <module>`"
+msgstr ""
+
+# 5e2489c38af34ebe85eceebc5a2b95cf
+#: ../../introduction.rst:323
+msgid "load a kernel module for the current session"
+msgstr ""
+
+# f7412ee7ed06428caa4a3655f96433fa
+#: ../../introduction.rst:325
+msgid ":command:`pbi_add -r <pbiname>`"
+msgstr ""
+
+# 9ae65e8abb2c4593a807da20ea2945c3
+#: ../../introduction.rst:325
+msgid "install software from the command line"
+msgstr ""
+
+# 46d7ad97cbad40139d7a188a5cb030ed
+#: ../../introduction.rst:327
+msgid ":command:`sysctl hw.realmem`"
+msgstr ""
+
+# 8294dab136a6402fb80e3b5d85a53a2f
+#: ../../introduction.rst:327
+msgid "display hardware memory"
+msgstr ""
+
+# 5d2d026d9d8946c685df7eedcb76fb9e
+#: ../../introduction.rst:329
+msgid ":command:`sysctl hw.model`"
+msgstr ""
+
+# 389df0a3e9264c20bc4137caecd86367
+#: ../../introduction.rst:329
+msgid "display CPU model"
+msgstr ""
+
+# 15bc4aba583d461caa464d84c756d7a9
+#: ../../introduction.rst:331
+msgid ":command:`sysctl hw.machine_arch`"
+msgstr ""
+
+# 99d5aeeaa4d047cfba1c5005a7d7cc7a
+#: ../../introduction.rst:331
+msgid "display CPU Architecture"
+msgstr ""
+
+# e430159e710842df9ff26aeea35ff0ba
+#: ../../introduction.rst:333
+msgid ":command:`sysctl hw.ncpu`"
+msgstr ""
+
+# d52681f957624db696eae69640e09e8c
+#: ../../introduction.rst:333
+msgid "display number of CPUs"
+msgstr ""
+
+# ca5cdd572a8b485f93301a16b3dd4879
+#: ../../introduction.rst:335
+msgid ":command:`uname -vm`"
+msgstr ""
+
+# 1f449c33af5e488c8c74bb14da213adb
+#: ../../introduction.rst:335
+msgid "get release version information"
+msgstr ""
+
+# 310314ad4cb9402d894dd31f3437a8a4
+#: ../../introduction.rst:337
+msgid ":command:`gpart show`"
+msgstr ""
+
+# 4d08e3bf4504495f9e37aede38b5c322
+#: ../../introduction.rst:337
+msgid "show device partition information"
+msgstr ""
+
+# 6d1feb2c9dd749e496e0448250ed39c4
+#: ../../introduction.rst:339
+msgid ":command:`fuser`"
+msgstr ""
+
+# 099416c4c8ea497aa1dd83b53666b4f0
+#: ../../introduction.rst:339
+msgid "list IDs of all processes that have one or more files open"
+msgstr ""
+
+# 85a3b13a545a494bb94187e425fb520c
+#: ../../introduction.rst:342
+msgid "The following articles and videos provide additional information about some of the differences between BSD and Linux:"
+msgstr ""
+
+# 843d2f74d9da42fe9a7dee066586df8c
+#: ../../introduction.rst:344
+msgid "`Comparing BSD and Linux <http://www.freebsd.org/doc/en/articles/explaining-bsd/comparing-bsd-and-linux.html>`_"
+msgstr ""
+
+# f05db0c01ed1412d8766d6b68cf337ed
+#: ../../introduction.rst:346
+msgid "`FreeBSD Quickstart Guide for Linux® Users <http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
+msgstr ""
+
+# db3686ee393349e8a10337c4826f5604
+#: ../../introduction.rst:348
+msgid "`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
+msgstr ""
+
+# 8a336f68ce964108baeaac15f33b4af0
+#: ../../introduction.rst:350
+msgid "`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
+msgstr ""
+
+# 71147486e9164bff89fe9c8758864540
+#: ../../introduction.rst:352
+msgid "`Interview: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-beings-interview/>`_"
+msgstr ""
+
+# a0a9e4ea67b041779c3fc3b554003566
+#: ../../introduction.rst:354
+msgid "`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
+msgstr ""
+
+# 9d5a9646d62349d2a45b5bda47e7b7f4
+#: ../../introduction.rst:356
+msgid "`Why you should use a BSD style license for your Open Source Project <http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
+msgstr ""
+
+# 4364f5cd5ab4463ba7834de4672b4975
+#: ../../introduction.rst:358
+msgid "`A Sysadmin's Unixersal Translator (ROSETTA STONE) <http://bhami.com/rosetta.html>`_"
+msgstr ""
+
+# 26687492a6dd41f1841ad1fefa6c0e4d
+#: ../../introduction.rst:109
+msgid "features"
+msgstr ""
+
+# d7386532894e440f87b8e4a7b9cbc8d5
+#: ../../introduction.rst:150
+msgid "What's New"
+msgstr ""
+
+# e83ffba0275e4feb9172b941ca9fa7ce
+#: ../../introduction.rst:225
+msgid "filesystems"
+msgstr ""
+
+# b9fb0888de6441e3a875da6565b491fc
+#: ../../introduction.rst:278
+msgid "devices"
+msgstr ""

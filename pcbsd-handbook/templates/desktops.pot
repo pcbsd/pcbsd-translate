@@ -1,0 +1,994 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2015, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../desktops.rst:5
+# ee4352d4240f4fe2aa75739875f02ef7
+msgid "Desktops"
+msgstr ""
+
+#: ../../desktops.rst:7
+# 6ca58ba3837d44249450386bccc68159
+msgid "Once you have installed PC-BSD®, you will want to become familiar with your desktop environment. This chapter provides an overview of the desktops which can be selected during the installation of PC-BSD® or installed afterwards using :ref:`AppCafe®`. Desktops, when installed, will appear in the list of available desktops when a user logs in."
+msgstr ""
+
+#: ../../desktops.rst:10
+# 79cde20c39bb44f1a3cd1d9a398dc128
+msgid "Fluxbox is always installed and available in the login menu of a PC-BSD® system."
+msgstr ""
+
+#: ../../desktops.rst:12
+# 9ed2924ebd59492c86f474354a5f8f37
+msgid "For the desktops that support desktop icons, three PC-BSD® icons will appear on the desktop:"
+msgstr ""
+
+#: ../../desktops.rst:16
+# 41165598a70d471da3721092ad6e887b
+msgid "**AppCafe®:** graphical utility used to install, uninstall, and upgrade software. See the section on :ref:`AppCafe®` for more details."
+msgstr ""
+
+#: ../../desktops.rst:20
+# d50650cef7af4184a7b7898bb9385480
+msgid "**PC-BSD® Control Panel:** contains applications for administering the computer. See the section on :ref:`Control Panel` for more details."
+msgstr ""
+
+#: ../../desktops.rst:24
+# 189989ef346c41ad8f6beca926bb4995
+msgid "**PC-BSD® Handbook:** the HTML version of the PC-BSD® |version| Users Handbook (this document)."
+msgstr ""
+
+#: ../../desktops.rst:26
+# 1e271ac361c54fe7abe4942d6b1b2c2f
+msgid "Even more desktops are available for installation from :ref:`AppCafe®`. These can be browsed in the \"X11 - Window Managers\" category. Note that if the desktop is not described in this chapter, it will not automatically be added to the login menu."
+msgstr ""
+
+#: ../../desktops.rst:33
+#: ../../desktops.rst:29
+# 1504c7c47f8b43579c9c9cc9a3b9b8a8
+# 83dda231724643e88c292f279439859a
+msgid "Awesome"
+msgstr ""
+
+#: ../../desktops.rst:35
+# 6be1bdb6a4594f4d97258bb7ddced956
+msgid "The `awesome window manager <http://awesome.naquadah.org/>`_ is highly configurable and primarily targeted at power users who prefer to use the command line within their graphical environment."
+msgstr ""
+
+#: ../../desktops.rst:38
+# d19601b7a9c44c2a9001e39ece630f32
+msgid "Figure 6.1a shows a screenshot of Awesome running on PC-BSD® |version|. The user has right-clicked the desktop in order to launch the awesome application manager."
+msgstr ""
+
+#: ../../desktops.rst:41
+# 53c7bee376154957b6a9f1077d0eed96
+msgid "**Figure 6.1a: Awesome Window Manager on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:45
+# 3073e3922f8f42aba2186a8827308bb5
+msgid "If you click :menuselection:`awesome --> manual`, the man page for awesome will open in a terminal. If you click :menuselection:`awesome --> edit config`, the awesome configuration file will open in the :command:`nano` text editor. The numbers in the upper left corner represent virtual desktops. For example, you can have different terminals open in each virtual desktop."
+msgstr ""
+
+#: ../../desktops.rst:49
+# a61f6f16ca8a41ba8a855139f20fec03
+msgid "If you wish to access :ref:`Control Panel`, open a terminal and type :command:`pc-controlpanel`. To launch :ref:`AppCafe®`, type :command:`appcafe` in a terminal. To exit this desktop and return to the login screen, use :menuselection:`awesome --> quit`."
+msgstr ""
+
+#: ../../desktops.rst:56
+#: ../../desktops.rst:52
+# 7bd9b85ab78e45e48e8a10e3b699c69f
+# 97341fbd93a24186a3311e771d21031d
+msgid "Cinnamon"
+msgstr ""
+
+#: ../../desktops.rst:58
+# 3f3ed7f96d2740339c6791e15f4f3e9d
+msgid "Cinnamon requires 3D acceleration. If your video driver does not support this, you should not install Cinnamon."
+msgstr ""
+
+#: ../../desktops.rst:60
+# a86dd7e9150e4923a48111a07e6f146b
+msgid "The `Cinnamon desktop environment <http://cinnamon.linuxmint.com/>`_ is developed by the Linux Mint project. Figure 6.2a shows a screenshot of Cinnamon on a PC-BSD® |version| system with the applications \"Menu\" open."
+msgstr ""
+
+#: ../../desktops.rst:63
+# ea699002523c4e82b442d45cae0cb3a9
+msgid "**Figure 6.2a: Cinnamon Desktop on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:67
+# 2720fe236b56415ca285c524f4a69c27
+msgid "Hover over a category in the menu to see its available applications. Alternately, use the search bar to find a specific application."
+msgstr ""
+
+#: ../../desktops.rst:69
+# 78451866b033405f9e0ff618df0426bd
+msgid "Click the wrench icon in the upper left corner to access the \"Cinnamon Settings\" menu, where you can configure backgrounds, desktop effects, themes, applets, desklets, extensions, menu items, the screensaver, and so on. Additional themes, applets, desklets, and extensions can be downloaded from the `Cinnamon website <http://cinnamon.linuxmint.com/>`_."
+msgstr ""
+
+#: ../../desktops.rst:73
+# 972b4e18953a452c8fb00920a1d57066
+msgid "Additional tips can be found at the `PC-BSD® Cinnamon Tips and Tricks page <http://wiki.pcbsd.org/index.php/AppCafe/x11/cinnamon>`_."
+msgstr ""
+
+#: ../../desktops.rst:80
+#: ../../desktops.rst:76
+# 889c699f77fa4aa7be241d5fb375e558
+# 0ede6a9244ce484d85fc28a152bffa6c
+msgid "Fluxbox"
+msgstr ""
+
+#: ../../desktops.rst:82
+# 984b36b4acb14dc49d7a58ccf5993c49
+msgid "The `Fluxbox window manager <http://fluxbox.org/>`_ is light-weight and fast. Regardless of the window managers that you have selected to install, Fluxbox is always available as an option in the login menu."
+msgstr ""
+
+#: ../../desktops.rst:85
+# b5714135eabe45a6a03b4b1da52ad5dc
+msgid "Figure 6.3a shows a screenshot of Fluxbox running on PC-BSD®. In this example, the user has launched the \"Application\" menu by right-clicking on the desktop."
+msgstr ""
+
+#: ../../desktops.rst:87
+# efce3846e8f4414aa5d46f37166aa625
+msgid "**Figure 6.3a: Fluxbox on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:91
+# fb01a21f59004d0cbf5db1edf5a1d963
+msgid "Fluxbox provides many configuration files which can be edited in order to customize the desktop. The `Features <http://www.fluxbox.org/features/>`_ page of the Fluxbox website lists the available configuration files and links to instructions for getting the most out of Fluxbox."
+msgstr ""
+
+#: ../../desktops.rst:94
+# 151d30ff03f240428f5588e61f0cbfdd
+msgid "The following resources are useful when customizing Fluxbox:"
+msgstr ""
+
+#: ../../desktops.rst:96
+# f71e892ef3fa4e7181f457dcd35d819e
+msgid "`Creating the Perfect Fluxbox Desktop on Linux <https://www.linux.com/learn/tutorials/467792-creating-the-perfect-fluxbox-desktop-on-linux>`_"
+msgstr ""
+
+#: ../../desktops.rst:98
+# 5a95526a17774a1e8a5c1a21909c9a1a
+msgid "`Fluxconf How-To at Tux Magazine <http://www.tuxmagazine.com/node/1000191>`_"
+msgstr ""
+
+#: ../../desktops.rst:100
+# 2436597e0b554c1783b2819a7ea821b7
+msgid "`Fluxbox wiki <http://fluxbox-wiki.org/>`_"
+msgstr ""
+
+#: ../../desktops.rst:102
+# 6d4d136861d64de6a79bcdf6e878b01a
+msgid "`Fluxbox FAQ <http://fluxbox-wiki.org/FAQ_en.html>`_"
+msgstr ""
+
+#: ../../desktops.rst:108
+#: ../../desktops.rst:104
+# 240ec7968a6149168d9a450763192d18
+# 22a267e6f58d4505b7a218730fc60753
+msgid "FVWM"
+msgstr ""
+
+#: ../../desktops.rst:110
+# fb096fc967a8412eafd36b3afd911b87
+msgid "The `FVWM window manager <http://fvwm.org/>`_ is powerful and highly configurable. It supports any number of virtual desktops, each divided into multiple pages. It also supports side title bars, including vertical text."
+msgstr ""
+
+#: ../../desktops.rst:113
+# fd22a496203642d6b0ff098b719aae73
+msgid "When you install FVWM on PC-BSD®, it also installs `FVWM-Crystal <http://gna.org/projects/fvwm-crystal/>`_. Both window managers will be added to the login menu."
+msgstr ""
+
+#: ../../desktops.rst:116
+# 1fa888c972df4722b1adf92112d1e61c
+msgid "Figure 6.4a shows the default PC-BSD® desktop if you select FVWM from the login menu. The application menu was opened by clicking the mouse anywhere on the desktop."
+msgstr ""
+
+#: ../../desktops.rst:119
+# 009cfcd568a34decadb6afec4beb75f7
+msgid "**Figure 6.4a: FVWM Running on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:123
+# 6e8303c7bdc542789a367bbf54a3ae5f
+msgid "Figure 6.4b shows the default PC-BSD® desktop if you select FVWM-Crystal from the login menu. To open an xterm in FVWM-Crystal, right-click any area of the desktop."
+msgstr ""
+
+#: ../../desktops.rst:126
+# 7c55839d880e4b9c9650f39e3d7a9fd6
+msgid "**Figure 6.4b: FVWM-Crystal Running on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:130
+# 0b9cbae2537547f3bf7e1b29d89d8712
+msgid "The `FVWM Documentation <http://fvwm.org/doc/unstable/index.html>`_ provides information about configuring FVWM."
+msgstr ""
+
+#: ../../desktops.rst:136
+#: ../../desktops.rst:132
+# ebe1d3872e434719b00e1312014d94a0
+# 13bd91fb81534807ae3a8492d0718b4c
+msgid "GNOME"
+msgstr ""
+
+#: ../../desktops.rst:138
+# 9c2dc80401e347e09adcc336251c8b20
+msgid "When you install GNOME on PC-BSD®, it installs both GNOME2 and GNOME3. GNOME2 will appear in the login menu as \"GNOME Classic\" and GNOME3 will be listed in the login menu as \"GNOME\"."
+msgstr ""
+
+#: ../../desktops.rst:141
+# da39cdc915784cdb8638343f0ca10659
+msgid "GNOME3 requires 3D acceleration. If your video driver does not support this, you should use GNOME2 instead."
+msgstr ""
+
+#: ../../desktops.rst:143
+# db74e6dd74cb45e0a6e53e590b1b3e41
+msgid "`GNOME3 <https://www.gnome.org/>`_ is a popular desktop environment that provides many built-in utilities. Figure 6.5a shows a screenshot of GNOME3 on a PC-BSD® |version| system. To access the icons shown in this screen, click \"Activities\" then the 9-dot icon at the bottom of the left-hand panel. Alternately, if you know the name of an application to open, click \"Activities\" and type the application's name into the search bar."
+msgstr ""
+
+#: ../../desktops.rst:147
+# 8f5977e6451c416f95d40d620b3150a0
+msgid "**Figure 6.5a: GNOME3 Desktop on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:151
+# 84353495c5324c0a8dd5102a84e9b824
+msgid "Figure 6.5b shows a screenshot of GNOME2 on a PC-BSD® |version| system with the \"Applications\" menu open."
+msgstr ""
+
+#: ../../desktops.rst:153
+# 495c29c97e0448549969d04d6b8f11ef
+msgid "**Figure 6.5b: GNOME2 Desktop on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:157
+# cff85b10eab84bdba69eefb8129a58a9
+msgid "If you are new to GNOME, take some time to discover which applications best suit your needs. Some of the applications which are provided by GNOME include:"
+msgstr ""
+
+#: ../../desktops.rst:159
+# 2bdf4c3088d947df8dda67b2df4de343
+msgid "`Image Viewer <https://wiki.gnome.org/Apps/EyeOfGnome>`_: Eye of GNOME image viewer."
+msgstr ""
+
+#: ../../desktops.rst:162
+# 2d3b309a2b1e45f199fcdc15b0a5cd50
+msgid "`Web <https://wiki.gnome.org/Apps/Web>`_: web browser."
+msgstr ""
+
+#: ../../desktops.rst:165
+# 54bff9d66fc44f91be0a6ed738ad9ffc
+msgid "`Brasero <https://wiki.gnome.org/Apps/Brasero>`_: CD/DVD burning software."
+msgstr ""
+
+#: ../../desktops.rst:168
+# e862eaa659c54b0a984fc45851145a47
+msgid "`Videos <https://wiki.gnome.org/Apps/Videos>`_: movie player."
+msgstr ""
+
+#: ../../desktops.rst:171
+# 025119a11b07460a813465bd1fe4e6f1
+msgid "`Evolution <https://wiki.gnome.org/Apps/Evolution>`_: email client with address book and calendar."
+msgstr ""
+
+#: ../../desktops.rst:174
+# eb5fbc36c1d0449e9a6b5f8441d2e143
+msgid "`Files: <https://wiki.gnome.org/action/show/Apps/Nautilus?action=show&redirect=Nautilus>`_ Nautilus file manager."
+msgstr ""
+
+#: ../../desktops.rst:176
+# b9882bef6cbc425d8e2eaa693f66c94a
+msgid "some games, such as Lights Off, Quadrapassel, and Swell Foop, require 3D acceleration. If your video driver does not support this, you will not be able to launch those games."
+msgstr ""
+
+#: ../../desktops.rst:179
+#: ../../desktops.rst:380
+# 0c658fc48e5943c7a3313a68ef9676fa
+# c494afe01f264a11bcc68cda700e82d2
+msgid "You can find additional themes and wallpapers at `gnome-look.org <http://gnome-look.org/>`_."
+msgstr ""
+
+#: ../../desktops.rst:181
+# 3b45592b6b8449a684cd41b5f16fde04
+msgid "Additional tips can be found at the `PC-BSD® GNOME Tips and Tricks page <http://wiki.pcbsd.org/index.php/AppCafe/x11/gnome3>`_."
+msgstr ""
+
+#: ../../desktops.rst:187
+#: ../../desktops.rst:183
+# 712cdfabca8248ff9537aa7f3994bd0a
+# d673016c3b424443ac635a1db2563115
+msgid "i3"
+msgstr ""
+
+#: ../../desktops.rst:189
+# 75e1ee8c368646d08d26c004d74d970e
+msgid "The `i3 tiling window manager <http://i3wm.org/>`_ is extremely lightweight and designed for users who prefer to work from the command line. Keyboard shortcuts are provided to open xterms in order to start applications from the command line."
+msgstr ""
+
+#: ../../desktops.rst:192
+# 62a7d538a6cd4bf39c0912b57dcc774f
+msgid "Figure 6.6a shows a screenshot of i3 running on PC-BSD® |version|."
+msgstr ""
+
+#: ../../desktops.rst:194
+# e0b7a2b376714781bde814513ac993e8
+msgid "**Figure 6.6a: i3 Window Manager on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:198
+# 37d982e0968a423799cd5bd614292e98
+msgid "To open an xterm, use :kbd:`Alt` :kbd:`Enter`. Windows do not provide minimize, maximize, or close buttons, so type :command:`exit` when you are finished using an xterm. To leave the window manager and return to the login screen, type :command:`killall i3` from within an xterm."
+msgstr ""
+
+#: ../../desktops.rst:201
+# fd9e2d46170f4f1d8ca570aca99e3ad7
+msgid "The `i3 Users Guide <http://i3wm.org/docs/userguide.html>`_ contains the default key bindings and instructions for customizing i3."
+msgstr ""
+
+#: ../../desktops.rst:207
+#: ../../desktops.rst:203
+# 94a62d52fb264b1b8f9d3996269a6fb1
+# a42bad7c7a424d12b55e4a3ca6ff87f1
+msgid "IceWM"
+msgstr ""
+
+#: ../../desktops.rst:209
+# 7e678d9a0dcb4f69aca584dce9cb4f53
+msgid "The `IceWM window manager <http://www.icewm.org/>`_ is light-weight. Figure 6.7a shows a screenshot of IceWM running on PC-BSD®. In this example, the user has launched the \"Application\" menu by clicking on the \"BSD\" button in the lower left corner. This menu can also be launched by right-clicking anywhere on the desktop."
+msgstr ""
+
+#: ../../desktops.rst:213
+# f20c91d5826a4da7a46d064b9ff9220c
+msgid "**Figure 6.7a: IceWM on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:217
+# 2ea8b22af99f4fc4b5b107e83260bb5e
+msgid "If you are new to IceWM, refer to the `IceWM FAQ and Howto <http://www.sosst.sk/doc/icewm/FAQ/>`_ for more information about configuration, customization, and keyboard shortcuts."
+msgstr ""
+
+#: ../../desktops.rst:224
+# 1703a027ebf847f2876a78f683e1b0d2
+msgid "KDE4"
+msgstr ""
+
+#: ../../desktops.rst:226
+# 53251fe30aa941b6badd5e63043bae65
+msgid "The `KDE <https://www.kde.org/>`_ desktop environment provides many features and applications. However, it is hardware intensive and may run slowly on a computer with an older processor or a small amount of RAM. Figure 6.8a shows a screenshot of KDE4 running on PC-BSD® |version| with the \"Applications\" menu open."
+msgstr ""
+
+#: ../../desktops.rst:229
+# a0c0f310edc34dd888c433113e25a561
+msgid "**Figure 6.8a: Applications Menu of KDE4**"
+msgstr ""
+
+#: ../../desktops.rst:233
+# 43b059905ba940a2aeabdaefe128e65c
+msgid "Each category in the \"Applications\" menu contains many applications and the \"Settings\" and \"System\" categories contain many utilities for configuring your system. If you are new to KDE4, take some time to discover which applications best suit your needs. Some of the applications which are provided by KDE4 include:"
+msgstr ""
+
+#: ../../desktops.rst:237
+# cc6003436c714039915a912a0ff045d4
+msgid "`Konqueror <https://docs.kde.org/stable4/en/applications/konqueror/index.html>`_: file manager, web browser, and SSH client found in :menuselection:`Internet --> Web Browser`."
+msgstr ""
+
+#: ../../desktops.rst:240
+# 036187e46ca84a7b9a0300f12333fbf8
+msgid "`Okular <https://docs.kde.org/stable4/en/kdegraphics/okular/index.html>`_: document viewer and annotator found in :menuselection:`Office --> Document Viewer`. Supports PDF, OpenOffice, and Postscript files."
+msgstr ""
+
+#: ../../desktops.rst:243
+# 4819078a69ac4f6fb39746b2cd766474
+msgid "`Dolphin <https://docs.kde.org/trunk5/en/applications/dolphin/>`_: file manager found in :menuselection:`System --> File Manager`. Dolphin provides many features for manipulating files such as comments, tags, search, encryption, and archival (zip/unzip) functions."
+msgstr ""
+
+#: ../../desktops.rst:246
+# 363544b764264e2ea2248e9be675363d
+msgid "By default, desktop effects are disabled as not all video cards support them. If your video card supports 3D effects and you would like to enable them in KDE, go to :menuselection:`System Settings --> Desktop Effects --> General` and check the box \"Enable desktop effects at startup\"."
+msgstr ""
+
+#: ../../desktops.rst:249
+# bc2e592e36e64f7f93075513699c2076
+msgid "Some of KDE's games require 3D support. If your video card does not support 3D, these games will fail to start."
+msgstr ""
+
+#: ../../desktops.rst:251
+# be75fc14d159457a9545f0867a73d227
+msgid "If you have KDE installed and are currently logged into a different window manager, you can still run any KDE application by specifying its name. For example, type :command:`konqueror` to run the Konqueror web browser or :command:`dolphin` to access the Dolphin file manager."
+msgstr ""
+
+#: ../../desktops.rst:254
+# b246555217944293b49fc0c4a65bc1d3
+msgid "`KDE Applications <https://www.kde.org/applications/>`_ includes descriptions and screenshots of all of KDE's applications as well as links to their handbooks."
+msgstr ""
+
+#: ../../desktops.rst:256
+# a50a3ffb6b2f4c4fa090e52ab9e7ed73
+msgid "`kde-look.org <http://KDE-Look.org/>`_ contains additional themes and wallpapers."
+msgstr ""
+
+#: ../../desktops.rst:262
+#: ../../desktops.rst:258
+# ccff8ce72aac4f0ea15b2a1ed4eae813
+# 3d52a3809000464c9995ef9b83acf94b
+msgid "Lumina"
+msgstr ""
+
+#: ../../desktops.rst:264
+# 00c301819a434058bae33cf56246b036
+msgid "The Lumina Desktop Environment (Lumina for short) is a lightweight, XDG-compliant, BSD-licensed desktop environment that focuses specifically on streamlining the ability to get work done while minimizing system overhead. It is specifically designed for PC-BSD® and FreeBSD, but has also been ported to many other BSD and Linux operating systems. It is based on the Qt graphical toolkit and the Fluxbox window manager, and uses a small number of X utilities for various tasks, such as :command:`numlockx` and :command:`xscreensaver`."
+msgstr ""
+
+#: ../../desktops.rst:269
+# 2a5d4ed3736b4f108164e548f2da83c6
+msgid "Lumina's features include:"
+msgstr ""
+
+#: ../../desktops.rst:271
+# b92a4e1f896a4d30be12795f473e4046
+msgid "Very little system overhead."
+msgstr ""
+
+#: ../../desktops.rst:273
+# c4d6a27dc6ac422a85654f0769425720
+msgid "Intelligent \"favorites\" system for creating quick shortcuts to applications, files, and directories."
+msgstr ""
+
+#: ../../desktops.rst:275
+# 34618ac26a0644348de3366e5defcbfa
+msgid "ZFS file restore functionality through the Insight File Manager."
+msgstr ""
+
+#: ../../desktops.rst:277
+# 95a750db39a04439a99cf099885b4be4
+msgid "Desktop system is plugin-based, which is similar to Android or other modern operating systems."
+msgstr ""
+
+#: ../../desktops.rst:279
+# 7c63e63cb1754234ba5941c36619ae83
+msgid "Simple access to operating system-specific functionality such as screen brightness, audio volume, and battery status."
+msgstr ""
+
+#: ../../desktops.rst:281
+# b492b4f3499a4786b1d9265e8b91a814
+msgid "Figure 6.9a shows a screenshot of Lumina on a PC-BSD® |version| system with the \"User\" button clicked."
+msgstr ""
+
+#: ../../desktops.rst:283
+# f874bd69c77a40de80fa534f5af19be2
+msgid "**Figure 6.9a: Lumina Desktop**"
+msgstr ""
+
+#: ../../desktops.rst:287
+# 01c3014af1a543268ee40af5d4c71f6f
+msgid "Lumina provides the following built-in utilities:"
+msgstr ""
+
+#: ../../desktops.rst:289
+# 4c39b81b95c74ba0a8cc4544bb6ea91c
+msgid "**Lumina Configuration:** allows the user to configure every aspect of the desktop and is the recommended way to make changes. To launch this utility, click the \"User\" icon then :menuselection:`Desktop Preferences --> Desktop Appearance/Plugins` or right-click the desktop and click :menuselection:`Settings --> Desktop`, or type :command:`lumina-config` from an xterm."
+msgstr ""
+
+#: ../../desktops.rst:293
+# 945079992d7f460db99df779a477faed
+msgid "**Lumina Screenshot:** used to take screenshots of the desktop or applications and save them as PNG image files. To launch this utility, click the icon for :menuselection:`System Applications --> Lumina Screenshot` or type :command:`lumina-screenshot` from an xterm."
+msgstr ""
+
+#: ../../desktops.rst:296
+# 830bd8b0b0674503b7ea67a70781c634
+msgid "**Insight File Manager:** allows the user to easily browse and modify files on the local system on a per-directory basis. To open Insight, right-click the desktop and select \"Browse System\" or type :command:`lumina-fm` from an xterm."
+msgstr ""
+
+#: ../../desktops.rst:299
+# dcf48b73c864471a95b9a5d78a9a95ba
+msgid "**Lumina Search:** provides the ability to easily search for and launch applications or to quickly search for file and directories. Type :command:`lumina-search` to launch this utility."
+msgstr ""
+
+#: ../../desktops.rst:302
+# 101b00a88bb34cd190d7e909f982d344
+msgid "**Lumina Xconfig:** provides the ability to probe and manage any number of attached monitors. To start this utility, right-click the desktop and select :menuselection:`Settings --> Screen Configuration`, click the \"User\" icon then :menuselection:`Desktop Preferences --> Screen Configuration`, or type :command:`lumina-xconfig` from an xterm."
+msgstr ""
+
+#: ../../desktops.rst:306
+# 187d9c63af32482faeb7c1ccfa19c3e1
+msgid "Refer to the `Lumina Handbook <http://lumina-desktop.org/handbook/>`_ for detailed instructions on how to configure and use Lumina and its applications."
+msgstr ""
+
+#: ../../desktops.rst:312
+#: ../../desktops.rst:308
+# 634ede329c00448496f4f4b344af5ddd
+# 10d6a3549a29466a95a9891c8f702962
+msgid "LXDE"
+msgstr ""
+
+#: ../../desktops.rst:314
+# a6b61126916045969e6b70835c327ae7
+msgid "The `Lightweight X11 Desktop Environment <http://lxde.org/>`_ is an excellent choice for older hardware or for users who want a complete desktop environment without all of the overhead required by KDE or GNOME. Since it is XDG-compliant, the PC-BSD® :ref:`Control Panel`, :ref:`AppCafe®`, and :ref:`Life Preserver` are available on the desktop and integrated into LXDE's menus."
+msgstr ""
+
+#: ../../desktops.rst:318
+# 5c1d39b5e6244513810cd43bc5145bd2
+msgid "Figure 6.10a shows a screenshot of the default LXDE installation with the LXPanel open."
+msgstr ""
+
+#: ../../desktops.rst:320
+# 4e77f79403a64846b7b95b581659409c
+msgid "**Figure 6.10a: LXDE Desktop on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:324
+# 454ddb78e32e4913852ade587837c811
+msgid "In addition to the PC-BSD® utilities, LXDE provides the following utilities:"
+msgstr ""
+
+#: ../../desktops.rst:326
+# b811eb6119d947d0bfb0e362044411f2
+msgid "`LXPanel <http://wiki.lxde.org/en/LXPanel>`_: desktop panel which is launched by clicking on the PC-BSD® icon in the lower right corner of the desktop. To configure the panel, right-click the PC-BSD® icon and select \"Panel Settings\" or \"Add/Remove Panel Items\" from the right-click menu."
+msgstr ""
+
+#: ../../desktops.rst:329
+# c2017b79d31f44e19cffc644778d6120
+msgid "`PCManFM <http://wiki.lxde.org/en/PCManFM>`_: found in :menuselection:`System Tools --> File Manager PCManFM`. A file manager with features like drag and drop, tabbed browsing, built-in file search, file association with default application, thumbnails for images, bookmarks, and support for non-UTF-8 encoded filenames."
+msgstr ""
+
+#: ../../desktops.rst:333
+# a60f053b9fbc4b9dbba182c576090395
+msgid "`GPicView <http://wiki.lxde.org/en/GPicView>`_: fast image viewer found in :menuselection:`Accessories --> Image Viewer`."
+msgstr ""
+
+#: ../../desktops.rst:335
+# e86d0f3443bc4a80b9dc02f44025c73e
+msgid "`Leafpad <http://tarot.freeshell.org/leafpad/>`_: a light-weight graphical text editor found in :menuselection:`Accessories --> Leafpad`."
+msgstr ""
+
+#: ../../desktops.rst:337
+# 95bde7387f2c47c4a58dd45a487768ed
+msgid "`LXTerminal <http://wiki.lxde.org/en/LXTerminal>`_: terminal emulator found in :menuselection:`Accessories --> LXTerminal`"
+msgstr ""
+
+#: ../../desktops.rst:339
+# c3aa38cba72249718204fe51a98a8db7
+msgid "`Xarchiver <http://xarchiver.sourceforge.net/>`_: archiver utility that supports the 7z, ARJ, bzip2, gzip, lzma, RAR, RPM, DEB, tar, and ZIP file formats. Found in :menuselection:`Accessories --> Xarchiver`."
+msgstr ""
+
+#: ../../desktops.rst:342
+# d3183ce4d66f47f2b18d7f1a78b0e3d6
+msgid "**epdfview**: a PDF viewer with printing support found in :menuselection:`Office --> Document Viewer`."
+msgstr ""
+
+#: ../../desktops.rst:344
+# d37b5fb4e667479a95d48730407397f6
+msgid "`LXTask <http://wiki.lxde.org/en/LXTask>`_: task manager and system monitor found in :menuselection:`System Tools --> Task Manager`."
+msgstr ""
+
+#: ../../desktops.rst:346
+# 43d60c140a6b49dfb56e71dfa8692c2b
+msgid "`LXAppearance <http://wiki.lxde.org/en/LXAppearance>`_: a theme switcher for customizing the widgets, colors, icons, mouse cursors, and sound effects used by applications. Found in :menuselection:`Preferences --> Customize Look and Feel`."
+msgstr ""
+
+#: ../../desktops.rst:349
+# c33053d2dfb7434784d51f644d12ffb2
+msgid "**LXInput:** a tool to configure your keyboard and mouse found in :menuselection:`Preferences --> Keyboard and Mouse`."
+msgstr ""
+
+#: ../../desktops.rst:351
+# 1b41b5d72a1d440fbd6fc3cec5ab2308
+msgid ":ref:`Openbox`: the window manager used by LXDE. You can configure settings such as themes, appearance, mouse, and margins by going to :menuselection:`Preferences --> Openbox Configuration Manager`."
+msgstr ""
+
+#: ../../desktops.rst:358
+#: ../../desktops.rst:354
+# 56fe62bc5d214a8c840c45fe9757a7d7
+# a03002601cb745249de713624444ce97
+msgid "MATE"
+msgstr ""
+
+#: ../../desktops.rst:360
+# 4ba7b269877a453ca97e605d78fb9a24
+msgid "The `MATE desktop <http://mate-desktop.org/>`_ is a fork of the popular, but now unmaintained, GNOME2 desktop environment. MATE is under active development to add support for new technologies while preserving the traditional GNOME desktop experience and its many built-in utilities. Figure 6.11a shows a screenshot of MATE on a PC-BSD® |version| system with the \"Applications\" menu open."
+msgstr ""
+
+#: ../../desktops.rst:364
+# 0439edf386e54ecd869419fd6b6c3b55
+msgid "**Figure 6.11a: MATE Desktop on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:368
+# ac6b62c4297349f8ba1aa9c3ed4ee50d
+msgid "Each category in the \"Applications\" menu contains many applications and the :menuselection:`System --> Preferences` category contains many utilities for configuring your system. If you are new to MATE, take some time to discover which applications best suit your needs. Some of the applications which are provided by MATE include:"
+msgstr ""
+
+#: ../../desktops.rst:372
+# b112632c6c5d4a96a3136064b44521bd
+msgid "**Engrampa:** archive manager found in :menuselection:`Accessories --> Engrampa Archive Manager`."
+msgstr ""
+
+#: ../../desktops.rst:374
+# 75e82e6a48a84252bcc13b0147c0d104
+msgid "**Pluma:** text editor found in :menuselection:`Accessories --> pluma Text Editor`."
+msgstr ""
+
+#: ../../desktops.rst:376
+# 8be53c61f55a4902abc23a12c9e5732b
+msgid "**Atril:** PDF document viewer found in :menuselection:`Office --> Atril Document Viewer`."
+msgstr ""
+
+#: ../../desktops.rst:378
+# 0ee2df9a0ab24487bc96e9c38663b772
+msgid "**Caja:** file manager found in :menuselection:`System Tools --> Caja`. It is a fork of Nautilus."
+msgstr ""
+
+#: ../../desktops.rst:386
+#: ../../desktops.rst:382
+# 577eb089984743e5ac5b3915928fa18d
+# 30b886cfc8c642aa9bfdab9f2c49f9b8
+msgid "Openbox"
+msgstr ""
+
+#: ../../desktops.rst:388
+# e1690a54bce14322ac79475ef5e4d483
+msgid "This `minimalist window manager <http://openbox.org/wiki/Main_Page>`_ is highly configurable. It is the window manager used by LXDE but can also be run separately from LXDE."
+msgstr ""
+
+#: ../../desktops.rst:391
+# af6cf35d8e124f25b603631876a94856
+msgid "Figure 6.12a provides a screenshot of Openbox running on a PC-BSD® system. The application menu was launched by right-clicking on an area of the desktop."
+msgstr ""
+
+#: ../../desktops.rst:393
+# 11ad2e12ffd74a498136398831ed6b27
+msgid "**Figure 6.12a: Openbox on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:397
+# 0ab1101f410c4d548a5a8b208cd0ccee
+msgid "The application menu contains an entry for the Openbox Configuration Manager which can be used to customize settings such as themes, appearance, mouse, and margins. A screenshot of this configuration utility is shown in Figure 6.12b."
+msgstr ""
+
+#: ../../desktops.rst:400
+# 88584747b532400aad57dde07c3fdbc3
+msgid "**Figure 6.12b: Openbox Configuration Manager**"
+msgstr ""
+
+#: ../../desktops.rst:404
+# aec992a1caa340ab8fa1fd793f3359b8
+msgid "A list of websites containing additional themes is available from the `Openbox wiki <http://openbox.org/wiki/Openbox:Themes>`_."
+msgstr ""
+
+#: ../../desktops.rst:411
+#: ../../desktops.rst:407
+# efea8bc5f3a348a195f7402e89d41426
+# b7064604a2ca4294b5e78b7fb0955b5f
+msgid "Ratpoison"
+msgstr ""
+
+#: ../../desktops.rst:413
+# 998a12d1a5994227a015c8a64e59836a
+msgid "The `simple Ratpoison window manager <http://www.nongnu.org/ratpoison/>`_ has no fat library dependencies, fancy graphics, nor window decorations."
+msgstr ""
+
+#: ../../desktops.rst:415
+# 3a9692a915df4b1d814a0d1fd22cea8c
+msgid "Figure 6.13a provides a screenshot of Ratpoison running on a PC-BSD® system:"
+msgstr ""
+
+#: ../../desktops.rst:417
+# 826ab78f1a2c4c1192f26ec01b469592
+msgid "**Figure 6.13a: Ratpoison on a PC-BSD® System**"
+msgstr ""
+
+#: ../../desktops.rst:421
+# 517b5ae390b64c2eb243e818fbd96b33
+msgid "Ratpoison uses keyboard shortcuts. To view the shortcuts, press :kbd:`Ctrl-t` then :kbd:`?`. To leave this help screen, press :kbd:`Enter`."
+msgstr ""
+
+#: ../../desktops.rst:423
+# b4b098a9339a402990c6b19753bbdca6
+msgid "To open an xterm, press :kbd:`Ctrl-t` then :kbd:`c`. Type :command:`exit` to close the xterm. Type :command:`killall ratpoison` within an xterm to leave Ratpoison and return to the login screen."
+msgstr ""
+
+#: ../../desktops.rst:426
+# cb0e859bf6da49f19f2255900aaf9946
+msgid "The `Ratpoison wiki <https://wiki.archlinux.org/index.php/Ratpoison>`_ contains an FAQ and tips for setting keyboard shortcuts."
+msgstr ""
+
+#: ../../desktops.rst:432
+#: ../../desktops.rst:428
+# c7cacb80949e44f899bc24d4c05ad18c
+# e8fbb96ee6974f15addbf4473cf2af97
+msgid "spectrwm"
+msgstr ""
+
+#: ../../desktops.rst:434
+# cc24dd35ea7a42aabc2f83fc278598d8
+msgid "The `spectrwm minimalist window manager <https://opensource.conformal.com/wiki/spectrwm>`_, formerly known as scrotwm, is written by OpenBSD hackers. It provides keyboard shortcuts, a configuration file, and assumes that the user prefers to use the command line. If you have not used spectrwm before, spend some time reading through its `man page <https://opensource.conformal.com/cgi-bin/man-cgi?spectrwm>`_ first."
+msgstr ""
+
+#: ../../desktops.rst:438
+# 4e8c12e2d51d47c497baca7bf17c9094
+msgid "To launch applications within spectrwm, start an xterm by pressing :kbd:`Alt+Shift+Enter`. Once you have an xterm, you can start any program you wish. For example, to start :ref:`Control Panel` type :command:`pc-controlpanel`. spectrwm does not provide minimize, maximize, or close buttons within its windows. To close a GUI application, use :kbd:`CTRL-c` within the xterm you used to launch the application. To leave this desktop, type :command:`killall spectrwm` from an xterm."
+msgstr ""
+
+#: ../../desktops.rst:447
+# ee9d1375583643b6a29e13d8c8018f08
+msgid "WindowLab"
+msgstr ""
+
+#: ../../desktops.rst:449
+# 4e56c7147f8a4293971e3ef768b21607
+msgid "The `WindowLab window manager <http://nickgravgaard.com/windowlab/>`_ is small and simple. It uses a window resizing mechanism that allows one or many edges of a window to be changed in one action, and an innovative menubar that shares the same part of the screen as the taskbar. It follows a click-to-focus but not raise-on-focus policy. This means that when a window is clicked it gets focus, but it is not redrawn to obscure other windows. This allows one, for example, to switch to a terminal to enter commands while keeping documentation visible in a web browser."
+msgstr ""
+
+#: ../../desktops.rst:454
+# 3f004290dc3348ed8f8285dc30a48682
+msgid "Use the right mouse button to display the top menu panel. Use the left mouse button or hover over a taskbar entry to open that application."
+msgstr ""
+
+#: ../../desktops.rst:456
+# 328df554fc814911b6427d0b62561d44
+msgid "To add the applications you use most often to the menubar, select \"Edit menu\" while holding the right mouse button."
+msgstr ""
+
+#: ../../desktops.rst:458
+# 5215c1fc0cb447dbb1763cd9df490ca2
+msgid "To leave the WindowLab session, select \"Quit\" from the menubar."
+msgstr ""
+
+#: ../../desktops.rst:464
+#: ../../desktops.rst:460
+#: ../../desktops.rst:488
+#: ../../desktops.rst:511
+# 65e1bee289f149e4a4480b4df5d8a3ca
+# dd111425d9b84edc88f3e20689da4032
+# 37abdf1793ce448ba39f652ebd88f730
+# c57cf8a6fc754c9786f4e702b6400b9c
+msgid "Window Maker"
+msgstr ""
+
+#: ../../desktops.rst:466
+# 0a86a4d15fc4443f97086185789b92df
+msgid "The `Window Maker window manager <https://en.wikipedia.org/wiki/Nextstep>`_ is light-weight and designed to reproduce the look and feel of the `NEXTSTEP <https://en.wikipedia.org/wiki/Nextstep>`_ user interface."
+msgstr ""
+
+#: ../../desktops.rst:469
+# 79f316852b0c48b6a100cefe4905e6dc
+msgid "Figure 6.16a shows a screenshot of Window Maker running on PC-BSD®. In this example, the user launched the \"Application\" menu by right-clicking an area of the desktop."
+msgstr ""
+
+#: ../../desktops.rst:472
+# df64a2380d694aec960b8f315430aeeb
+msgid "**Figure 6.16a: Window Maker on PC-BSD®**"
+msgstr ""
+
+#: ../../desktops.rst:476
+# 8ea374467db94609a020d08672b3013c
+msgid "In addition to the PC-BSD® utilities, Window Maker provides the following applications:"
+msgstr ""
+
+#: ../../desktops.rst:478
+# 37ca424f65614cc9bf92e6185c53c579
+msgid "**WPrefs**: located in :menuselection:`Appearance --> Preferences Utility`. Allows you to configure window focus, window placement, menu alignment, icons, keyboard actions, mouse, fonts, and various other window manager settings."
+msgstr ""
+
+#: ../../desktops.rst:481
+# 1bccb4a765f646b1953ea947f836dc58
+msgid "`wmakerconf <http://wmakerconf.sourceforge.net/>`_: found in :menuselection:`Utils --> wmakerconf`. Allows you to fine-tune your menu entries as well as your desktop's appearance, themes, background, mouse, and special effects. Figure 6.16b shows wmakerconf with the \"Menu\" button selected."
+msgstr ""
+
+#: ../../desktops.rst:484
+# 0b3a48fb688f4315a4e39f63bbdec638
+msgid "**Figure 6.16b: Editing the Application Menu Using wmakerconf**"
+msgstr ""
+
+#: ../../desktops.rst:492
+# f62f5c7d2f124bacb57be7518d118c85
+msgid "Working with the Dock"
+msgstr ""
+
+#: ../../desktops.rst:494
+# 76e25f2d686642f49acd7cc7ee2d3e70
+msgid "Window Maker uses a dock to store application shortcuts. The dock appears as a series of icons in the upper right corner of the desktop. Docked applications always show on the desktop, even after you close an application or close and restart your Window Maker session."
+msgstr ""
+
+#: ../../desktops.rst:497
+# f104c803c08843a5a5325cf143bcf779
+msgid "Whenever you start an application, an icon will appear in the lower left corner of the screen. You can move that icon elsewhere on the desktop with your mouse. If you right-click the icon, you have the option to hide/unhide the icon, set icon (change its picture), or kill the application. If you drag the icon onto the dock, it will remain on the desktop."
+msgstr ""
+
+#: ../../desktops.rst:501
+# 4cf80e7d4e0e4e99bc1ea375bac3f29c
+msgid "Once an icon is docked, a settings menu is added to the icon's right-click menu. Figure 6.16c demonstrates how to configure an icon for :ref:`AppCafe®`."
+msgstr ""
+
+#: ../../desktops.rst:503
+# 04c8acff9156415e98eb2ec07ed13fe1
+msgid "**Figure 6.16c: Configuring an Icon**"
+msgstr ""
+
+#: ../../desktops.rst:507
+# d5cc6d9cf2744f60bd0f7a2522125b93
+msgid "You will find the icons for :ref:`AppCafe®` and :ref:`Control Panel` in :file:`/usr/local/share/pcbsd/pc-controlpanel/icons`. Choose the 64x64 versions as this is the size that Window Maker users. The application name for :ref:`AppCafe®` is :command:`appcafe` and for :ref:`Control Panel` it is :command:`pc-controlpanel`."
+msgstr ""
+
+#: ../../desktops.rst:515
+# 6c5a1da3768c420eaf03ee1137ecdcfa
+msgid "DockApps"
+msgstr ""
+
+#: ../../desktops.rst:517
+# 210a470656754e7abaf4469a33deda77
+msgid "Window Maker supports dockapps which are applications that were designed to work with Window Maker but which are separate from the Window Maker project. Dockapps tend to be small and designed to perform a particular function. For example, there are clocks, weather applications, and CPU monitors. Most dockapps have been ported to FreeBSD and the port name always begins with \"wm\". You can search for these at `freshports.org <http://www.freshports.org/>`_ by entering a \"Short Description\" containing \"dockapp\"."
+msgstr ""
+
+#: ../../desktops.rst:522
+# 3d19d9bd50014091840182b1ae0d879e
+msgid "If your favorite dockapp has not been ported to FreeBSD, you can request that a port be created on the Ports Requests forum using these `instructions <https://forums.pcbsd.org/thread-12336.html>`_."
+msgstr ""
+
+#: ../../desktops.rst:529
+# ed82046f13b44a81be48500d38a76cc2
+msgid "XFCE4"
+msgstr ""
+
+#: ../../desktops.rst:531
+# c65e2ebd237e4ff185dac48f411264bc
+msgid "`XFCE <http://www.xfce.org/>`_ is a lightweight desktop environment that aims to be low on system resources and fast, while still being visually appealing and user friendly. More information about XFCE, including usage tips, can be found at the `XFCE FAQ <http://wiki.xfce.org/faq>`_."
+msgstr ""
+
+#: ../../desktops.rst:534
+# ed04262c9ef54a189f4b5498531b9ab4
+msgid "The first time you start XFCE4, you will see the message shown in Figure 6.17a."
+msgstr ""
+
+#: ../../desktops.rst:536
+# 4de3eab3a9534cccaf038cf5695cb653
+msgid "**Figure 6.17a: Panel Welcome Message**"
+msgstr ""
+
+#: ../../desktops.rst:540
+# 9d6feca255e64f2a975364295b4a1687
+msgid "In XFCE, a `panel <http://docs.xfce.org/xfce/xfce4-panel/start>`_ is a bar which can hold many items such as application launchers, window lists, a clock, a notification area, and application menus. Your initial panel setup options are:"
+msgstr ""
+
+#: ../../desktops.rst:543
+# 7f5432ffc5cc43c291a53c9f2de60b92
+msgid "**Migrate old config:** select this option if you wish to have a single panel with an application launcher and other icons as shown in Figure 6.17b. The application launcher menu may be accessed by the fireball icon in the lower left, or by right-clicking the desktop."
+msgstr ""
+
+#: ../../desktops.rst:546
+# bea2941bc91f4c32bfabfbdb89dd53e5
+msgid "**Use default config:** this option will install a small, minimal panel centered on the bottom. The application launcher menu may be accessed by the fireball icon in the top bar, or by a right-click on the desktop."
+msgstr ""
+
+#: ../../desktops.rst:549
+# 4a8fe2f13af540a6822a531eb1c8bf98
+msgid "**One empty panel:** this option will install a panel with no icons. The application menu is available by right-clicking the desktop."
+msgstr ""
+
+#: ../../desktops.rst:551
+# 8e162c84b04a4fc4b2f17dae8de4a879
+msgid "If you wish to change your configuration choice at a later time, reset the panel using :menuselection:`Applications --> Settings --> Settings Editor`, shown in Figure 6.17d. Right-click the entry for \"xfce4-panel\" and click \"Reset Channel\"."
+msgstr ""
+
+#: ../../desktops.rst:554
+# 354a989096464feb8757ff9862fe9a96
+msgid "**Figure 6.17b: XFCE with Complete Panel Migrated From Old Config**"
+msgstr ""
+
+#: ../../desktops.rst:558
+# 8eb5644ece014202b373fa3a3d75d28f
+msgid "**Figure 6.17c: XFCE with Minimal Panel Using Default Config**"
+msgstr ""
+
+#: ../../desktops.rst:562
+# ede18f875f844440a506329a07cf98ab
+msgid "**Figure 6.17d: Using Settings Editor to Reset Panel**"
+msgstr ""
+
+#: ../../desktops.rst:566
+# 872487f474144949a349e32dfe475703
+msgid "In addition to the PC-BSD® utilities, XFCE provides the following utilities:"
+msgstr ""
+
+#: ../../desktops.rst:568
+# 5ee8bfa0049e446fa739c5858c88af0c
+msgid "`Xfdesktop <http://docs.xfce.org/xfce/xfdesktop/start>`_: desktop manager found in :menuselection:`Settings --> Desktop`. Sets the background image, provides a right-click menu to launch applications, and can show files (including application launchers) or iconified windows."
+msgstr ""
+
+#: ../../desktops.rst:571
+# 429da0a744cf4ed3806c38a9c16fff29
+msgid "`Xfwm4 <http://docs.xfce.org/xfce/xfwm4/start>`_: window manager found in :menuselection:`Settings --> Window Manager`. It provides window decorations, virtual desktops, multiscreen mode, transparency and a keyboard shortcuts editor."
+msgstr ""
+
+#: ../../desktops.rst:574
+# 50c3c99c453042b5b6155c339f46edae
+msgid "`Ristretto <http://goodies.xfce.org/projects/applications/ristretto>`_: fast and light-weight picture viewer found in :menuselection:`Graphics --> Ristretto Image Viewer`."
+msgstr ""
+
+#: ../../desktops.rst:577
+# efb7790d607c43ef98cba0004a1c0b4b
+msgid "`Midori <http://www.twotoasts.de/index.php/midori/>`_: light-weight graphical browser found in :menuselection:`Internet --> Midori`."
+msgstr ""
+
+#: ../../desktops.rst:579
+# 4d5ca7eccdb34f1c923c3361e537b7b3
+msgid "`Xfburn <http://goodies.xfce.org/projects/applications/xfburn>`_: CD/DVD burning tool found in :menuselection:`Multimedia --> Xfburn`."
+msgstr ""
+
+#: ../../desktops.rst:581
+# cb9c21ffb7e442ef8f519719f8a590d1
+msgid "`Orage <http://www.kolumbus.fi/~w408237/orage/>`_: calendar and reminder daemon found in :menuselection:`Office --> Orage Calendar`."
+msgstr ""
+
+#: ../../desktops.rst:583
+# 3f788c6b87864e268add5da2c22acb88
+msgid "`Thunar <http://docs.xfce.org/xfce/thunar/start>`_: file manager found in :menuselection:`System --> Thunar File Manager`."
+msgstr ""
+
+#: ../../desktops.rst:585
+# 37d193e5261747f48bb4e1c916d86fde
+msgid "A list of recommended applications for XFCE can be found on the `XFCE wiki <http://wiki.xfce.org/recommendedapps>`_."
+msgstr ""
+
+#: ../../desktops.rst:591
+# 3b834e1971c44cc7bd29531dadef063e
+msgid "XFCE Plugins"
+msgstr ""
+
+#: ../../desktops.rst:593
+# bcadf33ff34043dcbc8d26a6c20f8d18
+msgid "XFCE supports many plugins which provide additional applications that are separate from the official XFCE distribution. You can browse for plugins and read descriptions for each at the XFCE `goodies website <http://goodies.xfce.org/projects/start>`_."
+msgstr ""
+
+#: ../../desktops.rst:596
+# 01f1726e7b5a4fbdbe358e6682166285
+msgid "After installing a plugin, go to :menuselection:`Settings --> Panel --> Items` and click the \"+\" button in the right column to see the \"Add New Items\" screen shown in Figure 6.17e."
+msgstr ""
+
+#: ../../desktops.rst:599
+# d666b7ce8445423b95d52b8adb4406a2
+msgid "**Figure 6.17e: Adding a Plugin to the Panel**"
+msgstr ""
+
+#: ../../desktops.rst:603
+# 74ba8bf32b8645779212ce0f7a731519
+msgid "Select your new plugin from the list, and click the \"+Add\" button. It will immediately be added as an icon in the panel."
+msgstr ""
+
+#: ../../desktops.rst:1
+# 183894654a7f48a5ac276863a44ce065
+msgid "desktop"
+msgstr ""
+
+#: ../../desktops.rst:220
+# e518970d815a4079bce5f7ecabd2a910
+msgid "KDE"
+msgstr ""
+
+#: ../../desktops.rst:443
+# a75d8999a33043b2912e8ce0c4c67cd4
+msgid "Windowlab"
+msgstr ""
+
+#: ../../desktops.rst:525
+#: ../../desktops.rst:587
+# 3a00478f05494a1595d06a51cd318319
+# 60494b0ed54f41d0a6e64143f9f8a746
+msgid "XFCE"
+msgstr ""
+

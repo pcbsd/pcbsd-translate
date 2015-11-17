@@ -1,0 +1,518 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2015, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-08 08:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../help.rst:5
+# 873892ec59364c02bab97e44b0c5bc5b
+msgid "Finding Help"
+msgstr ""
+
+#: ../../help.rst:7
+# b2292ddd2f694161a223586eafd08ea7
+msgid "The PC-BSD® Project strives to make using PC-BSD® as easy as possible for newcomers. Should you need help, there are plenty of ways to get in touch with the PC-BSD® community. This chapter describes the available resources."
+msgstr ""
+
+#: ../../help.rst:10
+# 299ad510b58f462e8d6f70483e9c0f36
+msgid "As your teacher may have told you, \"Do or Do Not, there is no try\", or more likely, that \"there is no such thing as a stupid question\". However, there are better ways to ensure that you receive the response you seek and that it will be a productive exchange for all parties involved. The two articles below describe how and why it is important to follow certain protocols when requesting help:"
+msgstr ""
+
+#: ../../help.rst:14
+# 0985aa38df8b4ac48d4ce1968ed3dc4d
+msgid "`How to Ask Smart Questions (PDF) <http://divajutta.com/doctormo/foo/ask-smart-questions.pdf>`_"
+msgstr ""
+
+#: ../../help.rst:16
+# 6afeb4ba8cc948599e6611dc35c8ab29
+msgid "`How To Ask Questions The Smart Way <http://catb.org/~esr/faqs/smart-questions.html>`_"
+msgstr ""
+
+#: ../../help.rst:22
+# 967a2b54be63469f91af35580936816e
+msgid "PC-BSD® Forums"
+msgstr ""
+
+#: ../../help.rst:24
+# a64bca3a44174a6486af7bea25cbd774
+msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are replied to quickly. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
+msgstr ""
+
+#: ../../help.rst:28
+# 76cbef18b234475e8ce6799c61dbd9f0
+msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some things along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
+msgstr ""
+
+#: ../../help.rst:34
+# 1c8d9733987e41a9b973cde1d4f94bf0
+msgid "The current categories and the forum descriptions are described below:"
+msgstr ""
+
+#: ../../help.rst:36
+# 940baf729a154b4db2fcb50af52eee8b
+msgid "**The General Forum** contains the following sub-forums:"
+msgstr ""
+
+#: ../../help.rst:38
+# 07202daaf789495db1414171724a2a43
+msgid "`Announcements <https://forums.pcbsd.org/forum-16.html>`_: contains announcements of new releases and news related to PC-BSD®. Subscribing to this forum is a good way to keep up-to-date with the latest news about PC-BSD®."
+msgstr ""
+
+#: ../../help.rst:41
+# e384992d2c8140be808f0441274a95d5
+msgid "`Desktop Questions and Support <https://forums.pcbsd.org/forum-13.html>`_: use this forum if your question does not fit into any of the other forum categories."
+msgstr ""
+
+#: ../../help.rst:43
+# a1b9e8f1aca2474f83d9945627b2e9f1
+msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server-related topics."
+msgstr ""
+
+#: ../../help.rst:45
+# 5dbb502bb56a44fb875e91a3fb8dac3d
+msgid "`Hardware Support and Questions <https://forums.pcbsd.org/forum-83.html>`_: if you are having problems with any hardware devices, post the details of your problem to this forum."
+msgstr ""
+
+#: ../../help.rst:47
+# 09a08b5f813c4102b1b2508e196c90b6
+msgid "`Lumina <https://forums.pcbsd.org/forum-26.html>`_: this forum is for the discussion of the :ref:`Lumina` desktop."
+msgstr ""
+
+#: ../../help.rst:49
+# 49ae8d4f7e2948d6bdf27ed82fb12458
+msgid "`Developers Corner <https://forums.pcbsd.org/forum-84.html>`_: a discussion area for PC-BSD® developers and for discussing improvements to the operating system."
+msgstr ""
+
+#: ../../help.rst:51
+# 1acce11f98294f55ad680e12fa7c5d86
+msgid "`Tips, Tricks, and Guides <https://forums.pcbsd.org/forum-17.html>`_: this forum contains suggestions and how-tos for configuring and tweaking your PC-BSD® system."
+msgstr ""
+
+#: ../../help.rst:53
+# 8b10162ebc544fd6a58fe9d5d49207c0
+msgid "`Ports, Packages, and Software <https://forums.pcbsd.org/forum-82.html>`_: a general discussion area regarding software which can be installed on PC-BSD®."
+msgstr ""
+
+#: ../../help.rst:55
+# ee469e3188f94b99977214964de388ab
+msgid "`Documentation Project <https://forums.pcbsd.org/forum-41.html>`_: this is a discussion area for those who wish to help with PC-BSD® documentation."
+msgstr ""
+
+#: ../../help.rst:57
+# 3bf6a313f8b44b25abeb8f467f2d659b
+msgid "`Books on BSD <https://forums.pcbsd.org/forum-19.html>`_: this forum contains errata and discussion for published books about BSD."
+msgstr ""
+
+#: ../../help.rst:59
+# 41eba261915b476c850ae1d5006e6b40
+msgid "`Advocacy <https://forums.pcbsd.org/forum-20.html>`_: this is a brainstorming area for promoting PC-BSD®."
+msgstr ""
+
+#: ../../help.rst:61
+# aac2cb28d09e4228bc0b96100ed1386c
+msgid "`The Lounge <https://forums.pcbsd.org/forum-14.html>`_: this is a general discussion area for PC-BSD® users. Posts in this forum are not of a technical nature. Posts should be of interest to other PC-BSD® users and not contain any mature or slanderous content."
+msgstr ""
+
+#: ../../help.rst:64
+# 428f0ac9162d43f8bda233ee5fb2ab19
+msgid "**The International Forum** contains forums for non-English speakers for PC-BSD® related discussions in their native language. Each forum has its own categories for organizing posts. The following forums are available:"
+msgstr ""
+
+#: ../../help.rst:67
+# 0fc61f6ab93f4820b69de0db6ec99fe1
+msgid "`Translations <https://forums.pcbsd.org/forum-40.html>`_: this is a discussion area for translators who localize PC-BSD® menus or translate PC-BSD® documentation."
+msgstr ""
+
+#: ../../help.rst:70
+# c8b20818c30d43ef8e39bd91fc20f302
+msgid "`Chinese <https://forums.pcbsd.org/forum-47.html>`_"
+msgstr ""
+
+#: ../../help.rst:72
+# cbf1ac73a7b64a3b90a6ffa44e8667f8
+msgid "`French <https://forums.pcbsd.org/forum-45.html>`_"
+msgstr ""
+
+#: ../../help.rst:74
+# 897705ca89fc4b90b929ac6dc2e2b37b
+msgid "`German <https://forums.pcbsd.org/forum-46.html>`_"
+msgstr ""
+
+#: ../../help.rst:76
+# 535fbce2f1c2447195bf354e1677dc93
+msgid "`Japanese <https://forums.pcbsd.org/forum-50.html>`_"
+msgstr ""
+
+#: ../../help.rst:78
+# 2db3644654074738867d7ee1df5aba19
+msgid "`Russian <https://forums.pcbsd.org/forum-49.html>`_"
+msgstr ""
+
+#: ../../help.rst:80
+# cb2ddce17958460c9fb4938a0c7abcc8
+msgid "`Slovene <https://forums.pcbsd.org/forum-48.html>`_"
+msgstr ""
+
+#: ../../help.rst:82
+# ed6c1fc0ab3045faa70f899996b58139
+msgid "`Spanish <https://forums.pcbsd.org/forum-44.html>`_"
+msgstr ""
+
+#: ../../help.rst:84
+# c3a168831d9e4e41a17edc47601a4e31
+msgid "While logged into the forums, you can click your username towards the upper right corner to edit your profile, options, avatar, signature, or buddy list."
+msgstr ""
+
+#: ../../help.rst:86
+# 22466c3c54da4f46891b92cb0663bf4c
+msgid "Before asking a question on the forums or starting a new thread, first use the search utility to see if a similar thread already exists. If one does, you can add to the conversation by using the \"Reply to this topic\" button. If you find a thread useful, feel free to click the \"Add Thank You\" button to let the original poster know that you benefited from their knowledge."
+msgstr ""
+
+#: ../../help.rst:90
+# e312f6a0ed4b409baae9b31fd2ed793e
+msgid "If a similar thread does not already exist, review the forum categories to determine which one is the best fit for your post. When creating a new thread, use a useful \"Thread Subject\" to describe your problem or question--remember, other users may be researching a similar issue and you want them to find your thread. Include enough details in your message so that others can quickly understand what you are experiencing--otherwise, they will have to ask you additional questions to understand your problem. Make sure you are subscribed to your thread so that you will receive a notification when someone responds to it."
+msgstr ""
+
+#: ../../help.rst:95
+# 0f87a6f6dd09427396793d60bf5a9060
+msgid "You can ask a question by clicking on the \"Start new topic\" button in the forum category that most closely matches your question. If you do not see a category that matches your question, try the \"Desktop Questions and Support\" category."
+msgstr ""
+
+#: ../../help.rst:98
+# 6145ce8234aa44ecb7ad9d1ed6bbc0da
+msgid "In addition to the forums available from the PC-BSD® Forums website, the following forums may assist you in troubleshooting your PC-BSD® system:"
+msgstr ""
+
+#: ../../help.rst:100
+# 1666957002ce40ba92c7c8fcf0cc3441
+msgid "`FreeBSD Forums <https://forums.freebsd.org/>`_: many PC-BSD® problems are related to the underlying FreeBSD operating system. The FreeBSD forums are very active and full of useful information that can apply to your PC-BSD® system."
+msgstr ""
+
+#: ../../help.rst:103
+# d869660da71544618ef1dbf5f239222f
+msgid "`BSD Foren <http://www.bsdforen.de/index.php>`_: these forums are in German and contain many categories for each of the BSD operating systems."
+msgstr ""
+
+#: ../../help.rst:105
+# ba66df38ccea4ce78167ea99bd7b5552
+msgid "`BSD Guru PC-BSD® Forum <http://www.bsdguru.org/dyskusja/viewforum.php?f=45>`_: this forum is in Polish and is specific to PC-BSD®, forums for the other BSD operating systems are also available at `BSD Guru <http://www.bsdguru.org/dyskusja/>`_."
+msgstr ""
+
+#: ../../help.rst:112
+# cdfdbb479f504376857f5c7b765b5655
+msgid "PC-BSD® IRC Channel"
+msgstr ""
+
+#: ../../help.rst:114
+# 29318e0318e74b9794fb04e200ec95d1
+msgid "Like many open source projects, PC-BSD® has an `IRC Channel <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
+msgstr ""
+
+#: ../../help.rst:117
+# 48d2404c4e2846adb8f803f0b8b678fa
+msgid "**Server name:** irc.freenode.net"
+msgstr ""
+
+#: ../../help.rst:119
+# de4c219e8e4c4996bd788374160b0a04
+msgid "**Channel name:** #pcbsd (note that the # is required)"
+msgstr ""
+
+#: ../../help.rst:121
+# 43339cc71f3a41169b3df19f0c3a27ea
+msgid ":ref:`AppCafe®` has an IRC category where you can find PBIs for IRC clients. If you do not wish to install an IRC client, you can instead use the `web interface to #pcbsd <http://www.pcbsd.org/en/join-us-on-pcbsd.html>`_."
+msgstr ""
+
+#: ../../help.rst:124
+# b0fb9b46fab147da947119d842560d9b
+msgid "IRC is a great way to chat with other users and get answers to your questions. A few things to keep in mind if you ask a question on IRC:"
+msgstr ""
+
+#: ../../help.rst:126
+# eda0addd5e494cfdbfe9e7a13978b8cc
+msgid "Most of the regular users are always logged in, even when they are away from their computer or are busy doing other things. If you do not get an answer right away, do **not** get mad, leave the channel, and never come back again. Stick around for a while to see if anyone responds."
+msgstr ""
+
+#: ../../help.rst:129
+# e7664ee597924d3abe25af31794e4320
+msgid "IRC users represent many different time zones. It is quite possible that it is late at night or very early in the morning for some users when you ask a question."
+msgstr ""
+
+#: ../../help.rst:132
+# 0eba90fb2e0943a18bf1bbc1a4b176a4
+msgid "Do not post error messages in the channel as the IRC software will probably kick you out for flooding and it is considered to be bad etiquette. Instead, use a pasting service such as `pastebin <http://pastebin.com/>`_ and refer to the URL on channel."
+msgstr ""
+
+#: ../../help.rst:135
+# 6b1d25ec2af947b5a3b139153c0c0644
+msgid "Be polite and do not demand that others answer your question."
+msgstr ""
+
+#: ../../help.rst:137
+# 9acfceb56c924bdc873b9190b489e0c9
+msgid "It is considered rude to DM (direct message) someone who does not know you. If no one answers your question, do not start DMing people you do not know."
+msgstr ""
+
+#: ../../help.rst:139
+# feaf9174d1df4494be39a1e637d37011
+msgid "The first time you join a channel, it is okay to say hi and introduce yourself."
+msgstr ""
+
+#: ../../help.rst:145
+# d3e4c40628834a63ac23ab89ab729ef5
+msgid "Mailing Lists"
+msgstr ""
+
+#: ../../help.rst:147
+# f43018ac998c4d0f95952b2813689621
+msgid "Mailing lists are a handy way to discuss problems, solutions, and requested features as they create a searchable archive of discussions. The PC-BSD® Project offers the following mailing lists to cover a wide variety of discussion topics:"
+msgstr ""
+
+#: ../../help.rst:150
+# abc034cac0634fb0811dc7da63ae74b6
+msgid "`Announce <http://lists.pcbsd.org/mailman/listinfo/announce>`_: a read-only, low frequency list used by the PC-BSD® team to make announcements to the community."
+msgstr ""
+
+#: ../../help.rst:153
+# f6ea3f3c82e44b0a80d90c77d68d43c9
+msgid "`Commits <http://lists.pcbsd.org/mailman/listinfo/commits>`_: lists commits as PC-BSD® code is added or modified by developers."
+msgstr ""
+
+#: ../../help.rst:155
+# 442871b5732b4750a93fa5e5de4de1e6
+msgid "`Dev <http://lists.pcbsd.org/mailman/listinfo/dev>`_: for discussion related to PC-BSD® technical development."
+msgstr ""
+
+#: ../../help.rst:157
+# 26ee37ad8b754e91bb4f99fe527e8eba
+msgid "`Docs <http://lists.pcbsd.org/mailman/listinfo/docs>`_: for communications between those who are involved, or interested in contributing to, the PC-BSD® documentation effort."
+msgstr ""
+
+#: ../../help.rst:160
+# f39cda9588534074affe320d682bd54b
+msgid "`Testing <http://lists.pcbsd.org/mailman/listinfo/testing>`_:for those wishing to participate in PC-BSD® beta testing and feedback."
+msgstr ""
+
+#: ../../help.rst:162
+# ebd3756eb16949dea8d7e3b6bb5d3096
+msgid "`Translations <http://lists.pcbsd.org/mailman/listinfo/translations>`_: for those involved in translating for PC-BSD®."
+msgstr ""
+
+#: ../../help.rst:164
+# d9f77aee8b704ed09555ceec5afa4b0f
+msgid "`Translations-notifications <http://lists.pcbsd.org/mailman/listinfo/translations-notifications>`_: lists documentation commits that affect translations"
+msgstr ""
+
+#: ../../help.rst:166
+# aa055690a8684cdaae168631758c4c49
+msgid "Each mailing list includes a description of topics suitable for discussion on that list and indicates if it is read only or available for user discussion. Anyone can read the archives of a list. If you wish to send an email to a mailing list, you will need to first subscribe to the list. The link for each mailing list provides an interface for subscribing to that list. When you send an email to the list, remember to use the mailing address that you used when you subscribed to the list."
+msgstr ""
+
+#: ../../help.rst:171
+# 74cb1dbfbe794cdc98c55380f69c9bab
+msgid "Several of the mailing lists are archived at `gmane <http://dir.gmane.org/index.php?prefix=gmane.os.pcbsd>`_. Gmane allows you to read the archives in several different formats. It also provides RSS feeds in various formats for keeping up-to-date on new messages and topics."
+msgstr ""
+
+#: ../../help.rst:174
+# 44cf8d282dd7432893a81fc991479606
+msgid "In addition to the official mailing lists, there are mailing lists set up by PC-BSD® users. Many of these lists are designed for discussion in other languages. A list of alternative PC-BSD® mailing lists can be found at `Google groups <https://groups.google.com/forum/#!search/pc-bsd>`_."
+msgstr ""
+
+#: ../../help.rst:181
+# 6a99fb49ddb541739bac327b6b72c93f
+msgid "FreeBSD Handbook and FAQ"
+msgstr ""
+
+#: ../../help.rst:183
+# b38d483d6b8946ddae7dec3a25f79fac
+msgid "PC-BSD® uses FreeBSD as its underlying operating system, so everything in the `FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ and `FreeBSD FAQ <http://www.freebsd.org/doc/en/books/faq/>`_ applies to PC-BSD® as well. Both documents are comprehensive and cover nearly every task you can accomplish on a FreeBSD system. They are also an excellent resource for learning how things work under the hood of your PC-BSD® system."
+msgstr ""
+
+#: ../../help.rst:187
+# c1e802d6004a4e27881cda9f7acd4818
+msgid "some configurations described in the FreeBSD Handbook already \"just work\" on your PC-BSD® system as they have been pre-configured for you. In these instances, reading that FreeBSD Handbook section can help you to understand how your system is configured and why it works."
+msgstr ""
+
+#: ../../help.rst:194
+# 5ce82adf53cd46c5ae7a2cdcd7a2e4c9
+msgid "Social Media"
+msgstr ""
+
+#: ../../help.rst:196
+# 5806f6225c9d4342826364734492ce8d
+msgid "The PC-BSD® project maintains several social media sites to help users keep up-to-date with what is happening and to provide venues for developers and users to network with each other. Anyone is welcome to join."
+msgstr ""
+
+#: ../../help.rst:199
+# cd6ffbf8e69b4ec1b0a91c7358206409
+msgid "`Official PC-BSD® Blog <http://blog.pcbsd.org/>`_"
+msgstr ""
+
+#: ../../help.rst:201
+# 4e87bbc6a1ae4b1e9ca132b44e32e075
+msgid "`PC-BSD® on Twitter <https://twitter.com/PCBSD/>`_"
+msgstr ""
+
+#: ../../help.rst:203
+# c540d67c05d84627abb34229d3707c9b
+msgid "`PC-BSD® Facebook Group <http://www.facebook.com/group.php?gid=4210443834>`_"
+msgstr ""
+
+#: ../../help.rst:205
+# e7ca1dfe68754b5eb8a0996edc4fec9b
+msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/b/118078374333558564924/>`_"
+msgstr ""
+
+#: ../../help.rst:207
+# bca05dad8c5c4e13ad130aeab1b8e55c
+msgid "`PC-BSD® LinkedIn Group <http://www.linkedin.com/groups?gid=1942544>`_"
+msgstr ""
+
+#: ../../help.rst:213
+# 5020400641aa48a2a3beef65319d9101
+msgid "Search and Portals"
+msgstr ""
+
+#: ../../help.rst:215
+# e7c7a6f7343845b4adda416be7b54d9f
+msgid "Many BSD related search portals exist. If you can not find the answer that you are looking for in the forums or mailing lists, try searching these websites:"
+msgstr ""
+
+#: ../../help.rst:217
+# b1e1c1c17a28435ebe85ad7029325ff8
+msgid "`The OpenDirectory <http://www.dmoz.org/Computers/Software/Operating_Systems/Unix/BSD/>`_"
+msgstr ""
+
+#: ../../help.rst:219
+# c241e8ac906c4643be7833da91aa5985
+msgid "`FreeBSD Search <http://www.freebsd.org/search/index.html>`_ (includes mailing list archives, man pages, and web pages)"
+msgstr ""
+
+#: ../../help.rst:221
+# 78ed23678ff54ac1af579de1a5b350f1
+msgid "`FreeBSD News <https://www.freebsdnews.com/>`_"
+msgstr ""
+
+#: ../../help.rst:223
+# d6646d6210d04aeb9b02d3303cd850a5
+msgid "`About BSD <http://aboutbsd.net/>`_"
+msgstr ""
+
+#: ../../help.rst:225
+# 8ccb9fd1d739490ea310aa53d4f6a7ae
+msgid "`BSD Guides <http://www.bsdguides.org/guides/>`_"
+msgstr ""
+
+#: ../../help.rst:227
+# 9f04158121a74e1e95bf9c98b73b9994
+msgid "`Slashdot BSD <http://bsd.slashdot.org/>`_"
+msgstr ""
+
+#: ../../help.rst:229
+# 2f796ef860284da78a48835d905e4d0a
+msgid "`DistroWatch <http://distrowatch.com/>`_"
+msgstr ""
+
+#: ../../help.rst:231
+# e0a6d1e0c3004612b28074866a3959cc
+msgid "`LinuxBSDos <http://linuxbsdos.com/>`_"
+msgstr ""
+
+#: ../../help.rst:237
+# 6350e48c2bda438d85730401d41444c5
+msgid "Other Resources"
+msgstr ""
+
+#: ../../help.rst:239
+# 9c067a3394524dc9afeee6541341df8a
+msgid "The following BSD sites and resources may also contain useful information:"
+msgstr ""
+
+#: ../../help.rst:241
+# 9d451b00605c449dbf01d5e1299069bf
+msgid "`The FreeBSD Diary <http://www.freebsddiary.org/>`_"
+msgstr ""
+
+#: ../../help.rst:243
+# 83dcf389189444859f118ddb965a82dd
+msgid "`PC-BSD® YouTube channel <https://www.youtube.com/channel/UCyd7MaPVUpa-ueUsGjUujag>`_"
+msgstr ""
+
+#: ../../help.rst:245
+# 660e6d242b194422ada6d545b02e50d0
+msgid "`BSD YouTube channel <https://www.youtube.com/user/bsdconferences>`_"
+msgstr ""
+
+#: ../../help.rst:247
+# c736d4b4cd92450da7c4bdf55b22b3e7
+msgid "`BSD Talk <http://bsdtalk.blogspot.com/>`_"
+msgstr ""
+
+#: ../../help.rst:249
+# 9b38167b1d354c238814756f275d7421
+msgid "`BSD Now <http://www.bsdnow.tv/>`_"
+msgstr ""
+
+#: ../../help.rst:251
+# ec12c2bf6c1142ac9a15a2589ffd9557
+msgid "`BSD Magazine <http://bsdmag.org/>`_ (free, monthly download)"
+msgstr ""
+
+#: ../../help.rst:253
+# 3e555f1b8bde495a84eadb05d22be555
+msgid "`FreeBSD Journal <http://www.freebsdjournal.com/>`_ (bi-monthly magazine)"
+msgstr ""
+
+#: ../../help.rst:255
+# a8116b6e8f27463598c295b56f908288
+msgid "`BSD Hacks <http://shop.oreilly.com/product/9780596006792.do>`_ (book)"
+msgstr ""
+
+#: ../../help.rst:257
+# 986f4e41dd7340419c78a52cc518eb3b
+msgid "`The Best of FreeBSD Basics <http://reedmedia.net/books/freebsd-basics/>`_ (book)"
+msgstr ""
+
+#: ../../help.rst:259
+# e4c70c8c0ae8410da3d93fabd064ecc5
+msgid "`Definitive Guide to PC-BSD® <http://www.apress.com/9781430226413>`_ (book)"
+msgstr ""
+
+#: ../../help.rst:1
+#: ../../help.rst:141
+#: ../../help.rst:177
+#: ../../help.rst:190
+#: ../../help.rst:209
+#: ../../help.rst:233
+# 355d7a56fe404fcb83b78bccb900a697
+# fb84e286732c4d9382627380ca7938db
+# 878a563c8f0c4d2b9167a90b22113847
+# 412fecc04d83403880a75184ab9c3ff6
+# 43c8d109f77543f0a5d5f85cc9c6fc1a
+# 4aba6b0df38c4f2a969a50d53931cd40
+msgid "help"
+msgstr ""
+
+#: ../../help.rst:18
+# 9d60cc1d916c4aeeac01d1fc8c18fc0a
+msgid "forums"
+msgstr ""
+
+#: ../../help.rst:108
+# ed3e2547692b4893a4a27256ef79240c
+msgid "irc"
+msgstr ""
+
