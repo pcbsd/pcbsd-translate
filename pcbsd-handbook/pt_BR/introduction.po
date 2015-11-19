@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-19 04:12-0800\n"
-"PO-Revision-Date: 2015-10-23 18:53+0000\n"
+"POT-Creation-Date: 2015-11-19 08:12-0800\n"
+"PO-Revision-Date: 2015-11-19 18:06+0000\n"
 "Last-Translator: Reginaldo <reginaldo.l.oliveira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1447956405.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -30198,6 +30202,8 @@ msgstr ""
 #: ../../introduction.rst:182
 msgid "The \"Tile Plugins\" and \"Cascade Plugins\" entries have been added to the right-click menu of Lumina."
 msgstr ""
+"As entradas de \"Plugins lado a lado\" e \"Plugins em cascata\" foram "
+"adicionadas ao menu do botão direito do Lumina."
 
 # 34284fcfba574bd69b1d49005771e8d8
 # deb2b75eab714d5d9e89b47edfdfcc40
@@ -30491,6 +30497,8 @@ msgstr ""
 #: ../../introduction.rst:184
 msgid "You can now create and manage more than two panels using the Lumina configuration utility."
 msgstr ""
+"Agora você pode criar e gerenciar mais de dois painéis usando o utilitário "
+"de configuração do Lumina."
 
 # 260569bb70db4e5488f8bd3455d07d89
 # 0d27acfc78164105b56fe97045525180
@@ -30672,6 +30680,8 @@ msgstr ""
 #: ../../introduction.rst:186
 msgid "The \"Save Pkg List\" option has been added to the \"Configure\" button of :ref:`AppCafe®`."
 msgstr ""
+"A opção \"Salvar Lista Pkg\" foi adicionada ao botão \"Configurar\" do "
+":ref:`AppCafe®`."
 
 # 6e564517689245d1a4c9b229d809e31c
 # 350af354ea9e4173818fa66e2c9bbd71
@@ -31051,6 +31061,11 @@ msgstr ""
 #: ../../introduction.rst:283
 msgid "The \"Enterprise (Long Term Support)\" repository has been added to :menuselection:`AppCafe® --> Configure --> Repository Configuration`. This option is meant for enterprise users that wish to only receive software updates which fix known security vulnerabilities."
 msgstr ""
+"O repositório \"Corporativo (Suporte a Longo Prazo)\" foi adicionado em "
+":menuselection:`AppCafe® --> Configurar --> Configuração de Repositório`. "
+"Esta opção é destinada a usuários corporativos que desejam receber apenas "
+"atualizações de software que corrigem vulnerabilidades de segurança "
+"conhecidas."
 
 # 167e71cc34d64966ab662ac7a3b1465d
 # cfb7d2e732cf44559fd9111dfb22607f
@@ -31231,6 +31246,8 @@ msgstr ""
 #: ../../introduction.rst:191
 msgid "If you install or uninstall any software in AppCafe®, a \"Status\" tab will appear so that you can review the installation log."
 msgstr ""
+"Se você instalar ou desinstalar qualquer software no AppCafe®, uma guia \""
+"Status\" será exibida para que você possa rever o registo de instalação."
 
 # 77040732babc40ffa1e70a91015ea827
 # 1da243a7b7c34c6ea568b9f3f6ce3d09
@@ -31481,6 +31498,9 @@ msgstr ""
 #: ../../introduction.rst:189
 msgid "The :menuselection:`System --> Branches` menu has been added to :ref:`Update Manager`. This can be used to change which software branch is used to track updates."
 msgstr ""
+"O menu :menuselection:`Sistema --> Ramos` foi adicionado ao :ref:`"
+"Gerenciador de Atualizações`. Isto pode ser usado para alterar em qual ramo "
+"de software ocorrerá o rastreamento das atualizações."
 
 # 6adcb58b824049ba8c6dd62a079b4984
 # 9ca5c8f6db58445b837a9f165386bd9f
@@ -31860,7 +31880,7 @@ msgstr ""
 #: ../../introduction.rst:295
 #: ../../introduction.rst:288
 msgid "The **showeol** option has been added to :command:`pc-updatemanager`."
-msgstr ""
+msgstr "A opção **showeol** foi adicionada ao :command:`pc-updatemanager`."
 
 # 18cefa3941db4db583138f91d7897c5b
 # 439b6567effd4f61aa6a01553a6daca3
@@ -32022,6 +32042,9 @@ msgstr ""
 #: ../../introduction.rst:199
 msgid "The \"Allow Valid Users with UID under 1000\" checkbox and \"Additional Excluded Users\" field have been added to :menuselection:`Control Panel --> Login Manager --> Misc`."
 msgstr ""
+"A caixa de seleção \"Somente Usuários Válidos com UID abaixo de 1000\" e o "
+"campo \"Usuários Adicionais Excluídos\" foram adicionados em :menuselection:`"
+"Painel de Controle --> Gerenciador de Login --> Misc`."
 
 # eee5e1d0438346b8bf431a68cea08dbd
 # df132addda434fafb2dd33f697805572
