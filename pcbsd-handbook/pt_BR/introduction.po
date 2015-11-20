@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-20 04:12-0800\n"
-"PO-Revision-Date: 2015-11-19 18:06+0000\n"
+"POT-Creation-Date: 2015-11-20 08:12-0800\n"
+"PO-Revision-Date: 2015-11-20 17:02+0000\n"
 "Last-Translator: Reginaldo <reginaldo.l.oliveira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448038944.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -32421,6 +32425,8 @@ msgstr ""
 #: ../../introduction.rst:292
 msgid "The **probe-netdrives**, **list-mountednetdrives**, **mountnet**, and **unmountnet** options have been added to :ref:`pc-sysconfig`."
 msgstr ""
+"As opções **probe-netdrives**, **list-mountednetdrives**, **mountnet** e "
+"**unmountnet** foram adicionadas ao :ref:`pc-sysconfig`."
 
 # 09a4e13b0f1d40128d24fc6212e1be26
 # d682ae24cd7f45078aee07642393ac51
@@ -32801,6 +32807,8 @@ msgstr ""
 #: ../../introduction.rst:297
 msgid "The \"Domain Name\" field has been added to :menuselection:`Control Panel --> Network Configuration --> Network Configuration (Advanced)`."
 msgstr ""
+"O campo \"Nome de Domínio\" ao :menuselection:`Painel de Controle --> "
+"Configuração de Rede --> Configuração de Rede (Avançado)`."
 
 # 475c7f65a4a540519d6fed219d20ca8e
 # 61f6dc202008496f81408f4868613ecf
@@ -33181,6 +33189,10 @@ msgstr ""
 #: ../../introduction.rst:299
 msgid "The \"Replication Server\" screen has been removed from the :ref:`Life Preserver` initial configuration wizard and an option has been added to the last screen of the wizard offering to open the advanced configuration options so that replication can be configured."
 msgstr ""
+"A tela \"Servidor de Replicação\" foi removida do assistente de configuração "
+"inicial :ref:`Life Preserver` e uma opção foi adicionada à última tela do "
+"assistente, oferecendo para abrir as opções avançadas de configuração para "
+"que a replicação possa ser configurada."
 
 # 7b252f86f0cc4229a411652e2220c698
 # e102f16887cb45138103fd590b368017
@@ -33558,6 +33570,8 @@ msgstr ""
 #: ../../introduction.rst:302
 msgid "Life Preserver's \"Local Snapshots\" tab now allows you to create a list of datasets to exclude when creating snapshots."
 msgstr ""
+"A aba \"Snapshots Locais\" do Life Preserver agora permite que você crie uma "
+"lista de datasets para excluir ao criar snapshots."
 
 # 354e3b1284274e85afd7488b25d4ea21
 # bdf44e4e52db479ca2163306ce2f8f1b
@@ -33935,6 +33949,8 @@ msgstr ""
 #: ../../introduction.rst:304
 msgid "Life Preserver's \"Replication\" tab now allows you to create a list of datasets to exclude when replicating to the remote server."
 msgstr ""
+"A aba \"replicação\" do Life Preserver agora permite que você crie um "
+"dataset para excluir ao replicar para o servidor remoto."
 
 # 8f1b1982547c43a080eca4045d161b67
 # bf4f6eaadbca40bcbcfa72403e25331c
@@ -34311,6 +34327,8 @@ msgstr ""
 #: ../../introduction.rst:306
 msgid "The \"Reset Replication Password\" option has been added to the :menuselection:`Life Preserver --> Snapshots` menu."
 msgstr ""
+"A opção \"Reset da Senha de Replicação\" foi adicionada ao menu "
+":menuselection:`Life Preserver --> Snapshots`."
 
 # 02faab682ca44d24bdca588dc4e692ae
 # 05659cb698cf46009ddb8dd43f824daa
@@ -34692,7 +34710,7 @@ msgstr ""
 #: ../../introduction.rst:310
 #: ../../introduction.rst:306
 msgid "PC-BSD® for Linux Users"
-msgstr ""
+msgstr "PC-BSD® para Usuários Linux"
 
 # 3c92bc0b6e54485a8fef10bb53379d74
 # fe1fc293f74c44cabd0da5e9363e2f6a
@@ -35075,6 +35093,11 @@ msgstr ""
 #: ../../introduction.rst:308
 msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
 msgstr ""
+"O PC-BSD® é baseado no FreeBSD, o que significa que ele não é uma "
+"distribuição Linux. Se você já usou o Linux antes, você vai descobrir que "
+"alguns recursos que você está acostumado terão nomes diferentes em um "
+"sistema BSD e que alguns comandos são diferentes. Esta seção aborda algumas "
+"destas diferenças."
 
 # c94879a7db144e019fddf14d4f6e7585
 # b0d6a133e40d4f02b00d1187a55bf3d5
