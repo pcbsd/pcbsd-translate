@@ -129,17 +129,18 @@ dataset, and counts against quotas and reservations. In addition, the
 used property is updated when multiple copies are enabled. Consider setting
 this property when the file system is created because changing this property
 on an existing file system only affects newly written data.</source>
-        <translation type="unfinished">Définit le nombre de copies des données utilisateur par système de fichiers. Ces copies
-s&apos;ajoutent à toute redondance de niveau pool. L&apos;espace disque utilisé par
-plusieurs copies de données utilisateur est facturé pour le fichier correspondant et
-DataSet et pénalise les quotas et les réservations. En outre, le
- bien utilisé est mis à jour lorsque plusieurs copies sont activées. Envisager de mettre
- cette propriété lorsque le système de fichier est créé parce que la modification de cette propriété
- sur un système de fichiers existant affecte uniquement les données nouvellement écrites.</translation>
+        <translation>Définit le nombre de copies des données utilisateur par système de fichiers.
+Ces copies s&apos;ajoutent à toute redondance de niveau pool. L&apos;espace disque
+utilisé par plusieurs copies de données utilisateur est ajouté pour le fichier et
+le jeu de données correspondant, et est pris en compte dans les quotas et les
+réservations. De plus, la propriété est mis à jour lorsque plusieurs copies sont activées.
+Envisager de mettre cette propriété lorsque le système de fichier est créé car
+la modification de cette propriété sur un système de fichiers existant affecte uniquement
+les nouvelles données écrites.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the date and time that a dataset was created.</source>
-        <translation type="unfinished">Propriété en lecture seule identifiant la date et l&apos;heure qu&apos;un jeu de données a été créée.   </translation>
+        <translation>Propriété en lecture seule identifiant la date et l&apos;heure à laquelle un jeu de données a été créé.</translation>
     </message>
     <message>
         <source>Configures deduplication for a dataset. The default value is off.
@@ -150,24 +151,24 @@ effect as the setting sha256,verify.
 If set to verify, ZFS will do a byte-to-byte comparsion in case of
 two blocks having the same signature to make sure the block contents
 are identical.</source>
-        <translation type="unfinished">Configuration de la dé-duplication pour un ensemble de données. La valeur par défaut est off.
-Le contrôle de dé-duplication par défaut est sha256 (cela pourrait changer à l&apos;
- avenir). Quand dedup est activée, le contrôle défini ici remplace
- la propriété de contrôle. Réglage de la valeur pour vérifier a la même 
- effet que la mise en sha256, vérifiez. 
- Si elle est définie à vérifier, ZFS feront un comparsion octet par octet en cas de 
- deux blocs ayant la même signature pour s&apos;assurer que le contenu du bloc 
- sont identiques.</translation>
+        <translation>Configure la dé-duplication pour un jeu de données. La valeur par défaut est off.
+La checksum de dé-duplication par défaut est sha256 (cela pourrait changer à
+l&apos;avenir).  Quand dé-dup est activé, la checksum définie ici écrase
+la propriété de checksum. Paramétrer la valeur à vérifier a le même effet
+que le paramétrage sha256, vérifier.
+Si paramétré à vérifier, ZFS fera la comparaison octet par octet lorsque
+deux blocs montrent la même signature pour s&apos;assurer que les contenus des blocs
+sont identiques.</translation>
     </message>
     <message>
         <source>The devices property is currently not supported on FreeBSD.</source>
-        <translation type="unfinished">La propriété du dispositif n&apos;est actuellement pas pris en charge sur FreeBSD.</translation>
+        <translation>La propriété du périphérique n&apos;est actuellement pas pris en charge par FreeBSD.</translation>
     </message>
     <message>
         <source>Controls whether processes can be executed from within this file
 system. The default value is on.</source>
-        <translation type="unfinished">Contrôle si les processus peuvent être exécutés à l&apos;intérieur de ce fichier
-système. La valeur par défaut est activé.    </translation>
+        <translation>Contrôle si les processus peuvent être exécutés à l&apos;intérieur de ce fichier
+système. La valeur par défaut est activé.</translation>
     </message>
     <message>
         <source>Read-only property that indicates whether a file system, clone, or snapshot
@@ -182,12 +183,12 @@ mount point are unmounted. If the new value is legacy, then they remain unmounte
 Otherwise, they are automatically remounted in the new location if the property was
 previously legacy or none, or if they were mounted before the property was changed.
 In addition, any shared file systems are unshared and shared in the new location.</source>
-        <translation type="unfinished">Contrôle le point de montage utilisé pour le système de fichiers. Lorsque la propriété mountpoint
- est changé pour un système de fichiers, le système de fichiers et les descendants qui héritent de ce
- point de montage sont démontés. Si la nouvelle valeur est héritage, alors ils restent démontés. 
- Sinon, ils sont automatiquement remontés au nouvel emplacement si la propriété était
- précédemment héritage ou pas, ou s&apos;ils étaient montés avant que le bien a été modifiée.
- En outre, les systèmes de fichiers partagés sont non partagées et partagées dans le nouvel emplacement.</translation>
+        <translation>Contrôle le point de montage utilisé pour le système de fichiers. Lorsque la propriété point de montage
+est changé pour un système de fichiers, le système de fichiers et tous les descendants qui héritent de ce
+point de montage sont démontés. Si la nouvelle valeur est hérité, alors ils restent démontés.
+Sinon, ils sont automatiquement remontés au nouvel emplacement si la propriété était
+précédemment hérité ou aucune, ou s&apos;ils étaient montés avant que la propriété ai été modifiée.
+De plus, tous les systèmes de fichiers partagés ne le sont plus et partagés dans le nouvel emplacement.</translation>
     </message>
     <message>
         <source>Controls what is cached in the primary cache (ARC). Possible values are all,
