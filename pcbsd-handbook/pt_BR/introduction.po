@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-23 04:12-0800\n"
-"PO-Revision-Date: 2015-11-20 17:02+0000\n"
+"POT-Creation-Date: 2015-11-23 08:12-0800\n"
+"PO-Revision-Date: 2015-11-23 18:00+0000\n"
 "Last-Translator: Reginaldo <reginaldo.l.oliveira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448301611.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -35476,6 +35480,13 @@ msgstr ""
 #: ../../introduction.rst:314
 msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
 msgstr ""
+"O BSD e o Linux usam diferentes sistemas de arquivos durante a instalação. "
+"Muitas distribuições Linux usam EXT2, EXT3, EXT4 ou ReiserFS, enquanto o PC-"
+"BSD® usa o OpenZFS. Isto significa que se você quiser ter dual-boot com "
+"Linux ou acesso a dados em uma unidade externa que tenha sido formatada com "
+"outro sistema de arquivos, você vai querer fazer um pouco de pesquisa "
+"primeiro para ver se os dados serão acessíveis a ambos os sistemas "
+"operacionais."
 
 # 84fe2939990e45639707991d5ecefd41
 # b9b1d9318ca8438382ec4ff10dd6afb5
@@ -35858,6 +35869,13 @@ msgstr ""
 #: ../../introduction.rst:318
 msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
 msgstr ""
+"A Tabela 1.3a resume os vários sistemas de arquivos comumente usados por "
+"sistemas de desktop. A maioria dos gerenciadores de desktop disponíveis no "
+"PC-BSD® deve montar automaticamente os seguintes sistemas de arquivos: "
+"FAT16, FAT32, EXT2, EXT3 (sem journaling), EXT4 (somente leitura), NTFS5, "
+"NTFS6, e XFS. Veja a seção :ref:`Arquivos e Compartilhamento de Arquivos` "
+"para obter mais informações sobre os utilitários de gerenciamento de "
+"arquivos disponíveis."
 
 # eb8a4e5772974dd0a3d234d887a8d04e
 # 20e76623e20d4e32aa15fe65fad9b014
@@ -36239,7 +36257,7 @@ msgstr ""
 #: ../../introduction.rst:326
 #: ../../introduction.rst:322
 msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
-msgstr ""
+msgstr "**Tabela 1.3a: Suporte a Sistemas de Arquivo no PC-BSD®**"
 
 # 754d9a1d17ef48ef820fc0f541a52f31
 # 93af0fe451f54ec4b4f95165f4b26dbb
@@ -36621,7 +36639,7 @@ msgstr ""
 #: ../../introduction.rst:329
 #: ../../introduction.rst:325
 msgid "Filesystem"
-msgstr ""
+msgstr "Sistema de Arquivo"
 
 # 60382045c7c84e0189110595374c8740
 # b26e2fb623bf4b7fab04c75465c8053d
@@ -37003,7 +37021,7 @@ msgstr ""
 #: ../../introduction.rst:329
 #: ../../introduction.rst:325
 msgid "Native to"
-msgstr ""
+msgstr "Nativo de"
 
 # 5963bd60f1da4d0fb129c44a136be98d
 # 7b118953f136463f947c646f0d7c8e91
@@ -37385,7 +37403,7 @@ msgstr ""
 #: ../../introduction.rst:329
 #: ../../introduction.rst:325
 msgid "Type of non-native support"
-msgstr ""
+msgstr "Tipo de suporte não-nativo"
 
 # 057e78db22d041ab8ac506200a98a4b6
 # 61d469aeb402423dac2326cc62471985
@@ -37767,7 +37785,7 @@ msgstr ""
 #: ../../introduction.rst:329
 #: ../../introduction.rst:325
 msgid "**Usage notes**"
-msgstr ""
+msgstr "**Notas de uso**"
 
 # d868835fc6e9412c9cb0bd8c81025de5
 # ca667723263741dd8d95b59f045e5558
@@ -38149,7 +38167,7 @@ msgstr ""
 #: ../../introduction.rst:331
 #: ../../introduction.rst:327
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 # 1d1c9266c44f4975b4cbc5a3a5e80684
 # d8b1dc8f980c4e569299b0913672811b
@@ -41172,7 +41190,7 @@ msgstr ""
 #: ../../introduction.rst:379
 #: ../../introduction.rst:302
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 # dabe50a623ec443c9af8b62adb63680e
 # 7cd40023a65a48c3b8dfe436224da0ed
@@ -42686,7 +42704,7 @@ msgstr ""
 #: ../../introduction.rst:346
 #: ../../introduction.rst:349
 msgid "none"
-msgstr ""
+msgstr "nenhum"
 
 # 6c10fc3ec9cc48d780b46dae97782bff
 # 9f7966fb666e4e2fb902f36d63d35258
@@ -43068,7 +43086,7 @@ msgstr ""
 #: ../../introduction.rst:333
 #: ../../introduction.rst:329
 msgid "exFAT"
-msgstr ""
+msgstr "exFAT"
 
 # 797f339b427c42efa377ba203d585805
 # dc045a5a53f74e3a9eb9252e950af517
@@ -44955,7 +44973,7 @@ msgstr ""
 #: ../../introduction.rst:351
 #: ../../introduction.rst:353
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 # ea49a5632a9f47e39ca838f961641a37
 # 8ea48425f5f04ca8839133646af61c29
@@ -45337,7 +45355,7 @@ msgstr ""
 #: ../../introduction.rst:333
 #: ../../introduction.rst:329
 msgid "requires a license from Microsoft"
-msgstr ""
+msgstr "requer uma licença da Microsoft"
 
 # 2e957f5b8f30408f931b93a68e078712
 # dd8957ccb2bd4872ae117710aeaec027
@@ -45719,7 +45737,7 @@ msgstr ""
 #: ../../introduction.rst:335
 #: ../../introduction.rst:331
 msgid "EXT2"
-msgstr ""
+msgstr "EXT2"
 
 # 883a074d9c8e4a8a98418a25c7916245
 # 6e58bff8083d4a979118514d4c68159c
@@ -47606,7 +47624,7 @@ msgstr ""
 #: ../../introduction.rst:342
 #: ../../introduction.rst:353
 msgid "r/w support loaded by default"
-msgstr ""
+msgstr "suporte a leitura/escrita carregada por padrão"
 
 # 6503ca9700994fa8b4821e1371d84363
 # 01ce04656f9d4e31ae91002b85ba38c2
@@ -47988,7 +48006,7 @@ msgstr ""
 #: ../../introduction.rst:337
 #: ../../introduction.rst:333
 msgid "EXT3"
-msgstr ""
+msgstr "EXT3"
 
 # 13c541faf5e44372a171c6913ec3828e
 # 4912fec38e164dab9a863ae09ce6060c
@@ -48371,6 +48389,10 @@ msgstr ""
 #: ../../introduction.rst:333
 msgid "since EXT3 journaling is not supported, you will not be able to mount a filesystem requiring a journal replay unless you :command:`fsck` it using an external utility such as `e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
 msgstr ""
+"uma vez que o journaling no EXT3 não é suportado, você não será capaz de "
+"mountar um sistema de arquivos exigindo uma reescrita, a menos que, você "
+"execute o comando :command:`fsck` usando um utilitário externo como o `"
+"e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
 
 # c6639145544a4a80913b24d46c5ca950
 # 85089ca5464241ac93a8d3f931752411
@@ -48752,7 +48774,7 @@ msgstr ""
 #: ../../introduction.rst:342
 #: ../../introduction.rst:338
 msgid "EXT4"
-msgstr ""
+msgstr "EXT4"
 
 # f2cc857135c04804a2045125a11d5ffb
 # ce9514fc7af0409a8151ee5b9a8abc12
@@ -49134,7 +49156,7 @@ msgstr ""
 #: ../../introduction.rst:342
 #: ../../introduction.rst:338
 msgid "r/o support loaded by default"
-msgstr ""
+msgstr "suporte somente a leitura carregada por padrão."
 
 # 82d2839ab4554f728b7192cd7a502ad7
 # 916fc7df72414749aa4e690f2863e2fe
