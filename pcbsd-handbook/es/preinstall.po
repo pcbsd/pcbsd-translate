@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-25 04:12-0800\n"
-"PO-Revision-Date: 2015-11-24 19:02+0000\n"
+"POT-Creation-Date: 2015-11-25 08:12-0800\n"
+"PO-Revision-Date: 2015-11-25 19:38+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448480306.000000\n"
 
 # b6e8cb0c1ede43f2b21ca1139feac6d5
 # 56a6ba8b1c8f473495e8c2949de12299
@@ -19260,10 +19264,22 @@ msgstr ""
 #: ../../preinstall.rst:184
 msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, in this example it is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
 msgstr ""
+"Ya que las tres particiones están usando todo el disco, la partición de "
+"datos necesita reducirse para crear espacio para instalar PC-BSD®. Para "
+"reducir la partición de datos, presione botón derecho sobre la partición, en "
+"este ejemplo se llama *Acer (C:)*, y seleccione \"Reducir Volúmen\". Espere "
+"un momento ya que se hace una consulta al volúmen sobre el espacio "
+"disponible para reducir. Los resultados se desplegarán como se muestra en el "
+"ejemplo en la :numref:`Figura %s: Espacio Disponible para Reducir <shrink1>`."
 
 #: ../../preinstall.rst:192
 msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in :numref:`Figure %s: Disk Now Has Free Space <shrink2>`."
 msgstr ""
+"En este ejemplo, 321089 MB de espacio están disponibles. Para dividir la "
+"partición entre Windows y PC-BSD®, cambie ese número a *230000* y presione "
+"el botón \"Reducir\". Cuando termine, el nuevo espacio libre creado se "
+"mostrará, como se ve en la :numref:`Figure %s: El Disco Ahora Tiene Espacio "
+"Libre <shrink2>`."
 
 # c434221d1bef448ca4375e118fa9b440
 # 7234b670b04c495e968af08590dcea7c
@@ -29292,6 +29308,11 @@ msgstr ""
 #: ../../preinstall.rst:288
 msgid "If you are currently using a Windows system, you can download and install the `FastSum <http://www.fastsum.com/>`_ utility in order to verify the MD5 checksum. Once installed, launch the program and click the \"Files\" button, shown in :numref:`Figure %s: Verifying a Checksum Using FastSum <fastsum1>`, to browse to the location of your downloaded file."
 msgstr ""
+"Si actualmente está usando un sistema Windows, puede descargar e instalar la "
+"utilería `FastSum <http://www.fastsum.com/>`_ para poder verificar las "
+"firmas MD5. Una vez instalada, ejecute el programa y presione el botón \""
+"Archivos\", mostrado en la :numref:`Figure %s: Verificando la Firma Usando "
+"FastSum <fastsum1>`, para encontrar la ubicación de su archivo descargado."
 
 # b62b47282de24f818448bbeead0865d9
 # 6dccd0f197754e55b0201d06409b6e5a
@@ -31631,10 +31652,21 @@ msgstr ""
 #: ../../preinstall.rst:322
 msgid "Alternately, the `InfraRecorder utility <http://infrarecorder.org/>`_ is an open source burning application for both CDs and DVDs. Once installed, open InfraRecorder and click on the \"Write Image\" button shown in :numref:`Figure %s: Initial InfraRecorder Screen <infra1>`."
 msgstr ""
+"Alternativamente, la `utilería InfraRecorder <http://infrarecorder.org/>`_ "
+"es una aplicación open souce para grabar CDs y DVDs. Una vez instalado, abra "
+"InfraRecorder y presione en el botón \"Grabar Imágen\" mostrado en la "
+":numref:`Figure %s: Pantalla Inicial de InfraRecorder <infra1>`."
 
 #: ../../preinstall.rst:329
 msgid "InfraRecorder will display a screen where you can browse to the location of the :file:`.iso` file. Once selected, you will be presented with an options screen shown in :numref:`Figure %s: Burn Options in InfraRecorder <infra2>`. You can accept the defaults and click \"OK\" to start the burn. When finished, the burner tray will open and a dialog box will appear indicating that the burning process has finished."
 msgstr ""
+"InfraRecorder desplegará una pantalla donde puede buscar la ubicación del "
+"archivo :file:`.iso`. Una vez seleccionado, se le presentará una pantalla de "
+"opciones mostrada en la :numref:`Figure %s: Opciones de Grabado en "
+"InfraRecorder <infra2>`. Puede aceptar las opciones predeterminadas y "
+"presionar \"OK\" para iniciar la grabación. Cuando termine, la bandeja del "
+"quemador se abrirá y un cuadro de diálogo aparecerá indicándole que el "
+"proceso de grabado ha terminado."
 
 # 3ba3a878d54149db97f1988235d621e9
 # 31f460a68f424f3eb88b0f999157bdba
@@ -32410,6 +32442,12 @@ msgstr ""
 #: ../../preinstall.rst:346
 msgid "To burn your ISO, launch K3B, insert a blank DVD/CD media, browse to the location of the :file:`.iso` file in the screen shown in :numref:`Figure %s: Selecting the Burn Image Tool Within K3B <k3b1>`, and click :menuselection:`Tools --> Burn Image...` to see the screen in :numref:`Figure %s: K3B's Burn Image Screen <k3b2>`."
 msgstr ""
+"Para grabar su ISO, ejecute K3B, inserte un medio DVD/CD en blanco, busque "
+"dónde se localiza el archivo :file:`.iso` en la pantalla mostrada en la "
+":numref:`Figure %s: Seleccionando la Herramienta Grabar Imágen en K3B <k3b1>`"
+", y presione :menuselection:`Herramientas --> Grabar Imágen...` para ver la "
+"pantalla que se muestra en la :numref:`Figure %s: Pantalla de Grabar Imágen "
+"de K3B <k3b2>`."
 
 # e22bfb06d145499383b42cb34dfe8943
 # 7b2ba3cde8834d42a978fd09f2b22e43
@@ -32801,14 +32839,29 @@ msgstr ""
 #: ../../preinstall.rst:360
 msgid "`The Brasero burner <https://wiki.gnome.org/Apps/Brasero>`_ provides an alternative, easy-to-use burning application included with the :ref:`GNOME` desktop. A PBI is also available within :ref:`AppCafe®`. Once installed, Brasero can be launched by typing :command:`brasero` from within any window manager. :numref:`Figure %s: Brasero's Initial Screen <brasero1>` shows the initial Brasero screen."
 msgstr ""
+"`El grabador Brasero <https://wiki.gnome.org/Apps/Brasero>`_ proporciona una "
+"alternativa, una aplicación fácil de usar para grabar incluida con el "
+"escritorio :ref:`GNOME`. Un PBI está también disponible en :ref:`AppCafe®`. "
+"Una vez instalado, Brasero puede ejecutarse tecleando :command:`brasero` "
+"desde cualquier gestor de ventanas. La :numref:`Figure %s: Pantalla Inicial "
+"de Brasero <brasero1>` muestra la pantalla inicial de Brasero."
 
 #: ../../preinstall.rst:368
 msgid "Click \"Burn image\" to open the screen seen in :numref:`Figure %s: Brasero Image Burning Setup <brasero2>`. Use the \"Click here to select a disk image\" button to select your :file:`.iso` file."
 msgstr ""
+"Presione en \"Grabar imágen\" para abrir la pantalla mostrada en la :numref:`"
+"Figure %s: Preparación para Grabar Imágen en Brasero <brasero2>`. Use el "
+"botón \"Presione aquí para seleccionar una imágen de disco\" para "
+"seleccionar su archivo :file:`.iso`."
 
 #: ../../preinstall.rst:375
 msgid "The name and size of your :file:`.iso` file should appear and Brasero will indicate the size of the media. If you click on the \"Properties\" button, you can change some options, but it is fine to keep the default settings. When you are ready, click the \"Burn\" button and Brasero will burn your ISO."
 msgstr ""
+"El nombre y tamaño de su archivo :file:`.iso` deberá aparecer y Brasero le "
+"indicará el tamaño del medio. Si presiona en el botón \"Propiedades\", puede "
+"cambiar algunas opciones, pero es mejor quedarse con las características "
+"predeterminadas. Cuando esté listo, presione el botón \"Grabar\" y Brasero "
+"grabará su ISO."
 
 # 26cea726ddf8456fa1763e9414680727
 # b63b8cafbe8240d88e1cfbd077cd29fc
@@ -40568,6 +40621,12 @@ msgstr ""
 #: ../../preinstall.rst:453
 msgid "If you launch :command:`win32-image-writer.exe`, it will start the Win32 Disk Imager utility, shown in :numref:`Figure %s: Using Win32 Disk Imager to Write the Image <writer1>`. Use the \"browse\" button to browse to the location of the :file:`.iso` file. Insert a USB thumb drive and select its drive letter (in this example, drive D). Click the \"Write\" button and the image will be written to the USB thumb drive."
 msgstr ""
+"Si ejecuta :command:`win32-image-writer.exe`, lanzará la utilería Win32 Disk "
+"Imager, mostrada en la :numref:`Figure %s: Usando Win32 Disk Imager para "
+"Grabar la Imágen <writer1>`. Use el botón \"buscar\" para buscar la "
+"ubicación del archivo :file:`.iso`. Inserte una memoria USB y seleccione su "
+"letra de unidad (en este ejemplo, unidad D). Presione el botón \"Grabar\" y "
+"la imágen será grabada en la memoria USB."
 
 # 168047c0206d4d51b94acef5267aa4a8
 # 32b40582ea17449982ad47e60c09e92d
@@ -45228,30 +45287,72 @@ msgstr "Un adaptador puente"
 #: ../../preinstall.rst:529
 msgid "To create the virtual machine, start VirtualBox to see the screen shown in :numref:`Figure %s: Initial VirtualBox Screen <vbox1>`."
 msgstr ""
+"Para crear la máquina virtual, inicie VirtualBox para ver la pantalla "
+"mostrada en la :numref:`Figure %s: Pantalla Inicial de VirtualBox <vbox1>`."
 
 #: ../../preinstall.rst:535
 msgid "Click the \"New\" button to start the new virtual machine wizard. Click the \"Next\" button to see the screen in :numref:`Figure %s: Type in a Name and Select the Operating System for the New Virtual Machine <vbox2>`."
 msgstr ""
+"Presione el botón \"Nuevo\" para comenzar el asistente de nueva máquina "
+"virtual. Presione el botón \"Siguiente\" paara ver la pantalla de la "
+":numref:`Figure %s: Ingrese un Nombre y Seleccione el Sistema Operativo para "
+"la Nueva Máquina Virtual <vbox2>`."
 
 #: ../../preinstall.rst:542
 msgid "Enter a name for your virtual machine, which can be anything that makes sense to you. Click the \"Operating System\" drop-down menu and select \"BSD\". In the \"Version\" drop-down menu, select \"FreeBSD (64 bit)\". Click \"Next\" to see the screen in :numref:`Figure %s: Select the Amount of Memory Reserved for the Virtual Machine <vbox3>`."
 msgstr ""
+"Ingrese un nombre para su máquina virtual, que puede ser cualquier cosa que "
+"tenga sentido para usted. Presione el menú desplegable \"Sistema Operativo\" "
+"y seleccione \"BSD\". En el menú desplegable \"Versión\", seleccione \""
+"FreeBSD (64 bit)\". Presione \"Siguiente\" para ver la pantalla de la "
+":numref:`Figure %s: Seleccionando la Cantidad de Memoria Reservada para la "
+"Máquina Virtual <vbox3>`."
 
 #: ../../preinstall.rst:549
 msgid "The base memory size must be changed to **at least 1024 MB.** If your system has a lot of RAM, use more. Any number within the green area is considered a safe value by VirtualBox, meaning it should not slow down your computer too much. When finished, click Next to see the screen in :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`."
 msgstr ""
+"El tamaño de la memoria base deberá cambiarse a **al menos 1024 MB.** Si su "
+"sistema tiene mucha RAM, use más. Cualquier número dentro del área verde es "
+"considerado un valor seguro para VirtualBox, significando que no debería "
+"alentar mucho su computadora. Cuando termine, presione \"Siguiente\" para "
+"ver la pantalla en la :numref:`Figure %s: Seleccione Si Usa o Crea un Nuevo "
+"Disco Duro Virtual <vbox4>`."
 
 #: ../../preinstall.rst:557
 msgid "This screen is used to create the virtual hard drive, or the amount of disk space that will be available to the virtual machine. If this is your first virtual machine, keep the default of \"Create a virtual hard drive now\" and click \"Create\" to go to the screen shown in :numref:`Figure %s: Select the Hard Drive Type <vbox5>`. If you have created a virtual machine in the past and wish to reuse its disk space, select \"Use an existing virtual hard drive file\" from the drop-down menu. You can create as many virtual machines as you wish. However, if your computer is getting low on disk space, you should consider reusing existing virtual hard drives to prevent your physical hard drive from being used up by old virtual machines."
 msgstr ""
+"Esta pantalla es usada para crear el disco duro virtual, o la cantidad de "
+"espacio en disco que estará disponible para la máquina virtual. Si esta es "
+"su primera máquina virtual, mantenga el valor predeterminado de \"Crear un "
+"disco duro virtual ahora\" y presione \"Crear\" para ir a la pantalla "
+"mostrada en la :numref:`Figure %s: Seleccionando el Tipo de Disco Duro "
+"<vbox5>`. Si ha creado ya una máquina virtual en el pasado y quiere reusar "
+"su espacio en disco, seleccione \"Use un archivo existente de disco duro "
+"virtual\" desde el menú desplegable. Puede crear tantas máquinas virtuales "
+"como guste. Sin embargo, si su computadora se está quedando sin espacio en "
+"disco, debería considerar reusar discos duros virtuales existentes para "
+"prevenir que su disco duro físico sea consumido por viejas máquinas "
+"virtuales."
 
 #: ../../preinstall.rst:567
 msgid "Select \"VDI\" and click the \"Next\" button to see the screen in :numref:`Figure %s: Select the Storage Type <vbox6>`."
 msgstr ""
+"Seleccione \"VDI\" y presione el botón \"Siguiente\" para ver la pantalla "
+"mostrada en la :numref:`Figure %s: Seleccionando el Tipo de Almacenamiento "
+"<vbox6>`."
 
 #: ../../preinstall.rst:573
 msgid "You can now choose whether you want \"Dynamically allocated\" or \"Fixed size\" storage. The first option uses disk space as needed until it reaches the maximum size that you will set in the next screen. The second option creates a disk the same size as that specified amount of disk space, whether it is used or not. Choose the first option if you are worried about disk space; otherwise choose the second option as it allows VirtualBox to run slightly faster. Once you select \"Next\", you will see the screen in :numref:`Figure %s: Select the File Name and Size of the Virtual Disk <vbox7>`."
 msgstr ""
+"Ahora puede elegir si quiere almacenamiento \"Reservado Dinámicamente\" o de "
+"\"Tamaño Fijo\". La primera opción usa el espacio en disco como se vaya "
+"necesitando hasta que llega al tamaño máximo que usted elegirá en la "
+"siguiente pantalla. La segunda opción crea un disco del mismo tamaño al "
+"especificado, se use o no. Elija la primera opción si le preocupa el espacio "
+"en disco; de otra forma elija la segunda opción, ya que permite a VirtualBox "
+"correr un poco más rápido. Una vez que seleccione \"Siguiente\", usted verá "
+"la pantalla en la :numref:`Figure %s: Seleccionando el Nombre de Archivo y "
+"Tamaño del Disco Virtual <vbox7>`."
 
 # eca135fbe3eb43e0b52036f9679919c5
 # 0119568457b746b79495340b331a679e
@@ -45651,14 +45752,31 @@ msgstr ""
 #: ../../preinstall.rst:587
 msgid "Once you make your selection and press \"Next\", you will see a summary of your choices. You can use the \"Back\" button to return to a previous screen if you wish to change any values. Otherwise, click \"Create\" to finish using the wizard. Your virtual machine should now show up in the left box, as seen in the example in :numref:`Figure %s: The New Virtual Machine <vbox8>`."
 msgstr ""
+"Una vez que haya realizado su selección y presione \"Siguiente\", verá un "
+"resumen de sus elecciones. Puede usar el botón \"Atrás\" para regresar a una "
+"pantalla previa si quiere cambiar cualquier valor. De otra forma, presione \""
+"Crear\" para terminar de usar el asistente. Su máquina virtual debería ahora "
+"mostrarse en la caja de la izquierda, como se muestra en el ejemplo en la "
+":numref:`Figure %s: La Máquina Virtual Nueva <vbox8>`."
 
 #: ../../preinstall.rst:595
 msgid "In order to use your network card, configure bridging on your virtual machine. To do this, go to :menuselection:`Settings --> Network`. In the \"Attached to\" drop-down menu select \"Bridged Adapter\" then select the name of the physical interface from the \"Name\" drop-down menu. In the example shown in :numref:`Figure %s: Configuring a Bridged Adapter in VirtualBox <vbox9>`, the Intel Pro/1000 Ethernet card is attached to the network and has a device name of :file:`re0`."
 msgstr ""
+"Para usar su tarjeta de red, configure un puente en su máquina virtual. Para "
+"hacer esto, vaya a :menuselection:`Configuraciones --> Red`. En el menú "
+"desplegable \"Conectado a\" seleccione \"Adaptador Puente\" y después "
+"seleccione el nombre de la interfaz física desde el menú desplegable \""
+"Nombre\". En el ejemplo mostrado en la :numref:`Figure %s: Configurando un "
+"Adaptador Puente en VirtualBox <vbox9>`, la tarjeta Ethernet Intel Pro/1000 "
+"está conectada a la red y tiene un nombre de dispositivo de :file:`re0`."
 
 #: ../../preinstall.rst:603
 msgid "Before starting your virtual machine, configure it to use your installation media. Click the \"Storage\" hyperlink in the right frame to access the storage screen seen in :numref:`Figure %s: The Storage Settings of the Virtual Machine <vbox10>`."
 msgstr ""
+"Antes de iniciar su máquina virtual, configurela para usar su medio de "
+"instalación. Presione el enlace \"Almacenamiento\" en el marco derecho para "
+"accesar la pantalla de almacenamiento mostrada en la :numref:`Figure %s: Las "
+"Configuraciones de Almacenamiento de la Máquina Virtual <vbox10>`."
 
 # 12d51d1a145c476283021996cc64477e
 # 275cf4c5461e4bceb86bff2e67e0ded1
@@ -48784,6 +48902,9 @@ msgstr ""
 #: ../../preinstall.rst:641
 msgid "Once the file is unzipped, open VirtualBox. When you get to :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`, select \"Use an existing virtual hard drive file\"."
 msgstr ""
+"Una vez que el archivo es descomprimido, abra VirtualBox. Cuando llegue a "
+":numref:`Figure %s: Seleccionando si Usa o Crea un Nuevo Disco Duro Virtual "
+"<vbox4>`"
 
 # 8a18f0c26ca64e4f98adae8ddb06a006
 # 56a73c4e4c83459bbb1a5206b7b7c2bd
@@ -51904,6 +52025,11 @@ msgstr ""
 #: ../../preinstall.rst:669
 msgid "The first time a PC-BSD® :file:`.ova` file is opened, a screen will open so that you can review the virtual machine's settings that came with the file. An example is shown in :numref:`Figure %s: Appliance Settings Screen <ova1>`. To edit a setting, double-click its name."
 msgstr ""
+"La primera vez que un archivo :file:`.ova` de PC-BSD® es abierto, una "
+"pantalla se abrirá para que pueda revisar las configuraciones de la máquina "
+"virtual que vienen con el archivo. Un ejemplo se muestra en la :numref:`"
+"Figure %s: Pantalla de Configuraciones de la Máquina Virtual <ova1>`. Para "
+"editar una configuración, haga doble clic en el nombre."
 
 # 5d501f7b58624c72ac569a2309370060
 # 37d670408aca4e8593cbed05825aebdb
