@@ -173,8 +173,8 @@ système. La valeur par défaut est activé.</translation>
     <message>
         <source>Read-only property that indicates whether a file system, clone, or snapshot
 is currently mounted.</source>
-        <translation type="unfinished">Propriété en lecture seule qui indique que un système de fichiers, un clone ou un instantané
-actuellement monté.</translation>
+        <translation>Propriété en lecture seule qui indique qu&apos;un système de fichiers, un clone ou un instantané
+est actuellement monté.</translation>
     </message>
     <message>
         <source>Controls the mount point used for this file system. When the mountpoint property
@@ -195,20 +195,20 @@ De plus, tous les systèmes de fichiers partagés ne le sont plus et partagés d
 none, and metadata. If set to all, both user data and metadata are cached. If
 set to none, neither user data nor metadata is cached. If set to metadata, only
 metadata is cached.</source>
-        <translation type="unfinished">Contrôle ce qui est mis en cache dans le cache principal (ARC). Les valeurs possibles sont tous,
-none et metadata. Si réglé sur all, les données de l&apos;utilisateur et les métadonnées sont mises en cache. Si
- définie sur none, ni les données d&apos;utilisateur ni les métadonnées sont mises en cache. Si réglé sur metadata, seules les
- métadonnées sont mises en cache.</translation>
+        <translation>Contrôle ce qui est mis en cache dans le cache principal (ARC). Les valeurs possibles sont tout,
+aucune et métadonnées. Si réglé sur tout, les données utilisateur et les métadonnées sont mises en cache.
+Si définie sur aucune, ni les données utilisateur ni les métadonnées sont mises en cache.
+Si réglé sur métadonnées, seules les métadonnées sont mises en cache.</translation>
     </message>
     <message>
         <source>Read-only property for cloned file systems or volumes that identifies
 the snapshot from which the clone was created. The origin cannot be
 destroyed (even with the -r or -f option) as long as a clone exists.
 Non-cloned file systems have an origin of none.</source>
-        <translation type="unfinished">Propriété en lecture seule pour les systèmes de fichiers ou aux volumes clonés qui identifie
+        <translation>Propriété en lecture seule pour les systèmes de fichiers ou les volumes clonés qui identifie
 l&apos;instantané à partir duquel le clone a été créé. L&apos;origine ne peut pas être
- détruit (même avec l&apos;option-r ou option-f) tant que le clone existe.
- Les systèmes de fichiers non clonés ont une origine d&apos;aucun.</translation>
+détruit (même avec l&apos;option-r ou option-f) tant qu&apos;un clone existe.
+Les systèmes de fichiers non clonés ont comme origine aucun.</translation>
     </message>
     <message>
         <source>Limits the amount of disk space a dataset and its descendents can consume.
@@ -216,17 +216,17 @@ This property enforces a hard limit on the amount of disk space used,
 including all space consumed by descendents, such as file systems and snapshots.
 Setting a quota on a descendent of a dataset that already has a quota does not
 override the ancestor&apos;s quota, but rather imposes an additional limit.</source>
-        <translation type="unfinished">Limite la quantité d&apos;espace disque un ensemble de données et ses descendants peuvent consommer.
- Cette propriété impose une limite fixe à la quantité d&apos;espace disque utilisée,
-y compris l&apos;espace utilisé par les descendants, tels que les systèmes de fichiers et les instantanés.
- Fixation d&apos;un quota sur un descendant d&apos;un ensemble de données qui dispose déjà d&apos;un quota ne
- le remplacement du quota de l&apos;ancêtre, mais impose plutôt une limite supplémentaire.</translation>
+        <translation>Limite la quantité d&apos;espace disque qu&apos;un jeu de données et ses descendants peuvent consommer.
+Cette propriété impose une limite fixe sur le montant d&apos;espace disque utilisé,
+y compris l&apos;espace consommé par les descendants, tels que les systèmes de fichiers et les instantanés.
+Fixé un quota sur un descendant d&apos;un jeu de données qui dispose déjà d&apos;un quota ne
+remplace pas le quota de l&apos;ancêtre, mais impose une limite supplémentaire.</translation>
     </message>
     <message>
         <source>Controls whether a dataset can be modified. When set to on,
 no modifications can be made.</source>
-        <translation type="unfinished">Contrôle si un ensemble de données peut être modifié. Quand elle est activée,
-pas de modifications peuvent être apportées.</translation>
+        <translation>Contrôle si un jeu de données peut être modifié. Quand elle est activée,
+aucune modification ne peut être apportées.</translation>
     </message>
     <message>
         <source>Specifies a suggested block size for files in the file system. This
