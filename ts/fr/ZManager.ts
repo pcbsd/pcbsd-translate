@@ -260,9 +260,9 @@ ensemble de données, ce qui pourrait ou ne pourrait pas être partagé avec d&a
         <source>Sets the amount of disk space that a dataset can consume. This property
 enforces a hard limit on the amount of space used. This hard limit does
 not include disk space used by descendents, such as snapshots and clones.</source>
-        <translation type="unfinished">Définit la quantité d&apos;espace disque qu&apos;un ensemble de données peut consommer. Cette propriété
- impose une limite fixe à la quantité d&apos;espace utilisé. Cette limite maximale ne
-ne pas inclure d&apos;espace disque utilisé par les descendants, notamment les instantanés et les clones.</translation>
+        <translation>Définit le montant d&apos;espace disque qu&apos;un jeu de données peut consommer. Cette propriété
+impose une limite fixe au montant d&apos;espace utilisé. Cette limite fixe n&apos;inclue
+pas l&apos;espace disque utilisé par les descendants, tels que les instantanés et les clones.</translation>
     </message>
     <message>
         <source>Sets the minimum amount of disk space that is guaranteed to a dataset, not

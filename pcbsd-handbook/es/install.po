@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-26 04:13-0800\n"
-"PO-Revision-Date: 2015-10-16 17:08+0000\n"
+"POT-Creation-Date: 2015-11-26 08:12-0800\n"
+"PO-Revision-Date: 2015-11-26 18:53+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448564020.000000\n"
 
 # bc959b7f0cfd4d5191f7529b3a587b80
 # 93e1139b003c480b81b0b59e69c552cd
@@ -1169,6 +1173,14 @@ msgstr ""
 #: ../../install.rst:15
 msgid "The initial boot screen, shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1a>`, offers a choice of using either the graphical or the text based installer. Unless you select otherwise, the graphical installer will load. To instead use the text based installer, either from the console or over a serial connection, use the arrow keys to select an option. If the graphical installer hangs when loading the graphics driver, try selecting the VESA mode option of the graphical installer."
 msgstr ""
+"La pantalla inicial de arranque, mostrada en la :numref:`Figura %s: Menú de "
+"Arranque del Instalador de PC-BSD® <install1a>`, ofrece la opción de usar ya "
+"sea el instalador gráfico o basado en texto. A menos que elija otra cosa, el "
+"instalador gráfico se iniciará. Para en su lugar, usar el instalador basado "
+"en texto, ya sea desde la consola o sobre una conexión serial, use las "
+"teclas de flecha para seleccionar una opción. Si el instalador gráfico se "
+"cuelga al momento de cargar el controlador gráfico, intente seleccionar la "
+"opción del modo VESA del instalador gráfico."
 
 # 61db3a00a34a4f6bb74e6a11b358c693
 # e53f0133953c42e08aa031778e4c2474
@@ -1936,6 +1948,10 @@ msgstr "Pantalla de Selección de Idioma"
 #: ../../install.rst:31
 msgid "The first graphical installer screen, seen in :numref:`Figure %s: Welcome and Language Selection Screen <install2a>`, indicates that the installer successfully loaded and is ready to present you with its options."
 msgstr ""
+"La primera pantalla del instalador gráfico, mostrada en la :numref:`Figura "
+"%s: Pantalla de Bienvenida y de Selección de Idioma <install2a>`, indica que "
+"el instalador se cargó satisfactoriamente y está listo para presentarle sus "
+"opciones."
 
 # 00a2f16adf6a4a62ab493d99addeb19b
 # 7b181f3c9f7f4bbfa5920b64e594d72b
