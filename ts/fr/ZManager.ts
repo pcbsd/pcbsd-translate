@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Add user property</source>
-        <translation>Ajouter la propriété de l&apos;utilisateur</translation>
+        <translation>Ajouter une propriété d&apos;utilisateur</translation>
     </message>
     <message>
         <source>...</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Remove user property</source>
-        <translation>Supprimer la propriété de l&apos;utilisateur</translation>
+        <translation>Supprimer la propriété d&apos;&apos;utilisateur</translation>
     </message>
     <message>
         <source>Inherit from parent</source>
@@ -290,73 +290,74 @@ When the amount of disk space used is below this value, the dataset is treated a
 it were using the amount of space specified by its reservation. Reservations are
 accounted for in the parent dataset&apos;s disk space used, and count against the parent
 dataset&apos;s quotas and reservations.</source>
-        <translation type="unfinished">Fixe le montant minimum d&apos;espace disque garanti à un ensemble de données et de ses descendants.
- Lorsque la quantité d&apos;espace disque utilisée est inférieure à cette valeur, l&apos;ensemble de données est traitée comme si
- il utilise la quantité d&apos;espace spécifiée par sa réserve. Les réservations sont
- pris en compte dans l&apos;espace disque du parent données utilisées, et imputées sur le parent
- Les quotas et les réservations des données.</translation>
+        <translation>Fixe le montant minimum d&apos;espace disque garanti à un jeu de données et de ses descendants.
+Lorsque la quantité d&apos;espace disque utilisée est inférieure à cette valeur, le jeu de données est traitée
+comme s&apos;il utilisait la quantité d&apos;espace spécifiée par sa réservation. Les réservations sont
+prises en compte dans l&apos;espace disque du jeu de données parent utilisé, et imputées aux quotas
+et réservations du jeu de données parent.</translation>
     </message>
     <message>
         <source>Controls what is cached in the secondary cache (L2ARC). Possible values are all, none,
 and metadata. If set to all, both user data and metadata are cached. If set to none,
 neither user data nor metadata is cached. If set to metadata, only metadata is cached.</source>
-        <translation type="unfinished">Contrôle ce qui est mis en cache dans le cache secondaire (L2ARC). Les valeurs possibles sont all, none
- et des métadonnées. Si réglé sur all, les données de l&apos;utilisateur et les métadonnées sont mises en cache. Si la valeur none,
- ni les données d&apos;utilisateur ni les métadonnées sont mises en cache. S&apos;il est réglé sur metadata, seules les métadonnées sont mises en cache.</translation>
+        <translation>Contrôle ce qui est mis en cache dans le cache secondaire (L2ARC). Les valeurs possibles sont tout, aucun
+et métadonnées. Si réglé sur tout, les données de l&apos;utilisateur et les métadonnées sont mises en cache. Si réglé
+sur aucun, ni les données d&apos;utilisateur ni les métadonnées sont mises en cache. Si réglé sur métadonnées,
+seules les métadonnées sont mises en cache.</translation>
     </message>
     <message>
         <source>Controls whether the setuid bit is honored in a file system.</source>
-        <translation type="unfinished">Contrôle si le bit setuid dans un système de fichiers. </translation>
+        <translation>Contrôle si le bit setuid est honoré dans un système de fichiers.</translation>
     </message>
     <message>
         <source>Controls whether a file system is available over NFS and what
 options are used. If set to on, the zfs share command is invoked
 with no options. Otherwise, the zfs share command is invoked with
 options equivalent to the contents of this property.</source>
-        <translation type="unfinished">Contrôle si un système de fichiers est disponible via NFS et ce
-options sont utilisées. Si elle est activée, la commande zfs share est exécutée
-sans option. Sinon, la commande zfs share est exécutée avec
-options équivalentes au contenu de cette propriété.</translation>
+        <translation>Contrôle si un système de fichiers est disponible via NFS et quelles
+options sont utilisées. Si activé, la commande zfs share est appelée
+sans option. Sinon, la commande zfs share est appelée avec
+les options correspondantes au contenu de cette propriété.</translation>
     </message>
     <message>
         <source>The sharesmb property has currently no effect on FreeBSD.</source>
-        <translation type="unfinished">La propriété sharesmb a actuellement aucun effet sur FreeBSD.</translation>
+        <translation>La propriété sharesmb n&apos;a actuellement aucun effet sur FreeBSD.</translation>
     </message>
     <message>
         <source>Controls whether the .zfs directory is hidden or visible in the root of the file system.</source>
-        <translation type="unfinished">Contrôle si le répertoire ZFS. Est caché ou visible dans la racine du système de fichiers.</translation>
+        <translation>Contrôle si le répertoire .zfs est caché ou visible dans la racine du système de fichiers.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the dataset type as filesystem (file system or clone), volume, or snapshot.</source>
-        <translation type="unfinished">Propriété en lecture seule qui identifie le type de données comme système de fichiers (système de fichiers ou clone), le volume ou instantané.</translation>
+        <translation>Propriété en lecture seule qui identifie le type de jeu de données comme système de fichiers (système de fichiers ou clone), volume ou instantané.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space consumed by a dataset and all its descendents.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque consommé par un ensemble de données et de tous ses descendants. </translation>
+        <translation>Propriété en lecture seule qui identifie la quantité d&apos;espace disque consommé par un jeu de données et tous ses descendants.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by
 children of this dataset, which would be freed if all the dataset&apos;s children
 were destroyed.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque qui est utilisé par
-enfants de cet ensemble de données, qui serait libérée si tous les enfants du jeu de données
-ont été détruites.</translation>
+        <translation>Propriété en lecture seule qui identifie la quantité d&apos;espace disque qui est utilisé par
+les enfants de ce jeu de données, qui serait libérée si tous les jeux de données enfants
+étaient détruits.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by
 a dataset itself, which would be freed if the dataset was destroyed, after
 first destroying any snapshots and removing any refreservation reservations.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque qui est utilisé par
-un ensemble de données lui-même, qui serait libérée si le jeu de données a été détruite, après
-d&apos;abord détruire les instantanés et la suppression des réserves refreservation.</translation>
+        <translation>Propriété en lecture seule qui identifie la quantité d&apos;espace disque qui est utilisé par
+un jeu de données lui-même, qui serait libérée si le jeu de données était détruit, après
+avoir détruit les instantanés et supprimé toute réservation.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by a
 refreservation set on a dataset, which would be freed if the refreservation was
 removed.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque qui est utilisé par un
-refreservation situé sur un ensemble de données, qui serait libérée si la refreservation était
-éliminée.</translation>
+        <translation>Propriété en lecture seule qui identifie la quantité d&apos;espace disque qui est utilisé par une
+réservation effectuée sur un jeu de données, qui serait libérée si la réservation était
+supprimée.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is consumed
@@ -364,56 +365,56 @@ by snapshots of a dataset. In particular, it is the amount of disk space that
 would be freed if all of this dataset&apos;s snapshots were destroyed. Note that
 this value is not simply the sum of the snapshots&apos; used properties, because
 space can be shared by multiple snapshots.</source>
-        <translation type="unfinished">Propriété en lecture seule indiquant la quantité d&apos;espace disque qui est consommé
-par les instantanés d&apos;un ensemble de données. En particulier, c&apos;est la quantité d&apos;espace disque que
- serait libérée si l&apos;ensemble des instantanés de ce jeu de données ont été détruits. Notez que
- cette valeur n&apos;est pas simplement la somme des propriétés used des instantanés, car
-espace peut être partagé par plusieurs instantanés.</translation>
+        <translation>Propriété en lecture seule qui identifie la quantité d&apos;espace disque qui est consommé
+par les instantanés d&apos;un jeu de données. En particulier, c&apos;est la quantité d&apos;espace disque qui
+serait libérée si tous les instantanés de ce jeu de données étaient détruits. Notez que
+cette valeur n&apos;est pas simplement la somme des propriétés des instantanés utilisés, car
+l&apos;espace peut être partagé par plusieurs instantanés.</translation>
     </message>
     <message>
         <source>Identifies the on-disk version of a file system, which is independent of the
 pool version. This property can only be set to a later version that is available
 from the supported software release.</source>
-        <translation type="unfinished">Identifie la version sur disque d&apos;un système de fichiers, qui est indépendante de la
-Version piscine. Cette propriété ne peut être réglé à une version plus récente est disponible
-à partir de la version du logiciel pris en charge.  </translation>
+        <translation>Identifie la version sur-disque d&apos;un système de fichiers, qui est indépendante de la
+version du pool. Cette propriété peut être réglé uniquement sur une version disponible
+antérieure à la publication du logiciel actuellement pris en charge.</translation>
     </message>
     <message>
         <source>For volumes, specifies the logical size of the volume.</source>
-        <translation type="unfinished">Pour les volumes, spécifie la taille logique du volume.</translation>
+        <translation>Pour les volumes, spécifie la taille logique du volume.</translation>
     </message>
     <message>
         <source>For volumes, specifies the block size of the volume.</source>
-        <translation type="unfinished">Pour les volumes, spécifie la taille de bloc du volume.</translation>
+        <translation>Pour les volumes, spécifie la taille de bloc du volume.</translation>
     </message>
     <message>
         <source>Indicates whether a dataset has been added to a jail.</source>
-        <translation type="unfinished">Indique si un ensemble de données a été ajoutée à un Jail.     </translation>
+        <translation>Indique si un jeu de données a été ajouté à une jail.</translation>
     </message>
     <message>
         <source>This property is not supported on FreeBSD.</source>
-        <translation type="unfinished">Cette propriété n&apos;est pas supportée sur FreeBSD. </translation>
+        <translation>Cette propriété n&apos;est pas supportée sur FreeBSD.</translation>
     </message>
     <message>
         <source>The file system is marked to be destroyed after unmount.</source>
-        <translation type="unfinished">Le système du fichier est marqué pour être détruites après démontage.       </translation>
+        <translation>Le système du fichier est marqué pour être détruit après démontage.</translation>
     </message>
     <message>
         <source>The compression ratio achieved for the referenced space of this
 dataset, expressed as a multiplier.</source>
-        <translation type="unfinished">Le taux de compression atteint pour l&apos;espace référencé de cette
-ensemble de données, exprimée comme un multiplicateur.</translation>
+        <translation>Le taux de compression atteint pour l&apos;espace référencé de ce
+jeu de données, exprimé en multiplicateur.</translation>
     </message>
     <message>
         <source>The amount of referenced space written to this dataset since the
 previous snapshot.</source>
-        <translation type="unfinished">La quantité d&apos;espace référencé par écrit à cette base de données depuis le
-instantané précédent.</translation>
+        <translation>La quantité d&apos;espace référent écrit sur ce jeu de données depuis
+l’instantané précédent.</translation>
     </message>
     <message>
         <source>This property is set to the number of user holds on this snapshot.
 </source>
-        <translation type="unfinished">Cette propriété est définie sur le nombre d&apos;utilisateur tient sur ​​ce cliché.
+        <translation>Cette propriété est réglée sur le nombre d&apos;utilisateur pris sur ​​cet instantané.
 </translation>
     </message>
     <message>
@@ -423,12 +424,12 @@ pool log devices (if configured) to handle the requests at low
 latency. If logbias is set to throughput, ZFS will not use configured
 pool log devices.  ZFS will instead optimize synchronous operations
 for global pool throughput and efficient use of resources.</source>
-        <translation type="unfinished">Fournir une touche de ZFS sur le traitement des demandes synchrones dans cette
-ensemble de données. Si logbias est fixé à latence (par défaut), ZFS vont utiliser
-périphériques de journalisation de pool(s&apos;il est configuré) pour traiter les demandes à faible
-latence. Si logbias est réglé sur le débit, ZFS n&apos;utiliseront pas configuré les
-périphériques de journalisation de pool. ZFS seront plutôt optimiser les opérations synchrones
-pour un débit de réserve globale et l&apos;utilisation efficace des ressources.</translation>
+        <translation>Fournit une information à ZFS sur le traitement des demandes synchrones dans ce
+jeu de données.  Si logbias est fixé à latency (par défaut), ZFS utilisera
+les log devices du pool (si configurés) pour traiter les demandes à faible
+latence. Si logbias est réglé sur throughput, ZFS n&apos;utilisera pas les
+log devices du pool configurés.  ZFS optimisera alors les opérations synchrones
+pour le débit global et l&apos;utilisation efficace des ressources.</translation>
     </message>
     <message>
         <source>Controls the behavior of synchronous requests (e.g.  fsync(2),
@@ -447,346 +448,348 @@ disabled  Disables synchronous requests. File system transactions
           nous transaction demands of applications such as data-
           bases or NFS.  Administrators should only use this
           option when the risks are understood.</source>
-        <translation type="unfinished">Contrôle le comportement des requêtes synchrones (par exemple fsync (2),
+        <translation>Contrôle le comportement des requêtes synchrones (càd fsync (2),
 O_DSYNC). Cette propriété accepte les valeurs suivantes:
-classique, c&apos;est le comportement spécifié POSIX de sorte que tous les
-requêtes synchrones sont écrits au stockage stable et
-tous les appareils sont vidées de s&apos;assurer que les données ne sont pas mises en cache par
-Les contrôleurs de périphériques (c&apos;est le défaut).
-toujours Toutes les transactions du système de fichiers sont écrits et vidés
-avant de leur système appelle retour. Cela a une grande
-pénalité de performance.
-désactivé désactive synchrone demandes. Transactions du système de fichiers
-sont seulement engagés à stockage stable périodiquement. Cette
-option donner la plus haute performance. Cependant, il
-est très dangereux car ZFS ne tiendrait pas compte de la synchro-
-demandes de transactions d&apos;applications telles que des données 
-des bases ou NFS. Les administrateurs ne doivent utiliser cette
-option lorsque les risques sont connus.</translation>
+standard  C&apos;est le comportement spécifié POSIX de sorte que tous les
+          requêtes synchrones sont écrites au stockage stable et
+          tous les périphériques sont vidés afin d&apos;assurer que les données
+          ne sont pas mises en cache par les contrôleurs (par défaut).
+toujours  Toutes les transactions du système de fichiers sont écrites et vidées
+          avant les retours des system calls. Cela a un gros impact sur la performance.
+désactivé  Désactive les requêtes synchrones. Les transactions du système de fichiers
+          sont seulement soumises périodiquement au stockage stable. Cette
+          option donnera de plus grandes performances.  Cependant, c&apos;est
+          très dangereux car ZFS ignorerait les demandes synchrones
+          de transactions d&apos;applications telles que des bases de données
+          ou NFS. Les administrateurs ne doivent utiliser cette
+          option lorsque les risques sont compris.</translation>
     </message>
     <message>
         <source>This property cannot be changed after the system is created.</source>
-        <translation type="unfinished">Cette propriété ne peut pas être modifié après que le système est créé.</translation>
+        <translation>Cette propriété ne peut pas être modifiée après la création du système.</translation>
     </message>
     <message>
         <source>User Property</source>
-        <translation type="unfinished">Propriété de l&apos;utilisateur</translation>
+        <translation>Propriété d&apos;Utilisateur</translation>
     </message>
     <message>
         <source>Unknown property or information not available.
 Read ZFS manual for more information.</source>
-        <translation type="unfinished">Propriété inconnu ou information non disponible.
+        <translation>Propriété inconnue ou information non disponible.
 Lisez le manuel ZFS pour plus d&apos;informations.</translation>
     </message>
     <message>
         <source>[Invalid]</source>
-        <translation type="unfinished">[Invalide]</translation>
+        <translation>[Invalide]</translation>
     </message>
     <message>
         <source>[Inherit]</source>
-        <translation type="unfinished">[Invalide]</translation>
+        <translation>[Hériter]</translation>
     </message>
     <message>
         <source>[Added]</source>
-        <translation type="unfinished">[Ajouter]</translation>
+        <translation>[Ajouté]</translation>
     </message>
     <message>
         <source>[Changed]</source>
-        <translation type="unfinished">[Modifié]</translation>
+        <translation>[Modifié]</translation>
     </message>
     <message>
         <source>User property</source>
-        <translation type="unfinished">Propriété de l&apos;utilisateur</translation>
+        <translation>Propriété d&apos;utilisateur</translation>
     </message>
     <message>
         <source>Device Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Menu Périphérique</translation>
     </message>
     <message>
         <source>Add new user property</source>
-        <translation type="unfinished">Ajouter une nouvelle propriété utilisateur</translation>
+        <translation>Ajouter une nouvelle propriété utilisateur</translation>
     </message>
     <message>
         <source>Delete user property</source>
-        <translation type="unfinished">Supprimer la propriété de l&apos;utilisateur</translation>
+        <translation>Supprimer la propriété de l&apos;utilisateur</translation>
     </message>
     <message>
         <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
 gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Active ou désactive la compression pour un jeu de données. Ces valeurs sont on, off, lz4, lzjb, zle,
+gzip and gzip-N. Actuellement, paramétrer cette propriété sur lz4, lzjb, gzip, or gzip-N a le même
+effet que paramétrer cette propriété sur on. Activer la compression sur un système de fichiers avec
+des données existantes compresse uniquement les nouvelles données. Les données existantes restent non compressées.</translation>
     </message>
 </context>
 <context>
     <name>DialogMount</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Device to mount:</source>
-        <translation type="unfinished">Dispositif à monter:</translation>
+        <translation>Périphérique à monter :</translation>
     </message>
     <message>
         <source>(Device)</source>
-        <translation type="unfinished">(Dispositif)</translation>
+        <translation>(Périphérique)</translation>
     </message>
     <message>
         <source>Mount location:</source>
-        <translation type="unfinished">Montez l&apos;emplacement:</translation>
+        <translation>Montez l&apos;emplacement :</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished">Sélectionner le répertoire</translation>
+        <translation>Sélectionner un Répertoire</translation>
     </message>
 </context>
 <context>
     <name>DialogName</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Pool name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du pool :</translation>
     </message>
     <message>
         <source>Do not mount any filesystems</source>
-        <translation type="unfinished">Ne montez pas les systèmes de fichiers</translation>
+        <translation>Ne pas montez de systèmes de fichier</translation>
     </message>
     <message>
         <source>Read only pool</source>
-        <translation type="unfinished">Lecture seule pool</translation>
+        <translation>Pool en lecture seule</translation>
     </message>
     <message>
         <source>Import options:</source>
-        <translation type="unfinished">Options d&apos;importation:</translation>
+        <translation>Options d&apos;importation :</translation>
     </message>
     <message>
         <source>Mount with alternative root:</source>
-        <translation type="unfinished">Monter avec l&apos;alternative root</translation>
+        <translation>Monter avec root alternatif :</translation>
     </message>
     <message>
         <source>Mount all filesystems automatically</source>
-        <translation type="unfinished">Monter les systèmes de fichier automatiquement</translation>
+        <translation>Monter tous les systèmes de fichier automatiquement</translation>
     </message>
     <message>
         <source>Mounting behavior:</source>
-        <translation type="unfinished">Comportement de montage:</translation>
+        <translation>Comportement du montage :</translation>
     </message>
     <message>
         <source>Force operation if error (use with caution)</source>
-        <translation type="unfinished">Forcer l&apos;opération en cas d&apos;erreur (utiliser avec prudence)</translation>
+        <translation>Forcer l&apos;opération en cas d&apos;erreur (à utiliser avec prudence)</translation>
     </message>
 </context>
 <context>
     <name>DialogNewPool</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Selected</source>
-        <translation type="unfinished">Sélectionner</translation>
+        <translation>Sélectionné</translation>
     </message>
     <message>
         <source>Pool name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du pool :</translation>
     </message>
     <message>
         <source>Configuration type:</source>
-        <translation type="unfinished">Type de configuration:</translation>
+        <translation>Type de configuration :</translation>
     </message>
     <message>
         <source>Striped</source>
-        <translation type="unfinished">Rayé</translation>
+        <translation>Striped</translation>
     </message>
     <message>
         <source>Mirror</source>
-        <translation type="unfinished">Miroir</translation>
+        <translation>Miroir </translation>
     </message>
     <message>
         <source>Raid-Z (single parity)</source>
-        <translation type="unfinished">RAID-Z (parité simple)</translation>
+        <translation>Raid-Z (simple parité)</translation>
     </message>
     <message>
         <source>Raid-Z2 (double parity)</source>
-        <translation type="unfinished">Raid-Z3 (triple parité)</translation>
+        <translation>Raid-Z2 (double parité)</translation>
     </message>
     <message>
         <source>Raid-Z3 (triple parity)</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Raid-Z3 (triple parité)</translation>
     </message>
     <message>
         <source>Cache</source>
-        <translation type="unfinished">Cache</translation>
+        <translation>Cache</translation>
     </message>
     <message>
         <source>Log</source>
-        <translation type="unfinished">Log</translation>
+        <translation>Log</translation>
     </message>
     <message>
         <source>Spare</source>
-        <translation type="unfinished">Épargnez</translation>
+        <translation>Spare</translation>
     </message>
     <message>
         <source>Error Description Here</source>
-        <translation type="unfinished">Description de l&apos;erreur ici</translation>
+        <translation>Description de l&apos;Erreur Ici</translation>
     </message>
     <message>
         <source>Must provide a valid pool name</source>
-        <translation type="unfinished">Vous devez fournir un nom de pool valide</translation>
+        <translation>Donner un nom de pool valide</translation>
     </message>
     <message>
         <source>Must select exactly %1 devices</source>
-        <translation type="unfinished">Vous devez sélectionner exactement 1% périphériques </translation>
+        <translation>Vous devez sélectionner exactement %1 périphériques</translation>
     </message>
     <message>
         <source>Must select at least one device</source>
-        <translation type="unfinished">Vous devez sélectionner au moins un dispositif</translation>
+        <translation>Vous devez sélectionner au moins un périphérique</translation>
     </message>
 </context>
 <context>
     <name>DialogPartition</name>
     <message>
         <source>Add Partition</source>
-        <translation type="unfinished">Ajouter une partition</translation>
+        <translation>Ajouter une Partition</translation>
     </message>
     <message>
         <source>Add new slice/partition</source>
-        <translation type="unfinished">Ajouter une nouvelle tranche/partition</translation>
+        <translation>Ajouter un nouveau slice/partition</translation>
     </message>
     <message>
         <source>100 GB</source>
-        <translation type="unfinished">100 GB</translation>
+        <translation>100 GB</translation>
     </message>
     <message>
         <source>Device:</source>
-        <translation type="unfinished">Dispositif</translation>
+        <translation>Périphérique :</translation>
     </message>
     <message>
         <source>ada0</source>
-        <translation type="unfinished">ada0</translation>
+        <translation>ada0</translation>
     </message>
     <message>
         <source>Largest available free block:</source>
-        <translation type="unfinished">Plus grand bloc libre disponible:</translation>
+        <translation>Plus grand bloc libre disponible :</translation>
     </message>
     <message>
         <source>Total Size:</source>
-        <translation type="unfinished">Taille totale:</translation>
+        <translation>Taille totale :</translation>
     </message>
     <message>
         <source>Current layout:</source>
-        <translation type="unfinished">Configuration actuelle:</translation>
+        <translation>Disposition actuelle :</translation>
     </message>
     <message>
         <source>Designation</source>
-        <translation type="unfinished">Désignation</translation>
+        <translation>Désignation</translation>
     </message>
     <message>
         <source>Start Sector</source>
-        <translation type="unfinished">Commencez secteur</translation>
+        <translation>Secteur de Départ</translation>
     </message>
     <message>
         <source>Sector Count</source>
-        <translation type="unfinished">Nombre de secteurs</translation>
+        <translation>Décompte de Secteur</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Couleur</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <source>New partition Size:</source>
-        <translation type="unfinished">Nouvelle partition Taille:</translation>
+        <translation>Nouvelle Taille de partition :</translation>
     </message>
     <message>
         <source>bytes</source>
-        <translation type="unfinished">octets</translation>
+        <translation>octets</translation>
     </message>
     <message>
         <source>kB</source>
-        <translation type="unfinished">kB</translation>
+        <translation>kB</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>GB</source>
-        <translation type="unfinished">GB</translation>
+        <translation>GB</translation>
     </message>
     <message>
         <source>TB</source>
-        <translation type="unfinished">TB</translation>
+        <translation>TB</translation>
     </message>
     <message>
         <source>Partition type:</source>
-        <translation type="unfinished">Type de Partition</translation>
+        <translation>Type de Partition :</translation>
     </message>
     <message>
         <source>freebsd-zfs</source>
-        <translation type="unfinished">freebsd-zfs</translation>
+        <translation>freebsd-zfs</translation>
     </message>
     <message>
         <source>freebsd-ufs</source>
-        <translation type="unfinished">freebsd-ufs</translation>
+        <translation>freebsd-ufs</translation>
     </message>
     <message>
         <source>freebsd</source>
-        <translation type="unfinished">freebsd</translation>
+        <translation>freebsd</translation>
     </message>
     <message>
         <source>freebsd-boot</source>
-        <translation type="unfinished">freebsd-boot</translation>
+        <translation>freebsd-boot</translation>
     </message>
     <message>
         <source>freebsd-swap</source>
-        <translation type="unfinished">freebsd-swap</translation>
+        <translation>freebsd-swap</translation>
     </message>
     <message>
         <source>bios-boot</source>
-        <translation type="unfinished">bios-boot</translation>
+        <translation>bios-boot</translation>
     </message>
     <message>
         <source>efi</source>
-        <translation type="unfinished">efi</translation>
+        <translation>efi</translation>
     </message>
     <message>
         <source>Create and initialize a new filesystem</source>
-        <translation type="unfinished">Créer et initialiser un nouveau système de fichiers</translation>
+        <translation>Créer et initialiser un nouveau système de fichiers</translation>
     </message>
     <message>
         <source>** FREE **</source>
-        <translation type="unfinished">** FREE **</translation>
+        <translation>** FREE **</translation>
     </message>
     <message>
         <source>No free space!</source>
-        <translation type="unfinished">Pas d&apos;espace libre!</translation>
+        <translation>Pas d&apos;espace libre !</translation>
     </message>
     <message>
         <source>Align partitions to 1 MB boundary</source>
-        <translation type="unfinished"></translation>
+        <translation>Aligner les partitions sur une limite de 1 MB</translation>
     </message>
 </context>
 <context>
     <name>DialogProp</name>
     <message>
         <source>Edit Pool Properties</source>
-        <translation type="unfinished">Modifier les propriétés de pool</translation>
+        <translation>Éditer les propriétés de pool</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished">Propriété</translation>
+        <translation>Propriété</translation>
     </message>
     <message>
         <source>Value</source>
@@ -794,11 +797,11 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     </message>
     <message>
         <source>Total size of the storage pool.</source>
-        <translation type="unfinished">Taille totale du pool de stockage.</translation>
+        <translation>Taille totale du pool de stockage.</translation>
     </message>
     <message>
         <source>Percentage of pool space used.</source>
-        <translation type="unfinished">Pourcentage d&apos;espace utilisé du pool.</translation>
+        <translation>Pourcentage d&apos;espace utilisé du pool.</translation>
     </message>
     <message>
         <source>Alternate root directory. If set, this directory is prepended to any
@@ -808,21 +811,21 @@ alternate boot environment, where the typical paths are not valid.
 altroot is not a persistent property. It is valid only while the
 system is up.  Setting altroot defaults to using cachefile=none, though
 this may be overridden using an explicit setting.</source>
-        <translation type="unfinished">Répertoire racine secondaire. S&apos;il est défini, ce répertoire est ajouté en cas de
-points de montage à l&apos;intérieur de pool. Ceci peut être utilisé lors de l&apos;examen d&apos;un
-pool inconnu où les points de montage ne ​​sont pas fiables, ou dans un
-environnement d&apos;initialisation de remplacement, où les chemins typiques ne sont pas valides.
-altroot n&apos;est pas une propriété persistante. Elle est valable uniquement si le
-système est en place. Réglage altroot utilise par défaut cachefile = aucune, si
-cela peut être outrepassé en utilisant un cadre explicite.</translation>
+        <translation>Répertoire racine alternatif. S&apos;il est défini, ce répertoire peut être ajouté à n&apos;importe
+quel point de montage dans pool. Ceci peut être utilisé lors de l&apos;examen d&apos;un
+pool inconnu où les points de montage ne ​​sont pas sûrs, ou dans un
+environnement de démarrage alternatif, où les chemins typiques ne sont pas valides.
+altroot n&apos;est pas une propriété persistante. Elle est valable uniquement pendant que le
+système est en marche.  Réger altroot par défaut en utilisant cachefile=none, bien que
+cela peut être outrepassé en utilisant un paramétrage explicite.</translation>
     </message>
     <message>
         <source>The current health of the pool.</source>
-        <translation type="unfinished">L&apos;état ​​de santé actuel de pool.</translation>
+        <translation>L&apos;état ​​de santé actuel du pool.</translation>
     </message>
     <message>
         <source>A unique identifier for the pool.</source>
-        <translation type="unfinished">Un identifiant unique pour le pool.</translation>
+        <translation>Un identifiant unique pour le pool.</translation>
     </message>
     <message>
         <source>The current on-disk version of the pool. This can be increased, but
@@ -965,10 +968,10 @@ idem copie de ce bloc est automatiquement mémorisé. Le réglage par défaut es
 example, a value of 1.76 indicates that 1.76 units of data were stored but
 only 1 unit of disk space was actually consumed. See zfs(8) for a description
 of the deduplication feature.</source>
-        <translation type="unfinished">Le taux de duplication spécifié pour un pool, exprimé comme un multiplicateur. Par
+        <translation>Le taux de dé-duplication spécifié pour un pool, exprimé en multiplicateur. Par
 exemple, une valeur de 1,76 indique que 1,76 unités de données ont été stockées, mais
-seulement 1 unité d&apos;espace disque a été effectivement consommé. Voir ZFS (8) pour une description
-de la fonction de dé duplication.    </translation>
+seulement 1 unité d&apos;espace disque est actuellement consommé. Voir zfs(8) pour une description
+de la fonction de dé-duplication.</translation>
     </message>
     <message>
         <source>Number of blocks within the pool that are not allocated.</source>
@@ -1340,7 +1343,7 @@ est nécessaire.
     </message>
     <message>
         <source>Device Menu</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Menu Périphérique</translation>
     </message>
     <message>
         <source>Unmount</source>
