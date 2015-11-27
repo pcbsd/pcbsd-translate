@@ -238,23 +238,23 @@ Use of this property for general purpose file systems is strongly
 discouraged, and may adversely affect performance.
 The size specified must be a power of two greater than or equal to
 512 and less than or equal to 128 Kbytes.</source>
-        <translation type="unfinished">Indique une taille de bloc suggérée pour les fichiers du système de fichiers. Cette
-propriété est conçu uniquement pour une utilisation avec des charges de travail de base de données
- accès aux fichiers dans les dossiers de taille fixe. ZFS règle automatiquement bloc
-tailles en fonction d&apos;algorithmes internes optimisés pour l&apos;accès typique
-patterns.
- L&apos;utilisation de cette propriété pour les systèmes de fichiers but est fortement
-découragé, et peut nuire au rendement.
- La taille spécifiée doit être une puissance de deux supérieure ou égale à
- 512 et inférieure ou égale à 128 kilo-octets.</translation>
+        <translation>Indique une taille de bloc suggérée pour les fichiers dans système de fichiers. Cette
+propriété est conçue uniquement pour une utilisation avec des charges de travail
+de base de données qui accèdent aux fichiers dans des formats fixe.
+ ZFS règle automatiquement les tailles de bloc en fonction d&apos;algorithmes internes
+optimisés pour des modèles d&apos;accès typiques
+L&apos;utilisation de cette propriété pour les systèmes de fichiers génériques est fortement
+déconseillé, et peut au contraire affecter les performances.
+La taille spécifiée doit être une puissance de deux supérieure ou égale à
+512 et inférieure ou égale à 128 kilo-octets.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of data accessible by a
 dataset, which might or might not be shared with other datasets in the
 pool.</source>
-        <translation type="unfinished">Propriété en lecture seule qui indique la quantité de données accessible par un 
-ensemble de données, ce qui pourrait ou ne pourrait pas être partagé avec d&apos;autres ensembles de données dans le répertoire
- pool.  </translation>
+        <translation>Propriété en lecture seule qui identifie la quantité de données accessible par un
+jeu de données, qui peut ou ne peut pas être partagé avec d&apos;autres jeux de données
+dans le pool.</translation>
     </message>
     <message>
         <source>Sets the amount of disk space that a dataset can consume. This property
@@ -274,15 +274,15 @@ the parent dataset&apos;s quotas and reservations.
 If refreservation is set, a snapshot is only allowed if enough free pool space
 is available outside of this reservation to accommodate the current number of
 referenced bytes in the dataset.</source>
-        <translation type="unfinished">Fixe le montant minimum d&apos;espace disque qui est garanti pour un ensemble de données, pas
-y compris les descendants, notamment les instantanés et les clones. Lorsque la quantité d&apos;espace disque
- espace utilisé est inférieur à cette valeur, l&apos;ensemble de données est traitée comme si elle était prise de
- la quantité d&apos;espace spécifiée par refreservation. La réservation refreservation
- est pris en compte dans l&apos;espace disque de la base de données utilisée parent et chefs d&apos;accusation contre
- Les quotas et réservations de jeux de données parent.
-Si refreservation est définie, un instantané n&apos;est autorisé que si suffisamment d&apos;espace libre pool
- est disponible à l&apos;extérieur de cette réserve pour accueillir le nombre actuel de
-octets référencés dans le jeu de données. </translation>
+        <translation>Fixe le montant minimum d&apos;espace disque qui est garanti pour un jeu de données,
+n&apos;incluant pas les descendants, comme les instantanés et les clones. Lorsque la quantité
+d&apos;espace disque utilisée est inférieure à cette valeur, le jeu de données est traitée comme si
+l&apos;espace spécifiée par la réservation était occupé.
+La réservation est pris en compte dans l&apos;espace disque du jeu de données utilisé, 
+et est pris en compte dans les quotas des jeux de données et réservation parents
+Si réservation est définie, un instantané n&apos;est autorisé que si suffisamment d&apos;espace libre
+dans le pool est disponible à l&apos;extérieur de cette réservation pour accueillir le nombre actuel
+d&apos;octets référencés dans le jeu de données.</translation>
     </message>
     <message>
         <source>Sets the minimum amount of disk space guaranteed to a dataset and its descendents.

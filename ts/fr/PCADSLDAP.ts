@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Root bind DN</source>
-        <translation type="unfinished">Administrateur DN de liaison            </translation>
+        <translation type="unfinished">Administrateur DN de liaison</translation>
     </message>
     <message>
         <source>Root bind password</source>
@@ -77,47 +77,47 @@
     </message>
     <message>
         <source>User Suffix</source>
-        <translation type="unfinished">Utilisateur Suffixe           </translation>
+        <translation>Suffixe Utilisateur</translation>
     </message>
     <message>
         <source>Group Suffix</source>
-        <translation type="unfinished">Groupe Suffixe             </translation>
+        <translation>Suffixe Groupe</translation>
     </message>
     <message>
         <source>Password Suffix</source>
-        <translation type="unfinished">Mot de passe Suffixe             </translation>
+        <translation>Suffixe Mot de passe</translation>
     </message>
     <message>
         <source>Machine Suffix</source>
-        <translation type="unfinished">Machine Suffixe             </translation>
+        <translation>Suffixe Machine</translation>
     </message>
     <message>
         <source>Encryption Mode</source>
-        <translation type="unfinished">Mode de cryptage            </translation>
+        <translation>Mode de cryptage</translation>
     </message>
     <message>
         <source>Self Signed Certificate</source>
-        <translation type="unfinished">Certificat Auto-Signé            </translation>
+        <translation>Certificat Auto-Signé</translation>
     </message>
     <message>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">Paramètres Auxiliaires            </translation>
+        <translation>Paramètres Auxiliaires</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Sauver            </translation>
+        <translation>&amp;Enregistrer</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Fermer            </translation>
+        <translation>&amp;Fermer</translation>
     </message>
     <message>
         <source>Active Directory Configuration</source>
-        <translation type="unfinished">Activer Dossier Configuration            </translation>
+        <translation>Configuration Active Directory</translation>
     </message>
     <message>
         <source>The Active Directory passwords specified do not match!</source>
-        <translation type="unfinished">Le mot de passe Activation du Dossier spécifié ne correspondent pas!            </translation>
+        <translation>Le mot de passe d&apos;Active Directory spécifié ne correspondent pas !</translation>
     </message>
 </context>
 </TS>
