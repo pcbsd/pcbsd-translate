@@ -793,7 +793,7 @@ des données existantes compresse uniquement les nouvelles données. Les donnée
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Valeur</translation>
+        <translation>Valeur</translation>
     </message>
     <message>
         <source>Total size of the storage pool.</source>
@@ -834,26 +834,28 @@ never decreased. The preferred method of updating pools is with the
 specific version is needed for backwards compatibility. This property
 can be any number between 1 and the current version reported by
 &quot;zpool upgrade -v&quot;.</source>
-        <translation type="unfinished">La version sur le disque actuel de pool. Cela peut être augmentée, mais
-jamais diminué. La méthode préférée de la mise à jour des pools consiste à le
-commande &quot;zpool upgrade&quot;, bien que cette propriété peut être utilisée quand un
+        <translation>La version sur-disque actuelle du pool. Elle peut être augmentée, mais
+jamais diminuée. La méthode préférée de la mise à jour des pools consiste en la
+commande &quot;zpool upgrade&quot;, bien que cette propriété peut être utilisée quand une
 version spécifique est nécessaire pour la compatibilité ascendante. Cette propriété
-peut être n&apos;importe quel nombre entre 1 et la version actuelle rapporté par
+peut être n&apos;importe quel nombre entre 1 et la version actuelle rapportée par
 &quot;zpool upgrade-v&quot;.</translation>
     </message>
     <message>
         <source>Identifies the default bootable dataset for the root pool. This
 property is expected to be set mainly by the installation and upgrade
 programs.</source>
-        <translation type="unfinished">Identifie le jeu de données d&apos;initialisation par défaut du pool racine. Cette  npropriété devrait être mis principalement par l&apos;installation et la mise à niveau  nprogrammes.</translation>
+        <translation>Identifie le jeu de données d&apos;initialisation par défaut du pool racine. Cette
+propriété devrait être paramétré principalement par les programmes d&apos;installation
+et de mise à niveau.</translation>
     </message>
     <message>
         <source>Controls whether a non-privileged user is granted access based on the
 dataset permissions defined on the dataset. See zfs(8) for more
 information on ZFS delegated administration.</source>
-        <translation type="unfinished">Contrôle si un utilisateur non-privilégié est accordé à l&apos;accès basé sur les
-permissions d&apos;ensembles de données définis sur l&apos;ensemble de données. Voir ZFS (8) pour plus d&apos;
-informations sur l&apos;administration déléguée de ZFS.      </translation>
+        <translation>Contrôle si un utilisateur non-privilégié est autorisé à accéder aux
+permissions du jeu de données définies sur le jeu de données. Voir zfs(8) pour plus
+d&apos;informations sur l&apos;administration déléguée de ZFS.</translation>
     </message>
     <message>
         <source>Controls automatic device replacement. If set to &quot;off&quot;, device
@@ -863,13 +865,13 @@ same physical location as a device that previously belonged to the
 pool, is automatically formatted and replaced. The default behavior
 is &quot;off&quot;.  This property can also be referred to by its shortened
 column name, &quot;replace&quot;.</source>
-        <translation type="unfinished">Contrôle le remplacement automatique d&apos;appareil. S&apos;il est réglé sur &quot;off&quot;, le périphérique
-de remplacement doit être initié par l&apos;administrateur en utilisant le
-&quot;zpool replace&quot; commande. S&apos;il est réglé sur &quot;on&quot;, tout nouveau périphérique se trouvant dans le répertoire
-même emplacement physique qu&apos;un périphérique qui appartenait à ce
-pool est automatiquement formaté et remplacé. Le comportement par défaut
-est &quot;off&quot;. Cette propriété peut également être désigné par son raccourci
-nom de colonne, &quot;remplacer&quot;.</translation>
+        <translation>Contrôle le remplacement automatique de périphérique. S&apos;il est réglé sur &quot;off&quot;,
+le remplacement de périphérique doit être initié par l&apos;administrateur en utilisant
+la commande &quot;zpool replace&quot;. S&apos;il est réglé sur &quot;on&quot;, tout nouveau périphérique,
+trouvé dans le même emplacement physique qu&apos;un périphérique qui appartenait
+à ce pool, est automatiquement formaté et remplacé. Le comportement par défaut
+est &quot;off&quot;.  Cette propriété peut également être mentionné par son nom
+de colonne raccourci, &quot;remplacer&quot;.</translation>
     </message>
     <message>
         <source>Controls the location of where the pool configuration is cached.
@@ -883,15 +885,15 @@ in a different location that can later be imported with &quot;zpool import
 -c&quot;.  Setting it to the special value &quot;none&quot; creates a temporary pool
 that is never cached, and the special value &apos;&apos; (empty string) uses
 the default location.</source>
-        <translation type="unfinished">Contrôles de l&apos;emplacement où la configuration de pool est mise en cache.
-Découvrir tous les pools au démarrage du système nécessite une copie en cache de la
-les données de configuration qui sont stockées sur le système de fichiers racine. Toutes les piscines
-dans ce cache sont importés automatiquement au démarrage du système. Certains
+        <translation type="unfinished">Contrôles l&apos;emplacement où la configuration du pool est mise en cache.
+Découvrir tous les pools au démarrage nécessite une copie en cache des
+données de configuration qui sont stockées sur le système de fichier racine. Toutes les pools
+dans ce cache sont importés automatiquement lorsque le système démarre. Certains
 environnements, tels que l&apos;installation et le clustering, doivent mettre en cache
-informations dans un emplacement différent de sorte que les pools ne sont pas automatiquement
-importés. Définition de cette propriété met en cache de la configuration du pool
-à un autre endroit qui peut ensuite être importé avec &quot;zpool import
--c &quot;. Réglage à la valeur spéciale&quot; none &quot;crée un pool temporaire
+cette information dans un emplacement différent de sorte que les pools ne sont pas automatiquement
+importées. Paramétrer de cette propriété met en cache de la configuration du pool
+dans un autre endroit qui peut ensuite être importé avec &quot;zpool import-c&quot;.
+Paramétrer à la valeur spéciale &quot;none&quot; crée un pool temporaire
 qui n&apos;est jamais mis en cache, et la valeur spéciale&apos;&apos; (chaîne vide) utilise
 l&apos;emplacement par défaut.</translation>
     </message>
@@ -1163,11 +1165,11 @@ est nécessaire.
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">TextLabel  </translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Clear Error</source>
-        <translation type="unfinished">Effacer l&apos;erreur</translation>
+        <translation>Effacer l&apos;Erreur</translation>
     </message>
     <message>
         <source>poolname</source>
@@ -1179,71 +1181,71 @@ est nécessaire.
     </message>
     <message>
         <source>Filesystems</source>
-        <translation type="unfinished">Système de fichier</translation>
+        <translation>Systèmes de fichier</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Statut</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <source>Refreshing...</source>
-        <translation type="unfinished">Raffraichir...</translation>
+        <translation>Actualisation...</translation>
     </message>
     <message>
         <source>No pools available, right click to create a new one...</source>
-        <translation type="unfinished">Pas de piscines disponibles, faites un clic droit pour créer un nouveau...</translation>
+        <translation>Pas de pools disponibles, faites un clic droit pour en créer un nouveau...</translation>
     </message>
     <message>
         <source> (No media in drive)</source>
-        <translation type="unfinished">(Pas média dans le lecteur)</translation>
+        <translation> (Aucun média dans le lecteur)</translation>
     </message>
     <message>
         <source>Avaliable</source>
-        <translation type="unfinished">Disponible</translation>
+        <translation>Disponible</translation>
     </message>
     <message>
         <source>No disk</source>
-        <translation type="unfinished">Pas de disque</translation>
+        <translation>Aucun de disque</translation>
     </message>
     <message>
         <source>ZPool: </source>
-        <translation type="unfinished">ZPool:</translation>
+        <translation>ZPool : </translation>
     </message>
     <message>
         <source>Sliced</source>
-        <translation type="unfinished">Tranches</translation>
+        <translation>Sliced</translation>
     </message>
     <message>
         <source>Mounted: </source>
-        <translation type="unfinished">Monter:</translation>
+        <translation>Monté : </translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished">Disponible  </translation>
+        <translation>Disponible</translation>
     </message>
     <message>
         <source>Unmounted</source>
-        <translation type="unfinished">Démonter</translation>
+        <translation>Démonté</translation>
     </message>
     <message>
         <source>Partitioned</source>
-        <translation type="unfinished">Partitionner</translation>
+        <translation>Partitionné</translation>
     </message>
     <message>
         <source>(Exported)
 </source>
-        <translation type="unfinished">(Exportés)
+        <translation>(Exporté)
 </translation>
     </message>
     <message>
         <source>(Destroyed)
 </source>
-        <translation type="unfinished">(Détruit)
+        <translation>(Détruit)
 </translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Hors ligne </translation>
+        <translation>Hors ligne</translation>
     </message>
     <message>
         <source>Online</source>
@@ -1259,39 +1261,39 @@ est nécessaire.
     </message>
     <message>
         <source>Removed</source>
-        <translation type="unfinished">Suppression</translation>
+        <translation>Supprimé</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation type="unfinished">Indisponible</translation>
+        <translation>Indisponible</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Inconnue</translation>
+        <translation>Inconnue</translation>
     </message>
     <message>
         <source>Create new pool</source>
-        <translation type="unfinished">Créer un nouveau pool</translation>
+        <translation>Créer un nouveau pool</translation>
     </message>
     <message>
         <source>Rename pool</source>
-        <translation type="unfinished">Renommer un Pool</translation>
+        <translation>Renommer un pool</translation>
     </message>
     <message>
         <source>Destroy pool</source>
-        <translation type="unfinished">Détruire un pool</translation>
+        <translation>Détruire un pool</translation>
     </message>
     <message>
         <source>Add devices...</source>
-        <translation type="unfinished">Ajouter un périphérique</translation>
+        <translation>Ajouter des périphériques...</translation>
     </message>
     <message>
         <source>Add log devices...</source>
-        <translation type="unfinished">Ajouter des périphériques de journal...</translation>
+        <translation>Ajouter des log devices...</translation>
     </message>
     <message>
         <source>Add cache devices...</source>
-        <translation type="unfinished">Ajouter des périphériques de cache...</translation>
+        <translation>Ajouter des cache devices...</translation>
     </message>
     <message>
         <source>Add spare devices...</source>
@@ -1323,39 +1325,39 @@ est nécessaire.
     </message>
     <message>
         <source>Detach from mirror</source>
-        <translation type="unfinished">Détacher du miroir</translation>
+        <translation>Détacher du miroir</translation>
     </message>
     <message>
         <source>Take offline</source>
-        <translation type="unfinished">Mettez hors ligne</translation>
+        <translation>Mettre hors ligne</translation>
     </message>
     <message>
         <source>Bring online</source>
-        <translation type="unfinished">Mettez en ligne</translation>
+        <translation>Mettre en ligne</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Retirer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>zpool Menu</source>
-        <translation type="unfinished">zpool Menu</translation>
+        <translation>Menu zpool</translation>
     </message>
     <message>
         <source>Device Menu</source>
-        <translation type="unfinished">Menu Périphérique</translation>
+        <translation>Menu Périphérique</translation>
     </message>
     <message>
         <source>Unmount</source>
-        <translation type="unfinished">Démontez</translation>
+        <translation>Démonter</translation>
     </message>
     <message>
         <source>Mount</source>
-        <translation type="unfinished">Monter</translation>
+        <translation>Monter</translation>
     </message>
     <message>
         <source>Create MBR partition table</source>
-        <translation type="unfinished">Créer une table de partition MBR</translation>
+        <translation>Créer une table de partition MBR</translation>
     </message>
     <message>
         <source>Create GPT partition table</source>
@@ -1399,19 +1401,19 @@ OK pour détruire la tranche / partition?</translation>
         <source>An error was detected while executing &apos;%1&apos;:
 
 </source>
-        <translation type="unfinished">Une erreur a été détectée lors de l&apos;exécution &apos;% 1&apos;:
+        <translation>Une erreur a été détectée lors de l&apos;exécution de &apos;%1&apos; :
 
 </translation>
     </message>
     <message>
         <source>Error report</source>
-        <translation type="unfinished">Rapport d&apos;erreur</translation>
+        <translation>Rapport d&apos;erreur</translation>
     </message>
     <message>
         <source>An error was detected while executing &apos;zpool&apos;:
 
 </source>
-        <translation type="unfinished">Une erreur a été détectée lors de l&apos;exécution &apos;zpool&apos;:
+        <translation>Une erreur a été détectée lors de l&apos;exécution de &apos;zpool&apos; :
 
 </translation>
     </message>
@@ -1419,29 +1421,29 @@ OK pour détruire la tranche / partition?</translation>
         <source>An error was detected while executing &apos;zfs&apos;:
 
 </source>
-        <translation type="unfinished">Une erreur a été détectée lors de l&apos;exécution »zfs &apos;:
+        <translation>Une erreur a été détectée lors de l&apos;exécution de &apos;zfs&apos; :
 
 </translation>
     </message>
     <message>
         <source>Create new zpool</source>
-        <translation type="unfinished">Créer un nouveau zpool</translation>
+        <translation>Créer un nouveau zpool</translation>
     </message>
     <message>
         <source>Important information</source>
-        <translation type="unfinished">Importante information</translation>
+        <translation>Information importante</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to destroy the pool will leave the pool in the state it was when imported, not necessarily destroyed.</source>
-        <translation type="unfinished">Le pool a été importé en mode lecture seule, donc de tenter de détruire le pool va laisser le pool pool dans l&apos;état où il était lors de l&apos;importation, pas nécessairement détruite.</translation>
+        <translation>Le pool a été importé en mode lecture seule, alors tenter de détruire le pool le laissera dans l&apos;état où il était lors de son importation, pas nécessairement détruit.</translation>
     </message>
     <message>
         <source>Attach mirror devices to </source>
-        <translation type="unfinished">Fixez les dispositifs de miroir à</translation>
+        <translation>Attacher les périphériques en miroir à </translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to export the pool will leave the pool in the state it was when imported, not necessarily exported.</source>
-        <translation type="unfinished">Le pool a été importé en mode lecture seule, donc de tenter d&apos;exporter le pool va laisser le pool dans l&apos;état où il était lors de l&apos;importation, pas nécessairement exportés.</translation>
+        <translation>Le pool a été importé en mode lecture seule, alors de tenter d&apos;exporter le pool le laissera dans l&apos;état où il était lors de l&apos;importation, pas nécessairement exporté.</translation>
     </message>
     <message>
         <source>Recover destroyed pool as...</source>
@@ -1479,55 +1481,55 @@ Procéder au recouvrement?</translation>
     </message>
     <message>
         <source>[Mounted]</source>
-        <translation type="unfinished">[Montage]</translation>
+        <translation>[Monté]</translation>
     </message>
     <message>
         <source>[Not Mounted]</source>
-        <translation type="unfinished">[Pas Montage]</translation>
+        <translation>[Non Monté]</translation>
     </message>
     <message>
         <source> of </source>
-        <translation type="unfinished">de</translation>
+        <translation> de </translation>
     </message>
     <message>
         <source>Rename dataset</source>
-        <translation type="unfinished">Renommer la base de données</translation>
+        <translation>Renommer le jeu de données</translation>
     </message>
     <message>
         <source>Create new dataset</source>
-        <translation type="unfinished">Créer une nouvelle base de données</translation>
+        <translation>Créer une nouveau jeu de données</translation>
     </message>
     <message>
         <source>Create a clone dataset</source>
-        <translation type="unfinished">Créer un jeu de données clonés</translation>
+        <translation>Créer un  jeu de données cloné</translation>
     </message>
     <message>
         <source>Destroy dataset</source>
-        <translation type="unfinished">Détruisez ensemble de données</translation>
+        <translation>Détruire le jeu de données</translation>
     </message>
     <message>
         <source>Promote filesystem</source>
-        <translation type="unfinished">Promouvoir système de fichiers</translation>
+        <translation>Promouvoir le système de fichier</translation>
     </message>
     <message>
         <source>Take a snapshot</source>
-        <translation type="unfinished">Prendre un instantané</translation>
+        <translation>Prendre un instantané</translation>
     </message>
     <message>
         <source>Destroy snapshot</source>
-        <translation type="unfinished">Détruisez un instantané</translation>
+        <translation>Détruire un instantané</translation>
     </message>
     <message>
         <source>Rollback to this snapshot</source>
-        <translation type="unfinished">Restauration de cet instantané</translation>
+        <translation>Restauration de cet instantané</translation>
     </message>
     <message>
         <source>Edit properties</source>
-        <translation type="unfinished">Modifier les propriétés</translation>
+        <translation>Éditer les propriétés</translation>
     </message>
     <message>
         <source>zfs Menu</source>
-        <translation type="unfinished">Menu zfs</translation>
+        <translation>Menu zfs</translation>
     </message>
     <message>
         <source>This operation cannot be undone and will cause data loss.
@@ -1535,9 +1537,9 @@ Procéder au recouvrement?</translation>
 You are about to perform the following operation(s):
 
 </source>
-        <translation type="unfinished">Cette opération ne peut pas être défait et peut entraîner une perte de données.
+        <translation>Cette opération ne peut pas être annulée et peut entraîner une perte de données.
 
-Vous êtes sur le point d&apos;effectuer l&apos;opération suivante (s):
+Vous êtes sur le point d&apos;effectuer l&apos;opération(s) suivante(s) :
 
 </translation>
     </message>
@@ -1547,30 +1549,30 @@ Vous êtes sur le point d&apos;effectuer l&apos;opération suivante (s):
 Are you sure you want to proceed?
 
 </source>
-        <translation type="unfinished">
+        <translation>
 
-Etes-vous sûr de vouloir continuer?
+Êtes-vous sûr de vouloir continuer ?
 
 </translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished">Confirmation</translation>
+        <translation>Confirmation</translation>
     </message>
     <message>
         <source>Take a new snapshot</source>
-        <translation type="unfinished">Prendre un nouvel instantané</translation>
+        <translation>Prendre un nouvel instantané</translation>
     </message>
     <message>
         <source>New name</source>
-        <translation type="unfinished">Nouveau nom</translation>
+        <translation>Nouveau nom</translation>
     </message>
     <message>
         <source>This operation cannot be undone and will cause all data added after the snapshot to be lost.
 Any snapshots created after this one will be deleted, along with any clone filesystems that depend on them.
 </source>
-        <translation type="unfinished">Cette opération ne peut être annulée et causera une perte de toutes les données ajoutées après l&apos;instantané.
-Toutes les instantanés créés après celui-ci seront supprimés, ainsi que tous les systèmes de fichiers clones qui en dépendent. 
+        <translation>Cette opération ne peut pas être annulée et causera la perte de toutes les données ajoutées après l&apos;instantané.
+Touts les instantanés créés après celui-ci seront effacés, ainsi que tous les systèmes de fichier clonés qui en dépendent.
 </translation>
     </message>
 </context>
