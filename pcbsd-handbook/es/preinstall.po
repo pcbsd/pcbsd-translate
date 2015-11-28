@@ -7,17 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-27 16:12-0800\n"
+"POT-Creation-Date: 2015-11-27 20:13-0800\n"
 "PO-Revision-Date: 2015-11-28 02:42+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1448678553.000000\n"
 
 # b6e8cb0c1ede43f2b21ca1139feac6d5
 # 56a6ba8b1c8f473495e8c2949de12299
