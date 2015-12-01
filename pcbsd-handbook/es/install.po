@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-01 04:13-0800\n"
-"PO-Revision-Date: 2015-11-26 18:53+0000\n"
+"POT-Creation-Date: 2015-12-01 08:12-0800\n"
+"PO-Revision-Date: 2015-12-01 17:45+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448991928.000000\n"
 
 # bc959b7f0cfd4d5191f7529b3a587b80
 # 93e1139b003c480b81b0b59e69c552cd
@@ -8190,10 +8194,25 @@ msgstr "Pantalla de Selección del Sistema"
 #: ../../install.rst:82
 msgid "The \"System Selection\" screen, shown in :numref:`Figure %s: System Selection Screen <install3a>`, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
 msgstr ""
+"La pantalla de \"Selección del Sistema\", mostrada en la :numref:`Figura %s: "
+"Pantalla de Selección del Sistema <install3a>`, le permite instalar un "
+"sistema operativo de escritorio (PC-BSD®) o un servidor (TrueOS®). También "
+"puede usarse para :ref:`Restaurar el Sistema Operativo`. Este capítulo se "
+"concentra en una instalación de escritorio. Refiérase a :ref:`Instalando un "
+"Servidor` para instrucciones sobre cómo instalar un servidor con solamente "
+"línea de comandos."
 
 #: ../../install.rst:90
 msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in :numref:`Figure %s: Browsing Additional System Components <install4>`."
 msgstr ""
+"Por defecto, PC-BSD® será seleccionado y el gestor de ventanas "
+"predeterminado dependerá de la cantidad de RAM en el sistema. Los sistemas "
+"que contengan más de 2 GB de RAM ejecutarán el escritorio KDE y los demás "
+"sistemas ejecutarán el escritorio LXDE. Para cambiar el gestor de ventanas "
+"predeterminado o para buscar escritorios adicionales y componentes para "
+"instalar, presione el botón \"Personalizar\" para abrir la pantalla mostrada "
+"en la :numref:`Figura %s: Buscando Componentes del Sistema Adicionales "
+"<install4>`."
 
 # a0ce5ca8372c439ba492851ea8ba80fc
 # 5e0459744e544161a33caf1a93aec1a8
@@ -16757,6 +16776,9 @@ msgstr "Pantalla de Selección de Disco"
 #: ../../install.rst:160
 msgid "The \"Disk Selection\" screen, seen in :numref:`Figure %s: Disk Selection Screen <install5a>`, summarizes the default disk configuration."
 msgstr ""
+"La pantalla de \"Selección de Disco\", mostrada en la :numref:`Figura %s: "
+"Pantalla de Selección de Disco <install5a>`, resume la configuración "
+"predeterminada del disco."
 
 # d9e9a2a10cc24e81b72f56c8ad67d956
 # 0088b93fd58c4f858947b34b8218e289
@@ -17152,6 +17174,10 @@ msgstr ""
 #: ../../install.rst:170
 msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in :numref:`Figure %s: Disk Setup Wizard <install6>`."
 msgstr ""
+"Si quiere seleccionar en cuál disco o partición instalar PC-BSD®, presione "
+"el botón de \"Personalizar\" para inciar el Asistente de Configuración de "
+"Disco, mostrado en la :numref:`Figura %s: Asistente de Configuración de "
+"Disco <install6>`."
 
 # ce64fa4b0ce34bd8bba2614963481b43
 # 0dce281796f24aebb8e3b15f3fe744d2
@@ -19813,6 +19839,8 @@ msgstr "Modo Básico"
 #: ../../install.rst:199
 msgid "If you select \"Basic\" mode, the wizard will display the screen shown in :numref:`Figure %s: Select a Disk or Partition <install7>`."
 msgstr ""
+"Si selecciona el modo \"Básico\", el asistente mostrará la pantalla de la "
+":numref:`Figura %s: Seleccionando un Disco o Partición <install7>`."
 
 # 3da7d93e8bb54f7c90a1990c470b6ce4
 # 3f95707c014b433e858419006a7d9254
@@ -21883,6 +21911,8 @@ msgstr "Modo Avanzado"
 #: ../../install.rst:224
 msgid "If you select advanced mode, the wizard will display the screen shown in :numref:`Figure %s: Advanced Mode Options <install8a>`."
 msgstr ""
+"Si selecciona el modo avanzado, el asistente le mostrará la pantalla de la "
+":numref:`Figura %s: Opciones del Modo Avanzado <install8a>`."
 
 # 8e90c13aa85b4aa581537f049adcba5d
 # f95e6419c9ad496993f00c95c16f19fb
@@ -32852,6 +32882,9 @@ msgstr "Diseño de ZFS"
 #: ../../install.rst:337
 msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in :numref:`Figure %s: ZFS Configuration <install9a>`."
 msgstr ""
+"En el \"Modo Avanzado\", el asistente de configuración del disco le permite "
+"configurar su diseño ZFS. La pantalla inicial de la configuración de ZFS se "
+"muestra en la :numref:`Figura %s: Configuración ZFS <install9a>`."
 
 # 26794785b385484cad3727f9ab96ca9f
 # fc4d73accd2d47258472370a3517ea7a
@@ -35681,10 +35714,23 @@ msgstr ""
 #: ../../install.rst:367
 msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in :numref:`Figure %s: Add L2ARC or ZIL <install10a>`."
 msgstr ""
+"Para usar múltiples discos, seleccione el tipo de configuración desde el "
+"menú desplegable \"Modo de Dispositivo Virtual ZFS\", y elija la casilla "
+"para cada disco que quiera añadir a esa configuración. Cuando termine, "
+"presione el botón \"Siguiente\" para ver la pantalla mostrada en la :numref:`"
+"Figura %s: Añadiendo L2ARC o ZIL <install10a>`."
 
 #: ../../install.rst:374
 msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in :numref:`Figure %s: Configure Encryption <install11a>`."
 msgstr ""
+"Esta pantalla puede ser usada para especificar un SSD a usar como un L2ARC o "
+"un dispositivo secundario de logs. Cualquier dispositivo disponible se "
+"listará en las cajas de esta pantalla. Note que un SSD separado se necesita "
+"para cada tipo de dispositivo. Refiérase a las descripciones para ZIL y "
+"L2ARC en :ref:`Vistazo a ZFS` para determinar si su sistema se beneficiará "
+"de cualquiera de estos dispositivos antes de añadirlos en esta pantalla. "
+"Cuando termine, presione \"Next\" para ver la pantalla mostrada en la "
+":numref:`Figura %s: Configurando Encriptación <install11a>`."
 
 # aa940af353744107a05ed26f92c8c38d
 # b3d21e6a28eb43a5a7aca48f9b57bfc9
@@ -36866,6 +36912,8 @@ msgstr ""
 #: ../../install.rst:393
 msgid "When finished, click \"Next\" to move on the screen shown in :numref:`Figure %s: Default ZFS Layout <install12a>`."
 msgstr ""
+"Cuando termine, presione \"Siguiente\" para pasar a la pantalla mostrada en "
+"la :numref:`Figura %s: Diseño ZFS Predeterminado <install12a>`."
 
 # 76ddc058d9e54e06884118533f1ef283
 # d966a17405974b5fbeb53c37ce366087
@@ -42439,6 +42487,9 @@ msgstr "Pantalla de Progreso de la Instalación"
 #: ../../install.rst:448
 msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in :numref:`Figure %s: nstallation Progress Screen <install13a>`, provides a progress bar and messages so that you can watch the installation's progress."
 msgstr ""
+"Una vez que seleccione \"Si\" para comenzar la instalacion, una pantalla de "
+"progreso, mostrada en la :numref:`Figura %s: Pantalla de Progreso de la "
+"Instalación <install13a>`,"
 
 # 8d0ec8db274446a0b92cf16fb2d62e53
 # 350ddb6592d24f24909a6d101a406eb8
@@ -43218,6 +43269,9 @@ msgstr "Pantalla de Finalización de la Instalación"
 #: ../../install.rst:464
 msgid "The screen shown in :numref:`Figure %s: PC-BSD® Installation is Now Complete <install14a>` appears once the installation is complete."
 msgstr ""
+"La pantalla mostrada en la :numref:`Figura %s: La Instalación de PC-BSD® "
+"Está Completa <install14a>` aparece una vez que la instalación se ha "
+"completado."
 
 # 6ca086b4f3514190add67b7c550f6d10
 # b4659075d1674d9e874dfe20bf00b6ce

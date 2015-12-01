@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IPアドレスを指定&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>

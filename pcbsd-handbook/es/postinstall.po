@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-01 04:13-0800\n"
-"PO-Revision-Date: 2015-08-24 21:33+0000\n"
+"POT-Creation-Date: 2015-12-01 08:12-0800\n"
+"PO-Revision-Date: 2015-12-01 17:49+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1448992180.000000\n"
 
 # 6bfc56d52f1843279a4d8b773aea4895
 # 0ee93280522f4b6b8193d0da32c85155
@@ -2703,6 +2707,11 @@ msgstr "Si Encriptó Sus Discos"
 #: ../../postinstall.rst:31
 msgid "If you selected the \"Encrypt disk with GELI\" checkbox during installation, you will need physical access to the PC-BSD® system when it boots. As the system starts to boot, it will display a message similar to the one shown in :numref:`Figure %s:  Input Password to Decrypt Master Key <encrypt1>`."
 msgstr ""
+"Si seleccionó la casilla \"Encriptar disco con GELI\" durante la "
+"instalación, necesitará acceso físico al sistema PC-BSD® cuando arranque. "
+"Mientras el sistema comienza a arrancar, desplegará un mensaje similar al "
+"mostrado en la :numref:`Figura %s: Ingresando la Contraseña para "
+"Desencriptar la Llave Maestra <encrypt1>`."
 
 # 01f46c292c364a66990a756916dc8547
 # 628ec1d11b9242bb9f5b5a2c96b7338b
@@ -3472,6 +3481,9 @@ msgstr "Interrumpiendo el Arranque para Accesar el Menú de Arranque"
 #: ../../postinstall.rst:47
 msgid "By default, the graphical PC-BSD® bootloader menu shown in :numref:`Figure %s: PC-BSD® Graphical Boot Menu <boot1>`  is not displayed at first boot."
 msgstr ""
+"Por defecto, el menú del gestor de arranque gráfico de PC-BSD® mostrado en "
+"la :numref:`Figura %s: Menú de Arranque Gráfico de PC-BSD® <boot1>` no se "
+"muestra en el primer arranque."
 
 # 603a04cbdca240f388934b1a037e106d
 # 835056bc37104818af23dcd8b4946c96

@@ -5,19 +5,19 @@
     <name>PartitionSelect</name>
     <message>
         <source>Select a Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu una partició</translation>
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un disc o una partició per a %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Fet</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows</translation>
     </message>
 </context>
 <context>
@@ -99,47 +99,47 @@
     </message>
     <message>
         <source>Maximum auto-generated boot environments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Màxim d&apos;entorns d&apos;arrencada autogenerats:</translation>
     </message>
     <message>
         <source>GRUB Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració del GRUB</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporitzador</translation>
     </message>
     <message>
         <source>Amount of time before the default option is started (0 deactivates automatic booting)</source>
-        <translation type="unfinished"></translation>
+        <translation>Temps abans que s&apos;iniciï l&apos;opció per defecte (0 desactiva l&apos;arrencada automàtica)</translation>
     </message>
     <message>
         <source> seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> segons</translation>
     </message>
     <message>
         <source>Font File</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de tipus de lletra</translation>
     </message>
     <message>
         <source>Font file for GRUB to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de lletra que ha d&apos;usar el GRUB</translation>
     </message>
     <message>
         <source>Select a font file for GRUB</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer de lletra per al GRUB</translation>
     </message>
     <message>
         <source>Display the GRUB menu during the countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra el menú del GRUB durant el compte enrere</translation>
     </message>
     <message>
         <source>Show Timer Countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra el temporitzador</translation>
     </message>
     <message>
         <source>Theme File</source>
@@ -179,35 +179,35 @@
     </message>
     <message>
         <source>&amp;Emergency Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveis d&apos;&amp;emergència</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>Re&amp;build GRUB Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Re&amp;construeix el menú del GRUB</translation>
     </message>
     <message>
         <source>&amp;Restore GRUB Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaura els valors predeterminats del GRUB</translation>
     </message>
     <message>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom no és vàlid</translation>
     </message>
     <message>
         <source>A Boot Environment with that name already exists, please choose a different one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja existeix un entorn d&apos;arrencada amb aquest nom, trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Boot Environment names may only be comprised of letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Els noms dels entorns d&apos;arrencada només poden contenir lletres i números.</translation>
     </message>
     <message>
         <source>Performing Boot Environment Changes. Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fent els canvis als entorns d&apos;arrencada. Espereu, si us plau.</translation>
     </message>
     <message>
         <source>Working</source>
@@ -215,87 +215,87 @@
     </message>
     <message>
         <source>New BE name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;entorn nou</translation>
     </message>
     <message>
         <source>Choose a name for the new boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Trieu un nom per a l&apos;entorn d&apos;arrencada nou</translation>
     </message>
     <message>
         <source>Running Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorn d&apos;arrencada en execució</translation>
     </message>
     <message>
         <source>You cannot make a copy of the currently running boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu fer una còpia de l&apos;entorn d&apos;arrencada actual!</translation>
     </message>
     <message>
         <source>You cannot rename a boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu canviar el nom de l&apos;entorn d&apos;arrencada que teniu en execució!</translation>
     </message>
     <message>
         <source>Default Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorn d&apos;arrencada per defecte</translation>
     </message>
     <message>
         <source>You cannot rename the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu canviar el nom de l&apos;entorn d&apos;arrencada que està establert com a predeterminat!</translation>
     </message>
     <message>
         <source>Choose a new name for this boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolliu un nom nou per a aquest entorn d&apos;arrencada</translation>
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorn d&apos;arrencada únic</translation>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu eliminar l&apos;únic entorn d&apos;arrencada que teniu!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu eliminar l&apos;entorn d&apos;arrencada que teniu en execució!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation>No podeu eliminar l&apos;entorn d&apos;arrencada que està establert com a predeterminat!</translation>
     </message>
     <message>
         <source>Verify BE Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificació de l&apos;eliminació de l&apos;entorn</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu eliminar l&apos;entorn d&apos;arrencada següent?</translation>
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer de tema per al GRUB</translation>
     </message>
     <message>
         <source>Theme File (theme.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de tema (theme.txt)</translation>
     </message>
     <message>
         <source>Select a GRUB Font File</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer de lletra per al GRUB</translation>
     </message>
     <message>
         <source>Font File (*.pf2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de lletra (*.pf2)</translation>
     </message>
     <message>
         <source>Rebuilding GRUB menu system. Please wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstruint el menú del GRUB. Espereu, si us plau.</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Canvis no desats</translation>
     </message>
     <message>
         <source>You currently have unsaved changes in the GRUB configuration. Do you want to quit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Teniu canvis no desats a la configuració del GRUB. Voleu sortir igualment?</translation>
     </message>
 </context>
 </TS>

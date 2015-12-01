@@ -302,6 +302,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
