@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Gün Aralığı</translation>
     </message>
 </context>
 <context>
