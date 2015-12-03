@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-02 08:12-0800\n"
-"PO-Revision-Date: 2015-12-01 17:49+0000\n"
+"POT-Creation-Date: 2015-12-02 12:13-0800\n"
+"PO-Revision-Date: 2015-12-02 22:03+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449093819.000000\n"
 
 # 6bfc56d52f1843279a4d8b773aea4895
 # 0ee93280522f4b6b8193d0da32c85155
@@ -2315,7 +2319,7 @@ msgid "Read through the rest of this section if you have encrypted your disk(s),
 msgstr ""
 "Lea a través del resto de esta sección si usted ha encriptado su(s) disco(s)"
 ", su sistema se cuelga al momento de arrancar, o si tiene problemas "
-"aplicando las configuracionees de la pantalla. Si usted está haciendo "
+"aplicando las configuraciones de la pantalla. Si usted está haciendo "
 "arranque dual y su otro sistema operativo no se añadió automáticamente al "
 "menú de arranque gráfico por el instalador, refiérase a :ref:`Arranque Dual`."
 
@@ -3090,8 +3094,9 @@ msgstr ""
 msgid "The boot process will wait for you to successfully input the password that you created in the installation screen shown in Figure 3.3g. If the correct password is typed in, the system will continue to boot."
 msgstr ""
 "El proceso de arranque esperará a que usted ingrese correctamente la "
-"contraseña que creó en la pantalla de instalación mostrada en la Figura "
-"3.3g. Si se ingresa la contraseña correcta, el sistema continuará arrancando."
+"contraseña que creó en la pantalla de instalación mostrada en la figura "
+"anterior. Si se ingresa la contraseña correcta, el sistema continuará el "
+"arranque."
 
 # 6c86173939024f07b6e8f639cd5bf687
 # 42ccbd2aedbc4d329de6a7c48777c9a7
