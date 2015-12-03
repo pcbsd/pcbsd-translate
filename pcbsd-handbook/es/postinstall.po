@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-03 04:13-0800\n"
-"PO-Revision-Date: 2015-12-02 22:03+0000\n"
+"POT-Creation-Date: 2015-12-03 08:12-0800\n"
+"PO-Revision-Date: 2015-12-03 19:39+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449171558.000000\n"
 
 # 6bfc56d52f1843279a4d8b773aea4895
 # 0ee93280522f4b6b8193d0da32c85155
@@ -4256,6 +4260,14 @@ msgstr ""
 #: ../../postinstall.rst:58
 msgid "Once you access the graphical menu, it will pause for a few seconds then continue to boot PC-BSD®. If you wish to select a different operating system or specify how PC-BSD® boots, press a key to pause this screen. If multiple operating systems are available and you want to boot into PC-BSD®, make sure it is highlighted and press enter. This will load the PC-BSD® boot options screen shown in :numref:`Figure %s:  PC-BSD® Graphical Boot Menu Options <boot2>`."
 msgstr ""
+"Una vez que accese el menú gráfico, se pausará por unos segundos y "
+"continuará el arranque de PC-BSD®. Si quiere seleccionar un sistema "
+"operativo diferente o especificar cómo arranca PC-BSD®, presione cualquier "
+"tecla para pausar la pantalla. Si están disponibles múltiples sistemas "
+"operativos y quiere arrancar en PC-BSD®, asegúrese que esté seleccionado y "
+"presione enter. Esto cargará la pantalla de las opciones de arranque de PC-"
+"BSD® mostrada en la :numref:`Figura %s: Opciones del Menú de Arranque "
+"Gráfico de PC-BSD® <boot2>`."
 
 # e7a08f54ffc144ab98674e80042cf3d0
 # e50bef1638684d339f225b283f5a65d3
@@ -7704,6 +7716,13 @@ msgstr "Si Su Pantalla No es Detectada Automáticamente"
 #: ../../postinstall.rst:90
 msgid "If the optimal display settings can not be determined during first boot, if you select \"No\"in the \"Confirm Resolution\" screen when asked to confirm the display settings, or if you select \"Run the Display Wizard\" from the boot menu, the \"Display Settings\" screen shown in :numref:`Figure %s: Display Settings Wizard <display1>` will launch."
 msgstr ""
+"Si las configuraciones de pantalla óptimas no se pueden determinar durante "
+"el primer arranque, si usted seleccionó \"No\" en la pantalla de \"Confirmar "
+"Resolución\" cuando se le pidió confirmar las configuraciones de la "
+"pantalla, o si seleccionó \"Lanzar el Asistente de Pantalla\" desde el menú "
+"de arranque, la pantalla de \"Configuraciones de Pantalla\" mostrada en la "
+":numref:`Figura %s: Asistente de Configuraciones de Pantalla <display1>` se "
+"lanzará."
 
 # 77b5da71ba5a4892836ebc0d3f89dd53
 # 5f8618e2b08945b9a8724c9a56e80e92
@@ -8860,6 +8879,8 @@ msgstr "Pantalla de Idioma"
 #: ../../postinstall.rst:110
 msgid "The language selection screen is seen in :numref:`Figure %s: Language Selection Screen <config1>`."
 msgstr ""
+"La pantalla de selección de idioma se muestra en la :numref:`Figura %s: "
+"Pantalla de Selección de Idioma <config1>`."
 
 # 528ece3dac74446889dcb834b8ec6310
 # d935fdd4654840aaa0effafb772db9ee
@@ -10011,6 +10032,8 @@ msgstr "Pantalla de Selección de Zona Horaria"
 #: ../../postinstall.rst:126
 msgid "The next configuration screen, shown in :numref:`Figure %s: Select Time Zone <config2a>`, allows you to select your timezone."
 msgstr ""
+"La siguiente pantalla de configuración, mostrada en la :numref:`Figura %s: "
+"Seleccionar Zona Horaria <config2a>`, le permite seleccionar su zona horaria."
 
 # 328d2c39589744b58d775b951e4def7e
 # 0354abc75b124fdcbff6b7e6f54d78aa
@@ -11850,6 +11873,9 @@ msgstr "Pantalla para Establecer Contraseña de Administrador"
 #: ../../postinstall.rst:148
 msgid "This configuration screen, seen in :numref:`Figure %s: Set Root Password <config3>`, requires you to set the root password."
 msgstr ""
+"Esta pantalla de configuración, mostrada en la :numref:`Figura %s: "
+"Establecer Contraseña de Root <config3>`, requiere que usted establezca la "
+"contraseña de root."
 
 # 38b98e79c5e34d84bcec3206ac5ac86c
 # 31664630ee1547609d3bcb6206f64b54
@@ -13007,6 +13033,8 @@ msgstr ""
 #: ../../postinstall.rst:166
 msgid ":numref:`Figure %s: User Creation Screen <config4>` shows the configuration screen used to create the initial user account."
 msgstr ""
+"La :numref:`Figura %s: Pantalla de Creación de Usuarios <config4>` muestra "
+"la pantalla de configuración usada para crear la cuenta de usuario inicial."
 
 # 9a26bd5172344d2c88c552e919676a79
 # 881362b14da34c81acdbbccf5e1e3e5b
@@ -15234,6 +15262,9 @@ msgstr ""
 #: ../../postinstall.rst:189
 msgid "The \"PersonaCrypt\" tab, shown in :numref:`Figure %s: Initializing PersonaCrypt for this User <persona1>`, is used to initialize PersonaCrypt for the user."
 msgstr ""
+"La pestaña \"PersonaCrypt\", mostrada en la :numref:`Figura %s: "
+"Inicializando PersonaCrypt para este Usuario <persona1>`, se usa para "
+"inicializar PersonaCrypt para el usuario."
 
 # d829b7d32c1e4c40830e17dbfc88890c
 # c10e4f78c2fb417a99a87e69e578c999
@@ -17163,6 +17194,9 @@ msgstr "Configurar Salida de Audio"
 #: ../../postinstall.rst:213
 msgid "The next screen, seen in :numref:`Figure %s: Configure Audio Output <audio1>`, is used to configure the default audio output."
 msgstr ""
+"La siguiente pantalla, mostrada en la :numref:`Figura %s: Configurando "
+"Salida de Audio <audio1>`, se usa para configurar la salida de audio "
+"predeterminada."
 
 # 23235ce791d7454b92961554af493386
 # f5a105de76394e99ba6cdfdc063ff77f
@@ -18320,6 +18354,10 @@ msgstr "Conectarse a una Red Inalámbrica"
 #: ../../postinstall.rst:230
 msgid "If the system has an active wireless interface, a screen similar to :numref:`Figure %s: Connect to a Wireless Network <config5>` will indicate the wireless networks which were automatically detected. Available networks will be ordered by signal strength."
 msgstr ""
+"Si el sistema tiene una interfaz inalámbrica activa, una pantalla similar a "
+"la de la :numref:`Figura %s: Conectándose a una Red Inalámbrica <config5>` "
+"le indicará las redes inalámbricas que son detectadas automáticamente. Las "
+"redes disponibles se ordenarán por la fuerza de la señal."
 
 # 5195231fd10b4b23a784d7555fa8a672
 # 07c169f84fcd45da953a982f0fb70f02
@@ -19094,6 +19132,8 @@ msgstr "Habilitando Servicios Opcionales"
 #: ../../postinstall.rst:247
 msgid "The next screen is shown in :numref:`Figure %s: Optional Services <optional1a>`."
 msgstr ""
+"La siguiente pantalla se muestra en la :numref:`Figura %s: Servicios "
+"Opcionales <optional1a>`."
 
 # 3caaeb06cbe5403cbc1c659bca8f62ca
 # d367d9df356e461d9ce6c1a0508173a1
@@ -19558,6 +19598,10 @@ msgstr ""
 #: ../../postinstall.rst:258
 msgid "When finished, click the \"Next\" button. The screen in :numref:`Figure %s: Setup is Complete <config6>` indicates that the post-installation setup is complete. Click the \"Finish\" button to access the login menu."
 msgstr ""
+"Cuando termine, presione el botón \"Siguiente\". La pantalla de la :numref:`"
+"Figura %s: La Configuración se ha Completado <config6>` indica que la "
+"configuración post-instalación se ha completado. Presione el botón \""
+"Terminar\" para accesar al menú de inicio de sesión."
 
 # 283f9ca2443c40eeacccc3fb19611b27
 # 141b63502ba54b89a33a7e5ea6a8c2a1
@@ -19945,6 +19989,10 @@ msgstr "Accesando"
 #: ../../postinstall.rst:271
 msgid "Once you have finished setting up your system, you will be presented with the PCDM (PC-BSD® Display Manager) graphical login screen. An example is seen in :numref:`Figure %s: PC-BSD® Login Screen <login1>`."
 msgstr ""
+"Una vez que ha terminado de configurar su sistema, usted será presentado con "
+"la pantalla gráfica de inicio de sesión PCDM (PC-BSD® Display Manager). Un "
+"ejemplo se muestra en la  :numref:`Figura %s: Pantalla de Inicio de Sesión "
+"de PC-BSD® <login1>`."
 
 # 128a04d644274d1c943d7b2d9b79b4e4
 # 36618957e348499bbf9b3908edda7207
@@ -21497,6 +21545,12 @@ msgstr ""
 #: ../../postinstall.rst:291
 msgid "if you created a PersonaCrypt user, you will need to insert the PersonaCrypt device in order to login. As seen in the example in :numref:`Figure %s: PC-BSD® PersonaCrypt Login Screen <login5>`, this will add an extra field to the login screen so that you can input the password associated with the PersonaCrypt device."
 msgstr ""
+"Si usted creó un usuario de PersonaCrypt, necesitará el dispositivo "
+"PersonaCrypt para poder iniciar sesión. Como se muestra en el ejemplo de la "
+":numref:`Figura %s: Pantalla de Inicio de Sesión de PersonaCrypt en PC-BSD® "
+"<login5>`, esto añadirá un campo extra a la pantalla de inicio de sesión "
+"para que pueda ingresar la contraseña asociada con el dispositivo "
+"PersonaCrypt."
 
 # 3b21c010ab6347c286fb23ab198db613
 # a89e7908232d4260953ccadc4b4c917e
@@ -23428,6 +23482,9 @@ msgstr ""
 #: ../../postinstall.rst:311
 msgid "The first time you log in, the PC-BSD® \"Getting Started\" screen will load as seen in :numref:`Figure %s: PC-BSD® Getting Started Screen <welcome1>`."
 msgstr ""
+"La primera vez que inicie sesión, la pantalla \"Comenzando\" de PC-BSD® se "
+"mostrará como en la :numref:`Figura %s: Pantalla \"Comenzando\" de PC-BSD® "
+"<welcome1>`."
 
 # 0f8ca4a100064fed8b8643440a41ad77
 # 88d20d73448441e88cc4377fcd4361de
@@ -26923,6 +26980,9 @@ msgstr ""
 #: ../../postinstall.rst:354
 msgid "If that change did not help, try rebooting and selecting the \"Graphical Install (Failsafe VESA mode)\" option from the boot menu shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1a>`."
 msgstr ""
+"Si ese cambio no ayuda, intente reiniciar y seleccionar la opción \""
+"Graphical Install (Failsafe VESA mode)\" del menú de arranque mostrada en la "
+":numref:`Figura %s: Menú de Arranque del Instalador de PC-BSD® <install1a>`."
 
 # b8464ded3a324bcebcc79eb056085101
 # 970672597cb94b7085e4106c0a568673
