@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-06 00:13-0800\n"
-"PO-Revision-Date: 2015-12-03 19:39+0000\n"
+"POT-Creation-Date: 2015-12-06 04:14-0800\n"
+"PO-Revision-Date: 2015-12-06 15:31+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449415917.000000\n"
 
 # 6bfc56d52f1843279a4d8b773aea4895
 # 0ee93280522f4b6b8193d0da32c85155
@@ -6174,7 +6178,7 @@ msgstr ""
 #: ../../postinstall.rst:75
 msgid "**Run the Display Wizard:** if you are unable to access the GUI due to a display setting, enable this option to boot into the display settings wizard."
 msgstr ""
-"**Run the Display Wizard:** Si no puede accesar en la IGU debido a una "
+"**Run the Display Wizard:** Si no puede accesar en la GUI debido a una "
 "configuración de la pantalla, habilite esta opción para arrancar en el "
 "asistente de configuración de la pantalla."
 
@@ -17963,7 +17967,7 @@ msgstr ""
 msgid "You can view and edit these settings at a later time using the instructions in :ref:`PC-BSD Mixer Tray`."
 msgstr ""
 "Puede ver y editar estas configuraciones en el futuro usando las "
-"instrucciones en :ref:`Mezclador de PC-BSD`."
+"instrucciones en el :ref:`Mezclador de PC-BSD`."
 
 # 70f0fd3cdbae4f5d9c72c0e411eec429
 # ee7a89c4637c446c9be8b4e2ec8f6e67
@@ -19985,8 +19989,8 @@ msgstr "Accesando"
 #: ../../postinstall.rst:271
 msgid "Once you have finished setting up your system, you will be presented with the PCDM (PC-BSD® Display Manager) graphical login screen. An example is seen in :numref:`Figure %s: PC-BSD® Login Screen <login1>`."
 msgstr ""
-"Una vez que ha terminado de configurar su sistema, usted será presentado con "
-"la pantalla gráfica de inicio de sesión PCDM (PC-BSD® Display Manager). Un "
+"Una vez que ha terminado de configurar su sistema, se le presentará la "
+"pantalla gráfica de inicio de sesión PCDM (PC-BSD® Display Manager). Un "
 "ejemplo se muestra en la  :numref:`Figura %s: Pantalla de Inicio de Sesión "
 "de PC-BSD® <login1>`."
 
