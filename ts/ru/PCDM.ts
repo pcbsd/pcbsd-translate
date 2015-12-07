@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Refresh PCDM</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновить PCDM</translation>
     </message>
 </context>
 <context>

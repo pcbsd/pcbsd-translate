@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Refresh PCDM</source>
-        <translation type="unfinished"></translation>
+        <translation>PCDM&apos;yi Yenile</translation>
     </message>
 </context>
 <context>
