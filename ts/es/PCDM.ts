@@ -169,6 +169,10 @@
         <source>Change locale (%1)</source>
         <translation>Cambiando región (%1)</translation>
     </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>loginDelay</name>

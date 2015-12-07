@@ -201,6 +201,10 @@
         <source>Change locale (%1)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>loginDelay</name>
