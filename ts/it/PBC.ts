@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS>
+<TS language="it">
     <context>
         <name>ExeDialog</name>
         <message>
             <source>Package Executable</source>
-            <translation>Eseguibile Pacchetto</translation>
-        </message>
+            <translation>Pacchetto Eseguibile</translation>
+    </message>
         <message>
             <source>Executable Icon</source>
             <translation>Icone per l'eseguibile</translation>
@@ -238,8 +238,8 @@
             <translation>Testo Licenza</translation>
         </message>
         <message>
-            <source>If &quot;Display License&quot; is set to &quot;Yes&quot;, then during the installation, the software will require the user to accept the license agreement before going further. Setting this to &quot;No&quot; will simply skip the license screen, and continue on with installation. </source>
-            <translation>Se &quot;Visualizza licenza&quot; e' settata su &quot;Si&quot;, allora, durante l'installazione, il software richiederà l'utente di accettarla prima di continuare. Settandola su &quot;No&quot; la licenza sarà semplicemente saltata. </translation>
+            <source>If "Display License" is set to "Yes", then during the installation, the software will require the user to accept the license agreement before going further. Setting this to "No" will simply skip the license screen, and continue on with installation. </source>
+            <translation>Se "Visualizza licenza" e' settata su "Si", allora, durante l'installazione, il software richiederà l'utente di accettarla prima di continuare. Settandola su "No" la licenza sarà semplicemente saltata. </translation>
         </message>
         <message>
             <source>Display License</source>
@@ -288,7 +288,7 @@
         </message>
         <message>
             <source>&lt;font&gt;Next you need to set a default icon for your program, which will be used for the KDE interface. &lt;br&gt;&lt;br&gt;
-Program Executables are the files you wish to show up as icons on the desktop, or in the &quot;K&quot; menu. At least one executable must be added, but if your program has multiple binaries, you may add more.&lt;/font&gt;</source>
+Program Executables are the files you wish to show up as icons on the desktop, or in the "K" menu. At least one executable must be added, but if your program has multiple binaries, you may add more.&lt;/font&gt;</source>
             <translation>
             </translation>
         </message>
@@ -340,7 +340,7 @@ If you do not wish to register any file-types, you can safely ignore this sectio
             </translation>
         </message>
         <message>
-            <source>&lt;p align=&quot;center&quot;&gt;Creating Package&lt;/p&gt;</source>
+            <source>&lt;p align="center"&gt;Creating Package&lt;/p&gt;</source>
             <translation>
             </translation>
         </message>
@@ -371,7 +371,7 @@ If you do not wish to register any file-types, you can safely ignore this sectio
         </message>
         <message>
             <source>Your software package is now being created! Please wait, this may take a few moments, depending on the size of your package.
-In addition, you may also save a &quot;preset&quot; file, which may be loaded in the package creator for modification. </source>
+In addition, you may also save a "preset" file, which may be loaded in the package creator for modification. </source>
             <translation>
             </translation>
         </message>
@@ -411,7 +411,7 @@ In addition, you may also save a &quot;preset&quot; file, which may be loaded in
             </translation>
         </message>
         <message>
-            <source>&lt;font&gt;Specify the program directory you wish to include, then choose an option for library files.  You will need to choose an option for your libraries also. We recommend to use the &quot;Auto&quot; option, as this will include the necessary libraries for your program to operate on a variety of systems. &lt;br&gt;&lt;br&gt;
+            <source>&lt;font&gt;Specify the program directory you wish to include, then choose an option for library files.  You will need to choose an option for your libraries also. We recommend to use the "Auto" option, as this will include the necessary libraries for your program to operate on a variety of systems. &lt;br&gt;&lt;br&gt;
 WARNING: Not including a library directory may render this program inoperable on systems without the required libraries.&lt;br&gt;&lt;br&gt;You may also edit your initial FirstRun script, and Setup / Remove Scripts here. &lt;/font&gt;</source>
             <translation>
             </translation>
@@ -419,7 +419,7 @@ WARNING: Not including a library directory may render this program inoperable on
         <message>
             <source>This information will be used during the installation, as well as in the package manager for administration. 
 If you have a preset file, you may load it below. 
-If you wish to run an &quot;update&quot; service for this PBI, enter the full URL for version check script. Please see the README for more information. 
+If you wish to run an "update" service for this PBI, enter the full URL for version check script. Please see the README for more information. 
 </source>
             <translation>
             </translation>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>MainWindow</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">A riguardo</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>Arch:</source>
-        <translation type="unfinished">Arch:</translation>
+        <translation type="unfinished">Architettura:</translation>
     </message>
     <message>
         <source>ident</source>
-        <translation type="unfinished">ident</translation>
+        <translation type="unfinished">identificativo</translation>
     </message>
     <message>
         <source>Hardware</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation type="unfinished">CLI utilities di PC-BSD:</translation>
+        <translation type="unfinished">Strumenti CLI di PC-BSD:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
@@ -81,23 +81,23 @@
     </message>
     <message>
         <source>Package set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Set di pacchetti:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>(unstable)</source>
-        <translation type="unfinished"></translation>
+        <translation>(instabile)</translation>
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(LTS)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Componenti software e di sistema</translation>
     </message>
 </context>
 </TS>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>BulkModuleDialog</name>
     <message>
@@ -9,15 +9,15 @@
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta</translation>
     </message>
     <message>
         <source>Base Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella principale</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella principale in cui creare i moduli</translation>
     </message>
     <message>
         <source>...</source>
@@ -25,39 +25,39 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria</translation>
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria dei pacchetti (sarà utilizzata come sotto cartella per i moduli)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Sovrascrivi i moduli esistenti</translation>
     </message>
     <message>
         <source>Graphical Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazioni grafiche</translation>
     </message>
     <message>
         <source>Text Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazioni testuali</translation>
     </message>
     <message>
         <source>Server Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicazioni server</translation>
     </message>
     <message>
         <source>Other (libraries, meta packages, etc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altre (librerie, meta pacchetti, etc)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia</translation>
     </message>
     <message>
         <source>Current Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progresso</translation>
     </message>
     <message>
         <source>%v/%m</source>
@@ -93,23 +93,23 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Interrompi</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Nothing Run Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ancora in esecuzione</translation>
     </message>
     <message>
         <source>Checking %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllo di: %1</translation>
     </message>
     <message>
         <source>%1: Removing old module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Rimozione del vecchio modulo</translation>
     </message>
     <message>
         <source>%1: New graphical module</source>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categoria</translation>
     </message>
     <message>
         <source>Menu category for the item to be located.</source>

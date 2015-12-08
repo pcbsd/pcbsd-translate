@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>Installer</name>
     <message>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>System Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selezione del Sistema</translation>
     </message>
     <message>
         <source>Restore from Life-Preserver backup</source>
