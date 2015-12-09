@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Jail Network Interface</source>
-        <translation>Tatap Jaringan Jail</translation>
+        <translation>Antarmuka Jaringan Jail</translation>
     </message>
     <message>
         <source>Jail Directory</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished">Masukkan nama samaran untuk jail baru ini. Anda memiliki pilihan untuk mengubah IP / Hostname dari penjara impor. Referensi internal ke lama IP / hostname mungkin masih perlu diubah setelah mengimpor</translation>
+        <translation>Masukkan nama panggilan untuk jail baru ini. Anda memiliki pilihan untuk mengubah IP / Hostname dari jail yang di impor. Referensi internal ke IP / hostname lama mungkin masih perlu diubah setelah mengimpor.</translation>
     </message>
     <message>
         <source>&amp;Ok</source>

@@ -116,27 +116,27 @@
     <name>KbLayoutSelectDialog</name>
     <message>
         <source>Select keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih tata letak keyboard</translation>
     </message>
     <message>
         <source>Keyboard layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tata letak keyboard:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Mencari...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">11n {1?}</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolom Baru</translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis tata letak</translation>
     </message>
     <message>
         <source>Typical</source>
@@ -147,11 +147,11 @@
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulir</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>-</source>
@@ -167,21 +167,21 @@
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
 </context>
 <context>
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulir</translation>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulir</translation>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt + Shift</translation>
     </message>
     <message>
         <source>Ctrl + Shift</source>
@@ -311,31 +311,31 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     </message>
     <message>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation>MD5</translation>
     </message>
     <message>
         <source>MSCHAPV2</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAPV2</translation>
     </message>
     <message>
         <source>GTC</source>
-        <translation type="unfinished"></translation>
+        <translation>GTC</translation>
     </message>
     <message>
         <source>OTP</source>
-        <translation type="unfinished"></translation>
+        <translation>OTP</translation>
     </message>
     <message>
         <source>PAP</source>
-        <translation type="unfinished"></translation>
+        <translation>PAP</translation>
     </message>
     <message>
         <source>CHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>CHAP</translation>
     </message>
     <message>
         <source>MSCHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAP</translation>
     </message>
     <message>
         <source>Phase 2 Auth:</source>
@@ -350,7 +350,7 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     <name>metaWidget</name>
     <message>
         <source>Apply</source>
-        <translation>Gunakan</translation>
+        <translation>Terapkan</translation>
     </message>
     <message>
         <source>Loading... Please wait...</source>

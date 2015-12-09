@@ -69,15 +69,15 @@
     </message>
     <message>
         <source>X.org server version:</source>
-        <translation>juru sita x.org versi:</translation>
+        <translation>Versi server x.org:</translation>
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation>Kegunaan PC-BSD CLI:</translation>
+        <translation>Perangkat PC-BSD CLI:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
-        <translation>Kegunaan PC-BSD UI:</translation>
+        <translation>Perangkat PC-BSD UI:</translation>
     </message>
     <message>
         <source>Package set:</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(LTS)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Perangkat lunak dan komponen sistem...</translation>
     </message>
 </context>
 </TS>

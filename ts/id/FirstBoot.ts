@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>User-portion of the disk encryption key</source>
-        <translation type="unfinished">Bagian pengguna kunci enkripsi disk</translation>
+        <translation>Bagian pengguna untuk kunci enkripsi disk</translation>
     </message>
     <message>
         <source>Device Password</source>
@@ -161,15 +161,15 @@
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Coba</translation>
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Perangkat Keluaran:</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Coba Volume:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
@@ -181,19 +181,19 @@
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama Domain</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Masukkan nama domain</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Nama domain hanya boleh terdiri dari huruf dan angka</translation>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Layanan Tambahan</translation>
     </message>
 </context>
 <context>
@@ -224,19 +224,19 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistem ini dapat diakses menggunakan SSH dari sistem lainnya</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Hidupkan SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Matikan IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Matikan penggunaan koneksi IPv6</translation>
     </message>
 </context>
 <context>
@@ -291,11 +291,11 @@
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jenis Keamanan:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>

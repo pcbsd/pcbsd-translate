@@ -212,39 +212,39 @@
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Hari dalam minggu</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation> Jam</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation>Senin</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Selasa</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Rabu</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Kamis</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>Jumat</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sabtu</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Minggu</translation>
     </message>
     <message>
         <source>Replication Settings</source>
@@ -268,7 +268,7 @@
     </message>
     <message>
         <source>Excluded:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kecualikan:</translation>
     </message>
     <message>
         <source>Remote Servers</source>
@@ -1193,39 +1193,39 @@
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hari dalam minggu</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Jam</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Senin</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Selasa</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rabu</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kamis</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jumat</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sabtu</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minggu</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
