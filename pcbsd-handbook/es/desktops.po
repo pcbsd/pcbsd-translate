@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-09 08:12-0800\n"
-"PO-Revision-Date: 2015-10-16 17:07+0000\n"
+"POT-Creation-Date: 2015-12-09 12:13-0800\n"
+"PO-Revision-Date: 2015-12-09 23:39+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449704383.000000\n"
 
 # ee4352d4240f4fe2aa75739875f02ef7
 # 35c91d4fc3b048eaa2f82b6da3053ea4
@@ -4228,6 +4232,10 @@ msgstr ""
 #: ../../desktops.rst:38
 msgid ":numref:`Figure %s: Awesome Window Manager on PC-BSD® <awesome1>` shows a screenshot of Awesome running on PC-BSD® |version|. The user has right-clicked the desktop in order to launch the awesome application manager."
 msgstr ""
+"La :numref:`Figura %s: Gestor de Ventanas Awesome en PC-BSD® <awesome1>` "
+"muestra una captura de pantalla de Awesome corriendo en PC-BSD® |version|. "
+"El usuario ha hecho clic derecho en el escritorio para lanzar el gestor de "
+"aplicaciones de awesome."
 
 # 3073e3922f8f42aba2186a8827308bb5
 # c836d5f0558c488a9443a9b26f5c8d1c
@@ -6146,6 +6154,11 @@ msgstr ""
 #: ../../desktops.rst:60
 msgid "The `Cinnamon desktop environment <http://cinnamon.linuxmint.com/>`_ is developed by the Linux Mint project. :numref:`Figure %s: Cinnamon Desktop on a PC-BSD® System <cinnamon1>` shows a screenshot of Cinnamon on a PC-BSD® |version| system with the applications \"Menu\" open."
 msgstr ""
+"El `Entorno de escritorio Cinnamon <http://cinnamon.linuxmint.com/>`_ es "
+"desarrollado por el proyecto Linux Mint. La :numref:`Figura %s: Escritorio "
+"Cinnamon en un Sistema PC-BSD® <cinnamon1>` muestra una captura de pantalla "
+"de Cinnamon en un sistema PC-BSD® |version| con el \"Menú\" de aplicaciones "
+"abierto."
 
 # 2720fe236b56415ca285c524f4a69c27
 # 000ec179b44849dbac102b8f871cf67e
