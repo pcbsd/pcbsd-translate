@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-10 07:40-0800\n"
-"PO-Revision-Date: 2015-12-09 23:39+0000\n"
+"POT-Creation-Date: 2015-12-10 08:12-0800\n"
+"PO-Revision-Date: 2015-12-10 20:07+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449778063.000000\n"
 
 # ee4352d4240f4fe2aa75739875f02ef7
 # 35c91d4fc3b048eaa2f82b6da3053ea4
@@ -8457,6 +8461,9 @@ msgstr ""
 #: ../../desktops.rst:85
 msgid ":numref:`Figure %s: Fluxbox on PC-BSD® <fluxbox1>` shows a screenshot of Fluxbox running on PC-BSD®. In this example, the user has launched the \"Application\" menu by right-clicking on the desktop."
 msgstr ""
+"La :numref:`Figura %s: Fluxbox en PC-BSD® <fluxbox1>` muestra una captura de "
+"pantalla de Fluxbox corriendo en PC-BSD®. En este ejemplo, el usuario ha "
+"lanzado el menú de \"Aplicaciones\" haciendo clic derecho en el escritorio."
 
 # fb01a21f59004d0cbf5db1edf5a1d963
 # 27f2789beeb447f98d7f969bcc282155
@@ -8840,10 +8847,10 @@ msgstr ""
 msgid "Fluxbox provides many configuration files which can be edited in order to customize the desktop. The `Features <http://www.fluxbox.org/features/>`_ page of the Fluxbox website lists the available configuration files and links to instructions for getting the most out of Fluxbox."
 msgstr ""
 "Fluxbox proporciona muchos archivos de configuración que pueden ser editados "
-"para personalizar el escritorio. La página de "
-"`Características<http://www.fluxbox.org/features/>`_ del sitio web de "
-"Fluxbox lista los archivos de configuración disponibles y vínculos a "
-"instrucciones para sacar el máximo provecho de Fluxbox."
+"para personalizar el escritorio. La página de `Características "
+"<http://www.fluxbox.org/features/>`_ del sitio web de Fluxbox lista los "
+"archivos de configuración disponibles y vínculos a instrucciones para sacar "
+"el máximo provecho de Fluxbox."
 
 # 151d30ff03f240428f5588e61f0cbfdd
 # 88201f9cb4ad484bbeb0b757bdaf95b3
@@ -10375,7 +10382,7 @@ msgstr ""
 #: ../../desktops.rst:101
 #: ../../desktops.rst:100
 msgid "`Fluxbox wiki <http://fluxbox-wiki.org/>`_"
-msgstr "`Wiki de Fluxbox<http://fluxbox-wiki.org/>`_"
+msgstr "`Wiki de Fluxbox <http://fluxbox-wiki.org/>`_"
 
 # 6d4d136861d64de6a79bcdf6e878b01a
 # 5ca62aa764d9438e986bdb36f7b8a30a
@@ -12293,10 +12300,18 @@ msgstr ""
 #: ../../desktops.rst:117
 msgid ":numref:`Figure %s: FVWM Running on PC-BSD® <fvwm1>` shows the default PC-BSD® desktop if you select FVWM from the login menu. The application menu was opened by clicking the mouse anywhere on the desktop."
 msgstr ""
+"La :numref:`Figura %s: FVWM Corriendo en PC-BSD® <fvwm1>` muestra el "
+"escritorio PC-BSD® predeterminado si selecciona FVWM desde el menú de "
+"acceso. El menú de aplicaciones se abrió presionando con el ratón en "
+"cualquier parte del escritorio."
 
 #: ../../desktops.rst:124
 msgid ":numref:`Figure %s: FVWM-Crystal Running on PC-BSD® <fvwm2>` shows the default PC-BSD® desktop if you select FVWM-Crystal from the login menu. To open an xterm in FVWM-Crystal, right-click any area of the desktop."
 msgstr ""
+"La :numref:`Figura %s: FVWM-Crystal Corriendo en PC-BSD® <fvwm2>` muestra el "
+"escritorio PC-BSD® predeterminado si selecciona FVWM-Crystal desde el menú "
+"de acceso. Para abrir una xterm en FVWM-Crystal, haga clic derecho en "
+"cualquier parte del escritorio."
 
 # 0b9cbae2537547f3bf7e1b29d89d8712
 # f5656b12de814fb58ff176851af5429c
@@ -14214,10 +14229,21 @@ msgstr ""
 #: ../../desktops.rst:144
 msgid "`GNOME3 <https://www.gnome.org/>`_ is a popular desktop environment that provides many built-in utilities. :numref:`Figure %s: GNOME3 Desktop on a PC-BSD® System <gnome1>` shows a screenshot of GNOME3 on a PC-BSD® |version| system. To access the icons shown in this screen, click \"Activities\" then the 9-dot icon at the bottom of the left-hand panel. Alternately, if you know the name of an application to open, click \"Activities\" and type the application's name into the search bar."
 msgstr ""
+"`GNOME3 <https://www.gnome.org/>`_ es un entorno de escritorio popular que "
+"proporciona muchas utilerías incluidas. La :numref:`Figura %s: Escritorio "
+"GNOME3 en un Sistema PC-BSD® <gnome1>` muestra una captura de pantalla de "
+"GNOME3 en un sistema PC-BSD® |version|. Para accesar los iconos mostrados en "
+"la pantalla, presione en \"Actividades\" y luego en el icono de 9 puntos en "
+"la parte baja del panel izquierdo. Alternativamente, si sabe el nombre de la "
+"aplicación a ejecutar, presione en \"Actividades\" e ingrese el nombre de la "
+"aplicación en la barra de búsqueda."
 
 #: ../../desktops.rst:152
 msgid ":numref:`Figure %s: GNOME2 Desktop on a PC-BSD® System <gnome2>` shows a screenshot of GNOME2 on a PC-BSD® |version| system with the \"Applications\" menu open."
 msgstr ""
+"La :numref:`Figura %s: Escritorio GNOME2 en un Sistema PC-BSD® <gnome2>` "
+"muestra una captura de pantalla de GNOME2 en un sistema PC-BSD® |version| "
+"con el menú \"Aplicaciones\" abierto."
 
 # cff85b10eab84bdba69eefb8129a58a9
 # 5d32a1ac9bf14372b2180f6a18ae2ff1
@@ -19569,10 +19595,18 @@ msgstr ""
 #: ../../desktops.rst:188
 msgid ":numref:`Figure %s: i3 Window Manager on PC-BSD® <i3a>` shows a screenshot of i3 running on PC-BSD® |version|."
 msgstr ""
+"La :numref:`Figura %s: Gestor de Ventanas i3 en PC-BSD® <i3a>` muestra una "
+"captura de pantalla de i3 corriendo en PC-BSD® |version|."
 
 #: ../../desktops.rst:194
 msgid "If you used :ref:`AppCafe®` to install i3, it automatically installed a default, system-wide configuration that is usually generated by :command:`i3-config-wizard`.  If you would like to use :kbd:`Win` as a modifier key and the Dvorak layout, run :command:`pc-extractoverlay i3dvorak`.  If you instead installed using :command:`pkg` and do not want the Dvorak layout, run :command:`pc-extractoverlay ports`."
 msgstr ""
+"Si usó :ref:`AppCafe®` para instalar i3, instaló automáticamente una "
+"configuración predeterminada para todo el sistema que generalmente se genera "
+"con :command:`i3-config-wizard`. Si quiere usar la tecla :kbd:`Win` como un "
+"modificador y el diseño Dvorak, ejecute :command:`pc-extractoverlay i3dvorak`"
+". Si por el contrario, realizó la instalación usando :command:`pkg` y no "
+"quiere el diseño Dvorak, ejecute :command:`pc-extractoverlay ports`."
 
 # 37d982e0968a423799cd5bd614292e98
 # 25b2348c9990459eaf7e1c7c49818b05
@@ -21109,6 +21143,12 @@ msgstr "IceWM"
 #: ../../desktops.rst:205
 msgid "The `IceWM window manager <http://www.icewm.org/>`_ is light-weight. :numref:`Figure %s: IceWM on PC-BSD® <icewm1>` shows a screenshot of IceWM running on PC-BSD®. In this example, the user has launched the \"Application\" menu by clicking on the \"BSD\" button in the lower left corner. This menu can also be launched by right-clicking anywhere on the desktop."
 msgstr ""
+"El `gestor de ventanas IceWM <http://www.icewm.org/>`_ es muy ligero. La "
+":numref:`Figura %s: IceWM en PC-BSD® <icewm1>` muestra una captura de "
+"pantalla de IceWM corriendo en PC-BSD®. En este ejemplo, el usuario ha "
+"lanzado el menú de \"Aplicación\" presionando en el botón \"BSD\" en la "
+"esquina inferior izquierda. Este menú también puede lanzarse presionando el "
+"botón derecho en cualquier parte del escritorio."
 
 # 2ea8b22af99f4fc4b5b107e83260bb5e
 # 846c4a4ae6fa4c1c8a5d0bd3a61d4271

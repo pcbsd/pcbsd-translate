@@ -1249,7 +1249,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished">Gün Aralığı</translation>
+        <translation>Gün Aralığı</translation>
     </message>
 </context>
 <context>
