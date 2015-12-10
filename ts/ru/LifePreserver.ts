@@ -1247,6 +1247,10 @@
         <source>Proceed directly to the advanced configuration options.</source>
         <translation>Перейдем непосредственно к расширенным настройкам конфигурации.</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Интервал дней</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>

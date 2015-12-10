@@ -1247,6 +1247,10 @@
         <source>Proceed directly to the advanced configuration options.</source>
         <translation>Procéder directement aux options de configuration avancées.</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>

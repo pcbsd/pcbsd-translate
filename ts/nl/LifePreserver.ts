@@ -1252,6 +1252,10 @@ The passwords listed ==&gt; De gegeven wahctwoorden</translatorcomment>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished">Ga onmiddellijk verder naar het geavanceerde configuratie opties.</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>

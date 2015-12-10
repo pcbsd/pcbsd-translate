@@ -1247,6 +1247,10 @@
         <source>Proceed directly to the advanced configuration options.</source>
         <translation>Doğruca gelişmiş yapılandırma seçeneklerine ilerle.</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Gün Aralığı</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>

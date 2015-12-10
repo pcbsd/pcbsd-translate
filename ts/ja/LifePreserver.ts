@@ -1251,6 +1251,10 @@
         <translatorcomment>チェックボックスのキャプション</translatorcomment>
         <translation>詳細な設定オプションを指定する。</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
