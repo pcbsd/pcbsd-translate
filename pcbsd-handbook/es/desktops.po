@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-10 08:12-0800\n"
-"PO-Revision-Date: 2015-12-10 20:07+0000\n"
+"POT-Creation-Date: 2015-12-10 12:12-0800\n"
+"PO-Revision-Date: 2015-12-11 00:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1449778063.000000\n"
+"X-POOTLE-MTIME: 1449792378.000000\n"
 
 # ee4352d4240f4fe2aa75739875f02ef7
 # 35c91d4fc3b048eaa2f82b6da3053ea4
@@ -21921,6 +21921,12 @@ msgstr "KDE4"
 #: ../../desktops.rst:222
 msgid "The `KDE <https://www.kde.org/>`_ desktop environment provides many features and applications. However, it is hardware intensive and may run slowly on a computer with an older processor or a small amount of RAM. :numref:`Figure %s: Applications Menu of KDE4 <kde1>` shows a screenshot of KDE4 running on PC-BSD® |version| with the \"Applications\" menu open."
 msgstr ""
+"El entorno de escritorio `KDE <https://www.kde.org/>`_ proporciona muchas "
+"características y aplicaciones. Pero requiere de mucho hardware y puede que "
+"corra lentamente en una computadora con un procesador antiguo o con poca "
+"RAM. La :numref:`Figura %s: Menú de Aplicaciones de KDE4 <kde1>`  muestra "
+"una captura de pantalla de KDE4 corriendo en PC-BSD® |version|  con el menú "
+"de \"Aplicaciones\" abierto."
 
 # 43b059905ba940a2aeabdaefe128e65c
 # 4e0c1d7049694f2c93765e5d6ad1aeb6
@@ -29259,6 +29265,9 @@ msgstr ""
 #: ../../desktops.rst:277
 msgid ":numref:`Figure %s: Lumina Desktop <lumina1>` shows a screenshot of Lumina on a PC-BSD® |version| system with the \"User\" button clicked."
 msgstr ""
+"La :numref:`Figura %s: Escritorio Lumina <lumina1>` muestra una captura de "
+"pantalla de Lumina en un sistema PC-BSD® |version| con el botón de \""
+"Usuario\" presionado."
 
 # 01c3014af1a543268ee40af5d4c71f6f
 # c402406fd99144e48a5f2afefd6a5f1b
@@ -32488,6 +32497,9 @@ msgstr ""
 #: ../../desktops.rst:314
 msgid ":numref:`Figure %s: LXDE Desktop on a PC-BSD® System <lxde1>` shows a screenshot of the default LXDE installation with the LXPanel open."
 msgstr ""
+"La :numref:`Figura %s: Escritorio LXDE en un sistema PC-BSD® <lxde1>` "
+"muestra una captura de pantalla de la instalación predeterminada de LXDE con "
+"el LXPanel abierto."
 
 # 454ddb78e32e4913852ade587837c811
 # c2095ace00d948a295ec5135c06b756e
@@ -37900,6 +37912,13 @@ msgstr "MATE"
 #: ../../desktops.rst:356
 msgid "The `MATE desktop <http://mate-desktop.org/>`_ is a fork of the popular, but now unmaintained, GNOME2 desktop environment. MATE is under active development to add support for new technologies while preserving the traditional GNOME desktop experience and its many built-in utilities. :numref:`Figure %s: MATE Desktop on a PC-BSD® System <mate1>` shows a screenshot of MATE on a PC-BSD® |version| system with the \"Applications\" menu open."
 msgstr ""
+"El `Escritorio MATE <http://mate-desktop.org/>`_ es una bifurcación del "
+"popular, pero ahora abandonado, entorno de escritorio GNOME2. MATE está bajo "
+"desarrollo activo para añadir soporte para nuevas tecnologías mientras "
+"preserva la experiencia tradicional del escritorio GNOME y sus muchas "
+"utilerías incluidas. La :numref:`Figura %s: Escritorio MATE en un Sistema PC-"
+"BSD® <mate1>` muestra una captura de pantalla de MATE en un sistema PC-BSD® "
+"|version| con el menú de \"Aplicaciones\" abierto."
 
 # ac6b62c4297349f8ba1aa9c3ed4ee50d
 # e1e131be2a2f4f20b85f18b0bdec16ba
@@ -40984,11 +41003,19 @@ msgstr ""
 #: ../../desktops.rst:387
 msgid ":numref:`Figure %s: Openbox on a PC-BSD® System <openbox1>` provides a screenshot of Openbox running on a PC-BSD® system. The application menu was launched by right-clicking on an area of the desktop."
 msgstr ""
+"La :numref:`Figura %s: Openbox en un Sistema PC-BSD® <openbox1>` proporciona "
+"una captura de pantalla de Openbox corriendo en un sistema PC-BSD®. El menú "
+"de aplicaciones se lanzó haciendo clic derecho en un área del escritorio."
 
 #: ../../desktops.rst:398
 #: ../../desktops.rst:394
 msgid "The application menu contains an entry for the Openbox Configuration Manager which can be used to customize settings such as themes, appearance, mouse, and margins. A screenshot of this configuration utility is shown in :numref:`Figure %s: Openbox Configuration Manager <openbox2>`."
 msgstr ""
+"El menú de aplicaciones contiene una entrada para el Administrador de "
+"Configuración de Openbox, el cuál puede ser usado para personalizar "
+"configuraciones como temas, apariencia, ratón, y márgenes. Una captura de "
+"pantalla de esta utilería de configuración se muestra en la :numref:`Figura "
+"%s: Administrador de Configuración de Openbox <openbox2>`."
 
 # aec992a1caa340ab8fa1fd793f3359b8
 # a53196ae9a7542d19bb4c142c3263c95
@@ -42531,6 +42558,9 @@ msgstr ""
 #: ../../desktops.rst:411
 msgid ":numref:`Figure %s: Ratpoison on a PC-BSD® System <ratpoison1>` provides a screenshot of Ratpoison running on a PC-BSD® system:"
 msgstr ""
+"La :numref:`Figura %s: Ratpoison en un Sistema PC-BSD® <ratpoison1>` "
+"proporciona una captura de pantalla de Ratpoison corriendo en un sistema PC-"
+"BSD®:"
 
 # 517b5ae390b64c2eb243e818fbd96b33
 # 58fe8114f27b48f4a8cf694965d1760a
@@ -49077,6 +49107,10 @@ msgstr ""
 #: ../../desktops.rst:465
 msgid ":numref:`Figure %s: Window Maker on PC-BSD® <windowmaker1>` shows a screenshot of Window Maker running on PC-BSD®. In this example, the user launched the \"Application\" menu by right-clicking an area of the desktop."
 msgstr ""
+"La :numref:`Figura %s: Window Maker en PC-BSD® <windowmaker1>` muestra una "
+"captura de pantalla de Window Maker corriendo en PC-BSD®. En este ejemplo, "
+"el usuario lanzó el menú de \"Aplicación\" haciendo clic derecho en un área "
+"del escritorio."
 
 # 8ea374467db94609a020d08672b3013c
 # 18666474dad849f796bf6b05a378f68e
@@ -49856,6 +49890,12 @@ msgstr ""
 #: ../../desktops.rst:477
 msgid "`wmakerconf <http://wmakerconf.sourceforge.net/>`_: found in :menuselection:`Utils --> wmakerconf`. Allows you to fine-tune your menu entries as well as your desktop's appearance, themes, background, mouse, and special effects. :numref:`Figure %s: Editing the Application Menu Using wmakerconf <windowmaker2>` shows wmakerconf with the \"Menu\" button selected."
 msgstr ""
+"`wmakerconf <http://wmakerconf.sourceforge.net/>`_: que se encuentra en "
+":menuselection:`Utils --> wmakerconf`. Le permite afinar sus entradas del "
+"menú así como la apariencia, temas, tapiz, ratón y efectos especiales del "
+"escritorio. La :numref:`Figura %s: Editando el Menú de Aplicación Usando "
+"wmakerconf <windowmaker2>` muestra wmakerconf con el botón \"Menu\" "
+"seleccionado."
 
 # f62f5c7d2f124bacb57be7518d118c85
 # 3df284ce08ef4fc386077a8090cec2e3
@@ -51023,6 +51063,9 @@ msgstr ""
 #: ../../desktops.rst:497
 msgid "Once an icon is docked, a settings menu is added to the icon's right-click menu. :numref:`Figure %s: Configuring an Icon <windowmaker3>` demonstrates how to configure an icon for :ref:`AppCafe®`."
 msgstr ""
+"Una vez que un icono está en el dock, un menú de configuraciones se añade al "
+"menú de clic derecho del icono. La :numref:`Figura %s: Configurando un Icono "
+"<windowmaker3>` demuestra cómo configurar un icono para :ref:`AppCafe®`."
 
 # d5cc6d9cf2744f60bd0f7a2522125b93
 # 2b160856d20e40ea9afd8efa29d3f7c4
@@ -53353,6 +53396,8 @@ msgstr ""
 #: ../../desktops.rst:531
 msgid "The first time you start XFCE4, you will see the message shown in :numref:`Figure %s: Panel Welcome Message <xfce1>`."
 msgstr ""
+"La primera vez que inicie XFCE4, verá el mensaje mostrado en la :numref:`"
+"Figura %s: Mensaje del Panel de Bienvenida <xfce1>`."
 
 # 9d6feca255e64f2a975364295b4a1687
 # 39001e87611244e6a568fa59f2d9ec24
@@ -53742,11 +53787,23 @@ msgstr ""
 #: ../../desktops.rst:540
 msgid "**Migrate old config:** select this option if you wish to have a single panel with an application launcher and other icons as shown in :numref:`Figure %s: XFCE with Complete Panel Migrated From Old Config <xfce2>`. The application launcher menu may be accessed by the fireball icon in the lower left, or by right-clicking the desktop."
 msgstr ""
+"**Migrar configuración anterior:** selecciones esta opción si quiere tener "
+"un solo panel con un lanzador de aplicaciones y otros iconos como se muestra "
+"en la :numref:`Figura %s: XFCE con un Panel Completo Migrado Desde una "
+"Configuración Anterior <xfce2>`. El menú del lanzador de aplicaciones puede "
+"accesarse mediant el icono de bola de fuego en la parte inferior izquierda, "
+"o presionando botón derecho en el escritorio."
 
 #: ../../desktops.rst:548
 #: ../../desktops.rst:544
 msgid "**Use default config:** this option will install a small, minimal panel centered on the bottom, as seen in :numref:`Figure %s: XFCE with Minimal Panel Using Default Config <xfce3>`. The application launcher menu may be accessed by the fireball icon in the top bar, or by a right-click on the desktop."
 msgstr ""
+"**Usar configuración predeterminada:** esta opción instalará un pequeño y "
+"mínimo panel centrado en la parte baja, como se muestra en la :numref:`"
+"Figura %s: XFCE con un Panel Mínimo Usando la Configuración Predeterminada "
+"<xfce3>`. El menú del lanzador de aplicaciones puede ser accesado mediante "
+"el icono de bola de fuego en la barra superior, o presionando botón derecho "
+"en el escritorio."
 
 # 4a8fe2f13af540a6822a531eb1c8bf98
 # 0912e5c2a363462490cc1edadd6987ba
