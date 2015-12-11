@@ -7,13 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-11 00:13-0800\n"
-"PO-Revision-Date: 2015-06-26 14:08+0000\n"
+"POT-Creation-Date: 2015-12-11 04:13-0800\n"
+"PO-Revision-Date: 2015-12-11 12:41+0000\n"
 "Last-Translator: yurkis <yurkis@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449837715.000000\n"
 
 # 26abb60daabd42919fda70f2ff692a51
 # 97553447a38f459a8c918792759e0be3
@@ -394,7 +399,7 @@ msgstr ""
 # db5fe184db3947ad9dab0d23d622867b
 #: ../../pcbsd.rst:7
 msgid "PC-BSD\\ |reg| User Guide |release|"
-msgstr ""
+msgstr "Керівництво користувача PC-BSD\\ |reg| |release|"
 
 # da9c8770b688476ca0b29d082c74c153
 # 3a2522eff37547079cad5ac3d75ea77c
@@ -775,7 +780,7 @@ msgstr ""
 # 6af9184eca8f4ad39128066345acaf54
 #: ../../pcbsd.rst:9
 msgid "Contents:"
-msgstr ""
+msgstr "Зміст:"
 
 # d25a2281e9104fa2a432d6a02c5695ac
 # 61360abc44c643b6a3350a58daa82a91
@@ -1156,7 +1161,7 @@ msgstr ""
 # 40db081fb8c74bf69fbe73cb60495e57
 #: ../../pcbsd.rst:30
 msgid "Index"
-msgstr ""
+msgstr "Глосарій"
 
 # 7fb94f5f391b442982d4b49eb8bc9401
 # 0a674f848e344d8281b957b13b6a5ffc
@@ -1537,4 +1542,4 @@ msgstr ""
 # 9c1ec573f5e044939ce746ce750618f6
 #: ../../pcbsd.rst:32
 msgid ":ref:`genindex`"
-msgstr ""
+msgstr ":ref:`genindex`"
