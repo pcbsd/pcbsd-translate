@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-11 04:13-0800\n"
-"PO-Revision-Date: 2015-12-11 00:06+0000\n"
+"POT-Creation-Date: 2015-12-11 08:12-0800\n"
+"PO-Revision-Date: 2015-12-11 19:55+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449863712.000000\n"
 
 # ee4352d4240f4fe2aa75739875f02ef7
 # 35c91d4fc3b048eaa2f82b6da3053ea4
@@ -19585,8 +19589,8 @@ msgid "The `i3 tiling window manager <http://i3wm.org/>`_ is extremely lightweig
 msgstr ""
 "El `Gestor de Ventanas i3 <http://i3wm.org/>`_ es extremadamente ligero y "
 "diseñado para usuarios que prefieren trabajar desde la línea de comandos. "
-"Los accesos directos del teclado se proporcionan para abrir xterms para "
-"poder ejecutar aplicaciones desde la línea de comandos."
+"Los accesos directos del teclado se proporcionan para abrir xterms y poder "
+"ejecutar aplicaciones desde la línea de comandos."
 
 #: ../../desktops.rst:188
 msgid ":numref:`Figure %s: i3 Window Manager on PC-BSD® <i3a>` shows a screenshot of i3 running on PC-BSD® |version|."
@@ -19985,7 +19989,7 @@ msgstr ""
 #: ../../desktops.rst:194
 msgid "To open an xterm, use :kbd:`Alt` :kbd:`Enter`. Windows do not provide minimize, maximize, or close buttons, so type :command:`exit` when you are finished using an xterm. To leave the window manager and return to the login screen, type :command:`killall i3` from within an xterm."
 msgstr ""
-"Para abrir una xterm, use use :kbd:`Alt` :kbd:`Intro`. Las ventanas no "
+"Para abrir una xterm, use :kbd:`Alt` :kbd:`Intro`. Las ventanas no "
 "proporcionan botones de minimizar, maximizar, o cerrar, así que ingrese "
 ":command:`exit` cuando termine de usar una xterm. Para dejar el gestor de "
 "ventanas y regresar a la pantalla de acceso, ingrese :command:`killall i3` "
@@ -27039,7 +27043,7 @@ msgid "The Lumina Desktop Environment (Lumina for short) is a lightweight, XDG-c
 msgstr ""
 "El Entorno de Escritorio Lumina (mejor conocido como Lumina) es un entorno "
 "ligero, compatible con XDG, y de licencia BSD que se enfoca específicamente "
-"en mejorar la habilidad de dejar el trabajo hecho a la vez que minimiza la "
+"en mejorar la habilidad de dejar el trabajo hecho, a la vez que minimiza la "
 "sobrecarga en el sistema. Está diseñado específicamente para PC-BSD® y "
 "FreeBSD, pero también ha sido portado a muchos otros sistemas operativos BSD "
 "y Linux. Esta basado en el toolkit gráfico QT y el manejador de ventanas "
@@ -28192,7 +28196,7 @@ msgstr "Mínima sobrecarga del sistema."
 #: ../../desktops.rst:269
 msgid "Intelligent \"favorites\" system for creating quick shortcuts to applications, files, and directories."
 msgstr ""
-"Un sistema inteligente de \"favoritos\" para crear accesps directos rápidos "
+"Un sistema inteligente de \"favoritos\" para crear accesos directos rápidos "
 "a aplicaciones, archivos y directorios."
 
 # 34618ac26a0644348de3366e5defcbfa
@@ -28870,7 +28874,7 @@ msgstr ""
 #: ../../desktops.rst:273
 msgid "Desktop system is plugin-based, which is similar to Android or other modern operating systems."
 msgstr ""
-"El sistema de escritorio esta basado en agregados, lo cual es similar a "
+"El sistema de escritorio esta basado en plugins, lo cual es similar a "
 "Android y otros sistemas operativos modernos."
 
 # 7c63e63cb1754234ba5941c36619ae83
@@ -30147,10 +30151,11 @@ msgstr ""
 #: ../../desktops.rst:289
 msgid "**Lumina Screenshot:** used to take screenshots of the desktop or applications and save them as PNG image files. To launch this utility, click the icon for :menuselection:`System Applications --> Lumina Screenshot` or type :command:`lumina-screenshot` from an xterm."
 msgstr ""
-"**Instantánea Lumina:** se usa para tomar instantáneas del escritorio o "
-"aplicaciones y guardarlas como archivos de imágen PNG. Para ejecutar esta "
+"**Captura de Pantalla de Lumina:** se usa para tomar capturas del escritorio "
+"o aplicaciones y guardarlas como archivos de imágen PNG. Para ejecutar esta "
 "utilería, presione el icono para :menuselection:`Aplicaciones del Sistema -->"
-" Instantánea Lumina` o ingrese :command:`lumina-screenshot` desde una xterm."
+" Captura de Pantalla de Lumina` o ingrese :command:`lumina-screenshot` desde "
+"una xterm."
 
 # 830bd8b0b0674503b7ea67a70781c634
 # 6f6f472515234678be34db38313b5374
@@ -54192,6 +54197,11 @@ msgstr ""
 #: ../../desktops.rst:549
 msgid "If you wish to change your configuration choice at a later time, reset the panel using :menuselection:`Applications --> Settings --> Settings Editor`, shown in :numref:`Figure %s: Using Settings Editor to Reset Panel <xfce4a>`. Right-click the entry for \"xfce4-panel\" and click \"Reset Channel\"."
 msgstr ""
+"Si quiere cambiar sus opciones de configuración en el futuro, reinicie el "
+"panel usando menuselection:`Aplicaciones --> Configuraciones --> Editor de "
+"Configuraciones`, mostrado en la :numref:`Figura %s: Usando el Editor de "
+"Configuraciones para Reiniciar el Panel <xfce4a>`. Haga clic derecho en la "
+"entrada para \"xfce4-panel\" y presione en \"Reiniciar Canal\"."
 
 # 872487f474144949a349e32dfe475703
 # e03fd7a07c0b496191c0083033ebcf9e
@@ -58447,6 +58457,10 @@ msgstr ""
 #: ../../desktops.rst:594
 msgid "After installing a plugin, go to :menuselection:`Settings --> Panel --> Items` and click the \"+\" button in the right column to see the \"Add New Items\" screen shown in :numref:`Figure %s: Adding a Plugin to the Panel <xfce5>`."
 msgstr ""
+"Después de instalar un plugin, vaya a :menuselection:`Configuraciones --> "
+"Panel --> Elementos` y presione el botón \"+\" en la columna de la derecha "
+"para ver la pantalla \"Añadir Nuevos Elementos\" mostrada en la :numref:`"
+"Figura %s: Añadiendo un Plugin al Panel <xfce5>`."
 
 # 74ba8bf32b8645779212ce0f7a731519
 # 90f6b7707e964d0a83de68192cacdbc2
