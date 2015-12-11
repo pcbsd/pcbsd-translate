@@ -1249,7 +1249,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished">Интервал дней</translation>
+        <translation>Интервал дней</translation>
     </message>
 </context>
 <context>
