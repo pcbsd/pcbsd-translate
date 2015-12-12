@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-11 08:12-0800\n"
-"PO-Revision-Date: 2015-11-02 18:37+0000\n"
+"POT-Creation-Date: 2015-12-11 12:12-0800\n"
+"PO-Revision-Date: 2015-12-11 20:40+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1449866406.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -2684,8 +2688,8 @@ msgstr ""
 "AppCafe® proporciona un método intuitivo y gráfico para instalar y "
 "administrar software. Proporciona un front-end gráfico a los paquetes de "
 "FreeBSD, lo cuales son aplicaciones prefabricadas que han sido probadas para "
-"FreeBSD. También proporciona un front-end a los PBIs, que son paquetes que "
-"contienen metadatos extra que es desplegada en AppCafe®, como capturas de "
+"FreeBSD. También proporciona un front-end para PBIs, que son paquetes que "
+"contienen metadatos extra que son desplegados en AppCafe®, como capturas de "
 "pantalla y listas de aplicaciones similares. También proporciona "
 "administración gráfica para jaulas, lo que le permite correr aplicaciones "
 "que están aisladas del resto del sistema operativo."
@@ -3071,11 +3075,12 @@ msgstr ""
 #: ../../update.rst:25
 msgid "AppCafe® does not require the *root* password to install software. This means that you do not have to give out the root password on multi-user systems. However, it will prompt for the user's password and will fail if that user is not a member of the *wheel* group. This allows you to control which users are able to manage software."
 msgstr ""
-"AppCafe® no requiere la contraseña de *root* para instalar software. Esto "
-"significa que usted no tiene que dar la contraseña de root en sistemas "
-"multiusuarios. De cualquier forma, le pedirá la contraseña de usuario y "
-"fallará si ese usuario no es miembro del grupo *wheel*. Esto le permite "
-"controlar qué usuarios son capaces de administrar software."
+"AppCafe® no requiere la contraseña de *Administrador* para instalar "
+"software. Esto significa que usted no tiene que dar la contraseña de "
+"administrador en sistemas multiusuarios. De cualquier forma, le pedirá la "
+"contraseña de usuario y fallará si ese usuario no es miembro del grupo "
+"*wheel*. Esto le permite controlar qué usuarios son capaces de administrar "
+"software."
 
 # 0a7e821ec8884f388ce14afd1d084ceb
 # d71cbad8936543c2984f94ad80691288
@@ -3289,7 +3294,7 @@ msgstr ""
 #: ../../update.rst:31
 msgid "If you prefer to manage software from the command line, refer to the section on :ref:`Using the CLI pkg Utilities` . Refer to :ref:`Managing Jails from the CLI` for instructions on how to manage jails from the command line."
 msgstr ""
-"Si prefiere administrar software desde la línea de comandos, refiéreasa a la "
+"Si prefiere administrar software desde la línea de comandos, refiérase a la "
 "sección :ref:`Usando las Utilerías CLI pkg`."
 
 # 80dd1f1643544a7cb6125cd668ac9b96
@@ -3678,6 +3683,19 @@ msgstr "Configurando AppCafe®"
 #: ../../update.rst:40
 msgid "AppCafe® includes the ability to remotely manage software and jails from another system or mobile device. During the installation of a TrueOS® server, the installer provides the ability to configure the user, password, and port number for accessing AppCafe® from any device with a web browser. On a desktop installation, AppCafe® can be run as a local application and optionally configured for remote access. To launch the AppCafe® application on a PC-BSD® desktop, double-click its icon on the Desktop, go to :menuselection:`Control Panel --> AppCafe®`, or type  :command:`appcafe` from a command prompt. When prompted, input your password. :numref:`Figure %s: Running AppCafe® from a Desktop <remote1c>` shows the initial AppCafe® screen when it is started from a desktop."
 msgstr ""
+"AppCafe® incluye la habilidad de administrar remótamente software y jaulas "
+"desde otro sistema o dispositivo móvil. Durante la instalación de un "
+"servidor TrueOS®, el instalador le proporciona la habilidad de configurar el "
+"usuario, contraseña, y número de puerto para accesar AppCafe® desde "
+"cualquier dispositivo con un navegador web. En una instalación de "
+"escritorio, AppCafe® puede ejecutarse como una aplicación local y "
+"opcionalmente configurarse para acceso remoto. Para lanzar la aplicación "
+"AppCafe® en un escritorio PC-BSD®, haga doble clic en su icono en el "
+"Escritorio, vaya a :menuselection:`Panel de Control --> AppCafe®`, o ingrese "
+":command:`appcafe` desde un indicador de comandos. Cuando se le pregunte, "
+"ingrese su contraseña. La :numref:`Figura %s: Ejecutando AppCafe® desde un "
+"Escritorio <remote1c>` muestra la pantalla inicial de AppCafe® cuando se "
+"inicia desde un escritorio."
 
 # 68b8c374fcef403085d19ec8233fe70f
 # 7875cbdc9dbb49da8dd58c1ad041a50b
@@ -4985,6 +5003,8 @@ msgstr "**Cerrar AppCafe:** usado para salir de esta aplicación."
 #: ../../update.rst:64
 msgid ":numref:`Figure %s: Configuring the AppCafe® Repository <remote2a>` shows the menu that appears if you click the \"Configure\" option."
 msgstr ""
+"La :numref:`Figura %s: Configurando el Repositorio de AppCafe® <remote2a>` "
+"muestra el menú que aparece si presiona en la opción \"Configuración\"."
 
 # c9b3bac930dc47a0b5445fff97fbdfa9
 # 10e01906e69c43279fe25ada6950f1be
@@ -5908,6 +5928,8 @@ msgstr ""
 #: ../../update.rst:82
 msgid "To configure remote access, use the \"Remote Access\" tab shown in :numref:`Figure %s: Configuring Remote Access <remote3>`."
 msgstr ""
+"Para configurar el acceso remoto, use la pestaña \"Acceso Remoto\" mostrada "
+"en la :numref:`Figura %s: Configurando el Acceso Remoto <remote3>`."
 
 # 3c7256c5db3a42bbb21bc5c81c9d04f2
 # 9a2939a32a0b4c2d979141b9ad415726

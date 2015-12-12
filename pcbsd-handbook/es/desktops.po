@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-11 08:12-0800\n"
-"PO-Revision-Date: 2015-12-11 19:55+0000\n"
+"POT-Creation-Date: 2015-12-11 12:12-0800\n"
+"PO-Revision-Date: 2015-12-11 20:25+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1449863712.000000\n"
+"X-POOTLE-MTIME: 1449865514.000000\n"
 
 # ee4352d4240f4fe2aa75739875f02ef7
 # 35c91d4fc3b048eaa2f82b6da3053ea4
@@ -21147,8 +21147,8 @@ msgstr ""
 ":numref:`Figura %s: IceWM en PC-BSD® <icewm1>` muestra una captura de "
 "pantalla de IceWM corriendo en PC-BSD®. En este ejemplo, el usuario ha "
 "lanzado el menú de \"Aplicación\" presionando en el botón \"BSD\" en la "
-"esquina inferior izquierda. Este menú también puede lanzarse presionando el "
-"botón derecho en cualquier parte del escritorio."
+"esquina inferior izquierda. Este menú también puede lanzarse haciendo clic "
+"derecho en cualquier parte del escritorio."
 
 # 2ea8b22af99f4fc4b5b107e83260bb5e
 # 846c4a4ae6fa4c1c8a5d0bd3a61d4271
@@ -53803,8 +53803,8 @@ msgstr ""
 "mínimo panel centrado en la parte baja, como se muestra en la :numref:`"
 "Figura %s: XFCE con un Panel Mínimo Usando la Configuración Predeterminada "
 "<xfce3>`. El menú del lanzador de aplicaciones puede ser accesado mediante "
-"el icono de bola de fuego en la barra superior, o presionando botón derecho "
-"en el escritorio."
+"el icono de bola de fuego en la barra superior, o haciendo clic derecho en "
+"el escritorio."
 
 # 4a8fe2f13af540a6822a531eb1c8bf98
 # 0912e5c2a363462490cc1edadd6987ba
@@ -54972,7 +54972,7 @@ msgstr ""
 "`Xfdesktop <http://docs.xfce.org/xfce/xfdesktop/start>`_: administrador de "
 "escritorio localizado en :menuselection:`Configuraciones --> Escritorio`. "
 "Pone la imágen de tapíz, proporciona un menú de clic derecho para lanzar "
-"aplicaciones, y puede mostrar archivos (incluyendo lanzadores de apliación) "
+"aplicaciones, y puede mostrar archivos (incluyendo lanzadores de aplicación) "
 "o ventanas iconificadas."
 
 # 429da0a744cf4ed3806c38a9c16fff29
