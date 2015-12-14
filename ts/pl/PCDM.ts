@@ -88,11 +88,11 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Refresh available users</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież listę użytkowników</translation>
     </message>
 </context>
 <context>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Refresh PCDM</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież PCDM</translation>
     </message>
 </context>
 <context>

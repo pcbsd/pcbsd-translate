@@ -285,43 +285,43 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrypt konfiguracyjny instalacji PC-BSD</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzie zarządzania dyskami</translation>
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd odczytu /tmp/pc-sys/</translation>
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulowano instalację skryptu konfiguracyjnego</translation>
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę wybrać odpowiedni rodzaj instalacji do wykonania</translation>
     </message>
     <message>
         <source>Graphical desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Środowisko graficzne</translation>
     </message>
     <message>
         <source>PC-BSD (Graphical desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD (interfejs graficzny)</translation>
     </message>
     <message>
         <source>Best for servers and headless systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Doskonała opcja dla serwerów i systemów typu headless</translation>
     </message>
     <message>
         <source>TrueOS (Console based server)</source>
-        <translation type="unfinished"></translation>
+        <translation>TrueOS (serwer ze środowiskiem tekstowym)</translation>
     </message>
     <message>
         <source>Restore from an existing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywróć z istniejącej kopi zapasowej</translation>
     </message>
 </context>
 <context>
@@ -702,7 +702,7 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>Add additional disks to zpool</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj disk do zpool</translation>
     </message>
     <message>
         <source>stripe</source>
@@ -722,7 +722,7 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>Use GRUB bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj programu rozruchowego GRUB</translation>
     </message>
 </context>
 <context>
@@ -821,11 +821,11 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalować AppCafe? Pozwoli to na zarządzanie paczkami i więzieniami z poziomu przeglądarki internetowej lub urządzenia mobilnego.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstaluj AppCafe</translation>
     </message>
 </context>
 <context>
