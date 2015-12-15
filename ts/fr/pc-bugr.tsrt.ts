@@ -63,189 +63,189 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished">2. Envoyer un mail à la liste de diffusion de test xorg. Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
+        <translation>2. Envoyer un courriel à la liste de diffusion des essais xorg. Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est propre à FreeBSD s'il vous plaît signaler bug à freebsd-x11 maillist</translation>
+        <translation>3. Si vous pensez que ce problème est propre à FreeBSD veuillez rapporter un bug à la liste de diffusion freebsd-x11</translation>
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation type="unfinished">4 Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation>4. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished">S'il vous plaît sélectionner quel environnement de bureau provoque le problème:</translation>
+        <translation>Veuillez sélectionner l'environnement de bureau qui provoque le problème :</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished">Nouvel Article</translation>
+        <translation>Nouvel Élément</translation>
     </message>
     <message>
         <source>Gnome</source>
-        <translation type="unfinished">Gnome</translation>
+        <translation>Gnome</translation>
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation type="unfinished">1. Envoyer un e-mail à la liste de courrier freebsd-gnome</translation>
+        <translation>1. Envoyer un courriel à la liste de diffusion freebsd-gnome</translation>
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished">2 Créer un billet sur ​​le PC-BSD bug tracker.</translation>
+        <translation>2 Créer un ticket sur ​​le bug tracker PC-BSD.</translation>
     </message>
     <message>
         <source>KDE</source>
-        <translation type="unfinished">KDE</translation>
+        <translation>KDE</translation>
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue pour le bug tracker de KDE</translation>
+        <translation>1. Soumettre un rapport de bug sur le bug tracker KDE</translation>
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est propre à FreeBSD s'il vous plaît rapporter à la liste de diffusion kde-freebsd</translation>
+        <translation>2. Si vous pensez que ce problème est propre à FreeBSD veuillez rapporter à la liste de diffusion kde-freebsd</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation>3. Si vous pensez que ce problème est propre à PC-BSD, veuillez créer un ticket sur ​​le bug tracker PC-BSD.</translation>
     </message>
     <message>
         <source>XFCE</source>
-        <translation type="unfinished">XFCE</translation>
+        <translation>XFCE</translation>
     </message>
     <message>
         <source>1. You can report a bug to XFCE bugzilla site</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bug à XFCE site bugzilla</translation>
+        <translation>1. Vous pouvez signaler un bug sur le site bugzilla XFCE</translation>
     </message>
     <message>
         <source>LXDE</source>
-        <translation type="unfinished">LXDE</translation>
+        <translation>LXDE</translation>
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bogue à l'LXDE bugs sur SourceForge</translation>
+        <translation>1. Vous pouvez rapporter un bug au bug tracker LXDE sur SourceForge</translation>
     </message>
     <message>
         <source>MATE</source>
-        <translation type="unfinished">MATE</translation>
+        <translation>MATE</translation>
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
-        <translation type="unfinished">1. Vous pouvez signaler un problème sur GitHub bugs liés à MATE composant</translation>
+        <translation>1. Vous pouvez rapporter un bug au bug tracker MATE GitHub relatif à MATE component</translation>
     </message>
     <message>
         <source>Cinnamon</source>
-        <translation type="unfinished">Cinnamon</translation>
+        <translation>Cinnamon</translation>
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bogue avec la cannelle bug tracker sur GitHub</translation>
+        <translation>1. Vous pouvez rapporter un bug en utilisant le bug tracker Cinnamon sur GitHub</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>
-        <translation type="unfinished">Environnement de bureau non pris en charge</translation>
+        <translation>Environnement de bureau non pris en charge</translation>
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished">1. Vous pouvez rapporter un bug à votre bug tracker / liste préférée de l'environnement de bureau</translation>
+        <translation>1. Vous pouvez rapporter un bug au bug tracker/ liste de diffusion de votre environnement de bureau préféré</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
-        <translation type="unfinished">Logiciel FreeBSD</translation>
+        <translation>Logiciel FreeBSD</translation>
     </message>
     <message>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation type="unfinished">1. Vous pouvez signaler des problèmes à freebsd-ports-bugs liste de diffusion</translation>
+        <translation>1. Vous pouvez rapporter les problèmes aux listes de diffusion freebsd-ports-bugs</translation>
     </message>
     <message>
         <source>PBI software</source>
-        <translation type="unfinished">Logiciel PBI</translation>
+        <translation>Logiciel PBI</translation>
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished">S'il vous plaît sélectionner le logiciel PBI avec bug</translation>
+        <translation>Veuillez sélectionner le logiciel PBI buggé</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">Icône</translation>
+        <translation>Icône</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished">Application</translation>
+        <translation>Application</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
-        <translation type="unfinished">1. Vous pouvez essayer de rapporter un bug sur le site du logiciel</translation>
+        <translation>1. Vous pouvez tenter de rapporter un bug sur le site du logiciel</translation>
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est spécifique à PC-BSD s'il vous plaît rapport à la pcbsd pbi-bugs liste de diffusion</translation>
+        <translation>2. Si vous pensez que ce problème est propre à PC-BSD veuillez rapporter à la liste de diffusion pbi-bugs de PCBSD</translation>
     </message>
     <message>
         <source>PBI software: </source>
-        <translation type="unfinished">Logiciel PBI</translation>
+        <translation>Logiciel PBI : </translation>
     </message>
     <message>
         <source>Not listed here?</source>
-        <translation type="unfinished">Non classé ici?</translation>
+        <translation>Non listé ici?</translation>
     </message>
 </context>
 <context>
     <name>ShowInfoDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copier au presse-papiers</translation>
+        <translation>Copier dans le presse-papier</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>Toolbox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Forme</translation>
     </message>
     <message>
         <source>Toolbox</source>
-        <translation type="unfinished">Boite à Outils</translation>
+        <translation>Boite à outils</translation>
     </message>
     <message>
         <source>Take screenshot</source>
-        <translation type="unfinished">Prenez une capture d'écran</translation>
+        <translation>Prendre une capture d'écran</translation>
     </message>
     <message>
         <source>dmesg output</source>
-        <translation type="unfinished">dmesg sortie</translation>
+        <translation>sortie dmesg</translation>
     </message>
     <message>
         <source>Xorg log</source>
-        <translation type="unfinished">Xorg log</translation>
+        <translation>Log Xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
-        <translation type="unfinished">Rapport de Diagnostic</translation>
+        <translation>Rapport de Diagnostic</translation>
     </message>
     <message>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished">PCBSD rapport de diagnostic</translation>
+        <translation>Rapport de diagnostic PCBSD</translation>
     </message>
     <message>
         <source>lsusb output</source>
-        <translation type="unfinished">Isusb sortie</translation>
+        <translation>Sortie Isusb</translation>
     </message>
     <message>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished">Liste des périphériques PCI - PCIConf</translation>
+        <translation>Liste des périphériques PCI - PCIConf</translation>
     </message>
     <message>
         <source>Xorg version</source>

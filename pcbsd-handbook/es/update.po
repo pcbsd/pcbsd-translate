@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-15 04:13-0800\n"
-"PO-Revision-Date: 2015-12-12 20:42+0000\n"
+"POT-Creation-Date: 2015-12-15 08:13-0800\n"
+"PO-Revision-Date: 2015-12-15 17:54+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1450202086.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -6728,6 +6732,16 @@ msgstr ""
 #: ../../update.rst:101
 msgid "The :file:`/usr/local/etc/appcafe.conf` file stores the configuration used by AppCafe® and can be edited in a text editor. By default, the \"remote\", \"port\", and \"ssl\" options are set using the information you provided either during a server installation or using the screen shown in :numref:`Figure %s: Configuring Remote Access <remote3>`. The \"mode\" option is not set by default, but can be configured by removing the comment symbol (\";\") from that option and setting its value to either \"desktop\", \"server\", or \"appliance\". Here are the descriptions of the available modes as listed in that file::"
 msgstr ""
+"El archivo :file:`/usr/local/etc/appcafe.conf` guarda la configuración usada "
+"por AppCafe® y puede ser editado en un editori de texto. Por defecto, las "
+"opciones \"remoto\", \"puerto\", y \"ssl\" se establecen usando la "
+"información que usted proporcionó durante la instalación del servidor o "
+"usando la pantalla mostrada en la :numref:`Figura %s: Configurando el Acceso "
+"Remoto <remote3>`. La opción \"modo\" no se establece por defecto, pero se "
+"puede configurar removiendo el símbolo de comentario (\";\") de esa opción y "
+"estableciendo el valor ya sea a \"escritorio\", \"servidor\", o \"appliance\""
+". Enseguida se muestran las descripciones de los modos disponibles como se "
+"listan en ese archivo:"
 
 # c9332175bdb74a2993e4abb93df2ddc5
 # 786a151141874696b459a34ef58e5d75
@@ -7715,6 +7729,17 @@ msgstr "Administración de Software"
 #: ../../update.rst:124
 msgid "The \"Home\" tab, seen in :numref:`Figure %s: Running AppCafe® from a Desktop <remote1c>`, is used to browse for available PBIs. Applications which are already installed and which are not required by other applications have a red \"X\". If you click a red \"X\", a pop-up message will ask if you would like to uninstall that application. Applications which are not installed have a grey download icon. Click the icon to install that application. Applications which are required by other applications will not display an icon. If you click on that application, a yellow \"Required\" triangle will be displayed and a \"Related\" tab will indicate the name of the application(s) which require it."
 msgstr ""
+"La pestaña \"Home\", mostrada en la :numref:`Figura %s: Corriendo AppCafe® "
+"desde un Escritorio <remote1c>`, se usa para buscar PBIs disponibles. Las "
+"aplicaciones que ya están instaladas y las que no se requieren por otras "
+"aplicaciones tienen una \"X\" roja. Si pesiona una \"X\" roja, un mensaje "
+"emergente le preguntará si quiere desinstalar dicha aplicación. Las "
+"aplicaciones que no están instaladas tienen un icono de descarga gris. "
+"Presione el icono para instalar esa aplicación. Las aplicaciones que son "
+"requeridas por otras aplicaciones no desplegarán ningún icono. Si presiona "
+"en dicha aplicación, se desplegará un triángulo amarillo de \"Requerido\" y "
+"una pestaña de \"Relacionados\" le indicará el nombre de la aplicación o "
+"aplicaciones que la requieren."
 
 # b1524dcd5cea4ae08a15d1c75659e99b
 # 55c2063589604a588bce91f74c5fbad6
@@ -8388,6 +8413,9 @@ msgstr ""
 #: ../../update.rst:138
 msgid "In the example shown in :numref:`Figure %s: Viewing the Details of an Installed Application <remote4b>`, the user has clicked \"Firefox\" on a system that has Firefox installed."
 msgstr ""
+"En el ejemplo mostrado en la :numref:`Figura %s: Viendo los Detalles de una "
+"Aplicación Instalada <remote4b>`, el usuario ha presionado \"Firefox\" en un "
+"sistema que tiene Firefox instalado."
 
 # e7c394ee9a2c4d29bf8df58babfcc503
 # 2798d7ec67094a4e9759d4bf93df76ab
@@ -14511,6 +14539,8 @@ msgstr ""
 #: ../../update.rst:181
 msgid "The \"App Search\" tab is shown in :numref:`Figure %s: Searching for Applications <remote5b>`."
 msgstr ""
+"La pestaña \"Búsqueda de Aplicaciones\" se muestra en la :numref:`Figura %s: "
+"Buscando Aplicaciones <remote5b>`."
 
 # 051c183ddf8846218ca1151f53b0da64
 # 7e61afa2aa4e499a94a0d3e9ff888fc8
@@ -15088,6 +15118,11 @@ msgstr ""
 #: ../../update.rst:192
 msgid "If you install or uninstall any software, a \"Status\" tab will be added. In the example shown in :numref:`Figure %s: Example Status Tab <appcafe6>`, the firefox application was installed. Click the hyperlink under the \"Result\" column to review the installation log."
 msgstr ""
+"Si usted instala o desinstala cualquier software, una pestaña de \"Estado\" "
+"se añadirá. En el ejemplo mostrado en la :numref:`Figura %s:Pestaña de "
+"Ejemplo: Estado <appcafe6>`, la aplicación firefox fue instalada. Presione "
+"el enlace bajo la columna \"Resultado\" para revisar el log de la "
+"instalación."
 
 # c64a1bdc7b9248bf98721254372f113b
 # 04ce015ae56243a2a4df79dba5b2481c
@@ -16692,6 +16727,9 @@ msgstr ""
 #: ../../update.rst:226
 msgid "The first time you use plugins, the \"Configuration\" tab shown in :numref:`Figure %s: Initial Plugins Configuration <remote6c>` will prompt you to configure the range of IP addresses on your network that you will reserve for plugins."
 msgstr ""
+"La primera vez que use plugins, la pestaña \"Configuración\" mostrada en la "
+":numref:`Figura %s: Configuración Inicial de Plugins <remote6c>` le pedirá "
+"configurar el rango de direcciones IP de su red que reservará para plugins."
 
 # 3432c119d5a0468b84bbfc2d85447be0
 # 494ee5d78e894b0091d56899045c4618
