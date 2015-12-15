@@ -885,16 +885,16 @@ in a different location that can later be imported with &quot;zpool import
 -c&quot;.  Setting it to the special value &quot;none&quot; creates a temporary pool
 that is never cached, and the special value &apos;&apos; (empty string) uses
 the default location.</source>
-        <translation type="unfinished">Contrôles l&apos;emplacement où la configuration du pool est mise en cache.
+        <translation>Contrôles l&apos;emplacement où la configuration du pool est mise en cache.
 Découvrir tous les pools au démarrage nécessite une copie en cache des
 données de configuration qui sont stockées sur le système de fichier racine. Toutes les pools
-dans ce cache sont importés automatiquement lorsque le système démarre. Certains
+dans ce cache sont importées automatiquement lorsque le système démarre. Certains
 environnements, tels que l&apos;installation et le clustering, doivent mettre en cache
 cette information dans un emplacement différent de sorte que les pools ne sont pas automatiquement
-importées. Paramétrer de cette propriété met en cache de la configuration du pool
-dans un autre endroit qui peut ensuite être importé avec &quot;zpool import-c&quot;.
+importées. Paramétrer cette propriété met en cache la configuration du pool
+dans un autre endroit qui peut ensuite être importé avec &quot;zpool import -c&quot;.
 Paramétrer à la valeur spéciale &quot;none&quot; crée un pool temporaire
-qui n&apos;est jamais mis en cache, et la valeur spéciale&apos;&apos; (chaîne vide) utilise
+qui n&apos;est jamais mis en cache, et la valeur spéciale &apos;&apos; (chaîne vide) utilise
 l&apos;emplacement par défaut.</translation>
     </message>
     <message>
@@ -914,30 +914,30 @@ panic
 Prints out a message to the console and generates a system
 crash dump.
 </source>
-        <translation type="unfinished">Contrôle le comportement du système en cas de défaillance catastrophique de Jail
-Cette condition est en général le résultat d&apos;une perte de connectivité
-au dispositif (s) de stockage sous-jacent ou d&apos;un échec de tous les appareils
-à l&apos;intérieur du Jail/n. Le comportement d&apos;un tel événement est déterminée comme suit:
+        <translation>Contrôle le comportement du système en cas de défaillance de pool catastrophique
+Cette condition est typiquement le résultat d&apos;une perte de connectivité
+du périphérique(s) de stockage sous-jacent ou d&apos;une défaillance de tous les périphériques
+à l&apos;intérieur du pool/n. Le comportement lors d&apos;un tel événement est déterminée comme suit:
 attendre
-Bloque tout accès d&apos;E/S jusqu&apos;à ce que la connectivité de l&apos;appareil est récupéré
-et les erreurs sont effacées. C&apos;est le comportement par défaut
+Bloque tout accès d&apos;I/O jusqu&apos;à ce que la connectivité du périphérique soit récupéré
+et que les erreurs soient effacées. C&apos;est le comportement par défaut
 continuer
-Retourne EIO à toute nouvelle écriture de requêtes d&apos;E/S, mais permet lit
-l&apos;un des dispositifs restants sains. Toute requête d&apos;écriture que
-n&apos;ont pas encore été commis sur le disque serait bloqué.
+Retourne EIO à toute nouvelle requêtes d&apos;I/O en écriture , mais permet la lecture
+des périphériques sains restants. Toute requête d&apos;écriture qui
+doit encore être réalisé sur le disque est bloqué.
 
 panique
-Affiche un message dans la console et qui génère un système
-vidage sur incident.
+Affiche un message dans la console et génère un crash
+dump système.
 </translation>
     </message>
     <message>
         <source>Controls whether information about snapshots associated with this
 pool is output when &quot;zfs list&quot; is run without the -t option. The
 default value is off.</source>
-        <translation type="unfinished">Détermine si les informations sur les instantanés associés à ce
-pool est émit lorsque  &quot;zfs list&quot; est exécuté sans l&apos;option-t. La
-valeur par défaut est off.    </translation>
+        <translation>Détermine si les informations sur les instantanés associés à ce
+pool est émit lorsque &quot;zfs list&quot; est exécuté sans l&apos;option-t. La
+valeur par défaut est off.</translation>
     </message>
     <message>
         <source>Controls automatic pool expansion when the underlying LUN is grown.
@@ -947,23 +947,23 @@ devices within that mirror/raidz group must be expanded before the
 new space is made available to the pool. The default behavior is
 &quot;off&quot;.  This property can also be referred to by its shortened column
 name, expand.</source>
-        <translation type="unfinished">Contrôle d&apos;extension de pool automatique lorsque le LUN sous-jacente est cultivé.
-S&apos;il est réglé sur &quot;on&quot;, le pool sera redimensionné selon la taille de la 
-dispositif élargi. Si l&apos;appareil fait partie d&apos;un miroir ou raidz puis tous
-dispositifs à l&apos;intérieur de ce groupe miroir / raidz doivent être élargis avant le
-nouvel espace est rendu disponible dans la piscine. Le comportement par défaut est
-&quot;off&quot;. Cette propriété peut également être désigné par sa colonne raccourci
-nommer, développez.</translation>
+        <translation>Contrôle l&apos;extension de pool automatique lorsque le LUN sous-jacent est augmenté.
+S&apos;il est paramétré sur &quot;on&quot;, le pool sera redimensionné selon la taille du
+périphérique augmenté. Si l&apos;appareil fait partie d&apos;un miroir ou raidz alors tous
+les périphériques contenus dans ce groupe miroir/raidz doivent être augmentés pour que le
+nouvel espace étendu soit disponible dans le pool. Le comportement par défaut est
+&quot;off&quot;. Cette propriété peut également être atteinte par son nom de colonne raccourci
+, étendre.</translation>
     </message>
     <message>
         <source>Threshold for the number of block ditto copies. If the reference
 count for a deduplicated block increases above this number, a new
 ditto copy of this block is automatically stored. Default setting is
 0.</source>
-        <translation type="unfinished">Seuil pour le nombre de blocs idem copies. Si la référence
-comptent pour dédupliquées bloc augmente au-dessus de ce nombre, un nouveau
-idem copie de ce bloc est automatiquement mémorisé. Le réglage par défaut est
-0.       </translation>
+        <translation>Seuil pour le nombre de copies de blocs identiques. Si le solde de référence
+pour un bloc dé-dupliqué augmente au-dessus de ce nombre, une nouvelle
+copie de bloc identique est automatiquement stockée. Le réglage par défaut est
+0.</translation>
     </message>
     <message>
         <source>The deduplication ratio specified for a pool, expressed as a multiplier. For
@@ -977,11 +977,11 @@ de la fonction de dé-duplication.</translation>
     </message>
     <message>
         <source>Number of blocks within the pool that are not allocated.</source>
-        <translation type="unfinished">Nombre de blocs dans le pool qui ne sont pas affectés.</translation>
+        <translation>Nombre de blocs dans le pool non alloués.</translation>
     </message>
     <message>
         <source>Amount of storage space within the pool that has been physically allocated.</source>
-        <translation type="unfinished">Quantité d&apos;espace de stockage dans le pool qui a été alloué physiquement.</translation>
+        <translation>Quantité d&apos;espace de stockage dans le pool qui a été alloué physiquement.</translation>
     </message>
     <message>
         <source>If set to on, pool will be imported in read-only mode with the
@@ -992,176 +992,176 @@ following restrictions:
   *   To write to a read-only pool, a export and import of the pool
       is required.
 </source>
-        <translation type="unfinished">Si réglé sur, le pool sera importé en mode lecture seule avec le
+        <translation>Si paramétré sur on, le pool sera importé en mode lecture seule avec les
 restrictions suivantes:
-* Données synchrones dans le journal d&apos;intention ne seront pas accessibles
-* Propriétés des pools ne peuvent être modifiés
-* Les ensembles de données de ce pool ne peuvent être montés en lecture seule
-* Pour écrire en lecture seule ce pool, une exportation et l&apos;importation de ce pool
-est nécessaire.
+  *   Les données synchrones dans l&apos;intent log ne seront pas accessibles
+  *   Les propriétés du pool ne peuvent pas être modifiées
+  *   Les jeux de données de ce pool ne peuvent être montés qu&apos;en lecture seule
+  *   Pour écrire sur un pool en lecture seule, une exportation et importation du pool
+      est requise.
 </translation>
     </message>
     <message>
         <source>An arbitrary comment string set by the administrator.</source>
-        <translation type="unfinished">Une chaîne de commentaire arbitraire défini par l&apos;administrateur.</translation>
+        <translation>Une chaîne de commentaire arbitraire défini par l&apos;administrateur.</translation>
     </message>
     <message>
         <source>This property has currently no value on FreeBSD.</source>
-        <translation type="unfinished">Cette propriété a actuellement aucune valeur sur FreeBSD</translation>
+        <translation>Cette propriété n&apos;a actuellement aucune valeur sur FreeBSD.</translation>
     </message>
 </context>
 <context>
     <name>DialogfsCreate</name>
     <message>
         <source>New Filesystem</source>
-        <translation type="unfinished">Nouveau système de fichiers</translation>
+        <translation>Nouveau Système de fichiers</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Nom:</translation>
+        <translation>Nom :</translation>
     </message>
     <message>
         <source>Properties override at creation time:</source>
-        <translation type="unfinished">Propriétés du remplacement au moment de la création:</translation>
+        <translation>Propriétés passée outre lors de la création :</translation>
     </message>
     <message>
         <source>Prevent auto mount (canmount=noauto)</source>
-        <translation type="unfinished">Empêcher le montage automatique (canmount = noauto)</translation>
+        <translation>Empêcher le montage automatique (canmount=noauto)</translation>
     </message>
     <message>
         <source>Mountpoint</source>
-        <translation type="unfinished">Point de montage</translation>
+        <translation>Point de montage</translation>
     </message>
     <message>
         <source>none</source>
-        <translation type="unfinished">Aucun</translation>
+        <translation>aucun</translation>
     </message>
     <message>
         <source>legacy</source>
-        <translation type="unfinished">héritage</translation>
+        <translation>héritage</translation>
     </message>
     <message>
         <source>[path]</source>
-        <translation type="unfinished">[chemin]</translation>
+        <translation>[chemin]</translation>
     </message>
     <message>
         <source>Force UTF-8 only (utf8only=on)</source>
-        <translation type="unfinished">Force UTF-8 seulement (utf8only=on)</translation>
+        <translation>Force UTF-8 seulement (utf8only=on)</translation>
     </message>
     <message>
         <source>Unicode normalization =</source>
-        <translation type="unfinished">Unicode normalization =</translation>
+        <translation>Normalisation Unicode =</translation>
     </message>
     <message>
         <source>formD</source>
-        <translation type="unfinished">formD</translation>
+        <translation>formD</translation>
     </message>
     <message>
         <source>formKCF</source>
-        <translation type="unfinished">formKCF</translation>
+        <translation>formKCF</translation>
     </message>
     <message>
         <source>Copies =</source>
-        <translation type="unfinished">Copies =</translation>
+        <translation>Copies =</translation>
     </message>
     <message>
         <source>Deduplication (dedup=on)</source>
-        <translation type="unfinished">Dé duplication (dedup = on)</translation>
+        <translation>Dé-duplication (dedup = on)</translation>
     </message>
     <message>
         <source>Compression =</source>
-        <translation type="unfinished">Compression =</translation>
+        <translation>Compression =</translation>
     </message>
     <message>
         <source>off</source>
-        <translation type="unfinished">off</translation>
+        <translation>off</translation>
     </message>
     <message>
         <source>on</source>
-        <translation type="unfinished">on</translation>
+        <translation>on</translation>
     </message>
     <message>
         <source>lzjb</source>
-        <translation type="unfinished">lzjb</translation>
+        <translation>lzjb</translation>
     </message>
     <message>
         <source>zle</source>
-        <translation type="unfinished">zle</translation>
+        <translation>zle</translation>
     </message>
     <message>
         <source>gzip</source>
-        <translation type="unfinished">gzip</translation>
+        <translation>gzip</translation>
     </message>
     <message>
         <source>gzip-1</source>
-        <translation type="unfinished">gzip-1</translation>
+        <translation>gzip-1</translation>
     </message>
     <message>
         <source>gzip-2</source>
-        <translation type="unfinished">gzip-2</translation>
+        <translation>gzip-2</translation>
     </message>
     <message>
         <source>gzip-3</source>
-        <translation type="unfinished">gzip-3</translation>
+        <translation>gzip-3</translation>
     </message>
     <message>
         <source>gzip-4</source>
-        <translation type="unfinished">gzip-4 </translation>
+        <translation>gzip-4 </translation>
     </message>
     <message>
         <source>gzip-5</source>
-        <translation type="unfinished">gzip-5</translation>
+        <translation>gzip-5</translation>
     </message>
     <message>
         <source>gzip-6</source>
-        <translation type="unfinished">gzip-6</translation>
+        <translation>gzip-6</translation>
     </message>
     <message>
         <source>gzip-7</source>
-        <translation type="unfinished">gzip-7</translation>
+        <translation>gzip-7</translation>
     </message>
     <message>
         <source>gzip-8</source>
-        <translation type="unfinished">gzip-8</translation>
+        <translation>gzip-8</translation>
     </message>
     <message>
         <source>gzip-9</source>
-        <translation type="unfinished">gzip-9</translation>
+        <translation>gzip-9</translation>
     </message>
     <message>
         <source>lz4</source>
-        <translation type="unfinished"></translation>
+        <translation>lz4</translation>
     </message>
 </context>
 <context>
     <name>ZManagerWindow</name>
     <message>
         <source>PCBSD Disk Manager</source>
-        <translation type="unfinished">PCBSD Gestionnaire de disque</translation>
+        <translation>Gestionnaire de disque PCBSD</translation>
     </message>
     <message>
         <source>Disks</source>
-        <translation type="unfinished">Disques</translation>
+        <translation>Disques</translation>
     </message>
     <message>
         <source>Device</source>
-        <translation type="unfinished">Périphériques</translation>
+        <translation>Périphériques</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished">État</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>ZFS Pools</source>
-        <translation type="unfinished">ZFS Pools</translation>
+        <translation>Pools ZFS</translation>
     </message>
     <message>
         <source>Pool Name</source>
-        <translation type="unfinished">Nom du Pool</translation>
+        <translation>Nom du Pool</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Statut:  </translation>
+        <translation>Statut :</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -1173,11 +1173,11 @@ est nécessaire.
     </message>
     <message>
         <source>poolname</source>
-        <translation type="unfinished">poolnom   </translation>
+        <translation>nom de pool</translation>
     </message>
     <message>
         <source>ZFS Filesystems</source>
-        <translation type="unfinished">ZFS Système de fichier</translation>
+        <translation>Systèmes de fichier ZFS</translation>
     </message>
     <message>
         <source>Filesystems</source>
@@ -1249,15 +1249,15 @@ est nécessaire.
     </message>
     <message>
         <source>Online</source>
-        <translation type="unfinished">En Ligne</translation>
+        <translation>En Ligne</translation>
     </message>
     <message>
         <source>Degraded</source>
-        <translation type="unfinished">Dégradé</translation>
+        <translation>Dégradé</translation>
     </message>
     <message>
         <source>Faulted</source>
-        <translation type="unfinished">Défaillant</translation>
+        <translation>Défaillant</translation>
     </message>
     <message>
         <source>Removed</source>
@@ -1297,31 +1297,31 @@ est nécessaire.
     </message>
     <message>
         <source>Add spare devices...</source>
-        <translation type="unfinished">Ajouter des périphériques de rechange...</translation>
+        <translation>Ajouter des périphériques de rechange...</translation>
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished">Scrub</translation>
+        <translation>Scrub</translation>
     </message>
     <message>
         <source>Export pool</source>
-        <translation type="unfinished">Exporter un pool</translation>
+        <translation>Exporter le pool</translation>
     </message>
     <message>
         <source>Import pool</source>
-        <translation type="unfinished">Importer un pool</translation>
+        <translation>Importer un pool</translation>
     </message>
     <message>
         <source>Recover destroyed pool</source>
-        <translation type="unfinished">Récupérer un pool détruit</translation>
+        <translation>Restaurer un pool détruit</translation>
     </message>
     <message>
         <source>Properties...</source>
-        <translation type="unfinished">Propriétés...</translation>
+        <translation>Propriétés...</translation>
     </message>
     <message>
         <source>Attach (mirror) device...</source>
-        <translation type="unfinished">Fixez dispositif (miroir)...</translation>
+        <translation>Attacher un périphérique (miroir)...</translation>
     </message>
     <message>
         <source>Detach from mirror</source>
@@ -1361,41 +1361,41 @@ est nécessaire.
     </message>
     <message>
         <source>Create GPT partition table</source>
-        <translation type="unfinished">Créer une table de partition GPT</translation>
+        <translation>Créer une table de partition GPT</translation>
     </message>
     <message>
         <source>Create BSD partition table</source>
-        <translation type="unfinished">Créer une table de partition BSD</translation>
+        <translation>Créer une table de partition BSD</translation>
     </message>
     <message>
         <source>Delete Partition Table</source>
-        <translation type="unfinished">Supprimer la table de partition</translation>
+        <translation>Supprimer la table de partition</translation>
     </message>
     <message>
         <source>Add new slice</source>
-        <translation type="unfinished">Ajouter une nouvelle tranche</translation>
+        <translation>Ajouter un nouveau slice</translation>
     </message>
     <message>
         <source>Add new partition</source>
-        <translation type="unfinished">Ajouter une nouvelle partition</translation>
+        <translation>Ajouter une nouvelle partition</translation>
     </message>
     <message>
         <source>Destroy this slice</source>
-        <translation type="unfinished">Détruisez cette tranche</translation>
+        <translation>Détruire ce slice</translation>
     </message>
     <message>
         <source>Destroy this partition</source>
-        <translation type="unfinished">Détruisez cette partition</translation>
+        <translation>Détruire cette partition</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attention</translation>
+        <translation>Attention</translation>
     </message>
     <message>
         <source>This operation cannot be undone.
 OK to destroy the slice/partition?</source>
-        <translation type="unfinished">Cette opération ne peut être annulée.
-OK pour détruire la tranche / partition?</translation>
+        <translation>Cette opération ne peut pas être annulée.
+OK pour détruire le slice/partition?</translation>
     </message>
     <message>
         <source>An error was detected while executing &apos;%1&apos;:
@@ -1447,37 +1447,37 @@ OK pour détruire la tranche / partition?</translation>
     </message>
     <message>
         <source>Recover destroyed pool as...</source>
-        <translation type="unfinished">Récupérer le pool détruit en...</translation>
+        <translation>Restaurer le pool détruit comme...</translation>
     </message>
     <message>
         <source>Import pool as...</source>
-        <translation type="unfinished">Importer le pool comme...</translation>
+        <translation>Importer le pool comme...</translation>
     </message>
     <message>
         <source>This pool had been destroyed, and its disks may have been reused. Attempting to recover will destroy any new data that could&apos;ve been stored in the devices that were reused and cannot be recovered.
 Proceed with recovery?</source>
-        <translation type="unfinished">Ce pool a été détruite, et ses disques peut avoir été réutilisés. Tenter de le récupérer va détruire de nouvelles données qui pourraient avoir été stockée dans les dispositifs qui ont été réutilisés et ne peuvent pas être récupérés.
-Procéder au recouvrement?</translation>
+        <translation>Ce pool a été détruit, et ses disques peuvent avoir été réutilisés. Tenter de le récupérer détruira les nouvelles données qui pourraient avoir été stockée dans les périphériques qui ont été réutilisés et ne pourront plus être récupérés.
+Procéder à la restauration?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, it cannot be renamed.</source>
-        <translation type="unfinished">Le pool a été importé en mode lecture seule, elle ne peut pas être renommé.</translation>
+        <translation>Le pool a été importé en mode lecture seule, il ne peut pas être renommé.</translation>
     </message>
     <message>
         <source>Add more devices to zpool</source>
-        <translation type="unfinished">Ajouter plus d&apos;appareils à zpool  </translation>
+        <translation>Ajouter d&apos;autres périphériques à zpool</translation>
     </message>
     <message>
         <source>Add log devices to zpool</source>
-        <translation type="unfinished">Ajouter des périphériques de journal à zpool</translation>
+        <translation>Ajouter des log devices à zpool</translation>
     </message>
     <message>
         <source>Add cache devices to zpool</source>
-        <translation type="unfinished">Ajouter des périphériques de cache à zpool</translation>
+        <translation>Ajouter des cache devices à zpool</translation>
     </message>
     <message>
         <source>Add spare devices to zpool</source>
-        <translation type="unfinished">Ajouter des périphériques de rechange pour zpool</translation>
+        <translation>Ajouter des périphériques de rechange à zpool</translation>
     </message>
     <message>
         <source>[Mounted]</source>

@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="fr">
 <context>
     <name>MainWindow</name>
     <message>
         <source>PC-BSD bug reporting tool</source>
-        <translation type="unfinished">Outil de rapport de bogues PC-BSD</translation>
+        <translation>Outil de rapport de bug PC-BSD</translation>
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionnez le composant où l&apos;erreur se produit.</translation>
+        <translation>Veuillez sélectionnez le composant où l'erreur se produit.</translation>
     </message>
     <message>
         <source>FreeBSD base system</source>
-        <translation type="unfinished">FreeBSD système de base</translation>
+        <translation>Système de base FreeBSD</translation>
     </message>
     <message>
         <source>PC-BSD base system</source>
-        <translation type="unfinished">PC-BSD système de base</translation>
+        <translation>Système de base PC-BSD</translation>
     </message>
     <message>
         <source>Xorg server</source>
-        <translation type="unfinished">Xorg seveur</translation>
+        <translation>Serveur Xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished">Environnement Bureau</translation>
+        <translation>Environnement de bureau</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
@@ -33,33 +33,33 @@
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished">PC-BSD logiciels (pbi)</translation>
+        <translation>Logiciels PC-BSD (pbi)</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue en utilisant le mécanisme de Bugzilla de FreeBSD</translation>
+        <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
+        <translation>1. Soumettre un rapport de bug en utilisant le processus Bugzilla de FreeBSD</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Envoyer un email à la liste de bogues de diffusion FreeBSD. Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Envoyer un courriel à la liste de diffusion des bugs FreeBSD. Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using using PC-BSD&apos;s trac mechanism</source>
-        <translation type="unfinished">1.  Soumettre un rapport de bogue en utilisant le mécanisme de trac de PC-BSD</translation>
+        <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
+        <translation>1. Soumettre un rapport de bug en utilisant le processus trac de PC-BSD</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished">Si vous n&apos;êtes pas sûr que c&apos;est un bug, vous pouvez envoyer une demande à ce sujet sur ​​la liste des tests de PC-BSD.
-Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
+        <translation>Si vous n'êtes pas sûr que c'est un bug, vous pouvez interroger à ce sujet ​​la liste de diffusion des essais de PC-BSD.
+Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste.</translation>
     </message>
     <message>
         <source>X.org server</source>
-        <translation type="unfinished">Xorg serveur</translation>
+        <translation>serveur X.org</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue en utilisant le mécanisme de bugzilla de freedesktop</translation>
+        <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
+        <translation>1. Soumettre un rapport de bug en utilisant le processus bugzilla de freedesktop</translation>
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
@@ -67,15 +67,15 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est propre à FreeBSD s&apos;il vous plaît signaler bug à freebsd-x11 maillist</translation>
+        <translation type="unfinished">3. Si vous pensez que ce problème est propre à FreeBSD s'il vous plaît signaler bug à freebsd-x11 maillist</translation>
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation type="unfinished">4 Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s&apos;il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation type="unfinished">4 Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionner quel environnement de bureau provoque le problème:</translation>
+        <translation type="unfinished">S'il vous plaît sélectionner quel environnement de bureau provoque le problème:</translation>
     </message>
     <message>
         <source>New Item</source>
@@ -103,11 +103,11 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est propre à FreeBSD s&apos;il vous plaît rapporter à la liste de diffusion kde-freebsd</translation>
+        <translation type="unfinished">2. Si vous pensez que ce problème est propre à FreeBSD s'il vous plaît rapporter à la liste de diffusion kde-freebsd</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s&apos;il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation type="unfinished">3. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
     </message>
     <message>
         <source>XFCE</source>
@@ -123,7 +123,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bogue à l&apos;LXDE bugs sur SourceForge</translation>
+        <translation type="unfinished">1. Vous pouvez signaler un bogue à l'LXDE bugs sur SourceForge</translation>
     </message>
     <message>
         <source>MATE</source>
@@ -147,7 +147,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished">1. Vous pouvez rapporter un bug à votre bug tracker / liste préférée de l&apos;environnement de bureau</translation>
+        <translation type="unfinished">1. Vous pouvez rapporter un bug à votre bug tracker / liste préférée de l'environnement de bureau</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
@@ -163,7 +163,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionner le logiciel PBI avec bug</translation>
+        <translation type="unfinished">S'il vous plaît sélectionner le logiciel PBI avec bug</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -183,7 +183,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est spécifique à PC-BSD s&apos;il vous plaît rapport à la pcbsd pbi-bugs liste de diffusion</translation>
+        <translation type="unfinished">2. Si vous pensez que ce problème est spécifique à PC-BSD s'il vous plaît rapport à la pcbsd pbi-bugs liste de diffusion</translation>
     </message>
     <message>
         <source>PBI software: </source>
@@ -221,7 +221,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>Take screenshot</source>
-        <translation type="unfinished">Prenez une capture d&apos;écran</translation>
+        <translation type="unfinished">Prenez une capture d'écran</translation>
     </message>
     <message>
         <source>dmesg output</source>
