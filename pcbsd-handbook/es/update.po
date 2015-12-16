@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-15 12:13-0800\n"
-"PO-Revision-Date: 2015-12-15 17:54+0000\n"
+"POT-Creation-Date: 2015-12-15 16:13-0800\n"
+"PO-Revision-Date: 2015-12-16 02:22+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1450232538.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -17073,6 +17077,11 @@ msgstr ""
 #: ../../update.rst:241
 msgid "When finished, click \"Save\". This will open the \"Installed Plugins\" tab, showing the listing of available plugins. In the example shown in :numref:`Figure %s: List of Available Plugins <remote7a>`, the `Plex Media Server <https://plex.tv/>`_ plugin is available for installation."
 msgstr ""
+"Cuando termine, presione \"Guardar\". Esto abrirá la pestaña de \"Plugins "
+"Instalados\", mostrando la lista de plugins disponibles. En el ejemplo "
+"mostrado en la :numref:`Figura %s: Lista de Plugins Disponibles <remote7a>`, "
+"el plugin del `Servidor de Medios Plex <https://plex.tv/>`_ está disponible "
+"para su instalación."
 
 # 6190e9c62f3f485eb05fac0587c8451f
 # 6a3e92b0bf084c9cbd36a71ff2d2f806
@@ -17253,10 +17262,22 @@ msgstr ""
 #: ../../update.rst:251
 msgid "Click the plugin's install icon to begin the installation. Installation will take a few minutes as a new jail will be created, the jail will be assigned the next available reserved IP address, and the application will be installed into the jail. Once installed, a screen similar to :numref:`Figure %s: Plugin is Installed <plugin1>` will indicate that the plugin is installed."
 msgstr ""
+"Presione el icono de instalación del plugin para comenzar la instalación. La "
+"instalación tomará unos pocos minutos ya que se creará una jaula, a la cuál "
+"se le asignará la siguiente dirección IP reservada, y la aplicación se "
+"instalará dentro de la jaula. Una vez instalada, una pantalla similar a la "
+"de la numref:`Figura %s: El Plugin se ha Instalado <plugin1>` le indicará "
+"que el plugin se ha instalado."
 
 #: ../../update.rst:259
 msgid "The title bar will indicate the name of the application that was installed and the IP address assigned to the jail where the application was installed. To configure the application, click the hyperlink for the \"Plex Web Interface\" configuration icon. This will open the configuration screen shown in :numref:`Figure %s: Plugin Configuration <plugin2>`."
 msgstr ""
+"La barra de título le indicará el nombre de la aplicación que fue instalada "
+"y la dirección IP asignada a la jaula donde la aplicación fue instalada. "
+"Para configurar la aplicación, presione el vínculo del icono de "
+"configuración \"Interfaz Web de Plex\". Esto abrirá la pantalla de "
+"configuración mostrada en la :numref:`Figura %s: Configuración del Plugin "
+"<plugin2>`."
 
 # b7c6a2cc161f44bca11ed9439f3f8b7f
 # b6031cfaa01941e6a1d6ee71e1fd3cd3
@@ -24699,6 +24720,9 @@ msgstr ""
 #: ../../update.rst:478
 msgid "If you right-click the icon, you will see the menu shown in :numref:`Figure %s: Right-click Menu for Update Manager <update8a>`."
 msgstr ""
+"Si hace clic derecho en el icono, verá el menú mostrado en la :numref:`"
+"Figura %s: Menú de Clic Derecho del Administrador de Actualizaciones "
+"<update8a>`. "
 
 # 9e6792ab283c430bb6ba3971e83de22d
 # e6ee999274b848ba9bbea782efbdbc8a
@@ -30584,14 +30608,45 @@ msgstr ""
 #: ../../update.rst:526
 msgid "Once the update is complete, the new boot environment, or updated snapshot, is added as the first entry in the boot menu and activated so that the system will boot into it, unless you pause the boot menu and specify otherwise. A pop-up message, shown in :numref:`Figure %s: Managing the Reboot After Update <update9>`, will indicate that a reboot is required. You can either finish what you are doing and reboot now into the upgraded snapshot, or ask the system to remind you again at a later time. To configure the time of the next warning, click the \"Next Reminder\" drop-down menu where you can select 1, 5, 12, or 24 hours, 30 minutes, or never (for this login session). Note that the system will not apply any more updates or allow you to start another manual update or install additional software using AppCafe® until you reboot."
 msgstr ""
+"Una vez que la actualización se ha completado, el nuevo entorno de arranque, "
+"o snapshot actualizada, se añade como la primera entrada en el menú de "
+"arranque y se activa para que el sistema pueda arrancar en él, a menos que "
+"pause el menú de arranque y especifique otra cosa. Un mensaje emergente, "
+"mostrado en la :numref:`Figura %s: Administrando el Arranque Después de la "
+"Actualización <update9>`, le indicará que un reinicio es requerido. Usted "
+"puede terminar lo que estaba haciendo y reiniciar ahora dentro de la "
+"snapshot actualizada, o indicarle al sistema que le recuerde nuevamente en "
+"el futuro. Para configurar el tiempo de la siguiente advertencia, presione "
+"en el menú desplegable \"Siguiente Recordatorio\" donde puede elegir 1, 5, "
+"12, o 24 horas, 30 minutos, o nunca (para esta sesión). Note que el sistema "
+"no aplicará más actualizaciones ni le permitirá iniciar otra actualización "
+"manual ni instalar software adicionale usando AppCafe® hasta que reinicie."
 
 #: ../../update.rst:533
 msgid "As the update is running, a log is written to :file:`/var/log/pc-updatemanager.log` and this log is displayed in the \"View Log\" tab of the graphical Update Manager utility, shown in :numref:`Figure %s: Viewing the Update Log <update10a>`. This way you can see which software is being updated and if there are any updating errors. The next time an update occurs, the previous log is written to :file:`/var/log/pc-updatemanager.log.prev`, so that you also have a copy of the previous update's log."
 msgstr ""
+"Mientras la actualización está en proceso, el log se escribe en "
+":file:`/var/log/pc-updatemanager.log` y este log se muestra en la pestaña \""
+"Ver Log\" de la utilería gráfica Administrador de Actualizaciones, mostrada "
+"en la :numref:`Figura %s: Viendo el Log de la Actualización <update10a>`. De "
+"esta forma podrá ver qué software está siendo actualizado y si hay cualquier "
+"error en la actualización. La próxima vez que ocurra una actualización, el "
+"log previo se escribirá en :file:`/var/log/pc-updatemanager.log.prev`, para "
+"que pueda tener una copia del log de la actualización previa."
 
 #: ../../update.rst:537
 msgid "You no longer need to initiate updates manually. PC-BSD® now uses an automated updater that automatically checks for updates, no more than once per day, 20 minutes after a reboot and then every 24 hours. You can configure what gets updated using the \"Configure Automatic Updates\" tab of Update Manager, shown in :numref:`Figure %s: Configuring What to Update <update11a>`. Choices are \"Security & Packages\" (all updates), \"Security\" (only security patches and operating system updates), \"Packages\" (only installed software), or \"Nothing\" (disables automatic updating)."
 msgstr ""
+"Usted ya no tiene que iniciar actualizaciones manualmente. PC-BSD® ahora usa "
+"un actualizador automatizado que checa automáticamente por actualizacions, "
+"no más de una vez al día, 20 minutos después de un reinicio y después cada "
+"24 horas. Usted puede configurar que se actualizará usando la pestaña \""
+"Configurar Actualizaciones Automáticas\" del Administrador de "
+"Actualizaciones, mostrado en la :numref:`Figura %s: Configurando Qué "
+"Actualizar <update11a>`. Las opciones son \"Seguridad y Paquetes\" (todas "
+"las actualizaciones), \"Seguridad\" (solo parches de seguridad y "
+"actualizaciones del sistema operativo), \"Paquetes\" (solo software "
+"instalado), o \"Nada\" (deshabilita las actualizaciones automáticas)."
 
 # 469ea4bf170640999feeaa9fbc1b6684
 # b231a6c181054f07bcf42b30e995febc
@@ -30987,10 +31042,27 @@ msgstr ""
 #: ../../update.rst:556
 msgid "**Vulnerabilities:** click this entry to determine if any of the installed software has a known, unpatched vulnerability. In the example shown in :numref:`Figure %s: Viewing Installed Software Vulnerability Information <update14>`, two installed packages have known vulnerabilities. If you highlight an entry and click the \"More info...\" button, the default web browser will open to a page that provides more details about the vulnerability."
 msgstr ""
+"**Vulnerabilidades:** presione esta entrada para determinar si cualquiera "
+"del software instalado tiene vulnerabilidades conocidas o sin parchar. En el "
+"ejemplo mostrado en la :numref:`Figura %s: Viendo la Información de "
+"Vulnerabilidades del Software Instalado <update14>`, dos paquetes instalados "
+"tienen vulnerabilidades conocidas. Si selecciona una entrada y presiona el "
+"botón \"Más información...\", el navegador web predeterminado se abrirá en "
+"una página que proporciona más detalles acerca de la vulnerabilidad."
 
 #: ../../update.rst:560
 msgid "**Base updates history:** the \"Version\" field in :ref:`About` usually includes a patch number which indicates the level to which the operating system has been patched against known vulnerabilities. If you click this entry, it will provide an overview of which vulnerabilities were addressed at each patch level. In the example shown in :numref:`Figure %s: Viewing Operating System Patches <update15>`, the system is running \"10.1-RELEASE-p20, or patch level 20. Most patch levels have an associated Security Advisory (SA). More information about each advisory is available from the `FreeBSD Security Advisories page <https://www.freebsd.org/security/advisories.html>`_."
 msgstr ""
+"**Historial de actualizaciones base:** el campo \"Versión\" en :ref:`About` "
+"casi siempre incluye un número de parche que indica el nivel al que el "
+"sistema operativo ha sido parchado contra vulnerabilidades conocidas. Si "
+"presiona en esta entrada, se le proveerá un resumen de qué vulnerabilidades "
+"fueron tratadas en cada nivel del parche. En el ejemplo mostrado en la "
+":numref:`Figura %s: Viendo los Parches al Sistema Operativo <update15>`, el "
+"sistema está corriendo \"10.1-RELEASE-p20\" o nivel de parche 20. La mayoría "
+"de los niveles de parche tienen asocuado un Aviso de Seguridad (SA). Más "
+"información sobre cada aviso está disponible en la `Página de Avisos de "
+"Seguridad de FreeBSD <https://www.freebsd.org/security/advisories.html>`_."
 
 # 4f55d61c57e04235b868c9f68b4ffc7f
 # 167f1faff1e14924afc885220f1a7d46
@@ -31158,6 +31230,10 @@ msgstr ""
 #: ../../update.rst:575
 msgid "**Branches:** users who wish to test upcoming versions can switch software branches and update to that software branch. In the example shown in :numref:`Figure %s: Switching Branches <branch1>`, this system is currently running the 10.1* branch and the upcoming 11.0 branch is available for selection."
 msgstr ""
+"**Ramas:** los usuarios que quieran probar nuevas versiones pueden cambiar "
+"las ramas del software y actualizar a la misma. En el ejemplo mostrado en la "
+":numref:`Figura %s: Cambiando Ramas <branch1>`, este sistema actualmente "
+"está corriendo la rama 10.1* y la próxima rama 11.0 está disponible."
 
 # 3b23002668a4405c96d98ecffc812a7c
 # e25b30d15a0c4bd6ab7fd1c81df7f9c2
@@ -31944,10 +32020,30 @@ msgstr "Actualizaciones Manuales (Método Gráfico)"
 #: ../../update.rst:591
 msgid "Beginning in version 10.1.1, the automatic updater will automatically keep your system up-to-date. You will know that an update has completed when the pop-up menu, shown in :numref:`Figure %s: Managing the Reboot After Update <update9>`, indicates that a reboot is needed to complete the update process. The automatic updater will only update what it has been configured to update. If you would like to double-check or change what gets updated, start Update Manager, enter your password, and use the drop-down menu in the \"Configure Automatic Updates\" screen shown in :numref:`Figure %s: Configuring What to Update <update11a>`."
 msgstr ""
+"Comenzando con la versión 10.1.1, el actualizador automático mantendrá "
+"actualizado su sistema. Usted sabrá que una actualización se ha completado "
+"cuando el menú emergente, mostrado en la :numref:`Figura %s: Administrando "
+"el Reinicio después de la Actualización <update9>`, indique que un reinicio "
+"es necesario para completar el proceso de actualización. El actualizador "
+"automático solo actualizará para lo que está configurado. Si quiere revisar "
+"o cambiar lo que se actualiza, inicie el Administrador de Actualizaciones, "
+"ingrese su contraseña, y use el menú desplegable en la pantalla \"Configurar "
+"Actualizaciones Automáticas\" mostrada en la :numref:`Figura %s: "
+"Configurando Qué Actualizar <update11a>`."
 
 #: ../../update.rst:596
 msgid "Due to its schedule, the automatic updater will never check for new updates more than once in a 24 hour period. To manually check for updates, right-click the Update Manager in system tray and click \"Check for Updates\". Alternatively, start Update Manager. If any updates are available, an \"Updates Available\" tab will appear, as seen in the example in :numref:`Figure %s: Updates are Available <update12a>`. If no updates are available, of if the system is currently updating, this tab will not appear."
 msgstr ""
+"Debido a su programación, el actualizador automático nunca revisará por "
+"nuevas actualizaciones más de una vez en un periodo de 24 horas. Para "
+"revisar actualizaciones manualmente, haga clic derecho en el Administrador "
+"de Actualizaciones en la bandeja del sistema y presione la pestaña \"Revisar "
+"Actualizaciones\". Alternativamente, inicie el Administrador de "
+"Actualizaciones. Si hay actualizaciones disponibles, una pestaña de \""
+"Actualizaciones Disponibles\" aparecerá, como se muestra en el ejemplo de la "
+":numref:`Figura %s: Actualizaciones Disponibles <update12a>`. Si no hay "
+"actualizaciones disponibles, o si el sistema se encuentra actualizando, esta "
+"pestaña no aparecerá."
 
 # 139e512d28da4fbca440d6ebb0270de4
 # 02af2dde1aab45a7ab3b7ea19a4345cb
@@ -42386,6 +42482,12 @@ msgstr ""
 #: ../../update.rst:847
 msgid "Alternately, on each client, configure :ref:`Appcafe®` to use the custom repository. Go to :menuselection:`Configure --> Repository Settings`. Click \"Custom\" in the screen shown in :numref:`Figure %s: Add the Custom Repository to AppCafe® <repo1>`, then the \"+\" button. Input the URL to the repository and click \"OK\"."
 msgstr ""
+"Alternativamente, en cada cliente, configure :ref:`Appcafe®` para usar un "
+"respositorio personalizado. Vaya a :menuselection:`Configurar --> "
+"Configuración de Repositorio`. Presione \"Personalizado\" en la pantalla "
+"mostrada en la :numref:`Figura %s: Añadiendo el Repositorio Personalizado en "
+"AppCafe® <repo1>`, y luego el botón \"+\". Ingrese la URL del repositorio y "
+"presione \"OK\"."
 
 # 1edf2ed11f2a419e870363df203652d8
 # 2bff4bb0307944098333c7333f3e8bcc
