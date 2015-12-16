@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Xorg server</source>
-        <translation>Serveur Xorg</translation>
+        <translation>Serveur xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished">Logiciels FreeBSD (ports/packages)</translation>
+        <translation>Logiciels FreeBSD (ports/paquets)</translation>
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
@@ -51,11 +51,11 @@
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
         <translation>Si vous n'êtes pas sûr que c'est un bug, vous pouvez interroger à ce sujet ​​la liste de diffusion des essais de PC-BSD.
-Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste.</translation>
+Visitez la page Web suivante pour souscrire ou consulter les archives de cette liste.</translation>
     </message>
     <message>
         <source>X.org server</source>
-        <translation>serveur X.org</translation>
+        <translation>Serveur x.org</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
@@ -63,7 +63,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation>2. Envoyer un courriel à la liste de diffusion des essais xorg. Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste</translation>
+        <translation>2. Envoyer un courriel à la liste de diffusion des essais xorg. Visitez la page Web suivante pour souscrire ou consulter les archives de cette liste</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
@@ -71,7 +71,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation>4. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s'il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation>4. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, veuillez créer un ticket sur ​​le bug tracker.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
@@ -107,7 +107,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation>3. Si vous pensez que ce problème est propre à PC-BSD, veuillez créer un ticket sur ​​le bug tracker PC-BSD.</translation>
+        <translation>3. Si vous pensez que ce problème est propre à PC-BSD veuillez créer un ticket sur ​​le bug tracker PC-BSD.</translation>
     </message>
     <message>
         <source>XFCE</source>
@@ -115,7 +115,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>1. You can report a bug to XFCE bugzilla site</source>
-        <translation>1. Vous pouvez signaler un bug sur le site bugzilla XFCE</translation>
+        <translation>1. Vous pouvez rapporter un bug sur le site bugzilla XFCE</translation>
     </message>
     <message>
         <source>LXDE</source>
@@ -147,7 +147,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation>1. Vous pouvez rapporter un bug au bug tracker/ liste de diffusion de votre environnement de bureau préféré</translation>
+        <translation>1. Vous pouvez rapporter un bug au bug tracker/liste de diffusion de votre environnement de bureau préféré</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
@@ -183,7 +183,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
-        <translation>2. Si vous pensez que ce problème est propre à PC-BSD veuillez rapporter à la liste de diffusion pbi-bugs de PCBSD</translation>
+        <translation>2.Si vous pensez que ce problème est propre à PC-BSD veuillez rapporter à la liste de diffusion pbi-bugs de PCBSD</translation>
     </message>
     <message>
         <source>PBI software: </source>
@@ -229,7 +229,7 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>Xorg log</source>
-        <translation>Log Xorg</translation>
+        <translation>Log xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
@@ -249,15 +249,15 @@ Visitez le site Web suivant pour souscrire ou consulter les archives de cette li
     </message>
     <message>
         <source>Xorg version</source>
-        <translation type="unfinished">Xorg version</translation>
+        <translation>Version Xorg</translation>
     </message>
     <message>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished">FreeBSD version (uname -a)</translation>
+        <translation>Version FreeBSD  (uname -a)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Échec</translation>
+        <translation>Échec</translation>
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>
