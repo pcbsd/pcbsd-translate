@@ -268,38 +268,38 @@ Visitez la page Web suivante pour souscrire ou consulter les archives de cette l
     <name>WebURL</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation type="unfinished">Formulaire</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished">Lancer le navigateur</translation>
+        <translation>Lancer le navigateur</translation>
     </message>
 </context>
 <context>
     <name>maillist</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">TextLabel</translation>
+        <translation>Etiquette du texte</translation>
     </message>
     <message>
         <source>Send message to</source>
-        <translation type="unfinished">Envoyer un message à</translation>
+        <translation>Envoyer le message à</translation>
     </message>
     <message>
         <source>Compose email</source>
-        <translation type="unfinished">Composer un courriel</translation>
+        <translation>Rédiger un courriel</translation>
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
-        <translation type="unfinished">Visitez le site Web suivant pour vous abonner ou consulter les archives.</translation>
+        <translation>Visitez le site Web suivant pour vous abonner ou consulter les archives.</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished">Lancer le navigateur</translation>
+        <translation>Lancer le navigateur</translation>
     </message>
 </context>
 </TS>

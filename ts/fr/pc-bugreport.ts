@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fr">
 <context>
     <name>MainWindow</name>
     <message>
         <source>PC-BSD bug reporting tool</source>
-        <translation type="unfinished">Outil de rapport de bogues PC-BSD</translation>
+        <translation>Outil de rapport de bogues PC-BSD</translation>
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionnez le composant où l&apos;erreur se produit.</translation>
+        <translation>Veuillez sélectionner le composant où se produit l&apos;erreur.</translation>
     </message>
     <message>
         <source>FreeBSD base system</source>
-        <translation type="unfinished">FreeBSD système de base</translation>
+        <translation>Système de base FreeBSD</translation>
     </message>
     <message>
         <source>PC-BSD base system</source>
-        <translation type="unfinished">PC-BSD système de base</translation>
+        <translation>Système de base PC-BSD</translation>
     </message>
     <message>
         <source>Xorg server</source>
-        <translation type="unfinished">Xorg seveur</translation>
+        <translation>serveur Xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished">Environnement Bureau</translation>
+        <translation>Environnement de bureau</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
@@ -51,39 +51,39 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue en utilisant le mécanisme de bugzilla de freedesktop</translation>
+        <translation>1. Soumettre un rapport de bogue en utilisant le mécanisme bugzilla de freedesktop</translation>
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished">2. Envoyer un mail à la liste de diffusion de test xorg. Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
+        <translation>2. Envoyer un courriel à la liste de diffusion de test de xorg. Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est propre à FreeBSD s&apos;il vous plaît signaler bug à freebsd-x11 maillist</translation>
+        <translation>3. Si vous pensez que ce problème est propre à FreeBSD veuillez le signaler à la liste de diffusion freebsd-x11</translation>
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation type="unfinished">4 Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s&apos;il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation>4 Si vous pensez que ce problème est lié spécifiquement à PC-BSD, veuillez créer un ticket sur ​​le système de suivi de bogue.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionner quel environnement de bureau provoque le problème:</translation>
+        <translation>Veuillez sélectionner l&apos;environnement de bureau provoquant le problème:</translation>
     </message>
     <message>
         <source>Gnome</source>
-        <translation type="unfinished">Gnome</translation>
+        <translation>Gnome</translation>
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation type="unfinished">1. Envoyer un e-mail à la liste de courrier freebsd-gnome</translation>
+        <translation>1. Envoyer un courriel à la liste de diffusion freebsd-gnome</translation>
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished">2 Créer un billet sur ​​le PC-BSD bug tracker.</translation>
+        <translation>2. Créer un ticket sur ​​le système de suivi de bogue PC-BSD.</translation>
     </message>
     <message>
         <source>KDE</source>
-        <translation type="unfinished">KDE</translation>
+        <translation>KDE</translation>
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
@@ -123,39 +123,39 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>Cinnamon</source>
-        <translation type="unfinished">Cinnamon</translation>
+        <translation>Cinnamon</translation>
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bogue avec la cannelle bug tracker sur GitHub</translation>
+        <translation>1. Vous pouvez signaler un bogue en utilisant le système de suivi de bogue Cinnamon sur GitHub</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>
-        <translation type="unfinished">Environnement de bureau non pris en charge</translation>
+        <translation>Environnement de bureau non supporté</translation>
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished">1. Vous pouvez rapporter un bug à votre bug tracker / liste préférée de l&apos;environnement de bureau</translation>
+        <translation>1. Vous pouvez rapporter un bug à votre système de suivi de bogue préféré ou à la liste de diffusion de l&apos;environnement de bureau</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
-        <translation type="unfinished">Logiciel FreeBSD</translation>
+        <translation>Logiciel de FreeBSD</translation>
     </message>
     <message>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation type="unfinished">1. Vous pouvez signaler des problèmes à freebsd-ports-bugs liste de diffusion</translation>
+        <translation>1. Vous pouvez signaler les problèmes à liste de diffusion freebsd-ports-bugs</translation>
     </message>
     <message>
         <source>PBI software</source>
-        <translation type="unfinished">Logiciel PBI</translation>
+        <translation>Logiciel de PBI</translation>
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished">S&apos;il vous plaît sélectionner le logiciel PBI avec bug</translation>
+        <translation>Veuillez sélectionner le logiciel de PBI avec bogue</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">Icône</translation>
+        <translation>Icône</translation>
     </message>
     <message>
         <source>Application</source>
@@ -198,42 +198,42 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copier au presse-papiers</translation>
+        <translation>Copier au presse-papiers</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fermer</translation>
+        <translation>Fermer</translation>
     </message>
 </context>
 <context>
     <name>Toolbox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Toolbox</source>
-        <translation type="unfinished">Boite à Outils</translation>
+        <translation>Boîte à Outils</translation>
     </message>
     <message>
         <source>Take screenshot</source>
-        <translation type="unfinished">Prenez une capture d&apos;écran</translation>
+        <translation>Prendre une capture d&apos;écran</translation>
     </message>
     <message>
         <source>dmesg output</source>
-        <translation type="unfinished">dmesg sortie</translation>
+        <translation>sortie de dmesg</translation>
     </message>
     <message>
         <source>Xorg log</source>
-        <translation type="unfinished">Xorg log</translation>
+        <translation>log de Xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
-        <translation type="unfinished">Rapport de Diagnostic</translation>
+        <translation>Rapport de Diagnostic</translation>
     </message>
     <message>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished">PCBSD rapport de diagnostic</translation>
+        <translation>rapport de diagnostic de PCBSD</translation>
     </message>
     <message>
         <source>lsusb output</source>
@@ -275,27 +275,27 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     <name>maillist</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">TextLabel</translation>
+        <translation>Étiquette de texte</translation>
     </message>
     <message>
         <source>Send message to</source>
-        <translation type="unfinished">Envoyer un message à</translation>
+        <translation>Envoyer un message à</translation>
     </message>
     <message>
         <source>Compose email</source>
-        <translation type="unfinished">Composer un courriel</translation>
+        <translation>Composer un courriel</translation>
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
-        <translation type="unfinished">Visitez le site Web suivant pour vous abonner ou consulter les archives.</translation>
+        <translation>Visitez le site Web suivant pour vous abonner ou consulter les archives.</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished">Lancer le navigateur</translation>
+        <translation>Lancer le navigateur</translation>
     </message>
 </context>
 </TS>

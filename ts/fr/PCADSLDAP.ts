@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Root bind DN</source>
-        <translation type="unfinished">Administrateur DN de liaison</translation>
+        <translation>DN lié à l&apos;administrateur</translation>
     </message>
     <message>
         <source>Root bind password</source>
