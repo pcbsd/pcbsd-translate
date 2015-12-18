@@ -991,7 +991,7 @@ following restrictions:
   *   To write to a read-only pool, a export and import of the pool
       is required.
 </source>
-        <translation>Açık olarak ayarlanırsa, havuz şu kısıtlamalarla salt okunur kipte
+        <translation>Açık olarak ayarlanırsa, havuz şu kısıtlamalarla salt okunur modda
 içe aktarılacaktır:
   *   Amaçlı günlükteki eşzamanlı veri ulaşılabilir olmayacak
   *   Havuz özellikleri değiştirilemez
@@ -1434,7 +1434,7 @@ Dilim/bölüm yok edilsin mi?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to destroy the pool will leave the pool in the state it was when imported, not necessarily destroyed.</source>
-        <translation>Havuz salt okunur kipte içe aktarılmış, bu yüzden havuzu yok etmeye çalışmak havuzu içe aktarıldığı durumda bırakacak, yok edilmiş olmayacaktır.</translation>
+        <translation>Havuz salt okunur modda içe aktarılmış, bu yüzden havuzu yok etmeye çalışmak havuzu içe aktarıldığı durumda bırakacak, yok edilmiş olmayacaktır.</translation>
     </message>
     <message>
         <source>Attach mirror devices to </source>
@@ -1442,7 +1442,7 @@ Dilim/bölüm yok edilsin mi?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to export the pool will leave the pool in the state it was when imported, not necessarily exported.</source>
-        <translation>Havuz salt okunur kipte içe aktarılmış, bu yüzden havuzu dışa aktarmaya çalışmak havuzu içe aktarıldığı durumda bırakacak, dışa aktarılmış olmayacaktır.</translation>
+        <translation>Havuz salt okunur modda içe aktarılmış, bu yüzden havuzu dışa aktarmaya çalışmak havuzu içe aktarıldığı durumda bırakacak, dışa aktarılmış olmayacaktır.</translation>
     </message>
     <message>
         <source>Recover destroyed pool as...</source>
@@ -1460,7 +1460,7 @@ Kurtarma işlemine geçilsin mi?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, it cannot be renamed.</source>
-        <translation>Havuz salt okunur kipte içe aktarıldı, yeniden adlandırılamaz.</translation>
+        <translation>Havuz salt okunur modda içe aktarıldı, yeniden adlandırılamaz.</translation>
     </message>
     <message>
         <source>Add more devices to zpool</source>

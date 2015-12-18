@@ -458,11 +458,11 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
     <name>wizardDisk</name>
     <message>
         <source>This wizard will walk you through the disk setup process. Please choose the setup mode you wish to use.</source>
-        <translation>Bu sihirbaz disk yapılandırma işleminde size yardımcı olacaktır. Lütfen kullanmak istediğiniz yapılandırma kipini seçiniz.</translation>
+        <translation>Bu sihirbaz disk yapılandırma işleminde size yardımcı olacaktır. Lütfen kullanmak istediğiniz yapılandırma modunu seçiniz.</translation>
     </message>
     <message>
         <source>Setup Mode</source>
-        <translation>Kurulum Kipi</translation>
+        <translation>Kurulum Modu</translation>
     </message>
     <message>
         <source>Basic (New to BSD or disk partitioning)</source>
@@ -474,7 +474,7 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
     </message>
     <message>
         <source>FreeBSD Experts (CLI manual mode)</source>
-        <translation>FreeBSD Uzmanları (Komut Satırı Arayüzü elle kurulum kipi)</translation>
+        <translation>FreeBSD Uzmanları (Komut Satırı Arayüzü elle kurulum modu)</translation>
     </message>
     <message>
         <source>Selected Disk</source>
@@ -494,11 +494,11 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
-        <translation>Tek disk üzerinde ZFS kurulumu gerçekleştiriliyorsa devam edebilirsiniz, yoksa aşağıdan yansı / raid kipini ve diskleri seçin. </translation>
+        <translation>Tek disk üzerinde ZFS kurulumu gerçekleştiriliyorsa devam edebilirsiniz, yoksa aşağıdan yansı / raid modunu ve diskleri seçin. </translation>
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
-        <translation>ZFS Sanal Aygıt Kipi</translation>
+        <translation>ZFS Sanal Aygıt Modu</translation>
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
@@ -558,7 +558,7 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation>Uzman kipini seçtiniz. Bu kipte bir uçbirim penceresi açabilir ve el ile diskinizi bölümlendirmek için komut satırını kullanabilirsiniz. İşlem bittiğinde kuruluma başlamak için dosya sistemlerini /mnt noktasına bağlamayı unutmayın. </translation>
+        <translation>Uzman modunu seçtiniz. Bu modda bir uçbirim penceresi açabilir ve el ile diskinizi bölümlendirmek için komut satırını kullanabilirsiniz. İşlem bittiğinde kuruluma başlamak için dosya sistemlerini /mnt noktasına bağlamayı unutmayın. </translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>

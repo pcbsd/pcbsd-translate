@@ -351,7 +351,7 @@
     </message>
     <message>
         <source>Developer Mode</source>
-        <translation>Geliştirici Kipi</translation>
+        <translation>Geliştirici Modu</translation>
     </message>
     <message>
         <source>Show Base Packages</source>

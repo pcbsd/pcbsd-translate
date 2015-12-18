@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Encryption Mode</source>
-        <translation>Şifreleme Kipi</translation>
+        <translation>Şifreleme Modu</translation>
     </message>
     <message>
         <source>Self Signed Certificate</source>

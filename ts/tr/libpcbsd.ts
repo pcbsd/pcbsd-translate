@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Mode:</source>
-        <translation>Kip:</translation>
+        <translation>Mod:</translation>
     </message>
     <message>
         <source>11g</source>

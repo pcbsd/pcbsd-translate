@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>PC-BSD User Manager - Advanced Mode</source>
-        <translation>PC-BSD Kullanıcı Yöneticisi - Gelişmiş Kip</translation>
+        <translation>PC-BSD Kullanıcı Yöneticisi - Gelişmiş Mod</translation>
     </message>
     <message>
         <source>&amp;Simple View</source>
