@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Programas e componentes do sistema...</translation>
     </message>
 </context>
 </TS>
