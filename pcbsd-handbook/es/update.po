@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-20 04:13-0800\n"
-"PO-Revision-Date: 2015-12-20 03:56+0000\n"
+"POT-Creation-Date: 2015-12-20 08:12-0800\n"
+"PO-Revision-Date: 2015-12-20 17:38+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1450633091.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -7124,9 +7128,9 @@ msgstr ""
 #: ../../update.rst:94
 msgid "Since \"appliance\" mode restricts the application to jails only, the first time AppCafe® is run in appliance mode, it will go straight to a welcome page offering to create a jail if no jails yet exist on the system."
 msgstr ""
-"Ya que el modo \"appliance\" restringe la aplicación solo a Jaulas, la "
+"Ya que el modo \"appliance\" restringe la aplicación solo a jaulas, la "
 "primera vez que AppCafe® se ejecuta en modo appliance, irá directo a una "
-"página de bienvenida ofreciéndole crear una Jaula si no hay ya Jaulas "
+"página de bienvenida ofreciéndole crear una jaula si no hay ya jaulas "
 "existentes en el sistema."
 
 # e289a4f7ad364d119ec8991f8d24a73e
@@ -15474,16 +15478,16 @@ msgstr "Plugins"
 msgid "Beginning with PC-BSD® 10.2, plugins can be used to install a pre-configured, isolated application into its own jail. A `jail <https://en.wikipedia.org/wiki/FreeBSD_jail>`_ provides a very light-weight, operating system-level virtualization. A jail is similar to running an independent instance of FreeBSD on the same hardware, without all of the overhead usually associated with virtualization. Jails are usually created for running applications or services. For example, you could host your own media server on your desktop system without affecting other installed applications or your data. Each jail has its own IP address, running processes, and users. Whatever happens in that jail does not affect your operating system or other jails running on the PC-BSD® system."
 msgstr ""
 "Comenzando con PC-BSD® 10.2, los plugins pueden ser utilizados para instalar "
-"una aplicación preconfigurada, aislada dentro de su propia Jaula. Una `Jaula "
+"una aplicación preconfigurada, aislada dentro de su propia jaula. Una `Jaula "
 "<https://en.wikipedia.org/wiki/FreeBSD_jail>`_ proporciona una "
-"virtualización a nivel sistema operativo, muy ligera. Una Jaula es similar a "
+"virtualización a nivel sistema operativo, muy ligera. Una jaula es similar a "
 "correr una instancia independiente de FreeBSD en el mismo hardware, sin toda "
-"la carga que generalmente se asocia a la virtualización. Las Jaulas se crean "
+"la carga que generalmente se asocia a la virtualización. Las jaulas se crean "
 "generalmente para correr aplicaciones o servicios. Por ejemplo, usted puede "
 "hospedar su propio servidor de medios en su sistema de escritorio sin "
-"afectar otras aplicaciones instaladas o sus datos. Cada Jaula tiene su "
+"afectar otras aplicaciones instaladas o sus datos. Cada jaula tiene su "
 "propia dirección IP, corriendo procesos, y usuarios. Lo que sea que pase en "
-"esa Jaula no afecta a su sistema operativo u otras Jaulas corriendo en el "
+"esa jaula no afecta a su sistema operativo u otras jaulas corriendo en el "
 "sistema PC-BSD®."
 
 # 2cf64141513e4902982b0e6f449a79ae
@@ -15665,9 +15669,9 @@ msgstr ""
 msgid "Plugins use `iocage <https://github.com/iocage/iocage>`_ for managing jails using either the AppCafe® GUI or :command:`iocage` command line utility. iocage was specifically designed for jail management on systems formatted with the ZFS filesystem. It stores its configuration as a ZFS property rather than using a configuration file."
 msgstr ""
 "Los plugins usan `iocage <https://github.com/iocage/iocage>`_ para "
-"administrar las Jaulas usando ya sea la GUI de AppCafe® o la utilería de "
+"administrar las jaulas usando ya sea la GUI de AppCafe® o la utilería de "
 "línea de comandos :command:`iocage`. iocage fue diseñando especialmente para "
-"la administración de Jaulas en sistemas formateados con el sistema de "
+"la administración de jaulas en sistemas formateados con el sistema de "
 "archivos ZFS. Guarda su configuración como una propiedad de ZFS más que "
 "usando un archivo de configuración."
 
@@ -17973,7 +17977,7 @@ msgstr "Administrando Jails desde la CLI"
 msgid "Beginning with PC-BSD® 10.2, :command:`iocage` has been added for jail management and this utility will replace the :command:`warden` utility in a future version of PC-BSD®. Note that :command:`warden` is still available in this version of PC-BSD® to provide time for users to transition to using  :command:`iocage`. Documentation for using the command line version of :command:`warden` can be found in `this section of the 10.1.2 User Guide <http://download.pcbsd.org/iso/10.1-RELEASE/amd64/docs/html/controlpanel.html#using-the-command-line-version-of-warden>`_."
 msgstr ""
 "Comenzando con PC-BSD® 10.2, :command:`iocage` se ha añadido para "
-"administrar Jaulas y esta utilería reemplazará a la utilería "
+"administrar jaulas y esta utilería reemplazará a la utilería "
 ":command:`warden` en una futura versión de PC-BSD®. Note que "
 ":command:`warden` sigue estando disponible en esta versión de PC-BSD® para "
 "darles tiempo a los usuarios de cambiar a usar :command:`iocage`. La "
@@ -18157,10 +18161,10 @@ msgid "The :command:`iocage` command line utility is a Bourne shell script. This
 msgstr ""
 "La utilería de línea de comando :command:`iocage` es un script del Bourne "
 "shell. Este script puede correr manualmente desde la línea de comandos de un "
-"servidor PC-BSD® o por usuarios que prefieran administrar Jaulas usando la "
+"servidor PC-BSD® o por usuarios que prefieran administrar jaulas usando la "
 "línea de comandos. Los usuarios avanzados pueden también referirse a la "
 "versión de línea de comandos en sus propios scripts de administración de "
-"Jaulas."
+"jaulas."
 
 # 18a2e408228b48598b9655a30233a589
 # 4e2d107f55574de69436c2f9729d424d
@@ -18635,7 +18639,7 @@ msgstr ""
 #: ../../update.rst:330
 msgid "Before creating a jail for the first time, specify the version of FreeBSD to install. To see which versions are available::"
 msgstr ""
-"Antes de crear una Jaula por primera vez, especifique la versión de FreeBSD "
+"Antes de crear una jaula por primera vez, especifique la versión de FreeBSD "
 "a instalar. Para ver cuáles versiones están disponibles:"
 
 # ccc9f648311846fd9255f78f8bd4c02c
@@ -18807,9 +18811,9 @@ msgstr ""
 msgid "In this example, FreeBSD 10.1 and 9.3 are available as jail templates and the user has specified to install the 10.1-RELEASE template. Once the template has been installed, you can create a jail. In this example, the template to use, the jail's hostname, network interface, and IP address are specified::"
 msgstr ""
 "En este ejemplo, FreeBSD 10.1 y 9.3 están disponibles como plantillas de "
-"Jaulas y el usuario ha especificado instalar la plantilla 10.1-RELEASE. Una "
-"vez que la plantilla ha sido instalada, usted puede crear una Jaula. En este "
-"ejemplo, la plantilla a usar, el nombre de host de la Jaula, la interfaz de "
+"jaulas y el usuario ha especificado instalar la plantilla 10.1-RELEASE. Una "
+"vez que la plantilla ha sido instalada, usted puede crear una jaula. En este "
+"ejemplo, la plantilla a usar, el nombre de host de la jaula, la interfaz de "
 "red, y la dirección IP se especifican:"
 
 # ce4f9ddc489d4fc387a3d077d5063618
@@ -18980,7 +18984,7 @@ msgstr ""
 #: ../../update.rst:372
 msgid "The output of this command will list the properties of the new jail. You can list those properties with this command::"
 msgstr ""
-"La salida de este comando listará las propiedades de la nueva Jaula. Puede "
+"La salida de este comando listará las propiedades de la nueva jaula. Puede "
 "listar esas propiedades con el comando:"
 
 # a9dcb9cd491a4e22bca979b86f81e43c
@@ -19150,7 +19154,7 @@ msgstr ""
 #: ../../update.rst:381
 #: ../../update.rst:376
 msgid "To start the jail and check its status::"
-msgstr "Para iniciar la Jaula y revisar su estado:"
+msgstr "Para iniciar la jaula y revisar su estado:"
 
 # d0beab799d0a4789b247879278ea6c6a
 # 5adbaa6e5ffa4647bc64dfbc238e5292
@@ -19325,7 +19329,7 @@ msgstr "Para iniciar la Jaula y revisar su estado:"
 #: ../../update.rst:387
 #: ../../update.rst:377
 msgid "To access the jail::"
-msgstr "Para accesar la Jaula:"
+msgstr "Para accesar la jaula:"
 
 # ca6f088fe4da47a88916194a683014ff
 # 42c54a6778a3408bbaef0b98ae0b19c0
@@ -19495,8 +19499,8 @@ msgstr "Para accesar la Jaula:"
 #: ../../update.rst:413
 msgid "Once inside the jail, you can manage it just like any other FreeBSD system and install software using :command:`pkg`. To leave the jail, type :command:`exit`."
 msgstr ""
-"Una vez dentro de la Jaula, puede administrarla como cualquier otro sistema "
-"FreeBSD e instalar software usando :command:`pkg`. Para salir de la Jaula, "
+"Una vez dentro de la jaula, puede administrarla como cualquier otro sistema "
+"FreeBSD e instalar software usando :command:`pkg`. Para salir de la jaula, "
 "escriba :command:`exit`."
 
 # bfb124caaa584f75a1336549818f11a6
@@ -27456,7 +27460,7 @@ msgstr ""
 msgid "**Check Jails:** to also be notified when updates are available to running jails, check this box."
 msgstr ""
 "**Revisar Jaulas:** para también ser notificado cuando las actualizaciones "
-"se encuentran disponibles en Jaulas activas, marque esta casilla."
+"se encuentran disponibles en jaulas activas, marque esta casilla."
 
 # 0fd4f2700efd4bc6ae338fa617314aea
 # 02180b3db7a144529a7c647dd8fe004b
