@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Loading items...</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar program...</translation>
     </message>
     <message>
         <source>Software and updates</source>

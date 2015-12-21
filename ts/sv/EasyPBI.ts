@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration</translation>
     </message>
     <message>
         <source>Base Directory</source>
-        <translation>Baskatalog:</translation>
+        <translation>Baskatalog</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>Paketkategori (kommer att skapa/användas som modul underkatalog)</translation>
+        <translation>Paketkategori (kommer att skapa/användas som modul underkatalog för moduler)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
@@ -37,11 +37,11 @@
     </message>
     <message>
         <source>Graphical Applications</source>
-        <translation>Grafikprogram</translation>
+        <translation>Grafik program</translation>
     </message>
     <message>
         <source>Text Applications</source>
-        <translation>Textprogram</translation>
+        <translation>Text program</translation>
     </message>
     <message>
         <source>Server Applications</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Current Progress</source>
-        <translation>Aktuellt förlopp:</translation>
+        <translation>Aktuellt förlopp</translation>
     </message>
     <message>
         <source>%v/%m</source>
@@ -129,11 +129,11 @@
     </message>
     <message>
         <source>Category Stopped: %1</source>
-        <translation>Stoppad Kategori: %1</translation>
+        <translation>Kategori Stoppad: %1</translation>
     </message>
     <message>
         <source>Category Finished: %1</source>
-        <translation>Färdig Kategori: %1</translation>
+        <translation>Kategori Färdig: %1</translation>
     </message>
     <message>
         <source>Base Module Directory</source>
@@ -148,15 +148,15 @@
     </message>
     <message>
         <source>PBI Configuration</source>
-        <translation>PBI-konfiguration</translation>
+        <translation>PBI-inställningar</translation>
     </message>
     <message>
         <source>Main settings for the PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Huvudinställningar för PBI</translation>
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara nuvarande inställningar till konfigurationsfilen för PBI</translation>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD port som ska paketeras som PBI</translation>
     </message>
     <message>
         <source>Select a different FreeBSD package</source>
@@ -428,19 +428,19 @@
     </message>
     <message>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skript</translation>
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Extra installations/bygg skript</translation>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett skript som du vill skapa eller editera</translation>
     </message>
     <message>
         <source>Create the selected script</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa det valda skriptet</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Service Configuration</source>
-        <translation>Tjänstinställningar</translation>
+        <translation type="unfinished">Tjänstinställningar</translation>
     </message>
     <message>
         <source>Visual Options</source>
@@ -480,15 +480,15 @@
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardvärde</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>New Option</source>
@@ -508,7 +508,7 @@
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;Fil</translation>
+        <translation>&amp;Arkiv</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
@@ -520,7 +520,7 @@
     </message>
     <message>
         <source>toolBar</source>
-        <translation>Verktygsrad</translation>
+        <translation>verktygsrad</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
@@ -528,39 +528,39 @@
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna inställningar för EasyPBI</translation>
     </message>
     <message>
         <source>Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+S</translation>
     </message>
     <message>
         <source>Get FreeBSD Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta FreeBSD Ports</translation>
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta/uppdatera FreeBSD ports trädet</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny</translation>
     </message>
     <message>
         <source>Click to create a new PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att skapa en ny PBI modul.</translation>
     </message>
     <message>
         <source>Create a new PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en ny PBI modul</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs in</translation>
     </message>
     <message>
         <source>Click to load an existing module</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka för att ladda en existerade modul</translation>
     </message>
     <message>
         <source>Load an existing PBI module</source>
@@ -600,39 +600,39 @@
     </message>
     <message>
         <source>&amp;Package Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paketera modul</translation>
     </message>
     <message>
         <source>Compress the current module for distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Komprimera den aktuella modulen inför distribution</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Om</translation>
     </message>
     <message>
         <source>View additional information about EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa ytterligare information om EasyPBI</translation>
     </message>
     <message>
         <source>Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Skift+A</translation>
     </message>
     <message>
         <source>&amp;Refresh Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Läs om modul</translation>
     </message>
     <message>
         <source>Bulk Module Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulk Modul Skapare</translation>
     </message>
     <message>
         <source>Fetch File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta Fillista</translation>
     </message>
     <message>
         <source>Load Package File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda Paketfillista</translation>
     </message>
     <message>
         <source>No Module Loaded</source>
@@ -660,7 +660,7 @@
     </message>
     <message>
         <source>Please open up the EasyPBI settings to correct this deficiency.</source>
-        <translation>Var god öppna EasyPBIs inställningar för att laga detta problem.</translation>
+        <translation>Var god öppna EasyPBIs inställningar för att lösa detta problem.</translation>
     </message>
     <message>
         <source>Success</source>

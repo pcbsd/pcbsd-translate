@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation>FreeBSD (bassystemet)</translation>
+        <translation>FreeBSD grundsystem</translation>
     </message>
     <message>
         <source>Arch:</source>
@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Package set:</source>
-        <translation>Paketset:</translation>
+        <translation>Paketsamling:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation>Programvaru och system komponenter...</translation>
+        <translation>Programvaru- och system komponenter...</translation>
     </message>
 </context>
 </TS>
