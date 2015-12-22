@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Empaquetando el Directorio Personal...</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
@@ -232,35 +232,35 @@
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Jueves</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>Viernes</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sábados</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Domingos</translation>
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones de Replicación</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Identificar el Destino de la Replicación</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation> Nombre del Equipo o IP personalizada detectados:</translation>
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <source>ISCSI</source>
@@ -339,11 +339,11 @@
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar Copia de Respaldo del Archivo LLave</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Cifrar el Archivo Llave</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
@@ -355,7 +355,7 @@
     </message>
     <message>
         <source>On New Snapshot</source>
-        <translation type="unfinished">En una Nueva Imagen</translation>
+        <translation>En una Nueva Imagen</translation>
     </message>
     <message>
         <source>Manually Started</source>
@@ -383,23 +383,23 @@
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está listo para habilitar el almacenamiento de los datos externamente?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto puede tardar un momento…</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Salvavidas experimentó un error cuando estaba intentado configurar la copia de respaldo remota. Por favor, verifique que su configuración es correcta e inténtelo de nuevo.</translation>
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Error Con la Configuración</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña incorrecta</translation>
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
@@ -530,15 +530,15 @@
     </message>
     <message>
         <source>Select the next (more recent) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione al siguiente imagen (la más reciente) </translation>
     </message>
     <message>
         <source>Display any hidden files/folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todos los archivos/carpetas ocultos</translation>
     </message>
     <message>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar los Archivos Ocultos</translation>
     </message>
     <message>
         <source>Restore the selected file/folder to the live system.</source>
@@ -1081,19 +1081,19 @@
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jueves</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Viernes</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sábados</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domingos</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
