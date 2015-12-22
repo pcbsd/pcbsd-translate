@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-21 16:12-0800\n"
-"PO-Revision-Date: 2015-12-22 04:01+0000\n"
+"POT-Creation-Date: 2015-12-21 20:12-0800\n"
+"PO-Revision-Date: 2015-12-22 04:40+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1450756864.000000\n"
+"X-POOTLE-MTIME: 1450759203.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -33619,13 +33619,13 @@ msgstr ""
 #: ../../update.rst:421
 msgid "updates will update **all** installed software. If you have placed a lock on a package using :command:`pkg` or an older version of AppCafe®, Update Manager will fail and will generate a message in the log indicating that the failure is due to a locked package. If you prefer to lock certain applications against being updated, select \"Security\" or \"Nothing\" in the \"Configure Automatic Updates\" tab of Update Manager and manually update software as needed using :command:`pkg`."
 msgstr ""
-"las actualizaciones actualizarán **todo** el software instalado. Si ha "
+"Las actualizaciones actualizarán **todo** el software instalado. Si ha "
 "colocado un candado en un paquete usando :command:`pkg` o con una versión "
 "anterior de AppCafe®, el Administrador de Actualizaciones fallará y generará "
 "un mensaje en el log, indicando que la falla se debe a un paquete bloqueado. "
 "Si prefiere bloquear ciertas aplicaciones para que no sean actualizadas, "
 "seleccione \"Seguridad\" o \"Nada\" en la pestaña \"Configurar "
-"Actualizaciones Automáticas en le Administrador de Actualizaciones y "
+"Actualizaciones Automáticas en el Administrador de Actualizaciones y "
 "actualice manualmente el software necesario usando :command:`pkg`."
 
 # a2f020f14e6d44bc8f63f1943b3f4f7f
@@ -35580,7 +35580,7 @@ msgstr ""
 #: ../../update.rst:493
 msgid "If no updates are available, the **check** command will indicate \"Your system is up to date!\"."
 msgstr ""
-"Si no hay actualizaciones disponibles, el comando **revisar** indicará \"Su "
+"Si no hay actualizaciones disponibles, el comando **check** indicará \"Su "
 "sistema está al día!\"."
 
 # f3dfe075296c469481a15320ea70a646
@@ -39504,7 +39504,7 @@ msgstr ""
 #: ../../update.rst:612
 msgid "a fresh install, rather than an update, is only required if you wish to take advantage of any of the following features: UEFI boot (on a current non-UEFI installation), full disk encryption, or the `improved encryption key generation provided by GELIv7 <https://github.com/freebsd/freebsd/commit/38de8ef1dd0e468ff1e3ec1c431f465e270beba3>`_. This means that you will have to backup your data to an external drive or another system, perform the new install, then restore your data from the backup."
 msgstr ""
-"una instalación nueva, más que una actualización, se requiere solamente si "
+"Una instalación nueva, más que una actualización, se requiere solamente si "
 "quiere tomar ventaja de cualquiera de las siguientes características: "
 "arranque UEFI (en una instalación actual no UEFI), encriptación completa del "
 "disco, o la `generación de llaves de encriptación mejorada proporcionada por "
