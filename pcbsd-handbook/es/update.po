@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-21 12:12-0800\n"
-"PO-Revision-Date: 2015-12-21 17:20+0000\n"
+"POT-Creation-Date: 2015-12-21 16:12-0800\n"
+"PO-Revision-Date: 2015-12-22 04:01+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1450756864.000000\n"
 
 # 208ef299ad1740b392d8437a294fb35e
 # 34ee2110c04b4c81bde0c164006d8557
@@ -14922,7 +14926,7 @@ msgstr ""
 #: ../../update.rst:174
 msgid "To find an application, enter its name and click the \"binoculars\" icon. Alternately, enter a description. For example, a search for \"browser\" will display software with \"browser\" in the name as well as applications which provide browser functionality, such as Firefox."
 msgstr ""
-"Para encontrar una aplicación, escriba su nombrey presione en el icono de "
+"Para encontrar una aplicación, escriba su nombre y presione en el icono de "
 "los \"binoculares\". Alternativamente, escriba una descripción. Por ejemplo, "
 "una búsqueda por \"navegador\" le mostrará software con \"navegador\" en el "
 "nombre así como aplicaciones que proporcionan funcionalidad de navegador, "
@@ -15108,8 +15112,8 @@ msgstr ""
 msgid "By default, only PBIs are searched. To search for all available software, including packages, check the \"Search all available PBIs and packages\" box."
 msgstr ""
 "Por defecto, solo los PBIs se buscan. Para buscar por todo el software "
-"disponible, incluyendo paquetes, revise la casilla \"Buscar todos los PBIs "
-"disponibles y paquetes\"."
+"disponible, incluyendo paquetes, seleccione la casilla \"Buscar todos los "
+"PBIs disponibles y paquetes\"."
 
 #: ../../update.rst:192
 msgid "If you install or uninstall any software, a \"Status\" tab will be added. In the example shown in :numref:`Figure %s: Example Status Tab <appcafe6>`, the firefox application was installed. Click the hyperlink under the \"Result\" column to review the installation log."
@@ -15668,8 +15672,8 @@ msgstr ""
 "administrar las jaulas usando ya sea la GUI de AppCafe® o la utilería de "
 "línea de comandos :command:`iocage`. iocage fue diseñando especialmente para "
 "la administración de jaulas en sistemas formateados con el sistema de "
-"archivos ZFS. Guarda su configuración como una propiedad de ZFS más que "
-"usando un archivo de configuración."
+"archivos ZFS. Guarda su configuración como una propiedad de ZFS en vez de "
+"usar un archivo de configuración."
 
 # cfc4a217aa114386840001bde7a19e98
 # ec01e99f92794948945abb09dab3e7bd
@@ -16718,7 +16722,7 @@ msgstr ""
 msgid "**Status:** this tab appears if you have installed or uninstalled any software and contains the logs for each action."
 msgstr ""
 "**Estado:** esta pestaña aparece si ha instalado o desinstalado cualquier "
-"software y contiene los logs para cada action."
+"software y contiene los logs para cada acción."
 
 #: ../../update.rst:226
 msgid "The first time you use plugins, the \"Configuration\" tab shown in :numref:`Figure %s: Initial Plugins Configuration <remote6c>` will prompt you to configure the range of IP addresses on your network that you will reserve for plugins."
@@ -16883,9 +16887,9 @@ msgstr ""
 "*192.168.1.x* y el usuario ha ingresado un rango de direcciones disponibles "
 "desde *192.168.1.5* a *192.168.1.10* y la máscara de subred a usar. Cuando "
 "ingrese su propio rango de direcciones y máscara, asegúrese de que ningún "
-"otro host en su red está, o estará usando esas direcciones reservadas. Si "
+"otro equipo en su red está, o estará usando esas direcciones reservadas. Si "
 "tiene control sobre el servidor DHCP en su red, reserve esas direcciones "
-"para que el servidor DHCP no las asigne a otros hosts en su red."
+"para que el servidor DHCP no las asigne a otros equipos en su red."
 
 # dbf4d9d662d8480dbb1cd43a31610426
 # d6a57aa5698a4b43b0663222c96552ae
@@ -17250,10 +17254,10 @@ msgstr ""
 #: ../../update.rst:248
 msgid "at this time, only the Plex Media Server is available as a plugin. More plugins will be added in future updates to PC-BSD®. If you would like to install other, isolated applications, refer to the section on :ref:`Managing Jails from the CLI`."
 msgstr ""
-"en este momento, solo el Plex Media Server está disponible como plugin. Más "
-"plugins se añadirán en el futuro a PC-BSD®. Si quiere instalar otras "
-"aplicaciones aisladas, refiérase a la sección de :ref:`Administrando Jaulas "
-"desde la CLI`."
+"En este momento, solo el Servidor de Medios Plex está disponible como "
+"plugin. Más plugins se añadirán en el futuro a PC-BSD®. Si quiere instalar "
+"otras aplicaciones aisladas, refiérase a la sección de :ref:`Administrando "
+"Jaulas desde la CLI`."
 
 #: ../../update.rst:251
 msgid "Click the plugin's install icon to begin the installation. Installation will take a few minutes as a new jail will be created, the jail will be assigned the next available reserved IP address, and the application will be installed into the jail. Once installed, a screen similar to :numref:`Figure %s: Plugin is Installed <plugin1>` will indicate that the plugin is installed."
@@ -17262,7 +17266,7 @@ msgstr ""
 "instalación tomará unos pocos minutos ya que se creará una jaula, a la cuál "
 "se le asignará la siguiente dirección IP reservada, y la aplicación se "
 "instalará dentro de la jaula. Una vez instalada, una pantalla similar a la "
-"de la numref:`Figura %s: El Plugin se ha Instalado <plugin1>` le indicará "
+"de la :numref:`Figura %s: El Plugin se ha Instalado <plugin1>` le indicará "
 "que el plugin se ha instalado."
 
 #: ../../update.rst:259
@@ -17447,12 +17451,12 @@ msgstr ""
 #: ../../update.rst:261
 msgid "depending upon the window manager's default web browser, the configuration link may or may not display properly. For example, the default web browser for the KDE window manager is Konqueror, which does not render the configuration page. To change the default web browser within KDE, click :menuselection:`Kickoff --> System Settings --> Default Applications -->Web Browser --> in the following browser` and use the browse button to select another web browser, such as Firefox."
 msgstr ""
-"dependiendo del navegador web predeterminado del gestor de ventanas, el "
+"Dependiendo del navegador web predeterminado del gestor de ventanas, el "
 "enlace de la configuración puede o no podrá desplegarse propiamente. Por "
-"ejemplo, el navegador web predeterminado para el gestor de ventanas KDE e "
+"ejemplo, el navegador web predeterminado para el gestor de ventanas KDE es "
 "Konqueror, que no renderiza la página de configuración. Para cambiar el "
 "navegador web predeterminado dentro de KDE, presione :menuselection:`Kickoff "
-"--> Configuraciones del Sistema --> Aplicaciones Predeterminados -->"
+"--> Configuraciones del Sistema --> Aplicaciones Predeterminadas --> "
 "Navegador Web --> en el siguiente navegador` y use el botón de búsqueda para "
 "seleccionar otro navegador web, como Firefox."
 
@@ -17630,7 +17634,7 @@ msgid "Click the \"Agree\" button to accept the application's license. You can n
 msgstr ""
 "Presione el botón \"Aceptar\" para aceptar la licencia de la aplicación. "
 "Ahora puede configurar sus canales y listas. Si es nuevo con Plex, refiérase "
-"al la `Guía de Inicio de Plex <https://support.plex.tv/hc/en-"
+"a la `Guía de Inicio de Plex <https://support.plex.tv/hc/en-"
 "us/categories/200007268-Getting-Started>`_."
 
 # 0d33707d0922432891e520f540262833
@@ -17804,7 +17808,7 @@ msgstr ""
 #: ../../update.rst:277
 #: ../../update.rst:276
 msgid "Managing Jails from the CLI"
-msgstr "Administrando Jails desde la CLI"
+msgstr "Administrando Jaulas desde la CLI"
 
 # 41f4770b4fcf4a4c989e7735a5cff53f
 # c6f44d739e5e476998a8429904a3a0d0
@@ -17976,7 +17980,7 @@ msgstr ""
 "administrar jaulas y esta utilería reemplazará a la utilería "
 ":command:`warden` en una futura versión de PC-BSD®. Note que "
 ":command:`warden` sigue estando disponible en esta versión de PC-BSD® para "
-"darles tiempo a los usuarios de cambiar a usar :command:`iocage`. La "
+"darles tiempo a los usuarios de hacer la transición a :command:`iocage`. La "
 "documentación para usar la versión de línea de comandos de :command:`warden` "
 "puede encontrarse en `esta sección del Manual de Usuario 10.1.2 "
 "<http://download.pcbsd.org/iso/10.1-RELEASE/amd64/docs/html/controlpanel.html"
@@ -18809,8 +18813,8 @@ msgstr ""
 "En este ejemplo, FreeBSD 10.1 y 9.3 están disponibles como plantillas de "
 "jaulas y el usuario ha especificado instalar la plantilla 10.1-RELEASE. Una "
 "vez que la plantilla ha sido instalada, usted puede crear una jaula. En este "
-"ejemplo, la plantilla a usar, el nombre de host de la jaula, la interfaz de "
-"red, y la dirección IP se especifican:"
+"ejemplo, la plantilla a usar, el nombre de equipo de la jaula, la interfaz "
+"de red, y la dirección IP se especifican:"
 
 # ce4f9ddc489d4fc387a3d077d5063618
 # c93c88e624b144a5b7b28da37f70e4c2
