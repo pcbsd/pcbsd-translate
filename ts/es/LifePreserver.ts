@@ -85,42 +85,42 @@
     </message>
     <message>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir directorios</translation>
     </message>
 </context>
 <context>
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Conjunto de Datos</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de Datos:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Imágenes Locales</translation>
     </message>
     <message>
         <source>Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Planificación:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Iniciado Manualmente</translation>
+        <translation>Diario</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Cada hora</translation>
+        <translation>Cada hora</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished">5 minutos {30 ?}</translation>
+        <translation>30 minutos</translation>
     </message>
     <message>
         <source>10 minutes</source>
@@ -160,35 +160,35 @@
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de Datos Remoto</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Frecuencia</translation>
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar con las imágenes</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutos</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 Minutos</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplicar</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>Scrub</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>iSCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervalo de Días</translation>
     </message>
 </context>
 <context>
@@ -311,31 +311,31 @@
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destino:</translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuario:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Equipo:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <source>Local Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración Local</translation>
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programa de Copias de Respaldo:</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer Copia de Respaldo del Conjunto de Datos:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
@@ -407,15 +407,15 @@
     </message>
     <message>
         <source>Select LPS file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar el archivo LPS</translation>
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo del Servidor del Salvavidas (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Reutilizar datos presentes en el equipo</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
@@ -1013,7 +1013,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automático</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
@@ -1117,7 +1117,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intervalo de Días</translation>
     </message>
 </context>
 <context>
