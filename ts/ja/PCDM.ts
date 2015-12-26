@@ -88,11 +88,12 @@
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message>
         <source>Refresh available users</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ツールチップの表示</translatorcomment>
+        <translation>ユーザー一覧を更新します</translation>
     </message>
 </context>
 <context>
