@@ -821,11 +821,11 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar AppCafe? Esto le permite administrar paquetes y jaulas desde un navegador web o dispositivo móvil.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar AppCafe</translation>
     </message>
 </context>
 <context>

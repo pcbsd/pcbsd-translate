@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Port/Package</source>
-        <translation>Puerto/Paquete</translation>
+        <translation>Port/Paquete</translation>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
@@ -204,7 +204,7 @@
     </message>
     <message>
         <source>ScreenShots</source>
-        <translation>Capturas de pantalla</translation>
+        <translation>Capturas de Pantalla</translation>
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>

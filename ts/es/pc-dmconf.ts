@@ -5,7 +5,7 @@
     <name>MainWindow</name>
     <message>
         <source>Login Manager Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones del Gestor de Inicio</translation>
     </message>
     <message>
         <source>Auto login</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Time Delay</source>
-        <translation type="unfinished"></translation>
+        <translation>Retardo de Tiempo</translation>
     </message>
     <message>
         <source>Enable auto login</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Auto login user</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto Inicio de Sesión</translation>
     </message>
     <message>
         <source>Remote login</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Display available users</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplegar usuarios disponibles</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>Missing Config File</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de Configuración Faltante</translation>
     </message>
     <message>
         <source>The PCDM configuration file could not be found: %1</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Password Request</source>
-        <translation type="unfinished"></translation>
+        <translation>Se Necesita Contraseña</translation>
     </message>
     <message>
         <source>Please enter the login password for this user</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Please enter the remote login password</source>
-        <translation type="unfinished">Ingrese la contraseña de login remoto</translation>
+        <translation>Ingrese la contraseña de inicio de sesión remota</translation>
     </message>
     <message>
         <source>Allow Stealth Sessions</source>
@@ -85,11 +85,11 @@
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
-        <translation type="unfinished">Permitir Usuarios Validos con UID menor a 1000</translation>
+        <translation>Permitir Usuarios Validos con UID menor a 1000</translation>
     </message>
     <message>
         <source>Additional Excluded Users</source>
-        <translation type="unfinished">Usuarios Excluidos Adicionales</translation>
+        <translation>Usuarios Excluidos Adicionales</translation>
     </message>
     <message>
         <source>...</source>

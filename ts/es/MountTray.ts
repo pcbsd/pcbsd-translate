@@ -138,46 +138,46 @@
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished">Por favor espere</translation>
+        <translation>Por Favor, Espere</translation>
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>
-        <translation type="unfinished">Re-escaneando dispositivos conectados al sistema</translation>
+        <translation>Re-escaneando dispositivos conectados al sistema</translation>
     </message>
     <message>
         <source>Select ISO File</source>
-        <translation type="unfinished">Elegir un fichero ISO</translation>
+        <translation>Elegir un archivo ISO</translation>
     </message>
     <message>
         <source>ISO Files (*.iso)</source>
-        <translation type="unfinished">Ficheros ISO (*.iso)</translation>
+        <translation>Archivos ISO (*.iso)</translation>
     </message>
     <message>
         <source>Devices Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivos Disponibles</translation>
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay nuevos Dispositivos disponibles para usar</translation>
     </message>
     <message>
         <source>Network Shares</source>
-        <translation type="unfinished"></translation>
+        <translation>Recursos Compartidos de Red</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
         <source>Mount Tray Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones de la Bandeja de Montaje</translation>
     </message>
     <message>
         <source>Monitor disk storage space</source>
-        <translation type="unfinished">Monitorear espacio de almacenamiento en disco</translation>
+        <translation>Monitorear espacio de almacenamiento en disco</translation>
     </message>
     <message>
         <source>Perform check on device notifications</source>
-        <translation type="unfinished">Comprobar notificaciones de dispositivo</translation>
+        <translation>Comprobar notificaciones de dispositivo</translation>
     </message>
     <message>
         <source>Maximum time between checks (minutes)</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks with SMPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproducir discos ópticos con SMPlayer</translation>
     </message>
 </context>
 </TS>
