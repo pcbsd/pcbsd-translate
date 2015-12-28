@@ -649,10 +649,6 @@
         <translation>Bitte warten</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>Lade zpool-Informationen</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>Kein Datensatz vorhanden</translation>
     </message>
@@ -967,6 +963,10 @@
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation>Die Daten wurden erfolgreich wiederhergestellt</translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

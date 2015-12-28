@@ -649,10 +649,6 @@
         <translation>Пожалуйста, подождите</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>Загрузка информации о zpool</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>Отсутствуют доступные наборы данных</translation>
     </message>
@@ -967,6 +963,10 @@
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation>Файл (ы) были успешно восстановлены</translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

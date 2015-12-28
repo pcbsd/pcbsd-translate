@@ -650,10 +650,6 @@
         <translation>しばらくお待ちください</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>zpool の情報を読み込んでいます</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>利用できるデータセットはありません</translation>
     </message>
@@ -970,6 +966,10 @@
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation>ファイルの復旧に成功しました</translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -649,10 +649,6 @@
         <translation>Lütfen Bekleyin</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>Zhavuz bilgisi yükleniyor</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>Kullanılabilir veriseti yok</translation>
     </message>
@@ -967,6 +963,10 @@
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation>Dosya(lar) başarıyla geri yüklendi</translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

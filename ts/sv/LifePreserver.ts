@@ -649,10 +649,6 @@
         <translation>Var god vänta</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>Laddar zpool information</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>Ingen dataset tillgänglig</translation>
     </message>
@@ -966,6 +962,10 @@
     </message>
     <message>
         <source>The file(s) were succesfully restored</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

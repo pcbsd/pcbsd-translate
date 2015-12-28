@@ -654,10 +654,6 @@ The passwords listed ==&gt; De gegeven wahctwoorden</translatorcomment>
         <translation>Even geduld</translation>
     </message>
     <message>
-        <source>Loading zpool information</source>
-        <translation>Zpool informatie laden</translation>
-    </message>
-    <message>
         <source>No datasets available</source>
         <translation>Geen dataset beschikbaar</translation>
     </message>
@@ -972,6 +968,10 @@ The passwords listed ==&gt; De gegeven wahctwoorden</translatorcomment>
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation type="unfinished">Het bestand werd hersteld</translation>
+    </message>
+    <message>
+        <source>Loading Information</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
