@@ -966,7 +966,7 @@
     </message>
     <message>
         <source>Loading Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузка данных</translation>
     </message>
 </context>
 <context>
