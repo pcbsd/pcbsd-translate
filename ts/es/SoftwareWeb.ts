@@ -16,12 +16,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="34"/>
         <source>Note: It may take a couple minutes to apply changes</source>
-        <translation type="unfinished">Nota. Tomara unos minutos para aplicar los cambios</translation>
+        <translation>Nota: Tomará unos minutos para aplicar los cambios</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
         <source>Enterprise (Long Term Support)</source>
-        <translation type="unfinished"></translation>
+        <translation>Empresarial (Soporte Prolongado)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="50"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="57"/>
         <source>Edge (Updates Frequently)</source>
-        <translation type="unfinished"></translation>
+        <translation>Edge (Se Actualiza Frecuentemente)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="64"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="82"/>
         <source>Add new custom repository</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir nuevo repositorio personalizado</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="85"/>
@@ -67,12 +67,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="151"/>
         <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir Acceso remoto a AppCafe? Esto le permite administrar los paquetes y jaulas desde un navegador web o un dispositivo móvil.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="161"/>
         <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar AppCafe Remoto</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="173"/>
@@ -97,17 +97,17 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="204"/>
         <source>Repeat:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetir:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="214"/>
         <source>New Password (repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva Contraseña (repetir)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="221"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Puerto</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="276"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="293"/>
         <source>New Repo URL</source>
-        <translation type="unfinished">Nuevo URL de Repositorio</translation>
+        <translation>Nueva URL del Repositorio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="293"/>
@@ -133,12 +133,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="297"/>
         <source>Invalid Repo URL: Try Again</source>
-        <translation type="unfinished"></translation>
+        <translation>URL del Repositorio Inválida: Intente nuevamente</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="301"/>
         <source>New Repo Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo Nombre de Repositorio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="301"/>
