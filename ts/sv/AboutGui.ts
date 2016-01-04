@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation>Programvaru- och system komponenter...</translation>
+        <translation>Programvaru- och systemkomponenter...</translation>
     </message>
 </context>
 </TS>
