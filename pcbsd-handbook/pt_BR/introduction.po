@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-04 00:12-0800\n"
-"PO-Revision-Date: 2015-11-23 18:00+0000\n"
+"POT-Creation-Date: 2016-01-04 04:12-0800\n"
+"PO-Revision-Date: 2016-01-04 13:42+0000\n"
 "Last-Translator: Reginaldo <reginaldo.l.oliveira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1451914967.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -49535,6 +49539,9 @@ msgstr "suporte somente a leitura carregada por padrão."
 #: ../../introduction.rst:338
 msgid "EXT3 journaling, extended attributes, and inodes greater than 128 bytes are not supported; EXT3 filesystems converted to EXT4 may have better performance"
 msgstr ""
+"Journaling EXT3, atributos estendidos e inodes maiores do que 128 bytes não "
+"são suportados; sistemas de arquivos EXT3 convertidos para EXT4 podem ter um "
+"melhor desempenho"
 
 # c3b9eaac21cf4b049d19e56235bd5215
 # a853496fb3e1475ea626dbcd3d691c70
@@ -49916,7 +49923,7 @@ msgstr ""
 #: ../../introduction.rst:346
 #: ../../introduction.rst:342
 msgid "FAT16"
-msgstr ""
+msgstr "FAT16"
 
 # c9e7acbb5acd41b4974c285482d30ed2
 # fe3eee5ff3b346a69a401d5184b13258
@@ -50298,7 +50305,7 @@ msgstr ""
 #: ../../introduction.rst:348
 #: ../../introduction.rst:344
 msgid "FAT32"
-msgstr ""
+msgstr "FAT32"
 
 # 94d003d80e6347399a54e166583664ea
 # 5b038ce71c4e4c20be800a3e4511b2ee
@@ -50680,7 +50687,7 @@ msgstr ""
 #: ../../introduction.rst:350
 #: ../../introduction.rst:346
 msgid "HFS+"
-msgstr ""
+msgstr "HFS+"
 
 # 6efa7f3793254f8e90a0612211c00979
 # 667d8a98e5754e34925df29c5bcc58a9
@@ -51062,7 +51069,7 @@ msgstr ""
 #: ../../introduction.rst:350
 #: ../../introduction.rst:346
 msgid "Mac OS X"
-msgstr ""
+msgstr "Mac OS X"
 
 # 9168da3bca42416b9099520e95b53bd2
 # d7f23575cd594adebdb7ad3d7a2846e5
@@ -51445,6 +51452,8 @@ msgstr ""
 #: ../../introduction.rst:346
 msgid "older Mac versions might work with `hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
 msgstr ""
+"versões anteriores do Mac podem trabalhar com `hfsexplorer "
+"<http://www.catacombae.org/hfsexplorer>`_"
 
 # 4892fa0679b746f4afa630e573526f96
 # 66486669a80a41ce815f142198cf68f6
@@ -51826,7 +51835,7 @@ msgstr ""
 #: ../../introduction.rst:353
 #: ../../introduction.rst:349
 msgid "JFS"
-msgstr ""
+msgstr "JFS"
 
 # 71d1f911065f4ba295d847a09e910803
 # 96943dea34484be1b1d261f6207e3e97
@@ -52208,7 +52217,7 @@ msgstr ""
 #: ../../introduction.rst:355
 #: ../../introduction.rst:351
 msgid "NTFS5"
-msgstr ""
+msgstr "NTFS5"
 
 # 7dc8f745aa1b437580e1a7a30e7174a8
 # f0fa1743a6e14f3cbca2d8e9e5bf351b
@@ -52590,7 +52599,7 @@ msgstr ""
 #: ../../introduction.rst:355
 #: ../../introduction.rst:351
 msgid "full r/w support loaded by default"
-msgstr ""
+msgstr "suporte total a leitura e escrita carregado por padrão"
 
 # 8bfcde243db74886b61bd3780252a4d9
 # a8492372a1eb44eb9076e4674fb0bd15
@@ -52972,7 +52981,7 @@ msgstr ""
 #: ../../introduction.rst:357
 #: ../../introduction.rst:353
 msgid "NTFS6"
-msgstr ""
+msgstr "NTFS6"
 
 # 6cbf741efe1c40a0a6cdbfe1e219b64a
 # 4f8a74041d1140a0a00fc314ac74c81a
@@ -53354,7 +53363,7 @@ msgstr ""
 #: ../../introduction.rst:359
 #: ../../introduction.rst:355
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 # 69bb628b8ab4431c9f28fa9d59d7d31a
 # 36e3b43428ba4981856d39ddbff93570
@@ -53736,7 +53745,7 @@ msgstr ""
 #: ../../introduction.rst:359
 #: ../../introduction.rst:355
 msgid "r/o support is loaded by default"
-msgstr ""
+msgstr "suporte somente para leitura e escrita carregado por padrão"
 
 # 8b66c18630884b48b88afb79755a1d15
 # ca8df07d6a204c1c88e904618e044267
@@ -54118,7 +54127,7 @@ msgstr ""
 #: ../../introduction.rst:361
 #: ../../introduction.rst:357
 msgid "UFS2"
-msgstr ""
+msgstr "UFS2"
 
 # 18bb651f47a54e5b92dfdb77154d1192
 # 66c4a65eb7db404289d646f720f9d439
@@ -54500,7 +54509,7 @@ msgstr ""
 #: ../../introduction.rst:361
 #: ../../introduction.rst:357
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 # db31f1df9e50400b92ed4ef7402379e2
 # 89203127cade455bb84181066b8b0cbd
@@ -54883,6 +54892,8 @@ msgstr ""
 #: ../../introduction.rst:357
 msgid "check if your Linux distro provides ufsutils; r/w support on Mac; UFS Explorer can be used on Windows"
 msgstr ""
+"verifique se a sua distro Linux fornece ufsutils; suporte a leitura e "
+"escrita no Mac; UFS Explorer pode ser usado no Windows"
 
 # b5a41b8e1ddc4d4cb30d0bb90e45c52f
 # 59612b0e41d446118d56d41f9d2579e5
@@ -55264,7 +55275,7 @@ msgstr ""
 #: ../../introduction.rst:363
 #: ../../introduction.rst:359
 msgid "changed to r/o support in Mac Lion"
-msgstr ""
+msgstr "alterado para suporte somente leitura no Mac Lion"
 
 # d956843ad33a474ab76f6539f83ce262
 # 481cdc0724934f18915146cbae560ece
@@ -55646,7 +55657,7 @@ msgstr ""
 #: ../../introduction.rst:365
 #: ../../introduction.rst:361
 msgid "ZFS"
-msgstr ""
+msgstr "ZFS"
 
 # 44646a7241e54e9791e7b9368050892b
 # 6489db16c7464ceb91c298f7e427922c
@@ -56028,7 +56039,7 @@ msgstr ""
 #: ../../introduction.rst:365
 #: ../../introduction.rst:361
 msgid "PC-BSD, FreeBSD"
-msgstr ""
+msgstr "PC-BSD, FreeBSD"
 
 # e370c022b638450ea79e7e08219fdc2f
 # fc825391689345a68ece9368f62ae242
@@ -57938,7 +57949,7 @@ msgstr ""
 #: ../../introduction.rst:380
 #: ../../introduction.rst:376
 msgid "**Table 1.3b: Names for BSD and Linux Features**"
-msgstr ""
+msgstr "**Tabela 1.3b: Nomes para características BSD e Linux**"
 
 # 90ad5bec229d490b9f290860e33c12fe
 # d853ea896dba42f39d37b70564becbeb
@@ -58320,7 +58331,7 @@ msgstr ""
 #: ../../introduction.rst:383
 #: ../../introduction.rst:379
 msgid "PC-BSD"
-msgstr ""
+msgstr "PC-BSD"
 
 # e9b558f17c544855b73dac964ee4a1ea
 # 96fe86a5823544de8e22291e886a5ecf
@@ -58702,7 +58713,7 @@ msgstr ""
 #: ../../introduction.rst:383
 #: ../../introduction.rst:379
 msgid "**Description**"
-msgstr ""
+msgstr "**Descrição**"
 
 # 1162f788dfd746f3862fc8afba04c926
 # 2c59790a28fd4508a4a6ae342a7071ad
@@ -59084,7 +59095,7 @@ msgstr ""
 #: ../../introduction.rst:385
 #: ../../introduction.rst:381
 msgid "IPFW"
-msgstr ""
+msgstr "IPFW"
 
 # 39d9b7f91e0c400dab22405e9042a04e
 # 7985a584b2d94d9f89005d7c199bfe95
@@ -59466,7 +59477,7 @@ msgstr ""
 #: ../../introduction.rst:385
 #: ../../introduction.rst:381
 msgid "iptables"
-msgstr ""
+msgstr "iptables"
 
 # 181dfc4427564766bf7fffd41470037a
 # e4fbc4e99e5446ab9817087f953edbd8
@@ -59848,7 +59859,7 @@ msgstr ""
 #: ../../introduction.rst:385
 #: ../../introduction.rst:381
 msgid "default firewall"
-msgstr ""
+msgstr "firewall padrão"
 
 # f53bedfea3654c869898e9a714a50ad8
 # d6320a5f95e542398ce73801da8d2a53
@@ -60231,6 +60242,8 @@ msgstr ""
 #: ../../introduction.rst:383
 msgid ":file:`/etc/rc.d/` for operating system and :file:`/usr/local/etc/rc.d/` for applications"
 msgstr ""
+":file:`/etc/rc.d/` para o sistema operacional e :file:`/usr/local/etc/rc.d/` "
+"para aplicações"
 
 # 2f6b74ace7e341b3bbbb4dace26637f1
 # 57a58866fb104e25bd99929b609364e7
@@ -60612,7 +60625,7 @@ msgstr ""
 #: ../../introduction.rst:387
 #: ../../introduction.rst:383
 msgid ":file:`rc0.d/`, :file:`rc1.d/`, etc."
-msgstr ""
+msgstr ":file:`rc0.d/`, :file:`rc1.d/`, etc."
 
 # 9a6b03494ad24f8eb76dc828244d08a1
 # 7d1ab077437643eea0e8db966b146f7c
