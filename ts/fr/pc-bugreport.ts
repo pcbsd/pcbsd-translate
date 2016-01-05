@@ -5,7 +5,7 @@
     <name>MainWindow</name>
     <message>
         <source>PC-BSD bug reporting tool</source>
-        <translation>Outil de rapport de bogues PC-BSD</translation>
+        <translation>Outil de rapport de bug PC-BSD</translation>
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
@@ -51,11 +51,11 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
-        <translation>1. Soumettre un rapport de bogue en utilisant le mécanisme bugzilla de freedesktop</translation>
+        <translation>1. Soumettre un rapport de bug en utilisant le processus bugzilla de freedesktop</translation>
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation>2. Envoyer un courriel à la liste de diffusion de test de xorg. Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
+        <translation>2. Envoyer un courriel à la liste de diffusion de test xorg. Visitez la page internet suivante pour vous abonner ou consulter les archives de cette liste</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
@@ -63,11 +63,11 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation>4 Si vous pensez que ce problème est lié spécifiquement à PC-BSD, veuillez créer un ticket sur ​​le système de suivi de bogue.</translation>
+        <translation>4 Si vous pensez que ce problème est propre à PC-BSD, veuillez créer un ticket sur ​​le bug tracker.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation>Veuillez sélectionner l&apos;environnement de bureau provoquant le problème:</translation>
+        <translation>Veuillez sélectionner l&apos;environnement de bureau provoquant le problème :</translation>
     </message>
     <message>
         <source>Gnome</source>
@@ -79,7 +79,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation>2. Créer un ticket sur ​​le système de suivi de bogue PC-BSD.</translation>
+        <translation>2. Créer un ticket sur ​​le bug tracker PC-BSD.</translation>
     </message>
     <message>
         <source>KDE</source>
@@ -127,7 +127,7 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation>1. Vous pouvez signaler un bogue en utilisant le système de suivi de bogue Cinnamon sur GitHub</translation>
+        <translation>1. Vous pouvez signaler un bug en utilisant le bug tracker Cinnamon sur GitHub</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>

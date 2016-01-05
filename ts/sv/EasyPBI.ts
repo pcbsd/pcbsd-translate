@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Base Directory</source>
-        <translation>Baskatalog</translation>
+        <translation>Grundkatalog</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>Paketkategori (kommer att skapa/användas som modul underkatalog för moduler)</translation>
+        <translation>Paketkategori (kommer att skapa/användas som underkatalog för moduler)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
@@ -129,11 +129,11 @@
     </message>
     <message>
         <source>Category Stopped: %1</source>
-        <translation>Kategori Stoppad: %1</translation>
+        <translation>Stoppad Kategori: %1</translation>
     </message>
     <message>
         <source>Category Finished: %1</source>
-        <translation>Kategori Färdig: %1</translation>
+        <translation>Färdig Kategori: %1</translation>
     </message>
     <message>
         <source>Base Module Directory</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Service Configuration</source>
-        <translation type="unfinished">Tjänstinställningar</translation>
+        <translation>Tjänste inställningar</translation>
     </message>
     <message>
         <source>Visual Options</source>
@@ -492,11 +492,11 @@
     </message>
     <message>
         <source>New Option</source>
-        <translation>Nytt alternativ</translation>
+        <translation>Nytt Alternativ</translation>
     </message>
     <message>
         <source>Remove Option</source>
-        <translation>Ta bort alternativ</translation>
+        <translation>Ta bort Alternativ</translation>
     </message>
     <message>
         <source>Create Template</source>
@@ -520,7 +520,7 @@
     </message>
     <message>
         <source>toolBar</source>
-        <translation>verktygsrad</translation>
+        <translation>Verktygsrad</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Shift+Q</source>
-        <translation>Shift+Q</translation>
+        <translation>Skift+Q</translation>
     </message>
     <message>
         <source>&amp;Package Module</source>
@@ -628,7 +628,7 @@
     </message>
     <message>
         <source>Fetch File List</source>
-        <translation>Hämta Fillista</translation>
+        <translation>Hämta Fil Lista</translation>
     </message>
     <message>
         <source>Load Package File List</source>

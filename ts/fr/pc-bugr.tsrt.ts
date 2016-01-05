@@ -268,11 +268,11 @@ Visitez la page Web suivante pour souscrire ou consulter les archives de cette l
     <name>WebURL</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulaire</translation>
+        <translation>Formulaire</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation>Lancer le navigateur</translation>
+        <translation>Lancer le navigateur internet</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@ Visitez la page Web suivante pour souscrire ou consulter les archives de cette l
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etiquette du texte</translation>
+        <translation>Étiquette du texte</translation>
     </message>
     <message>
         <source>Send message to</source>
@@ -295,11 +295,11 @@ Visitez la page Web suivante pour souscrire ou consulter les archives de cette l
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
-        <translation>Visitez le site Web suivant pour vous abonner ou consulter les archives.</translation>
+        <translation>Visitez la page internet suivante pour vous abonner ou consulter les archives.</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation>Lancer le navigateur</translation>
+        <translation>Lancer le navigateur internet</translation>
     </message>
 </context>
 </TS>

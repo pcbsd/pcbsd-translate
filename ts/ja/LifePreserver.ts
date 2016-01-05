@@ -284,7 +284,8 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>リストボックスでこの項目を選ぶと日数選択コンボボックスが表示される。</translatorcomment>
+        <translation>指定された日数を空ける</translation>
     </message>
 </context>
 <context>
@@ -969,7 +970,7 @@
     </message>
     <message>
         <source>Loading Information</source>
-        <translation type="unfinished"></translation>
+        <translation>情報を取得しています</translation>
     </message>
 </context>
 <context>
@@ -1121,7 +1122,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>指定された日数を空ける</translation>
     </message>
 </context>
 <context>

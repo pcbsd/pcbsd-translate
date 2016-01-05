@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Emergency Shell and Utilities</source>
-        <translation>Nöd-Skal och Verktyg</translation>
+        <translation>Nöd- Skal och Verktyg</translation>
     </message>
     <message>
         <source>Cancel the installation</source>
