@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011-2015, iXsystems
+# Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-04 08:12-0800\n"
+"POT-Creation-Date: 2016-01-04 12:12-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -174,57 +174,8 @@ msgstr ""
 msgid "Version |version|"
 msgstr ""
 
-# cf586867b443421ea1b994d31d1145c9
-# 7d96c9d5470d49b0b252b0cb42ce4007
-# c43abde42c0b47ae907f453c593a0fdc
-# 71fb1ff9de33418ea1613b78b1c03a08
-# 9b3900f386ef4aad987f37d0117b131c
-# 01b8fe59b3e2477eae0172d888b2d10e
-# cfb4b7fad350405482cae1d481eb6e4f
-# 4265cdb147ec4332989e4cd231ccef39
-# c999b68cef4a4a75b697ef296d23673a
-# a7d1533c453c4f6d8a23e93287565c33
-# a17f3911fa774607a87b3a2a18b02349
-# 518f5d47fed94a0cacded87200477b3b
-# ab1ec34a9d0d40b49e0e38eedb3b71c0
-# bd131016dbc343e197044d4c623ed209
-# 6ea631e8e97f42bcb76900fc800f19fb
-# 8d2ba747d4c04718be0b6f8e0acdbfc4
-# 64ab8a026f4549548e47ca57a7bcadee
-# 1386e02ed8f045a7a74912107477120c
-# 39b132e53f014b6b9b2dfd92b4276087
-# b96dab156bdb475ca318b6308612c492
-# 8d6b725f8ab246e1a792a90f14b5e682
-# e1cbcf6471094b448544aac84e6c139c
-# 497186560b874a9fbe7f0ea72871f37b
-# e6157d1db636437e9c9542ee44b4b65e
-# b4dbf1e0f6eb43a1a8527136afdbdd5c
-# 41b4b86dd36f4b508ad50b197444318e
-# 0e2d0eb2e122435d8d193c33fa180b3e
-# 82aad59ec8d143758530989fbf406184
-# 92e8c0c528124b47a25ecef399225233
-# 71fdc8ce67fa4ad59d9723909bb50548
-# 522525c7e3184a87ab95b2cb17f9ee71
-# ef73c0e7bcb64235aab9ac31504334b2
-# a3d9b1748a384be0a372762d5bf7afea
-# 654c429fd84e4916800fc28497c1b925
-# db38129ec2d442faad13b3358b6fe572
-# 971a47b327f44f42b92d0e9959748380
-# ec65cdea4e7943b1997b5f0146d0501a
-# 3395430699d74260b0fcdb9c094a293c
-# 0ea0962a4973491cb26bc24b45c7a789
-# 7d64e489e5384cf58f83e4df9d18c0b9
-# c6064d62a5494ca0b235ee4cd6fe550c
-# 53b26cc45e51429fb6345683d6660fac
-# 6c86ebcca7b749e3ac2e5bde84580e52
-# 809544efc53f47678a6b0a2b3a7f4ab8
-# 319129de9f9d47b9be1afec38d34479f
-# 62516d1088b5400196ed3b46d4e25ec5
-# 7a4d2223844247b2a863cf07d298c7ef
-# 60301fd29eea47d2ab0e43c7bacd84ae
-# 81a190729d98493fb377d40396f25a68
 #: ../../introduction.rst:8
-msgid "Copyright © 2005 - 2015 The PC-BSD® Project."
+msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
 msgstr ""
 
 # 910118bc567b4d4db1c0cc7504e23ea1

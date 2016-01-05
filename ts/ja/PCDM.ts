@@ -172,7 +172,8 @@
     </message>
     <message>
         <source>Refresh PCDM</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ユーザー作成などを反映させるためにPCDMを再起動するメニュー項目の名前</translatorcomment>
+        <translation>PCDM のリフレッシュ</translation>
     </message>
 </context>
 <context>
