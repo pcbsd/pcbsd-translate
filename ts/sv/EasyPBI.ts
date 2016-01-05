@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Port/Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Port/Paket</translation>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Repository Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsinformation</translation>
     </message>
     <message>
         <source>Search Tags</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommaseparerad lista över söktaggar för applikationen</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
-        <translation type="unfinished"></translation>
+        <translation>Frivilliga paket som tillför extra funtionalitet till denna applikation</translation>
     </message>
     <message>
         <source>...</source>
@@ -204,19 +204,19 @@
     </message>
     <message>
         <source>ScreenShots</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmbilder</translation>
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista med URL:er till skärmbilder av applikationen</translation>
     </message>
     <message>
         <source>Similar Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Liknande applikationer</translation>
     </message>
     <message>
         <source>Other applications that are similar to this one</source>
-        <translation type="unfinished"></translation>
+        <translation>Andra applikationer som liknar denna</translation>
     </message>
     <message>
         <source>Author of the main program (or FreeBSD port maintainer instead)</source>
