@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Host:</source>
-        <translation>Host:</translation>
+        <translation>Máquina:</translation>
     </message>
     <message>
         <source>????</source>

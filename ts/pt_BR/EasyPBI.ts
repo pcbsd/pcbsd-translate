@@ -5,7 +5,7 @@
     <name>BulkModuleDialog</name>
     <message>
         <source>EasyPBI: Bulk Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBY: Criador</translation>
     </message>
     <message>
         <source>Setup</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria do pacote (irá criar/utilizar esse como módulo de subdiretório)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de tags separadas por vírgula para o aplicativo</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Set any desktop/menu entries, and any MIME types</source>
-        <translation type="unfinished"></translation>
+        <translation>Defina qualquer entradas no desktop/menu, e qualquer tipo de MIME</translation>
     </message>
     <message>
         <source>Create and edit desktop entries</source>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria de menu para o item a ser localizado.</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
@@ -405,7 +405,7 @@
     </message>
     <message>
         <source>MIME Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Padrões MIME</translation>
     </message>
     <message>
         <source>Space-separated list of automatic file associations (Example: *.junk *.JUNK *.test *.TEST)</source>
@@ -433,7 +433,7 @@
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation type="unfinished">Scripts adicionais de instalação/compilação</translation>
+        <translation>Scripts adicionais de instalação/compilação</translation>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
@@ -585,7 +585,7 @@
     </message>
     <message>
         <source>Open up the PC-BSD Wiki page for PBI developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir a página Wiki do PC-BSD para desenvolvedores PBI</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -601,7 +601,7 @@
     </message>
     <message>
         <source>&amp;Package Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pacote de módulo</translation>
     </message>
     <message>
         <source>Compress the current module for distribution</source>
@@ -621,11 +621,11 @@
     </message>
     <message>
         <source>&amp;Refresh Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atualizar módulo</translation>
     </message>
     <message>
         <source>Bulk Module Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Criador em volume de módulo</translation>
     </message>
     <message>
         <source>Fetch File List</source>
@@ -633,7 +633,7 @@
     </message>
     <message>
         <source>Load Package File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregar arquivo de lista de pacotes</translation>
     </message>
     <message>
         <source>No Module Loaded</source>
@@ -649,7 +649,7 @@
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Houve um erro ao tentar criar a estrutura de diretório local do EasyPBI. Por favor, verifique as permissões para o seu diretório home e reinicie o FácilPBI.</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
@@ -669,7 +669,7 @@
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
-        <translation type="unfinished">Uma cópia do módulo atual foi empacotado com sucesso  dentro do diretório do módulo.</translation>
+        <translation>Uma cópia do módulo atual foi empacotado com sucesso dentro do diretório de módulo.</translation>
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
