@@ -136,7 +136,7 @@
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation>Variante de layout:</translation>
+        <translation>Modelo de teclado:</translation>
     </message>
     <message>
         <source>Typical</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Variant</source>
-        <translation>Variante</translation>
+        <translation>Modelo</translation>
     </message>
 </context>
 <context>
@@ -312,39 +312,39 @@ Se cancelar agora, os pacotes poderão ser corrompidos. Cancelar mesmo assim?</t
     </message>
     <message>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation>MD5</translation>
     </message>
     <message>
         <source>MSCHAPV2</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAPV2</translation>
     </message>
     <message>
         <source>GTC</source>
-        <translation type="unfinished"></translation>
+        <translation>GTC</translation>
     </message>
     <message>
         <source>OTP</source>
-        <translation type="unfinished"></translation>
+        <translation>OTP</translation>
     </message>
     <message>
         <source>PAP</source>
-        <translation type="unfinished"></translation>
+        <translation>PAP</translation>
     </message>
     <message>
         <source>CHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>CHAP</translation>
     </message>
     <message>
         <source>MSCHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAP</translation>
     </message>
     <message>
         <source>Phase 2 Auth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticação fase 2:</translation>
     </message>
     <message>
         <source>Anonymous Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Identidade anônima:</translation>
     </message>
 </context>
 <context>
