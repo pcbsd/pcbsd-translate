@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Synligt Namn:</translation>
     </message>
     <message>
         <source>InternetGateway</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+Backspace dödar xorg </translation>
     </message>
 </context>
 <context>

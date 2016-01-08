@@ -157,7 +157,7 @@
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Test</source>
@@ -232,7 +232,7 @@
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Inaktivera IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
@@ -291,22 +291,22 @@
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Säkerhetstyp:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Textetikett</translation>
     </message>
 </context>
 <context>
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished">Tangentbordsinställningar</translation>
+        <translation>Tangentbordsinställningar</translation>
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished">Tangentlayout</translation>
+        <translation>Tangentlayout</translation>
     </message>
     <message>
         <source>Variant</source>

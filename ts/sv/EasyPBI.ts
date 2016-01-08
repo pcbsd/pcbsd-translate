@@ -244,7 +244,7 @@
     </message>
     <message>
         <source>No Specific Icon!</source>
-        <translation type="unfinished">Ingen spekifik </translation>
+        <translation>Ingen spekifik Ikon!</translation>
     </message>
     <message>
         <source>View Package Overrides (optional)</source>
@@ -272,15 +272,15 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licens</translation>
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Program Licens(er)</translation>
     </message>
     <message>
         <source>+ Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Paket</translation>
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>Make Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör Osynlig</translation>
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
@@ -688,7 +688,7 @@
     </message>
     <message>
         <source>EasyPBI Error</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI Fel</translation>
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
@@ -696,15 +696,15 @@
     </message>
     <message>
         <source>Screenshot URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmdump URL</translation>
     </message>
     <message>
         <source>Screenshot URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skärmdump URL:</translation>
     </message>
     <message>
         <source>Find Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta ikon fil</translation>
     </message>
     <message>
         <source>PNG Icon (*.png)</source>
@@ -747,7 +747,7 @@
     </message>
     <message>
         <source>FreeBSD Package</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD Paket</translation>
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
@@ -755,11 +755,11 @@
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitta</translation>
     </message>
     <message>
         <source>Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikon fil</translation>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
@@ -771,7 +771,7 @@
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Välj</translation>
+        <translation>Välj</translation>
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
@@ -830,7 +830,7 @@
     </message>
     <message>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Moduler</translation>
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
@@ -937,11 +937,11 @@
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maxlängd:</translation>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Göm Text (t.e.x lösenord)</translation>
     </message>
     <message>
         <source>Options List</source>
@@ -996,11 +996,11 @@
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Om EasyPBI</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licens</translation>
     </message>
     <message>
         <source>Development History</source>
@@ -1047,7 +1047,7 @@
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptera</translation>
     </message>
     <message>
         <source>No Packages Available</source>
