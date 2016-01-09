@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>DialogReminder</name>
     <message>
         <source>System Restart Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicio del Sistema Requerido</translation>
     </message>
     <message>
         <source>The system needs to be restarted to finish installing updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema necesita reiniciarse para terminar de instalar las actualizaciones.</translation>
     </message>
     <message>
         <source>Next Reminder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente Recordatorio:</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 Minutos</translation>
     </message>
     <message>
         <source>1 Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Hora</translation>
     </message>
     <message>
         <source>5 Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>5 Horas</translation>
     </message>
     <message>
         <source>12 Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 Horas</translation>
     </message>
     <message>
         <source>24 Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>24 Horas</translation>
     </message>
     <message>
         <source>Reboot Now!</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiniciar Ahora!</translation>
     </message>
     <message>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordarme Más Tarde</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Reboot required to finish updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicio requerido para terminar actualizaciones</translation>
     </message>
     <message>
         <source>Performing background updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizando actualizaciones en segundo plano</translation>
     </message>
     <message>
         <source>OS Update Available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización del SO Disponible: %1</translation>
     </message>
     <message>
         <source>System updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones del sistema disponibles</translation>
     </message>
     <message>
         <source>Package updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones de paquetes disponibles</translation>
     </message>
     <message>
         <source>Jail updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones de jaulas disponibles</translation>
     </message>
     <message>
         <source>System up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema actualizado!</translation>
     </message>
     <message>
         <source>Unable to determine system status</source>
@@ -123,39 +123,39 @@
     </message>
     <message>
         <source>Auto-Update: Packages Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización Automática: Solo Paquetes</translation>
     </message>
     <message>
         <source>Auto-Update: Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización Automática: Deshabilitada</translation>
     </message>
     <message>
         <source>Auto-Update: Security &amp; Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización Automática: Seguridad y Paquetes</translation>
     </message>
     <message>
         <source>Last Update: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Última Actualización: %1</translation>
     </message>
     <message>
         <source>Updates Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones Disponibles</translation>
     </message>
     <message>
         <source>Update Procedure Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedimiento de Actualización Corriendo</translation>
     </message>
     <message>
         <source>Routing through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruteando a través de Tor</translation>
     </message>
     <message>
         <source>Check Tor connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar conexión Tor</translation>
     </message>
     <message>
         <source>(Routing through Tor)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ruteando a través de Tor)</translation>
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
