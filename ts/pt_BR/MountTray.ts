@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>No Filesystem Detected</source>
-        <translation>Nenhum Sistema de Arquivos Detectado</translation>
+        <translation>Nenhum sistema de arquivos detectado</translation>
     </message>
     <message>
         <source>Select a filesystem to try:</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks with SMPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>Reproduzir automaticamente discos com o SMPlayer</translation>
     </message>
 </context>
 </TS>

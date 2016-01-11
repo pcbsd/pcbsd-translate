@@ -5,19 +5,19 @@
     <name>PartitionSelect</name>
     <message>
         <source>Select a Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione uma partição</translation>
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione um disco/partição para %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Concluído</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation type="unfinished">Ambiente de inicialização único</translation>
+        <translation>Ambiente de inicialização único</translation>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
@@ -263,7 +263,7 @@
     </message>
     <message>
         <source>Verify BE Removal</source>
-        <translation type="unfinished">Verificar a remoção do ambiente de inicialização</translation>
+        <translation>Verificar a remoção do ambiente de inicialização</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>

@@ -40,12 +40,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="14"/>
         <source>Mixer</source>
-        <translation type="unfinished">Mixer</translation>
+        <translation>Mixer</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="25"/>
         <source>Mixer Controls</source>
-        <translation type="unfinished">Controles do mixer</translation>
+        <translation>Controles do mixer</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="49"/>
@@ -60,7 +60,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="80"/>
         <source>Default Tray Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandeja padrão do dispositivo:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="93"/>
@@ -75,7 +75,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="128"/>
         <source>&amp;File</source>
-        <translation type="unfinished">&amp;Arquivo</translation>
+        <translation>&amp;Arquivo</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="136"/>
@@ -85,12 +85,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="152"/>
         <source>Close Mixer and Tray</source>
-        <translation type="unfinished">Fechar mixer e bandeja</translation>
+        <translation>Fechar mixer e bandeja</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="161"/>
         <source>&amp;Quit Mixer</source>
-        <translation type="unfinished">&amp;Sair do mixer</translation>
+        <translation>&amp;Sair do mixer</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="170"/>
@@ -105,7 +105,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="182"/>
         <source>&amp;PulseAudio Mixer</source>
-        <translation type="unfinished">Mixer do &amp;PulseAudio</translation>
+        <translation>Mixer do &amp;PulseAudio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="185"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="194"/>
         <source>PulseAudio &amp;Settings</source>
-        <translation type="unfinished">Configuraçõe&amp;s do PulseAudio</translation>
+        <translation>Configuraçõe&amp;s do PulseAudio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="197"/>
@@ -133,7 +133,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="20"/>
         <source>Mixer</source>
-        <translation type="unfinished">Mixer</translation>
+        <translation>Mixer</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="33"/>

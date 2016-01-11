@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>User-portion of the disk encryption key</source>
-        <translation type="unfinished"></translation>
+        <translation>Parte-usuário da chave de criptografia de disco</translation>
     </message>
     <message>
         <source>Device Password</source>
@@ -181,19 +181,19 @@
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome de domínio</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, insira um nome de domínio</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>O nome de domínio deve conter somente letras e números</translation>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Serviços opcionais</translation>
     </message>
 </context>
 <context>
@@ -224,19 +224,19 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir acesso SSH neste sistema através de sistemas remotos</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar o SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Desabilitar IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Desabilitar o uso de conexões IPv6</translation>
     </message>
 </context>
 <context>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Rótulo do Texto</translation>
     </message>
 </context>
 <context>
