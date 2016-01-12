@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Login to the system with the current user and password</source>
-        <translation type="unfinished">Acessar o sistema com o atual usuário e senha</translation>
+        <translation>Acessar o sistema com o usuário e senha atuais</translation>
     </message>
     <message>
         <source>Password</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>Login to %1</source>
-        <translation type="unfinished">Autenticar-se no %1</translation>
+        <translation>Autenticar-se em %1</translation>
     </message>
     <message>
         <source>Device encryption key</source>
