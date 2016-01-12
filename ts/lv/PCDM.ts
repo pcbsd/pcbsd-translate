@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>FancySwitcher</name>
     <message>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Keyboard Layout</source>
-        <translation type="unfinished">Klaviatūras izkārtojums</translation>
+        <translation>Tastatūras izkārtojums</translation>
     </message>
     <message>
         <source>System</source>

@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Your system is now being installed! This process may take a while, depending upon the installation options chosen, and system speed. You will be notified when the installation is finished.</source>
-        <translation>Ditt system installeras nu! Denna process kan ta en stund, beroende på de valda installationsalternativen och systemet hastighet. Du kommer att meddelas när installationen har slutförts.</translation>
+        <translation>Ditt system installeras nu! Denna process kan ta en stund, beroende på de valda installationsalternativen och systemets hastighet. Du kommer att meddelas när installationen har slutförts.</translation>
     </message>
     <message>
         <source>Your system is now installed!
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Unable to detect any disk drives! The install will now exit.</source>
-        <translation>Kan ej hitta några diskenheter! Installeraren kommer nu att avslutas.</translation>
+        <translation>Kan ej hitta några diskenheter! Installationsprogrammet kommer nu att avslutas.</translation>
     </message>
     <message>
         <source>Unable to suggest a partition for the detected disk.</source>
@@ -301,7 +301,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj typen av installation som ska genomföras</translation>
     </message>
     <message>
         <source>Graphical desktop</source>
@@ -340,7 +340,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
-        <translation>Ditt system installeras nu! Gå och hämta en kopp kaffe och slappna av, installeraren kommer att meddela dig när den är klar.</translation>
+        <translation>Ditt system installeras nu! Gå och hämta en kopp kaffe och slappna av, installationsprogrammetkommer att meddela dig när den är klar.</translation>
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
@@ -406,14 +406,14 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Avbryt</translation>
+        <translation>&amp;Avbryt</translation>
     </message>
 </context>
 <context>
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Stäng</translation>
+        <translation>&amp;Stäng</translation>
     </message>
 </context>
 <context>
@@ -538,23 +538,23 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Below you may adjust the file-system mount points. For most users the defaults will work best. </source>
-        <translation type="unfinished">Här nedan kan du ändra filsystemets monteringspunkter. För de flesta användare fungerar standardvalen bäst.</translation>
+        <translation>Här nedan kan du ändra filsystemets monteringspunkter. För de flesta användare fungerar standardvalen bäst. </translation>
     </message>
     <message>
         <source>(MB)</source>
-        <translation type="unfinished">(MB)</translation>
+        <translation>(MB)</translation>
     </message>
     <message>
         <source>Swap Size</source>
-        <translation type="unfinished">Swap storlek</translation>
+        <translation>Swap storlek</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lägg till</translation>
+        <translation>&amp;Lägg till</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Ta bort</translation>
+        <translation>&amp;Ta bort</translation>
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
@@ -562,7 +562,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>&amp;Launch terminal</source>
-        <translation type="unfinished">&amp;Starta terminal</translation>
+        <translation>&amp;Starta terminal</translation>
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
@@ -682,7 +682,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>GPT (Best for new hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT (Bäst för ny hårdvara)</translation>
     </message>
     <message>
         <source>MBR (Legacy)</source>
@@ -694,11 +694,11 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>UEFI (Moderna moderkort)</translation>
     </message>
     <message>
         <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOS (Gamla moderkort)</translation>
     </message>
     <message>
         <source>Add additional disks to zpool</source>
@@ -781,11 +781,11 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished">IP-adress</translation>
+        <translation>IP-adress</translation>
     </message>
     <message>
         <source>Netmask</source>
-        <translation type="unfinished">Nätmask</translation>
+        <translation>Nätmask</translation>
     </message>
     <message>
         <source>Nameserver (DNS)</source>
@@ -825,7 +825,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Installera AppCafe</translation>
     </message>
 </context>
 <context>
