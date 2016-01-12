@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>(Routing through Tor)</source>
-        <translation type="unfinished">(Roteamento através do Tor)</translation>
+        <translation>(Roteamento através do Tor)</translation>
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>
-        <translation type="unfinished">Nota: Após habilitar o Tor, pode demorar um minuto ou mais para conectar à rede Tor</translation>
+        <translation>Nota: Após habilitar o Tor, pode demorar um minuto ou mais para conectar à rede Tor</translation>
     </message>
     <message>
         <source>Enable Tor?</source>

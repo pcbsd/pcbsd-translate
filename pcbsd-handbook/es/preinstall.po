@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-12 00:12-0800\n"
-"PO-Revision-Date: 2015-12-01 02:15+0000\n"
+"POT-Creation-Date: 2016-01-12 04:13-0800\n"
+"PO-Revision-Date: 2016-01-12 15:41+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1452613312.000000\n"
 
 # b6e8cb0c1ede43f2b21ca1139feac6d5
 # 56a6ba8b1c8f473495e8c2949de12299
@@ -34802,7 +34806,7 @@ msgstr ""
 #: ../../preinstall.rst:437
 #: ../../preinstall.rst:434
 msgid "Burning to DVD on a Mac OS X System"
-msgstr "Grabando un DVD en un Sistema Mac OS X"
+msgstr "Grabando a un DVD en un Sistema Mac OS X"
 
 # 83c94601607948ad9041767c5e6d5b23
 # 0d60721391d34172a0b0ba0217c16feb

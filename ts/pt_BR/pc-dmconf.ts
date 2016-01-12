@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Auto login user</source>
-        <translation type="unfinished">Logar usuário automaticamente</translation>
+        <translation>Login automático de usuário</translation>
     </message>
     <message>
         <source>Remote login</source>
@@ -77,30 +77,30 @@
     </message>
     <message>
         <source>Please enter the remote login password</source>
-        <translation type="unfinished">Por favor, digite a senha de sessão remota</translation>
+        <translation>Por favor, digite a senha de login remoto</translation>
     </message>
     <message>
         <source>Allow Stealth Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir sessões ocultas</translation>
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
-        <translation type="unfinished"></translation>
+        <translation>Permitir usuários válidos com UID inferior a 1000</translation>
     </message>
     <message>
         <source>Additional Excluded Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuários adicionais excluídos</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>You should run this application as root</source>
-        <translation type="unfinished">Você deve executar este aplicativo como root</translation>
+        <translation>Você deve executar este aplicativo como root</translation>
     </message>
 </context>
 </TS>
