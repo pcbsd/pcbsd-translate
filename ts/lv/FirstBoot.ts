@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
-        <translation type="unfinished">Instalēšana pabeigta! Klikšķini [Pabeigt], lai pieteiktos savā jaunajā darbvirsmā.</translation>
+        <translation type="unfinished">Instalēšana pabeigta! Klikšķini Pabeigt, lai pieteiktos savā jaunajā darbvirsmā.</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished">(zemāk norādītajā laukā Tu vari pārbaudīt Tevis izvēlētos iestatījumus)</translation>
+        <translation>( zemāk redzamajā laukā varat pārbaudīt jūsu izvēlētos iestatījumus. )</translation>
     </message>
     <message>
         <source>&amp;Apply</source>

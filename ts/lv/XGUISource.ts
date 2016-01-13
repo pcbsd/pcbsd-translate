@@ -1,165 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>QObject</name>
     <message>
         <source>Keep these display settings?</source>
-        <translation type="unfinished">Vai saglabāt šos ekrāna iestatījumus?</translation>
+        <translation>Vai paturēt šos displeja iestatījumus?</translation>
     </message>
     <message>
         <source>The previous attempt failed, please check your settings and try again.</source>
-        <translation type="unfinished">Iepriekšējais mēģinājums izgāzās, lūdzu pārbaudi savus iestatījumus un mēģini vēlreiz.</translation>
+        <translation>Iepriekšējais mēģinājums izgāzās, lūdzu, pārbaudiet savus iestatījumus un mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Your display has been configured.
 Keep these settings?</source>
-        <translation type="unfinished">Tavs ekrāns ir iestatīts.
-Saglabāt šos iestatījumus?</translation>
+        <translation>Jūsu displejs ir nokonfigurēts.
+Vai paturēt šos iestatījumus?</translation>
     </message>
 </context>
 <context>
     <name>XGUI</name>
     <message>
         <source>Display Settings</source>
-        <translation type="unfinished">Ekrāna iestatījumi</translation>
+        <translation>Displeja iestatījumi</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Pamata</translation>
+        <translation>Vispārīgi</translation>
     </message>
     <message>
         <source>Video Card:</source>
-        <translation type="unfinished">Video adapteris:</translation>
+        <translation>Video adapteris:</translation>
     </message>
     <message>
         <source>Monitor:</source>
-        <translation type="unfinished">Ekrāns:</translation>
+        <translation>Monitors:</translation>
     </message>
     <message>
         <source>Screen Resolution:</source>
-        <translation type="unfinished">Ekrāna izšķirtspēja:</translation>
+        <translation>Ekrāna izšķirtspēja:</translation>
     </message>
     <message>
         <source>1024x768</source>
-        <translation type="unfinished">1024x768</translation>
+        <translation>1024x768</translation>
     </message>
     <message>
         <source>Color Depth:</source>
-        <translation type="unfinished">Krāsu dziļums:</translation>
+        <translation>Krāsu dziļums:</translation>
     </message>
     <message>
         <source>24bits</source>
-        <translation type="unfinished">24biti</translation>
+        <translation>24biti</translation>
     </message>
     <message>
         <source>Video Driver</source>
-        <translation type="unfinished">Video draiveris</translation>
+        <translation>Video draiveris</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished">Papildus</translation>
+        <translation>Papildus</translation>
     </message>
     <message>
         <source>Monitor Settings</source>
-        <translation type="unfinished">Monitora iestatījumi</translation>
+        <translation>Monitora iestatījumi</translation>
     </message>
     <message>
         <source>Enable Dual-Head support</source>
-        <translation type="unfinished">Iespējot divgalvaino (dual-head) atbalstu</translation>
+        <translation>Iespējot Dual-Head atbalstu</translation>
     </message>
     <message>
         <source>Monitor Resolution:</source>
-        <translation type="unfinished">Ekrāna izšķirtspēja:</translation>
+        <translation>Monitora izšķirtspēja:</translation>
     </message>
     <message>
         <source>Dual-Head support is designed for systems with one video card and two monitors. Other setups may be achieved by editing /etc/X11/xorg.conf</source>
-        <translation type="unfinished">Davgalvainais (Dual-Head) atbalsts ir domāts sistēmām ar vienu video adapteri un diviem ekrāniem. Citi iestatījumi var tikt ieregulēti rediģējot failu /etc/X11/xorg.conf</translation>
+        <translation>Dual-Head atbalsts ir domāts sistēmām ar vienu video adapteri un diviem monitoriem. Savādākas konfigurācijas var panākt ar faila /etc/X11/xorg.conf rediģēšanu</translation>
     </message>
     <message>
         <source>Horizontal Sync:</source>
-        <translation type="unfinished">Horizontālā sinhronizācija:</translation>
+        <translation>Horizontālā sinhronizācija:</translation>
     </message>
     <message>
         <source>28.0-78.0</source>
-        <translation type="unfinished">28.0-78.0</translation>
+        <translation>28.0-78.0</translation>
     </message>
     <message>
         <source>Vertical Refresh:</source>
-        <translation type="unfinished">Vertikālā atsvaidzināšana:</translation>
+        <translation>Vertikālās atsvaidzināšanas biežums:</translation>
     </message>
     <message>
         <source>50.0-76.0</source>
-        <translation type="unfinished">50.0-76.0</translation>
+        <translation>50.0-76.0</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Piemērot</translation>
+        <translation>Piemērot</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Izlaist</translation>
+        <translation>Izlaist</translation>
     </message>
     <message>
         <source>Unknown Monitor</source>
-        <translation type="unfinished">Nezināms ekrāns</translation>
+        <translation>Nezināms monitors</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Brīdinājums!</translation>
+        <translation>Brīdinājums!</translation>
     </message>
     <message>
         <source>PC-BSD was unable to autodetect your monitor. You may need to specify this monitor&apos;s Horizontal and Vertical refresh rates in the &apos;Advanced&apos; tab.</source>
-        <translation type="unfinished">PC-BSD diemžēl nespēja automātiski atpazīt Tavu ekrānu. Tev var nākties precizēt šī ekrāna horizontālo un vertikālo atsvaidzināšanu cilnē [Papildus].</translation>
+        <translation>PC-BSD nespēja automātiski atpazīt jūsu monitoru. Jums, iespējams, vajag norādīt monitora horizontālo un vertikālo atsvaidzināšanas biežumu cilnē Papildus.</translation>
     </message>
     <message>
         <source>The settings you have specified will now be tested.
 If your screen does not appear, please wait and you will be returned to this screen.</source>
-        <translation type="unfinished">Tavi izvēlētie iestatījumi tagad tiks iemēģināti.
-Ja uz ekrāna nekas (salasāms) neparādās, lūdzu uzgaidi un drīzumā tiks atgriezts šis pats ekrāna saturs.</translation>
+        <translation>Jūsu norādītie iestatījumi tagad tiks pārbaudīti.
+Ja uz ekrāna nekas (salasāms) neparādās, lūdzu, uzgaidiet un jūs atgriezīsieties pie šī ekrāna.</translation>
     </message>
 </context>
 <context>
     <name>dialogConfirm</name>
     <message>
         <source>Confirm Resolution</source>
-        <translation type="unfinished">Apstiprināt izšķirtspēju</translation>
+        <translation>Apstiprināt izšķirtspēju</translation>
     </message>
     <message>
         <source>Do you wish to use this resolution?</source>
-        <translation type="unfinished">Vai vēlies izmantot šo izšķirtspēju?</translation>
+        <translation>Vai vēlies izmantot šo izšķirtspēju?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Jā</translation>
+        <translation>Jā</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Nē</translation>
+        <translation>Nē</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Labi</translation>
+        <translation>&amp;Labi</translation>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation type="unfinished">Izšķirtspēja:</translation>
+        <translation>Izšķirtspēja:</translation>
     </message>
     <message>
         <source>Driver:</source>
-        <translation type="unfinished">Draiveris:</translation>
+        <translation>Draiveris:</translation>
     </message>
     <message>
         <source>Auto-close in 10 seconds...</source>
-        <translation type="unfinished">Automātiska aizvēršanās pēc 10 sekundēm...</translation>
+        <translation>Automātiska aizvēršanās pēc 10 sekundēm...</translation>
     </message>
     <message>
         <source>Auto-close in </source>
-        <translation type="unfinished">Automātiska aizvēršanās pēc </translation>
+        <translation>Automātiska aizvēršanās pēc </translation>
     </message>
     <message>
         <source> seconds...</source>
-        <translation type="unfinished"> sekundēm...</translation>
+        <translation> sekundēm...</translation>
     </message>
 </context>
 </TS>

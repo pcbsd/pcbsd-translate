@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Custom MAC address</source>
@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>IPv6:</source>
-        <translation type="unfinished">IPv6:</translation>
+        <translation>IPv6:</translation>
     </message>
     <message>
         <source>Mac:</source>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished">999.999.999.999; {999\.999\.999\.999;?}</translation>
+        <translation type="unfinished">999\.999\.999\.999; </translation>
     </message>
 </context>
 </TS>

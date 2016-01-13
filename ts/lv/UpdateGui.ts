@@ -75,7 +75,7 @@ Lūdzu, atjauniniet Jūsu sistēmu</translation>
     </message>
     <message>
         <source>&lt;system info&gt;</source>
-        <translation>&lt;system info&gt;</translation>
+        <translation>&lt;sistēmas info&gt;</translation>
     </message>
     <message>
         <source>Start Updates</source>
@@ -187,7 +187,7 @@ Lūdzu, atjauniniet Jūsu sistēmu</translation>
     </message>
     <message>
         <source>Auto-install all updates (including major OS upgrades)</source>
-        <translation type="unfinished">Automātiski uzstādīt visus atjauninājumus (t.sk. galvenos OS)</translation>
+        <translation>Automātiski uzstādīt visus atjauninājumus (t.sk. galvenos OS)</translation>
     </message>
     <message>
         <source>Auto-install security updates only</source>
@@ -264,7 +264,7 @@ Lūdzu, atjauniniet Jūsu sistēmu</translation>
     <message>
         <source>System is current up to date</source>
         <translatorcomment>&apos;currently&apos; or &apos;current and&apos;?</translatorcomment>
-        <translation type="unfinished">Sistēma pašlaik ir aktuāla</translation>
+        <translation>Sistēma pašlaik ir aktuāla</translation>
     </message>
     <message>
         <source>No update logs available</source>

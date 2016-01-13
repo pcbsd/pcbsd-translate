@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>NetworkTray</name>
     <message>
@@ -17,11 +17,11 @@
     </message>
     <message>
         <source>IPv6:</source>
-        <translation type="unfinished">IPv6:</translation>
+        <translation>IPv6:</translation>
     </message>
     <message>
         <source>Mac/Ether:</source>
-        <translation type="unfinished">Mac/Ether:</translation>
+        <translation>Mac/Ether:</translation>
     </message>
     <message>
         <source>Media:</source>

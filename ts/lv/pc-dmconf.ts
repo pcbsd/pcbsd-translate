@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>MainWindow</name>
     <message>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Enable &quot;show password&quot; button</source>
-        <translation type="unfinished">Iespējot pogu [parādīt paroli]</translation>
+        <translation>Iespējot pogu &quot;parādīt paroli&quot;</translation>
     </message>
     <message>
         <source>Display available users</source>

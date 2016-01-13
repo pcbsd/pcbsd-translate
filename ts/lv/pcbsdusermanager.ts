@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>AddDlgCode</name>
     <message>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
-        <translation type="unfinished">- &apos;Mājas mapes&apos; novietošana ārpus &apos;/home/&apos; var radīt saderības problēmas ar dažām programmām. Tas NAV IETEICAMS</translation>
+        <translation>- Mājas mapes novietošana ārpus &apos;/home/&apos; var radīt saderības problēmas ar dažām programmām un tas NAV IETEICAMS.</translation>
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
@@ -363,7 +363,7 @@
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished">Alt+V</translation>
+        <translation>Alt+V</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>

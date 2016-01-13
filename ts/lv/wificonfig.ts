@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>dialogWPAPersonal</name>
     <message>
@@ -95,7 +95,7 @@
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished">999.999.999.999; {999\.999\.999\.999;?}</translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 <context>
@@ -310,7 +310,7 @@
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>Select</source>
@@ -428,33 +428,36 @@
     <message>
         <source>WEP is selected, but not configured!
 Please configure your WEP key before saving!</source>
-        <translation type="unfinished">WEP ir izvēlēts, bet nav iestatīts! Lūdzu iestati WEP atslēgu pirms saglabāšanas!</translation>
+        <translation>WEP ir izvēlēts, bet nav nokonfigurēts!
+Lūdzu, iestatiet WEP atslēgu pirms saglabāšanas!</translation>
     </message>
     <message>
         <source>WPA-Personal is selected, but not configured!
 Please configure your WPA key before saving!</source>
-        <translation type="unfinished">WPA-Personiskais ir izvēlēts, bet nav iestatīts! Lūdzu iestati WPA atslēgu pirms saglabāšanas!</translation>
+        <translation>WPA-Personal ir izvēlēts, bet nav nokonfigurēts!
+Lūdzu, iestatiet WPA atslēgu pirms saglabāšanas!</translation>
     </message>
     <message>
         <source>WPA-Enterprise is selected, but not configured!
 Please configure your WPA settings before saving!</source>
-        <translation type="unfinished">WPA-Biznesa ir izvēlēts, bet nav iestatīts! Lūdzu nokonfigurē WPA iestatījumus pirms saglabāšanas!</translation>
+        <translation>WPA-Enterprise ir izvēlēts, bet nav nokonfigurēts!
+Lūdzu, nokonfigurējiet WPA iestatījumus pirms saglabāšanas!</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Saglabāt</translation>
+        <translation>Saglabāt</translation>
     </message>
     <message>
         <source>WEP (Configured)</source>
-        <translation type="unfinished">WEP (iestatīts)</translation>
+        <translation>WEP (nokonfigurēts)</translation>
     </message>
     <message>
         <source>WPA Personal (Configured)</source>
-        <translation type="unfinished">WPA Personiskais (iestatīts)</translation>
+        <translation>WPA Personal (nokonfigurēts)</translation>
     </message>
     <message>
         <source>WPA Enterprise (Configured)</source>
-        <translation type="unfinished">WPA Biznesa (iestatīts)</translation>
+        <translation>WPA Enterprise (nokonfigurēts)</translation>
     </message>
     <message>
         <source>WPA-Enterprise is selected, but not configured!

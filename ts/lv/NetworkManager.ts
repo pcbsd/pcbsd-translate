@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>DNSList</name>
     <message>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Enable wireless / wired failover via lagg0 interface</source>
-        <translation type="unfinished">Iespējot bezvadu|vadu kļūmjdrošumu caur saskarni lagg0</translation>
+        <translation>Iespējot bezvadu / vadu kļūmjdrošumu caur saskarni lagg0</translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation type="unfinished">Sistēmas &quot;hosta&quot; nosaukums</translation>
+        <translation type="unfinished">Sistēmas hosta vārds</translation>
     </message>
     <message>
         <source>Enable Custom DNS</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>IPV6 DNS 1:</source>
-        <translation type="unfinished">IPv6 DNS 1:</translation>
+        <translation>IPv6 DNS 1:</translation>
     </message>
     <message>
         <source>IPv6 DNS 2:</source>
-        <translation type="unfinished">IPv6 DNS 2:</translation>
+        <translation>IPv6 DNS 2:</translation>
     </message>
     <message>
         <source>Proxy</source>
@@ -172,11 +172,11 @@
     </message>
     <message>
         <source>Need Root Access</source>
-        <translation type="unfinished">Nepieciešama &quot;root&quot; pieeja</translation>
+        <translation>Nepieciešama root pieeja</translation>
     </message>
     <message>
         <source>This program must be run as root!</source>
-        <translation type="unfinished">Šai programmai jābūt palaistai ar &quot;root&quot; tiesībām!</translation>
+        <translation>Šai programmai jābūt palaistai ar root tiesībām!</translation>
     </message>
     <message>
         <source>Detecting Devices...</source>

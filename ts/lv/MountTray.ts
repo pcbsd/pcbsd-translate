@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>DeviceWidget</name>
     <message>
@@ -107,7 +107,7 @@
     <name>FSWatcher</name>
     <message>
         <source>Disk(s) Almost Full</source>
-        <translation type="unfinished">Disks(i) gandrīz pilni</translation>
+        <translation>Disks/-i gandrīz pilni</translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished">Lūdzu pacieties            </translation>
+        <translation>Lūdzu, uzgaidiet</translation>
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>

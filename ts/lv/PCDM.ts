@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished">(šeit apakšā Tu vari pārbaudīt paša izvēlētos iestatījumus.)</translation>
+        <translation>( zemāk redzamajā laukā varat pārbaudīt jūsu izvēlētos iestatījumus. )</translation>
     </message>
     <message>
         <source>&amp;Apply</source>

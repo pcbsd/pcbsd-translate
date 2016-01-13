@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="lv">
 <context>
     <name>PBI</name>
     <message>
@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>&lt;Author&gt;</source>
-        <translation type="unfinished">&lt;Author&gt;</translation>
+        <translation>&lt;Autors&gt;</translation>
     </message>
     <message>
         <source>&lt;Web&gt;</source>
-        <translation type="unfinished">&lt;Web&gt;</translation>
+        <translation>&lt;Tīmeklis&gt;</translation>
     </message>
     <message>
         <source>Valid Digital Signature</source>
@@ -41,15 +41,15 @@
     </message>
     <message>
         <source>&lt;Status&gt;</source>
-        <translation type="unfinished">&lt;Status&gt;</translation>
+        <translation>&lt;Statuss&gt;</translation>
     </message>
     <message>
         <source>&lt;progress&gt;</source>
-        <translation type="unfinished">&lt;progress&gt;</translation>
+        <translation>&lt;progress&gt;</translation>
     </message>
     <message>
-        <source>&lt;b&gt;&lt;font size=&quot;+1&quot;&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click &quot;Finish&quot; to exit.</source>
-        <translation type="unfinished">&lt;b&gt;&lt;font size=&quot;+1&quot;&gt;Instalēšana pabeigta! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Spied [Beigt], lai izietu.</translation>
+        <source>&lt;b&gt;&lt;font size="+1"&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click "Finish" to exit.</source>
+        <translation>&lt;b&gt;&lt;font size="+1"&gt;Uzstādīšana pabeigta! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Spied "Beigt", lai izietu.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -85,11 +85,11 @@
     </message>
     <message>
         <source>Error, This application must be installed as root!</source>
-        <translation type="unfinished">Ķibele. Šī aplikācija ir jāinstalē ar root tiesībām!</translation>
+        <translation>Kļūda, šī lietojumprogramma ir jāuzstāda ar root tiesībām!</translation>
     </message>
     <message>
         <source>Cannot load meta data from this PBI. File corrupt / invalid.</source>
-        <translation type="unfinished">Nespēju no šī PBI ielādēt metadatus. Fails ir korumpēts vai citādi ņeģeld.</translation>
+        <translation>Nevar no šī PBI ielādēt metadatus. Fails ir bojāts / nederīgs.</translation>
     </message>
     <message>
         <source>Click Next to begin the installation.</source>
@@ -141,7 +141,7 @@
     </message>
     <message>
         <source>This application has no digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
-        <translation type="unfinished">Šī aplikacija nav parakstīta ar ciparparakstu. Instalēt/uzstādīt aplikācijas no nezināmiem/nepārbaudītiem avotiem ir bīstami. Nesabaidīju? Tomēr turpinām instalēties?</translation>
+        <translation>Šai lietojumprogrammai nav digitālā paraksta. Uzstādīt lietojumprogrammas no nezināmiem avotiem var būt bīstami. Vai turpināt uzstādīt? </translation>
     </message>
     <message>
         <source>Invalid digital signature</source>
@@ -149,7 +149,7 @@
     </message>
     <message>
         <source>This application has a bad or unknown digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
-        <translation type="unfinished">Šai aplikācijai ir nederīgs vai nezināms ciparparaksts. Instalēt/uzstādīt aplikācijas no nezināmiem/nepārbaudītiem avotiem ir bīstami. Nesabaidīju? Tomēr turpinām instalēties?</translation>
+        <translation>Šai lietojumprogrammai ir nederīgs vai nezināms digitālais paraksts. Uzstādīt lietojumprogrammas no nezināmiem avotiem var būt bīstami. Vai turpināt uzstādīt? </translation>
     </message>
 </context>
 </TS>

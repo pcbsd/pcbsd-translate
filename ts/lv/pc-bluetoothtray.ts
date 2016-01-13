@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="lv">
 <context>
     <name>BluetoothTray</name>
     <message>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished">Nestreb karstu. Esi pacietīgs</translation>
+        <translation>Lūdzu, uzgaidiet</translation>
     </message>
     <message>
         <source>Restarting Bluetooth Services</source>

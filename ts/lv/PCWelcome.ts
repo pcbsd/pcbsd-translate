@@ -33,51 +33,51 @@
     </message>
     <message>
         <source>PC-BSD is a community effort, with releases being made possible by a variety of your neighbors in the open-source community. From helping with development, to asking and answering questions on our forums, there are plenty of ways to help contribute. The websites below provide a great place to get started.</source>
-        <translation type="unfinished">PC-BSD ir kopienas pūliņu rezultāts, kura izlaidumus dara iespējamus virkne Tavu kaimiņu atklātā koda kopienā. Sākot ar piepalīdzēšanu attīstīšanā, līdz pat jautājumu uzdošanai un atbilžu sniegšanai mūsu forumos, ir virkne veidu kā var palīdzēt ar savu ieguldījumu. Zemākatrodamās tīmekļa vietnes ir perfekts sākumpunktus auglīgai rīcībai.</translation>
+        <translation>PC-BSD ir kopienas pūliņu rezultāts, kura izlaidumus dara iespējamus virkne jūsu kaimiņu atklātā pirmkoda kopienā. Sākot ar palīdzēšanu izstrādē, līdz jautājumu uzdošanai un atbilžu sniegšanai mūsu forumos, ir virkne veidu, kā var palīdzēt ar savu ieguldījumu. Zemāk uzskaitītās tīmekļa vietnes būs lieliski resursi, lai sāktu.</translation>
     </message>
     <message>
         <source>Don&apos;t show on next startup</source>
-        <translation type="unfinished">Nerādīt pie nakošās sistēmas ielādes</translation>
+        <translation>Nerādīt pie nakošās sistēmas ielādes</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished">&amp;Nākošo</translation>
+        <translation>&amp;Nākošā</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished">&amp;Iepriekšējo</translation>
+        <translation>&amp;Atpakaļ</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished">&amp;Pabeigt</translation>
+        <translation>&amp;Beigt</translation>
     </message>
     <message>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveicināti!</translation>
     </message>
     <message>
         <source>Getting Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Pieslēdzieties</translation>
     </message>
     <message>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzstādiet lietojumprogrammas</translation>
     </message>
     <message>
         <source>Configure Your System</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurējiet sistēmu</translation>
     </message>
     <message>
         <source>Preserve Your Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasargājiet jūsu failus</translation>
     </message>
     <message>
         <source>Stay up to Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Turiet sistēmu atjauninātu</translation>
     </message>
     <message>
         <source>Get Involved</source>
-        <translation type="unfinished"></translation>
+        <translation>Iesaistieties</translation>
     </message>
 </context>
 </TS>
