@@ -171,23 +171,23 @@ Visitez la page internet suivante pour vous abonner ou consulter les archives de
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est spécifique à PC-BSD s&apos;il vous plaît rapport à la pcbsd pbi-bugs liste de diffusion</translation>
+        <translation>2.Si vous pensez que ce problème est spécifique à PC-BSD veuillez rapporter à la liste de diffusion pbi-bugs de PCBSD</translation>
     </message>
     <message>
         <source>PBI software: </source>
-        <translation type="unfinished">Logiciel PBI</translation>
+        <translation>Logiciel PBI: </translation>
     </message>
     <message>
         <source>Not listed here?</source>
-        <translation type="unfinished">Non classé ici?</translation>
+        <translation>Non listé ici?</translation>
     </message>
     <message>
         <source>2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Envoyer un courriel à la liste de diffusion des bugs FreeBSD. Visiter la page internet suivante pour souscrire ou lire les archives de cette liste</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Soumettre un rapport de bug en utilisant le bug tracker de PC-BSD</translation>
     </message>
 </context>
 <context>
