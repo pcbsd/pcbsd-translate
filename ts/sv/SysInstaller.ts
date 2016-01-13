@@ -498,7 +498,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
-        <translation type="unfinished">ZFS Virtuellt enhetsläge</translation>
+        <translation>ZFS Virtuellt enhetsläge</translation>
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
@@ -558,7 +558,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation type="unfinished">Du har valt Expertläget. I detta läge har du möjlighet att starta ett terminalfönster och använda kommandoraden för att manuellt partitionera din disk. När du är klar, kom ihåg att montera dina filsystem till /mnt för att starta installationen.</translation>
+        <translation>Du har valt Expertläget. I detta läge har du möjlighet att starta ett terminalfönster och använda kommandoraden för att manuellt partitionera din disk. När du är klar, kom ihåg att montera dina filsystem till /mnt för att starta installationen. </translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>
@@ -686,7 +686,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>MBR (Legacy)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MBR (Gammalt)</translation>
     </message>
     <message>
         <source>Target Installation</source>
@@ -714,11 +714,11 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>New Partition Size (Total)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny partitionsstorlek (Total)</translation>
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
-        <translation type="unfinished"></translation>
+        <translation>Välj hårddisken eller partitionen som du vill installera till.</translation>
     </message>
     <message>
         <source>Use GRUB bootloader</source>
@@ -926,11 +926,11 @@ Kontrollera värdnamnet och så att backup-servern går att nå.</translation>
     </message>
     <message>
         <source>Encrypted iSCSI Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Krypterad iSCSI Återställning</translation>
     </message>
     <message>
         <source>Please select the *.lpiscsi file</source>
-        <translation type="unfinished"></translation>
+        <translation>Snälla välj *.lpiscsi filen </translation>
     </message>
     <message>
         <source>Browse for local file</source>
@@ -942,7 +942,7 @@ Kontrollera värdnamnet och så att backup-servern går att nå.</translation>
     </message>
     <message>
         <source>Please enter the password to unlock the lpiscsi file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ett lösenord för att låsa upp lpiscsi fil:</translation>
     </message>
     <message>
         <source>SSH Restore</source>

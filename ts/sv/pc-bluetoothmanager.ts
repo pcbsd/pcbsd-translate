@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Start &amp;Tray Application</source>
-        <translation type="unfinished"/>
+        <translation>Starta &amp;Brick program </translation>
     </message>
     <message>
         <source>&amp;Restart Service</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>&amp;Initiate Pairing</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Initiera Parning </translation>
     </message>
     <message>
         <source>&amp;Configure</source>
@@ -113,7 +113,7 @@
     </message>
     <message>
         <source>Invalid Pin length: Defaulting to none</source>
-        <translation type="unfinished">Ogiltig Pin längd: Defaultar till ingen</translation>
+        <translation>Ogiltig Pin längd: Försöker med ingen pinkod istället </translation>
     </message>
     <message>
         <source>Pairing Error</source>

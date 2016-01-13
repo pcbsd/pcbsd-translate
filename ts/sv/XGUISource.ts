@@ -86,7 +86,7 @@ Behåll inställningarna?</translation>
     </message>
     <message>
         <source>Vertical Refresh:</source>
-        <translation type="unfinished">Vertical Refresh:</translation>
+        <translation>Vertikal uppdateringsfrekvens:</translation>
     </message>
     <message>
         <source>50.0-76.0</source>
@@ -110,7 +110,7 @@ Behåll inställningarna?</translation>
     </message>
     <message>
         <source>PC-BSD was unable to autodetect your monitor. You may need to specify this monitor&apos;s Horizontal and Vertical refresh rates in the &apos;Advanced&apos; tab.</source>
-        <translation type="unfinished">PC-BSD kunde inte avgöra din skärmtyp automatiskt. Du måste ange din monitors Horizontal och Vertical refresh rates under fliken för &apos;Avancerade&apos; inställningar.</translation>
+        <translation>PC-BSD kunde inte avgöra din skärmtyp automatiskt. Du måste ange din monitors Horisontala och Vertikala uppdateringsfrekvens under fliken för &apos;Avancerade&apos; inställningar.</translation>
     </message>
     <message>
         <source>The settings you have specified will now be tested.

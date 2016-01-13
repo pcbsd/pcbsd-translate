@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en disk/partition för %1</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -155,23 +155,23 @@
     </message>
     <message>
         <source>Save the current settings configuration</source>
-        <translation type="unfinished">Spara de aktuella inställningarnas konfiguration</translation>
+        <translation>Spara de aktuella inställningarnas konfiguration</translation>
     </message>
     <message>
         <source>Re-load the GRUB settings</source>
-        <translation type="unfinished">Ladda om GRUB inställningarna</translation>
+        <translation>Ladda om GRUB inställningarna</translation>
     </message>
     <message>
         <source>Custom Entries</source>
-        <translation type="unfinished">Anpassade inmatningar</translation>
+        <translation>Anpassade inmatningar</translation>
     </message>
     <message>
         <source>Save the current entry configuration</source>
-        <translation type="unfinished">Spara den aktuella inmatningskonfigurationen</translation>
+        <translation>Spara den aktuella inmatningskonfigurationen</translation>
     </message>
     <message>
         <source>Re-load the GRUB entries file</source>
-        <translation type="unfinished">Ladda om GRUBs inmatningsfil</translation>
+        <translation>Ladda om GRUBs inmatningsfil</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -187,11 +187,11 @@
     </message>
     <message>
         <source>Re&amp;build GRUB Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg om GRUB Menyn</translation>
     </message>
     <message>
         <source>&amp;Restore GRUB Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Återställ GRUB till standard</translation>
     </message>
     <message>
         <source>Invalid Name</source>

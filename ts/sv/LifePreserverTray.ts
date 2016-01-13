@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera Bricka</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng Bricka</translation>
     </message>
     <message>
         <source>Time: %1</source>

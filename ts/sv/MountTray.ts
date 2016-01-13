@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Open the disk tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna Luckan</translation>
     </message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished">Stäng Luckan</translation>
+        <translation>Stäng Luckan</translation>
     </message>
     <message>
         <source>Please Wait</source>
@@ -169,7 +169,7 @@
     <name>SettingsDialog</name>
     <message>
         <source>Mount Tray Settings</source>
-        <translation type="unfinished">Inställningar för monteringsfältet</translation>
+        <translation>Inställningar för monteringsfältet</translation>
     </message>
     <message>
         <source>Monitor disk storage space</source>

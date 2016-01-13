@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>May be used when dual-booting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan användas vid dual-booting</translation>
     </message>
     <message>
         <source>Set BIOS to UTC time</source>
@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>Select Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj Flyttbar enhet</translation>
     </message>
     <message>
         <source>Warning: Any existing data on the selected device will be deleted during the user creation process.</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>User Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Användaruppgifter</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
@@ -165,15 +165,15 @@
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utgångsenhet:</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testa Volym:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurera Ljudutgång</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange ett domännamn</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
@@ -281,12 +281,12 @@
     </message>
     <message>
         <source>Network Key Error</source>
-        <translation type="unfinished">Fel nätverksnyckel</translation>
+        <translation>Fel nätverksnyckel</translation>
     </message>
     <message>
         <source>Error: The entered network keys do not match!
 </source>
-        <translation type="unfinished">Fel: De angivna nätverksnycklarna matchade inte!
+        <translation>Fel: De angivna nätverksnycklarna matchade inte!
 </translation>
     </message>
     <message>

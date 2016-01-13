@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt giltiga Användare med UID under 1000  </translation>
     </message>
     <message>
         <source>Additional Excluded Users</source>

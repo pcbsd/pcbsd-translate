@@ -463,7 +463,9 @@ Se till att konfigurera inställningarna för WPA innan du spar inställningarna
         <source>WPA-Enterprise is selected, but not configured!
 Please configure your WPA settings before saving!
 Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA-Enterprise är valt men inte konfigurerat!
+Välj dina WPA inställningar innan du sparar!
+Tillåtna Phase2 val är MD5 eller MSCHAPV2 eller GTC eller OTP.</translation>
     </message>
 </context>
 </TS>

@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Close Bluetooth Tray</source>
-        <translation type="unfinished">Stäng Blåtands Tray</translation>
+        <translation>Stäng Blåtandsbricka</translation>
     </message>
     <message>
         <source>Please Wait</source>

@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Note: It may take a couple minutes to apply changes</source>
-        <translation type="unfinished"/>
+        <translation>Notera: Det kan ta några minuter för ändringarna att synas </translation>
     </message>
     <message>
         <source>Production (Updates Quarterly)</source>

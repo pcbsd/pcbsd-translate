@@ -21,19 +21,19 @@
     </message>
     <message>
         <source>Xorg server</source>
-        <translation type="unfinished">Xorg server</translation>
+        <translation>Xorg server</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished">Skrivbordsmiljö</translation>
+        <translation>Skrivbordsmiljö</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished">FreeBSD mjukvara (ports/paket)</translation>
+        <translation>FreeBSD mjukvara (ports/paket)</translation>
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished">PC-BSD mjukvara (pbi)</translation>
+        <translation>PC-BSD mjukvara (pbi)</translation>
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
@@ -46,7 +46,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>X.org server</source>
-        <translation type="unfinished">X.org server</translation>
+        <translation>X.org server</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
@@ -66,11 +66,11 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished">Välj vilken skrivbordsmiljö som orsakade problemet:</translation>
+        <translation>Välj vilken skrivbordsmiljö som orsakade problemet:</translation>
     </message>
     <message>
         <source>Gnome</source>
-        <translation type="unfinished">Gnome</translation>
+        <translation>Gnome</translation>
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
@@ -82,7 +82,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>KDE</source>
-        <translation type="unfinished">KDE</translation>
+        <translation>KDE</translation>
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
@@ -98,7 +98,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>XFCE</source>
-        <translation type="unfinished">XFCE</translation>
+        <translation>XFCE</translation>
     </message>
     <message>
         <source>1. You can report a bug to XFCE bugzilla site</source>
@@ -106,7 +106,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>LXDE</source>
-        <translation type="unfinished">LXDE</translation>
+        <translation>LXDE</translation>
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
@@ -114,7 +114,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>MATE</source>
-        <translation type="unfinished"></translation>
+        <translation>MATE</translation>
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
@@ -122,7 +122,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Cinnamon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cinnamon</translation>
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
@@ -130,7 +130,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>
-        <translation type="unfinished">Skrivbordsmiljön stöds inte</translation>
+        <translation>Skrivbordsmiljön stöds inte</translation>
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
@@ -138,7 +138,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>FreeBSD software</source>
-        <translation type="unfinished">FreeBSD mjukvara</translation>
+        <translation>FreeBSD mjukvara</translation>
     </message>
     <message>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
@@ -146,7 +146,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>PBI software</source>
-        <translation type="unfinished">PBI software</translation>
+        <translation>PBI mjukvara</translation>
     </message>
     <message>
         <source>Please select PBI software with bug</source>
@@ -154,15 +154,15 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished">Ikon</translation>
+        <translation>Ikon</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished">Applikation</translation>
+        <translation>Program</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
@@ -174,11 +174,11 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>PBI software: </source>
-        <translation type="unfinished">PBI mjukvara</translation>
+        <translation>PBI mjukvara:</translation>
     </message>
     <message>
         <source>Not listed here?</source>
-        <translation type="unfinished">Inte listad här?</translation>
+        <translation>Inte listad här?</translation>
     </message>
     <message>
         <source>2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
@@ -193,15 +193,15 @@ Visit the following web page to subscribe to or read the archives of this list</
     <name>ShowInfoDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialogruta</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Kopiera till urklipp</translation>
+        <translation>Kopiera till urklipp</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Stäng</translation>
+        <translation>Stäng</translation>
     </message>
 </context>
 <context>
@@ -216,7 +216,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Take screenshot</source>
-        <translation type="unfinished">Ta skärmdump</translation>
+        <translation>Ta skärmdump</translation>
     </message>
     <message>
         <source>dmesg output</source>
@@ -224,15 +224,15 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Xorg log</source>
-        <translation type="unfinished">Xorg logg</translation>
+        <translation>Xorg logg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
-        <translation type="unfinished">Diagnostisk rapport</translation>
+        <translation>Diagnostisk rapport</translation>
     </message>
     <message>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished">PCBSD Diagnostisk rapport</translation>
+        <translation>PCBSD Diagnostisk rapport</translation>
     </message>
     <message>
         <source>lsusb output</source>
@@ -240,53 +240,53 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished">PCI enhetslista - PCIConf</translation>
+        <translation>PCI enhetslista - PCIConf</translation>
     </message>
     <message>
         <source>Xorg version</source>
-        <translation type="unfinished">Xorg version</translation>
+        <translation>Xorg version</translation>
     </message>
     <message>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished">FreeBSD version (uname -a)</translation>
+        <translation>FreeBSD version (uname -a)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Misslyckades</translation>
+        <translation>Misslyckades</translation>
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>
-        <translation type="unfinished">Misslyckades att skapa ett diagnostisk blad</translation>
+        <translation>Misslyckades att skapa ett diagnostisk blad</translation>
     </message>
 </context>
 <context>
     <name>WebURL</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulär</translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta webbläsare</translation>
     </message>
 </context>
 <context>
     <name>maillist</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulär</translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished">Textetikett</translation>
+        <translation>Textetikett</translation>
     </message>
     <message>
         <source>Send message to</source>
-        <translation type="unfinished">Skicka meddelande till</translation>
+        <translation>Skicka meddelande till</translation>
     </message>
     <message>
         <source>Compose email</source>
-        <translation type="unfinished">Skriv email</translation>
+        <translation>Skriv email</translation>
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
@@ -294,7 +294,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta webbläsare</translation>
     </message>
 </context>
 </TS>

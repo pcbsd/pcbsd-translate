@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulär</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="85"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="152"/>
         <source>Close Mixer and Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng Mixer och Bricka</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="161"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="33"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utmatning</translation>
     </message>
 </context>
 </TS>
