@@ -261,7 +261,7 @@ Visitez la page Web suivante pour souscrire ou consulter les archives de cette l
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>
-        <translation type="unfinished">Impossible de créer la feuille de diagnotic</translation>
+        <translation>Échec de création de la feuille de diagnostic</translation>
     </message>
 </context>
 <context>

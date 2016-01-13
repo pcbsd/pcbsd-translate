@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Vendor: </source>
-        <translation type="unfinished">Pārdevējs:</translation>
+        <translation>Ražotājs: </translation>
     </message>
     <message>
         <source>URL: </source>

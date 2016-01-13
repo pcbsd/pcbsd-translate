@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished">Opérationnel</translation>
+        <translation>Opérationnel</translation>
     </message>
     <message>
         <source>New BE name</source>

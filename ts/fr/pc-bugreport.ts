@@ -29,25 +29,25 @@
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished">Logiciels FreeBSD (ports/packages)</translation>
+        <translation>Logiciel FreeBSD (ports/packages)</translation>
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished">PC-BSD logiciels (pbi)</translation>
+        <translation>logiciel PC-BSD (pbi)</translation>
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue en utilisant le mécanisme de Bugzilla de FreeBSD</translation>
+        <translation>1. Soumettre un rapport de bug en utilisant le mécanisme Bugzilla de FreeBSD</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished">Si vous n&apos;êtes pas sûr que c&apos;est un bug, vous pouvez envoyer une demande à ce sujet sur ​​la liste des tests de PC-BSD.
-Visitez le site Web suivant pour vous abonner ou consulter les archives de cette liste</translation>
+        <translation>Si vous n&apos;êtes pas sûr que c&apos;est un bug, vous pouvez demander à ​​la liste de diffusion des tests de PC-BSD. 
+Visitez la page internet suivante pour vous abonner ou consulter les archives de cette liste</translation>
     </message>
     <message>
         <source>X.org server</source>
-        <translation type="unfinished">Xorg serveur</translation>
+        <translation>X.org serveur</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
@@ -87,11 +87,11 @@ Visitez le site Web suivant pour vous abonner ou consulter les archives de cette
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation type="unfinished">1. Soumettre un rapport de bogue pour le bug tracker de KDE</translation>
+        <translation>1. Soumettre un rapport de bug sur le bug tracker de KDE</translation>
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished">2. Si vous pensez que ce problème est propre à FreeBSD s&apos;il vous plaît rapporter à la liste de diffusion kde-freebsd</translation>
+        <translation>2. Si vous pensez que ce problème est propre à FreeBSD veuillez rapporter à la liste de diffusion kde-freebsd</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
