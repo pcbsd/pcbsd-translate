@@ -767,7 +767,7 @@
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
-        <translation>Sélectionner un fichier PNG local (taille de 64x64 pixels recommandée)</translation>
+        <translation>Sélectionner un fichier PNG local (taille de 64x64 pixels recommandé)</translation>
     </message>
     <message>
         <source>Select</source>

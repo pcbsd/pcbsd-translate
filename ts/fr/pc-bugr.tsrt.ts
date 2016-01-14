@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
-        <translation>Veuillez sélectionnez le composant où l'erreur se produit.</translation>
+        <translation>Veuillez sélectionner le composant où l'erreur se produit.</translation>
     </message>
     <message>
         <source>FreeBSD base system</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Xorg server</source>
-        <translation>Serveur xorg</translation>
+        <translation>Serveur Xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
@@ -41,21 +41,21 @@
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Envoyer un courriel à la liste de diffusion des bugs FreeBSD. Visitez le site Web suivant pour souscrire ou consulter les archives de cette liste&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Envoyer un courriel à la liste de diffusion des bugs FreeBSD. Visitez la page internet suivante pour souscrire ou consulter les archives de cette liste&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
-        <translation>1. Soumettre un rapport de bug en utilisant le processus trac de PC-BSD</translation>
+        <translation>1. Soumettre un rapport de bug en utilisant l'interface trac de PC-BSD</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
         <translation>Si vous n'êtes pas sûr que c'est un bug, vous pouvez interroger à ce sujet ​​la liste de diffusion des essais de PC-BSD.
-Visitez la page Web suivante pour souscrire ou consulter les archives de cette liste.</translation>
+Visitez la page internet suivante pour souscrire ou consulter les archives de cette liste.</translation>
     </message>
     <message>
         <source>X.org server</source>
-        <translation>Serveur x.org</translation>
+        <translation>Serveur X.org</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>

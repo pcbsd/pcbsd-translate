@@ -95,31 +95,31 @@ Visitez la page internet suivante pour vous abonner ou consulter les archives de
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished">3. Si vous pensez que ce problème est relié spécifiquement à PC-BSD, s&apos;il vous plaît créer un ticket sur ​​le bug tracker.</translation>
+        <translation>3.Si vous pensez que ce problème est propre à PC-BSD, veuillez créer un ticket sur ​​le bug tracker PC-BSD.</translation>
     </message>
     <message>
         <source>XFCE</source>
-        <translation type="unfinished">XFCE</translation>
+        <translation>XFCE</translation>
     </message>
     <message>
         <source>1. You can report a bug to XFCE bugzilla site</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bug à XFCE site bugzilla</translation>
+        <translation>1. Vous pouvez rapporter un bug sur le site bugzilla de XFCE</translation>
     </message>
     <message>
         <source>LXDE</source>
-        <translation type="unfinished">LXDE</translation>
+        <translation>LXDE</translation>
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
-        <translation type="unfinished">1. Vous pouvez signaler un bogue à l&apos;LXDE bugs sur SourceForge</translation>
+        <translation>1. Vous pouvez signaler un bug sur le bug tracker LXDE de SourceForge</translation>
     </message>
     <message>
         <source>MATE</source>
-        <translation type="unfinished">MATE</translation>
+        <translation>MATE</translation>
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
-        <translation type="unfinished">1. Vous pouvez signaler un problème sur GitHub bugs liés à MATE composant</translation>
+        <translation>1. Vous pouvez rapporter un problème relatif au composant MATE sur le bug tracker MATE de GitHub</translation>
     </message>
     <message>
         <source>Cinnamon</source>
@@ -159,15 +159,15 @@ Visitez la page internet suivante pour vous abonner ou consulter les archives de
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished">Application</translation>
+        <translation>Application</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
-        <translation type="unfinished">1. Vous pouvez essayer de rapporter un bug sur le site du logiciel</translation>
+        <translation>1. Vous pouvez essayer de rapporter un bug sur le site du logiciel</translation>
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
@@ -194,7 +194,7 @@ Visitez la page internet suivante pour vous abonner ou consulter les archives de
     <name>ShowInfoDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogue</translation>
+        <translation>Dialogue</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -237,38 +237,38 @@ Visitez la page internet suivante pour vous abonner ou consulter les archives de
     </message>
     <message>
         <source>lsusb output</source>
-        <translation type="unfinished">Isusb sortie</translation>
+        <translation>Sortie isusb</translation>
     </message>
     <message>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished">Liste des périphériques PCI - PCIConf</translation>
+        <translation>Liste des périphériques PCI - PCIConf</translation>
     </message>
     <message>
         <source>Xorg version</source>
-        <translation type="unfinished">Xorg version</translation>
+        <translation>Version xorg</translation>
     </message>
     <message>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished">FreeBSD version (uname -a)</translation>
+        <translation>Version FreeBSD  (uname -a)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Échec</translation>
+        <translation>Échec</translation>
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>
-        <translation type="unfinished">Impossible de créer la feuille de diagnotic</translation>
+        <translation>Impossible de créer la feuille de diagnostic</translation>
     </message>
 </context>
 <context>
     <name>WebURL</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forme</translation>
+        <translation>Forme</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished">Lancer le navigateur</translation>
+        <translation>Lancer le navigateur internet</translation>
     </message>
 </context>
 <context>

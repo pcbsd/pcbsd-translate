@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation>Basculer entre la mise en page US et la mise en page sélectionnée par l&apos;utilisateur </translation>
+        <translation>Basculer entre la disposition US et la disposition sélectionnée par l&apos;utilisateur</translation>
     </message>
     <message>
         <source>&amp;Back</source>
