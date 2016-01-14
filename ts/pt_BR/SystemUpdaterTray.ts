@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível determinar o status do sistema.</translation>
     </message>
 </context>
 <context>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>Routing through Tor</source>
-        <translation type="unfinished">Roteamento através do Tor</translation>
+        <translation>Roteamento através do Tor</translation>
     </message>
     <message>
         <source>Check Tor connection</source>

@@ -5,64 +5,66 @@
     <name>BranchesDialog</name>
     <message>
         <source>System branches</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramificação do sistema</translation>
     </message>
     <message>
         <source>Your current branch is</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua ramificação atual é</translation>
     </message>
     <message>
         <source>Available branches:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ramificações disponíveis:</translation>
     </message>
     <message>
         <source>Change branch</source>
-        <translation type="unfinished"></translation>
+        <translation>Alterar ramificação</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
     <name>EOLDialog</name>
     <message>
         <source>End of support</source>
-        <translation type="unfinished"></translation>
+        <translation>Fim do suporte</translation>
     </message>
     <message>
         <source>Support ends at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Suporte termina em:</translation>
     </message>
     <message>
         <source>Checking ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando ...</translation>
     </message>
     <message>
         <source>Days remaining:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dias restantes:</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Checking end of support date...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando a data do fim do suporte...</translation>
     </message>
     <message>
         <source>PASSED</source>
-        <translation type="unfinished"></translation>
+        <translation>PASSOU</translation>
     </message>
     <message>
         <source>Your version is not supported now!
 Please update your PC-BSD ASAP!</source>
-        <translation type="unfinished"></translation>
+        <translation>A sua versão não é suportada atualmente!
+Por favor, atualize seu PC-BSD o mais rápido possível!</translation>
     </message>
     <message>
         <source>Support of your PC-BSD will end soon!
 Please update your system</source>
-        <translation type="unfinished"></translation>
+        <translation>O suporte do seu PC-BSD terminará em breve!
+Por favor, atualize seu sistema</translation>
     </message>
 </context>
 <context>
@@ -105,7 +107,7 @@ Please update your system</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic updates are started in the background 20 minutes after the system boot (and every 24 hours of uptime)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As atualizações automáticas são iniciadas em segundo plano 20 minutos depois da inicialização do sistema (e a cada 24 horas de atividade)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;As atualizações automáticas são iniciadas em segundo plano 20 minutos depois da inicialização do sistema (e a cada 24 horas de atividade)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -149,7 +151,7 @@ Please update your system</source>
     </message>
     <message>
         <source>Major OS Update: %1</source>
-        <translation type="unfinished">Atualização principal do sistema: %1</translation>
+        <translation>Atualização principal do sistema: %1</translation>
     </message>
     <message>
         <source>Will install new FreeBSD version, apply security fixes, and update packages.</source>
@@ -221,11 +223,11 @@ Please update your system</source>
     </message>
     <message>
         <source>Base updates history</source>
-        <translation type="unfinished"></translation>
+        <translation>Histórico de atualizações base</translation>
     </message>
     <message>
         <source>End of support</source>
-        <translation type="unfinished"></translation>
+        <translation>Fim do suporte</translation>
     </message>
     <message>
         <source>System</source>
@@ -265,7 +267,7 @@ Please update your system</source>
     </message>
     <message>
         <source>No update logs available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum log de atualização disponível</translation>
     </message>
 </context>
 <context>
@@ -276,7 +278,7 @@ Please update your system</source>
     </message>
     <message>
         <source>Auditing packages. Please wait...</source>
-        <translation type="unfinished">Auditando pacotes. Por favor aguarde...</translation>
+        <translation>Auditando pacotes. Por favor aguarde...</translation>
     </message>
     <message>
         <source>Package</source>
@@ -304,22 +306,22 @@ Please update your system</source>
     </message>
     <message>
         <source>No vulnerable packages found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum pacote vulnerável foi encontrado!</translation>
     </message>
 </context>
 <context>
     <name>UpdateHistoryDialog</name>
     <message>
         <source>Base system updates history</source>
-        <translation type="unfinished"></translation>
+        <translation>Histórico de atualização do sistema base</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished"></translation>
+        <translation>Lançamento</translation>
     </message>
     <message>
         <source>Your system should have at least one system update!</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu sistema deve ter pelo menos uma atualização do sistema!</translation>
     </message>
     <message>
         <source>#</source>
