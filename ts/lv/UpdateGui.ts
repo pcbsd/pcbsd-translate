@@ -75,7 +75,7 @@ Lūdzu, atjauniniet Jūsu sistēmu</translation>
     </message>
     <message>
         <source>&lt;system info&gt;</source>
-        <translation>&lt;sistēmas info&gt;</translation>
+        <translation>&lt;system info&gt;</translation>
     </message>
     <message>
         <source>Start Updates</source>

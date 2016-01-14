@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>Installer</name>
     <message>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>&lt;Version&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Version&gt;</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -154,7 +154,7 @@
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS datu kopas:&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
@@ -664,7 +664,7 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS datu kopas:&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>

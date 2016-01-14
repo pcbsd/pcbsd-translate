@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>&lt;Author&gt;</source>
-        <translation>&lt;Autors&gt;</translation>
+        <translation>&lt;Author&gt;</translation>
     </message>
     <message>
         <source>&lt;Web&gt;</source>
-        <translation>&lt;Tīmeklis&gt;</translation>
+        <translation>&lt;Web&gt;</translation>
     </message>
     <message>
         <source>Valid Digital Signature</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>&lt;Status&gt;</source>
-        <translation>&lt;Statuss&gt;</translation>
+        <translation>&lt;Status&gt;</translation>
     </message>
     <message>
         <source>&lt;progress&gt;</source>

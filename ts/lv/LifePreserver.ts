@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>LPClassic</name>
     <message>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Custom IP&gt;</translation>
     </message>
     <message>
         <source>Interval of Days</source>

@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>No connection detected.&lt;br&gt; Check your cable connection and try again!</source>
-        <translation type="unfinished">Nav atrasts savienojums.&lt;br&gt; Pārbaudi vada savienojumu un pamēģini vēlreiz!</translation>
+        <translation>Savienojums nav atrasts.&lt;br&gt; Pārbaudi vada savienojumu un pamēģini vēlreiz!</translation>
     </message>
     <message>
         <source>SSID:</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>No wireless connection detected.&lt;br&gt; Double-click to start the wireless configuration wizard.</source>
-        <translation type="unfinished">Nav atrasts bezvadu savienojums.&lt;br&gt; Noklikšķini, lai palaistu bezvadu savienojuma iestatīšanas vedni.</translation>
+        <translation>Bezvadu savienojums nav atrasts.&lt;br&gt; Noklikšķini, lai palaistu bezvadu savienojuma iestatīšanas vedni.</translation>
     </message>
     <message>
         <source>Unknown</source>

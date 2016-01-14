@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>dialogConfig</name>
     <message>
@@ -508,7 +508,7 @@
     </message>
     <message>
         <source>&lt;- Please select a jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;- Lūdzu, izvēlieties jail</translation>
     </message>
     <message>
         <source>Warden</source>
