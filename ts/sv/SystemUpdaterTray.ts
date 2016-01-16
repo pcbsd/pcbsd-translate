@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The system needs to be restarted to finish installing updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet måste startas om för att uppdateringarna ska installeras klart.</translation>
     </message>
     <message>
         <source>Next Reminder:</source>
@@ -52,15 +52,15 @@
     <name>QObject</name>
     <message>
         <source>Reboot required to finish updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Omstart krävs för att uppdateringarna ska avslutas </translation>
     </message>
     <message>
         <source>Performing background updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Utför bakgrundsuppdateringar</translation>
     </message>
     <message>
         <source>OS Update Available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>OS Uppdateringar tillgängliga: %1</translation>
     </message>
     <message>
         <source>System updates available</source>
@@ -76,11 +76,11 @@
     </message>
     <message>
         <source>System up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemet är uppdaterat!</translation>
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte ta reda på systemets status</translation>
     </message>
 </context>
 <context>
@@ -95,11 +95,11 @@
     </message>
     <message>
         <source>Run At Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Kör vid uppstart</translation>
     </message>
     <message>
         <source>Display Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa notifieringar</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -107,31 +107,31 @@
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Leta efter uppdateringar</translation>
     </message>
     <message>
         <source>Check Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla Jails</translation>
     </message>
     <message>
         <source>Auto-Update: Everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Uppdatera: Allting </translation>
     </message>
     <message>
         <source>Auto-Update: Security Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Uppdatera: Säkerhetsuppdateringar Endast</translation>
     </message>
     <message>
         <source>Auto-Update: Packages Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Uppdatera: Programpaket Endast</translation>
     </message>
     <message>
         <source>Auto-Update: Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Uppdatera: Ingenting</translation>
     </message>
     <message>
         <source>Auto-Update: Security &amp; Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto-Uppdatera: Säkerhet &amp; Programpaket</translation>
     </message>
     <message>
         <source>Last Update: %1</source>
@@ -143,19 +143,19 @@
     </message>
     <message>
         <source>Update Procedure Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterings procedur Körs</translation>
     </message>
     <message>
         <source>Routing through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Routa genom Tor</translation>
     </message>
     <message>
         <source>Check Tor connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla Tor anslutning</translation>
     </message>
     <message>
         <source>(Routing through Tor)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Routar genom Tor)</translation>
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Tor FAQ: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tor FAQ: %1</translation>
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>

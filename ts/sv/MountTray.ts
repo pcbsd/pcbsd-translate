@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Load ISO File</source>
-        <translation>Ladda ISO filen</translation>
+        <translation>Läs in ISO fil</translation>
     </message>
     <message>
         <source>Change Settings</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Close Tray</source>
-        <translation>Stäng Luckan</translation>
+        <translation>Avsluta program</translation>
     </message>
     <message>
         <source>Please Wait</source>
