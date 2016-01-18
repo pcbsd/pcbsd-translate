@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-18 04:13-0800\n"
-"PO-Revision-Date: 2016-01-18 16:01+0000\n"
+"POT-Creation-Date: 2016-01-18 08:14-0800\n"
+"PO-Revision-Date: 2016-01-18 18:20+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453132877.000000\n"
+"X-POOTLE-MTIME: 1453141212.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -6559,11 +6559,20 @@ msgstr ""
 "reiniciar cualquier aplicación abierta para que el cambio de fuente tenga "
 "efecto. Su(s) fuente(s) recientemente instalada(s) debería ahora aparecer en "
 "la sección \"Fuentes Personales\" en la columna \"Grupo\" y estar disponible "
-"para usarla por la aplicación. "
+"para usarla por la aplicación."
 
 #: ../../using.rst:73
 msgid "To install custom fonts within GNOME, go to :menuselection:`Activities --> Files`. Navigate to the location of the font that you would like to install and either double-click the font name or select \"Font Viewer\" from the icon's right-click menu. This will open the font in Font Viewer, allowing you to view it. If you like the font, click the \"Install Font\" button to make it available to your applications. In the example shown in :numref:`Figure %s: Using Files to Install a Custom Font <font2>`, the user is installing the BlackFlag font."
 msgstr ""
+"Para instalar fuentes personalizadas en GNOME, vaya a :menuselection:`"
+"Actividades --> Archivos`. Vaya a la localización de la fuente que quiera "
+"instalar y haga doble clic en el nombre de la fuente o seleccione \"Visor de "
+"Fuentes\" desde el menú de clic derecho del icono. Esto abrirá la fuente en "
+"el Visor de Fuentes, permitiéndole visualizarla. Si le gusta la fuente, "
+"presione el botón \"Instalar Fuente\" para hacerla disponible a sus "
+"aplicaciones. En el ejemplo mostrado en la :numref:`Figura %s: Usando "
+"Archivos para Instalar una Fuente Personalizada <font2>`, el usuario está "
+"instalando la fuente BlackFlag."
 
 # 5ca02d70bfb744f5a5f32d9a5989076e
 # c3ce6bcae9434f9793def491d7efe0fc
@@ -6946,10 +6955,10 @@ msgstr ""
 #: ../../using.rst:81
 msgid "To install custom fonts within XFCE, use :menuselection:`Applications --> System --> Thunar File Manager`. Once you browse to the location of the font and double- or right-click it, you will see the same Font Viewer used by GNOME."
 msgstr ""
-"Para instalar fuentes personales en XFCE emplee :menuselection:`Aplicaciones "
-"--> Sistema --> Administrador de Archivos Thunar`. Una vez que busque la "
-"ubicación de la fuente y haga doble clic con el botón derecho verá el mismo "
-"Visor de Fuentes de GNOME."
+"Para instalar fuentes personalizadas en XFCE use :menuselection:`"
+"Aplicaciones --> Sistema --> Administrador de Archivos Thunar`. Una vez que "
+"busque la ubicación de la fuente y presione o haga clic derecho en ella, "
+"verá el mismo Visor de Fuentes usado por GNOME."
 
 # e815a206991446f180a4851e0185d797
 # 70d26bc293344bdf9a2bf8a2a5563e5c
@@ -7334,7 +7343,7 @@ msgid "If you prefer to install fonts from the command line, become the superuse
 msgstr ""
 "Si prefiere instalar fuentes desde la línea de comandos, conéctese como "
 "administrador y copie la fuente descargada en el directorio "
-":file:`/usr/local/share/fonts/`. Después actualice el almacén de fuentes::"
+":file:`/usr/local/share/fonts/`. Después, actualice el cache de fuentes::"
 
 # 73ee9e3202df45838b7fe070b5b9dde9
 # 308ed4cd2d324541a1e2d167edcc3741
@@ -8099,11 +8108,11 @@ msgstr "Multimedia"
 #: ../../using.rst:95
 msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
 msgstr ""
-"PC-BSD® ha sido preconfigurado par soportar la mayoría de los formatos "
+"PC-BSD® ha sido preconfigurado para soportar la mayoría de los formatos "
 "multimedia y hace fácil la instalación de la mayoría de las aplicaciones "
-"multimedia de código abierto empleando :ref:`AppCafe®`. PC-BSD® soporta "
-"tanto `PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ "
-"como `OSS <http://opensound.com/>`_ de manera que las aplicaciones que usen "
+"multimedia de código abierto usando :ref:`AppCafe®`. PC-BSD® soporta tanto `"
+"PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ como `"
+"OSS <http://opensound.com/>`_ de manera que las aplicaciones que usen "
 "cualquiera de estos servidores de sonido deberían funcionar."
 
 # 71ab34b2982d45e1a206d462fc7056eb
@@ -8487,9 +8496,9 @@ msgstr ""
 #: ../../using.rst:99
 msgid "If you install your web browser using AppCafe®, you should be able to play most media formats, including YouTube videos, Internet radio, and many trailer and movie sites."
 msgstr ""
-"Si instala su navegador web utilizando AppCafe® debería ser capaz de "
-"reproducir la mayoría de los formatos multimedia, incluyendo vídeos de "
-"Youtube, radios de Internet, y los sitios con trailers y películas."
+"Si instala su navegador web usando AppCafe®, debería ser capaz de reproducir "
+"la mayoría de los formatos multimedia, incluyendo videos de Youtube, radio "
+"por Internet, y muchos sitios de trailers y películas."
 
 # 5e71ef4d71f64d738106606b3f1741a6
 # b7b407df0ec549f88569c2fc184ff367
@@ -8872,12 +8881,12 @@ msgstr ""
 #: ../../using.rst:102
 msgid "If people are blue in YouTube videos, this is due to a known issue in flash which Adobe hasn't fixed for open source players. To resolve this issue, right-click an area in the video, select \"Settings\", then uncheck the box \"Enable hardware acceleration\". Alternately, use the Minitube PBI to watch YouTube."
 msgstr ""
-"Si la gente aparece azul en los vídeos de Youtube es debido a un error "
+"Si la gente aparece azul en los vídeos de Youtube, es debido a un error "
 "conocido en flash que Adobe no ha arreglado para los reproductores de código "
-"abierto. Para resolver este problema haga clic con el botón derecho en un "
-"área en el vídeo y seleccione \"Configuración\", después desmarque el "
-"recuadro \"Habilitar aceleración por hardware\". Alternativamente emplee el "
-"PBI Minitube para ver Youtube."
+"abierto. Para resolver este problema, haga clic derecho en un área en el "
+"video, seleccione \"Configuraciones\", después desmarque la casilla \""
+"Habilitar aceleración por hardware\". Alternativamente, use el PBI Minitube "
+"para ver Youtube."
 
 # 55b626e7bba54b9b837a184d6c3098a3
 # e75b85b33f4f43889121b95201a40c52
@@ -9260,10 +9269,10 @@ msgstr ""
 #: ../../using.rst:105
 msgid "if you happen to come across a file that you can not play in a web browser or media player, it is probably because it is in a proprietary format that requires a licensing fee or restricts distribution of the codec that is required to play that media format."
 msgstr ""
-"si se encuentra con un archivo que no puede reproducir en el navegador web o "
-"en el reproductor multimedia es probable que sea un formato propietario que "
-"requiere el pago de una licencia o una distribución restringida del codec "
-"que se requiere para reproducir ese formato multimedia."
+"Si se encuentra con un archivo que no puede reproducir en el navegador web o "
+"en el reproductor multimedia, es probable que sea un formato propietario que "
+"requiere el pago de una licencia o restringe la distribución del codec que "
+"se requiere para reproducir ese formato multimedia."
 
 # 3681a5e94a044b4aba5fcff4314e98a2
 # 698b8a266fe74f68a4c9a092d648200d
@@ -9647,7 +9656,7 @@ msgstr ""
 msgid "AppCafe® contains several dozen applications for playing and editing multimedia. It includes these popular applications (click the links to view screenshots):"
 msgstr ""
 "AppCafe® contiene varias docenas de aplicaciones para reproducir y editar "
-"archivos multimedia. Incluye estas aplicaciones conocidas (haga clic en los "
+"archivos multimedia. Incluye estas aplicaciones conocidas (presione los "
 "enlaces para ver las capturas de pantalla):"
 
 # 4455d6f630134865a2bf3a9f1ac36e4f
@@ -10033,7 +10042,7 @@ msgid "`aTunes <http://www.atunes.org/?page_id=5>`_: full-featured audio player 
 msgstr ""
 "`aTunes <http://www.atunes.org/?page_id=5>`_: reproductor y administrador de "
 "audio lleno de funciones que puede reproducir mp3, ogg, wma, wav, flac, mp4 "
-"y streamings de radio, permitiendo a los usuarios editar fácilmente "
+"y streaming de radio, permitiendo a los usuarios editar fácilmente "
 "etiquetas, organizar la música y copiar CDs de audio."
 
 # 5b4de8a36b354fe0b20b0734eb2cc97d
@@ -11183,8 +11192,8 @@ msgid "`Decibel <http://decibel.silent-blade.org/index.php?n=Main.Screenshots>`_
 msgstr ""
 "`Decibel <http://decibel.silent-blade.org/index.php?n=Main.Screenshots>`_: "
 "reproductor de audio hecho en torno a una estructura modular que le permite "
-"deshabilitar completamente las características que no vaya a necesitar. Es "
-"capaz de reproducir CDs directamente."
+"al usuario deshabilitar completamente las características que no necesite. "
+"Es capaz de reproducir CDs directamente."
 
 # 5d87555f247b4fde8f3c3b6df4fdfd12
 # 37f0331876524282aef12ee556777c49
@@ -11953,7 +11962,7 @@ msgid "`Miro <http://www.getmiro.com/download/screenshots/>`_: HD video player t
 msgstr ""
 "`Miro <http://www.getmiro.com/download/screenshots/>`_:  reproductor de "
 "vídeo HD que puede reproducir casi cualquier archivo de vídeo y ofrece mas "
-"de 6000 programas de TV por Internet y podcasts de vídeo."
+"de 6,000 programas gratis de TV por Internet y podcasts de vídeo."
 
 # abf262e38d27425588cd02e5b0c3f0a8
 # 85b070d1c3c04360a43776e1c49e1b60
@@ -12337,9 +12346,9 @@ msgstr ""
 msgid "`SMPlayer <http://smplayer.sourceforge.net/>`_: universal media player that can handle any media format and play audio CDs, DVDs, (S)VCDs, TV/radio cards, YouTube™ and SHOUTcast™ streams. This is the default player used by :ref:`Mount Tray`."
 msgstr ""
 "`SMPlayer <http://smplayer.sourceforge.net/>`_: reproductor universal de "
-"multimedia que puede manejar cualquier formato y reproducir CDs de audio, "
-"DVDs, (S)DVDs, tarjetas de TV/radio, vídeos de YouTube™y SHOUTcast™. Éste es "
-"el reproductor predeterminado en la :ref:`Bandeja de Montaje`."
+"medios que puede manejar cualquier formato y reproducir CDs de audio, DVDs, "
+"(S)VCDs, tarjetas de TV/radio, YouTube™y streams SHOUTcast™. Éste es el "
+"reproductor predeterminado usado en la :ref:`Bandeja de Montaje`."
 
 # b72b3a5918c34671b75919d637d69500
 # a2aaadf52f6c43378606b35661e894e4
@@ -13105,12 +13114,12 @@ msgstr "Kodi"
 msgid "`Kodi, formerly known as XBMC, <http://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats. It can play CDs and DVDs from a disk or image file and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
 msgstr ""
 "`Kodi, anteriormente conocido como XBMC, <http://kodi.tv/>`_ es un software "
-"con licencia GPL reproductor multimedia y centro de entretenimiento para "
+"reproductor de medios con licencia GPL y centro de entretenimiento para "
 "medios digitales. Puede reproducir la mayoría de los formatos de audio y "
-"vídeo. Puede reproducir VDs y DVDs desde un disco o archivo tipo imagen, e "
-"incluso archivos en dentro de otros comprimidos en ZIP o RAR. Puede escanear "
-"todos sus archivos multimedia y automáticamente crear un biblioteca personal "
-"con cubiertas de álbumes, descripciones y fan art."
+"vídeo. Puede reproducir CDs y DVDs desde un disco o archivo de imagen e "
+"incluso archivos en dentro de otros comprimidos con ZIP o RAR. Puede buscar "
+"todos sus archivos multimedia y automáticamente crear un biblioteca "
+"personalizada con carátulas de álbumes, descripciones, y fan art."
 
 # 579ad529660441238774b1a8b5206ea6
 # 70a4c53553584b918d9f4fb64a53461d
@@ -13493,13 +13502,13 @@ msgstr ""
 #: ../../using.rst:138
 msgid "During the installation of PC-BSD®, the installer provided an option to install Kodi. If you wish to install Kodi afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
 msgstr ""
-"Durante la instalación de PC-BSD®, el instalador le proporcionará una opción "
-"para instalar Kodi. Si desea instalar Kodi después, use AppCafe®. Haga clic "
-"en el recuadro \"Buscar todos los PBI y paquetes disponibles\" y busque \""
-"pcbsd-meta-kodi\". Una vez instalado se debería añadir una entrada para \""
-"Centro Multimedia\" en la sección \"Multimedia\" del menú de aplicaciones de "
-"su escritorio. Puede también iniciar Kodi escribiendo el comando "
-":command:`kodi` en la línea de comandos. "
+"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
+"instalar Kodi. Si desea instalar Kodi después, use AppCafe®. Presione el "
+"recuadro \"Buscar todos los PBI y paquetes disponibles\" y busque \"pcbsd-"
+"meta-kodi\". Una vez instalado, una entrada para \"Media Center\" debería "
+"añadirse a la sección \"Multimedia\" del menú de aplicaciones de su "
+"escritorio. Puede también iniciar Kodi escribiendo :command:`kodi` en la "
+"línea de comandos."
 
 # 9a882feda8ac496fb5f2ff21b0a754c0
 # c73027ba9873488880ed15df31049a8a
@@ -13882,8 +13891,8 @@ msgstr ""
 #: ../../using.rst:142
 msgid "If you have never used Kodi before, take some time to skim through the `Kodi Wiki Manual <http://kodi.wiki/>`_. The `Turn PC-BSD into a home theater forum post <https://forums.pcbsd.org/thread-19799.html>`_ contains a quick how-to for configuring Kodi."
 msgstr ""
-"Si nunca ha usado Kodi antes tómese tiempo para echar una ojeada al `Manual "
-"Wiki de Kodi <http://kodi.wiki/>`_. El `Foro sobre convertir PC-BSD en un "
+"Si nunca ha usado Kodi antes, tómese algo de tiempo para revisar el `Manual "
+"Wiki de Kodi <http://kodi.wiki/>`_. El `Post sobre convertir PC-BSD en un "
 "home theater <https://forums.pcbsd.org/thread-19799.html>`_ contiene una "
 "guía rápida para configurar kodi."
 
@@ -14651,8 +14660,8 @@ msgstr "PlexHome Theater"
 msgid "`Plex Home Theater <https://plex.tv/>`_ is a centralized media playback system. The central Plex Media Server streams media to many Plex player Apps which are used to view your media library and watch shows."
 msgstr ""
 "`Plex Home Theater <https://plex.tv/>`_ es un sistema de reproducción "
-"multimedia centralizado. El Servidor Plex Media transmite archivos "
-"multimedia a muchas Aplicaciones Plex reproductoras que se emplean para ver "
+"multimedia centralizado. El Servidor central Plex Media transmite archivos "
+"de medios a muchas Aplicaciones Plex reproductoras que se emplean para ver "
 "sus bibliotecas multimeda y ver programas."
 
 # e54aa9c6fb4446c3843b671465b5bc21
@@ -15036,13 +15045,13 @@ msgstr ""
 #: ../../using.rst:154
 msgid "During the installation of PC-BSD®, the installer provided an option to install PlexHome Theater. If you wish to install it afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
 msgstr ""
-"Durante la instalación de PC-BSD® el instalador proporciona una opción para "
-"instalar Plex Home Theater. Si desea instalarlo después emplee AppCafe®. "
-"Haga clic en \"Examinar todos los PBI y paquetes disponibles\" y busque \""
-"plexhometheater\". Una vez instalado se añadirá una entrada a la sección \""
-"Multimedia\" del menú de aplicaciones de su escritorio. Puede también "
-"iniciar esta aplicación escribiendo :command:`plexhometheater` en la línea "
-"de comandos de una consola."
+"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
+"instalar PlexHome Theater. Si desea instalarlo después, use AppCafe®. "
+"Presione el recuadro \"Examinar todos los PBI y paquetes disponibles\" y "
+"busque \"plexhometheater\". Una vez instalado, una entrada debería añadirse "
+"a la sección \"Multimedia\" del menú de aplicaciones de su escritorio. Puede "
+"también iniciar esta aplicación escribiendo :command:`plexhometheater` en la "
+"línea de comandos."
 
 # eb2d243b1eb74dd1bcaf652ef32141d2
 # 048c6d93860e40888ce0882d661f4525
@@ -15425,9 +15434,9 @@ msgstr ""
 #: ../../using.rst:158
 msgid "Once installed, an entry for \"Plex Home Theater\" will also be added to the login manager so that you can login directly to the home theater instead of a desktop."
 msgstr ""
-"Una vez instalado se añadirá también una entrada para \"Plex Home Theater\" "
-"en el administrador de acceso de manera que se puede conectar directamente "
-"al Theater en vez de al escritorio."
+"Una vez instalado, una entrada para \"Plex Home Theater\" también se añadirá "
+"al administrador de acceso de manera que pueda accesar directamente al home "
+"theater en vez de al escritorio."
 
 # b58179a8e67346ed8bcf84e57f9ff531
 # 5efb6999d33a471a8a2d08707018e651
@@ -15806,13 +15815,13 @@ msgstr ""
 #: ../../using.rst:160
 msgid "The first time you run or log into Plex Home Theater, a wizard will check your audio settings and sign into your Plex account. If you do not have a Plex account yet, create one at `plex.tv <https://plex.tv/>`_. The wizard will give you a PIN code and an URL to enter the code. Once you enter the PIN, the wizard will connect and sign you in. You can now search for and watch media. To exit Plex, click the \"<\" then \"Quit\"."
 msgstr ""
-"La primera vez que ejecute o se conecte a Plex Home Theater un asistente "
-"comprobará sus configuraciones de audio en su cuenta Plex. Si todavía no "
-"tienen una cuenta Plex cree una en `plex.tv <https://plex.tv/>`_. El "
-"asistente le dará un código PIN y una dirección URL para introducir el "
-"código. Una vez que introduzca el PIN el asistente le conectará y le "
-"autenticará. Ahora podrá buscar y ver archivos multimedia. Para salir de "
-"Plex haga clic en \"<\" y después en \"Quit\"."
+"La primera vez que ejecute o accese a Plex Home Theater, un asistente "
+"comprobará sus configuraciones de audio y lo se conectará a su cuenta Plex. "
+"Si todavía no tienen una cuenta Plex, cree una en `plex.tv "
+"<https://plex.tv/>`_. El asistente le dará un código PIN y una dirección URL "
+"para introducir el código. Una vez que introduzca el PIN, el asistente le "
+"conectará y le autenticará. Ahora podrá buscar y ver archivos multimedia. "
+"Para salir de Plex, presione \"<\" y después en \"Salir\"."
 
 # cb51f630a7cf408f9d7a5292ccc232a8
 # 7205fdc943b140c8aac95601180970b6
@@ -16577,20 +16586,20 @@ msgstr "Archivos y Compartición de Archivos"
 #: ../../using.rst:170
 msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`  to install the PBI. Once a file manager is installed, type its name if you wish to run it from another desktop."
 msgstr ""
-"Dependiendo de qué :ref:`Escritorios` tenga instalados, puede tener ya "
-"instaladas diferentes herramientas gráficas para administrar archivos. Usted "
-"no necesita estar conectado a un administrador de ventanas específico para "
-"utilizar un administrador de archivos instalado. Por ejemplo, si está "
-"instalado KDE, usted puede ejecutar su administrador de archivos en "
-"cualquier administrador de ventanas escribiendo :command:`dolphin`. KDE, "
-"GNOME, LXDE, y XFCE instalan sus propios administradores de archivos, "
-"mientras que la mayoría de otros escritorios asumen que usted instalará su "
-"administrador de archivos favorito. La Tabla 9.4a resume los administradores "
-"de archivos disponibles e indica qué escritorio se ha instalado con ellos. "
-"Algunos administradores de archivos se pueden instalar independientemente de "
-"un escritorio empleando :ref:`AppCafe®` para instalar el PBI. Una vez que se "
-"ha instalado un administrador de archivos escriba su nombre si desea "
-"ejecutarlo en otro escritorio."
+"Dependiendo de qué :ref:`Escritorios` tenga instalados, diferentes utilerías "
+"gráficas para la administración de archivos pueden estar ya instaladas para "
+"usted. Usted no necesita estar conectado en un gestor de ventanas específico "
+"para usar un administrador de archivos ya instalado. Por ejemplo, si está "
+"instalado KDE, puede ejecutar su administrador de archivos en cualquier "
+"gestor de ventanas escribiendo :command:`dolphin`. KDE, GNOME, LXDE, y XFCE "
+"instalan sus propios administradores de archivos, mientras que la mayoría de "
+"los otros escritorios asumen que usted instalará su administrador de "
+"archivos favorito. La Tabla 9.4a resume los administradores de archivos "
+"disponibles e indica con qué escritorios se instalan. Algunos "
+"administradores de archivos se pueden instalar independientemente del "
+"escritorio usando :ref:`AppCafe®` para instalar el PBI. Una vez que se ha "
+"instalado un administrador de archivos, escriba su nombre si desea "
+"ejecutarlo desde otro escritorio."
 
 # 17dd1819924e4030bc234d83a14f78f0
 # a7acd4068707448291ee8b8190d49863
@@ -18118,7 +18127,7 @@ msgstr "Escritorio/PBI"
 #: ../../using.rst:181
 #: ../../using.rst:180
 msgid "Screenshots"
-msgstr "Capturas de pantalla"
+msgstr "Capturas de Pantalla"
 
 # f0a1b1d5f9214602a132530df48194f8
 # 3da98e8265d848afbcd5da772e68fdcc
@@ -30305,7 +30314,7 @@ msgstr "`<http://docs.xfce.org/xfce/thunar/start>`_"
 #: ../../using.rst:197
 #: ../../using.rst:196
 msgid "xfe"
-msgstr "xfce"
+msgstr "xfe"
 
 # 67e78ea328d64017bef44b59f7dd666e
 # cfc26913bf9649a2bed89e2cb7d8487b
@@ -31070,7 +31079,7 @@ msgstr "`<http://roland65.free.fr/xfe/index.php?page=screenshots>`_"
 #: ../../using.rst:199
 msgid "When working with files on your PC-BSD® system, save your own files to your home directory. Since most of the files outside of your home directory are used by the operating system and applications, you should not delete or modify any files outside of your home directory, unless you know what you are doing."
 msgstr ""
-"Cuando trabaje con archivos en su sistema PC-BSD® guarde sus propios "
+"Cuando trabaje con archivos en su sistema PC-BSD®, guarde sus propios "
 "archivos en su directorio personal. Puesto que la mayor parte de los "
 "archivos que están fuera de su directorio personal son usados por el sistema "
 "operativo y por las aplicaciones, usted no debería borrar o modificar "
@@ -31459,7 +31468,7 @@ msgstr ""
 msgid "Table 9.4b summarizes the directory structure found on a PC-BSD® system. :command:`man hier` explains this directory structure in more detail."
 msgstr ""
 "La Tabla 9.4b resume la estructura de los directorios que hay en un sistema "
-"PC-BSD®. El comando :command:`man hier` explica la estructura de los "
+"PC-BSD®. El comando :command:`man hier` explica esta estructura de los "
 "directorios con más detalle."
 
 # ded08ddb8c87440fb937e0b25ebf3b89
@@ -31842,7 +31851,7 @@ msgstr ""
 #: ../../using.rst:205
 #: ../../using.rst:204
 msgid "**Table 9.4b: PC-BSD Directory Structure**"
-msgstr "**Tabla 9.4b: Estructura de los Directorios de PC_BSD**"
+msgstr "**Tabla 9.4b: Estructura de los Directorios de PC-BSD**"
 
 # b2b8994fe40c416db95c74ef809f0779
 # 1a1e4c74e5ae4a92bdd116f3b946f9a0
@@ -32224,7 +32233,7 @@ msgstr "**Tabla 9.4b: Estructura de los Directorios de PC_BSD**"
 #: ../../using.rst:208
 #: ../../using.rst:207
 msgid "Directory"
-msgstr "Directorios"
+msgstr "Directorio"
 
 # f94d1e00435e4a4b8a4848f102059266
 # fb19dffa2beb4a418d0e8dfb4f87e5c4
@@ -33371,7 +33380,7 @@ msgstr "/"
 #: ../../using.rst:209
 msgid "pronounced as \"root\" and represents the beginning of the directory structure"
 msgstr ""
-"declarado como \"raíz\" y representa el comienzo de la estructura de los "
+"Pronunciado como \"raíz\" y representa el comienzo de la estructura de "
 "directorios"
 
 # 5fdfe5bc06504630baeb103a40ef6da4
@@ -34136,7 +34145,7 @@ msgstr "/bin/"
 #: ../../using.rst:212
 #: ../../using.rst:211
 msgid "applications (binaries) that were installed with the operating system"
-msgstr "aplicaciones (binarios) que se instalaron con el sistema operativo"
+msgstr "Aplicaciones (binarios) que se instalaron con el sistema operativo"
 
 # f86cd3b724de4eb782e752e412222a9d
 # 4ea5fdcbf4be40d08cd58b19c7d382fd
@@ -34901,8 +34910,8 @@ msgstr "/boot/"
 #: ../../using.rst:213
 msgid "stores the startup code, including kernel modules (such as hardware drivers)"
 msgstr ""
-"almacena el código de arranque, incluyendo los módulos del kernel (tales "
-"como los controladores del hardware)"
+"Almacena el código de arranque, incluyendo los módulos del kernel (tales "
+"como controladores de hardware)"
 
 # 19d3d1f3e41f4b5ca81bbed671fe4fe5
 # 9b1f0db1315b4acb84dac15bcc4a279c
@@ -35666,7 +35675,7 @@ msgstr "/compat/linux/"
 #: ../../using.rst:216
 #: ../../using.rst:215
 msgid "Linux software compatibility files"
-msgstr "Archivos de compatibilidad del software de Linux"
+msgstr "Archivos de compatibilidad de software Linux"
 
 # f69272a786614a4aa694b4042bfec9d2
 # 5081ec58d5d446288c59626985459919
@@ -36431,7 +36440,7 @@ msgstr "/dev/"
 #: ../../using.rst:217
 msgid "files which are used by the operating system to access devices"
 msgstr ""
-"archivos que se han usado por el sistema operativo para acceder a los "
+"Archivos que se han usado por el sistema operativo para accesar a los "
 "dispositivos"
 
 # fbe9150e052e41e99d3b66a358081c72
@@ -37196,7 +37205,7 @@ msgstr "/etc/"
 #: ../../using.rst:220
 #: ../../using.rst:219
 msgid "operating system configuration files"
-msgstr "archivos de configuración del sistema operativo"
+msgstr "Archivos de configuración del sistema operativo"
 
 # 47a7cb75d7cd44ea800ec13cbf5a4359
 # dea41d14c13f4386b6e6cc677bc81728
@@ -37960,7 +37969,7 @@ msgstr "/etc/X11/"
 #: ../../using.rst:222
 #: ../../using.rst:221
 msgid "the :file:`xorg.conf` configuration file"
-msgstr "el archivo de configuración :file:`xorg.conf`"
+msgstr "El archivo de configuración :file:`xorg.conf`"
 
 # 9030ca17c04049d6835989ad6084c118
 # 46f6f0b9e8a847db8354aa795264c034
@@ -38724,7 +38733,7 @@ msgstr "/etc/rc.d/"
 #: ../../using.rst:224
 #: ../../using.rst:223
 msgid "operating system startup scripts"
-msgstr "scripts de inicio del sistema operativo"
+msgstr "Scripts de inicio del sistema operativo"
 
 # 488535e356664d529bbfb4bb74f8fec3
 # 7b077f2fb6bd4058a639afa769d055d1
@@ -39489,7 +39498,7 @@ msgstr "/home/"
 #: ../../using.rst:225
 msgid "subdirectories for each user account; each user should store their files in their own home directory"
 msgstr ""
-"subdirectorios para cada cuenta de usuario; cada usuario debería almacenar "
+"Subdirectorios para cada cuenta de usuario; cada usuario debería almacenar "
 "sus archivos en su propio directorio personal"
 
 # e287450098be460d8f158c8f18460004
@@ -40254,7 +40263,7 @@ msgstr "/lib/"
 #: ../../using.rst:228
 #: ../../using.rst:227
 msgid "operating system libraries needed for applications"
-msgstr "bibliotecas que necesita el sistema operativo para las aplicaciones"
+msgstr "Librerías del sistema operativo necesarias para las aplicaciones"
 
 # ee1b7b7f7c1546dd8f3f2c365056c984
 # 06c7cc7f40ce4d888aaedfa6931a6140
@@ -41018,7 +41027,7 @@ msgstr "/libexec/"
 #: ../../using.rst:230
 #: ../../using.rst:229
 msgid "operating system libraries and binaries"
-msgstr "bibliotecas y binarios del sistema operativo"
+msgstr "Librerías y binarios del sistema operativo"
 
 # 201b7ad898d04c28a6629c33183934fa
 # 023d42c15066464abc10bbde85adb5de
@@ -41783,7 +41792,7 @@ msgstr "/media/"
 #: ../../using.rst:231
 msgid "mount point for storage media such as DVDs and USB drives"
 msgstr ""
-"punto de montaje para los medios de almacenamiento tales como DVDs y "
+"Punto de montaje para los medios de almacenamiento tales como DVDs y "
 "memorias USB"
 
 # 174eecd01e7e4512979bb436677cdabb
@@ -42548,7 +42557,7 @@ msgstr "/mnt/"
 #: ../../using.rst:234
 #: ../../using.rst:233
 msgid "another mount point"
-msgstr "otro punto de montaje"
+msgstr "Otro punto de montaje"
 
 # ecf637304d5c42c88732abf3e22c1d47
 # 8cf46f14e94b4de08c12a4a5f362f629
@@ -43312,7 +43321,7 @@ msgstr "/proc/"
 #: ../../using.rst:236
 #: ../../using.rst:235
 msgid "the proc filesystem required by some Linux applications"
-msgstr "el sistema de archivos proc requerido por algunas aplicaciones de Linux"
+msgstr "El sistema de archivos proc requerido por algunas aplicaciones Linux"
 
 # da7dae5cf5a649d1aa119de4beb25fbd
 # 6b5c849fd76c4c87a303cd1240759720
@@ -44076,7 +44085,7 @@ msgstr "/rescue/"
 #: ../../using.rst:238
 #: ../../using.rst:237
 msgid "necessary programs for emergency recovery"
-msgstr "programas necesarios para una recuperación de emergencia"
+msgstr "Programas necesarios para una recuperación de emergencia"
 
 # 1b34568a22dd40b7a62b1a36c04e3294
 # 0cf2199343954bda8a581042321a2083
@@ -44840,7 +44849,7 @@ msgstr "/root/"
 #: ../../using.rst:240
 #: ../../using.rst:239
 msgid "administrative account's home directory"
-msgstr "el directorio personal de la cuenta del administrador"
+msgstr "El directorio personal de la cuenta del administrador"
 
 # 08cbae89d7ef49728bad68583a9aec8a
 # 73fe22e937cd42ca896110e2feb7e217
@@ -45605,7 +45614,7 @@ msgstr "/sbin/"
 #: ../../using.rst:241
 msgid "operating system applications; typically only the superuser can run these applications"
 msgstr ""
-"aplicaciones del sistema operativo; típicamente sólo el administrador puede "
+"Aplicaciones del sistema operativo; típicamente sólo el administrador puede "
 "ejecutar estas aplicaciones"
 
 # 27c6bea65d2d4456a0081817fbc8ca5e
@@ -46371,7 +46380,7 @@ msgstr "/tmp/"
 #: ../../using.rst:243
 msgid "temporary file storage; files stored here may disappear when the system reboots"
 msgstr ""
-"almacén temporal de archivos; los archivos almacenados aquí pueden "
+"Almacén temporal de archivos; los archivos almacenados aquí pueden "
 "desaparecer cuando el sistema se reinicie"
 
 # 150b8152330e435aa46473f21d3e1e76
@@ -47137,7 +47146,7 @@ msgstr "/usr/bin/"
 #: ../../using.rst:245
 msgid "contains most of the command line programs available to users"
 msgstr ""
-"contiene la mayoría de los programas que se inician desde la línea de "
+"Contiene la mayoría de los programas que se inician desde la línea de "
 "comandos, disponibles para los usuarios"
 
 # 15078c728e2e4a4781c7dfc79d5aa865
@@ -47903,9 +47912,9 @@ msgstr "/usr/local/"
 #: ../../using.rst:247
 msgid "contains the binaries, libraries, startup scripts, documentation, and configuration files used by applications installed from ports or packages"
 msgstr ""
-"contiene los binarios, bibliotecas, scripts de inicio, documentación, y "
-"archivos de configuración empleados por las aplicaciones instaladas desde "
-"los puertos o paquetes."
+"Contiene los binarios, librerías, scripts de inicio, documentación, y "
+"archivos de configuración usados por las aplicaciones instaladas desde los "
+"ports o paquetes"
 
 # 8422fe0c7ac4494e9d1bd047b396e792
 # 641cb6beb789470aa931a34652ab64dd
@@ -48669,7 +48678,7 @@ msgstr "/usr/local/share/fonts/"
 #: ../../using.rst:251
 #: ../../using.rst:250
 msgid "system wide fonts for graphical applications"
-msgstr "fuentes grandes del sistema para las aplicaciones gráficas"
+msgstr "Fuentes del sistema para las aplicaciones gráficas"
 
 # c1c4fe887a474544973fa17580091a5a
 # 795a7fd598424725a4c7fd399d7d611c
@@ -49433,7 +49442,7 @@ msgstr "/usr/local/share/icons/"
 #: ../../using.rst:253
 #: ../../using.rst:252
 msgid "system wide icons"
-msgstr "iconos grandes del sistema"
+msgstr "Iconos del sistema"
 
 # 916b3cbba53949bf83f2b6007730a47b
 # 38b97c65c06b4361aefd0bb247462568
@@ -50197,7 +50206,7 @@ msgstr "/usr/ports/"
 #: ../../using.rst:255
 #: ../../using.rst:254
 msgid "location of system ports tree (if installed)"
-msgstr "localización del árbol de puertos del sistema (si está instalado)"
+msgstr "Localización del árbol de ports del sistema (si está instalado)"
 
 # 5730564f8b134402967ba7644df152e6
 # a8f4c9dcb8c54e60a2b060efb6aca5fd
@@ -50961,7 +50970,7 @@ msgstr "/usr/share/"
 #: ../../using.rst:257
 #: ../../using.rst:256
 msgid "system documentation and man pages"
-msgstr "documentación del sistema y páginas man"
+msgstr "Documentación del sistema y páginas del manual"
 
 # b7f586ca05f74470b7455d35835ed76e
 # faa91b99ace2430e83381e4afa0aa320
@@ -51725,7 +51734,7 @@ msgstr "/usr/sbin/"
 #: ../../using.rst:259
 #: ../../using.rst:258
 msgid "command line programs for the superuser"
-msgstr "programas en línea de comandos para el administrador"
+msgstr "Programas en línea de comandos para el administrador"
 
 # 34eaf86581c5421aba639bf014348bb5
 # f1b3ea9b559645e69c7fe9dac9f611ad
@@ -52489,7 +52498,7 @@ msgstr "/usr/src/"
 #: ../../using.rst:261
 #: ../../using.rst:260
 msgid "location of system source code (if installed)"
-msgstr "localización del código fuente del sistema (si está instalado)"
+msgstr "Localización del código fuente del sistema (si está instalado)"
 
 # d840c3dad59940bbb7cc98456a8117c8
 # c2a65327a60a44618c83c38381a8f871
@@ -53254,8 +53263,8 @@ msgstr "/var/"
 #: ../../using.rst:262
 msgid "files that change (vary), such as log files and print jobs"
 msgstr ""
-"archivos que cambian (varían), tal como los archivos de registro y los "
-"trabajos de impresión"
+"Archivos que cambian (varían), tales como los archivos de log y los trabajos "
+"de impresión"
 
 # c4a5586e5ec34fee9e8fe426cb5948b7
 # 6b8ee1356b1543e588e7fb16adb28f39
@@ -53638,11 +53647,11 @@ msgstr ""
 #: ../../using.rst:265
 msgid "PC-BSD® provides built-in support for accessing Windows shares, meaning you only have to decide which utility you prefer to access existing Windows shares on your network. If a desktop is installed, you do not have to be logged into that desktop in order to use that utility."
 msgstr ""
-"PC-BSD® proporciona soporte incorporado para acceder a comparticiones "
-"Windows, lo que significa que sólo tiene que decidir qué herramienta "
-"prefiere para acceder a comparticiones Windows existentes en su red. Si hay "
-"un escritorio instalado no tiene que estar conectado al escritorio para "
-"emplear esta herramienta."
+"PC-BSD® proporciona soporte integrado para acceder a recursos compartidos "
+"Windows, lo que significa que sólo tiene que decidir qué utilería prefiere "
+"para accesar a recursos compartidos Windows existentes en su red. Si hay un "
+"escritorio instalado, no tiene que estar conectado al escritorio para usar "
+"esta utilería."
 
 # cde4aa54d45b4ce9abc27d77e16765b4
 # c811ae1a57bb4dd9bf7d6708e60871c0
@@ -54025,10 +54034,10 @@ msgstr ""
 #: ../../using.rst:268
 msgid "Table 9.4c summarizes the available utilities (type a utility's name to launch it in any desktop), which desktop it installs with and whether or not a separate PBI is available, and a short description of how to access the available shares using that utility."
 msgstr ""
-"La tabla 9.4c resume las herramientas disponibles (escriba el nombre de la "
-"herramienta para ejecutarla en cualquier escritorio), con qué escritorio se "
-"instala y si hay o no disponible un PBI separado, y una descripción corta de "
-"cómo acceder a las comparticiones disponibles empleando esa utilidad. "
+"La tabla 9.4c resume las utilerías disponibles (escriba el nombre de la "
+"utilería para ejecutarla en cualquier escritorio), con qué escritorio se "
+"instala y si hay o no un PBI separado disponible, y una descripción corta de "
+"cómo accesar a los recursos compartidos disponibles empleando esa utilería."
 
 # 6a0eed9790c04f54bec09fcaa62dcbf1
 # 10b0f22242d94ccea513813c871a1e66
@@ -54410,7 +54419,7 @@ msgstr ""
 #: ../../using.rst:272
 #: ../../using.rst:271
 msgid "**Table 9.4c: Utilities that Support Windows Shares**"
-msgstr "**Tabla 9.4c: Herramientas que Soportan Comparticiones Windows**"
+msgstr "**Tabla 9.4c: Utilerías que Soportan Recursos Compartidos Windows**"
 
 # d06b495257964580b61a1a3cceae6a44
 # 81854cb7a34b437092e5554712a2b44f
@@ -54792,7 +54801,7 @@ msgstr "**Tabla 9.4c: Herramientas que Soportan Comparticiones Windows**"
 #: ../../using.rst:275
 #: ../../using.rst:274
 msgid "**Utility**"
-msgstr "**Herramienta**"
+msgstr "**Utilería**"
 
 # 42bf4b80840c4496b4117614f4d5498a
 # abf4a0a8e4434c699dd3b28b2a8ad63d
@@ -55556,7 +55565,7 @@ msgstr "**Escritorio/PBI**"
 #: ../../using.rst:275
 #: ../../using.rst:274
 msgid "**How to Access Existing Shares**"
-msgstr "**Cómo Acceder a Comparticiones Existentes**"
+msgstr "**Cómo Accesar a Recursos Compartidos Existentes**"
 
 # a4672083bb354ec197b3255188149b0f
 # 997f59079abe4b7aaf728ccc4e2cca1d
@@ -55939,12 +55948,13 @@ msgstr "**Cómo Acceder a Comparticiones Existentes**"
 #: ../../using.rst:276
 msgid "in the left frame, click on :menuselection:`Network --> Samba Shares`, then the Workgroup name; if the network requires a username and password to browse for shares, set this in :menuselection:`Control Panel --> System Settings --> Sharing` while in KDE or type :command:`systemsettings` and click \"Sharing\" while in another desktop"
 msgstr ""
-"en el marco izquierdo haga clic en :menuselection:`Red --> Comparticiones "
-"Samba`, después en el nombre del Grupo de Trabajo; si la red requiere un "
-"nombre de usuario y una contraseña para buscar comparticiones establezca "
-"esto en :menuselection:`Panel de Control --> Configuración del Sistema --> "
-"Comparticiones` mientras esté en KDE o escriba :command:`systemsettings` y "
-"haga clic en \"Compartición\" mientras esté en otro escritorio"
+"En el marco izquierdo, presione en :menuselection:`Red --> Recursos "
+"Compartidos Samba`, después el nombre del Grupo de Trabajo; si la red "
+"requiere un nombre de usuario y una contraseña para buscar recursos "
+"compartidos, establezca esto en :menuselection:`Panel de Control --> "
+"Configuraciones del Sistema --> Recursos Compartidos` mientras esté en KDE o "
+"escriba :command:`systemsettings` y presione \"Compartir\" mientras esté en "
+"otro escritorio"
 
 # 5c1c0df0229a4ecdb656158036170eab
 # 6dfba568174442b6b58265d625b05b61
@@ -56708,7 +56718,7 @@ msgstr "konqueror"
 #: ../../using.rst:281
 #: ../../using.rst:280
 msgid "in the location bar, type *smb:/*"
-msgstr "escriba en la barra de direcciones *smb:/*"
+msgstr "En la barra de direcciones, escriba *smb:/*"
 
 # 150896b215d341a383eecb098a3fd49a
 # ce383a3b4cf34692addcec50b4310c9d
@@ -57091,10 +57101,10 @@ msgstr "escriba en la barra de direcciones *smb:/*"
 #: ../../using.rst:282
 msgid "click on :menuselection:`Go --> Connect to server --> SMB`; input the NETBIOS name of server, name of share, name of domain (or workgroup), and the share's username and password"
 msgstr ""
-"haga clic en :menuselection:`Ir --> Conectar con el servidor --> SMB`; "
-"introduzca el nombre NETBIOS del servidor, el nombre de la compartición, "
-"nombre del dominio (o grupo de trabajo), y el nombre de usuario y contraseña "
-"de la compartición. "
+"Presione en :menuselection:`Ir --> Conectar al servidor --> SMB`; introduzca "
+"el nombre NETBIOS del servidor, el nombre del recurso compartido, nombre del "
+"dominio (o grupo de trabajo), y el nombre de usuario y contraseña del "
+"recurso compartido. "
 
 # 63d169e31b504ae28f95268473875beb
 # 11f7c3f1f6934de0ad8673ac3d9709da
@@ -57476,7 +57486,7 @@ msgstr ""
 #: ../../using.rst:286
 #: ../../using.rst:285
 msgid "click on :menuselection:`Browse Network --> Windows Network`"
-msgstr "haga clic en :menuselection:`Examinar red --> Red de Windows`"
+msgstr "Presione en :menuselection:`Examinar Red --> Red de Windows`"
 
 # b61873fad1d44614a29d5299b2adcd4e
 # 91f8cfa8c91f43758161fdd78b7f0657
@@ -57859,7 +57869,7 @@ msgstr "haga clic en :menuselection:`Examinar red --> Red de Windows`"
 #: ../../using.rst:287
 msgid "in the left frame, click on :menuselection:`Network --> Windows Network`"
 msgstr ""
-"en el marco izquierdo, haga clic en :menuselection:`Red --> Red de Windows`"
+"En el marco izquierdo, presione en :menuselection:`Red --> Red de Windows`"
 
 # f02095d2527d4c4a910edb3075fce495
 # 6f4cbc781f3b46d1826cd13e9ab66d80
@@ -58622,8 +58632,8 @@ msgid "`Wine <https://www.winehq.org/>`_ is an application that allows you to cr
 msgstr ""
 "`Wine <https://www.winehq.org/>`_ es una aplicación que le permite crear un "
 "entorno de Windows para instalar software para Windows. Esto puede ser útil "
-"si su juego favorito o aplicación de trabajo no ha sido portada a Linux o a "
-"BSD."
+"si su juego favorito de Windows o aplicación de productividad no ha sido "
+"portada a Linux o BSD."
 
 # ac2ff19a05f746a49ef207b8d2a65211
 # d4064666ee104464b6d5866e07ceccab
@@ -59003,9 +59013,9 @@ msgstr ""
 msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <http://wiki.winehq.org/>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
 msgstr ""
 "Wine no está garantizado para trabajar con cualquier aplicación de Windows. "
-"Si no está seguro de si la aplicación que necesita está soportada busque en "
-"la sección \"Buscar Aplicaciones\", de la sección de la `base de datos de "
-"aplicaciones de Wine  <https://appdb.winehq.org/>`_. La `wiki de Wine "
+"Si no está seguro de que la aplicación que necesita está soportada, búsquela "
+"en la sección \"Buscar Aplicaciones\", de la `base de datos de aplicaciones "
+"Wine  <https://appdb.winehq.org/>`_. El `wiki de Wine "
 "<http://wiki.winehq.org/>`_ contiene muchos recursos para que usted se "
 "inicie y para consultar si encuentra problemas con su aplicación de Windows."
 
