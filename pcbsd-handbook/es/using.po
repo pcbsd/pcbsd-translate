@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-18 00:14-0800\n"
-"PO-Revision-Date: 2016-01-17 23:30+0000\n"
+"POT-Creation-Date: 2016-01-18 04:13-0800\n"
+"PO-Revision-Date: 2016-01-18 16:01+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453132877.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -5765,9 +5769,8 @@ msgstr ""
 msgid "If you have a collection of fonts that you have downloaded or purchased, you can configure your PC-BSD® system to also use these fonts. Which utility you use depends upon which window manager you have logged into."
 msgstr ""
 "Si tiene una colección de fuentes que haya descargado o comprado, puede "
-"configurar su sistema PC-BSD® para que también use estas fuentes. La "
-"herramienta que utilice depende de a qué administrador de ventanas se haya "
-"conectado."
+"configurar su sistema PC-BSD® para que también use esas fuentes. La utilería "
+"que utilice depende de a qué gestor de ventanas se haya conectado."
 
 # 1c4dccb7674a491ca3b900b62acbd395
 # bb45f89c218a47c388cc5a2183f9b300
@@ -6150,15 +6153,21 @@ msgstr ""
 #: ../../using.rst:57
 msgid "many fonts are available from :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box in the \"App Search\" tab to search for fonts. Any font installed using AppCafe® should not require any additional configuration to \"just work\"."
 msgstr ""
-"hay muchas fuentes disponibles en :ref:`AppCafe®`. Marque el recuadro \""
+"Hay muchas fuentes disponibles en :ref:`AppCafe®`. Seleccione la casilla \""
 "Buscar todos los PBI y paquetes disponibles\" en la pestaña \"Búsqueda de "
 "Aplicaciones\" para buscar fuentes. Cualquier fuente instalada mediante "
 "AppCafe® no debería requerir ninguna configuración adicional para que \""
-"simplemente funcione\". "
+"simplemente funcione\"."
 
 #: ../../using.rst:61
 msgid "To install custom fonts within KDE, go to :menuselection:`System Settings --> Font Management`. In :numref:`Figure %s: Using KDE's Font Installer to Install Custom Fonts <font1>`, \"All Fonts\" is currently selected under the \"Group\" column, showing all of the fonts installed on this system."
 msgstr ""
+"Para instalar fuentes personalizadas en KDE, vaya a :menuselection:`"
+"Configuraciones del Sistema --> Administración de Fuentes`. En la :numref:`"
+"Figura %s: Usando el Instalador de Fuentes de KDE para Instalar Fuentes "
+"Personalizadas <font1>`, \"Todas las Fuentes\" está actualmente seleccionado "
+"bajo la columna \"Grupo\", mostrando todas las fuentes instaladas en este "
+"sistema."
 
 # ff488442c85e4eada2cb1f748af12bcd
 # 3af4f94ef7e44c12ac2983a7940674bb
