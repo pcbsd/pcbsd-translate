@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-17 08:13-0800\n"
-"PO-Revision-Date: 2015-11-02 18:38+0000\n"
+"POT-Creation-Date: 2016-01-17 12:13-0800\n"
+"PO-Revision-Date: 2016-01-17 23:30+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453073437.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -776,8 +780,8 @@ msgstr "Usando PC-BSD®"
 #: ../../using.rst:6
 msgid "This section discusses how to perform common tasks that were not discussed in the :ref:`Control Panel` section."
 msgstr ""
-"Esta sección trata de cómo realizar tareas comunes que no se trataron en la "
-"sección :ref:`Panel de Control`."
+"Esta sección trata sobre cómo realizar tareas comunes que no se trataron en "
+"la sección :ref:`Panel de Control`."
 
 # 5eba8375d1054c5c9a181b46e8a63d9b
 # 7f2fd120ee224a5994cdebfbbfe821ca
@@ -1540,10 +1544,10 @@ msgstr "Java y Flash"
 #: ../../using.rst:14
 msgid "The IcedTea-Web PBI provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this PBI, search for \"icedtea\" within :ref:`AppCafe®`."
 msgstr ""
-"El PBI IcedTea-Web proporciona un complemento de código abierto en Java para "
-"el navegador web que funciona automáticamente Firefox, Chromium y Opera, sin "
-"configuraciones adicionales. Para instalar este PBI busque \"icedtea\" en "
-":ref:`AppCafe®`."
+"El PBI IcedTea-Web proporciona un plugin de Java de código abierto para el "
+"navegador web que funciona automáticamente con los navegadores Firefox, "
+"Chromium, y Opera, sin configuraciones adicionales. Para instalar este PBI, "
+"busque \"icedtea\" en :ref:`AppCafe®`."
 
 # 6962e768089245a09da50c9ab66b0f16
 # e5b3387b98a348a0ae540c91b07a7adf
@@ -1925,11 +1929,10 @@ msgstr ""
 #: ../../using.rst:17
 msgid "PC-BSD® installs and configures the Adobe Flash player (version 11) plugin for you. This means that flash should \"just work\" when browsing the web. You will find several web browsers in the Web Browsers category of :ref:`AppCafe®`, including Firefox, Opera, and Chromium."
 msgstr ""
-"PC-BSD® instala y configura el complemento reproductor de Flash de Adobe ("
-"versión 11) para usted. Esto significa que flash debería \"simplemente "
-"funcionar\" cuando navegue por la web. Encontrará varios navegadores web en "
-"la categoría de Navegadores Web de :ref:`AppCafe®`, incluyendo Firefox, "
-"Opera y Chromium."
+"PC-BSD® instala y configura el plugin de Adobe Flash player (versión 11) "
+"para usted. Esto significa que flash debería \"simplemente funcionar\" "
+"cuando navegue por la web. Encontrará varios navegadores web en la categoría "
+"de Navegadores Web de :ref:`AppCafe®`, incluyendo Firefox, Opera y Chromium."
 
 # b56babac1b3f4f17aa7f1c8c8e48f5d4
 # 823e07bfffff46a0939382c7cbe65bf1
@@ -2311,8 +2314,8 @@ msgstr ""
 #: ../../using.rst:20
 msgid "If Adobe Flash does not seem to be working, running the following command as your regular user account should fix the problem::"
 msgstr ""
-"Si Flash de Adobe parece no funcionar ejecute el siguiente comando ya que su "
-"cuenta normal de usuario debería arreglar el problema::"
+"Si Adobe Flash parece no funcionar, ejecutando el siguiente comando con su "
+"cuenta de usuario regular debería arreglar el problema::"
 
 # 5eb15771bc8441f8bce343b0a4240d23
 # 9a204f8e732847ae99cdb016888fb82c
@@ -2694,15 +2697,18 @@ msgstr ""
 #: ../../using.rst:24
 msgid "The Adobe Flash Player preferences icon in :ref:`Control Panel` can be used to modify how websites interact with your browser using Adobe Flash. Many of the same configurations can be done via right-click within an active flash object in a web browser."
 msgstr ""
-"El icono de preferencias del Reproductor Flash de Adobe en :ref:`Panel de "
-"Control` se puede usar para modificar cómo interaccionan los sitios web con "
-"el navegador que usa Flash de Adobe. Muchas de estas configuraciones se "
-"pueden llevar a cabo haciendo clic con el botón derecho del ratón en el "
-"objeto flash activo en el navegador web. "
+"El icono de preferencias de Adobe Flash Player en :ref:`Panel de Control` se "
+"puede usar para modificar cómo interactúan los sitios web con su navegador "
+"usando Adobe Flash. Muchas de las mismas configuraciones se pueden llevar a "
+"cabo haciendo clic derecho en el objeto flash activo en un navegador web."
 
 #: ../../using.rst:27
 msgid "To access the utility shown in :numref:`Figure %s: Flash Player Configuration Utility <flash>`, use :menuselection:`Control Panel --> Adobe Flash Player preferences` or type :command:`flash-player-properties`."
 msgstr ""
+"Para accesar la utilería mostrada en la :numref:`Figura %s: Utilería de "
+"Configuración de Flash Player <flash>`, use :menuselection:`Panel de Control "
+"--> Preferencias de Adobe Flash Player` o ingrese :command:`flash-player-"
+"properties`."
 
 # c2b65b60af4b4c438b59d1b5599974d0
 # 0ce9f2f1b6c1457ebab68fd6bbdbce3e
@@ -3465,10 +3471,10 @@ msgstr ""
 #: ../../using.rst:35
 msgid "`Storage <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html>`_ describes private browsing support and the privacy issues associated with local storage of flash information."
 msgstr ""
-"`Almacén <http://help.adobe.com/en_US/FlashPlayer/LSM"
-"/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html>`_ describe el soporte a la "
-"navegación de incógnito y los asuntos de privacidad asociados con el "
-"almacenamiento local de información de flash."
+"`Almacenamiento <http://help.adobe.com/en_US/FlashPlayer/LSM"
+"/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html>`_ describe el soporte de "
+"navegación en modo incógnito y los problemas de privacidad asociados con el "
+"almacenamiento local de la información de flash."
 
 # dd94f9a9ed794108b6617bd5a53fa990
 # de2c0f036998457a98f1a531b5cc7532
@@ -3847,9 +3853,9 @@ msgstr ""
 #: ../../using.rst:38
 msgid "`Camera and Mic <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff8.html>`_ controls how websites can use your computer's camera and microphone."
 msgstr ""
-"`Cámara y Mic <http://help.adobe.com/en_US/FlashPlayer/LSM"
+"`Cámara y Micrófono <http://help.adobe.com/en_US/FlashPlayer/LSM"
 "/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff8.html>`_ controla cómo lo sitios "
-"web pueden utilizar la cámara y el micrófono de su ordenador."
+"web pueden usar la cámara y el micrófono de su equipo."
 
 # 4be4f0cf2b5346daabe659c8daf249ce
 # 1bdd028a7b214dfca25c3a5688b26534
@@ -4610,8 +4616,8 @@ msgstr ""
 msgid "`Advanced <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff0.html>`_ controls how Flash Player handles browsing data, updates, trusted locations, and protected content."
 msgstr ""
 "`Avanzado <http://help.adobe.com/en_US/FlashPlayer/LSM"
-"/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff0.html>`_ controla cómo maneja el "
-"Reproductor de Flash la búsqueda de datos, localizaciones confiables, y "
+"/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff0.html>`_ controla cómo maneja "
+"Flash Player la búsqueda de datos, actualizaciones, sitios confiables, y "
 "contenidos protegidos."
 
 # 180971fb061b4fbe8494591d17928afa
@@ -5377,9 +5383,9 @@ msgstr "Instalando Fuentes Personalizadas"
 #: ../../using.rst:51
 msgid "PC-BSD® installs Microsoft TrueType fonts which include the Times New Roman, Courier New, Georgia, Trebuchet MS, Comic Sans MS Arial, Arial Black, Verdana, Andale Mono, and Impact fonts."
 msgstr ""
-"PC-BSD® instala fuentes TrueType de Mocrosoft que incluyen a las fuentes "
-"Times New Roman, Courier New, Georgia, Trebuchet MS, Comic Sans MS Arial, "
-"Arial Black, Verdana, Andale Mono, e Impacts."
+"PC-BSD® instala fuentes TrueType de Microsoft que incluye las fuentes Times "
+"New Roman, Courier New, Georgia, Trebuchet MS, Comic Sans, MS Arial, Arial "
+"Black, Verdana, Andale Mono, e Impacts."
 
 # 0f9566dc1cf7481fa97b32258aef7a63
 # 6bc068c6a2114afb8ef6bc520cf6525d
