@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-18 08:14-0800\n"
-"PO-Revision-Date: 2016-01-18 18:20+0000\n"
+"POT-Creation-Date: 2016-01-18 12:13-0800\n"
+"PO-Revision-Date: 2016-01-18 23:03+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453141212.000000\n"
+"X-POOTLE-MTIME: 1453158216.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -57104,7 +57104,7 @@ msgstr ""
 "Presione en :menuselection:`Ir --> Conectar al servidor --> SMB`; introduzca "
 "el nombre NETBIOS del servidor, el nombre del recurso compartido, nombre del "
 "dominio (o grupo de trabajo), y el nombre de usuario y contraseña del "
-"recurso compartido. "
+"recurso compartido."
 
 # 63d169e31b504ae28f95268473875beb
 # 11f7c3f1f6934de0ad8673ac3d9709da
@@ -59015,13 +59015,19 @@ msgstr ""
 "Wine no está garantizado para trabajar con cualquier aplicación de Windows. "
 "Si no está seguro de que la aplicación que necesita está soportada, búsquela "
 "en la sección \"Buscar Aplicaciones\", de la `base de datos de aplicaciones "
-"Wine  <https://appdb.winehq.org/>`_. El `wiki de Wine "
+"Wine <https://appdb.winehq.org/>`_. El `wiki de Wine "
 "<http://wiki.winehq.org/>`_ contiene muchos recursos para que usted se "
 "inicie y para consultar si encuentra problemas con su aplicación de Windows."
 
 #: ../../using.rst:304
 msgid "Wine can be installed during installation or from :ref:`AppCafe®`. Once installed, it can be started by clicking the entry for \"Wine Configuration\" from the desktop's application menu or by typing :command:`winecfg` at the command line. The initial Wine configuration menu shown in :numref:`Figure %s: Wine Configuration Menu <wine1>`."
 msgstr ""
+"Wine puede instalarse durante la instalación o desde :ref:`AppCafe®`. Una "
+"vez instalado, se puede iniciar presionando la entrada para la \""
+"Configuración de Wine\" desde el menú de aplicaciones del escritorio o "
+"ingresando :command:`winecfg` en la línea de comandos. El menú inicial de la "
+"configuración de Wine mostrado en la :numref:`Figura %s: Menú de "
+"Configuración de Wine <wine1>`."
 
 # 3ae63bfcb9bf4508960dedbaef26f55c
 # 0b32667f4f61477a89076aee02b5f0b5
@@ -59404,13 +59410,14 @@ msgstr ""
 #: ../../using.rst:310
 msgid "Click the \"Add application\" button to browse to the application's installer file. By default, the contents of your hard drive will be listed under \"drive_c\". If the installer is on a CD/DVD, use the drop-down menu to browse to your :menuselection:`home directory --> *.wine --> dosdevices` folder. The contents of the CD/DVD should be listed under *d:*. If they are not, the most likely reason is that your CD/DVD was not automatically mounted by the desktop. To mount the media, type the following as the superuser::"
 msgstr ""
-"Haga clic en el botón \"Añadir Aplicación\" para ir a el archivo de "
+"Presione el botón \"Añadir Aplicación\" para buscar el archivo de "
 "instalación de la aplicación. Por defecto, el contenido de su disco duro se "
-"listará bajo \"drive_c\". Si el instalador es un CD/DVD use el menú "
-"desplegable para ir a su carpeta :menuselection:`directorio personal --> *"
-".wine --> dosdevices`. Si no está allí la razón más probable es que su CD/"
-"DVD no se haya montado automáticamente por el escritorio. Para montar el "
-"dispositivo multimedia escriba lo siguiente como administrador:"
+"listará bajo \"drive_c\". Si el instalador está en un CD/DVD, use el menú "
+"desplegable para ir a su :menuselection:`directorio personal --> *.wine --> "
+"dosdevices`. EL contenido del CD/DVD debería estar listado bajo *d:*. Si no "
+"está allí, la razón más probable es que su CD/DVD no se haya montado "
+"automáticamente por el escritorio. Para montar el dispositivo, escriba lo "
+"siguiente como administrador:"
 
 # 360832fe8a4b49c9823c72112a560053
 # eb38f0c3da904d98939f90e093b3954f
@@ -59793,13 +59800,16 @@ msgstr ""
 #: ../../using.rst:317
 msgid "You should hear the media spin and be able to select the installer file. Once selected, press \"Apply\" then \"OK\" to exit the configuration utility."
 msgstr ""
-"Debería poder escuchar el medio girar y ser capaz de seleccionar el archivo "
-"de instalación. Una vez seleccionado, presione \"Aplicar\" y después \"OK\" "
-"para salir de la herramienta de configuración."
+"Debería escuchar el medio girar y ser capaz de seleccionar el archivo de "
+"instalación. Una vez seleccionado, presione \"Aplicar\" y después \"OK\" "
+"para salir de la utilería de configuración."
 
 #: ../../using.rst:320
 msgid "To install the application, click the Winefile desktop icon or type :command:`winefile` to see the screen shown in :numref:`Figure %s: Installing the Application Using winefile <wine2>`."
 msgstr ""
+"Para instalar la aplicación, presione el icono de escritorio Winefile o "
+"ingrese :command:`winefile` para ver la pantalla mostrada en la :numref:`"
+"Figura %s: Instalando la Aplicación Usando winefile <wine2>`."
 
 # 23ffb86a8e884ad895f100e85190a7df
 # 6bbb218b0a484299acb6cf33eceb05fe
@@ -60182,10 +60192,10 @@ msgstr ""
 #: ../../using.rst:325
 msgid "Click the button representing the drive containing the installer and double-click on the installation file (e.g. :file:`setup.exe`). The installer should launch and you can proceed to install the application as you would on a Windows system."
 msgstr ""
-"Haga clic en el botón que representa el disco que contiene el instalador y "
-"haga doble clic en el archivo de instalación (por ejemplo :file:`setup.exe`)"
-". El instalador debería iniciarse y usted podrá proceder a instalar la "
-"aplicación como lo haría en un sistema Windows."
+"Presione el botón que representa el disco que contiene el instalador y "
+"presione en el archivo de instalación (por ejemplo :file:`setup.exe`). El "
+"instalador debería iniciarse y usted podrá proceder a instalar la aplicación "
+"como lo haría en un sistema Windows."
 
 # 97053feaea374ef4a3bfe92510878a4a
 # 573969e5263a414f8337257849d92b45
@@ -60568,12 +60578,15 @@ msgstr ""
 #: ../../using.rst:328
 msgid "if you had to manually mount the CD/DVD, you will need to unmount it before it will eject. As the superuser, use the command :command:`umount /mnt`."
 msgstr ""
-"si ha montado manualmente el CD/DVD necesitará desmontarlo antes de "
-"expulsarlo. Como administrador, emplee el comando :command:`umount /mnt`."
+"Si ha tenido que montar manualmente el CD/DVD, necesitará desmontarlo antes "
+"de expulsarlo. Como administrador, use el comando :command:`umount /mnt`."
 
 #: ../../using.rst:331
 msgid "Once the installation is complete, browse to the application's location. :numref:`Figure %s: Running the Installed Application <wine3>` shows an example of running Internet Explorer within :command:`winefile`."
 msgstr ""
+"Una vez que la instalación se ha completado, busque la localización de la "
+"aplicación. :numref:`Figura %s: Iniciando la Aplicación Instalada <wine3>` "
+"muestra un ejemplo de cómo iniciar Internet Explorer con :command:`winefile`."
 
 # 6613f3b08e39430c87fc50ecff44055a
 # 783fb7f723d64f3e8ca0b3fc43fc2ba7
@@ -61340,12 +61353,12 @@ msgid "Wine can be configured to install and run `Steam games <http://store.stea
 msgstr ""
 "Wine puede configurarse para instalar y ejecutar `Juegos de Steam "
 "<http://store.steampowered.com/about/>`_. La configuración necesaria y la "
-"lista de juegos testados se puede encontrar en la `página de trucos y "
-"consejos de Wine en PC-BSD® "
+"lista de juegos probados se puede encontrar en la `página de Trucos y "
+"Consejos de Wine en PC-BSD® "
 "<http://wiki.pcbsd.org/index.php/AppCafe/emulators/i386-wine-"
-"devel#Tips_and_Tricks>`_. Las instrucciones para vídeo se pueden encontrar "
-"en `Steam en PC-BSD - Cómo Conseguir que Wine Ejecute Juegos 3D "
-"<https://www.youtube.com/watch?v=B04EuZ9hpAI>`_  y en `Steam en PCBSD 2 - "
+"devel#Tips_and_Tricks>`_. Las instrucciones de video se pueden encontrar en `"
+"Steam en PC-BSD - Cómo Conseguir que Wine Ejecute Juegos 3D "
+"<https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ y en `Steam en PCBSD 2 - "
 "Usando Wine como un Cliente de Streaming <http://blog.pcbsd.org/2014/12"
 "/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
 
@@ -62113,13 +62126,12 @@ msgstr "Escritorio Remoto"
 msgid "Occasionally it is useful to allow connections between desktop sessions running on different computers. This can be handy when troubleshooting a problem since both users will be able to see the error on the problematic system and either user can take control of the mouse and keyboard in order to fix the problem. Typically this is a temporary situation as providing access to one's computer allows a remote user the ability to both view and modify its settings."
 msgstr ""
 "Algunas veces es necesario permitir conexiones entre sesiones de escritorio "
-"que se están ejecutando en diferentes escritorios. Esto puede ser útil "
-"cuando hay que solucionar un problema ya que ambos usuarios serán capaces de "
-"ver el error en el sistema problemático y cualquier usuario puede tomar el "
-"control del ratón y del teclado para solucionar el problema. Esto es "
-"típicamente una situación temporal ya que permitir acceso a nuestro "
-"ordenador otorga a un usuario remoto la capacidad tanto de ver como de "
-"modificar sus configuraciones."
+"corriendo en diferentes computadoras. Esto puede ser útil cuando hay que "
+"solucionar un problema ya que ambos usuarios serán capaces de ver el error "
+"en el sistema problemático y cualquier usuario puede tomar control del ratón "
+"y teclado para solucionar el problema. Esto es típicamente una situación "
+"temporal ya que permitir acceso a nuestro equipo otorga a un usuario remoto "
+"la capacidad tanto de ver como de modificar sus configuraciones."
 
 # e308147272974fb3af48e31e4468f50b
 # eac5989b08774f218336930f0657ec9b
@@ -62500,9 +62512,9 @@ msgid "The `remote desktop protocol (RDP) <https://en.wikipedia.org/wiki/Remote_
 msgstr ""
 "El `protocolo de escritorio remoto (RDP) "
 "<https://en.wikipedia.org/wiki/Remote_Desktop_Protocol>`_ puede usarse para "
-"establecer conexiones con otro ordenador. Dependiendo del sistema operativo "
-"puede necesitar instalar primero el software RDP o habilitarlo en el "
-"escritorio remoto."
+"establecer una conexión a otro equipo. Dependiendo del sistema operativo, "
+"puede necesitar instalar primero el software RDP o habilitarlo en el equipo "
+"remoto."
 
 # 157a13214de541b49dc9db0c1f898e7c
 # 20bed532f7e344d3b0d3340c594e641e
@@ -62882,14 +62894,14 @@ msgstr ""
 msgid "Not every edition of Windows provides a fully functional version of RDP; for example, it may not be fully supported in a Home Edition of Windows. Even if the full version of RDP is included, remote access may or may not be enabled by default. If you have trouble connecting using RDP, do a web search for \"remote desktop\" and the name of the version of Windows you are using to find out how to configure its remote desktop settings. If you still can not connect, you can instead download, install, and configure `VNC <https://en.wikipedia.org/wiki/Virtual_Network_Computing>`_ server software on the system."
 msgstr ""
 "No todas las ediciones de Windows proporcionan un versión completamente "
-"funcional de RDP,  por ejemplo, puede no estar totalmente soportado en "
-"Windows Home Edition. Incluso si se incluye la versión completa de RDP el "
-"acceso remoto puede, o no, estar disponible de forma predeterminada. Si "
-"tiene problemas con la conexión al emplear RDP haga una búsqueda de \""
+"funcional de RDP; por ejemplo, puede no estar totalmente soportado en un "
+"Windows Home Edition. Incluso si se incluye la versión completa de RDP, el "
+"acceso remoto puede, o no, estar habilitado de forma predeterminada. Si "
+"tiene problemas conectándose usando RDP, haga una búsqueda sobre \""
 "escritorio remoto\" en la web y el nombre de la versión de Windows que está "
-"usando para averiguar como configurar los ajustes del escritorio remoto. Si "
-"todavía no se puede conectar, en vez de eso puede descargar, instalar y "
-"configurar el servidor de software `VNC "
+"usando para averiguar cómo configurar sus configuraciones de escritorio "
+"remoto. Si todavía no se puede conectar, usted entonces puede descargar, "
+"instalar, y configurar el software del servidor `VNC "
 "<https://en.wikipedia.org/wiki/Virtual_Network_Computing>`_ en el sistema."
 
 # de49e8ac4df749528686c0ad5e1afb1b
@@ -63274,13 +63286,13 @@ msgstr ""
 msgid "If the other computer you are connecting to is a Mac, Linux, or BSD system, you will have to first install either `xrdp <http://www.xrdp.org/>`_ or a VNC server on the other system. Depending upon the operating system, either software may or may not already be installed. If it is not, check the software repository for the operating system or use a web search to find out how to install and configure one of these applications on that operating system. If you are connecting to another PC-BSD® system, use :ref:`AppCafe®`, check the box \"Search all available PBI and packages\", and search for \"rdp\" or \"vnc\"."
 msgstr ""
 "Si el otro ordenador al que se está conectando es un Mac, Linux o sistema "
-"BSD, tendrá primero que instalar o bien `xrdp <http://www.xrdp.org/>`_ o "
-"bien un servidor VNC en el otro sistema. Dependiendo del sistema operativo "
-"el software puede, o no, estar ya instalado. Si no lo está compruebe el "
-"repositorio de software para el sistema operativo o haga una búsqueda en la "
-"web para averiguar cómo instalar y configurar una de estas aplicaciones en "
-"un sistema operativo. Si se está conectando a otro sistema PC-BSD® emplee "
-":ref:`AppCafe®`, marque el recuadro \"Buscar todos los PBI y paquetes "
+"BSD, tendrá primero que instalar o bien `xrdp <http://www.xrdp.org/>`_ o un "
+"servidor VNC en el otro sistema. Dependiendo del sistema operativo, "
+"cualquier software puede, o no, estar ya instalado. Si no lo está, compruebe "
+"el repositorio de software para el sistema operativo o haga una búsqueda en "
+"la web para averiguar cómo instalar y configurar una de estas aplicaciones "
+"en ese sistema operativo. Si se está conectando a otro sistema PC-BSD®, use "
+":ref:`AppCafe®`, seleccione el recuadro \"Buscar todos los PBI y paquetes "
 "disponibles\", y busque \"rdp\" o \"vnc\"."
 
 # 1baa4ce0e0bc46429a04dfd6f54f287d
@@ -63664,9 +63676,9 @@ msgstr ""
 #: ../../using.rst:370
 msgid "If there is a firewall on either system or a network firewall between the two systems, check that it allows connections to the TCP port required by the type of connection that you will be using:"
 msgstr ""
-"Si hay un cortafuegos en cualquier sistema o un cortafuegos entre los dos "
-"sistemas, compruebe que le permite la conexión al puerto TCP requerido por "
-"el tipo de conexión que usted esté usando:"
+"Si hay un cortafuegos en cualquier sistema o un cortafuegos de red entre los "
+"dos sistemas, compruebe que permite la conexión al puerto TCP requerido por "
+"el tipo de conexión que usted estará usando:"
 
 # beba1c541c884de3b1f341b201dec518
 # e4b7df1444c744e683a55573f2935619
@@ -64048,7 +64060,7 @@ msgstr ""
 #: ../../using.rst:375
 #: ../../using.rst:373
 msgid "**RDP:** uses port 3389"
-msgstr "**RDP:** use el puerto 3389"
+msgstr "**RDP:** usa el puerto 3389"
 
 # 87f3b9369f22445caecfd27ad9ee8e0f
 # 540e45323b5b4f90b5f7cb039b785f5a
@@ -64431,8 +64443,8 @@ msgstr "**RDP:** use el puerto 3389"
 #: ../../using.rst:375
 msgid "**VNC:** uses port 5900 (for the first connection, 5901 for the second connection, etc.)"
 msgstr ""
-"**VNC:** use el puerto 5900 (para la primera conexión, 5901 para la segunda "
-"conexión, etcétera.)"
+"**VNC:** usa el puerto 5900 (para la primera conexión, 5901 para la segunda "
+"conexión, etc.)"
 
 # 0ae3cd8553034ac391b7fcc8fd59243e
 # a74a9760c0a346cc832f1ae1128abf5e
@@ -64815,13 +64827,13 @@ msgstr ""
 #: ../../using.rst:377
 msgid "If you need to manually add a firewall rule, it is best to only allow the IP address of the computer that will be connecting. You should immediately remove or disable this firewall rule after the connection is finished so that other computers do not try to connect to the computer. Since your PC-BSD® system is considered to be the client and will be initiating the connection, you do not have to modify the firewall on the PC-BSD® system."
 msgstr ""
-"Si necesita añadir manualmente una regla de cortafuegos es mejor que permita "
-"sólo la dirección IP del ordenador que se estará conectando. Debería "
-"eliminar inmediatamente o deshabilitar esta regla del cortafuegos cuando la "
-"conexión haya terminado, de manera que otro ordenador no intente conectarse "
-"al ordenador. Ya que su sistema PC-BSD® se considera como un cliente e "
-"iniciará la conexión, no tiene por qué modificar el cortafuegos en el "
-"sistema PC-BSD®."
+"Si necesita añadir manualmente una regla al cortafuegos, es mejor permitir "
+"solo la dirección IP del equipo que se estará conectando. Debería eliminar "
+"inmediatamente o deshabilitar esta regla del cortafuegos cuando la conexión "
+"haya terminado, para que otros equipos no intenten conectarse a la "
+"computadora. Ya que su sistema PC-BSD® se considera como un cliente e "
+"iniciará la conexión, no tiene qué modificar el cortafuegos en el sistema PC-"
+"BSD®."
 
 # d917e56b9acd4535adb01aa8aa1354ae
 # c2e99d0f2c064f02a223ac9ab7d13502
@@ -65587,9 +65599,9 @@ msgstr "Conectándose con KRDC"
 msgid "KRDC can be used to initiate a connection request. This application can be installed using :ref:`AppCafe®` Check the \"Search all available PBI and packages\" box within the \"App Search\" tab to install this package."
 msgstr ""
 "KRDC se puede usar para iniciar una petición de conexión. Esta aplicación se "
-"puede instalar empleando :ref:`AppCafe®`. Compruebe el recuadro \"Buscar "
-"todos los PBI y paquetes disponibles\" en la pestaña \"Buscar Aplicaciones\" "
-"para instalar este paquete."
+"puede instalar usando :ref:`AppCafe®`. Seleccione el recuadro \"Buscar todos "
+"los PBI y paquetes disponibles\" en la pestaña \"Buscar Aplicaciones\" para "
+"instalar este paquete."
 
 # 267efac5ffdf4c09a1ba735d419a9fac
 # 1c1b6a83af0f4116b598cac99052b394
@@ -65972,20 +65984,32 @@ msgstr ""
 #: ../../using.rst:390
 msgid "To launch this application, go to :menuselection:`Applications --> Internet --> Remote Desktop Client` within KDE or type :command:`krdc` at the command line within any desktop. If you click :kbd:`F1` while in KRDC you can access the `Remote Connection Desktop Handbook <https://docs.kde.org/stable4/en/kdenetwork/krdc/index.html>`_ to learn more about how to use this application."
 msgstr ""
-"Para iniciar esta aplicación vaya a :menuselection:`Aplicaciones --> "
+"Para iniciar esta aplicación, vaya a :menuselection:`Aplicaciones --> "
 "Internet --> Cliente de Escritorio Remoto` en KDE o escriba :command:`krdc` "
 "en la línea de comandos en cualquier escritorio. Si presiona :kbd:`F1` "
-"mientras está en KRDC puede acceder al `Manual de Conexión a Escritorio "
+"mientras está en KRDC puede accesar al `Manual de Conexión a Escritorio "
 "Remoto <https://docs.kde.org/stable4/en/kdenetwork/krdc/index.html>`_ para "
 "saber más acerca de cómo usar esta aplicación."
 
 #: ../../using.rst:396
 msgid ":numref:`Figure %s: Creating a Connection Using KRDC <krdc1>` shows the initial KRDC screen which allows you to specify which system you wish to connect to."
 msgstr ""
+"La :numref:`Figura %s: Creando una Conexión Usando KRDC <krdc1>` muestra la "
+"pantalla inicial de KRDC que le permite especificar a qué sistema se quiere "
+"conectar."
 
 #: ../../using.rst:402
 msgid "Use the drop-down menu to indicate whether the remote system is using RDP or VNC for the connection. Then type in the IP address of the system you wish to connect to. If you are connecting to a VNC system, the IP address needs to be followed by a colon and a number indicating the number of the session. Typically, the number will be 1 unless the VNC server is hosting multiple simultaneous connections. Once you press enter, the connection will be initiated and, if it is an RDP connection, you will see the screen shown in :numref:`Figure %s: Settings for the RDP Connection <krdc2>`."
 msgstr ""
+"Use el menú desplegable para indicar si el sistema remoto está usando RDP o "
+"VNC para la conexión. Luego ingrese la dirección IP del sistema al que se "
+"quiere conectar. Si se está conectando a un sistema VNC, la dirección IP "
+"necesita ir seguida por dos puntos y un número indicando el número de la "
+"sesión. Típicamente, el número será 1 a menos que el servidor VNC esté "
+"siendo el anfitrión de múltiples conexiones simultáneas. Una vez que "
+"presione intro, la conexión será iniciada y, si es una conexión RDP, verá la "
+"pantalla mostrada en la :numref:`Figura %s: Configuraciones para la Conexión "
+"RDP <krdc2>`."
 
 # 48b692e9d3b24531b65604481e788c52
 # dcd6951037a54737a96461b48b9f5fca
@@ -66367,7 +66391,7 @@ msgstr ""
 #: ../../using.rst:411
 #: ../../using.rst:409
 msgid "Here is a quick overview of the settings:"
-msgstr "Aquí hay un rápido resumen de las configuraciones:"
+msgstr "Aquí hay un breve resumen de las configuraciones:"
 
 # 90e7dedac4cc48938e60639e9dcd2556
 # eb836edf4c6e4283a77dde009dc1f2e3
@@ -66751,10 +66775,10 @@ msgstr "Aquí hay un rápido resumen de las configuraciones:"
 msgid "**Desktop resolution:** since the contents of the screen are sent over the network, select the lowest resolution that still allows you to see what is happening on the other system. If you have a very fast network connection, you can choose a higher resolution; if you find that the other system is very slow to refresh its screen, try choosing a lower resolution."
 msgstr ""
 "**Resolución del escritorio:** puesto que los contenidos de la pantalla se "
-"envían por la red seleccione la menor resolución que aun le permita ver lo "
-"que esta pasando en el otro sistema. Si tiene una conexión de red muy rápida "
+"envían por la red, seleccione la menor resolución que le permita ver lo que "
+"esta pasando en el otro sistema. Si tiene una conexión de red muy rápida, "
 "puede elegir una resolución mayor; si encuentra que el otro sistema es muy "
-"lento en el refresco de su pantalla pruebe a elegir una resolución menor."
+"lento para refrescar la pantalla, pruebe eligiendo una resolución menor."
 
 # 00bfc67d3d814861bc358f367b0631e5
 # 2d9638d799c440eb9236f7c6de4db341
@@ -67522,8 +67546,8 @@ msgstr ""
 #: ../../using.rst:417
 msgid "**Keyboard layout:** this drop-down menu allows you to select the desired keyboard layout."
 msgstr ""
-"**Esquema de teclado:** este menú desplegable le permite seleccionar el "
-"esquema de teclado que desee."
+"**Diseño del teclado:** este menú desplegable le permite seleccionar el "
+"diseño de teclado que desee."
 
 # 10c304cba3e2427a9d8032ae4afaa074
 # b33cd0c618034cf6a651f73b6823ce43
@@ -67906,8 +67930,8 @@ msgstr ""
 #: ../../using.rst:419
 msgid "**Sound:** this drop-down menu allows you to choose whether any sounds heard during the connection are produced on this system, the remote system, or to disable sound during the connection."
 msgstr ""
-"**Sonido:** este menú desplegable le permite elegir si cualquier sonido que "
-"se oiga durante la conexión será producido por este sistema, el sistema "
+"**Sonido:** este menú desplegable le permite elegir si cualquier sonido "
+"escuchado durante la conexión es producido por este sistema, el sistema "
 "remoto, o deshabilitar el sonido durante la conexión."
 
 # 3284e7998ca640f989b7d9d1235a592a
@@ -68292,8 +68316,8 @@ msgstr ""
 msgid "**Performance:** select the option that best matches the network speed to the remote host. Choices are \"Modem\", \"Broadband\", or \"LAN\"."
 msgstr ""
 "**Rendimiento:** seleccione la opción que mejor se ajuste a la velocidad de "
-"red del sistema remoto. Las elecciones son \"Moderno\", \"Banda ancha\" o \""
-"LAN\"."
+"red del sistema remoto. Las opciones son \"Modem\", \"Banda Ancha\" o \"LAN\""
+"."
 
 # 7d3a60b0fe9443be90faf6d3544b79e1
 # 506c50d0ef824fb999a44200f3ee839e
@@ -68676,8 +68700,8 @@ msgstr ""
 #: ../../using.rst:424
 msgid "**RemoteFX:** check this box if the remote system supports RemoteFX and hardware acceleration is desired."
 msgstr ""
-"**RemoteFX:** marque este recuadro si el sistema remoto soporta RemoteFX y "
-"se desea aceleración por hardware."
+"**RemoteFX:** seleccione esta casilla si el sistema remoto soporta RemoteFX "
+"y si desea aceleración por hardware."
 
 # d9495b6b2dd14dbbaa2324942e864b24
 # cb7ad8e56151463dae9b11f4689d76ff
@@ -69444,9 +69468,9 @@ msgstr ""
 #: ../../using.rst:428
 msgid "**Console login:** if you are connecting to a Unix-like system, you can check this box if you wish to have access to the other system's command line console."
 msgstr ""
-"**Acceso por consola:** si se está conectando a un sistema tipo Unix puede "
-"marcar este recuadro si desea acceder a la línea de comandos de la consola "
-"del otro sistema."
+"**Acceso por consola:** si se está conectando a un sistema tipo Unix, puede "
+"seleccionar esta casilla si desea tener acceso a la línea de comandos del "
+"otro sistema."
 
 # 66e23ce00f254ad8bc29dc59eadda306
 # ca1ca6d14a7d45e78315469c7640b73b
@@ -69829,8 +69853,8 @@ msgstr ""
 #: ../../using.rst:430
 msgid "**Extra options:** allows you to specify `rdesktop switches <http://linux.die.net/man/1/rdesktop>`_ that are not covered by the other options in this screen."
 msgstr ""
-"**Opciones extra:** le permite especificar `cambios de rdesktop "
-"<http://linux.die.net/man/1/rdesktop>`_ que no se mencionan en la otras "
+"**Opciones extra:** le permite especificar `modificadores de rdesktop "
+"<http://linux.die.net/man/1/rdesktop>`_ que no están cubiertas por las otras "
 "opciones en esta pantalla."
 
 # 56e9e38e0ffd45f3970c0d755fbf14f2
@@ -70214,12 +70238,12 @@ msgstr ""
 #: ../../using.rst:432
 msgid "**Show this dialog again for this host:** if you plan on using the same settings every time you connect to this computer, you can uncheck this box. If you need to change the settings at a later time, you can right-click the connection (which will appear in a list as a past connection) and choose \"Settings\" from the right-click menu."
 msgstr ""
-"**Mostrar este diálogo otra vez para este sistema:** si planea emplear los "
-"mismos ajustes cada vez que se conecte a este ordenador puede desmarcar este "
-"recuadro. Si necesita cambiar los ajustes más tarde puede hacer clic con el "
-"botón derecho en la conexión (que aparecerá en una lista como una conexión "
-"anterior) y elegir \"Configuración\" desde el menú que parece tras hacer "
-"clic con el botón derecho."
+"**Mostrar este diálogo otra vez para este sistema:** si planea usar las "
+"mismas configuraciones cada vez que se conecte a esta computadora, puede "
+"desmarcar esta casilla. Si necesita cambiar las configuraciones más tarde, "
+"puede presionar botón derecho en la conexión (que aparecerá en una lista "
+"como una conexión anterior) y elegir \"Configuración\" desde el menú del "
+"botón derecho."
 
 # 9789939584da40a8ad29e4174f2dbbd4
 # a359f27d1cae4845adb52cae05f8fdce
@@ -70593,12 +70617,12 @@ msgstr ""
 msgid "**Remember password:** `KWallet <https://utils.kde.org/projects/kwalletmanager/>`_ is KDE's password storage system. If this box stays checked, you will only need to input the password the first time you make this connection as it will be saved for you. If this is the first time you have stored a password using KWallet, it will prompt you for some information to set up your wallet."
 msgstr ""
 "**Recordar contraseña:** `KWallet "
-"<https://utils.kde.org/projects/kwalletmanager/>`_ es el sistema de almacén "
-"de contraseñas de KDE. Si este recuadro permanece marcado sólo necesitará "
-"introducir la contraseña la primera vez que establezca esta conexión, ya que "
-"la contraseña se guardará. Si esta es la primera vez que ha almacenado una "
-"contraseña mediante Kwallet se le pedirá cierta información para configurar "
-"su cartera de contraseñas."
+"<https://utils.kde.org/projects/kwalletmanager/>`_ es el sistema de "
+"almacenamiento de contraseñas de KDE. Si esta casilla permanece "
+"seleccionada, sólo necesitará introducir la contraseña la primera vez que "
+"establezca esta conexión ya que la contraseña se guardará. Si esta es la "
+"primera vez que ha almacenado una contraseña mediante Kwallet, se le pedirá "
+"cierta información para configurar su cartera de contraseñas."
 
 # 56b95d0fa3534ec1b7a10939052b568d
 # 67ee11c217134d71a97032f9bc458b86
@@ -70981,7 +71005,7 @@ msgstr ""
 #: ../../using.rst:440
 msgid "If it is a VNC connection, you will be able to choose your connection type (speed), screen resolution, and have the option to remember the password."
 msgstr ""
-"Si es una conexión VNC podrá elegir su tipo de conexión (velocidad), "
+"Si es una conexión VNC, podrá elegir su tipo de conexión (velocidad), "
 "resolución de pantalla, y tendrá la opción de recordar la contraseña."
 
 # 37b4f89b0ad74a349acb45d5cab8f2f4
@@ -71366,14 +71390,14 @@ msgstr ""
 msgid "Once you press \"OK\", the connection should be initiated and you will receive pop-up messages asking for a username then a password; the details you provide must match a user account on the system you are connecting to. Once your authentication details are confirmed, you should see the desktop of the other system. If you move your mouse, it will move on the other desktop as well. Click the \"View Only\" button in the top toolbar whenever you wish to disable this mouse behavior. When you are finished your session, you can click the \"Disconnect\" button in the top toolbar."
 msgstr ""
 "Una vez que presione \"OK\" la conexión debería iniciarse y usted recibirá "
-"un mensaje emergente preguntándole un nombre de usuario y una contraseña; "
-"los detalles que proporcione deben coincidir con una cuenta de usuario del "
-"sistema al que se está conectando. Una vez que se han confirmado los "
-"detalles de autenticación debería ver el escritorio del otro sistema. Si "
-"mueve su ratón se moverá también en el otro sistema. Haga clic en el botón \""
-"Sólo Ver\" en la barra superior siempre que desee deshabilitar este "
-"comportamiento del ratón. Cuando termine su sesión puede hacer clic en el "
-"botón \"Desconectar\" en la barra superior."
+"un mensaje emergente preguntándole un nombre de usuario y luego una "
+"contraseña; los detalles que proporcione deben coincidir con una cuenta de "
+"usuario del sistema al que se está conectando. Una vez que se han confirmado "
+"los detalles de autenticación, debería ver el escritorio del otro sistema. "
+"Si mueve el ratón, se moverá también en el otro sistema. Presione el botón \""
+"Sólo Ver\" en la barra de herramientas superior siempre que desee "
+"deshabilitar este comportamiento del ratón. Cuando termine su sesión, puede "
+"presionar el botón \"Desconectar\" en la barra de herramientas superior."
 
 # c6cf5de6a2e74f4a87165b033e2dc281
 # fbdcabbebaf94584b621efb3313a5d0c
@@ -71756,9 +71780,9 @@ msgstr ""
 #: ../../using.rst:447
 msgid "if the connection fails, check on the remote computer that either the RDP software is enabled or that the VNC server is listening for connections. Also double-check that a firewall is not preventing the connection."
 msgstr ""
-"si la conexión falla compruebe en el ordenador remoto que el software RDP "
-"está habilitado o que el servidor VNC está escuchando todas las conexiones. "
-"También compruebe dos veces que un cortafuegos no esté evitando la conexión."
+"Si la conexión falla, compruebe en el equipo remoto que el software RDP está "
+"habilitado o que el servidor VNC está escuchando por conexiones. También "
+"compruebe que un cortafuegos no esté evitando la conexión."
 
 # 1f3b583ae4b3454fa3ebac581bc99dd1
 # 25937cea353c406b88220f4c30127138
@@ -72523,9 +72547,9 @@ msgstr "Conectándose con VNC"
 #: ../../using.rst:456
 msgid "If you prefer to use VNC for the connection, use :ref:`AppCafe®` to install a VNC client such as TightVNC. Before using the VNC client, ensure that the VNC server is installed and running on the remote desktop."
 msgstr ""
-"Si prefiere usar VNC para la conexión emplee :ref:`AppCafe®` para instalar "
-"un cliente VNC, como TightVNC. Antes de utilizar el cliente VNC asegúrese de "
-"que el servidor VNC está instalado y ejecutándose en el escritorio remoto."
+"Si prefiere usar VNC para la conexión, use :ref:`AppCafe®` para instalar un "
+"cliente VNC, como TightVNC. Antes de usar el cliente VNC, asegúrese que el "
+"servidor VNC está instalado y corriendo en el escritorio remoto."
 
 # c7a76f8e382040e98b3080652c336020
 # edab770eb3b54846a6e05083e0a663e6
