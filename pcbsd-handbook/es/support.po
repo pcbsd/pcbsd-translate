@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-19 04:13-0800\n"
-"PO-Revision-Date: 2015-11-12 18:39+0000\n"
+"POT-Creation-Date: 2016-01-19 08:12-0800\n"
+"PO-Revision-Date: 2016-01-19 20:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453233990.000000\n"
 
 # f74eec3bf1fa41fc939118735392dabf
 # 6f4c99d509c24516a0327f37d9adb45d
@@ -8289,6 +8293,9 @@ msgstr ""
 #: ../../support.rst:76
 msgid "To see the status of a localization, open up the `translation website <http://translate.pcbsd.org/>`_ in a web browser, as seen in :numref:`Figure %s: The PC-BSD® Pootle Translation System <translate1>`."
 msgstr ""
+"Para ver el estado de una localización, abra el `sitio de traducciones "
+"<http://translate.pcbsd.org/>`_ en un navegador web, como se muestra en la "
+":numref:`Figura %s: El Sistema de Traducción Pootle de PC-BSD® <translate1>`."
 
 # ed4253650c5e4340a78f7cb0d29e9aee
 # a0df2066ed5540b7899e3d2c6b6235b7
@@ -9066,14 +9073,36 @@ msgstr ""
 #: ../../support.rst:89
 msgid "If you click on a language name then click on the \"PC-BSD\" hyperlink under the \"Name\" column, you will see each menu item that is available for translation. The example shown in :numref:`Figure %s: Viewing a Language's Available Menus <translate2>` is for the Greek localization. In this example, the menu for \"ethernetconfig\" is complete, but the one for \"LifePreserver\" is not."
 msgstr ""
+"Si presiona en el nombre de un idioma y luego presione en el link de \"PC-"
+"BSD\" bajo la columna \"Nombre\", usted verá cada elemento del menú que está "
+"disponible para su traducción. El ejemplo mostrado en la :numref:`Figura %s: "
+"Viendo los Menús Disponibles para un Idioma <translate2>` es para el idioma "
+"Griego. En este ejemplo, el menú para \"ethernetconfig\" está completo, pero "
+"el de \"LifePreserver\" no."
 
 #: ../../support.rst:97
 msgid "In order to edit a translation, you need to first create a Pootle login account. Once you are logged in to Pootle, navigate to the menu item that you wish to translate. In :numref:`Figure %s: Using the Pootle Interface to Edit a Translation String <translate3>`, the translator has clicked on \"LifePreserver.ts\" then clicked the \"Translate\" tab."
 msgstr ""
+"Para editar una traducción, necesita primero crear una cuenta de acceso a "
+"Pootle. Una vez que ingrese a Pootle, muévase al elemento del menú que "
+"quiera traducir. En la :numref:`Figura %s: Usando la Interfaz de Pootle para "
+"Editar una Cadena de Traducción <translate3>`, el traductor ha presionado en "
+"\"LifePreserver.ts\" y luego en la pestaña \"Traducir\"."
 
 #: ../../support.rst:104
 msgid "In this example, the first string, the phrase \"Classic Home-Dir Backup\" has not yet been translated. To add the translation, type the translated text into the white text field and click the \"Submit\" button. To translate another text field, click on the hyperlink associated with its name, or use the \"Next\" and \"Previous\" links to navigate between text fields. Sometimes, a text field exists in another screen and already has a translation. :numref:`Figure %s: Selecting a Suggested Translation <translate4>` provides an example where the translator clicked the hyperlink for \"Filename\" which displays three previous translations. The translator then clicked the first suggestion and it was automatically added to the white text field."
 msgstr ""
+"En este ejemplo, la primera cadena, la frase \"Classic Home-Dir Backup\" no "
+"ha sido traducida. Para añadir la traducción, ingrese el texto traducido en "
+"el campo de texto blanco y presione el botón \"Aplicar\". Para traducir "
+"otros campos de texto, presione en el link asociado con su nombre, o use los "
+"links de \"Siguiente\" y \"Previo\" para navegar entre los campos de texto. "
+"Algunas veces, existe un campo de texto en otra pantalla y ya tiene una "
+"traducción. La :numref:`Figura %s: Seleccionando una Traducción Sugerida "
+"<translate4>` proporciona un ejemplo donde el traductor presionó el link "
+"para \"Filename\" el cual despliega tres traducciones previas. El traductor "
+"entonces presiona en la primera sugerencia y se añade automáticamente el "
+"campo de texto blanco."
 
 # 292a01a4f9304c76b846a14a423be5ab
 # 926cb6504caa4793a02353f0385e7417
@@ -10539,6 +10568,12 @@ msgstr ""
 #: ../../support.rst:134
 msgid "The documentation source files have been integrated into the Pootle translation system so that the PC-BSD® documentation can be translated using a web browser. The process is similar to :ref:`Interface Translation` except that you must first select \"PC-BSD Handbook\" from the \"Projects\" drop-down menu shown in :numref:`Figure %s: Selecting the Handbook Project <translate5>`."
 msgstr ""
+"Los archivos fuente de la documentación han sido integrados en el sistema de "
+"traducción Pootle para que la documentación de PC-BSD® pueda ser traducida "
+"usando un navegador web. El proceso es similar a la :ref:`Interfaz de "
+"Traducción` excepto en que debe seleccionar primero \"PC-BSD Handbook\" del "
+"menú desplegable \"Proyectos\" mostrado en la :numref:`Figura %s: "
+"Seleccionando el Proyecto del Manual <translate5>`."
 
 # b858daa5c04d4a45b28a2828a8e4d532
 # 987bd5ec419c4671806153108894e592
@@ -11314,6 +11349,17 @@ msgstr "Cuando esté traduciendo la documentación se consciente de lo siguiente
 #: ../../support.rst:147
 msgid "At this time, some formatting tags are still displayed in raw text, as seen in the examples in :numref:`Figure %s: Do Not Remove Formatting Characters <translate6>` and :numref:`Figure %s: Another Formatting Characters Example <translate7>`. **It is IMPORTANT that you do not accidentally remove the formatting as this can break the documentation build for that language.** In the first example, it is OK to translate the phrase \"Using the Text Installer\" but care must be taken to not accidental remove any of the surrounding colons and backticks, or to change the text of the \"ref\" tag. In the second example, the asterisks are used to bold the word \"install\". It is OK to translate \"install\", but do not remove the asterisks."
 msgstr ""
+"En este momento, algunas etiquetas de formato son desplegadas en texto "
+"llano, como se muestra en los ejemplos en la :numref:`Figura %s: No Elimine "
+"los Caracteres de Formato <translate6>` y en la :numref:`Figura %s: Otro "
+"Ejemplo de Caracteres de Formato <translate7>`. **Es IMPORTANTE que no "
+"elimine accidentalmente el formato ya que se puede estropear la compilación "
+"de la documentación para ese idioma.** En el primer ejemplo, está bien "
+"traducir la frase \"Using the Text Installer\" pero se debe tener cuidado de "
+"no eliminar accidentalmente cualquiera de las dos puntos o comillas, o "
+"cambiar el texto de la etiqueta \"ref\". En el segundo ejemplo, los "
+"asteriscos son usados para poner en negritas la palabra \"install\". Está "
+"bien traducir \"install\", pero no elimine los asteriscos."
 
 # 235e5600567f4087bd210546a2d2c0bb
 # 0410095da6e54718b520aea8525a888b

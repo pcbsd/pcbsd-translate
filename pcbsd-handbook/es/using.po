@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-19 04:13-0800\n"
-"PO-Revision-Date: 2016-01-19 16:01+0000\n"
+"POT-Creation-Date: 2016-01-19 08:12-0800\n"
+"PO-Revision-Date: 2016-01-19 18:25+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453219307.000000\n"
+"X-POOTLE-MTIME: 1453227916.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -88773,12 +88773,12 @@ msgstr "Servidor de Arranque de Instalación PXE"
 #: ../../using.rst:660
 msgid "A PC-BSD® PXE Boot Install Server can be used to install PC-BSD®, FreeBSD, or TrueOS® onto computers who connect to the server using PXE. The installations can be interactive or fully automated. The PXE Boot Install Server supports multiple, concurrent installations with the only limiting factor being the server's disk I/O and the network's bandwidth."
 msgstr ""
-"Un Servidor de Instalación de Arranque PXE de PC-BSD® se puede utilizar para "
-"instalar PC-BSD®, FreeBSD, o TrueOS® en otros ordenadores que se conecten al "
-"servidor usando PXE. Las instalaciones pueden ser interactivas o "
-"completamente automatizadas. El Servidor de Instalación de Arranque soporta "
-"múltiples instalaciones simultáneas siendo el único factor limitante el "
-"servidor de discos I/O y el ancho de banda de la red."
+"Un Servidor de Instalación de Arranque PXE de PC-BSD® se puede usar para "
+"instalar PC-BSD®, FreeBSD, o TrueOS® en equipos que se conecten al servidor "
+"usando PXE. Las instalaciones pueden ser interactivas o completamente "
+"automatizadas. El Servidor de Instalación de Arranque PXE soporta múltiples, "
+"y concurrentes instalaciones siendo el único factor limitante las I/O de "
+"disco del servidor y el ancho de banda de la red."
 
 # fd880a8f99c244b7871bba2fbb7c4a4d
 # fcb02f4572e640d7b18147c7c57f4806
@@ -89546,8 +89546,8 @@ msgstr ""
 #: ../../using.rst:675
 msgid "Once the environment is downloaded and configured, you will be asked if you would like to install the web interface::"
 msgstr ""
-"Una vez que se han descargado y configurado los entornos, se le preguntará "
-"si desea instalar la interfaz web::"
+"Una vez que el entorno se ha descargado y configurado, se le preguntará si "
+"desea instalar la interfaz web::"
 
 # eeacbab30a61495c91b694894c775caf
 # 9977c7a1e8ad466597e4dd421697b968
@@ -89936,6 +89936,11 @@ msgstr ""
 #: ../../using.rst:701
 msgid "Once the PXE Boot Install Server is installed, try to PXE boot a client which is connected to the same network. If the client boots successfully, you will see the installation screen shown in :numref:`Figure %s: PXE Boot Installation Menu <pxe1>`."
 msgstr ""
+"Una vez que el Servidor de Instalación de Arranque PXE está instalado, "
+"intente arrancar mediante PXE un cliente que esté conectado a la misma red. "
+"Si el cliente inicia satisfactoriamente, verá la pantalla de instalación "
+"mostrada en la :numref:`Figura %s: Menú de Instalación de Arranque PXE "
+"<pxe1>`."
 
 # 047c807b691e497283ecca53bbb1e9e3
 # 17f5c279842d4eaa808470c081f1d87b
@@ -90318,12 +90323,12 @@ msgstr ""
 #: ../../using.rst:706
 msgid "By default, selecting \"install\" from the boot menu will use the :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example` script which installs a basic FreeBSD system. In addition to starting an installation, this menu provides an emergency shell prompt. This can be useful if you have a system which can no longer boot and you wish to either access the disk's contents or attempt to repair the installation."
 msgstr ""
-"Por defecto, la selección \"instalar\" en el menú de arranque usará el "
-"script :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example`, el "
-"cual instalará un sistema FreeBSD. Además de comenzar una instalación este "
-"menú proporciona un consola de emergencia. Ésta puede ser útil si tiene un "
-"sistema que ya no puede arrancar y usted desea bien acceder a los contenidos "
-"del disco o bien intentar reparar la instalación."
+"Por defecto, seleccionando \"instalar\" en el menú de arranque usará el "
+"script :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example` el "
+"cual instalará un sistema FreeBSD básico. Además de comenzar una "
+"instalación, este menú proporciona un consola de emergencia. Esta puede ser "
+"útil si tiene un sistema que ya no puede arrancar y usted desea bien sea "
+"acceder a los contenidos del disco o intentar reparar la instalación."
 
 # 6510b12541424661a5a432c1850d95e0
 # da972084e1cc4754aae5cf4d87c47e01
@@ -90708,14 +90713,12 @@ msgid "Any scripts that you create and place in the :file:`/usr/home/thinclient/
 msgstr ""
 "Cualquier script que cree y coloque en el directorio "
 ":file:`/usr/home/thinclient/installscripts/` será elegible como una opción "
-"de instalación en el menú del cliente de arranque PXE. Las tablas 5.5a y "
-"5.5b  resumen las opciones de configuración disponibles cuando se crea un "
-"script de instalación. Alternativamente, cada vez que instale PC-BSD, el "
-"script de instalación se guarda automáticamente en :file:`/root/pc-"
-"sysinstall.cfg`. Esto significa que si desea repetir una instalación sólo "
-"necesita copiar ese archivo en el directorio "
-":file:`/usr/home/thinclient/installscripts/` en el Servidor de Instalación "
-"de Arranque PXE."
+"de instalación en el menú del cliente de arranque PXE. Alternativamente, "
+"cada vez que instale PC-BSD, el script de instalación se guarda "
+"automáticamente en :file:`/root/pc-sysinstall.cfg`. Esto significa que si "
+"desea repetir una instalación, sólo necesita copiar ese archivo en el "
+"directorio :file:`/usr/home/thinclient/installscripts/` en el Servidor de "
+"Instalación de Arranque PXE."
 
 # 37c1ac5911314d31a09af46174c3f195
 # 3178d750136f4cab87eac3284a964c8a
@@ -91100,9 +91103,9 @@ msgid "The PXE Boot Install Server also supports completely unattended installat
 msgstr ""
 "El Servidor de Instalación de Arranque PXE también soporta completamente "
 "instalaciones sin supervisión. Para realizar instalaciones totalmente "
-"automatizadas a través de una interfaz PXE cree un script de configuración "
+"automatizadas a través de una interfaz PXE, cree un script de configuración "
 "llamado :file:`/usr/home/thinclient/installscripts/unattended.cfg`. Cuando "
-"el cliente PXE se inicie comprueba primero si existe un archivo "
+"el cliente PXE se inicie, comprueba primero si existe un archivo "
 ":file:`unattended.cfg` y, si lo encuentra, lo usará automáticamente para la "
 "instalación. Deben tenerse algunas precauciones cuando emplee este método ya "
 "que sólo conectar un cliente de arranque PXE en un cable LAN incorrecto "
@@ -91872,7 +91875,7 @@ msgstr "Seguridad"
 msgid "Your PC-BSD® system is secure by default. This section provides an overview of the built-in security features and additional resources should you like to learn more about increasing the security of your system beyond its current level."
 msgstr ""
 "Su sistema PC-BSD® es seguro por defecto. Esta sección proporciona un "
-"resumen de las características de seguridad incorporadas y recursos "
+"resumen de las características de seguridad integradas y recursos "
 "adicionales si quiere saber más acerca de aumentar la seguridad de su "
 "sistema más allá del nivel actual."
 
@@ -92641,10 +92644,10 @@ msgid "**Naturally immune to viruses and other malware:** most viruses are writt
 msgstr ""
 "**Inmunidad natural a virus y otro software malicioso:** la mayoría de los "
 "virus están escritos para infectar sistemas Windows y no comprenden los "
-"binarios o rutas que hay en un sistema PC-BSD®. Aun hay software antivirus "
-"en la sección de Seguridad de :ref:`AppCafe®` ya que puede ser útil para "
-"enviar o reenviar adjuntos en correos a usuarios que ejecutan otros sistemas "
-"operativos."
+"binarios o rutas que hay en un sistema PC-BSD®. Software  antivirus sigue "
+"disponible en la sección de Seguridad de :ref:`AppCafe®` lo que puede ser "
+"útil si usted envía o reenvía adjuntos de correos a usuarios que ejecutan "
+"otros sistemas operativos."
 
 # fa83424e68dc4e969c78bee5841384a1
 # 2b27168601b742f5a32c0b2ab21d4d1a
@@ -93027,10 +93030,10 @@ msgstr ""
 #: ../../using.rst:735
 msgid "**Potential for serious damage is limited:** file and directory ownership and permissions along with separate user and group functions mean that as an ordinary user any program executed will only be granted the abilities and access of that user. A user that is not a member of the *wheel* group can not switch to administrative access and can not enter or list the contents of a directory that has not been set for universal access."
 msgstr ""
-"**El potencial de daños serios es limitado: ** la propiedad y permisos de "
-"archivos y directorios, junto con funciones separadas de usuarios y grupos, "
-"implican que cualquier programa ejecutado por un usuario ordinario sólo se "
-"le serán permitidas las capacidades y accesos que tenga dicho usuario. Un "
+"**El potencial de daños serios es limitado:** la propiedad y permisos de "
+"archivos y directorios junto con funciones separadas de usuarios y grupos "
+"implicando que como un usuario ordinario, cualquier programa ejecutado solo "
+"se le otorgarán las capacidades y accesos que tenga dicho usuario. Un "
 "usuario que no es miembro del grupo *wheel* no podrá cambiar a un acceso en "
 "modo administrativo y no podrá entrar o listar el contenido de un directorio "
 "que no se haya configurado para tener un acceso universal."
@@ -93412,15 +93415,15 @@ msgstr ""
 #: ../../using.rst:739
 msgid "**Built-in firewall:** the default firewall ruleset allows you to access the Internet and the shares available on your network but does not allow any inbound connections to your computer. In addition, `Fail2ban <http://www.fail2ban.org/wiki/index.php/Main_Page>`_ is installed. This service can be configured to identify possible break-in attempts and to respond with an action such as creating a firewall rule to ban the intruder. Instructions for configuring fail2ban can be found on the `fail2ban wiki <http://www.fail2ban.org/wiki/index.php/MANUAL_0_8#Usage>`_."
 msgstr ""
-"**Cortafuegos incorporado:** el conjunto de reglas predeterminadas del "
-"cortafuegos le permiten acceder a Internet y a las comparticiones "
+"**Cortafuegos integrado:** el conjunto de reglas predeterminadas del "
+"cortafuegos le permiten acceder a Internet y a los recursos compartidos "
 "disponibles en su red pero no permiten ninguna conexión entrante a su "
-"ordenador. Además, está instalado `Fail2ban "
+"equipo. Además, está instalado `Fail2ban "
 "<http://www.fail2ban.org/wiki/index.php/Main_Page>`_ . Este servicio se "
 "puede configurar para identificar posibles intentos de intrusión y responder "
 "con una acción tal como la creación de una regla para prohibir al intruso. "
-"Las instrucciones para la configuración de fail2ban se pueden encontrar en `"
-"la wiki de fail2ban "
+"Las instrucciones para la configuración de fail2ban se pueden encontrar en "
+"el `wiki de fail2ban "
 "<http://www.fail2ban.org/wiki/index.php/MANUAL_0_8#Usage>`_."
 
 # 0871b408c9da43f9aa15136ac70c0015
@@ -93806,11 +93809,11 @@ msgstr ""
 msgid "**Very few services are enabled by default:** you can easily view which services are started at boot time using :ref:`Service Manager` or by reading through :file:`/etc/rc.conf`. You can disable the services that you do not use by disabling that service in :ref:`Service Manager` or by commenting out that line with a *#* in :file:`/etc/rc.conf`."
 msgstr ""
 "**Muy pocos servicios están habilitados por defecto:** usted puede ver "
-"fácilmente qué servicios se iniciaron durante el arranque mediante el :ref:`"
+"fácilmente qué servicios son iniciados durante el arranque usando el :ref:`"
 "Administrador de Servicios` o leyendo el archivo :file:`/etc/rc.conf`. Puede "
-"deshabilitar los servicios que no use parando ese servicio en el :ref:`"
-"Administrador de Servicios` o escribiendo una *#* al principio de esa línea "
-"en :file:`/etc/rc.conf`."
+"deshabilitar los servicios que no use deshabilitando ese servicio en el "
+":ref:`Administrador de Servicios` o comentando una línea con un *#* en "
+":file:`/etc/rc.conf`."
 
 # a8dcf49c19c849aa9625eeeff523baf1
 # 70c96c1a73eb43eebbf0f90e645db928
@@ -94195,8 +94198,8 @@ msgstr ""
 msgid "**SSH is disabled by default:** and can only be enabled by the superuser. This setting prevents bots and other users from trying to access your system. If you do need to use SSH, add the line *sshd_enable=YES* to :file:`/etc/rc.conf`. You can then start the service by typing :command:`service sshd start`. You will need to add a firewall rule using :ref:`Firewall Manager` to allow SSH connections over TCP port 22."
 msgstr ""
 "**SSH está deshabilitado por defecto.** y sólo puede ser habilitado por el "
-"administrador. Estos ajustes previenen que los bots y otros usuarios puedan "
-"conectarse a su sistema. Si realmente necesita usar SSH añada la línea "
+"administrador. Este ajuste previene que los bots y otros usuarios puedan "
+"conectarse a su sistema. Si realmente necesita usar SSH, añada la línea "
 "*sshd_enable=YES* a :file:`/etc/rc.conf`. Después puede iniciar el servicio "
 "escribiendo :command:`service sshd start`. Necesitará añadir una regla de "
 "cortafuegos mediante el :ref:`Administrador del Cortafuegos` para permitir "
@@ -94585,7 +94588,7 @@ msgstr ""
 msgid "**SSH root logins are disabled by default:** if you enable SSH, you must login as a regular user and use :command:`su` or :command:`sudo` when you need to perform administrative actions. You should not change this default as this prevents an unwanted user from having complete access to your system."
 msgstr ""
 "**Las conexiones SSH del administrador están deshabilitadas por defecto:** "
-"si usted habilita SSH debe conectarse como un usuario regular y emplear "
+"si usted habilita SSH, debe conectarse como un usuario regular y usar "
 ":command:`su` o :command:`sudo` cuando necesite realizar acciones "
 "administrativas. No debería cambiar este comportamiento por defecto ya que "
 "se evita que un usuario no deseado tenga acceso completo a su sistema."
@@ -94975,10 +94978,10 @@ msgstr ""
 "**sudo está instalado:** y configurado para dar a los usuarios del grupo "
 "*wheel* el permiso para ejecutar un comando administrativo tras escribir su "
 "contraseña. Por defecto, el primer usuario que cree durante la instalación "
-"se añada al grupo *wheel*. Puede utilizar el :ref:`Administrador de usuarios`"
+"se añade al grupo *wheel*. Puede utilizar el :ref:`Administrador de Usuarios`"
 " para añadir otros usuarios a este grupo. Como administrador puede cambiar "
 "la configuración predeterminada de :command:`sudo` empleando el comando "
-":command:`visudo`. "
+":command:`visudo`."
 
 # afbaf9e265e44f589d679bf8aee9b9dc
 # 52d0a772e93f42438e4c49f0a0b1e3cd
@@ -95358,7 +95361,7 @@ msgstr ""
 msgid "`AESNI <https://en.wikipedia.org/wiki/AES_instruction_set>`_ support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
 msgstr ""
 "El soporte `AESNI <https://en.wikipedia.org/wiki/AES_instruction_set>`_ está "
-"cargado por defecto para el procesador Intel Core i5/i7 que soporta este "
+"cargado por defecto para procesadores Intel Core i5/i7 que soportan este "
 "ajuste de encriptado. Este soporte acelera el encriptado y desencriptado AES."
 
 # d568c9cf86ce4b02be03cc2f75a777cb
@@ -95747,8 +95750,8 @@ msgstr ""
 "de Actualizaciones` le notificará automáticamente si hay disponible una "
 "actualización como resultado de un `aviso de seguridad "
 "<http://www.freebsd.org/security/advisories.html>`_ que afecte a PC-BSD®. "
-"Esto le permite mantener su sistema operativo con todos los parches con sólo "
-"un clic del ratón."
+"Esto le permite mantener su sistema operativo completamente parchado con "
+"solo un clic del ratón."
 
 # 6594376e4549406882298177673167a5
 # 82a46c6d0328406584f047037d7c69a5
@@ -96517,7 +96520,7 @@ msgstr ""
 #: ../../using.rst:769
 msgid ":ref:`PersonaCrypt` allows a user to use a removable, encrypted device as their home directory."
 msgstr ""
-":ref:`PersonaCrypt` permite a un usuario utilizar un dispositivo extraíble "
+":ref:`PersonaCrypt` permite a un usuario utilizar un dispositivo extraíble y "
 "encriptado como su directorio personal."
 
 # 57fc6a822d65427692c2ee0a3e651d6c
@@ -96902,10 +96905,10 @@ msgstr ""
 #: ../../using.rst:771
 msgid "Logging into a stealth session creates an encrypted zvol as a temporary home directory for that login session. When the user logs out of a stealth session, the zvol is destroyed, along with the contents of the temporary home directory."
 msgstr ""
-"La conexión en una sesión privada crea un zvol encriptado que hace de "
-"directorio personal temporal para esa sesión. Cuando el usuario se "
-"desconecta de la sesión privada, se destruye zvol, junto con el contenido "
-"del directorio personal temporal."
+"Accesando a una sesión sigilosa crea un zvol encriptado como directorio "
+"personal temporal para esa sesión. Cuando el usuario se desconecta de la "
+"sesión sigilosa, se destruye el zvol, junto con el contenido del directorio "
+"personal temporal."
 
 # f8ad4a64924f42f5b1bd8a9acbd26afa
 # 174630ee4ec24d23a9ff8cb3b398fade
@@ -97290,8 +97293,8 @@ msgstr ""
 msgid ":ref:`Tor Mode` can be used to anonymously access Internet sites as this mode automatically forwards all Internet traffic through the `Tor Project's <https://www.torproject.org/>`_ transparent proxy service."
 msgstr ""
 "El :ref:`Modo Tor` puede usarse para acceder de forma anónima a sitios de "
-"Internet, ya que este modo envía automáticamente todo el tráfico a través "
-"del servicio proxy transparente del `Proyecto Tor "
+"Internet, ya que este modo envía automáticamente todo el tráfico de Internet "
+"a través del servicio de proxy transparente del `Proyecto Tor "
 "<https://www.torproject.org/>`_."
 
 # 306f380f42e747bb877cec595c361509
@@ -99595,15 +99598,19 @@ msgstr "Modo Tor"
 msgid "Tor mode uses `Tor <https://www.torproject.org/>`_, `socat <http://www.dest-unreach.org/socat/>`_, and a built-in script which automatically creates the necessary firewall rules to enable and disable tor mode at the user's request. While in tor mode, the firewall will redirect all outgoing port 80 (HTTP), 443 (HTTPS), and DNS traffic through the Tor transparent proxy network."
 msgstr ""
 "El modo Tor emplea `Tor <https://www.torproject.org/>`_, `socat <http://www"
-".dest-unreach.org/socat/>`_, y un script incorporado que crea "
-"automáticamente las reglas de cortafuegos necesarias para habilitar y "
-"deshabilitar el modo Tor cuando lo solicite el usuario. Mientras que se está "
-"en modo Tor el cortafuegos redireccionará al puerto de salida 80 (HTTP), 443 "
-"(HTTPS), y el tráfico DNS a través del proxy de red transparente Tor."
+".dest-unreach.org/socat/>`_, y un script integrado que crea automáticamente "
+"las reglas de cortafuegos necesarias para habilitar y deshabilitar el modo "
+"Tor cuando lo solicite el usuario. Mientras está en modo Tor, el cortafuegos "
+"redireccionará toda salida al puerto 80 (HTTP), 443 (HTTPS), y el tráfico "
+"DNS a través de la red del proxy transparente Tor."
 
 #: ../../using.rst:797
 msgid "To start tor mode, right-click Update Manager and check the \"Routing through Tor\" box. The pop-up message shown in :numref:`Figure %s: Enabling Tor Mode <tor1>` will appear."
 msgstr ""
+"Para iniciar el modo tor, presione botón derecho en el Administrador de "
+"Actualizaciones y seleccione la casilla \"Direccionando a través de Tor\". "
+"El mensaje emergente mostrado en la :numref:`Figura %s: Habilitando el Modo "
+"Tor <tor1>` aparecerá."
 
 # a5a873dfc7174743ad24af66c7e5d1a5
 # 13fead37ad8646338eb72b53e76bb213
@@ -99987,10 +99994,10 @@ msgstr ""
 #: ../../using.rst:802
 msgid "If you have never used the Tor network before, it is recommended to read the link for the Tor FAQ. Click \"Yes\" to enable tor mode and enter your password when prompted so that the firewall rules can be updated for you."
 msgstr ""
-"Si nunca ha usado antes la red Tor es recomendable leer el enlace de las FAQ "
-"de Tor. Haga clic en \"Sí\" para habilitar el modo Tor e introduzca la "
-"contraseña cuando se le pida de modo que pueda actualizar las reglas del "
-"cortafuegos."
+"Si nunca antes ha usado la red Tor, es recomendable leer el enlace de las "
+"FAQ de Tor. Presione en \"Sí\" para habilitar el modo Tor e introducir la "
+"contraseña cuando se le pida para que las reglas del cortafuegos se puedan "
+"actualizar para usted."
 
 # f69953ca6c7a4f589b802ca7dea3a79c
 # 3b12516c598d43da8df6c9249cc55ad1
@@ -100369,13 +100376,13 @@ msgstr ""
 #: ../../using.rst:804
 msgid "While in tor mode, a small onion will be added to the Update Manager icon and, if you hover over the icon, it will say \"(Routing through Tor)\". You can also verify that you are connected to the Tor network by right-clicking Update Manager and clicking \"Check Tor connection\". It will take a moment or so, but a pop-up message should indicate that the connection to `<https://check.torproject.org/>`_ succeeded."
 msgstr ""
-"Mientras que esté en modo Tor se añadirá una pequeña cebolla al icono del "
-"Administrador de Actualizaciones y si pone el cursor sobre el icono "
+"Mientras esté en modo Tor, se añadirá una pequeña cebolla al icono del "
+"Administrador de Actualizaciones y, si pasa el ratón sobre el icono, "
 "aparecerá \"(Direccionando a través de Tor)\". Usted también puede verificar "
-"que está conectado a la red Tor haciendo clic con el botón derecho en el "
-"Administrador de Actualizaciones y haciendo clic en \"Comprobar la conexión "
-"Tor\". Tardará más o menos pero un mensaje emergente debería indicarle que "
-"la conexión a `<https://check.torproject.org/>`_ tuvo éxito."
+"que está conectado a la red de Tor haciendo clic derecho en el Administrador "
+"de Actualizaciones y presionando \"Comprobar la conexión Tor\". Tomará un "
+"momento, pero un mensaje emergente debería indicarle que la conexión a "
+"`<https://check.torproject.org/>`_ tuvo éxito."
 
 # 86ea0273c9934423a70b89c7223febb0
 # 5ce9718023a540fcb24b8a55d208b80d
@@ -100759,10 +100766,10 @@ msgstr ""
 #: ../../using.rst:809
 msgid "the system will remain in tor mode, even after a reboot, until you disable it. To disable tor mode, right-click Update Manager and uncheck the \"Routing through Tor\" box. Now when you \"Check Tor connection\", it should indicate that you are not using Tor."
 msgstr ""
-"el sistema permanecerá en modo Tor, incluso tras un reinicio, hasta que lo "
-"deshabilite. Para deshabilitar el modo Tor haga clic con el botón derecho en "
-"el Administrador de Actualizaciones y desmarque el recuadro \"Direccionando "
-"a través de Tor\". Ahora, cuando \"Compruebe la Conexión Tor\" debería "
+"El sistema permanecerá en modo Tor, incluso tras un reinicio, hasta que lo "
+"deshabilite. Para deshabilitar el modo Tor, haga clic derecho en el "
+"Administrador de Actualizaciones y desmarque la casilla \"Direccionando a "
+"través de Tor\". Ahora, cuando \"Compruebe la Conexión Tor\", debería "
 "indicar que no está usando Tor."
 
 # d45ef2bdf0cd423aa112d56165be6d42
@@ -101147,9 +101154,9 @@ msgstr ""
 #: ../../using.rst:812
 msgid "To enable and disable tor mode from the command line or on a desktop that does not provide a system tray, use the following commands:"
 msgstr ""
-"Para habilitar y deshabilitar el modo Tor desde la línea de comandos o desde "
-"un escritorio que no proporcione una bandeja del sistema, emplee los "
-"siguientes comando: "
+"Para habilitar y deshabilitar el modo Tor desde la línea de comando o desde "
+"un escritorio que no proporcione una bandeja del sistema, use los siguientes "
+"comandos:"
 
 # eb655bcde8ee4744afddbff9a3cddea7
 # b0dfeb02edf54b6da4d0ab31b4517fcc
@@ -102298,7 +102305,7 @@ msgstr ":command:`sudo disable-tor-mode` deshabilita el modo Tor."
 #: ../../using.rst:821
 #: ../../using.rst:822
 msgid "Accessibility"
-msgstr "Accesibilidad"
+msgstr "Accesabilidad"
 
 # 8c60c2cff0ce4a39a5cfb2b80a80484f
 # 0b4899cdf1314540a7b9caf2fbac198d
@@ -102683,9 +102690,9 @@ msgstr "Accesibilidad"
 msgid "The GNOME and KDE desktop environments provide accessibility features to assist users with vision and mobility impairments. In PC-BSD®, these desktops can be installed either during installation or afterwards using :ref:`AppCafe®`."
 msgstr ""
 "Los entornos de escritorio GNOME y KDE proporcionan características de "
-"accesibilidad para asistir a usuarios con discapacidades de visión y "
-"movilidad. Estos escritorio se pueden instalar bien durante la instalación "
-"de PC-BSD® o posteriormente empleando :ref:`AppCafe®`."
+"accesabilidad para asistir a usuarios con discapacidades de visión y "
+"movilidad. En PC-BSD®, estos escritorios se pueden instalar bien durante la "
+"instalación o posteriormente usando :ref:`AppCafe®`."
 
 # 69a4264f084e44ce868c0298f4d0af4c
 # dd73eb00650f436199bcf932f8776f6f
@@ -103070,7 +103077,7 @@ msgstr ""
 msgid "This section provides an overview of the features provided by each desktop and additional references to these features."
 msgstr ""
 "Esta sección proporciona un resumen de las características que aporta cada "
-"escritorio y referencias adicionales de ellas."
+"escritorio y referencias adicionales a ellas."
 
 # 3a1182a1a9954b8db62a325a315a4b89
 # 663ddefd931d4cafa95f887ac5d131c4
@@ -103458,6 +103465,10 @@ msgstr "Acceso Universal de GNOME"
 #: ../../using.rst:836
 msgid "GNOME3 provides a \"Universal Access\" utility for configuring the desktop for accessibility. To open this utility, open \"Activities\" and search for \"Universal Access\". This will open the screen shown in :numref:`Figure %s: Universal Access Screen <access1>`."
 msgstr ""
+"GNOME3 proporciona una utilería de \"Acceso Universal\" para configurar el "
+"escritorio para accesabilidad. Para abrir esta utilería, abra \"Actividades\""
+" y busque \"Acceso Universal\". Esto abrirá la pantalla mostrada en la "
+":numref:`Figura %s: Pantalla de Acceso Universal <access1>`."
 
 # 505e743ab1724bf0a22581dd99b5a940
 # 0b157607df5748b3af7194242bdfbc32
@@ -104226,14 +104237,19 @@ msgstr ""
 #: ../../using.rst:844
 msgid "Click \"Off\" in the \"Hearing\" section to open a pop-up screen used to enable visual alerts, either to the window title of the current window or the entire screen. The pop-up screen provides a \"Test flash\" button for testing the settings."
 msgstr ""
-"Haga clic en \"Apagar\" en la sección \"Audio\" para abrir una pantalla "
+"Presione \"Apagar\" en la sección \"Escuchar\" para abrir una pantalla "
 "emergente que se usa para habilitar las alertas visuales, bien en el título "
-"de la ventana actual o de la pantalla completa. La pantalla emergente "
-"proporciona un botón \"Test de prueba\" para comprobar los ajustes."
+"de la ventana actual o en la pantalla completa. La pantalla emergente "
+"proporciona un botón \"Flash de prueba\" para comprobar los ajustes."
 
 #: ../../using.rst:848
 msgid "If you click \"Off\" next to \"Typing Assist (AccessX)\" in the \"Typing\" section, it will open the screen shown in :numref:`Figure %s: Keyboard and Key Options <access2>`. \"Sticky Keys\", \"Slow Keys\", and \"Bounce Keys\" can be enabled in this screen to assist users with mobility impairments."
 msgstr ""
+"Si presiona \"Apagar\" junto a \"Asistencia al Teclear (AccessX)\" en la "
+"sección \"Tecleando\", abrirá la pantalla mostrada en la :numref:`Figura %s: "
+"Teclado y Opciones de Teclas <access2>`. \"Teclas Sticky\", \"Teclas Lentas\""
+", y \"Teclas de Rebote\" pueden ser habilitadas en esta pantalla para "
+"asistir a usuarios con impedimentos de movilidad."
 
 # 41f056bbe5534998873bdee26377b643
 # 3f42644ea7bc4e27a5a016995ae91477
@@ -104617,9 +104633,9 @@ msgstr ""
 #: ../../using.rst:854
 msgid "If you click the \"Off\" next to \"Click Assist\" in the \"Pointing and Clicking\" section, you can configure a simulated secondary click and a hover click."
 msgstr ""
-"Si hace en clic en \"Apagar\" a continuación de \"Asistencia de Pulsado de "
-"Ratón\" en la sección \"Señalando y Pulsando con el Ratón\", puede "
-"configurar un clic de ratón secundario y un clic por superposición simulados."
+"Si presiona \"Apagar\" junto a \"Asistencia al Pulsar\" en la sección \""
+"Señalando y Pulsando\", puede configurar un clic de ratón secundario y un "
+"clic por superposición simulados."
 
 # 904f1ff9d9f84f6ba779c42143995b5d
 # 3ca20d3d7dd84a11a3bc95d2b000b43e
@@ -105003,8 +105019,8 @@ msgstr ""
 #: ../../using.rst:856
 msgid "More information about the options provided by Universal Access can be found at the `GNOME Universal page <https://help.gnome.org/users/gnome-help/3.16/a11y.html.en>`_."
 msgstr ""
-"Se puede encontrar más información sobre las opciones proporcionadas por el "
-"Acceso Universal en la página Universal de GNOME "
+"Más información sobre las opciones proporcionadas por el Acceso Universal se "
+"pueden encontrar el la `página de GNOME Universal "
 "<https://help.gnome.org/users/gnome-help/3.16/a11y.html.en>`_."
 
 # a6fabef28ac64fa6b00ea17c3f41ced2
@@ -105772,8 +105788,8 @@ msgstr "Herramientas de Accesibilidad de KDE"
 #: ../../using.rst:864
 msgid "To install the KDE accessibility tools, use :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" in \"App Search\" and search for the \"kdeaccessibility\" package."
 msgstr ""
-"Para instalar las herramientas de accesibilidad de KDE utilice "
-":ref:`AppCafe®`. Marque \"Buscar todos los PBI y paquetes\" en \"Búsqueda de "
+"Para instalar las herramientas de accesibilidad de KDE, use :ref:`AppCafe®`. "
+"Seleccione \"Buscar todos los PBI y paquetes\" en \"Búsqueda de "
 "Aplicaciones\" y busque el paquete \"kdeaccessibility\"."
 
 # 24361bec9cec44eaaadb62eab92d86bb
@@ -106537,17 +106553,27 @@ msgstr "El componente de accesibilidad de KDE instala el software siguiente:"
 msgid "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: a screen magnifier. In KDE, this application is in :menuselection:`Applications --> Utilities --> Screen Magnifier` or you can type :command:`kmag` from the command line. Drag the magnifier window over the text you wish to magnify or click its \"Settings\" button to view the shortcuts for its various modes. Click :kbd:`F1` while the application is open to access the Kmagnifier Handbook."
 msgstr ""
 "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: "
-"un ampliador de pantalla. En KDE, esta aplicación está en :menuselection:`"
-"Aplicaciones --> Herramientas --> Ampliador de Pantalla` o puede escribir "
-":command:`kmag` en la línea de comandos. Arrastre la ventana del ampliador "
-"sobre el texto que quiere aumentar o haga clic en su botón de \""
-"Configuración\" para ver los atajos a sus diferentes modos. teclee en "
-":kbd:`F1` mientras la aplicación está abierta para acceder al Manuel de "
-"Kmagnifier."
+"una lupa de pantalla. En KDE, esta aplicación está en :menuselection:`"
+"Aplicaciones --> Utilerías --> Lupa de Pantalla` o puede escribir "
+":command:`kmag` en la línea de comandos. Arrastre la ventana de la lupa "
+"sobre el texto que quiera magnificar o presione el botón de \""
+"Configuraciones\" para ver los accesos directos a sus diferentes modos. "
+"Presione :kbd:`F1` mientras la aplicación está abierta para accesar al "
+"Manual de Kmagnifier."
 
 #: ../../using.rst:874
 msgid "`KMouseTool <https://docs.kde.org/stable4/en/kdeaccessibility/kmousetool/>`_: clicks the mouse whenever the mouse cursor pauses briefly. It can also drag the mouse, although this takes a bit more practice. To start this utility in KDE, click :menuselection:`Applications --> Utilities --> Automatic Mouse Click` or type :command:`kmousetool` from the command line. In the screen shown in :numref:`Figure %s: Configuring KMouseTool <access3>`, check the settings you wish to use, click the \"Apply\" button, then click the \"Start\" button. If you quit this screen, it will be added to the system tray and will continue to run until you launch its icon and click the \"Stop\" button."
 msgstr ""
+"`KMouseTool <https://docs.kde.org/stable4/en/kdeaccessibility/kmousetool/>`_:"
+" presiona el ratón cada vez que el cursor se pausa brevemente. También puede "
+"arrastrar el ratón, aunque esto toma un poco más de práctica. Para iniciar "
+"esta utilería en KDE, presione :menuselection:`Aplicaciones --> Utilerías -->"
+" Clic Automático del Ratón` o ingrese :command:`kmousetool` desde la línea "
+"de comandos. En la pantalla mostrada en la :numref:`Figura %s: Configurando "
+"KMouseTool <access3>`, revise las configuraciones que quiera usar, presione "
+"el botón \"Aplicar\", y presione el botón \"Iniciar\". Si sale de esta "
+"pantalla, se añadirá a la bandeja del sistema y continuará corriendo hasta "
+"que lance su icono y presione el botón \"Parar\"."
 
 # 7ff4356278f345f9bdcbbe34f06aaacf
 # 1235bba75bb94737ba0abfb00e8e394f
@@ -106927,12 +106953,12 @@ msgstr ""
 msgid "`KMouth <https://docs.kde.org/stable4/en/kdeaccessibility/kmouth/index.html>`_: enables persons that cannot speak to speak through their computer. It keeps a history of spoken sentences from which the user can select to be re-spoken. To start this program, click :menuselection:`Applications --> Utilities --> Speech Synthesizer Frontend` or type :command:`kmouth` from the command line. The first time you run this application, a configuration wizard will prompt you to set the command to use for speaking texts (such as :file:`/usr/local/bin/espeak`) and the character encoding."
 msgstr ""
 "`KMouth "
-"<https://docs.kde.org/stable4/en/kdeaccessibility/kmouth/index.html>`_:  "
-"posibilita a personas que no pueden hablar que lo puedan hacer a través del "
-"ordenador. Guarda una historia de las frases dichas que el usuario puede "
-"seleccionar para decirlas de nuevo. Para iniciar este programa haga clic en "
-":menuselection:`Aplicaciones --> Herramientas --> Sintetizador de Voz` o "
-"escriba :command:`kmouth` en la línea de comandos. La primera vez que "
+"<https://docs.kde.org/stable4/en/kdeaccessibility/kmouth/index.html>`_: "
+"habilita a personas que no pueden hablar a que lo puedan hacer a través de "
+"su equipo. Guarda un historial de frases habladas de las cuales el usuario "
+"puede seleccionar para decirlas de nuevo. Para iniciar este programa, "
+"presione en :menuselection:`Aplicaciones --> Utilerías --> Sintetizador de "
+"Voz` o escriba :command:`kmouth` en la línea de comandos. La primera vez que "
 "ejecute esta aplicación, un asistente de configuración le pedirá que "
 "establezca el comando que se usará para los textos hablados (tal como "
 ":file:`/usr/local/bin/espeak`) y la codificación de los caracteres."
