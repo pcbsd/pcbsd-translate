@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-19 00:14-0800\n"
-"PO-Revision-Date: 2016-01-19 03:23+0000\n"
+"POT-Creation-Date: 2016-01-19 04:13-0800\n"
+"PO-Revision-Date: 2016-01-19 16:01+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453219307.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -72928,10 +72932,10 @@ msgstr ""
 #: ../../using.rst:459
 msgid "Once TightVNC is installed, type :command:`vncviewer` to start the VNC client. A small window will appear, allowing you to type in the IP address of the remote system in the format *IP_ADDRESS:5801*. Change the *5801* if the VNC server is listening on a different port."
 msgstr ""
-"Una vez que esté instalado TightVNC escriba :command:`vncviewer` para "
-"iniciar el cliente VNC. Una pequeña ventana aparecerá permitiéndole escribir "
-"la dirección IP del sistema remoto en el formato *IP_ADDRESS:5801*. Cambie "
-"el *5801* si el servidor VNC está escuchando en un puerto diferente."
+"Una vez que esté instalado TightVNC, escriba :command:`vncviewer` para "
+"iniciar el cliente VNC. Una pequeña ventana aparecerá, permitiéndole "
+"escribir la dirección IP del sistema remoto en el formato *IP_ADDRESS:5801*. "
+"Cambie el *5801* si el servidor VNC está escuchando en un puerto diferente."
 
 # d7b74b44d6c14747b9e52c12ed2d6593
 # 766af41d329245a0be38c22a4c135d2a
@@ -73313,7 +73317,7 @@ msgstr ""
 #: ../../using.rst:468
 #: ../../using.rst:466
 msgid "Using Desktop Sharing"
-msgstr "Utilizando la Compartición de Escritorio"
+msgstr "Compartir Escritorio"
 
 # 085687c155b944ad99ec8d15dffd0ebf
 # 9731518581da4439bdcfe3c3fe12775e
@@ -73696,15 +73700,23 @@ msgstr "Utilizando la Compartición de Escritorio"
 #: ../../using.rst:468
 msgid "If you wish another user to connect to your computer, the KDE Desktop Sharing application can be used to generate a connection invitation The :command:`krfb` application can be installed using :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box within \"App Search\" to search for this application."
 msgstr ""
-"Si desea que otro usuario se conecte a su ordenador se puede utilizar la "
-"aplicación de compartición de escritorio de KDE para generar una invitación "
-"de conexión. La aplicación :command:`krfb` se puede instalar mediante "
-":ref:`AppCafe®`. Marque el recuadro \"Buscar todos los PBI y paquetes "
+"Si desea que otro usuario se conecte a su equipo, se puede usar la "
+"aplicación de Compartir Escritorio de KDE para generar una invitación de "
+"conexión. La aplicación :command:`krfb` se puede instalar usando "
+":ref:`AppCafe®`. Seleccione el recuadro \"Buscar todos los PBI y paquetes "
 "disponibles\" en \"Buscar Aplicaciones\" para buscar la aplicación."
 
 #: ../../using.rst:473
 msgid "To launch this application within KDE, go to :menuselection:`Applications --> Internet --> Desktop Sharing` or type :command:`krfb` from the command prompt of any desktop. If you press :kbd:`F1` while in this application, it will open the `Desktop Sharing Handbook <https://docs.kde.org/stable4/en/kdenetwork/krfb/index.html>`_ where you can learn more about using this utility. :numref:`Figure %s: Initiating a Connection Request Using krfb <krfb1>` shows the initial screen for this application."
 msgstr ""
+"Para lanzar esta aplicación en KDE, vaya a :menuselection:`Aplicaciones --> "
+"Internet --> Compartir Escritorio` o ingrese :command:`krfb` desde el "
+"indicador de comandos de cualquier escritorio. Si presiona :kbd:`F1` dentro "
+"de esta aplicación, se abrirá el `Manual para Compartir el Escritorio "
+"<https://docs.kde.org/stable4/en/kdenetwork/krfb/index.html>`_ donde puede "
+"aprender más sobre el uso de esta utilería. La :numref:`Figura %s: Iniciando "
+"una Petición de Conexión Usando krfb <krfb1>` muestra la pantalla inicial "
+"para esta aplicación."
 
 # acfd4415696a41bfad9ee2cb58037baa
 # 6fa59d8b9eea4a7bb39b55d1bc1ebadc
@@ -74087,15 +74099,14 @@ msgstr ""
 #: ../../using.rst:480
 msgid "To share your desktop, check the box \"Enable Desktop Sharing\". This will activate the \"Connection Details\" portion of this screen. If you click the blue icon next to the \"Address\", a pop-up menu will indicate that this is just a hint and that the remote user should use the IP address for your computer. If you wish, you can click the icon next to the \"Password\". This will activate that field so that you can change the generated password to the one you want to use for the session. Be sure to reclick the icon to save the new password."
 msgstr ""
-"Para compartir su escritorio marque el recuadro \"Habilitar la Compartición "
-"de Escritorio\". Esto activará la porción de \"Detalles de la Conexión\" de "
-"esta pantalla. Si hace clic en el icono azul que hay tras la \"Dirección\" "
-"un menú emergente le indicará que esto es sólo una pista y que el usuario "
-"remoto deberá usar la dirección IP de su ordenador. Si lo desea puede hacer "
-"clic en el icono que hay tras la \"Contraseña\". Esto activará ese campo de "
-"manera que pueda cambiar la contraseña generada por aquella que quiere que "
-"se use para la sesión. Asegúrese de volver a hacer clic en el icono para "
-"guardar la nueva contraseña."
+"Para compartir su escritorio, seleccione la casilla \"Habilitar Compartir "
+"Escritorio\". Esto activará la porción de \"Detalles de la Conexión\" de "
+"esta pantalla. Si presiona el icono azul junto a la \"Dirección\", un menú "
+"emergente le indicará que esto es sólo una pista y que el usuario remoto "
+"debería usar la dirección IP de su equipo. Si lo desea, puede presionar el "
+"icono junto a la \"Contraseña\". Esto activará ese campo para que pueda "
+"cambiar la contraseña generada por aquella que quiera usar para la sesión. "
+"Asegúrese de volver a presionar el icono para guardar la nueva contraseña."
 
 # fdbbf0757ae4406eb2baa44a99485c7f
 # 01d60f534312428a8b8584adbabffd3b
@@ -74478,14 +74489,14 @@ msgstr ""
 #: ../../using.rst:485
 msgid "while you can check the \"Enable Unattended Access\" checkbox, it is **not recommended** to do so. If you give another user the unattended password (which is set by clicking the \"Change Unattended Password\"), they can connect to your system without your knowledge. The default, which occurs when the \"Enable Unattended Access\" is **un** checked, is for a pop-up message to appear on your screen whenever a remote user attempts to connect and for the desktop to remain inaccessible until you accept the remote connection."
 msgstr ""
-"aunque pueda marcar el recuadro \"Habilitar el Acceso sin Supervisión\", **"
-"no está recomendado** hacerlo. Si da a otro usuario la contraseña sin "
-"supervisión (lo cual se selecciona haciendo clic en \"Cambiar la Contraseña "
-"sin Supervisión\"), dicho usuario se podrá conectar a su sistema sin que "
-"usted se de cuenta. Por defecto, lo que ocurre cuando \"Habilitar el Acceso "
-"sin Supervisión\" está **des**marcado, es que aparezca un mensaje emergente "
-"en su pantalla siempre que un usuario remoto intente conectarse y el "
-"escritorio permanecerá inaccesible hasta que usted acepte la conexión remota."
+"Mientras que usted puede seleccionar la casilla \"Habilitar el Acceso sin "
+"Supervisión\", **no está recomendado** hacerlo. Si da a otro usuario la "
+"contraseña sin supervisión (la cual se establece presionando \"Cambiar la "
+"Contraseña sin Supervisión\"), pueden conectarse a su sistema sin que usted "
+"se de cuenta. Por defecto, lo que ocurre cuando \"Habilitar el Acceso sin "
+"Supervisión\" está **des**marcado, es que aparece un mensaje emergente en su "
+"pantalla siempre que un usuario remoto intenta conectarse y el escritorio "
+"permanecerá inaccesible hasta que usted acepte la conexión remota."
 
 # 4d14624da15f46998565b4081ae4bfd6
 # 4bc4630f2bd94b069609cf2be151aa9f
@@ -74868,18 +74879,23 @@ msgstr ""
 #: ../../using.rst:490
 msgid "Once you have checked the box to \"Enable Desktop Sharing\", contact the other person to let them know the password and IP address so that they can connect. The most secure way to convey the invitation information is through an alternate communications channel such as a phone call. Ideally, you are speaking to the other person as they connect so that you can walk them through the problem you are experiencing and they can let you know what they are doing to your system as you watch them do it."
 msgstr ""
-"Una vez que haya marcado el recuadro \"Habilitar la Compartición de "
-"Escritorio\" contacte con la otra persona para hacerle saber su contraseña y "
-"la dirección IP de manera que pueda conectarse. La forma más segura para "
-"transmitir la información de la invitación es a través de canales "
-"alternativos tales como una llamada de teléfono. Idealmente, estará hablando "
-"con la otra persona cuando se conecte de manera que él le pueda guiar por el "
-"problema que usted está experimentando y le pueda hacer saber lo que está "
-"haciendo con su sistema mientras usted lo ve hacerlo."
+"Una vez que haya seleccionado la casilla \"Habilitar Compartir Escritorio\", "
+"contacte a la otra persona para hacerle saber su contraseña y la dirección "
+"IP de manera que pueda conectarse. La forma más segura para transmitir la "
+"información de la invitación es a través de canales alternativos tales como "
+"una llamada de teléfono. Idealmente, estará hablando con la otra persona "
+"cuando se conecte de manera que le pueda guiar por el problema que usted "
+"está experimentando y le puedan hacer saber lo que están haciendo con su "
+"sistema mientras usted los ve hacerlo."
 
 #: ../../using.rst:497
 msgid "The other person should input the IP address and password into their VNC client in order to start the connection. You will know when they try to connect as a pop-up message will appear on your screen similar to :numref:`Figure %s: The Other User is Trying to Connect Using the Invitation <krfb2>`."
 msgstr ""
+"La otra persona debería ingresar la dirección IP y la contraseña en su "
+"cliente VNC para iniciar la conexión. Usted sabrá cuándo intentarán "
+"conectarse ya que un mensaje emergente aparecerá en su pantalla similar a la "
+":numref:`Figura %s: El Otro Usuario Trata de Conectarse Usando la Invitación "
+"<krfb2>`."
 
 # 23679c115adf434aa0ae4217cb9e936e
 # 2de0ed3fc0db407f9d601f7d6a1050e9
@@ -75262,12 +75278,12 @@ msgstr ""
 #: ../../using.rst:502
 msgid "In this example, a computer with an IP address of 192.168.1.111 is trying to connect. Buttons are provided to either accept or refuse the connection. You can also check or uncheck the box to \"allow remote user to control keyboard and mouse\". If you accept the connection, the other user will be prompted to input the invitation password. Once the password is accepted, they will see your desktop."
 msgstr ""
-"En este ejemplo un ordenador con un dirección IP de 192.168.1.111 está "
+"En este ejemplo, un equipo con un dirección IP de 192.168.1.111 está "
 "tratando de conectarse. Se proporcionan botones para aceptar o rechazar la "
-"conexión. También puede marcar o desmarcar el recuadro \"permitir a un "
-"usuario remoto el control del ratón y del teclado\". Si acepta la conexión "
-"se pedirá al otro usuario que introduzca la contraseña. Una vez que se "
-"acepte la contraseña él podrá ver su escritorio."
+"conexión. También puede seleccionar o desmarcar la casilla \"permitir a un "
+"usuario remoto controlar el ratón y el teclado\". Si acepta la conexión, se "
+"le pedirá al otro usuario que introduzca la contraseña de la invitación. Una "
+"vez que se acepte la contraseña, podrán ver su escritorio."
 
 # 296245096c4346ebbe85048238ec51b5
 # 3b75e9eb66bc4a3f8202b395cc06a6fc
@@ -75650,10 +75666,10 @@ msgstr ""
 #: ../../using.rst:506
 msgid "your desktop will continue to be shared as long as the \"Enable Desktop Sharing\" checkbox is checked, even if you close this utility. **Always remember** to uncheck this box when your session is finished in order to prevent unwanted connections."
 msgstr ""
-"su escritorio continuará compartido tanto tiempo como el recuadro \""
-"Habilitar la Compartición de Escritorio\" esté seleccionado, incluso si "
-"usted cierra esta herramienta. **Recuerde siempre** desmarcar este recuadro "
-"cuando su sesión esté terminada para prevenir conexiones no deseadas."
+"Su escritorio continuará compartido tanto tiempo como la casilla \"Habilitar "
+"Compartir Escritorio\" esté seleccionada, incluso si usted cierra esta "
+"utilería. **Recuerde siempre** desmarcar esta casilla cuando su sesión esté "
+"terminada para prevenir conexiones no deseadas."
 
 # 6f4c96e468284e97895cfd04869ff5ec
 # 5be38096c9fe4a6fb23c7ea022c83f0d
@@ -76418,10 +76434,10 @@ msgstr "Cliente Ligero"
 #: ../../using.rst:515
 msgid "PC-BSD® provides a Thin Client script which can be used to easily create a PXE Boot Desktop Server, to support thin clients, and a PXE Boot Install Server, for creating a central server which systems can connect to in order to be installed with PC-BSD®."
 msgstr ""
-"PC-BSD® proporciona un script de Cliente Ligero que se puede emplear para "
-"crear fácilmente un Servidor de Arranque de Escritorio PXE, para soportar "
-"clientes ligeros, y un Servidor de Instalación de arranque PXE, para crear "
-"un servidor central que se pueda conectar a sus sistemas para ser instalado "
+"PC-BSD® proporciona un script de Cliente Ligero que se puede usar para crear "
+"fácilmente un Servidor de Escritorio de Arranque PXE, para soportar clientes "
+"ligeros, y un Servidor de Instalación de Arranque PXE, para crear un "
+"servidor central al que se puedan conectar sus sistemas para ser instalados "
 "con PC-BSD®."
 
 # e5fa3d4700e04282915544903e1e61ad
@@ -76805,8 +76821,8 @@ msgstr ""
 #: ../../using.rst:518
 msgid "This section demonstrates how to configure and use both the PXE Boot Desktop Server and the PXE Boot Install Server."
 msgstr ""
-"Esta sección muestra cómo configurar y utilizar tanto el servidor de "
-"arranque de escritorio PXE y el servidor de arranque de instalación PXE."
+"Esta sección muestra cómo configurar y utilizar tanto el Servidor de "
+"Escritorio de Arranque PXE y el Servidor de Instalación de Arranque PXE."
 
 # 928f1e502fba47b6ad3220b00c4ef7ee
 # eedc71946a0c476f83ec71a10aa11767
@@ -77188,7 +77204,7 @@ msgstr ""
 #: ../../using.rst:526
 #: ../../using.rst:524
 msgid "PXE Boot Desktop Server"
-msgstr "Servidor de Arranque de Escritorio PXE"
+msgstr "Servidor de Escritorio de Arranque PXE"
 
 # 803bd579631841039c35aa469756a61a
 # d4db04340ce348238b50c0dab4695faf
@@ -77567,16 +77583,16 @@ msgstr "Servidor de Arranque de Escritorio PXE"
 #: ../../using.rst:526
 msgid "A PC-BSD® PXE Boot Desktop Server allows you to automatically configure a network of `diskless computers <https://en.wikipedia.org/wiki/Diskless_node>`_ where each computer has a network interface card capable of `PXE <https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ booting. When a client boots from their network interface instead of their hard disk, they automatically connect to the PXE Boot Desktop Server and receive a login window. Once authenticated, they can use PC-BSD®, even if PC-BSD® is not installed on their own computer and even if their computer does not have a hard drive."
 msgstr ""
-"Un Servidor de Arranque de Escritorio PXE de PC-BSD® le permite configurar "
-"automáticamente una red de `ordenadores sin disco "
-"<https://en.wikipedia.org/wiki/Diskless_node>`_ donde cada ordenador tiene "
-"una tarjeta interfaz de red que es capaz de iniciar `PXE "
-"<https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ Cunado un "
-"cliente arranca desde su interfaz de red en vez desde un disco duro, se "
-"conecta automáticamente al Servidor de Arranque de Escritorio PXE y recibe "
-"una ventana de acceso. Una vez autenticado puede usar PC-BSD®, incluso si PC-"
-"BSD® no está instalado en su propio ordenador e incluso si su propio "
-"ordenador no tiene disco duro. "
+"Un Servidor de Escritorio de Arranque PXE de PC-BSD® le permite configurar "
+"automáticamente una red de `equipos sin disco "
+"<https://en.wikipedia.org/wiki/Diskless_node>`_ donde cada equipo tiene una "
+"tarjeta interfaz de red que es capaz de iniciar `PXE "
+"<https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ Cuando un "
+"cliente arranca desde su interfaz de red en vez que desde un disco duro, se "
+"conecta automáticamente al Servidor de Escritorio de Arranque PXE y recibe "
+"una ventana de acceso. Una vez autenticado, puede usar PC-BSD®, incluso si "
+"PC-BSD® no está instalado en su propio equipo e incluso si su equipo no "
+"tiene un disco duro."
 
 # 01c6bb3646bc422ebc92105fcdfda1f6
 # 0c8f262e5d124eb9bf41f3ffcd855833
@@ -77960,7 +77976,7 @@ msgstr ""
 msgid "To prepare your PC-BSD® system for a PXE Boot Desktop Server configuration, perform these tasks first:"
 msgstr ""
 "Para preparar su sistema PC-BSD® para la configuración del Servidor de "
-"Arranque de Escritorio PXE lleve realice primero las siguientes tareas: "
+"Escritorio de Arranque PXE, realice primero las siguientes tareas:"
 
 # 9c8f5005337141d1895e17850c059b8b
 # 92d9816291f94076ab7ad3946c04f8a2
@@ -78343,9 +78359,9 @@ msgstr ""
 #: ../../using.rst:533
 msgid "If the diskless clients will require Internet access, install two network cards where one NIC is connected to the Internet and the other is connected to a private LAN from which the thin clients can PXE boot from."
 msgstr ""
-"Si el cliente sin disco va a requerir conexión a Internet instale dos "
-"tarjetas de red donde un NIC se conectará a Internet y el otro se conectará "
-"a una red privada desde la que el cliente ligero puede arrancar PXE."
+"Si los clientes sin disco van a requerir conexión a Internet, instale dos "
+"tarjetas de red donde una NIC se conectará a Internet y la otra se conectará "
+"a una LAN privada desde la que los clientes ligeros puede arrancar PXE."
 
 # 066375ef9f244f1a87b15a577418534f
 # e0b60e21d80940c2be17eb591414898f
@@ -78729,7 +78745,7 @@ msgstr ""
 msgid "The PC-BSD® system should have lots of RAM installed, especially if multiple clients will be connecting."
 msgstr ""
 "El sistema PC-BSD® debería tener mucha RAM instalada, sobre todo si se "
-"conectarán mucho clientes ligeros."
+"conectarán muchos clientes ligeros."
 
 # 0d8113d398424e359bb939a1c6ce80e9
 # 9e629b98e487480a9542988f128d22ca
@@ -79112,8 +79128,8 @@ msgstr ""
 #: ../../using.rst:538
 msgid "To configure the PC-BSD® system as a PXE Boot Desktop Server, run the following script as the superuser::"
 msgstr ""
-"Para configurar el sistema PC-BSD® como un Servidor de Arranque de "
-"Escritorio PXE ejecute los siguientes scripts como administrador::"
+"Para configurar el sistema PC-BSD® como un Servidor de Escritorio de "
+"Arranque PXE, ejecute el siguiente script como administrador::"
 
 # 30f87c2811df4498b7e98a988bbacd73
 # 3e145b1c28e04f03af767fdaed6c3afe
@@ -79496,10 +79512,10 @@ msgstr ""
 #: ../../using.rst:547
 msgid "If you wish to have the PC-BSD® system act as the DHCP server, type **d**. If the network already has a configured DHCP server, type **e**. The following example will install the DHCP server on the PC-BSD® system. After making your selection, press enter to continue::"
 msgstr ""
-"Si desea tener un sistema PC-BSD® que actúe como un servidor DHCP escriba "
-"**d**. Si la red ya tiene un sistema DHCP configurado escriba **e**. El "
+"Si desea tener el sistema PC-BSD® actuando como un servidor DHCP, escriba "
+"**d**. Si la red ya tiene un sistema DHCP configurado, escriba **e**. El "
 "siguiente ejemplo instalará el servidor DHCP en el sistema PC-BSD®. Tras "
-"hacer su selección presione aceptar para continuar::"
+"hacer su selección, presione intro para continuar::"
 
 # f2eda6c7f6034f108d31a4bce7808756
 # ff16269a42d74be9bb49dc3d0a051479
@@ -79882,12 +79898,12 @@ msgstr ""
 #: ../../using.rst:553
 msgid "If your intent is to install a PXE Boot Desktop Server, input **r** and press enter. If you previously typed **d** and a DHCP server is not already installed, it will be installed for you. Once the DHCP server is installed, the tools needed in the PXE environment will be installed and messages will indicate the progress. Once everything is installed, you will see this message::"
 msgstr ""
-"Si está interesado en instalar el Servidor de Arranque de Escritorio PXE "
-"introduzca **r** y presione continuar. Si previamente escribió **d** y no "
-"está ya instalado un servidor DHCP, éste se instalará para usted. Una vez "
-"que el servidor DHCP esté instalado, se instalarán las herramientas "
-"necesarias en el entorno PXE y distintos mensajes le indicarán la "
-"progresión. Una vez que todo esté instalado verá este mensaje::"
+"Si su intención es instalar el Servidor de Escritorio de Arranque PXE, "
+"introduzca **r** y presione intro. Si previamente presionó **d** y no está "
+"ya instalado un servidor DHCP, éste se instalará para usted. Una vez que el "
+"servidor DHCP esté instalado, las herramientas necesarias en el entorno PXE "
+"se instalarán y mensajes le indicarán el progreso. Una vez que todo esté "
+"instalado, verá este mensaje::"
 
 # 3c89a10721d9445c8364faaad9a8ac5a
 # 532bc7623af54856b9826b738bb738a3
@@ -80271,11 +80287,11 @@ msgstr ""
 msgid "Input the FreeBSD device name of the interface that is attached to the local network containing the diskless workstations. This interface will run the DHCP server and should not be connected to a network with another DHCP server running. In the example shown here, the user has input the *em0* interface. If you are unsure of the device name, type :command:`ifconfig` from another terminal."
 msgstr ""
 "Introduzca el nombre del dispositivo FreeBSD de la interfaz que está "
-"conectada a la red local que contiene la estación de trabajo sin disco. La "
-"interfaz ejecutará el servidor DHCP y no debería estar conectada a una red "
-"ejecutando otro servidor DHCP. En el ejemplo mostrado aquí el usuario ha "
-"introducido la interfaz *em0*. Si no está seguro del nombre del dispositivo "
-"escriba :command:`ifconfig` en otro terminal."
+"conectada a la red local que contiene las estaciones de trabajo sin disco. "
+"Esta interfaz ejecutará el servidor DHCP y no debería estar conectada a una "
+"red con otro servidor DHCP corriendo. En el ejemplo mostrado aquí, el "
+"usuario ha introducido la interfaz *em0*. Si no está seguro del nombre del "
+"dispositivo escriba :command:`ifconfig` desde otra terminal."
 
 # a622ca3e95eb4cf890f3b1a51ac35f23
 # 9b30596169d04d51ab93a644e28d4bd6
@@ -81041,7 +81057,7 @@ msgstr ""
 #: ../../using.rst:575
 #: ../../using.rst:573
 msgid "Before rebooting, you may wish to customize the installation."
-msgstr "Antes de reiniciar puede personalizar la instalación."
+msgstr "Antes de reiniciar, puede personalizar la instalación."
 
 # 363078f2408245e1a5c198795331ffda
 # ea0794f8acc048d1abf0e43c875402fb
@@ -81424,10 +81440,10 @@ msgstr "Antes de reiniciar puede personalizar la instalación."
 #: ../../using.rst:575
 msgid "The installation creates a chroot directory that contains a small PXE image that is used by clients to launch Xorg and connect to the PXE Boot Desktop Server. You can access this chroot by typing this command as the superuser::"
 msgstr ""
-"La instalación crea un directorio chroot que contiene una imagen pequeña "
-"PXE, la cual es empleada por los clientes para iniciar Xorg y conectarse con "
-"el Servidor de Arranque de Escritorio PXE. Puede acceder a  chroot "
-"escribiendo este comando como administrador::"
+"La instalación crea un directorio chroot que contiene una imagen PXE pequeña "
+"que es usada por los clientes para iniciar Xorg y conectarse al Servidor de "
+"Escritorio de Arranque PXE. Puede accesar a este chroot escribiendo este "
+"comando como administrador::"
 
 # d240a6fdba7b4e3586e4525c1ffcdeb5
 # ff81068d67d541719bfc9b3adf8e6a44
@@ -81810,11 +81826,11 @@ msgstr ""
 #: ../../using.rst:580
 msgid "Running :command:`pkg info` within the chroot will show which X components and drivers are available. Should you need to install additional video drivers, use :command:`pkg install` within the chroot. When you are finished using the chroot, type :command:`exit` to leave it."
 msgstr ""
-"Al ejecutar :command:`pkg info` estando dentro de chroot se mostrarán los "
+"Al ejecutar :command:`pkg info` dentro del chroot se mostrarán los "
 "componentes y controladores de X que están disponibles. En caso de que "
-"necesite instalar controladores de vídeo adicionales emplee :command:`pkg "
-"install` dentro de chroot. Cuando haya terminado de utilizar chroot escriba "
-":command:`exit` para salir de él."
+"necesite instalar controladores de video adicionales, use :command:`pkg "
+"install` dentro del chroot. Cuando haya terminado de utilizar chroot, "
+"escriba :command:`exit` para salir de él."
 
 # fdfc0ef900e04f63bc31cb359a38a2dd
 # c2ab6944ca9544ccafddffc27e4506a5
@@ -82196,7 +82212,8 @@ msgstr ""
 #: ../../using.rst:585
 #: ../../using.rst:583
 msgid "The thin client script installs and configures the following services:"
-msgstr "El cliente ligero instala y configura los siguientes servicios:"
+msgstr ""
+"El script de cliente ligero instala y configura los siguientes servicios:"
 
 # 2c9e38db2f11493790356d240a2d3e87
 # a939fb107c494b25a412fdb765780a5a
@@ -82580,10 +82597,10 @@ msgstr "El cliente ligero instala y configura los siguientes servicios:"
 msgid "**NFS:** the Network File System is a protocol for sharing files on a network. It has been configured to allow clients on the network attached to the interface that you specified to connect to the thin client server. Its configuration file is located in :file:`/etc/exports`."
 msgstr ""
 "**NFS:** el Sistema de Archivos de Red (Network File System) es un protocolo "
-"para compartir archivos en una red. Se ha configurado para permitir la "
-"conexión al servidor de clientes ligeros de la red conectada a la interfaz "
-"que usted especificó. Sus archivos de configuración están ubicados en "
-":file:`/etc/exports`. "
+"para compartir archivos en una red. Se ha configurado para permitir a "
+"clientes en la red conectados a la interfaz que usted especificó, conectarse "
+"al servidor de clientes ligeros. Su archivo de configuración está ubicado en "
+":file:`/etc/exports`."
 
 # d9da78eeca544eea994fe366fb329bb8
 # 588656e345b44a86bcc21df9380a1565
@@ -82967,11 +82984,12 @@ msgstr ""
 msgid "**TFTP:** the Trivial File Transfer Protocol is a light-weight version of FTP used to transfer configuration or boot files between machines. The PXE network cards on the diskless computers will use TFTP to receive their configuration information. This service was enabled in :file:`/etc/inetd.conf` with a home directory of :file:`/usr/home/thinclient`."
 msgstr ""
 "**TFT:** el Protocolo de Transferencia de Archivos Trivial (Trivial File "
-"Transfer Protocol) es una versión ligera de FTP empleado para transferir "
-"archivos de configuración o de arranque entre máquinas.  Las tarjetas de red "
-"PXE del ordenador sin disco utilizarán TFTP para recibir su información de "
-"configuración. Este servicio se habilitó en :file:`/etc/inetd.conf` con un "
-"directorio personal de :file:`/usr/home/thinclient`."
+"Transfer Protocol) es una versión ligera de FTP usado para transferir "
+"archivos de configuración o de arranque entre máquinas. Las tarjetas de red "
+"PXE en las computadoras sin disco utilizarán TFTP para recibir su "
+"información de configuración. Este servicio se habilitó en "
+":file:`/etc/inetd.conf` con un directorio personal de "
+":file:`/usr/home/thinclient`."
 
 # 1002574ed8c644dcaabda2395162b0cd
 # 2ab3e5eb9d0746bba2d30d7e5beaa8cb
@@ -83354,10 +83372,10 @@ msgstr ""
 #: ../../using.rst:592
 msgid "**DHCP:** the Dynamic Host Configuration Protocol is used to configure IP addressing info on the diskless workstations. If you selected to install a DHCP server, it will be configured to assign addresses for the network attached to the interface that you specified. Its configuration file is located in :file:`/usr/local/etc/dhcpd.conf`."
 msgstr ""
-"**DHCP:** el Protocolo de Configuración Dinámica del Host (Dynamin Host "
-"Configuration Protocol) se empleó para configurar la información de la "
-"dirección IP en la estación de trabajo sin disco. Si usted seleccionó "
-"instalar un servidor DHCP se configurará para asignar direcciones para la "
+"**DHCP:** el Protocolo de Configuración Dinámica del Host (Dynamic Host "
+"Configuration Protocol) se usa para configurar la información de la "
+"dirección IP en las estaciones de trabajo sin disco. Si usted seleccionó "
+"instalar un servidor DHCP, será configurado para asignar direcciones para la "
 "red conectada a la interfaz que usted especificó. Su archivo de "
 "configuración está ubicado en :file:`/usr/local/etc/dhcpd.conf`."
 
@@ -83743,11 +83761,10 @@ msgstr ""
 msgid "The thin client script also creates the *pxeboot* user with the default password *thinclient*. This username and password is used to save the working Xorg configuration files for each of the diskless computers. It is highly recommended that you change this password right away by running this command as the superuser::"
 msgstr ""
 "El script de cliente ligero también crea un usuario *pxeboot* con la "
-"contraseña predeterminada *thinclient*. Estos nombre de usuario y contraseña "
-"se emplean para guardar los archivos de configuración de trabajo de Xorg "
-"para cada uno de los ordenadores sin disco. Es muy recomendable que cambie "
-"esta contraseña inmediatamente mediante la ejecución de este comando como "
-"administrador::"
+"contraseña predeterminada *thinclient*. Este nombre de usuario y contraseña "
+"es usado para guardar los archivos funcionales de configuración de Xorg para "
+"cada uno de los equipos sin disco. Es altamente recomendable que cambie esta "
+"contraseña inmediatamente ejecutando este comando como administrador::"
 
 # ea041fa9ae724a478e6aaa2f36c70409
 # b45c8d0e58464ab18d0287ecc8b02037
@@ -84130,9 +84147,9 @@ msgstr ""
 #: ../../using.rst:602
 msgid "You will also need to create the users that will connect to the system. You can do so using  or by typing :command:`adduser` at the command line and following the prompts."
 msgstr ""
-"También necesitará crear los usuario que se conectarán al sistema. Puede "
-"hacerlo utilizando o escribiendo :command:`adduser` en la línea de comandos "
-"y siguiendo las instrucciones."
+"También necesitará crear los usuarios que se conectarán al sistema. Puede "
+"hacerlo usando o escribiendo :command:`adduser` en la línea de comandos y "
+"siguiendo las instrucciones."
 
 # 72ab3d3b7b2d4d009dc5cc0914366e59
 # 0d32fde80c324f0fad2f8c4fa938020d
