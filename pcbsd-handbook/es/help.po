@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 00:13-0800\n"
-"PO-Revision-Date: 2015-11-09 16:28+0000\n"
+"POT-Creation-Date: 2016-01-20 04:13-0800\n"
+"PO-Revision-Date: 2016-01-20 15:23+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453303386.000000\n"
 
 # 873892ec59364c02bab97e44b0c5bc5b
 # e9e9da1d2e964f3084b1a0c5d1df0f58
@@ -778,7 +782,7 @@ msgid "The PC-BSD® Project strives to make using PC-BSD® as easy as possible f
 msgstr ""
 "El proyecto PC-BSD® se esfuerza en hacer el uso de PC-BSD® tan fácil como "
 "sea posible para los nuevos usuarios. Si necesita ayuda, hay muchas formas "
-"de entrar en contacto con la comunidad PC-BSD®. Este capitulo describe los "
+"de entrar en contacto con la comunidad PC-BSD®. Este capítulo describe los "
 "recursos disponibles."
 
 # 299ad510b58f462e8d6f70483e9c0f36
@@ -17647,7 +17651,7 @@ msgid "Most of the regular users are always logged in, even when they are away f
 msgstr ""
 "La mayoría de los usuarios regulares siempre están conectados, aún cuando "
 "están lejos de su computadora o están ocupados haciendo otras cosas. Si no "
-"obtiene una respuesta al momento, **no** se moleste, deje el canal, y no "
+"obtiene una respuesta al momento, **no** se moleste, deje el canal, o no "
 "vuelva jamás. Manténgase en el canal por un tiempo para ver si alguien "
 "responde."
 
@@ -21095,7 +21099,7 @@ msgid "`Commits <http://lists.pcbsd.org/mailman/listinfo/commits>`_: lists commi
 msgstr ""
 "`Commits <http://lists.pcbsd.org/mailman/listinfo/commits>`_: lista las "
 "contribuciones cada que código de PC-BSD® es añadido o modificado por los "
-"desarroladores."
+"desarrolladores."
 
 # 442871b5732b4750a93fa5e5de4de1e6
 # 46658939e31c4bb6b839c97b1892c913
@@ -24731,8 +24735,8 @@ msgid "PC-BSD® uses FreeBSD as its underlying operating system, so everything i
 msgstr ""
 "PC-BSD® usa FreeBSD como sistema operativo subyacente, así que todo lo que "
 "se encuentra en el `Manual de FreeBSD "
-"<http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ y en las `"
-"FreeBSD FAQ <http://www.freebsd.org/doc/en/books/faq/>`_ aplica a PC-BSD® "
+"<http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ y en las `FAQ "
+"de FreeBSD <http://www.freebsd.org/doc/en/books/faq/>`_ aplica a PC-BSD® "
 "también. Ambos doumentos son exhaustivos y cubren casi cualquier tarea que "
 "se puede realizar en un sistema FreeBSD. También son un excelente recurso "
 "para aprender cómo funcionan las cosas tras bambalinas en su sistema PC-BSD®."

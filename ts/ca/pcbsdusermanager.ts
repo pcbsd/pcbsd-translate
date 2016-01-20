@@ -68,12 +68,14 @@
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Els errors no crítics següents han ocorregut mentre s&apos;intentava afegir l&apos;usuari nou. Voleu continuar?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El camp del nom d&apos;usuari no s&apos;ha omplert.</translation>
     </message>
     <message>
         <source>
@@ -84,12 +86,14 @@
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El nom d&apos;usuari que heu triat ja s&apos;usa; si us plau, trieu-ne un altre.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El camp del nom complert no s&apos;ha omplert.</translation>
     </message>
     <message>
         <source>
@@ -116,7 +120,8 @@
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Cal omplir ambdós camps de les contrasenyes.</translation>
     </message>
     <message>
         <source>
@@ -141,7 +146,8 @@
     <message>
         <source>
  - UID is already in use, please pick a different one</source>
-        <translation type="unfinished"></translation>
+        <translation>
+ - L&apos;UID ja s&apos;usa; si us plau, trieu-ne un altre.</translation>
     </message>
 </context>
 <context>
@@ -192,11 +198,11 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Desa</translation>
+        <translation>&amp;Desa</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -385,7 +391,7 @@
     </message>
     <message>
         <source>Disable Key (Import Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhabilita la clau (importa dades)</translation>
     </message>
     <message>
         <source>Initialize Device</source>
@@ -416,14 +422,14 @@
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Editant els usuaris per a la gàbia: </translation>
     </message>
 </context>
 <context>
     <name>SimpleAddCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">Entrada bona</translation>
+        <translation>Bona entrada</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -462,51 +468,56 @@
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Els errors no crítics següents han ocorregut mentre s&apos;intentava afegir un usuari nou. Voleu continuar?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El camp del nom d&apos;usuari no s&apos;ha omplert.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished">
-- El camp &apos;Username&apos; només pot contindre lletres i números (no espais).</translation>
+        <translation>
+- El camp del nom només pot contenir lletres i números (no espais).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El nom d&apos;usuari que heu triat ja s&apos;usa; si us plau, trieu-ne un altre.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- El camp del nom complet no s&apos;ha omplert.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">
-- El camp &apos;Nom complet&apos; no pot contenir ! @ o :</translation>
+        <translation>
+- El camp del nom complet no pot contenir !, @ o bé:</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Cal emplenar ambdós camps de les contrasenyes.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished">
-- Les contrasenyes no coincideixen, si us plau, torneu-ho a provar.</translation>
+        <translation>
+- Les contrasenyes no coincideixen; si us plau, torneu-ho a provar.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished">
-- Contrasenya no vàlida</translation>
+        <translation>
+- Contrasenya no vàlida.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -549,34 +560,34 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancel·lar</translation>
+        <translation>&amp;Cancel·la</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Confirmeu la contrasenya:</translation>
+        <translation>Confirmeu la contrasenya:</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished">Gestor d&apos;usuaris del PC-BSD</translation>
+        <translation>Gestor d&apos;usuaris del PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegir</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Eliminar</translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -616,45 +627,45 @@
     </message>
     <message>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+V</translation>
+        <translation>Alt+H</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlgCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">Entrada bona</translation>
+        <translation>Entrada bona</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">El camp està buit</translation>
+        <translation>El camp està buit.</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished">Aquest camp no hauria de contenir ! @ o bé :</translation>
+        <translation>Aquest camp no hauria de contenir !, @ o bé:</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>En voleu eliminar el directori personal?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina el directori personal per a</translation>
     </message>
 </context>
 <context>
     <name>mainDlgCode</name>
     <message>
         <source>New User</source>
-        <translation type="unfinished">Usuari nou</translation>
+        <translation>Usuari nou</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>En voleu eliminar el directori personal?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina el directori personal per a</translation>
     </message>
     <message>
         <source>Error adding group...</source>
@@ -694,39 +705,39 @@
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished">Ruta no vàlida!</translation>
+        <translation>Ruta no vàlida!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished">El directori no existeix, però es crearà.</translation>
+        <translation>El directori no existeix, però es crearà.</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished">Establir el directori d&apos;inici fora de &apos;/home/&apos; pot provocar problemes d&apos;incompatibilitat amb alguns programes. NO RECOMANAT</translation>
+        <translation>Establir el directori d&apos;inici fora de &apos;/home/&apos; pot provocar problemes d&apos;incompatibilitat amb alguns programes. NO RECOMANAT.</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished">El camí requerit és un fitxer (no un directori)!</translation>
+        <translation>El camí requerit és un fitxer (no un directori)!</translation>
     </message>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">Entrada bona</translation>
+        <translation>Bona entrada</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished">Aquest camp no hauria de contenir ! @ o bé :</translation>
+        <translation>Aquest camp no hauria de contenir !, @ o bé:</translation>
     </message>
     <message>
         <source>Import PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa la clau de PersonaCrypt</translation>
     </message>
     <message>
         <source>Key Files (*.key);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers de clau (*.key);; Tots els fitxers (*)</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Correcte</translation>
     </message>
     <message>
         <source>The key file was imported successfully.</source>
@@ -762,51 +773,51 @@
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will only de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu desactivar el dispositiu PersonaCrypt d&apos;aquest usuari? Això només desactivarà la vostra clau en aquest sistema (el dispositiu PersonaCrypt seguirà sent utilitzable en altres sistemes).</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key has been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;usuari de PersonaCrypt s&apos;ha inhabilitat.</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key could not be removed. Do you have the proper permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut eliminar la clau de l&apos;usuari de PersonaCrypt. En teniu els permisos adequats?</translation>
     </message>
     <message>
         <source>PersonaCrypt Device Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositiu de PersonaCrypt no trobat</translation>
     </message>
     <message>
         <source>Please ensure that your PersonaCrypt device is connected to the system and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, assegureu-vos que el dispositiu de PersonaCrypt està connectat al sistema i torneu-ho a intentar.</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will merge the data from the device onto your system and de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu desactivar el dispositiu de PersonaCrypt d&apos;aquest usuari? Això fusionarà les dades del dispositiu al sistema i desactivarà la vostra clau en aquest sistema (el dispositiu de PersonaCrypt seguirà sent utilitzable en altres sistemes).</translation>
     </message>
     <message>
         <source>PersonaCrypt Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accés de PersonaCrypt</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Contrasenya:</translation>
+        <translation>Contrasenya:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Les dades per a aquest usuari s&apos;han fusionat al sistema i la clau del sistema s&apos;ha inhabilitat</translation>
     </message>
     <message>
         <source>The PersonaCrypt user data could not be merged onto the system. Invalid Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Les dades d&apos;usuari de PersonaCrypt no s&apos;han pogut fusionar al sistema. Contrasenya no vàlida?</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat cap dispositiu</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, connecteu el dispositiu extraïble i torneu-ho a intentar.</translation>
     </message>
     <message>
         <source>Select a device</source>
@@ -814,11 +825,11 @@
     </message>
     <message>
         <source>Warning 1: All the contents of the device will be wiped during PersonaCrypt initialization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avís 1: tots els continguts del dispositiu seran esborrats durant l&apos;inici de PersonaCrypt.</translation>
     </message>
     <message>
         <source>Warning 2: Device size needs to be larger than the current home dir.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avís 2: la mida del dispositiu ha de ser més gran que el directori home actual.</translation>
     </message>
     <message>
         <source>Home Dir Size: %1</source>
@@ -826,11 +837,11 @@
     </message>
     <message>
         <source>Create Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea la contrasenya del dispositiu</translation>
     </message>
     <message>
         <source>Invalid Password or Match - try again</source>
-        <translation type="unfinished"></translation>
+        <translation>La contrasenya no és vàlida o no coincideix. Torneu-ho a intentar</translation>
     </message>
     <message>
         <source>Repeat Password</source>
@@ -838,7 +849,7 @@
     </message>
     <message>
         <source>Are you ready to start the device initialization? (This may take a few minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu a punt per començar l&apos;inici del dispositiu? (Això pot trigar uns quants minuts)</translation>
     </message>
     <message>
         <source>Device: %1</source>
@@ -850,7 +861,7 @@
     </message>
     <message>
         <source>Current User Data: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Dades de l&apos;usuari actual: %3</translation>
     </message>
     <message>
         <source>PersonaCrypt Ready</source>
@@ -862,15 +873,15 @@
     </message>
     <message>
         <source>Could not create a temporary file for personacrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut crear un fitxer temporal per a personacrypt</translation>
     </message>
     <message>
         <source>The PersonaCrypt device was successfully initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositiu de PersonaCrypt s&apos;ha iniciat correctament</translation>
     </message>
     <message>
         <source>The PersonaCrypt device could not be initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>El dispositiu de PersonaCrypt no s&apos;ha pogut iniciar.</translation>
     </message>
     <message>
         <source>New User (%1)</source>

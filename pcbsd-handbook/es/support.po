@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 00:13-0800\n"
-"PO-Revision-Date: 2016-01-19 20:06+0000\n"
+"POT-Creation-Date: 2016-01-20 04:13-0800\n"
+"PO-Revision-Date: 2016-01-20 15:40+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453304433.000000\n"
 
 # f74eec3bf1fa41fc939118735392dabf
 # 6f4c99d509c24516a0327f37d9adb45d
@@ -1928,7 +1932,7 @@ msgid "If you have a spare system or virtual machine, you can also download and 
 msgstr ""
 "Si tiene un sistema libre o una máquina virtual puede descargar y probar la "
 "imagen candidata más reciente a la que será liberada. Estas versiones están "
-"todavía en pruebas y aun no se ha liberado oficialmente. Tener a tantas "
+"todavía en pruebas y aún no se ha liberado oficialmente. Tener a tantas "
 "personas como sea posible utilizando PC-BSD® en muchas configuraciones "
 "diferentes de hardware ayuda al proyecto a encontrar y arreglar errores. "
 "Esto hace que usar PC-BSD® sea mejor para todo el mundo. Suscribirse al `"
@@ -2316,14 +2320,14 @@ msgstr ""
 #: ../../support.rst:23
 msgid "If becoming a tester interests you, subscribe to the `testing mailing list <http://lists.pcbsd.org/mailman/listinfo/testing>`_. As new testing versions become available they will be announced on this list. You will also be able to see what problems other testers are finding and can check to see if the problem exists on your hardware as well. You can also subscribe to `these RSS feeds <http://dir.gmane.org/gmane.os.pcbsd.testing>`_ if you want a quick way to keep up with the subjects being discussed on the testing mailing list."
 msgstr ""
-"Si le interesa convertirse un probador suscríbase a la `lista de correo de "
-"los probadores <http://lists.pcbsd.org/mailman/listinfo/testing>`_. Cuando "
-"esté disponible una versión de prueba se anunciará en esta lista. También "
-"podrá ver qué problemas están encontrando otros probadores y pude comprobar "
-"si el problema también existe en su hardware. También se puede suscribir a `"
-"este RSS <http://dir.gmane.org/gmane.os.pcbsd.testing>`_ si quiere una "
+"Si le interesa convertirse un tester suscríbase a la `lista de correo de los "
+"testers <http://lists.pcbsd.org/mailman/listinfo/testing>`_. Cuando esté "
+"disponible una versión de prueba se anunciará en esta lista. También podrá "
+"ver qué problemas están encontrando otros testers y pude comprobar si el "
+"problema también existe en su hardware. También se puede suscribirse a `"
+"estos RSS <http://dir.gmane.org/gmane.os.pcbsd.testing>`_ si quiere una "
 "manera rápida de enterarse de los asuntos que se están discutiendo en la "
-"lista de noticias de los probadores."
+"lista de noticias de los testers."
 
 # 64345692e174487c97de276ebb608ec9
 # 8bda3f78d1ab49bea92210c1af51b3fa
@@ -2705,7 +2709,7 @@ msgstr ""
 #: ../../support.rst:28
 msgid "Anyone can become a beta tester. Follow these tips so that you can accurately describe your findings so they can be fixed as soon as possible:"
 msgstr ""
-"Cualquiera puede convertirse en un probador de versiones beta. Siga estos "
+"Cualquiera puede convertirse en un tester de versiones beta. Siga estos "
 "consejos para que pueda describir sus descubrimientos de manera precisa de "
 "manera que puedan ser solucionados tan pronto como sea posible:"
 
@@ -3090,7 +3094,7 @@ msgstr ""
 msgid "Before you :ref:`Report a bug`, search the testing mailing list to see if anyone else has reported a similar problem."
 msgstr ""
 "Antes de :ref:`Informar de un error`, eche un vistazo a la lista de correo "
-"de los probadores para ver si alguien ha informado de un problema similar."
+"de los testers para ver si alguien ha informado de un problema similar."
 
 # b8d12169620d4e46a03061853d8f2935
 # 3469e1701bda48eda12711c546ddf63d
@@ -3386,7 +3390,7 @@ msgstr ""
 "Cuando informe de un nuevo problema utilice un título descriptivo que "
 "incluya el error y la versión de PC-BSD®. Idealmente el título es corto (8 "
 "palabras o menos) y contiene palabras clave sobre el error. Por ejemplo "
-"podría ser \"AppCafe en 10.2-RELEASE-p1 no crea una cárcel (jail)\"."
+"podría ser \"AppCafe en 10.2-RELEASE-p1 no crea una jaula (jail)\"."
 
 # 05282aaae43b47fab9704e869a147b64
 # e0ee36582cef44f5b810a96fe325e57f
@@ -4061,7 +4065,7 @@ msgstr ""
 #: ../../support.rst:37
 msgid "Give a short (2-3 sentences) description of how to recreate the error. If there is an error message, include its complete text."
 msgstr ""
-"Dé una descripción corta (2-3 frases) de cómo recrear el error. Si hay un "
+"De una descripción corta (2-3 frases) de cómo recrear el error. Si hay un "
 "mensaje de error incluya su texto completo."
 
 # 215c876bccda453dae51f125ca45dc8b
@@ -4445,7 +4449,7 @@ msgstr ""
 #: ../../support.rst:40
 msgid "Include any other info that may be useful (e.g. this used to work on 10.0)."
 msgstr ""
-"Incluye cualquier otra información que pueda ser útil (por ejemplo, esto "
+"Incluya cualquier otra información que pueda ser útil (por ejemplo, esto "
 "solía funcionar en 10.0)"
 
 # a13519a064334a7f808a449c7f15395d
@@ -7126,8 +7130,8 @@ msgstr "Traducir el sitio web de PC-BSD®."
 #: ../../support.rst:59
 msgid "This section describes each of these translation areas in more detail and how to get started as a translator."
 msgstr ""
-"Traducir el sitio web de PC-BSD®. Esta sección describe de traducción de "
-"forma más detallada  cada una de estas áreas para empezar como traductor."
+"Esta sección describe cada una de estas áreas de traducción de forma más "
+"detallada y cómo empezar como traductor."
 
 # 1f90c107a8de4a27bf77925974e21875
 # 5ab56b20c04d473d988bd96ed992787a
@@ -9069,7 +9073,7 @@ msgstr ""
 #: ../../support.rst:89
 msgid "If you click on a language name then click on the \"PC-BSD\" hyperlink under the \"Name\" column, you will see each menu item that is available for translation. The example shown in :numref:`Figure %s: Viewing a Language's Available Menus <translate2>` is for the Greek localization. In this example, the menu for \"ethernetconfig\" is complete, but the one for \"LifePreserver\" is not."
 msgstr ""
-"Si presiona en el nombre de un idioma y luego presione en el link de \"PC-"
+"Si presiona en el nombre de un idioma y luego presiona en el link de \"PC-"
 "BSD\" bajo la columna \"Nombre\", usted verá cada elemento del menú que está "
 "disponible para su traducción. El ejemplo mostrado en la :numref:`Figura %s: "
 "Viendo los Menús Disponibles para un Idioma <translate2>` es para el idioma "
@@ -20398,7 +20402,7 @@ msgstr "Lineamientos de Diseño"
 #: ../../support.rst:248
 msgid "PC-BSD® is a community driven project that relies on the support of developers in the community to help in the design and implementation of new utilities and tools for PC-BSD®. The Project aims to present a unified design so that programs feel familiar to users. As an example, while programs could have \"File\", \"Main\", or \"System\" as their first entry in a menu bar, \"File\" is used as the accepted norm for the first category on the menu bar."
 msgstr ""
-"PC-BSD® es un proyecto comunitario que se depende del soporte de los "
+"PC-BSD® es un proyecto comunitario que depende del soporte de los "
 "desarrolladores en la comunidad para ayudar en el diseño e implementación de "
 "nuevas utilerías y herramientas para PC-BSD®. El proyecto apunta a presentar "
 "un diseño unificado para que los programas se sientan familiares a los "

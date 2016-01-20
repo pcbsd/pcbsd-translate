@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 00:13-0800\n"
-"PO-Revision-Date: 2016-01-20 03:58+0000\n"
+"POT-Creation-Date: 2016-01-20 04:13-0800\n"
+"PO-Revision-Date: 2016-01-20 15:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453302381.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -84529,7 +84533,7 @@ msgstr ""
 msgid "After a successful installation and reboot of the PXE Boot Desktop Server, the DHCP service will be running on the NIC you specified. Make sure that this NIC and a PXE capable client are connected to the same hub or switch. When you boot up the client, PXE should automatically obtain an IP address and begin to load PC-BSD®. If it does not, review the boot order settings in the BIOS on the client to make sure that PXE is listed first."
 msgstr ""
 "Tras una instalación exitosa y el reinicio del Servidor de Escritorio de "
-"Arranque PXE, el servidor DHCP estara ejecutándose en la NIC que usted "
+"Arranque PXE, el servidor DHCP estará ejecutándose en la NIC que usted "
 "especificó. Asegúrese que esta NIC y un cliente con capacidad PXE están "
 "conectados al mismo concentrador o switch. Cuando inicie el cliente, PXE "
 "debería obtener automáticamente una dirección IP y empezará a cargar PC-BSD®"
@@ -85695,7 +85699,7 @@ msgstr ""
 #: ../../using.rst:621
 msgid "in order for the login to succeed, the user account must already exist on the PXE Boot Desktop Server."
 msgstr ""
-"Para que el acceso tenga éxito la cuenta de usuario debe existir en el "
+"Para que el acceso tenga éxito, la cuenta de usuario debe existir en el "
 "Servidor de Escritorio de Arranque PXE."
 
 # 2e8909c6ee4c41659d2773dcfb49fbbe
@@ -86079,8 +86083,9 @@ msgstr ""
 #: ../../using.rst:623
 msgid "The client's boot environment is located in :file:`/home/pxeboot`. This is mounted read-only during the PXE boot process to allow the client to bootup and create an XDCMP connection to the server."
 msgstr ""
-"Para que el acceso tenga éxito, la cuenta de usuario debe existir en el "
-"Servidor de Escritorio de Arranque PXE."
+"El entorno de arranque del cliente esta ubicado en :file:`/home/pxeboot`. "
+"Este está montado en modo de solo lectura durante el proceso de arranque PXE "
+"para permitir al cliente arrancar y crear una conexión XDCMP con el servidor."
 
 # a43589be5d3b4001b41937b9f7739729
 # 3e1aec4cfa6045b79630610ef3f41b71
@@ -88002,7 +88007,7 @@ msgstr ""
 msgid "Your interface name and IP address may differ from those in the example. The *dhcpd* and *portmap* lines will not exist if you did not install a DHCP server."
 msgstr ""
 "El nombre de su interfaz y dirección IP pueden ser diferentes de los del "
-"ejemplo. Las líneas *dhcp* y *portmap* no existirán si no instala un "
+"ejemplo. Las líneas *dhcpd* y *portmap* no existirán si no instala un "
 "servidor DHCP."
 
 # 2774be02682b4a23b0b75852f0026fbd
@@ -90322,8 +90327,8 @@ msgstr ""
 "script :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example` el "
 "cual instalará un sistema FreeBSD básico. Además de comenzar una "
 "instalación, este menú proporciona un consola de emergencia. Esta puede ser "
-"útil si tiene un sistema que ya no puede arrancar y usted desea bien sea "
-"acceder a los contenidos del disco o intentar reparar la instalación."
+"útil si tiene un sistema que ya no puede arrancar y usted desea acceder a "
+"los contenidos del disco o intentar reparar la instalación."
 
 # 6510b12541424661a5a432c1850d95e0
 # da972084e1cc4754aae5cf4d87c47e01
@@ -91100,7 +91105,7 @@ msgstr ""
 "instalaciones sin supervisión. Para realizar instalaciones totalmente "
 "automatizadas a través de una interfaz PXE, cree un script de configuración "
 "llamado :file:`/usr/home/thinclient/installscripts/unattended.cfg`. Cuando "
-"el cliente PXE se inicie, comprueba primero si existe un archivo "
+"el cliente PXE se inicia, comprueba primero si existe un archivo "
 ":file:`unattended.cfg` y, si lo encuentra, lo usará automáticamente para la "
 "instalación. Deben tenerse algunas precauciones cuando emplee este método ya "
 "que sólo conectar un cliente de arranque PXE en un cable LAN incorrecto "
@@ -92639,9 +92644,9 @@ msgid "**Naturally immune to viruses and other malware:** most viruses are writt
 msgstr ""
 "**Inmunidad natural a virus y otro software malicioso:** la mayoría de los "
 "virus están escritos para infectar sistemas Windows y no comprenden los "
-"binarios o rutas que hay en un sistema PC-BSD®. Software  antivirus sigue "
+"binarios o rutas que hay en un sistema PC-BSD®. Software antivirus sigue "
 "disponible en la sección de Seguridad de :ref:`AppCafe®` lo que puede ser "
-"útil si usted envía o reenvía adjuntos de correos a usuarios que ejecutan "
+"útil si usted envía o reenvía adjuntos de correo a usuarios que ejecutan "
 "otros sistemas operativos."
 
 # fa83424e68dc4e969c78bee5841384a1
@@ -102300,7 +102305,7 @@ msgstr ":command:`sudo disable-tor-mode` deshabilita el modo Tor."
 #: ../../using.rst:821
 #: ../../using.rst:822
 msgid "Accessibility"
-msgstr "Accesabilidad"
+msgstr "Accesibilidad"
 
 # 8c60c2cff0ce4a39a5cfb2b80a80484f
 # 0b4899cdf1314540a7b9caf2fbac198d
@@ -102685,7 +102690,7 @@ msgstr "Accesabilidad"
 msgid "The GNOME and KDE desktop environments provide accessibility features to assist users with vision and mobility impairments. In PC-BSD®, these desktops can be installed either during installation or afterwards using :ref:`AppCafe®`."
 msgstr ""
 "Los entornos de escritorio GNOME y KDE proporcionan características de "
-"accesabilidad para asistir a usuarios con discapacidades de visión y "
+"accesibilidad para asistir a usuarios con discapacidades de visión y "
 "movilidad. En PC-BSD®, estos escritorios se pueden instalar bien durante la "
 "instalación o posteriormente usando :ref:`AppCafe®`."
 
@@ -103461,7 +103466,7 @@ msgstr "Acceso Universal de GNOME"
 msgid "GNOME3 provides a \"Universal Access\" utility for configuring the desktop for accessibility. To open this utility, open \"Activities\" and search for \"Universal Access\". This will open the screen shown in :numref:`Figure %s: Universal Access Screen <access1>`."
 msgstr ""
 "GNOME3 proporciona una utilería de \"Acceso Universal\" para configurar el "
-"escritorio para accesabilidad. Para abrir esta utilería, abra \"Actividades\""
+"escritorio para accesibilidad. Para abrir esta utilería, abra \"Actividades\""
 " y busque \"Acceso Universal\". Esto abrirá la pantalla mostrada en la "
 ":numref:`Figura %s: Pantalla de Acceso Universal <access1>`."
 
