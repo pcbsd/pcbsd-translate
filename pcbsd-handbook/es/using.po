@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-19 12:12-0800\n"
-"PO-Revision-Date: 2016-01-19 18:25+0000\n"
+"POT-Creation-Date: 2016-01-19 16:12-0800\n"
+"PO-Revision-Date: 2016-01-20 03:58+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453262308.000000\n"
 
 # a36444f7caec455d84fdaf571bb4a951
 # 89f8e9cf3bd3461a974cc537afb7202d
@@ -74490,7 +74494,7 @@ msgstr ""
 "contraseña sin supervisión (la cual se establece presionando \"Cambiar la "
 "Contraseña sin Supervisión\"), pueden conectarse a su sistema sin que usted "
 "se de cuenta. Por defecto, lo que ocurre cuando \"Habilitar el Acceso sin "
-"Supervisión\" está **des**marcado, es que aparece un mensaje emergente en su "
+"Supervisión\" está **desmarcado**, es que aparece un mensaje emergente en su "
 "pantalla siempre que un usuario remoto intenta conectarse y el escritorio "
 "permanecerá inaccesible hasta que usted acepte la conexión remota."
 
@@ -84528,13 +84532,13 @@ msgstr ""
 #: ../../using.rst:605
 msgid "After a successful installation and reboot of the PXE Boot Desktop Server, the DHCP service will be running on the NIC you specified. Make sure that this NIC and a PXE capable client are connected to the same hub or switch. When you boot up the client, PXE should automatically obtain an IP address and begin to load PC-BSD®. If it does not, review the boot order settings in the BIOS on the client to make sure that PXE is listed first."
 msgstr ""
-"Tras una instalación exitosa y el reinicio del Servidor de Arranque de "
-"Escritorio PXE el servidor DHCP estara ejecutándose en el NIC que usted "
-"especificó. Asegúrese que este NIC y un cliente con capacidad PXE están "
-"conectados al mismo centro o conmutador. Cuando inicie el cliente PXE "
+"Tras una instalación exitosa y el reinicio del Servidor de Escritorio de "
+"Arranque PXE, el servidor DHCP estara ejecutándose en la NIC que usted "
+"especificó. Asegúrese que esta NIC y un cliente con capacidad PXE están "
+"conectados al mismo concentrador o switch. Cuando inicie el cliente, PXE "
 "debería obtener automáticamente una dirección IP y empezará a cargar PC-BSD®"
-". Si no lo hace revise el orden de arranque en la BIOS del cliente para "
-"asegurarse de que PXE se lista en primer lugar. "
+". Si no lo hace, revise el orden de arranque en la BIOS del cliente para "
+"asegurarse de que PXE se lista en primer lugar."
 
 # 51cd19247b0a487ca0618aaee0ea8788
 # 4bdbaac35ff8435abb61008ba006464a
@@ -84917,8 +84921,8 @@ msgstr ""
 #: ../../using.rst:609
 msgid "After the boot process has finished, the client will be brought to this prompt::"
 msgstr ""
-"Después de que haya terminado el proceso de arranque, se hará mostrar al "
-"cliente este mensaje::"
+"Después de que haya terminado el proceso de arranque, el cliente será "
+"llevado a este indicador de comandos::"
 
 # cc7f99938a594d468c61cd1e7e0b9653
 # 68674a32a781480799bf6b2df45bfc17
@@ -85302,17 +85306,17 @@ msgstr ""
 msgid "If you wait 10 seconds, this message will timeout, and the client will bring up X in 1024x768 mode. If this is not the resolution that you wish to use, type \"Y\" at the prompt and hit enter to bring up the Xorg Configuration screen. In this menu, you will be able to setup your own custom :file:`xorg.conf` file, auto-detect settings, and test the new configuration. When finished, choose \"Save working config\" to send this configuration to the PXE Boot Desktop Server. This will prompt for the password of the pxeboot user. Once authenticated, the file will be saved by the client's MAC address in :file:`/home/pxeboot/mnt/xorg-config/<mac>.conf`. The next time you boot the client, it will automatically use the saved :file:`xorg.conf` file and bring the system to the PC-BSD® login screen."
 msgstr ""
 "Si espera 10 segundos, este mensaje desaparecerá, y el cliente cargará X en "
-"modo 1024x568. Si ésta no es la resolución que desea emplear escriba \"Y\" a "
-"la pregunta y presione aceptar para mostrar la pantalla de Configuración de "
-"Xorg. En este menú podrá configurar su propio archivo personal "
-"file:`xorg.conf`, detectar automáticamente los ajustes, y comprobar la nueva "
-"configuración. Cuando haya terminado elija \"Guardar la configuración de "
-"trabajo\" para enviar esta configuración al Servidor de Arranque de "
-"Escritorio PXE. Se le pedirá la contraseña del usuario pxeboot. Una vez "
+"modo 1024x768. Si ésta no es la resolución que desea emplear, escriba \"Y\" "
+"a la pregunta y presione aceptar para mostrar la pantalla de Configuración "
+"de Xorg. En este menú podrá configurar su propio archivo personal "
+":file:`xorg.conf`, detectar automáticamente los ajustes, y probar la nueva "
+"configuración. Cuando haya terminado elija \"Guardar la configuración "
+"funcional\" para enviar esta configuración al Servidor de Escritorio de "
+"Arranque PXE. Se le pedirá la contraseña del usuario pxeboot. Una vez "
 "autenticado, el archivo se guardará por la dirección MAC del cliente en "
 ":file:`/home/pxeboot/mnt/xorg-config/<mac>.conf`. La próxima vez que inicie "
 "el cliente, éste usará automáticamente el archivo :file:`xorg.conf` guardado "
-"y cargará en el sistema la pantalla de accesos PC-BSD®."
+"y cargará en el sistema la pantalla de acceso de PC-BSD®."
 
 # 346f3ead28e14085a8f65ab721f066e6
 # 2595428b6e0e40798b24f4c159ae7762
@@ -85695,8 +85699,8 @@ msgstr ""
 #: ../../using.rst:621
 msgid "in order for the login to succeed, the user account must already exist on the PXE Boot Desktop Server."
 msgstr ""
-"Para que el acceso tenga éxito la cuenta de usuario debe estar ya en el "
-"Servidor de Arranque de Escritorio PXE."
+"Para que el acceso tenga éxito la cuenta de usuario debe existir en el "
+"Servidor de Escritorio de Arranque PXE."
 
 # 2e8909c6ee4c41659d2773dcfb49fbbe
 # a68bffc65ccb446482af70094d071422
@@ -86079,9 +86083,8 @@ msgstr ""
 #: ../../using.rst:623
 msgid "The client's boot environment is located in :file:`/home/pxeboot`. This is mounted read-only during the PXE boot process to allow the client to bootup and create an XDCMP connection to the server."
 msgstr ""
-"El entorno de escritorio del cliente esta ubicado en :file:`/home/pxeboot`. "
-"Éste está montado en modo de solo lectura durante el proceso de arranque PXE "
-"para permitir al cliente arrancar y crear una conexión XDCMP con el servidor."
+"Para que el acceso tenga éxito, la cuenta de usuario debe existir en el "
+"Servidor de Escritorio de Arranque PXE."
 
 # a43589be5d3b4001b41937b9f7739729
 # 3e1aec4cfa6045b79630610ef3f41b71
@@ -86464,9 +86467,9 @@ msgstr ""
 #: ../../using.rst:626
 msgid "Once logged in to the PXE Boot Desktop Server, using PC-BSD® will be the same as if you had installed PC-BSD® on the client system. You will be able to use to install software and to save and use the files in your home directory."
 msgstr ""
-"Una vez conectado al Servidor de Arranque de Escritorio PXE, usar PC-BSD® "
-"será lo mismo que si hubiera instalado PC-BSD® en el sistema del cliente. "
-"Podrá usarlo para instalar software, y guardar y usar los archivos en su "
+"Una vez conectado al Servidor de Escritorio de Arranque PXE, usar PC-BSD® "
+"será lo mismo que si hubiera instalado PC-BSD® en el sistema cliente. Podrá "
+"usarlo para instalar software, y guardar y usar los archivos en su "
 "directorio personal."
 
 # 87f50802c95c4a63bdc64feb6d9226b8
@@ -86850,8 +86853,8 @@ msgstr ""
 #: ../../using.rst:629
 msgid "Use the **-remove** option if you wish to uninstall the PXE Boot Desktop Server::"
 msgstr ""
-"Utilice la opción **-remove** si desea desinstalar el Servidor de Arranque "
-"de Escritorio PXE::"
+"Utilice la opción **-remove** si desea desinstalar el Servidor de Escritorio "
+"de Arranque PXE::"
 
 # ed351450998c4774af3c9b7baa9a0f7b
 # 5fa4f3b3ba6342a6b119c19ceb7462ad
@@ -87235,7 +87238,7 @@ msgstr ""
 msgid "This will remove the PXE environment from the system. If you are finished using the PXE boot services, you can stop them using these commands::"
 msgstr ""
 "Esto eliminará el entorno PXE del sistema. Si ha terminado de usar los "
-"servicios de arranque PXE puede pararlos mediante estos comandos::"
+"servicios de arranque PXE, puede pararlos usando estos comandos::"
 
 # 4e2cf5c9982a457aa3efa83de24bede3
 # 5246a8dbe248445180232c818858b26f
@@ -87618,7 +87621,7 @@ msgstr ""
 #: ../../using.rst:642
 msgid "and prevent them from restarting by removing these lines from :file:`/etc/rc.conf`::"
 msgstr ""
-"y les impide reiniciarse mediante la eliminación de estas líneas de "
+"Y les impide reiniciarse mediante la eliminación de estas líneas de "
 ":file:`/etc/rc.conf`::"
 
 # c83d6fb6571544db8d890215e4d11e31
@@ -88386,7 +88389,7 @@ msgstr ""
 #: ../../using.rst:660
 #: ../../using.rst:658
 msgid "PXE Boot Install Server"
-msgstr "Servidor de Arranque de Instalación PXE"
+msgstr "Servidor de Instalación de Arranque PXE"
 
 # 73f206d90d18449b8d252ee08d3d9048
 # c887a7d6d7e74c88854538b5701f0300
