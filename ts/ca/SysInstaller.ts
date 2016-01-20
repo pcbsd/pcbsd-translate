@@ -83,7 +83,7 @@ Cliqueu a Acaba per reiniciar l&apos;ordinador. Després podreu treure el mitjà
     </message>
     <message>
         <source>Emergency Shell and Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Shell d&apos;emergència i utilitats</translation>
     </message>
     <message>
         <source>Cancel the installation</source>
@@ -111,72 +111,73 @@ Cliqueu a Acaba per reiniciar l&apos;ordinador. Després podreu treure el mitjà
     </message>
     <message>
         <source>Unable to detect any disk drives! The install will now exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot detectar cap dispositiu d&apos;emmagatzematge. La instal·lació sortirà ara.</translation>
     </message>
     <message>
         <source>Unable to suggest a partition for the detected disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>No es pot suggerir una partició per al disc detectat.</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lant al sistema de fitxers muntat a /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished">El disc serà configurat amb la següent configuració:</translation>
+        <translation>El disc es configurarà amb la següent configuració:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished">Disc:</translation>
+        <translation>Disc:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished">Rèplica:</translation>
+        <translation>Rèplica:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished">Partició:</translation>
+        <translation>Partició:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished">Sistema de fitxers:</translation>
+        <translation>Sistema de fitxers:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <source>ZFS Datasets:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt de dades ZFS:</translation>
     </message>
     <message>
         <source>The original ZFS layout will be restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Es restaurarà la disposició ZFS original.</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt de dades ZFS::&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished">Muntatge:</translation>
+        <translation>Muntatge:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions:</translation>
     </message>
     <message>
         <source>Start the restore now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio la restauració ara?</translation>
     </message>
     <message>
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema s&apos;ha restaurat!
+Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar el mitjà d&apos;instal·lació.</translation>
     </message>
     <message>
         <source>System Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauració del sistema</translation>
     </message>
     <message>
         <source>Your system is now being restored, this may take a while depending upon the size of your backup and network conditions.</source>
@@ -184,7 +185,7 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat!</translation>
     </message>
     <message>
         <source>The installer has encountered an error and has been halted.</source>
@@ -200,11 +201,11 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Acaba</translation>
     </message>
     <message>
         <source>Extracting system...</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està extraient el sistema...</translation>
     </message>
     <message>
         <source>Installing system... This may take a while...</source>
@@ -220,39 +221,39 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Are you sure you want to abort this installation?</source>
-        <translation type="unfinished">Esteu segurs que voleu avortar aquesta instal·lació?</translation>
+        <translation>Esteu segur que voleu avortar aquesta instal·lació?</translation>
     </message>
     <message>
         <source>Warning: The selected disk / partition is less than recommended %1GB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avís: el disc o partició seleccionat té menys espai que el recomanat: %1GB.</translation>
     </message>
     <message>
         <source>This will save your installation configuration to a MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Això desarà la vostra configuració d&apos;instal·lació a una memòria USB formatada amb MSDOSFS/FAT32. Voleu continuar?</translation>
     </message>
     <message>
         <source>Please insert a USB stick now, and click OK to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, inseriu una memòria USB ara i cliqueu a &quot;D&apos;acord&quot; per continuar.</translation>
     </message>
     <message>
         <source>Please enter the nickname you want to save this configuration as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el nom amb què vulgueu desar aquesta configuració.</translation>
     </message>
     <message>
         <source>Failed saving config to USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat desar la configuració al mitjà USB. El dispositiu funciona i està formatat amb MSDOSFS/FAT32?</translation>
     </message>
     <message>
         <source>Configuration saved! You may now safely remove the USB media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració desada! Ara podeu extreure amb seguretat el mitjà USB.</translation>
     </message>
     <message>
         <source>This will load a installation configuration file your MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Això carregarà un fitxer de configuració d&apos;instal·lació a la vostra memòria USB formatada amb MSDOSFS/FAT32. Voleu continuar?</translation>
     </message>
     <message>
         <source>Please insert the USB stick now, and click OK to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introduïu la memòria USB ara i cliqueu a &quot;D&apos;acord&quot; per continuar.</translation>
     </message>
     <message>
         <source>Failed loading saved config file from the USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
@@ -292,42 +293,42 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat la lectura de /tmp/pc-sys/</translation>
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation type="unfinished"></translation>
+        <translation>Script d&apos;instal·lació de configuració cancel·lat</translation>
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el tipus d&apos;instal·lació per fer.</translation>
     </message>
     <message>
         <source>Graphical desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriptori gràfic</translation>
     </message>
     <message>
         <source>PC-BSD (Graphical desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD (Escriptori gràfic)</translation>
     </message>
     <message>
         <source>Best for servers and headless systems</source>
-        <translation type="unfinished"></translation>
+        <translation>El millor per a servidors i sistemes sense cap.</translation>
     </message>
     <message>
         <source>TrueOS (Console based server)</source>
-        <translation type="unfinished"></translation>
+        <translation>TrueOS (Servidor basat en consola)</translation>
     </message>
     <message>
         <source>Restore from an existing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaura d&apos;una còpia de seguretat existent.</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the language you wish to perform the install with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta pantalla us permet seleccionar la llengua amb què voleu fer la instal·lació.</translation>
     </message>
     <message>
         <source>This screen allows you to select the type of system you wish to install. Clicking customize will allow you to change the selected packages for your system.</source>
@@ -370,42 +371,42 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Ethernet device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositiu ethernet:</translation>
     </message>
     <message>
         <source>No wifi detected</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha detectat cap wifi.</translation>
     </message>
     <message>
         <source>Wifi device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositiu de wifi:</translation>
     </message>
     <message>
         <source>No sound detected</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha detectat cap dispositiu de so.</translation>
     </message>
     <message>
         <source>Sound device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositiu de so:</translation>
     </message>
 </context>
 <context>
     <name>dialogFSSize</name>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;D&apos;acord</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancel·la</translation>
     </message>
 </context>
 <context>
@@ -457,39 +458,39 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     <name>wizardDisk</name>
     <message>
         <source>This wizard will walk you through the disk setup process. Please choose the setup mode you wish to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà durant el procés de configuració del disc. Si us plau, trieu el mode de configuració que voleu utilitzar.</translation>
     </message>
     <message>
         <source>Setup Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de configuració</translation>
     </message>
     <message>
         <source>Basic (New to BSD or disk partitioning)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bàsic (Nou a BSD o al partiment de disc)</translation>
     </message>
     <message>
         <source>Advanced (Experienced with file-systems)</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançat (Experimentat amb els sistemes de fitxers)</translation>
     </message>
     <message>
         <source>FreeBSD Experts (CLI manual mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>Experts de FreeBSD (Mode manual per consola)</translation>
     </message>
     <message>
         <source>Selected Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Disc seleccionat</translation>
     </message>
     <message>
         <source>Selected Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Partició seleccionada</translation>
     </message>
     <message>
         <source>Force ZFS 4K block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Força la mida de bloc ZFS 4K</translation>
     </message>
     <message>
         <source>ZFS pool name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de ZFS pool</translation>
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
@@ -529,39 +530,39 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya (torneu-la a escriure)</translation>
     </message>
     <message>
         <source>Below you may adjust the file-system mount points. For most users the defaults will work best. </source>
-        <translation type="unfinished"></translation>
+        <translation>A continuació podreu ajustar els punts de muntatge del sistema de fitxers. Per a la majoria dels usuaris les opcions predeterminades són les millors.</translation>
     </message>
     <message>
         <source>(MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>(MB)</translation>
     </message>
     <message>
         <source>Swap Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida de l&apos;espai d&apos;intercanvi</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegir</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation type="unfinished"></translation>
+        <translation>Heu triat el mode expert. En aquest mode, podeu obrir una finestra de terminal i utilitzar la línia d&apos;ordres per fer partir manualment el disc. En acabar, assegureu-vos de muntar els sistemes de fitxers a / mnt per començar la instal·lació.</translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Obre el terminal</translation>
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
@@ -601,43 +602,43 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Remove mount-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina el punt de muntatge</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this mount point?</source>
-        <translation type="unfinished"></translation>
+        <translation>Segur que voleu eliminar aquest punt de muntatge?</translation>
     </message>
     <message>
         <source>Enter mount-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el punt de muntatge</translation>
     </message>
     <message>
         <source>Please enter the new mount-point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introduïu el punt de muntatge nou:</translation>
     </message>
     <message>
         <source>Invalid Mount</source>
-        <translation type="unfinished"></translation>
+        <translation>Muntatge no vàlid</translation>
     </message>
     <message>
         <source>Mount point should start with &apos;/&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>El punt de muntatge hauria de començar amb &quot;/&quot;.</translation>
     </message>
     <message>
         <source>Editing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Edició:</translation>
     </message>
     <message>
         <source>Enter SWAP size</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu la mida de la SWAP</translation>
     </message>
     <message>
         <source>Size (MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida (MB)</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instal·lant al sistema de fitxers muntat a /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
@@ -665,7 +666,7 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conjunt de dades ZFS::&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
@@ -673,39 +674,39 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions:</translation>
     </message>
     <message>
         <source>Partition Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquema de particions</translation>
     </message>
     <message>
         <source>GPT (Best for new hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT (Millor per al maquinari nou)</translation>
     </message>
     <message>
         <source>MBR (Legacy)</source>
-        <translation type="unfinished"></translation>
+        <translation>MBR (Llegat)</translation>
     </message>
     <message>
         <source>Target Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinació de la instal·lació</translation>
     </message>
     <message>
         <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>UEFI (Plaques base modernes)</translation>
     </message>
     <message>
         <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOS (Plaques base de llegat, antigues)</translation>
     </message>
     <message>
         <source>Add additional disks to zpool</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix discs addicionals a zpool</translation>
     </message>
     <message>
         <source>stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Fragmentació seqüencial (stripe)</translation>
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
@@ -736,11 +737,11 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contrasenya</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Contrasenya (torneu-la a escriure)</translation>
     </message>
     <message>
         <source>Please create a user for this server</source>
@@ -748,39 +749,39 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;usuari</translation>
     </message>
     <message>
         <source>Default shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Intèrpret d&apos;ordes per defecte</translation>
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introduïu un nom d&apos;amfitrió i una preferència d&apos;entrada remota.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;ordinador</translation>
     </message>
     <message>
         <source>Enable remote SSH login</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita l&apos;entrada remota per SSH</translation>
     </message>
     <message>
         <source>Please select a network device to configure for this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccionau un dispositiu de xarxa per configurar.</translation>
     </message>
     <message>
         <source>Network Interface</source>
-        <translation type="unfinished">Interfície de xarxa</translation>
+        <translation>Interfície de xarxa</translation>
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished">Adreça IP</translation>
+        <translation>Adreça IP</translation>
     </message>
     <message>
         <source>Netmask</source>
@@ -820,42 +821,42 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu instal·lar l&apos;AppCafe? Això us permet gestionar paquets i gàbies des d&apos;un navegador o dispositiu mòbil.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·la l&apos;AppCafe</translation>
     </message>
 </context>
 <context>
     <name>wizardRestore</name>
     <message>
         <source>This wizard will walk you though the process of restoring your system from a Life-Preserver backup. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà a través del procés de restaurar el sistema des d&apos;una còpia de seguretat del Life-Preserver. Feu clic a &quot;Següent&quot; per començar.</translation>
     </message>
     <message>
         <source>Backup Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia de seguretat del servidor</translation>
     </message>
     <message>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;amfitrió</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;usuari</translation>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port SSH</translation>
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vau guardar la clau del Life-Conservador en una unitat USB, inseriu-la ara i seleccioneu la clau USB. En cas contrari, és possible que vulgueu utilitzar l&apos;autenticació de contrasenya.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticació de servidor</translation>
     </message>
     <message>
         <source>Use USB key</source>
@@ -897,28 +898,30 @@ Please try another USB stick or use password authentication.</source>
     <message>
         <source>Could not connect to the backup server!
 Please check that the server is reachable and verify your user/password.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut connectar amb el servidor de còpia de seguretat!
+Si us plau, comproveu que el servidor sigui accessible i verifiqueu el nom d&apos;usuari / contrasenya.</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check your hostname and that the backup server is reachable.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut connectar amb el servidor de còpia de seguretat!
+Si us plau, comproveu el nom d&apos;amfitrió i que el servidor sigui accessible.</translation>
     </message>
     <message>
         <source>Will restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Es restaurarà des de:</translation>
     </message>
     <message>
         <source>Select the SSH key to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la clau SSH a usar</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de clau:</translation>
     </message>
     <message>
         <source>To get started with a system restore, please select the type of backup to restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Per començar amb una restauració del sistema, si us plau, seleccioneu el tipus de còpia de seguretat a partir de la qual fer la restauració:</translation>
     </message>
     <message>
         <source>Encrypted iSCSI Restore</source>

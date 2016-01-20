@@ -77,43 +77,43 @@
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra l&apos;ajuda per a la pantalla actual</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre el teclat a la pantalla</translation>
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Commuta entre la disposició de teclat US i la seleccionada per l&apos;usuari.</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Enrere</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Següent</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu un nom d&apos;amfitrió</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom d&apos;amfitrió només pot contenir lletres i números.</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Acaba</translation>
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris de PersonaCrypt necessiten el mateix UID per a cada sistema en què l&apos;usen.</translation>
     </message>
     <message>
         <source>Specify UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifiqueu l&apos;UID</translation>
     </message>
     <message>
         <source>Initialize PersonaCrypt Device</source>
@@ -153,35 +153,35 @@
     </message>
     <message>
         <source>User Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalls de l&apos;usuari</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositiu de sortida:</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volum de prova:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de la sortida d&apos;àudio</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: els paràmetres d&apos;àudio també es poden ajustar més tard a través de la taula de mescles d&apos;àudio del PC BSD.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del domini:</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
@@ -224,48 +224,48 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Permet l&apos;accés SSH a aquest sistema des de sistemes remots.</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita l&apos;SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhabilita el IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Inhabilita l&apos;ús de connexions IPv6</translation>
     </message>
 </context>
 <context>
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
     <name>netKey</name>
     <message>
         <source>SSID</source>
-        <translation type="unfinished"></translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Clau de la xarxa</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Clau de la xarxa (un altre cop)</translation>
     </message>
     <message>
         <source>Show network key as text</source>
