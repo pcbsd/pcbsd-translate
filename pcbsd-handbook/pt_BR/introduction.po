@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-20 08:13-0800\n"
-"PO-Revision-Date: 2016-01-04 13:42+0000\n"
-"Last-Translator: Reginaldo <reginaldo.l.oliveira@gmail.com>\n"
+"POT-Creation-Date: 2016-01-20 12:13-0800\n"
+"PO-Revision-Date: 2016-01-20 22:05+0000\n"
+"Last-Translator: hierra <sebastiao.luiz.guerra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1453327548.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -1139,7 +1143,7 @@ msgstr "Versão |version|"
 
 #: ../../introduction.rst:8
 msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
-msgstr ""
+msgstr "Copyright © 2005 - 2016 The PC-BSD® Project."
 
 # 910118bc567b4d4db1c0cc7504e23ea1
 # 524bdd63fb3f47228013b102afe8be59
@@ -56048,6 +56052,8 @@ msgstr "PC-BSD, FreeBSD"
 #: ../../introduction.rst:366
 msgid "Linux and BSD use different naming conventions for devices. For example:"
 msgstr ""
+"Linux e BSD usam diferentes convenções para nomes de dispositivos. Por "
+"exemplo:"
 
 # 1362e695f5c94d7b98dd593a8e8b1b55
 # fe64de11d52d4562a180b5220de6b06c
@@ -56430,6 +56436,12 @@ msgstr ""
 #: ../../introduction.rst:368
 msgid "in Linux, Ethernet interfaces begin with :file:`eth`; in BSD, interface names indicate the name of the driver. For example, an Ethernet interface may be listed as :file:`re0`, indicating that it uses the Realtek :file:`re` driver. The advantage of this convention is that you can read the **man 4** page for the driver (e.g. type :command:`man 4 re`) to see which models and features are provided by that driver."
 msgstr ""
+"no Linux, interfaces de rede começam com :file:`eth`; no BSD, nomes de "
+"interfaces indicam o nome do driver. Por exemplo, uma interface de rede pode "
+"ser listada como :file:`re0`, indicando que usa um driver Realtek :file:`re`"
+". A vantagem desta convenção é que você pode ler a página **man 4** do "
+"driver (ou seja, digite :command:`man 4 re`) para ver quais modelos e "
+"funcionalidades são fornecidas pelo driver."
 
 # 90d486344cd14133a1f805d9d51d73e9
 # 78e567f9f9cd4705bf0629bf5b2ec687
@@ -56812,6 +56824,8 @@ msgstr ""
 #: ../../introduction.rst:372
 msgid "BSD disk names differ from Linux. IDE drives begin with :file:`ad` and SCSI and USB drives begin with :file:`da`."
 msgstr ""
+"Nomes de disco no BSD são diferentes do Linux. Dispositivos IDE começam com "
+":file:`ad` e dispositivos SCSI e USB começam com :file:`da`."
 
 # b21112f016124579a10d15e804faf603
 # d5baeefda7d24376b913646054153271
@@ -57194,6 +57208,9 @@ msgstr ""
 #: ../../introduction.rst:374
 msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
 msgstr ""
+"Algumas das funcionalidades usadas pelo BSD tem similaridades "
+"correspondentes ao Linux, mas o nome da funcionalidade é diferente. A tabela "
+"1.3b fornece alguns exemplos comuns:"
 
 # 42eebf31d82843409dcb6ae8a350a20a
 # 07a90e2969d845e1b646603709e13fe7
@@ -60634,6 +60651,10 @@ msgstr ":file:`rc0.d/`, :file:`rc1.d/`, etc."
 #: ../../introduction.rst:383
 msgid "in PC-BSD the directories containing the startup scripts do not link to runlevels as there are no runlevels; system startup scripts are separated from third-party application scripts"
 msgstr ""
+"no PC-BSD os diretórios contendo os scripts de inicialização não são ligados "
+"a níveis de execução, assim como não há os usuais níveis de execução; "
+"scripts de inicialização do sistema são separados dos scripts de aplicação "
+"de terceiros"
 
 # 27b9a751e1c743a39fceb49bc2649e4f
 # 708ce8b522bc47d8b16ee1712046f1c6
@@ -61015,7 +61036,7 @@ msgstr ""
 #: ../../introduction.rst:391
 #: ../../introduction.rst:387
 msgid ":file:`/etc/ttys` and :file:`/etc/rc.conf`"
-msgstr ""
+msgstr ":file:`/etc/ttys` e :file:`/etc/rc.conf`"
 
 # c6b5f8ae39f84674a4aeae9dcd0a58cd
 # dcbf6d22439e423f9f1606a11d517a17
@@ -61397,7 +61418,7 @@ msgstr ""
 #: ../../introduction.rst:391
 #: ../../introduction.rst:387
 msgid ":command:`telinit`, :file:`init.d/`"
-msgstr ""
+msgstr ":command:`telinit`, :file:`init.d/`"
 
 # 6abd754e62334b649343a8ddcaba3081
 # f52bc59a0d8343198587eabee3069f63
@@ -61780,6 +61801,8 @@ msgstr ""
 #: ../../introduction.rst:387
 msgid "terminals are configured in *ttys* and *rc.conf* indicates which services will start at boot time"
 msgstr ""
+"terminais são configurados em *ttys* e *rc.conf* indica quais serviços irão "
+"iniciar na inicialização do sistema"
 
 # 0b2ced51ae8d427ab6df041c8e343b6f
 # 9ee8eeff21494279a764e2c739813a2d
@@ -62543,7 +62566,7 @@ msgstr ""
 #: ../../introduction.rst:398
 #: ../../introduction.rst:394
 msgid "**Table 1.3c: Common BSD and Linux Commands**"
-msgstr ""
+msgstr "**Tabela 1.3c: Comandos comuns no BSD e Linux**"
 
 # 63229e2d90fa4dc6ba97790cf0a1bc1b
 # e456f8b327954fa38d1603b77a05a2a2
@@ -62925,7 +62948,7 @@ msgstr ""
 #: ../../introduction.rst:401
 #: ../../introduction.rst:397
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 # b052e1d40281423890de308fec423490
 # a28e6b921f3048c1aec255a516f8569a
@@ -63307,7 +63330,7 @@ msgstr ""
 #: ../../introduction.rst:401
 #: ../../introduction.rst:397
 msgid "**Used to:**"
-msgstr ""
+msgstr "**Usado para:**"
 
 # 924284f42e7b49c983490b3e9014dc78
 # 17d83c1e7616446f9e905f11b1abd754
@@ -63689,7 +63712,7 @@ msgstr ""
 #: ../../introduction.rst:403
 #: ../../introduction.rst:399
 msgid ":command:`dmesg`"
-msgstr ""
+msgstr ":command:`dmesg`"
 
 # 7777501f3a8c43bca39e7cd826c1f212
 # 3ed8e813a8444e60bf2e6933ead256a0
@@ -64071,7 +64094,7 @@ msgstr ""
 #: ../../introduction.rst:403
 #: ../../introduction.rst:399
 msgid "discover what hardware was detected by the kernel"
-msgstr ""
+msgstr "descobrir qual hardware foi detectado pelo kernel"
 
 # d1289be5133c45b9b7eafa02b35a00f4
 # 76d6de3a2d444ec481899cbf43f0abc0
@@ -64453,7 +64476,7 @@ msgstr ""
 #: ../../introduction.rst:405
 #: ../../introduction.rst:401
 msgid ":command:`sysctl dev`"
-msgstr ""
+msgstr ":command:`sysctl dev`"
 
 # 7dba6eef85f343dba49c6a7d15bfd6e2
 # 532ce6e064ee439ea032f131cfbf6326
@@ -64835,7 +64858,7 @@ msgstr ""
 #: ../../introduction.rst:405
 #: ../../introduction.rst:401
 msgid "display configured devices"
-msgstr ""
+msgstr "mostra dispositivos configurados"
 
 # 554d955f472e42ca8c79038cc2ddf527
 # 5f9a9af6a51d408aac68e3bf586f3450
@@ -65217,7 +65240,7 @@ msgstr ""
 #: ../../introduction.rst:407
 #: ../../introduction.rst:403
 msgid ":command:`pciconf -l -cv`"
-msgstr ""
+msgstr ":command:`pciconf -l -cv`"
 
 # 4be07ff5fc304afb9759ce6862792d6e
 # 9368ffaa2d124501a525b85158598c8f
@@ -69037,7 +69060,7 @@ msgstr ""
 #: ../../introduction.rst:417
 #: ../../introduction.rst:413
 msgid ":command:`sysctl hw.realmem`"
-msgstr ""
+msgstr ":command:`sysctl hw.realmem`"
 
 # 8294dab136a6402fb80e3b5d85a53a2f
 # 26847acfb87f42c7ae6f8894ab84e7ea
