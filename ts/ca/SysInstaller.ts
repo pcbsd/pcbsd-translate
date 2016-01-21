@@ -181,7 +181,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Your system is now being restored, this may take a while depending upon the size of your backup and network conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema ara s&apos;està restaurant, això pot trigar una estona segons la mida de les còpies de seguretat i les condicions de la xarxa.</translation>
     </message>
     <message>
         <source>Failed!</source>
@@ -189,7 +189,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>The installer has encountered an error and has been halted.</source>
-        <translation type="unfinished">L&apos;instal·lador ha trovat un error i s&apos;ha aturat.</translation>
+        <translation>L&apos;instal·lador ha trobat un error i s&apos;ha aturat.</translation>
     </message>
     <message>
         <source>Do you want to generate an error report?</source>
@@ -197,7 +197,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Restart the system now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu generar un informe d&apos;error?</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
@@ -209,15 +209,15 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Installing system... This may take a while...</source>
-        <translation type="unfinished">Instal·lant sistema.. Això pot trigar algun temps...</translation>
+        <translation>Instal·lant el sistema... Això pot trigar una estona...</translation>
     </message>
     <message>
         <source>Installing packages... This may take a while...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lant paquets.... Això pot trigar una estona...</translation>
     </message>
     <message>
         <source>Installing meta-package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·lant el metapaquet %1</translation>
     </message>
     <message>
         <source>Are you sure you want to abort this installation?</source>
@@ -257,39 +257,39 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Failed loading saved config file from the USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat carregar el fitxer de configuració des del mitjà USB. El dispositiu està activat i formatat amb MSDOSFS/FAT32?</translation>
     </message>
     <message>
         <source>Configuration loaded! You may now safely remove the USB media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració carregada! Ara podeu extreure el mitjà USB amb seguretat.</translation>
     </message>
     <message>
         <source>Config File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer de configuració:</translation>
     </message>
     <message>
         <source>Start the install using this config file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu iniciar la instal·lació usant aquest fitxer de configuració?</translation>
     </message>
     <message>
         <source>Restoring system: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurant el sistema: %1</translation>
     </message>
     <message>
         <source>Start the default Full-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu iniciar la instal·lació per defecte a tot el disc ara?</translation>
     </message>
     <message>
         <source>Start the Customized-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu iniciar la instal·lació personalitzada ara?</translation>
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Script de configuració de l&apos;instal·lador del PC-BSD</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitat de gestió de discs</translation>
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
@@ -332,11 +332,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>This screen allows you to select the type of system you wish to install. Clicking customize will allow you to change the selected packages for your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta pantalla us permet seleccionar el tipus de sistema que voleu instal·lar. En fer clic a personalitzar us permetrà canviar els paquets seleccionats per al vostre sistema.</translation>
     </message>
     <message>
         <source>This screen will display the currently selected disk options. Clicking customize will allow you to change the target disk, file-systems and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta pantalla mostrarà les opcions de disc seleccionades. En fer clic a personalitzar us permetrà canviar el disc de destinació, els sistemes de fitxers i més coses.</translation>
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
@@ -427,31 +427,31 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres del teclat</translation>
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Disposició de tecles</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>Variant</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Model del teclat</translation>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished">( podeu escriure en aquest espai per a provar las vostres preferències seleccionades. )</translation>
+        <translation>(Podeu escriure en aquest espai per provar les preferències seleccionades.)</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplica</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
@@ -494,11 +494,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
-        <translation type="unfinished"></translation>
+        <translation>Si això és una instal·lació d&apos;un sol disc ZFS, podeu continuar. Si no, si us plau, seleccioneu el mode mirall / raid i els discs de sota.</translation>
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode de dispositiu virtual ZFS</translation>
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
@@ -574,31 +574,31 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please select 2 or 4 additional drives for raidz1</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu 2 o 4 dispositius addicionals per a raidz1</translation>
     </message>
     <message>
         <source>Please select 3, 5, or 9 additional drives for raidz2</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu 3, 5, o 9 dispositius addicionals per a raidz2</translation>
     </message>
     <message>
         <source>Please select 4, 6, or 10 additional drives for raidz3</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu 4, 6, o 10 dispositius addicionals per a raidz3</translation>
     </message>
     <message>
         <source>ZFS Mounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Muntatges de ZFS</translation>
     </message>
     <message>
         <source>ZFS Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de ZFS</translation>
     </message>
     <message>
         <source>The original system datasets / mount-points will be automatically restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es restauraran automàticament els conjunts de dades / punts de muntatge del sistema original.</translation>
     </message>
     <message>
         <source>Resizing</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionant</translation>
     </message>
     <message>
         <source>Remove mount-point</source>
@@ -638,11 +638,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished">Instal·lant al sistema de fitxers muntat a /mnt</translation>
+        <translation>Instal·lant al sistema de fitxers muntat a /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished">El disc serà configurat amb la següent configuració:</translation>
+        <translation>El disc s&apos;establirà amb la configuració següent:</translation>
     </message>
     <message>
         <source>Disk:</source>
@@ -718,11 +718,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el disc o la partició on vulgueu fer la instal·lació.</translation>
     </message>
     <message>
         <source>Use GRUB bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa el carregador d&apos;arrencada GRUB</translation>
     </message>
 </context>
 <context>
@@ -733,7 +733,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please enter the root password for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà a través de la configuració del nou servidor. Feu clic a &quot;Següent&quot; per començar.</translation>
     </message>
     <message>
         <source>Password</source>
