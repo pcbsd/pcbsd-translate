@@ -193,7 +193,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Do you want to generate an error report?</source>
-        <translation type="unfinished">Voleu generar un informe d&apos;errors?</translation>
+        <translation>Voleu generar un informe d&apos;error?</translation>
     </message>
     <message>
         <source>Restart the system now?</source>
@@ -340,34 +340,34 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema s&apos;està instal·lant ara! Aneu a prendre-us un cafè i relaxeu-vos. L&apos;instal·lador us avisarà quan hagi acabat.</translation>
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema ja s&apos;ha instal·lat! Cliqueu a &quot;Acaba&quot; per reiniciar l&apos;ordinador. Assegureu-vos que extraieu qualsevol mitjà d&apos;instal·lació abans d&apos;arrencar el nou sistema.</translation>
     </message>
 </context>
 <context>
     <name>dialogCheckHardware</name>
     <message>
         <source>Detected hardware devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositius de maquinari detectats</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>Video driver:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>Video resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolució de vídeo:</translation>
     </message>
     <message>
         <source>No ethernet detected</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha detectat cap ethernet</translation>
     </message>
     <message>
         <source>Ethernet device:</source>
@@ -413,14 +413,14 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Tanca</translation>
+        <translation>&amp;Tanca</translation>
     </message>
 </context>
 <context>
@@ -502,31 +502,31 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu com a mínim 1 altre dispositiu per a l&apos;emmirallament</translation>
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: l&apos;ús de ZFS mirror/raidz només es pot habilitar quan es faci una instal·lació de disc sencer.</translation>
     </message>
     <message>
         <source>ZFS allows the use of read-cache (L2Arc) and write log devices (ZIL). If you wish to enable either of these, please select the disks to be used below. </source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS permet l&apos;ús de la lectura de memòria cau (L2Arc) i l&apos;escriptura de dispositius de registre (ZIL). Si en voleu activar qualsevol; si us plau, seleccioneu els discos que s&apos;utilitzaran a continuació.</translation>
     </message>
     <message>
         <source>Enable cache device</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita un dispositiu de cau</translation>
     </message>
     <message>
         <source>Enable log device</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita un dispositiu de registre</translation>
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita un dispositiu de registre</translation>
     </message>
     <message>
         <source>Encrypt disk with GELI (Requires GPT disk scheme)</source>
-        <translation type="unfinished"></translation>
+        <translation>Encripta el disc amb GELI (requereix un esquema de disc GPT).</translation>
     </message>
     <message>
         <source>Password</source>
@@ -566,11 +566,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, consulteu el resum del disc a continuació i feu clic a &quot;Acaba&quot; per desar la configuració.</translation>
     </message>
     <message>
         <source>Use entire disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa tot el disc</translation>
     </message>
     <message>
         <source>Please select 2 or 4 additional drives for raidz1</source>
@@ -646,31 +646,31 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished">Disc:</translation>
+        <translation>Disc:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished">Rèplica:</translation>
+        <translation>Rèplica:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished">Partició:</translation>
+        <translation>Partició:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished">Sistema de fitxers:</translation>
+        <translation>Sistema de fitxers:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Mida:</translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished">Conjunt de dades ZFS::&lt;br&gt;</translation>
+        <translation>Conjunt de dades ZFS:&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished">Muntatge:</translation>
+        <translation>Muntatge:</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -710,11 +710,11 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu els discs addicionals per ratllar</translation>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida de la partició nova (total)</translation>
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
@@ -729,7 +729,7 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     <name>wizardFreeBSD</name>
     <message>
         <source>This wizard will walk you though the setup of your new server. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà a través de la configuració del nou servidor. Feu clic a &quot;Següent&quot; per començar.</translation>
     </message>
     <message>
         <source>Please enter the root password for this server</source>
@@ -737,15 +737,15 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Contrasenya</translation>
+        <translation>Contrasenya</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished">Contrasenya (torneu-la a escriure)</translation>
+        <translation>Contrasenya (torneu-la a escriure)</translation>
     </message>
     <message>
         <source>Please create a user for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, creeu un usuari per a aquest servidor.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -785,39 +785,39 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Netmask</source>
-        <translation type="unfinished">Màscara de xarxa</translation>
+        <translation>Màscara de xarxa</translation>
     </message>
     <message>
         <source>Nameserver (DNS)</source>
-        <translation type="unfinished">Servidor de noms (DNS)</translation>
+        <translation>Servidor de noms (DNS)</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished">Porta d&apos;enllaç</translation>
+        <translation>Passarel·la</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adreça IPv6</translation>
+        <translation>Adreça IPv6</translation>
     </message>
     <message>
         <source>IPv6 Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Passarel·la IPv6</translation>
     </message>
     <message>
         <source>IPv6 Nameserver</source>
-        <translation type="unfinished">Servidor de noms IPv6</translation>
+        <translation>Servidor de noms IPv6</translation>
     </message>
     <message>
         <source>Please select any optional features to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu característiques opcionals per instal·lar.</translation>
     </message>
     <message>
         <source>Install ports tree (/usr/ports)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·la l&apos;arbre de ports (/usr/ports)</translation>
     </message>
     <message>
         <source>000.000.000.000</source>
-        <translation type="unfinished"></translation>
+        <translation>000.000.000.000</translation>
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
@@ -860,40 +860,41 @@ Cliqueu a &quot;Acaba&quot; per reiniciar. Després del reinici podreu expulsar 
     </message>
     <message>
         <source>Use USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa una memòria USB</translation>
     </message>
     <message>
         <source>Use password authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa l&apos;autenticació per contrasenya</translation>
     </message>
     <message>
         <source>The following systems are backed up on this server, select the one you wish to restore. </source>
-        <translation type="unfinished"></translation>
+        <translation>Els següents sistemes estan desats en aquest servidor, seleccioneu el que vulgueu restaurar.</translation>
     </message>
     <message>
         <source>Restore System Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecció de restauració del sistema</translation>
     </message>
     <message>
         <source>Restore Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Resum de la restauració</translation>
     </message>
     <message>
         <source>The system is ready to be restored, click Finish to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema està a punt per ser restaurat. Cliqueu a &quot;Acaba&quot; per continuar.</translation>
     </message>
     <message>
         <source>No keys found!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha trobat cap memòria USB!</translation>
     </message>
     <message>
         <source>No Auth keys could be found on that memory stick!
 Please try another USB stick or use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut trobar claus d&apos;autenticació a la memòria USB!
+Si us plau, seleccioneu una altra memòria USB o useu l&apos;autenticació de contrasenya.</translation>
     </message>
     <message>
         <source>Connection failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat la connexió!</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
@@ -925,43 +926,43 @@ Si us plau, comproveu el nom d&apos;amfitrió i que el servidor sigui accessible
     </message>
     <message>
         <source>Encrypted iSCSI Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauració encriptada iSCSI</translation>
     </message>
     <message>
         <source>Please select the *.lpiscsi file</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el fitxer *.lpiscsi</translation>
     </message>
     <message>
         <source>Browse for local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Navegueu per cercar un fitxer local</translation>
     </message>
     <message>
         <source>Import from USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa des d&apos;una memòria USB</translation>
     </message>
     <message>
         <source>Please enter the password to unlock the lpiscsi file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introduïu la contrasenya per desbloquejar el fitxer lpiscsi:</translation>
     </message>
     <message>
         <source>SSH Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauració SSH</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre un fitxer</translation>
     </message>
     <message>
         <source>LP iSCSI Settings (*.lpiscsi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de LP iSCSI (*.lpiscsi)</translation>
     </message>
     <message>
         <source>Select the .lpiscsi to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu el .lpiscsi a usar</translation>
     </message>
     <message>
         <source>ISCSI File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer ISCSI:</translation>
     </message>
 </context>
 </TS>
