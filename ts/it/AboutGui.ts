@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>CPU:</source>
-        <translation type="unfinished">CPU:</translation>
+        <translation>CPU:</translation>
     </message>
     <message>
         <source>Mem.</source>
