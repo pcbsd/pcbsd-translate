@@ -81,35 +81,35 @@
     </message>
     <message>
         <source>Custom MAC address</source>
-        <translation type="unfinished">Izvēlēta MAC adrese</translation>
+        <translation>Pielāgota MAC adrese</translation>
     </message>
     <message>
         <source>IPv6 static address</source>
-        <translation type="unfinished">IPv6 statiskā adrese</translation>
+        <translation>IPv6 statiskā adrese</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished">Adrese:</translation>
+        <translation>Adrese:</translation>
     </message>
     <message>
         <source>Obtain IPv6 address automaticall&amp;y</source>
-        <translation type="unfinished">Iegūt IPv6 adresi &amp;automātiski</translation>
+        <translation>Iegūt IPv6 adresi &amp;automātiski</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+M</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>I&amp;nfo</source>
-        <translation type="unfinished">I&amp;nformācija</translation>
+        <translation>I&amp;nformācija</translation>
     </message>
     <message>
         <source>Configuration info</source>
-        <translation type="unfinished">Konfigurācijas informācija</translation>
+        <translation>Konfigurācijas informācija</translation>
     </message>
     <message>
         <source>Gateway:</source>
-        <translation type="unfinished">Vārteja:</translation>
+        <translation>Vārteja:</translation>
     </message>
     <message>
         <source>IPv6:</source>
@@ -121,65 +121,65 @@
     </message>
     <message>
         <source>Media:</source>
-        <translation type="unfinished">Mēdija:</translation>
+        <translation>Vide:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Statuss:</translation>
+        <translation>Statuss:</translation>
     </message>
     <message>
         <source>Traffic info</source>
-        <translation type="unfinished">Tīkla aktivitātes informācija</translation>
+        <translation>Tīkla aktivitātes informācija</translation>
     </message>
     <message>
         <source>Packets:</source>
-        <translation type="unfinished">Pakas:</translation>
+        <translation>Pakete:</translation>
     </message>
     <message>
         <source>Errors:</source>
-        <translation type="unfinished">Kļūdas:</translation>
+        <translation>Kļūdas:</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation type="unfinished">Iekšā:</translation>
+        <translation>Iekšā:</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation type="unfinished">Ārā:</translation>
+        <translation>Ārā:</translation>
     </message>
     <message>
         <source>Missing Fields</source>
-        <translation type="unfinished">Trūkstošie lauki</translation>
+        <translation>Trūkstošie lauki</translation>
     </message>
     <message>
         <source>You must enter an IP and Netmask to continue!
 </source>
-        <translation type="unfinished">Lai turpinātu, jums ir jāievada IP adrese un tīkla maska!
+        <translation>Lai turpinātu, jums ir jāievada IP adrese un tīkla maska!
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Brīdinājums</translation>
+        <translation>Brīdinājums</translation>
     </message>
     <message>
         <source>IP Address is out of range! (</source>
-        <translation type="unfinished">IP adrese pārkāpj robežas ! (</translation>
+        <translation>IP adrese pārkāpj robežas! (</translation>
     </message>
     <message>
         <source>) Fields must be between 0-255.</source>
-        <translation type="unfinished">) Laukiem ir jābūt intervālā no 0 līdz 255.</translation>
+        <translation>) Laukiem ir jābūt intervālā no 0 līdz 255.</translation>
     </message>
     <message>
         <source>Netmask is out of range! (</source>
-        <translation type="unfinished">Tīkla maska pārkāpj robežas! (</translation>
+        <translation>Tīkla maska pārkāpj robežas! (</translation>
     </message>
     <message>
         <source>configuration</source>
-        <translation type="unfinished">konfigurācija</translation>
+        <translation>konfigurācija</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished">999\.999\.999\.999; </translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 </TS>

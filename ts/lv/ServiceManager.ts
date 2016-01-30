@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>ServiceManager</name>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished">Pakalpojumu pārvaldnieks</translation>
+        <translation>Pakalpojumu pārvaldnieks</translation>
     </message>
     <message>
         <source>The following services are available on this system</source>
-        <translation type="unfinished">Šajā sistēmā ir pieejami sekojoši pakalpojumi</translation>
+        <translation>Šajā sistēmā ir pieejami sekojoši pakalpojumi</translation>
     </message>
     <message>
         <source>SDIR</source>
