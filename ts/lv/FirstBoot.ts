@@ -5,11 +5,11 @@
     <name>Installer</name>
     <message>
         <source>Change the installation language</source>
-        <translation type="unfinished">Mainīt instalācijas valodu</translation>
+        <translation>Mainīt instalācijas valodu</translation>
     </message>
     <message>
         <source>Welcome to your new PC-BSD system! You may change your language above, and click next to begin the setup process.</source>
-        <translation type="unfinished">Esi aicināts Tavā jaunajā PC-BSD sistēmā! Augstāk Tu vari nomainīt valodu un pēc tam klikšķināt [nākošais], lai sāktu instalācijas procesu.</translation>
+        <translation>Esiet sveicināti jaunajā PC-BSD sistēmā! Augstāk jūs variet nomainīt valodu un klikšķināt nākošais, lai sāktu uzstādīšanas procesu.</translation>
     </message>
     <message>
         <source>May be used when dual-booting</source>
