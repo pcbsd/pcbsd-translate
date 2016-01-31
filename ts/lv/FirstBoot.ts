@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation>Parādīt palīdzību pašreizējam ekrānam</translation>
+        <translation>Parādīt palīdzību pašreizējam solim</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
@@ -109,55 +109,55 @@
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt lietotājiem nepieciešams lietot vienādu UID uz visām sistēmām, kur to lieto</translation>
     </message>
     <message>
         <source>Specify UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādiet UID</translation>
     </message>
     <message>
         <source>Initialize PersonaCrypt Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicializēt PersonaCrypt iekārtu</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties</translation>
     </message>
     <message>
         <source>Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Noņemamā ierīce</translation>
     </message>
     <message>
         <source>User-portion of the disk encryption key</source>
-        <translation type="unfinished"></translation>
+        <translation>Diska šifrēšanas atslēgas lietotāja daļa</translation>
     </message>
     <message>
         <source>Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Iekārtas parole</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatrada nevienu ierīci</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, pievienojiet noņemamo ierīci un mēģiniet vēlreiz</translation>
     </message>
     <message>
         <source>Select Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvēlieties noņemamo ierīci</translation>
     </message>
     <message>
         <source>Warning: Any existing data on the selected device will be deleted during the user creation process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzmanību: Lietotāja izveides laikā no izvēlētās ierīces tiks dzēsti jebkādi tur esošie dati.</translation>
     </message>
     <message>
         <source>User Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotāja informācija</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Test</source>
@@ -200,68 +200,68 @@
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the system language you wish to use.</source>
-        <translation>Šis ekrāns ļauj jums izvēlēties sistēmas valodu, kuru vēlētos lietot.</translation>
+        <translation>Šajā solī varat izvēlēties sistēmas valodu, kuru vēlētos lietot.</translation>
     </message>
     <message>
         <source>This screen lets you pick the default timezone for your computer.</source>
-        <translation>Šis ekrāns ļauj jums izvēlēties noklusēto laika joslu šim datoram.</translation>
+        <translation>Šajā solī varat izvēlēties noklusēto laika joslu šim datoram.</translation>
     </message>
     <message>
         <source>On this screen please enter the root password you wish to use. This password is used for full system access, and should be something secure.</source>
-        <translation>Šajā ekrānā, lūdzu, ievadiet root paroli, kuru vēlaties lietot. Šī parole tiek izmantota pilnai sistēmas piekļuvei un tai ir jābūt drošai.</translation>
+        <translation>Šajā solī, lūdzu, ievadiet root paroli, kuru vēlaties lietot. Šī parole tiek izmantota pilnai sistēmas piekļuvei un tai ir jābūt drošai.</translation>
     </message>
     <message>
         <source>On this screen you will need to create a user to log into your desktop. Additional users may be created in the Control Panel.</source>
-        <translation type="unfinished">Lai pieteiktos savā darbvirsmā, šajā logā Tev jāizveido lietotājs. Papildus lietotāji var tikt izveidoti Kontrolpanelī.</translation>
+        <translation>Lai pieteiktos savā darbvirsmā, šajā solī jāizveido lietotājs. Papildus lietotāji var tikt izveidoti vadības panelī.</translation>
     </message>
     <message>
         <source>On this screen you may connect to an available wifi network. If you have a hidden network, it may be added later in the Network Manager.</source>
-        <translation type="unfinished">Šajā logā Tu vari pieslēgties pieejamam wifi tīklam. Ja ir pieejams slēpts tīkls, to var vēlāk pievienot Tīkla pārvaldniekā.</translation>
+        <translation>Šajā solī varat pieslēgties pieejamam WiFi tīklam. Ja jums ir slēpts tīkls, tad to vēlāk var pievienot tīkla pārvaldniekā.</translation>
     </message>
     <message>
         <source>The computer setup is now finished! Click Finish to log into your new Desktop.</source>
-        <translation type="unfinished">Instalācijas process ir pabeigts! Klikšķini [Pabeigt], lai pieteiktos savā jaunajā darbvirsmā.</translation>
+        <translation>Instalācijas process ir pabeigts! Klikšķini Pabeigt, lai pieteiktos savā jaunajā darbvirsmā.</translation>
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļauj SSH attālināto pieeju šai sistēmai</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Atspējot IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Atspējot IPv6 savienojumu izmantošanu</translation>
     </message>
 </context>
 <context>
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Aizvērt</translation>
+        <translation>&amp;Aizvērt</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Aizvērt</translation>
+        <translation>&amp;Aizvērt</translation>
     </message>
 </context>
 <context>
     <name>netKey</name>
     <message>
         <source>SSID</source>
-        <translation type="unfinished">SSID [WLAN identifikators]</translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Tīkla atslēga</translation>
+        <translation>Tīkla atslēga</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
