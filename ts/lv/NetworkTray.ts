@@ -5,15 +5,15 @@
     <name>NetworkTray</name>
     <message>
         <source>Unknown Wireless Device</source>
-        <translation type="unfinished">Neiepazīta bezvadu ierīce</translation>
+        <translation>Nezināma bezvadu ierīce</translation>
     </message>
     <message>
         <source>Device Name:</source>
-        <translation type="unfinished">Ierīces nosaukums:</translation>
+        <translation>Ierīces nosaukums:</translation>
     </message>
     <message>
         <source>IP:</source>
-        <translation type="unfinished">IP:</translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>IPv6:</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Media:</source>
-        <translation type="unfinished">Datu nesēja veids:</translation>
+        <translation>Vide:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Statuss:</translation>
+        <translation>Statuss:</translation>
     </message>
     <message>
         <source>No connection detected.&lt;br&gt; Check your cable connection and try again!</source>
@@ -37,15 +37,15 @@
     </message>
     <message>
         <source>SSID:</source>
-        <translation type="unfinished">SSID (WLan identifikators):</translation>
+        <translation>SSID:</translation>
     </message>
     <message>
         <source>Connection Strength:</source>
-        <translation type="unfinished">Savienojuma stiprums:</translation>
+        <translation>Savienojuma stiprums:</translation>
     </message>
     <message>
         <source>Connection Speed:</source>
-        <translation type="unfinished">Savienojuma ātrums:</translation>
+        <translation>Savienojuma ātrums:</translation>
     </message>
     <message>
         <source>No wireless connection detected.&lt;br&gt; Double-click to start the wireless configuration wizard.</source>
@@ -53,84 +53,84 @@
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>No Wireless Network Connection</source>
-        <translation type="unfinished">Nav bezvadu tīkla savienojumu</translation>
+        <translation>Nav bezvadu tīkla savienojuma</translation>
     </message>
     <message>
         <source>Click here to configure wireless connections</source>
-        <translation type="unfinished">Klikšķini šeit, lai iestatītu bezvadu savienojumus</translation>
+        <translation>Klikšķiniet šeit, lai iestatītu bezvadu savienojumus</translation>
     </message>
     <message>
         <source>Configure </source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurēt </translation>
     </message>
     <message>
         <source>Start the Network Manager</source>
-        <translation type="unfinished">Palaist Tīkla pārvaldnieku</translation>
+        <translation>Startēt tīkla pārvaldnieku</translation>
     </message>
     <message>
         <source>Restart the Network</source>
-        <translation type="unfinished">Pārstartēt tīklu</translation>
+        <translation>Pārstartēt tīklu</translation>
     </message>
     <message>
         <source>Close the Network Monitor</source>
-        <translation type="unfinished">Aizvērt Tīkla uzraugu</translation>
+        <translation>Aizvērt tīkla pārraugu</translation>
     </message>
 </context>
 <context>
     <name>netKey</name>
     <message>
         <source>Please Enter Network Key</source>
-        <translation type="unfinished">Lūdzu ievadi tīkla atslēgu</translation>
+        <translation>Lūdzu, ievadiet tīkla atslēgu</translation>
     </message>
     <message>
         <source>SSID</source>
-        <translation type="unfinished">SSID (WLan identifikators)</translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Tīkla atslēga</translation>
+        <translation>Tīkla atslēga</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished">Tīkla atslēga (atkārtoti)</translation>
+        <translation>Tīkla atslēga (atkārtoti)</translation>
     </message>
     <message>
         <source>Show network key as text</source>
-        <translation type="unfinished">Parādīt tīkla atslēgu kā tekstu</translation>
+        <translation>Parādīt tīkla atslēgu kā tekstu</translation>
     </message>
     <message>
         <source>Key Type</source>
-        <translation type="unfinished">Atslēgas tips</translation>
+        <translation>Atslēgas tips</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Saglabāt izmaiņas</translation>
+        <translation>Pielietot</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Network Key Error</source>
-        <translation type="unfinished">Tīkla atslēgas kļūme</translation>
+        <translation>Tīkla atslēgas kļūda</translation>
     </message>
     <message>
         <source>Error: The entered network keys do not match!
 </source>
-        <translation type="unfinished">Ķibele: Ievadītās tīkla atslēgas nesakrīt
+        <translation>Kļūda: Ievadītās tīkla atslēgas nesakrīt
 </translation>
     </message>
     <message>
         <source>Hex Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex atslēga</translation>
     </message>
     <message>
         <source>Plain Text (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vienkāršs teksts (noklusējums)</translation>
     </message>
 </context>
 </TS>
