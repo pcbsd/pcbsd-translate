@@ -13,71 +13,71 @@
     </message>
     <message>
         <source>May be used when dual-booting</source>
-        <translation type="unfinished"></translation>
+        <translation>Var tikt lietots startējot vairākas sistēmas</translation>
     </message>
     <message>
         <source>Set BIOS to UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatīt BIOS UTC laika joslu</translation>
     </message>
     <message>
         <source>System Timezone</source>
-        <translation type="unfinished">Sistēmas laika josla</translation>
+        <translation>Sistēmas laika josla</translation>
     </message>
     <message>
         <source>Set the system timezone</source>
-        <translation type="unfinished">Iestatīt sistēmas laika joslu</translation>
+        <translation>Iestatīt sistēmas laika joslu</translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation type="unfinished">Sistēmas resursdators</translation>
+        <translation>Resursdatora nosaukums</translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished">Root [administratora] parole</translation>
+        <translation>Root parole</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parole</translation>
+        <translation>Parole</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished">Parole (atkārtoti)</translation>
+        <translation>Parole (atkārtoti)</translation>
     </message>
     <message>
         <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation type="unfinished">Sistēmas jeb &quot;root&quot; parole atļauj Tev veikt izmaiņas operētājsistēmā un tā jātur drošībā, atstatu no neuzticamiem lietotājiem. </translation>
+        <translation>Sistēmas jeb &quot;root&quot; parole ļauj veikt izmaiņas operētājsistēmā un tā jātur drošībā, atstatu no neuzticamiem lietotājiem. </translation>
     </message>
     <message>
         <source>Create a User</source>
-        <translation type="unfinished">Izveidot lietotāju</translation>
+        <translation>Izveidot lietotāju</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Lietotājvārds</translation>
+        <translation>Lietotājvārds</translation>
     </message>
     <message>
         <source>Connect to a Wireless Network</source>
-        <translation type="unfinished">Pieslēgties bezvadu tīklam</translation>
+        <translation>Pieslēgties bezvadu tīklam</translation>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation type="unfinished">&amp;Pārskenēt</translation>
+        <translation>&amp;Pārskenēt</translation>
     </message>
     <message>
         <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation type="unfinished">Atrasti šādi bezvadu tīkli. Noklikšķini to kuram vēlies pieslēgties. Ja vēlies šo izlaist - klišķini &quot;Nākošais&quot;. </translation>
+        <translation>Atrasti šādi bezvadu tīkli. Noklikšķiniet uz tā, kuram vēlies pieslēgties. Ja vēlaties izlaist - klišķiniet &quot;Nākošais&quot;. </translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
-        <translation type="unfinished">Instalēšana pabeigta! Klikšķini Pabeigt, lai pieteiktos savā jaunajā darbvirsmā.</translation>
+        <translation>Instalēšana pabeigta! Klikšķiniet Pabeigt, lai pieteiktos jaunajā darbvirsmā.</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation type="unfinished">Parādīt palīdzību pašreizējam logam</translation>
+        <translation>Parādīt palīdzību pašreizējam ekrānam</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
@@ -89,23 +89,23 @@
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished">&amp;Atpakaļ</translation>
+        <translation>&amp;Atpakaļ</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished">&amp;Nākošais</translation>
+        <translation>&amp;Nākošais</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation type="unfinished">Lūdzu ievadi resursdatora nosaukumu</translation>
+        <translation>Lūdzu, ievadiet resursdatora nosaukumu</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation type="unfinished">Resursdatora nosaukums drīkst saturēt tikai burtus un ciparus</translation>
+        <translation>Resursdatora nosaukums drīkst saturēt tikai burtus un ciparus</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished">&amp;Pabeigt</translation>
+        <translation>&amp;Pabeigt</translation>
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
@@ -161,54 +161,54 @@
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Testēt</translation>
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvades ierīce:</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testē sējumu:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurēt Audio izvadi</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Piezīme: Audio iestatījumus var labot arī vēlāk caur PC-BSD audio mikseri.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Domēna vārds</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet domēna vārdu</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Domēna vārds var saturēt tikai burtus un ciparus</translation>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Neobligātie servisi</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the system language you wish to use.</source>
-        <translation type="unfinished">Šis logs ļauj Tev izvēlēties sistēmas valodu.</translation>
+        <translation>Šis ekrāns ļauj jums izvēlēties sistēmas valodu, kuru vēlētos lietot.</translation>
     </message>
     <message>
         <source>This screen lets you pick the default timezone for your computer.</source>
-        <translation type="unfinished">Šis logs ļauj Tev izvēlēties noklusēto laika joslu šim datoram.</translation>
+        <translation>Šis ekrāns ļauj jums izvēlēties noklusēto laika joslu šim datoram.</translation>
     </message>
     <message>
         <source>On this screen please enter the root password you wish to use. This password is used for full system access, and should be something secure.</source>
-        <translation type="unfinished">Šajā logā lūdzu ievadi root paroli. Šī parole tiek izmantota pilnai piekļuvei sistēmai un tai ir jābūt drošai.</translation>
+        <translation>Šajā ekrānā, lūdzu, ievadiet root paroli, kuru vēlaties lietot. Šī parole tiek izmantota pilnai sistēmas piekļuvei un tai ir jābūt drošai.</translation>
     </message>
     <message>
         <source>On this screen you will need to create a user to log into your desktop. Additional users may be created in the Control Panel.</source>
@@ -265,37 +265,37 @@
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished">Tīkla atslēga (atkārtoti)</translation>
+        <translation>Tīkla atslēga (atkārtoti)</translation>
     </message>
     <message>
         <source>Show network key as text</source>
-        <translation type="unfinished">Parādīt tīkla atslēgu kā tekstu</translation>
+        <translation>Parādīt tīkla atslēgu kā tekstu</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Apstiprināt izmaiņas</translation>
+        <translation>Pielietot</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Network Key Error</source>
-        <translation type="unfinished">Tīkla atslēgas kļūda</translation>
+        <translation>Tīkla atslēgas kļūda</translation>
     </message>
     <message>
         <source>Error: The entered network keys do not match!
 </source>
-        <translation type="unfinished">Kļūda: ievadītās tīkla atslēgas nesakrīt!
+        <translation>Kļūda: ievadītās tīkla atslēgas nesakrīt!
 </translation>
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Drošības veids:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>TextLabel</translation>
     </message>
 </context>
 <context>
@@ -306,11 +306,11 @@
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished">Taustiņu izkārtojums</translation>
+        <translation>Taustiņu izkārtojums</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished">Variants</translation>
+        <translation>Variants</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
@@ -322,11 +322,11 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Apstiprināt</translation>
+        <translation>&amp;Pielietot</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Aizvērt</translation>
+        <translation>&amp;Aizvērt</translation>
     </message>
 </context>
 </TS>
