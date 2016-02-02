@@ -80,46 +80,46 @@
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede determinar el estado del sistema</translation>
     </message>
 </context>
 <context>
     <name>TrayUI</name>
     <message>
         <source>Start the Update Manager</source>
-        <translation type="unfinished">Iniciar el gestor de actualizaciones</translation>
+        <translation>Iniciar el Administrador de Actualizaciones</translation>
     </message>
     <message>
         <source>Start the AppCafe</source>
-        <translation type="unfinished">Iniciarl AppCafe</translation>
+        <translation>Iniciar AppCafe</translation>
     </message>
     <message>
         <source>Run At Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar en el Inicio</translation>
     </message>
     <message>
         <source>Display Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Notificaciones</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished">Salir</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar Actualizaciones</translation>
     </message>
     <message>
         <source>Check Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar Jaulas</translation>
     </message>
     <message>
         <source>Auto-Update: Everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar Automáticamente: Todo</translation>
     </message>
     <message>
         <source>Auto-Update: Security Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizar Automáticamente: Solo Seguridad</translation>
     </message>
     <message>
         <source>Auto-Update: Packages Only</source>
@@ -159,19 +159,19 @@
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aún mientras use Tor es posible que su identidad se filtre. Por favor lea a través de las FAQ de Tor para información sobre qué es Tor y cómo usarlo de forma segura.</translation>
     </message>
     <message>
         <source>Tor FAQ: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>FAQ de Tor: %1</translation>
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Después de habilitar Tor, puede tomar alrededor de un minuto para conectarse a la red de Tor</translation>
     </message>
     <message>
         <source>Enable Tor?</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar Tor?</translation>
     </message>
 </context>
 </TS>
