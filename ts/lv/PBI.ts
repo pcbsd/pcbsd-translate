@@ -5,11 +5,11 @@
     <name>PBI</name>
     <message>
         <source>PBI Installer</source>
-        <translation type="unfinished">PBI instalators</translation>
+        <translation>PBI instalētājs</translation>
     </message>
     <message>
         <source>Preparing to install PROGNAME</source>
-        <translation type="unfinished">Gatavojos instalēt PROGNAME</translation>
+        <translation>Gatavojas instalēt PROGNAME</translation>
     </message>
     <message>
         <source>Vendor: </source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>URL: </source>
-        <translation type="unfinished">URL: </translation>
+        <translation>URL: </translation>
     </message>
     <message>
         <source>&lt;Author&gt;</source>
@@ -29,15 +29,15 @@
     </message>
     <message>
         <source>Valid Digital Signature</source>
-        <translation type="unfinished">Derīgs ciparparaksts</translation>
+        <translation>Derīgs ciparparaksts</translation>
     </message>
     <message>
         <source>I Agree</source>
-        <translation type="unfinished">Es piekrītu</translation>
+        <translation>Es piekrītu</translation>
     </message>
     <message>
         <source>The program is now being installed. This may take a few moments.</source>
-        <translation type="unfinished">Programma tiek instalēta. Tas prasīs kādu laiku.</translation>
+        <translation>Programma tiek instalēta. Tas var prasīt dažus mirkļus.</translation>
     </message>
     <message>
         <source>&lt;Status&gt;</source>
@@ -53,35 +53,35 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Ķibele!</translation>
+        <translation>Kļūda!</translation>
     </message>
     <message>
         <source>Cannot locate PBI file:</source>
-        <translation type="unfinished">Nespēju uziet PBI failu:</translation>
+        <translation>Nevar atrast PBI failu:</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Brīdinājums!</translation>
+        <translation>Brīdinājums!</translation>
     </message>
     <message>
         <source>The program</source>
-        <translation type="unfinished">Programma</translation>
+        <translation>Programma</translation>
     </message>
     <message>
         <source>is already installed. Overwrite it?</source>
-        <translation type="unfinished">jau ir instalēta iepriekš. Vai to pārrakstīt?</translation>
+        <translation>jau ir instalēta. Vai pārrakstīt?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Error while running pbi_add!</source>
-        <translation type="unfinished">Ķibele pbi_add darbināšanas procesā!</translation>
+        <translation>Kļūda, darbinot pbi_add!</translation>
     </message>
     <message>
         <source>Error, This application must be installed as root!</source>
@@ -93,51 +93,51 @@
     </message>
     <message>
         <source>Click Next to begin the installation.</source>
-        <translation type="unfinished">Instalācijas procesa uzsākšanai spied [Nākošais].</translation>
+        <translation>Klikšķiniet uz Nākošais, lai sāktu instalēšanu.</translation>
     </message>
     <message>
         <source>The pbi_add command returned an error, the source file may be corrupt or invalid.</source>
-        <translation type="unfinished">Komanda pbi_add atgrieza kļūmi, tā kā var gadīties, ka izejas fails ir korumpēts vai citādi neģeld.</translation>
+        <translation>Pbi_add komanda atgrieza kļūdu, kas var gadīties, ja avota fails ir bojāts vai nederīgs.</translation>
     </message>
     <message>
         <source>Installation Finished!</source>
-        <translation type="unfinished">Instalēšana pabeigta!</translation>
+        <translation>Instalēšana pabeigta!</translation>
     </message>
     <message>
         <source>Creating menu icons and links...</source>
-        <translation type="unfinished">Veidoju izvēlnes ikonas un saites...</translation>
+        <translation>Veido izvēlnes ikonas un saites...</translation>
     </message>
     <message>
         <source>Merging Files...</source>
-        <translation type="unfinished">Apvienoju failus...</translation>
+        <translation>Apvieno failus...</translation>
     </message>
     <message>
         <source>Registering installation and cleanup...</source>
-        <translation type="unfinished">Reģistrēju instalāciju un veicu uzkopšanas darbus</translation>
+        <translation>Reģistrē instalāciju un veic uzkopšanas darbus...</translation>
     </message>
     <message>
         <source>Preparing to install...</source>
-        <translation type="unfinished">Briestu instalēšanai...</translation>
+        <translation>Gatavojas instalēt...</translation>
     </message>
     <message>
         <source>Cancel Confirmation</source>
-        <translation type="unfinished">Atcelt apstiprinājumu</translation>
+        <translation>Atcelt apstiprinājumu</translation>
     </message>
     <message>
         <source>Are you sure you wish to cancel?</source>
-        <translation type="unfinished">Vai patiešām vēlies atcelt?</translation>
+        <translation>Vai tiešām vēlaties atcelt?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished">Jā</translation>
+        <translation>Jā</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished">Nē</translation>
+        <translation>Nē</translation>
     </message>
     <message>
         <source>No digital signature</source>
-        <translation type="unfinished">Nav ciparparaksta</translation>
+        <translation>Nav ciparparaksta</translation>
     </message>
     <message>
         <source>This application has no digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
@@ -145,7 +145,7 @@
     </message>
     <message>
         <source>Invalid digital signature</source>
-        <translation type="unfinished">Nederīgs ciparparaksts</translation>
+        <translation>Nederīgs ciparparaksts</translation>
     </message>
     <message>
         <source>This application has a bad or unknown digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>

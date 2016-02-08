@@ -13,98 +13,98 @@
     </message>
     <message>
         <source>SDIR</source>
-        <translation type="unfinished">SDIR</translation>
+        <translation>SDIR</translation>
     </message>
     <message>
         <source>TAG</source>
-        <translation type="unfinished">TAG</translation>
+        <translation>TAG</translation>
     </message>
     <message>
         <source>Service Name</source>
-        <translation type="unfinished">Pakalpojuma nosaukums</translation>
+        <translation>Pakalpojuma nosaukums</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished">Darbojas</translation>
+        <translation>Darbojas</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Iespējots{ieslēgts}</translation>
+        <translation>Iespējots</translation>
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished">&amp;Startēt</translation>
+        <translation>&amp;Startēt</translation>
     </message>
     <message>
         <source>&amp;Restart</source>
-        <translation type="unfinished">&amp;Restartēt</translation>
+        <translation>&amp;Restartēt</translation>
     </message>
     <message>
         <source>&amp;Enable Service</source>
-        <translation type="unfinished">I&amp;espējot pakalpojumu</translation>
+        <translation>I&amp;espējot pakalpojumu</translation>
     </message>
     <message>
         <source>&amp;Disable Service</source>
-        <translation type="unfinished">A&amp;tspējot pakalpojumu</translation>
+        <translation>Atspējot pakalpojumu [&amp;D]</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished">&amp;Apturēt</translation>
+        <translation>Apturēt [&amp;S]</translation>
     </message>
     <message>
         <source>Managing services for Warden Jail:</source>
-        <translation type="unfinished">Izolatoru Sarga (Warden Jail) pakalpojumu vadība:</translation>
+        <translation>Warden Jail pakalpojumu vadība:</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished">Pārbaudu...</translation>
+        <translation>Pārbauda...</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Atspējots{atslēgts}</translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation type="unfinished">Apturēts</translation>
+        <translation>Apturēts</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Aizvērt</translation>
+        <translation>Aizvērt</translation>
     </message>
 </context>
 <context>
     <name>progressUI</name>
     <message>
         <source>Service</source>
-        <translation type="unfinished">Pakalpojums</translation>
+        <translation>Pakalpojums</translation>
     </message>
     <message>
         <source>Service Action in progress...</source>
-        <translation type="unfinished">Pakalpojums darbībā...</translation>
+        <translation>Pakalpojums darbībā...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Atcelt</translation>
+        <translation>At&amp;celt</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished">Neizdevās</translation>
+        <translation>Neizdevās</translation>
     </message>
     <message>
         <source>The specified command failed.</source>
-        <translation type="unfinished">Norādītā komanda neizdevās.</translation>
+        <translation>Norādītā komanda neizdevās.</translation>
     </message>
     <message>
         <source>Finished</source>
-        <translation type="unfinished">Pabeigts</translation>
+        <translation>Pabeigts</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Aizvērt</translation>
+        <translation>Aizvērt</translation>
     </message>
 </context>
 </TS>

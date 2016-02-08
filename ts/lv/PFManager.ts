@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>MainDialog</name>
     <message>
         <source>Firewall Manager</source>
-        <translation type="unfinished">Ugunsmūra pārvaldnieks</translation>
+        <translation>Ugunsmūra pārvaldnieks</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Vispārējais</translation>
+        <translation>Vispārējs</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Konfigurācija</translation>
+        <translation>Konfigurācija</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
-        <translation type="unfinished">Atgūt noklusēto konfigu&amp;rāciju</translation>
+        <translation>Atjaunot noklusēto konfigu&amp;rāciju</translation>
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished">Ugunsmūris</translation>
+        <translation>Ugunsmūris</translation>
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished">&amp;Startēt</translation>
+        <translation>&amp;Startēt</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished">A&amp;pturēt</translation>
+        <translation>A&amp;pturēt</translation>
     </message>
     <message>
         <source>Re&amp;start</source>
-        <translation type="unfinished">Re&amp;startēt</translation>
+        <translation>Re&amp;startēt</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished">Vispārējie iestatījumi</translation>
+        <translation>Vispārējie iestatījumi</translation>
     </message>
     <message>
         <source>Enable Firewall on startup</source>
-        <translation type="unfinished">Iespējot ugunsmūri startēšanā</translation>
+        <translation>Iespējot ugunsmūri startēšanas brīdī</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished">Ports</translation>
+        <translation>Ports</translation>
     </message>
     <message>
         <source>Open Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērtie porti</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips</translation>
     </message>
     <message>
         <source>Close Selected Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt atlasītos portus</translation>
     </message>
     <message>
         <source>Open Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērts ports</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt</translation>
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Piezīme: Šie iestatījumi tiek lietoti tikai tad, kad sistēma netiek maršrutēta caur Tor</translation>
     </message>
 </context>
 <context>
@@ -77,36 +77,36 @@
     <message>
         <source>This will turn off the firewall completely.
 Are you sure?</source>
-        <translation type="unfinished">Šis pilnībā atslēgs ugunsmūri.
-Vai tiešām to vēlies?</translation>
+        <translation>Šis pilnībā atslēgs ugunsmūri.
+Vai tiešām to vēlaties?</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Jautājums</translation>
+        <translation>Jautājums</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Izdevās</translation>
+        <translation>Izdevās</translation>
     </message>
     <message>
         <source>Restarted successfuly!</source>
-        <translation type="unfinished">Veiksmīgi restartēts!</translation>
+        <translation>Veiksmīgi restartēts!</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Neveiksme</translation>
+        <translation>Neveiksme</translation>
     </message>
     <message>
         <source>Failed to restart!</source>
-        <translation type="unfinished">Neizdevās restartēt!</translation>
+        <translation>Neizdevās restartēt!</translation>
     </message>
     <message>
         <source>Restored.</source>
-        <translation type="unfinished">Atgūts.</translation>
+        <translation>Atjaunots.</translation>
     </message>
     <message>
         <source>Config file successfuly restored.</source>
-        <translation type="unfinished">Konfigurācijas fails veiksmīgi atgūts.</translation>
+        <translation>Konfigurācijas fails veiksmīgi atjaunots.</translation>
     </message>
 </context>
 </TS>
