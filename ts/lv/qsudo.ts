@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>MainWindow</name>
     <message>
         <source>Requesting System Permissions</source>
-        <translation type="unfinished">Pieprasa root tiesības</translation>
+        <translation>Pieprasa sistēmas tiesības</translation>
     </message>
     <message>
         <source>Please enter your user password to run this command with system permissions</source>
-        <translation type="unfinished">Lūdzu ievadi savu lietotāja paroli, lai palaistu šo komandu ar root tiesībām</translation>
+        <translation>Lūdzu, ievadiet savu lietotāja paroli, lai izpildītu šo komandu ar sistēmas tiesībām</translation>
     </message>
     <message>
         <source>Toggle command details</source>
-        <translation type="unfinished">Pārslēgt komandas opcijas</translation>
+        <translation>Pārslēgt komandas detaļas</translation>
     </message>
     <message>
         <source>Access Denied</source>
-        <translation type="unfinished">Pieeja liegta</translation>
+        <translation>Pieeja liegta</translation>
     </message>
     <message>
         <source>This user does not have administrator permissions on this system!</source>
-        <translation type="unfinished">Šim lietotājam nav administratora statusa!</translation>
+        <translation>Šim lietotājam nav administratora tiesību šajā sistēmā!</translation>
     </message>
     <message>
         <source>Invalid Password! Tries Left: %1</source>
-        <translation type="unfinished">Nepareiza parole! Atlikuši %1 mēģinājumi.</translation>
+        <translation>Nederīga parole! Atlikušie mēģinājumi: %1</translation>
     </message>
 </context>
 </TS>

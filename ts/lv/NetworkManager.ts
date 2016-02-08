@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>System Hostname</source>
-        <translation>Sistēmas vārds</translation>
+        <translation>Sistēmas resursdatora nosaukums</translation>
     </message>
     <message>
         <source>Enable Custom DNS</source>
@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished">Starpniekserveris</translation>
+        <translation>Starpniekserveris</translation>
     </message>
     <message>
         <source>Proxy Configuration</source>
@@ -240,31 +240,31 @@
     </message>
     <message>
         <source>Invalid Gateway specified</source>
-        <translation type="unfinished">Norādīta nepareiza vārteja</translation>
+        <translation>Norādīta nederīga vārteja</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation type="unfinished">Lūdzu ievadi resursdatora nosaukumu</translation>
+        <translation>Lūdzu, ievadiet resursdatora nosaukumu</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation type="unfinished">Resursdatora nosaukums var saturēt tikai burtus un ciparus</translation>
+        <translation>Resursdatora nosaukums var saturēt tikai burtus un ciparus</translation>
     </message>
     <message>
         <source>Computer Restart Required</source>
-        <translation type="unfinished">Nepieciešams datora restarts</translation>
+        <translation>Nepieciešams restartēt datoru</translation>
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname</source>
-        <translation type="unfinished">Tev jārestartē dators, lai noslēgtu resursdatora nosaukuma maiņas procedūru</translation>
+        <translation>Nepieciešams restartēt datoru, lai pabeigtu resursdatora nosaukuma maiņu</translation>
     </message>
     <message>
         <source>Proxy enabled</source>
-        <translation type="unfinished">Starpserveris iespējots</translation>
+        <translation>Starpniekserveris iespējots</translation>
     </message>
     <message>
         <source>You may need to re-login for proxy settings to take effect.</source>
-        <translation type="unfinished">Lai starpservera iestatījumi stātos spēkā, Tev var nākties pieteikties sistēmā no jauna.</translation>
+        <translation>Var būt nepieciešams atkārtoti pieteikties sistēmā, lai starpniekservera iestatījumi stātos spēkā.</translation>
     </message>
     <message>
         <source>Domain Name</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname, and domain name</source>
-        <translation>Jums nepieciešams pārstartēt datoru, lai pabeigtu sistēmas un domēna vārda maiņu</translation>
+        <translation>Jums nepieciešams pārstartēt datoru, lai pabeigtu resursdatora un domēna vārda maiņu</translation>
     </message>
     <message>
         <source>IPv4 Address:</source>
