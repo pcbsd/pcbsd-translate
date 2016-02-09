@@ -5,27 +5,27 @@
     <name>CMDDialog</name>
     <message>
         <source>CMD Output</source>
-        <translation type="unfinished">CMD izpildes rezultāts</translation>
+        <translation>CMD izvade</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished">&amp;Stopēt</translation>
+        <translation>Apturēt [&amp;S]</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">Klapēt &amp;ciet</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Getting PC-BSD Ports Tree</source>
-        <translation type="unfinished">Iegūstu PC-BSD portu koku</translation>
+        <translation>Iegūst PC-BSD portu koku</translation>
     </message>
     <message>
         <source>Getting PC-BSD Sources</source>
-        <translation type="unfinished">Iegūstu PC-BSD avotus</translation>
+        <translation>Iegūst PC-BSD pirmkodu</translation>
     </message>
     <message>
         <source>Process Running</source>
-        <translation type="unfinished">Process ir darbībā</translation>
+        <translation>Process darbojas</translation>
     </message>
     <message>
         <source>Please stop the current process before closing this window.</source>

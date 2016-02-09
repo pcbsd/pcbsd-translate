@@ -5,39 +5,39 @@
     <name>MainWindow</name>
     <message>
         <source>Login Manager Settings</source>
-        <translation type="unfinished">Pieteikšanās pārvaldnieka iestatījumi</translation>
+        <translation>Pieteikšanās pārvaldnieka iestatījumi</translation>
     </message>
     <message>
         <source>Auto login</source>
-        <translation type="unfinished">Automātiska pieteikšanās</translation>
+        <translation>Automātiska pieteikšanās</translation>
     </message>
     <message>
         <source> Seconds</source>
-        <translation type="unfinished"> sekundes</translation>
+        <translation> sekundes</translation>
     </message>
     <message>
         <source>Time Delay</source>
-        <translation type="unfinished">Laika nobīde</translation>
+        <translation>Laika aizture</translation>
     </message>
     <message>
         <source>Enable auto login</source>
-        <translation type="unfinished">Ieslēgt automātisko pieteikšanos</translation>
+        <translation>Iespējot automātisko pieteikšanos</translation>
     </message>
     <message>
         <source>Auto login user</source>
-        <translation type="unfinished">Automātiskās pieteikšanās lietotājs</translation>
+        <translation>Automātiskās pieteikšanās lietotājs</translation>
     </message>
     <message>
         <source>Remote login</source>
-        <translation type="unfinished">Attālinātā pieteikšanās</translation>
+        <translation>Attālā pieteikšanās</translation>
     </message>
     <message>
         <source>Enable Remote Desktop (VNC)</source>
-        <translation type="unfinished">Ieslēgt attālināto darbvirsmu (VNC)</translation>
+        <translation>Iespējot attālo darbvirsmu (VNC)</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Dažādi</translation>
+        <translation>Dažādi</translation>
     </message>
     <message>
         <source>Enable &quot;show password&quot; button</source>
@@ -45,62 +45,62 @@
     </message>
     <message>
         <source>Display available users</source>
-        <translation type="unfinished">Atainot pieejamos lietotājus</translation>
+        <translation>Parādīt pieejamos lietotājus</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Pielietot</translation>
+        <translation>Pielietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">Klapēt &amp;ciet</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Missing Config File</source>
-        <translation type="unfinished">Nu ļoti pietrūkst konfigurācijas faila</translation>
+        <translation>Pietrūkst konfigurācijas fails</translation>
     </message>
     <message>
         <source>The PCDM configuration file could not be found: %1</source>
-        <translation type="unfinished">Nespēju sameklēt ekrāna pārvaldnieka PCDM iestatījumu/konfigurācijas failu: %1</translation>
+        <translation>PCDM konfigurācijas fails nav atrodams: %1</translation>
     </message>
     <message>
         <source>This application will now close</source>
-        <translation type="unfinished">Šī aplikācija visiem saka atā un tūlīt aizvērsies</translation>
+        <translation>Tagad šī lietojumprogramma aizvērsies</translation>
     </message>
     <message>
         <source>Password Request</source>
-        <translation type="unfinished">Paroles pieprasījums</translation>
+        <translation>Paroles pieprasījums</translation>
     </message>
     <message>
         <source>Please enter the login password for this user</source>
-        <translation type="unfinished">Lūdzu ievadiet pieteikšanās paroli šim lietotājam</translation>
+        <translation>Lūdzu, ievadiet pieteikšanās paroli šim lietotājam</translation>
     </message>
     <message>
         <source>Please enter the remote login password</source>
-        <translation type="unfinished">Lūdzu ievadiet attālinātās pieslēgšanās paroli</translation>
+        <translation>Lūdzu, ievadiet attālās pieslēgšanās paroli</translation>
     </message>
     <message>
         <source>Allow Stealth Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļaut slēptās sesijas</translation>
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļaut derīgus lietotājus ar UID mazāku par 1000</translation>
     </message>
     <message>
         <source>Additional Excluded Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Papildu izslēgtie lietotāji</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>You should run this application as root</source>
-        <translation type="unfinished"></translation>
+        <translation>Jums vajadzētu šo lietojumprogrammu palaist kā root lietotājam</translation>
     </message>
 </context>
 </TS>
