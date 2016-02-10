@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>APSetupDialog</name>
     <message>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Izdarīt izmaiņas</translation>
+        <translation>Piemērot</translation>
     </message>
     <message>
         <source>Wireless Device: %1</source>
@@ -212,47 +212,47 @@
     <name>dialogInfoBox</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogs</translation>
+        <translation>Dialogs</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Aizvērt</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
 </context>
 <context>
     <name>dialogMetaProgress</name>
     <message>
         <source>System-Packages</source>
-        <translation type="unfinished">Sistēmas-pakotnes</translation>
+        <translation>Sistēmas-pakotnes</translation>
     </message>
     <message>
         <source>Total Progress</source>
-        <translation type="unfinished">Kopējais progress</translation>
+        <translation>Kopējais progress</translation>
     </message>
     <message>
         <source>Update Progress</source>
-        <translation type="unfinished">Aktualizēšanas progress</translation>
+        <translation>Atjaunināšanas progress</translation>
     </message>
     <message>
         <source>Meta-Package Changes</source>
-        <translation type="unfinished">Meta-pakotņu izmaiņas</translation>
+        <translation>Meta-pakotņu izmaiņas</translation>
     </message>
     <message>
         <source>Warning: Packages are still being modifed!
 If you cancel now the packages may be corrupted. Cancel anyway?</source>
-        <translation type="unfinished">Uzmanību: Pakotnes joprojām tiek mainītas!
-Ja process tagad tiks atcelts - pakotnes var tikt sabojātas. Vienalga atcelt?</translation>
+        <translation>Uzmanību: Pakotnes joprojām tiek mainītas!
+Ja process tagad tiks atcelts, pakotnes var tikt sabojātas. Vai tomēr atcelt?</translation>
     </message>
 </context>
 <context>
     <name>dialogWPAEnterprise</name>
     <message>
         <source>WPA-Enterprise Configuration</source>
-        <translation type="unfinished">WPA-Enterprise konfigurācija</translation>
+        <translation>WPA-Enterprise konfigurācija</translation>
     </message>
     <message>
         <source>WPA Enterprise Configuration</source>
-        <translation type="unfinished">WPA Enterprise konfigurācija</translation>
+        <translation>WPA Enterprise konfigurācija</translation>
     </message>
     <message>
         <source>EAP authentication method</source>
