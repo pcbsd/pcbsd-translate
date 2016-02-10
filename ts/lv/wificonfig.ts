@@ -5,93 +5,93 @@
     <name>dialogWPAPersonal</name>
     <message>
         <source>WPA Personal Config</source>
-        <translation type="unfinished">WPA personiskā konfigurācija</translation>
+        <translation>WPA Personal konfigurācija</translation>
     </message>
     <message>
         <source>WPA Personal Configuration</source>
-        <translation type="unfinished">WPA personīgā konfigurācija</translation>
+        <translation>WPA Personal konfigurācija</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Tīkla atslēga</translation>
+        <translation>Tīkla atslēga</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla atslēga (atkārtoti)</translation>
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Parādīt atslēgu</translation>
+        <translation>Parādīt atslēgu</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">Ai&amp;zvērt</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>wepConfig</name>
     <message>
         <source>WEP Configuration</source>
-        <translation type="unfinished">WEP konfigurācija</translation>
+        <translation>WEP konfigurācija</translation>
     </message>
     <message>
         <source>Wireless Network Key</source>
-        <translation type="unfinished">Bezvadu tīkla atslēga</translation>
+        <translation>Bezvadu tīkla atslēga</translation>
     </message>
     <message>
         <source>Hex Key</source>
-        <translation type="unfinished">Hex atslēga</translation>
+        <translation>Hex atslēga</translation>
     </message>
     <message>
         <source>Plaintext</source>
-        <translation type="unfinished">Vienkāršs teksts</translation>
+        <translation>Vienkāršs teksts</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Tīkla atslēga</translation>
+        <translation>Tīkla atslēga</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla atslēga (atkārtoti)</translation>
     </message>
     <message>
         <source>Key Index</source>
-        <translation type="unfinished">Atslēgas indekss</translation>
+        <translation>Atslēgas indekss</translation>
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Parādīt atslēgu</translation>
+        <translation>Parādīt atslēgu</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">Ai&amp;zvērt</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>wificonfigwidgetbase</name>
     <message>
         <source>Wireless Configuration</source>
-        <translation type="unfinished">Bezvadu konfigurācija</translation>
+        <translation>Bezvadu tīkla konfigurācija</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Aizvērt:</translation>
+        <translation>Aizvērt</translation>
     </message>
     <message>
         <source>Disable this wireless device</source>
-        <translation type="unfinished">Atslēgt šo bezvadu ierīci</translation>
+        <translation>Atspējot šo bezvadu ierīci</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Piemērot</translation>
+        <translation>Pielietot [&amp;A]</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -99,195 +99,195 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">La&amp;bi</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+B</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished">&amp;Vispārīgais</translation>
+        <translation>Vispārī&amp;gi</translation>
     </message>
     <message>
         <source>(Higher connections are given priority)</source>
-        <translation type="unfinished">(Augstākiem pielsēgumiem tiks dota priekšroka)</translation>
+        <translation>(Augstākiem savienojumiem tiek dota priekšroka)</translation>
     </message>
     <message>
         <source>Configured Network Profiles</source>
-        <translation type="unfinished">Iestatīto tīklu profili</translation>
+        <translation>Konfigurētie tīklu profili</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Rediģēt</translation>
+        <translation>Rediģēt</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>Noņemt</translation>
     </message>
     <message>
         <source>Available Wireless Networks</source>
-        <translation type="unfinished">Piejamie bezvadu tīkli</translation>
+        <translation>Piejamie bezvadu tīkli</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Skenēt</translation>
+        <translation>Skenēt</translation>
     </message>
     <message>
         <source>Add Selected</source>
-        <translation type="unfinished">Pievienot atzīmēto</translation>
+        <translation>Pievienot atlasīto</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+M</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Add Hidden</source>
-        <translation type="unfinished">Pievienot slēpto</translation>
+        <translation>Pievienot slēpto</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished">Papildus</translation>
+        <translation>Detalizēti</translation>
     </message>
     <message>
         <source>Use hardware defau&amp;lt MAC address</source>
-        <translation type="unfinished">Izmantot a&amp;paratūras noklusēto MAC adresi</translation>
+        <translation>Izmantot aparatūras nok&amp;lusēto MAC adresi</translation>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Custom MAC address</source>
-        <translation type="unfinished">Pielāgota MAC adrese</translation>
+        <translation>Pielāgota MAC adrese</translation>
     </message>
     <message>
         <source>O&amp;btain IP automatically (DHCP)</source>
-        <translation type="unfinished">&amp;Iegūt IP automātiski (DHCP)</translation>
+        <translation>Iegūt IP automātiski (DHCP) [&amp;B]</translation>
     </message>
     <message>
         <source>Alt+B</source>
-        <translation type="unfinished">Alt+I</translation>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <source>Assign static IP address</source>
-        <translation type="unfinished">Piešķirt statisku IP adresi</translation>
+        <translation>Piešķirt statisku IP adresi</translation>
     </message>
     <message>
         <source>IP:</source>
-        <translation type="unfinished">IP:</translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished">Tīkla maska:</translation>
+        <translation>Tīkla maska:</translation>
     </message>
     <message>
         <source>Set Country Code</source>
-        <translation type="unfinished">Iestatīt valsts kodu</translation>
+        <translation>Iestatīt valsts kodu</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Informācija</translation>
+        <translation>Informācija</translation>
     </message>
     <message>
         <source>Configuration info</source>
-        <translation type="unfinished">Konfigurācijas informācija</translation>
+        <translation>Konfigurācijas informācija</translation>
     </message>
     <message>
         <source>Mac/Ether:</source>
-        <translation type="unfinished">Mac/Ether</translation>
+        <translation>Mac/Ether:</translation>
     </message>
     <message>
         <source>Gateway:</source>
-        <translation type="unfinished">Vārteja:</translation>
+        <translation>Vārteja:</translation>
     </message>
     <message>
         <source>IPv6:</source>
-        <translation type="unfinished">IPv6</translation>
+        <translation>IPv6:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Statuss:</translation>
+        <translation>Statuss:</translation>
     </message>
     <message>
         <source>Media:</source>
-        <translation type="unfinished">Mēdija:</translation>
+        <translation>Vide:</translation>
     </message>
     <message>
         <source>Traffic info</source>
-        <translation type="unfinished">Tīkla aktivitātes informācija</translation>
+        <translation>Tīkla aktivitātes informācija</translation>
     </message>
     <message>
         <source>Packets:</source>
-        <translation type="unfinished">Pakas:</translation>
+        <translation>Paketes:</translation>
     </message>
     <message>
         <source>Errors:</source>
-        <translation type="unfinished">Kļūmes:</translation>
+        <translation>Kļūdas:</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation type="unfinished">Iekšā:</translation>
+        <translation>Ienākošas:</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation type="unfinished">Ārā:</translation>
+        <translation>Izejošas:</translation>
     </message>
     <message>
         <source>Missing Fields</source>
-        <translation type="unfinished">Trūkstošie lauki</translation>
+        <translation>Trūkstošie lauki</translation>
     </message>
     <message>
         <source>You must enter an IP and Netmask to continue!
 </source>
-        <translation type="unfinished">Lai turpinātu, Tev jāievada IP adrese un tīkla maska!
+        <translation>Lai turpinātu, Jums jāievada IP adrese un tīkla maska!
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Brīdinājums</translation>
+        <translation>Brīdinājums</translation>
     </message>
     <message>
         <source>IP Address is out of range! (</source>
-        <translation type="unfinished">IP adrese pārsniedz robežas! (</translation>
+        <translation>IP adrese pārsniedz robežas! (</translation>
     </message>
     <message>
         <source>) Fields must be between 0-255.</source>
-        <translation type="unfinished">) Vērtībām laukos ir jābūt 0-255</translation>
+        <translation>) Vērtībām laukos ir jābūt robežās no 0 līdz 255.</translation>
     </message>
     <message>
         <source>Netmask is out of range! (</source>
-        <translation type="unfinished">Tīkla maska pārsniedz robežas! (</translation>
+        <translation>Tīkla maska pārsniedz robežas! (</translation>
     </message>
     <message>
         <source>Network Name</source>
-        <translation type="unfinished">Tīkla nosaukums</translation>
+        <translation>Tīkla nosaukums</translation>
     </message>
     <message>
         <source>Please enter the name of the network you wish to add</source>
-        <translation type="unfinished">Lūdzu ievadi tīkla nosaukumu, kuru vēlies izveidot</translation>
+        <translation>Lūdzu, ievadiet tīkla nosaukumu, kuru vēlaties pievienot</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ķibele</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>You already have a wireless network with this SSID! Please remove it first.
 </source>
-        <translation type="unfinished">Jau viens bezvadu tīkls ar šo SSID ir! Lūdzu vispirms to noņemt.
+        <translation>Jums jau ir viens bezvadu tīkls ar šādu SSID! Lūdzu, noņemiet vispirms to.
 </translation>
     </message>
     <message>
         <source>Unknown Wireless Device</source>
-        <translation type="unfinished">Nezināma bezvadu ierīce</translation>
+        <translation>Nezināma bezvadu ierīce</translation>
     </message>
     <message>
         <source>Add &amp;network</source>
-        <translation type="unfinished">Pievie&amp;not tīklu</translation>
+        <translation>Pievie&amp;not tīklu</translation>
     </message>
     <message>
         <source>WPA Configuration</source>
-        <translation type="unfinished">WPA konfigurācija</translation>
+        <translation>WPA konfigurācija</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
@@ -298,15 +298,15 @@
     <name>wifiscanssid</name>
     <message>
         <source>Scan for Wireless networks</source>
-        <translation type="unfinished">Skenēt bezvadu tīklus</translation>
+        <translation>Skenēt bezvadu tīklus</translation>
     </message>
     <message>
         <source>Available wireless networks</source>
-        <translation type="unfinished">Pieejamie bezvadu tīkli</translation>
+        <translation>Pieejamie bezvadu tīkli</translation>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation type="unfinished">Skenēt vēl&amp;reiz</translation>
+        <translation>Skenēt vēl&amp;reiz</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -314,36 +314,36 @@
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Atzīmēt(izvēlēties)</translation>
+        <translation>Atlasīt</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Scanning for wireless networks...</source>
-        <translation type="unfinished">Bezvadu tīklu meklēšana...</translation>
+        <translation>Skenē bezvadu tīklus...</translation>
     </message>
     <message>
         <source>Select a wireless network to connect.</source>
-        <translation type="unfinished">Lai pieslēgtos, izvēlies bezvadu tīklu.</translation>
+        <translation>Atlasiet bezvadu tīklu, kuram pievienoties.</translation>
     </message>
     <message>
         <source>No wireless networks found!</source>
-        <translation type="unfinished">Nav atrasti bezvadu tīkli!</translation>
+        <translation>Bezvadu tīkli nav atrasti!</translation>
     </message>
     <message>
         <source>No selection</source>
-        <translation type="unfinished">Neviens nav izvēlēts</translation>
+        <translation>Nav atlasīts</translation>
     </message>
     <message>
         <source>Error: You must select a network to connect!
 </source>
-        <translation type="unfinished">Kļūme: Lai pieslēgtos, ir jāizvēlas tīkls!
+        <translation>Kļūda: Lai pieslēgtos, jums ir jāatlasa tīkls!
 </translation>
     </message>
 </context>
@@ -351,79 +351,79 @@
     <name>wifiselectiondialog</name>
     <message>
         <source>Select Wireless Network</source>
-        <translation type="unfinished">Izvēlies bezvadu tīklu</translation>
+        <translation>Atlasīt bezvadu tīklu</translation>
     </message>
     <message>
         <source>Selected Wireless Network</source>
-        <translation type="unfinished">Izvēlētais bezvadu tīkls</translation>
+        <translation>Atlasītais bezvadu tīkls</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Skenēt</translation>
+        <translation>Skenēt</translation>
     </message>
     <message>
         <source>Using BSSID</source>
-        <translation type="unfinished">Lietojot BSSID</translation>
+        <translation>Lietojot BSSID</translation>
     </message>
     <message>
         <source>Network Security</source>
-        <translation type="unfinished">Tīkla drošība</translation>
+        <translation>Tīkla drošība</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Atspējots</translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <source>WEP</source>
-        <translation type="unfinished">WEP</translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <source>WPA Personal</source>
-        <translation type="unfinished">WPA Personīgais</translation>
+        <translation>WPA Personal</translation>
     </message>
     <message>
         <source>WPA Enterprise</source>
-        <translation type="unfinished">WPA Biznesa</translation>
+        <translation>WPA Enterprise</translation>
     </message>
     <message>
         <source>Configure</source>
-        <translation type="unfinished">Iestatīt</translation>
+        <translation>Konfigurēt</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Pievienot</translation>
+        <translation>Pievienot</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>No SSID!</source>
-        <translation type="unfinished">Nav SSID!</translation>
+        <translation>Nav SSID!</translation>
     </message>
     <message>
         <source>Error: You must select a wireless network to connect!
 </source>
-        <translation type="unfinished">Kļūme: Lai pieslēgtos, Tev jaizvēlas bezvadu tīkls!
+        <translation>Kļūda: Lai pieslēgtos, Jums jāatlasa bezvadu tīkls!
 </translation>
     </message>
     <message>
         <source>Invalid BSSID!</source>
-        <translation type="unfinished">Nederīgs BSSID!</translation>
+        <translation>Nederīgs BSSID!</translation>
     </message>
     <message>
         <source>Error: The specified BSSID appears invalid. It must be in the format xx:xx:xx:xx:xx:xx
 </source>
-        <translation type="unfinished">Kļūme: Norādītais BSSID šķiet nederīgs. Tam jābūt xx:xx:xx:xx:xx:xx formātā.
+        <translation>Kļūda: Norādītais BSSID šķiet nederīgs. Tam jābūt xx:xx:xx:xx:xx:xx formātā
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Brīdinājums</translation>
+        <translation>Brīdinājums</translation>
     </message>
     <message>
         <source>WEP is selected, but not configured!
@@ -463,7 +463,9 @@ Lūdzu, nokonfigurējiet WPA iestatījumus pirms saglabāšanas!</translation>
         <source>WPA-Enterprise is selected, but not configured!
 Please configure your WPA settings before saving!
 Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir atlasīts WPA-Enterprise, bet tas nav konfigurēts!
+Lūdzu, nokonfigurējiet WPA iestatījumus pirms saglabāt!
+Phase2 derīgās vērtības ir: MD5, MSCHAPV2, GTC vai OTP.</translation>
     </message>
 </context>
 </TS>
