@@ -256,59 +256,59 @@ Ja process tagad tiks atcelts, pakotnes var tikt sabojātas. Vai tomēr atcelt?<
     </message>
     <message>
         <source>EAP authentication method</source>
-        <translation type="unfinished">EAP autentifikācijas metode</translation>
+        <translation>EAP autentifikācijas metode</translation>
     </message>
     <message>
         <source>EAP-TLS</source>
-        <translation type="unfinished">EAP-TLS</translation>
+        <translation>EAP-TLS</translation>
     </message>
     <message>
         <source>EAP-TTLS</source>
-        <translation type="unfinished">EAP-TTLS</translation>
+        <translation>EAP-TTLS</translation>
     </message>
     <message>
         <source>EAP-PEAP</source>
-        <translation type="unfinished">EAP-PEAP</translation>
+        <translation>EAP-PEAP</translation>
     </message>
     <message>
         <source>EAP Identity:</source>
-        <translation type="unfinished">EAP identitāte:</translation>
+        <translation>EAP identitāte:</translation>
     </message>
     <message>
         <source>CA Certificate:</source>
-        <translation type="unfinished">CA sertifikāts:</translation>
+        <translation>CA sertifikāts:</translation>
     </message>
     <message>
         <source>Client Certificate:</source>
-        <translation type="unfinished">Klienta sertifikāts:</translation>
+        <translation>Klienta sertifikāts:</translation>
     </message>
     <message>
         <source>Private Key File:</source>
-        <translation type="unfinished">Privātās atslēgas fails:</translation>
+        <translation>Privātās atslēgas fails:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished">Atkārtot paroli:</translation>
+        <translation>Atkārtojiet paroli:</translation>
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Parādīt atslēgu</translation>
+        <translation>Parādīt atslēgu</translation>
     </message>
     <message>
         <source>Key Management</source>
-        <translation type="unfinished">Atslēgu pārvaldība</translation>
+        <translation>Atslēgu pārvaldība</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Aizvērt</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>MD5</source>
@@ -351,47 +351,47 @@ Ja process tagad tiks atcelts, pakotnes var tikt sabojātas. Vai tomēr atcelt?<
     <name>metaWidget</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Izdarīt izmaiņas</translation>
+        <translation>Piemērot</translation>
     </message>
     <message>
         <source>Loading... Please wait...</source>
-        <translation type="unfinished">Ielādē... Lūdzu uzgaidi...</translation>
+        <translation>Notiek ielāde... Lūdzu, uzgaidiet...</translation>
     </message>
     <message>
         <source>Performing system-package changes.</source>
-        <translation type="unfinished">Veic sistēmas-pakotņu izmaiņas.</translation>
+        <translation>Veic sistēmas-pakotņu izmaiņas.</translation>
     </message>
     <message>
         <source>Downloading: %1</source>
-        <translation type="unfinished">Šurplādē: %1</translation>
+        <translation>Lejupielādē: %1</translation>
     </message>
     <message>
         <source>System Packages</source>
-        <translation type="unfinished">Sistēmas pakotnes</translation>
+        <translation>Sistēmas pakotnes</translation>
     </message>
     <message>
         <source>The meta-pkg manager returned an error. For more details please look at the log file:</source>
-        <translation type="unfinished">Meta-pkg pārvaldnieks atgrieza kļūdu. Lai iegūtu plašāku informāciju lūdzu skatiet žurnālfailu:</translation>
+        <translation>Meta-pkg pārvaldnieks atgrieza kļūdu. Lai iegūtu plašāku informāciju, lūdzu, skatiet žurnāla failu:</translation>
     </message>
     <message>
         <source>System packages updated successfully.</source>
-        <translation type="unfinished">Sistēmas pakotnes atjaunotas veiksmīgi.</translation>
+        <translation>Sistēmas pakotnes veiksmīgi atjauninātas.</translation>
     </message>
     <message>
         <source>No Desktop</source>
-        <translation type="unfinished">Nav darbvirsmas</translation>
+        <translation>Nav darbvirsmas</translation>
     </message>
     <message>
         <source>No desktops have been selected! Please choose at least one desktop before saving.</source>
-        <translation type="unfinished">Netika izvēlēta neviena darbvirsma! Pirms saglabāšanas lūdzu izvēlies vismaz vienu darbvirsmu.</translation>
+        <translation>Netika atlasīta neviena darbvirsma! Pirms saglabāšanas, lūdzu, izvēlieties vismaz vienu darbvirsmu.</translation>
     </message>
     <message>
         <source>View Packages</source>
-        <translation type="unfinished">Apskatīt pakotnes</translation>
+        <translation>Apskatīt pakotnes</translation>
     </message>
     <message>
         <source>Package Listing for:</source>
-        <translation type="unfinished">Pakotņu saraksts priekš:</translation>
+        <translation>Pakotnes saraksts priekš:</translation>
     </message>
 </context>
 </TS>
