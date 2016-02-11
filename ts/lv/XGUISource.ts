@@ -94,7 +94,7 @@ Vai paturēt šos iestatījumus?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Piemērot</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Skip</source>

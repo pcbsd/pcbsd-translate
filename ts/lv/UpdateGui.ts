@@ -155,7 +155,7 @@ Lūdzu, atjauniniet Jūsu sistēmu</translation>
     </message>
     <message>
         <source>Will install new FreeBSD version, apply security fixes, and update packages.</source>
-        <translation>Uzstādīs jaunu FreeBSD versiju, piemēros drošības labojumus un atjauninās pakotnes.</translation>
+        <translation>Uzstādīs jaunu FreeBSD versiju, pielietos drošības labojumus un atjauninās pakotnes.</translation>
     </message>
     <message>
         <source>Install Security &amp; Package Updates</source>

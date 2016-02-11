@@ -5,7 +5,7 @@
     <name>DeviceWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Open the disk tray</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Mount</source>
-        <translation type="unfinished">Piemontēt</translation>
+        <translation>Montēt</translation>
     </message>
     <message>
         <source>Device Mounted</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Device Busy</source>
-        <translation type="unfinished">Ierīci aizņemta</translation>
+        <translation>Ierīce aizņemta</translation>
     </message>
     <message>
         <source>The device appears to be busy. Do you want to forcibly unmount the device?</source>
@@ -80,27 +80,27 @@
     <name>FSDialog</name>
     <message>
         <source>System Disk Capacity</source>
-        <translation type="unfinished">Sistēmas diska ietilpība</translation>
+        <translation>Sistēmas diska ietilpība</translation>
     </message>
     <message>
         <source>Mount Point</source>
-        <translation type="unfinished">Montēšanas punkts</translation>
+        <translation>Montēšanas punkts</translation>
     </message>
     <message>
         <source>Filesystem</source>
-        <translation type="unfinished">Failsistēma</translation>
+        <translation>Failu sistēma</translation>
     </message>
     <message>
         <source>Used/Total</source>
-        <translation type="unfinished">Izmantots|Kopā</translation>
+        <translation>Izmantots|Kopā</translation>
     </message>
     <message>
         <source>Percent %</source>
-        <translation type="unfinished">Procenti %</translation>
+        <translation>Procenti %</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Aizvērt</translation>
+        <translation>Aizvērt</translation>
     </message>
 </context>
 <context>
@@ -114,27 +114,27 @@
     <name>MountTray</name>
     <message>
         <source>More Options</source>
-        <translation type="unfinished">Vairāk opciju</translation>
+        <translation>Vairāk opciju</translation>
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation type="unfinished">Skatīt diska lietojumu</translation>
+        <translation>Skatīt diska lietojumu</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
-        <translation type="unfinished">Atkārtoti noskenēt ierīces</translation>
+        <translation>Atkārtoti skenēt ierīces</translation>
     </message>
     <message>
         <source>Load ISO File</source>
-        <translation type="unfinished">Iekraut ISO failu</translation>
+        <translation>Ielādēt ISO failu</translation>
     </message>
     <message>
         <source>Change Settings</source>
-        <translation type="unfinished">Rediģēt iestatījumus</translation>
+        <translation>Mainīt iestatījumus</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished">Aizvērt atvilkni</translation>
+        <translation>Aizvērt paliktni</translation>
     </message>
     <message>
         <source>Please Wait</source>
@@ -142,15 +142,15 @@
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>
-        <translation type="unfinished">Tiek atkārtoti skenētas sistēmai pievienotās ierīces</translation>
+        <translation>Atkārtoti skenē sistēmai pievienotās ierīces</translation>
     </message>
     <message>
         <source>Select ISO File</source>
-        <translation type="unfinished">Izvēlēties ISO failu</translation>
+        <translation>Atlasiet ISO failu</translation>
     </message>
     <message>
         <source>ISO Files (*.iso)</source>
-        <translation type="unfinished">ISO faili (*.iso)</translation>
+        <translation>ISO faili (*.iso)</translation>
     </message>
     <message>
         <source>Devices Available</source>
@@ -169,27 +169,27 @@
     <name>SettingsDialog</name>
     <message>
         <source>Mount Tray Settings</source>
-        <translation type="unfinished">Montēšanas joslas iestatījumi</translation>
+        <translation>Montēšanas joslas iestatījumi</translation>
     </message>
     <message>
         <source>Monitor disk storage space</source>
-        <translation type="unfinished">Pieskatīt diska vietu</translation>
+        <translation>Pārraudzīt diska vietu</translation>
     </message>
     <message>
         <source>Perform check on device notifications</source>
-        <translation type="unfinished">Veikt ierīces paziņojumu pārbaudi</translation>
+        <translation>Veikt ierīces paziņojumu pārbaudi</translation>
     </message>
     <message>
         <source>Maximum time between checks (minutes)</source>
-        <translation type="unfinished">Maksimālais laiks starp pārbaudēm (minūtēs)</translation>
+        <translation>Maksimālais laiks starp pārbaudēm (minūtēs)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Izmaiņas saglabāt</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Auto-play optical disks with SMPlayer</source>

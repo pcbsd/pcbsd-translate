@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Pielietot</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Pielietot</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>

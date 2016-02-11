@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>Pielietot [&amp;A]</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>Other Options</source>

@@ -398,7 +398,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Piemērot</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -406,11 +406,11 @@
     </message>
     <message>
         <source>Apply pending changes?</source>
-        <translation type="unfinished">Vai pielietot atzīmetas izmaiņas?</translation>
+        <translation>Vai lietot veiktās izmaiņas?</translation>
     </message>
     <message>
         <source>There are pending changes which have not been applied. Would you like to apply them before quitting?</source>
-        <translation type="unfinished">Ir atzīmētas izmaiņas, kuras nav pielietotas. Vai pirms iziešanas vēlies tās pielietot?</translation>
+        <translation>Ir veiktas izmaiņas, kuras vēl nav pielietotas. Vai pirms iziešanas vēlaties tās pielietot?</translation>
     </message>
     <message>
         <source>Editing Users for Jail:</source>

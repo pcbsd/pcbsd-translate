@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>Piemērot [&amp;A]</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Piemērot</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Cancel</source>

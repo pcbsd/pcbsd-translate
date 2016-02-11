@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>ConfigDlg</name>
     <message>
@@ -16,7 +16,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="34"/>
         <source>Note: It may take a couple minutes to apply changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Piezīme: Izmaiņu pielietošana var prasīt dažas minūtes</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
@@ -117,7 +117,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="287"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="293"/>

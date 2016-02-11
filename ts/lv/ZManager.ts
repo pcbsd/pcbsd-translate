@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>DialogFSProp</name>
     <message>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Apply changes recursively to all descendants</source>
-        <translation type="unfinished"></translation>
+        <translation>Pielietot izmaiņas rekursīvi visiem pēctečiem</translation>
     </message>
     <message>
         <source>Property</source>

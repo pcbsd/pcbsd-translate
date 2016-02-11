@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>Piemērot</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Wireless Device: %1</source>
@@ -351,7 +351,7 @@ Ja process tagad tiks atcelts, pakotnes var tikt sabojātas. Vai tomēr atcelt?<
     <name>metaWidget</name>
     <message>
         <source>Apply</source>
-        <translation>Piemērot</translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Loading... Please wait...</source>

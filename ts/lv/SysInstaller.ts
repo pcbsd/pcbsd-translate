@@ -445,7 +445,7 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>

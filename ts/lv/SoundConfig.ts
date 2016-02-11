@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Pielietot</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Close</source>

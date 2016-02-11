@@ -905,7 +905,7 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot</translation>
     </message>
     <message>
         <source>Option Type:</source>

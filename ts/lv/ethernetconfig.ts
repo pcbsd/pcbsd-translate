@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>&amp;Piemērot</translation>
+        <translation>Lietot [&amp;A]</translation>
     </message>
     <message>
         <source>Alt+A</source>
