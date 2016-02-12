@@ -5,7 +5,7 @@
     <name>AddDlgCode</name>
     <message>
         <source>New Group</source>
-        <translation type="unfinished">Jauna grupa</translation>
+        <translation>Jauna grupa</translation>
     </message>
     <message>
         <source>Good Input</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished">Šis lauks var saturēt vienīgi burtus un ciparus</translation>
+        <translation>Šis lauks var saturēt tikai burtus un ciparus</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished">Paroles nav vienādas</translation>
+        <translation>Paroles nesakrīt</translation>
     </message>
     <message>
         <source>Invalid input</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished">Mape neeksistē, bet tā tiks izveidota</translation>
+        <translation>Katalogs neeksistē, bet tas tiks izveidots</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
@@ -87,22 +87,20 @@
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">
-- Nav norādīts pilnais vārds.</translation>
+        <translation>- &apos;Pilnais vārds&apos; lauks nav aizpildīts.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">
-- Pilnais vārds nevar saturēt simbolus ! @ vai :</translation>
+        <translation>- &apos;Pilnais vārds&apos;  lauks nevar saturēt simbolus ! @ vai :</translation>
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
-        <translation type="unfinished">- &apos;Mājas mape&apos; lauks nav aizpildīts.</translation>
+        <translation>- &apos;Mājas katalogs&apos; lauks nav aizpildīts.</translation>
     </message>
     <message>
         <source>- The value entered as &apos;Home Directory&apos; is not a valid path.</source>
-        <translation type="unfinished">- Vērtība laukā &apos;Mājas mape&apos; nav derīgs ceļš.</translation>
+        <translation>- Vērtība laukā &apos;Mājas katalogs&apos; nav derīgs ceļš.</translation>
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
@@ -110,7 +108,7 @@
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
-        <translation type="unfinished">- Kā &apos;Mājas mape&apos; ir norādīts fails, taču tam ir jabūt mapei.</translation>
+        <translation>- Kā &apos;Mājas katalogs&apos; ir norādīts fails, taču tam ir jabūt katalogam.</translation>
     </message>
     <message>
         <source>
@@ -120,8 +118,7 @@
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished">
-- Paroles nav vienādas, lūdzu mēģini vēlreiz.</translation>
+        <translation>- Paroles nesakrīt, lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>
@@ -130,11 +127,11 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Ķibele!</translation>
+        <translation>Kļūda!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Brīdinājums!</translation>
+        <translation>Brīdinājums!</translation>
     </message>
     <message>
         <source>
@@ -146,7 +143,7 @@
     <name>AddUserUI</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Pievienot lietotāju</translation>
+        <translation>Pievienot lietotāju</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -154,35 +151,35 @@
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Apstiprināt paroli:</translation>
+        <translation>Apstiprināt paroli:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished">Pilns vārds:</translation>
+        <translation>Pilns vārds:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Čaula:</translation>
+        <translation>Čaula:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Lietotājvārds:</translation>
+        <translation>Lietotājvārds:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished">Mājas mape:</translation>
+        <translation>Mājas katalogs:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Primārā grupa:</translation>
+        <translation>Primārā grupa:</translation>
     </message>
     <message>
         <source>New &amp;Group</source>
-        <translation type="unfinished">Jauna &amp;grupa</translation>
+        <translation>Jauna &amp;grupa</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -190,15 +187,15 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Saglabāt</translation>
+        <translation>&amp;Saglabāt</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Atcelt</translation>
+        <translation>At&amp;celt</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -217,23 +214,23 @@
     <name>ChangePassCode</name>
     <message>
         <source>Change Password for &apos;</source>
-        <translation type="unfinished">Nomainīt paroli lietotājam &apos;</translation>
+        <translation>Nomainīt paroli lietotājam &apos;</translation>
     </message>
     <message>
         <source>&apos;</source>
-        <translation type="unfinished">&apos;</translation>
+        <translation>&apos;</translation>
     </message>
     <message>
         <source>You must specify a password</source>
-        <translation type="unfinished">Tev ir jānorāda parole</translation>
+        <translation>Nepieciešams norādīt paroli</translation>
     </message>
     <message>
         <source>The passwords didn&apos;t match. Both boxes most contain the same value.</source>
-        <translation type="unfinished">Paroles nav vienādas. Abiem laukiem jāsatur vienāda vērtība.</translation>
+        <translation>Paroles nesakrīt. Abiem laukiem jāsatur vienāda vērtība.</translation>
     </message>
     <message>
         <source>Invalid password, please choose another.</source>
-        <translation type="unfinished">Nederīga parole, esi tik laipns, mēģini citu.</translation>
+        <translation>Nederīga parole, lūdzu, mēģiniet citu.</translation>
     </message>
     <message>
         <source>Passwords match</source>
@@ -241,7 +238,7 @@
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished">Paroles nav vienādas</translation>
+        <translation>Paroles nesakrīt</translation>
     </message>
     <message>
         <source>Invalid input</source>
@@ -252,27 +249,27 @@
     <name>ChangePassDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished">Mainīt paroli</translation>
+        <translation>Mainīt paroli</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Apstiprināt paroli:</translation>
+        <translation>Apstiprināt paroli:</translation>
     </message>
     <message>
         <source>O&amp;k</source>
-        <translation type="unfinished">&amp;Labi</translation>
+        <translation>O&amp;k</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Atcelt</translation>
+        <translation>At&amp;celt</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -287,15 +284,15 @@
     </message>
     <message>
         <source>&amp;Users</source>
-        <translation type="unfinished">&amp;Lietotāji</translation>
+        <translation>Lietotāji [&amp;U]</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Pievienot</translation>
+        <translation>Pievienot [&amp;A]</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -307,27 +304,27 @@
     </message>
     <message>
         <source>User ID:</source>
-        <translation type="unfinished">Lietotāja ID:</translation>
+        <translation>Lietotāja ID:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished">Pilns vārds:</translation>
+        <translation>Pilns vārds:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished">Mājas mape:</translation>
+        <translation>Mājas katalogs:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Čaula:</translation>
+        <translation>Čaula:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Primārā grupa:</translation>
+        <translation>Primārā grupa:</translation>
     </message>
     <message>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished">&amp;Nomainīt paroli...</translation>
+        <translation>Mainīt paroli [&amp;C]...</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -335,11 +332,11 @@
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation type="unfinished">&amp;Grupas</translation>
+        <translation>&amp;Grupas</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished">&amp;Pievienot</translation>
+        <translation>Pievienot [&amp;D]</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -347,19 +344,19 @@
     </message>
     <message>
         <source>Available:  </source>
-        <translation type="unfinished">Pieejams:  </translation>
+        <translation>Pieejams:  </translation>
     </message>
     <message>
         <source>Members:</source>
-        <translation type="unfinished">Biedri:</translation>
+        <translation>Biedri:</translation>
     </message>
     <message>
         <source>PC-BSD User Manager - Advanced Mode</source>
-        <translation type="unfinished">PC-BSD lietotāju pārvaldnieks - Izvērstais režīms</translation>
+        <translation>PC-BSD lietotāju pārvaldnieks - Izvērstais režīms</translation>
     </message>
     <message>
         <source>&amp;Simple View</source>
-        <translation type="unfinished">Vienkāršs &amp;skats</translation>
+        <translation>Vienkāršs &amp;skats</translation>
     </message>
     <message>
         <source>Alt+V</source>
@@ -402,7 +399,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">Ai&amp;zvērt</translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Apply pending changes?</source>
@@ -414,7 +411,7 @@
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished">Izolatoru lietotāju rediģēšana:</translation>
+        <translation>Jail lietotāju rediģēšana:</translation>
     </message>
 </context>
 <context>
@@ -429,7 +426,7 @@
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished">Šis lauks var saturēt vienīgi burtus un ciparus</translation>
+        <translation>Šis lauks var saturēt tikai burtus un ciparus</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
@@ -441,7 +438,7 @@
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished">Paroles nav vienādas</translation>
+        <translation>Paroles nesakrīt</translation>
     </message>
     <message>
         <source>Invalid input</source>
@@ -479,14 +476,12 @@
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">
-- Nav norādīts pilnais vārds.</translation>
+        <translation>-&apos;Pilns vārds&apos; lauks nav aizpildīts.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">
-- Pilnais vārds nevar saturēt simbolus ! @ vai :</translation>
+        <translation>- &apos;Pilns vārds&apos; lauks nevar saturēt simbolus ! @ vai :</translation>
     </message>
     <message>
         <source>
@@ -496,8 +491,8 @@
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished">
-- Paroles nav vienādas, lūdzu mēģini vēlreiz.</translation>
+        <translation>
+- Paroles nesakrīt, lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>
@@ -506,22 +501,22 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Ķibele!</translation>
+        <translation>Kļūda!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Brīdinājums!</translation>
+        <translation>Brīdinājums!</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Pievienot lietotāju</translation>
+        <translation>Pievienot lietotāju</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished">Pilns vārds:</translation>
+        <translation>Pilns vārds:</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -529,31 +524,31 @@
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Lietotājvārds:</translation>
+        <translation>Lietotājvārds:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Saglabāt</translation>
+        <translation>&amp;Saglabāt</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Atcelt</translation>
+        <translation>At&amp;celt</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Apstiprināt paroli:</translation>
+        <translation>Apstiprināt paroli:</translation>
     </message>
 </context>
 <context>
@@ -564,11 +559,11 @@
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Pievienot</translation>
+        <translation>Pievienot [&amp;A]</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -580,7 +575,7 @@
     </message>
     <message>
         <source>&amp;Change Admin Password...</source>
-        <translation type="unfinished">&amp;Nomainīt administrātora paroli...</translation>
+        <translation>Mainīt administratora paroli [&amp;C]...</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -588,7 +583,7 @@
     </message>
     <message>
         <source>A&amp;dvanced View</source>
-        <translation type="unfinished">Izvērs&amp;ts skats</translation>
+        <translation>Izvērstais skats [&amp;D]</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -596,23 +591,23 @@
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished">Pilns vārds:</translation>
+        <translation>Pilns vārds:</translation>
     </message>
     <message>
         <source>Can administrate s&amp;ystem</source>
-        <translation type="unfinished">Var admin&amp;istrēt sistēmu</translation>
+        <translation>Var administrēt sistēmu [&amp;Y]</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+I</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <source>C&amp;hange Password...</source>
-        <translation type="unfinished">Nomainīt paro&amp;li...</translation>
+        <translation>Mainīt paroli [&amp;H]...</translation>
     </message>
     <message>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+H</translation>
     </message>
 </context>
 <context>
@@ -642,7 +637,7 @@
     <name>mainDlgCode</name>
     <message>
         <source>New User</source>
-        <translation type="unfinished">Jauns lietotājs</translation>
+        <translation>Jauns lietotājs</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
@@ -654,31 +649,31 @@
     </message>
     <message>
         <source>Error adding group...</source>
-        <translation type="unfinished">Ķibele pievienojot grupu...</translation>
+        <translation>Kļūda, pievienojot grupu...</translation>
     </message>
     <message>
         <source>You must specify a name for your group</source>
-        <translation type="unfinished">Tev ir jānorāda grupas nosaukums</translation>
+        <translation>Nepieciešams norādīt grupas nosaukumu</translation>
     </message>
     <message>
         <source>Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted</source>
-        <translation type="unfinished">Ir norādīts nederīgs grupas nosaukums. Grupas nosaukums var saturēt vienīgi burtus un ciparus. Atstarpes nav atļautas.</translation>
+        <translation>Ir norādīts nederīgs grupas nosaukums. Grupas nosaukums var saturēt vienīgi burtus un ciparus. Atstarpes nav atļautas.</translation>
     </message>
     <message>
         <source>The group &apos;</source>
-        <translation type="unfinished">Grupa &apos;</translation>
+        <translation>Grupa &apos;</translation>
     </message>
     <message>
         <source>&apos; already exists, please choose a different name</source>
-        <translation type="unfinished">&apos; jau eksistē, lūdzu izvēlies citu nosaukumu</translation>
+        <translation>&apos; jau eksistē, lūdzu, izvēlieties citu nosaukumu</translation>
     </message>
     <message>
         <source>New Group</source>
-        <translation type="unfinished">Jauna grupa</translation>
+        <translation>Jauna grupa</translation>
     </message>
     <message>
         <source>Please enter a name for your new group</source>
-        <translation type="unfinished">Lūdzu ievadi nosaukumu grupai</translation>
+        <translation>Lūdzu, ievadiet grupas nosaukumu</translation>
     </message>
     <message>
         <source>Directory will be used</source>
@@ -694,7 +689,7 @@
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished">Mape neeksistē, bet tā tiks izveidota</translation>
+        <translation>Katalogs neeksistē, bet tas tiks izveidots</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
@@ -786,7 +781,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>
