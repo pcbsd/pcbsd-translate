@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Scrub cancelled for %1</source>
-        <translation>Oczyszczanie anulowane dla %1</translation>
+        <translation>Oczyszczanie zaniechane dla %1</translation>
     </message>
     <message>
         <source>Scrubbing %1: %2 (%3 remaining)</source>

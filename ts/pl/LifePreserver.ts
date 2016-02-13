@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Start</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation>Anulowano</translation>
+        <translation>Zaniechano</translation>
     </message>
     <message>
         <source>FINISHED</source>
@@ -690,7 +690,7 @@
     </message>
     <message>
         <source>Are you sure that you wish to cancel automated snapshots and/or replication of the following dataset?</source>
-        <translation>Na pewno chcesz anulować automatyczne obrazy systemu i/lub replikację poniższego zbioru danych?</translation>
+        <translation>Na pewno chcesz zrezygnować z automatycznych obrazów systemu i/lub replikacji poniższego zbioru danych?</translation>
     </message>
     <message>
         <source>Verify Snapshot Deletion</source>
@@ -1129,7 +1129,7 @@
     </message>
     <message>
         <source>Scrub Cancelled: %1</source>
-        <translation>Oczyszczanie anulowane: %1</translation>
+        <translation>Oczyszczanie zaniechane: %1</translation>
     </message>
     <message>
         <source>Scrub Started: %1</source>

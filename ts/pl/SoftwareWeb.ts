@@ -112,7 +112,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="276"/>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="287"/>

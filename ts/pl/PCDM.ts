@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Cancel Login</source>
-        <translation>Anuluj logowanie</translation>
+        <translation>Zaniechaj logowania</translation>
     </message>
     <message>
         <source>Login Now</source>
@@ -244,7 +244,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
 </context>
 </TS>

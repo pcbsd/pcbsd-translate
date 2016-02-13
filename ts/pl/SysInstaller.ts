@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Cancel the installation</source>
-        <translation>Anuluj instalację</translation>
+        <translation>Zaniechaj instalacji</translation>
     </message>
     <message>
         <source>Ab&amp;ort</source>
@@ -297,7 +297,7 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation>Anulowano instalację skryptu konfiguracyjnego</translation>
+        <translation>Zaniechano instalacji za pomocą skryptu konfiguracyjnego</translation>
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
@@ -406,7 +406,7 @@ Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usun
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
 </context>
 <context>

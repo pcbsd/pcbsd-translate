@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
@@ -246,7 +246,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>IPv4 Address</source>

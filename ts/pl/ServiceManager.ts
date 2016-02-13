@@ -88,7 +88,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>Failed</source>

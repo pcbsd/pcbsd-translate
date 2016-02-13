@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Production (Updates Quarterly)</source>
-        <translation>Wersja produkcyjna &quot;Production&quot; (aktualizowana co kwartał)</translation>
+        <translation>Wersja produkcyjna "Production" (aktualizowana co kwartał)</translation>
     </message>
     <message>
         <source>Edge (Updates Frequently)</source>
-        <translation>Wersja testowa &quot;Edge&quot; (często aktualizowana)</translation>
+        <translation>Wersja testowa "Edge" (często aktualizowana)</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -413,7 +413,7 @@ Przed instalacją nowego oprogramowania zrestartuj proszę komputer.</translatio
     </message>
     <message>
         <source>The AppCafe currently has actions pending. Do you want to cancel all running processes and quit anyway?</source>
-        <translation>W AppCafe czekają na dokończenie procesy. Czy chcesz pomimo tego zakończyć wszelkie procesy i zamknąć?</translation>
+        <translation>Aplikacja AppCafe czeka na niedokończone procesy. Czy mimo to chcesz zakończyć wszelkie procesy i zamknąć aplikację?</translation>
     </message>
     <message>
         <source>Import PBI File List</source>
@@ -481,7 +481,7 @@ Przed instalacją nowego oprogramowania zrestartuj proszę komputer.</translatio
     </message>
     <message>
         <source>Cancel Actions</source>
-        <translation>Przerwij działania</translation>
+        <translation>Zaniechaj działania</translation>
     </message>
     <message>
         <source>Add Desktop Shortcuts</source>

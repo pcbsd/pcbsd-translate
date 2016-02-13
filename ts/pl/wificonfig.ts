@@ -322,7 +322,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Scanning for wireless networks...</source>
@@ -399,7 +399,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>No SSID!</source>

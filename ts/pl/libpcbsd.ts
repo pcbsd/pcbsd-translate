@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -241,7 +241,7 @@
         <source>Warning: Packages are still being modifed!
 If you cancel now the packages may be corrupted. Cancel anyway?</source>
         <translation>Uwaga: Pakiety ciągle są modyfikowane! 
-Jeśli teraz przerwiesz, pakiety mogą zostać uszkodzone. Mimo to przerwać?</translation>
+Jeśli teraz przerwiesz, pakiety mogą zostać uszkodzone. Czy mimo to przerwać?</translation>
     </message>
 </context>
 <context>

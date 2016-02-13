@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.0" language="pl">
 <context>
@@ -48,8 +48,8 @@
         <translation>&lt;progres&gt;</translation>
     </message>
     <message>
-        <source>&lt;b&gt;&lt;font size=&quot;+1&quot;&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click &quot;Finish&quot; to exit.</source>
-        <translation>&lt;b&gt;&lt;font size=&quot;+1&quot;&gt;Instalacja zakończona! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kliknij &quot;Zakończ&quot; by wyjść.</translation>
+        <source>&lt;b&gt;&lt;font size="+1"&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click "Finish" to exit.</source>
+        <translation>&lt;b&gt;&lt;font size="+1"&gt;Instalacja zakończona! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Kliknij "Zakończ" by wyjść.</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Zaniechaj</translation>
     </message>
     <message>
         <source>Error while running pbi_add!</source>
@@ -121,11 +121,11 @@
     </message>
     <message>
         <source>Cancel Confirmation</source>
-        <translation>Anuluj potwierdzenie</translation>
+        <translation>Potwierdzenie zaniechana</translation>
     </message>
     <message>
         <source>Are you sure you wish to cancel?</source>
-        <translation>Czy na pewno chcesz anulować?</translation>
+        <translation>Czy na pewno chcesz zaniechać?</translation>
     </message>
     <message>
         <source>Yes</source>

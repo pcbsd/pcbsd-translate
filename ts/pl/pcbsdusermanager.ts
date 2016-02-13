@@ -206,7 +206,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;Anuluj</translation>
+        <translation>&amp;Zaniechaj</translation>
     </message>
     <message>
         <source>Alt+N</source>
