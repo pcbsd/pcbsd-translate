@@ -84,15 +84,15 @@
     </message>
     <message>
         <source>Use a temporary home directory which is deleted on log out)</source>
-        <translation>Ein temporäres Benutzerverzeichnis benutzen, welches beim Abmelden gelöscht wird.</translation>
+        <translation>Benutze ein temporäres Heimverzeichnis, das beim Ausloggen gelöscht wird.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Auffrischen</translation>
     </message>
     <message>
         <source>Refresh available users</source>
-        <translation type="unfinished"></translation>
+        <translation>Auffrischen der verfügbaren Accounts</translation>
     </message>
 </context>
 <context>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Refresh PCDM</source>
-        <translation type="unfinished"></translation>
+        <translation>Auffrischen von PCDM</translation>
     </message>
 </context>
 <context>

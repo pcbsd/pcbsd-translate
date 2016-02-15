@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-14 12:13-0800\n"
-"PO-Revision-Date: 2015-10-20 23:46+0000\n"
+"POT-Creation-Date: 2016-02-14 16:12-0800\n"
+"PO-Revision-Date: 2016-02-15 04:05+0000\n"
 "Last-Translator: vater <vater@chelnok.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1455509154.000000\n"
 
 # e2c5bbd654b34a42896df37091a48895
 # 7d5e5641e74d43f482133ca2c34c302c
@@ -1164,7 +1168,7 @@ msgstr "Version |version|"
 
 #: ../../introduction.rst:8
 msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
-msgstr ""
+msgstr "Copyright © 2005 - 2016 Das Projekt PC-BSD®."
 
 # 910118bc567b4d4db1c0cc7504e23ea1
 # 524bdd63fb3f47228013b102afe8be59
@@ -31482,6 +31486,9 @@ msgstr ""
 #: ../../introduction.rst:191
 msgid "If you install or uninstall any software in AppCafe®, a \"Status\" tab will appear so that you can review the installation log."
 msgstr ""
+"Wenn Sie Software bei AppCafe®  installieren oder deinstallieren, wird eine "
+"Reiter \"Status\" erscheinen, sodass Sie die Aufzeichnung (log) zur "
+"Installation nochmal durchsehen können."
 
 # 77040732babc40ffa1e70a91015ea827
 # 1da243a7b7c34c6ea568b9f3f6ce3d09
