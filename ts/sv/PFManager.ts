@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Obs: Dessa inställningar används endast när systemet inte dirigeras via Tor</translation>
     </message>
 </context>
 <context>

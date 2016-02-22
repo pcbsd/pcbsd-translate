@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Allow Stealth Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt Stealth Sessions</translation>
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Additional Excluded Users</source>
-        <translation type="unfinished"></translation>
+        <translation>Ytterligare uteslutna användare</translation>
     </message>
     <message>
         <source>...</source>

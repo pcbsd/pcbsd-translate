@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta fält accepterar bara bokstäver och siffror</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
@@ -430,7 +430,7 @@
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detta fält accepterar bara bokstäver och siffror</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>

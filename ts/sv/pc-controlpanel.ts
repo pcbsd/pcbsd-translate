@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Fixed items layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Fasta punkters layout</translation>
     </message>
     <message>
         <source>(Current)</source>

@@ -138,7 +138,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="33"/>
         <source>Output</source>
-        <translation type="unfinished">Utmatning</translation>
+        <translation>Utmatning</translation>
     </message>
 </context>
 </TS>
