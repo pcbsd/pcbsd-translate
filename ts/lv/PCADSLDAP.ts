@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lv">
 <context>
     <name>pcADSLDAP</name>
     <message>
         <source>AD and LDAP Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>AD un LDAP konfigurācija</translation>
     </message>
     <message>
         <source>Active Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Active Directory</translation>
     </message>
     <message>
         <source>Enable Active Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot Active Directory</translation>
     </message>
     <message>
         <source>Domain Name (DNS/Realm-Name)</source>
-        <translation type="unfinished"></translation>
+        <translation>Domēna vārds (DNS/nozarojuma vārds)</translation>
     </message>
     <message>
         <source>NetBIOS Name</source>
-        <translation type="unfinished"></translation>
+        <translation>NetBIOS vārds</translation>
     </message>
     <message>
         <source>Workgroup Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Darbgrupas vārds</translation>
     </message>
     <message>
         <source>Allow Trusted Domains</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļaut uzticamus domēnus</translation>
     </message>
     <message>
         <source>Administrator Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Administratora vārds</translation>
     </message>
     <message>
         <source>Administrator Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Administratora parole</translation>
     </message>
     <message>
         <source>Administrator Password (Confirm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Administratora parole (atkārtoti)</translation>
     </message>
     <message>
         <source>LDAP</source>
-        <translation type="unfinished"></translation>
+        <translation>LDAP</translation>
     </message>
     <message>
         <source>Enable LDAP</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot LDAP</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursdatora nosaukums</translation>
     </message>
     <message>
         <source>Base DN</source>
-        <translation type="unfinished"></translation>
+        <translation>Bāzes DN</translation>
     </message>
     <message>
         <source>Allow Anon Binding</source>
-        <translation type="unfinished"></translation>
+        <translation>Atļaut anon saistīšanu</translation>
     </message>
     <message>
         <source>Root bind DN</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknes DN saistīšana</translation>
     </message>
     <message>
         <source>Root bind password</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknes saistīšanas parole</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Paroles šifrēšana</translation>
     </message>
     <message>
         <source>User Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotāja sufikss</translation>
     </message>
     <message>
         <source>Group Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupas sufikss</translation>
     </message>
     <message>
         <source>Password Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Paroles sufikss</translation>
     </message>
     <message>
         <source>Machine Suffix</source>
-        <translation type="unfinished"></translation>
+        <translation>Mašīnas sufikss</translation>
     </message>
     <message>
         <source>Encryption Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrēšanas režīms</translation>
     </message>
     <message>
         <source>Self Signed Certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašparakstīts sertifikāts</translation>
     </message>
     <message>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Palīgparametri</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Saglabāt</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Active Directory Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Active Directory konfigurācija</translation>
     </message>
     <message>
         <source>The Active Directory passwords specified do not match!</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādītās Active Directory paroles nesakrīt!</translation>
     </message>
 </context>
 </TS>

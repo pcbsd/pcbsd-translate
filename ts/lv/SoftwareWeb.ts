@@ -6,12 +6,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="14"/>
         <source>Configure AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurēt AppCafe</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="28"/>
         <source>Repository Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ropozitorija konfigurācija</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="34"/>
@@ -21,12 +21,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
         <source>Enterprise (Long Term Support)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzņēmuma (ilgtermiņa atbalsts)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="50"/>
         <source>Production (Updates Quarterly)</source>
-        <translation type="unfinished"></translation>
+        <translation>Produkcijas (atjaunināšana četras reizas gadā)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="57"/>
