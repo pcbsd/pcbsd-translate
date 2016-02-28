@@ -5,83 +5,83 @@
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatīt bezvadu piekļuves punktu</translation>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamatiestatījumi</translation>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Redzamais nosaukums:</translation>
     </message>
     <message>
         <source>InternetGateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Interneta vārteja</translation>
     </message>
     <message>
         <source>(SSID required)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nepieciešams SSID)</translation>
     </message>
     <message>
         <source>Set Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatīt paroli:</translation>
     </message>
     <message>
         <source>WPA Password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA parole (neobligāta)</translation>
     </message>
     <message>
         <source>Advanced Configuration (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalizēta konfigurācija (neobligāta)</translation>
     </message>
     <message>
         <source>Base IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bāzes IP:</translation>
     </message>
     <message>
         <source>192.168.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>192.168.0.1</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla maska:</translation>
     </message>
     <message>
         <source>255.255.255.0</source>
-        <translation type="unfinished"></translation>
+        <translation>255.255.255.0</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Režīms:</translation>
     </message>
     <message>
         <source>11g</source>
-        <translation type="unfinished"></translation>
+        <translation>11g</translation>
     </message>
     <message>
         <source>11ng</source>
-        <translation type="unfinished"></translation>
+        <translation>11ng</translation>
     </message>
     <message>
         <source>11n</source>
-        <translation type="unfinished"></translation>
+        <translation>11n</translation>
     </message>
     <message>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanāls:</translation>
     </message>
     <message>
         <source>Country Code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valsts kods:</translation>
     </message>
     <message>
         <source>2-letter country code (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>2-burtu valsts kods (neobligāts)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -89,123 +89,123 @@
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezvadu ierīce: %1</translation>
     </message>
     <message>
         <source>Invalid Password Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs paroles garums</translation>
     </message>
     <message>
         <source>WPA password must be a minimum of 8 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA parolei jābūt vismaz 8 simbolus garai.</translation>
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezvadu draiveris neatbalsta bezvadu piekļuves punkta mitināšanu.</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās izveidot piekļuves punktu (vai wlan0 jau ir aktīvs?)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūme</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSelectDialog</name>
     <message>
         <source>Select keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Atlasiet tastatūras izkārtojumu</translation>
     </message>
     <message>
         <source>Keyboard layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastatūras izkārtojums:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Meklēt...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Jauna kolonna</translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izkārtojuma variants:</translation>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipiskais</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kods</translation>
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievades valoda</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>Variants</translation>
     </message>
 </context>
 <context>
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastatūras izkārtojuma pārslēgšanas taustiņi</translation>
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Shift</translation>
     </message>
     <message>
         <source>Ctrl + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Shift</translation>
     </message>
     <message>
         <source>Alt + Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Atstarpe</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Citas opcijas</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+Atpakaļatkāpe pārtrauc xorg</translation>
     </message>
 </context>
 <context>
@@ -312,39 +312,39 @@ Ja process tagad tiks atcelts, pakotnes var tikt sabojātas. Vai tomēr atcelt?<
     </message>
     <message>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation>MD5</translation>
     </message>
     <message>
         <source>MSCHAPV2</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAPV2</translation>
     </message>
     <message>
         <source>GTC</source>
-        <translation type="unfinished"></translation>
+        <translation>GTC</translation>
     </message>
     <message>
         <source>OTP</source>
-        <translation type="unfinished"></translation>
+        <translation>OTP</translation>
     </message>
     <message>
         <source>PAP</source>
-        <translation type="unfinished"></translation>
+        <translation>PAP</translation>
     </message>
     <message>
         <source>CHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>CHAP</translation>
     </message>
     <message>
         <source>MSCHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAP</translation>
     </message>
     <message>
         <source>Phase 2 Auth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Phase 2 autorizācija:</translation>
     </message>
     <message>
         <source>Anonymous Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anonīma identitāte:</translation>
     </message>
 </context>
 <context>
