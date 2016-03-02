@@ -5,11 +5,11 @@
     <name>DNSList</name>
     <message>
         <source>Public DNS servers</source>
-        <translation>Öffentlicher DNS-Server</translation>
+        <translation>öffentliche Server für DNS</translation>
     </message>
     <message>
         <source>You can select one of public DNS servers instead of DNS server from your ISP</source>
-        <translation>Sie können statt des DNS-Servers Ihres ISPs einen öffentlichen DNS-Server auswählen.</translation>
+        <translation>Sie können einen der öffentlichen Server für DNS anstatt des Servers für DNS von Ihrem ISP auswählen</translation>
     </message>
     <message>
         <source>IP address</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Provider</source>
-        <translation>Anbieter</translation>
+        <translation>Provider</translation>
     </message>
     <message>
         <source>Location</source>
@@ -28,7 +28,7 @@
     <name>NetworkMan</name>
     <message>
         <source>PC-BSD Network Manager</source>
-        <translation>PC-BSD-Netzwerk-Manager</translation>
+        <translation>Manager fürs Netzwerk von PC-BSD</translation>
     </message>
     <message>
         <source>Devices</source>
