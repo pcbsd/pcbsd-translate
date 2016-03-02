@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Display system tray icon</source>
-        <translation>Zeige Systemsymbol in der Kontrollleiste an</translation>
+        <translation>Zeigen vom Symbol in der Symbolleiste fürs System</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>Device Status</source>
-        <translation>Gerätestatus</translation>
+        <translation>Status vom Gerät</translation>
     </message>
     <message>
         <source>MAC Address:</source>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Network Configuration (Advanced)</source>
-        <translation>Netzwerk-Konfiguration (erweitert)</translation>
+        <translation>Konfiguration fürs Netzwerk (erweitert)</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -68,15 +68,15 @@
     </message>
     <message>
         <source>Enable wireless / wired failover via lagg0 interface</source>
-        <translation>Aktiviere drahtlose / kabelgebundene Ausfallsicherung über die lagg0 Schnittstelle</translation>
+        <translation>Aktiviere drahtlose / kabelgebundene Ausfallsicherung über die Schnittstelle lagg0</translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation>Hostname des Systems</translation>
+        <translation>Hostname vom System</translation>
     </message>
     <message>
         <source>Enable Custom DNS</source>
-        <translation>Benutzerdefiniertes DNS ermöglichen</translation>
+        <translation>Aktiviere selbst angepasstes DNS</translation>
     </message>
     <message>
         <source>DNS 1:</source>
@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>Public servers</source>
-        <translation>Öffentliche Server</translation>
+        <translation>öffentliche Server</translation>
     </message>
     <message>
         <source>DNS 2:</source>
@@ -92,11 +92,11 @@
     </message>
     <message>
         <source>Search Domain:</source>
-        <translation>Suche Domain:</translation>
+        <translation>Domain für die Suche:</translation>
     </message>
     <message>
         <source>Enable Custom Gateway</source>
-        <translation>Benutzerdefiniertes Gateway ermöglichen</translation>
+        <translation>Aktiviere selbst angepasstes Gateway</translation>
     </message>
     <message>
         <source>Gateway:</source>
@@ -104,19 +104,19 @@
     </message>
     <message>
         <source>Enable IPv6 support</source>
-        <translation>IPv6-Unterstützung aktivieren</translation>
+        <translation>Aktivieren der Unterstützung für IPv6</translation>
     </message>
     <message>
         <source>IPv6 gateway:</source>
-        <translation>IPv6-Gateway:</translation>
+        <translation>Gateway für IPv6:</translation>
     </message>
     <message>
         <source>IPV6 DNS 1:</source>
-        <translation>IPV6 DNS 1:</translation>
+        <translation>DNS 1 für IPv6:</translation>
     </message>
     <message>
         <source>IPv6 DNS 2:</source>
-        <translation>IPv6 DNS 2:</translation>
+        <translation>DNS 2 für IPv6:</translation>
     </message>
     <message>
         <source>Proxy</source>
@@ -124,19 +124,19 @@
     </message>
     <message>
         <source>Proxy Configuration</source>
-        <translation>Proxy-Einstellung</translation>
+        <translation>Konfiguration für den Proxy</translation>
     </message>
     <message>
         <source>Server Address</source>
-        <translation>Serveradresse</translation>
+        <translation>Adresse vom Server</translation>
     </message>
     <message>
         <source>Port Number</source>
-        <translation>Portnummer</translation>
+        <translation>Nummer vom Port</translation>
     </message>
     <message>
         <source>Proxy Type</source>
-        <translation>Proxytyp</translation>
+        <translation>Typ von Proxy</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -148,11 +148,11 @@
     </message>
     <message>
         <source>Specify a Username / Password</source>
-        <translation>Bestimme ein Benutzername / Passwort</translation>
+        <translation>Bestimme einen Namen vom Account / Passwort</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Benutzername</translation>
+        <translation>Name vom Account</translation>
     </message>
     <message>
         <source>Password</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Note: This proxy configuration is for PC-BSD specific tools and utilities. Internet aware applications may still use their own proxy configuration, which will have to be manually configured.</source>
-        <translation>Beachte: Diese Proxy-Einstellung ist für PC-BSD spezifische Werkzeuge und Programme. Programme mit Netzwerkverbindung könnten ihre eigene Proxy-Einstellung benutzen, welche manuell umgestellt werden muss.</translation>
+        <translation>Hinweis: Diese Konfiguration für den Proxy ist für spezifische Werkzeuge und Programme von PC-BSD. Internet nutzende Anwendungen sollten weiterhin ihre eigenen Konfiguration für einen Proxy nutzen, welche manuell konfiguriert werden müssen.</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -168,23 +168,23 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Beenden</translation>
+        <translation>&amp;Schließen</translation>
     </message>
     <message>
         <source>Need Root Access</source>
-        <translation>Benötige Administratorzugang</translation>
+        <translation>Benötigt Zugriff als root</translation>
     </message>
     <message>
         <source>This program must be run as root!</source>
-        <translation>Dieses Programm muss als Administrator ausgeführt werden!</translation>
+        <translation>Dieses Programm muss als root ausgeführt werden!</translation>
     </message>
     <message>
         <source>Detecting Devices...</source>
-        <translation>Suche nach Geräten...</translation>
+        <translation>Ermitteln von Geräten...</translation>
     </message>
     <message>
         <source>Unknown Wireless Device</source>
-        <translation>Unbekanntes Wireless-Gerät</translation>
+        <translation>Unbekanntes drahtloses Gerät</translation>
     </message>
     <message>
         <source>Netmask: </source>
@@ -200,39 +200,39 @@
     </message>
     <message>
         <source>Configure </source>
-        <translation>Konfiguration </translation>
+        <translation>Konfiguriere</translation>
     </message>
     <message>
         <source>Device Information</source>
-        <translation>Geräte-Information</translation>
+        <translation>Information zum Gerät</translation>
     </message>
     <message>
         <source>Enable device</source>
-        <translation>Gerät aktivieren</translation>
+        <translation>Aktiviere Gerät</translation>
     </message>
     <message>
         <source>Disable device</source>
-        <translation>Gerät deaktivieren</translation>
+        <translation>Deaktiviere Gerät</translation>
     </message>
     <message>
         <source>Disable Access Point</source>
-        <translation>Access-Point ausschalten</translation>
+        <translation>Deaktiviere Zugangspunkt</translation>
     </message>
     <message>
         <source>Setup Access Point</source>
-        <translation>Access-Point einrichten</translation>
+        <translation>Richte Zugangspunkt ein</translation>
     </message>
     <message>
         <source>Restart the Network</source>
-        <translation>Neustart des Netzwerks</translation>
+        <translation>Neustart vom Netzwerk</translation>
     </message>
     <message>
         <source>Invalid IPv6 DNS specified</source>
-        <translation>Ungültiger IPv6-DNS angegeben</translation>
+        <translation>Ungültiges DNS für IPv6 angegeben</translation>
     </message>
     <message>
         <source>Invalid IPv6 Gateway specified</source>
-        <translation>Ungültiges IPv6-Gateway angegeben</translation>
+        <translation>Ungültiges Gateway für IPv6 angegeben</translation>
     </message>
     <message>
         <source>Invalid DNS specified</source>
@@ -244,19 +244,19 @@
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation>Bitte gebe einen Hostname an</translation>
+        <translation>Bitte geben Sie einen Namen vom Host an</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation>Hostname darf nur Zahlen und Buchstaben enthalten</translation>
+        <translation>Name vom Hostname darf nur Buchstaben und Zahlen enthalten</translation>
     </message>
     <message>
         <source>Computer Restart Required</source>
-        <translation>Neustart des Rechners notwendig</translation>
+        <translation>Neustart vom Computer notwendig</translation>
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname</source>
-        <translation>Sie müssen ihren Rechner neustarten, um die Änderung ihres Hostname abzuschließen</translation>
+        <translation>Sie müssen Ihren Computer neustarten, um die Änderung des Namens von ihrem Host abzuschließen</translation>
     </message>
     <message>
         <source>Proxy enabled</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>You may need to re-login for proxy settings to take effect.</source>
-        <translation>Sie müssen sich möglicherweise erneut anmelden, damit die Proxy-Einstellungen wirksam werden.</translation>
+        <translation>Sie müssen sich möglicherweise erneut anmelden, damit die Einstellungen vom Proxy wirksam werden.</translation>
     </message>
     <message>
         <source>Domain Name</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname, and domain name</source>
-        <translation>Der Computer muss neugestartet werden damit die Änderungen am Hostnamen und der Domäne wirksam werden</translation>
+        <translation>Sie müssen Ihren Computer neustarten, um die Änderungen des Namens von Ihrem Hosz und des Namens der Domain abzuschließen</translation>
     </message>
     <message>
         <source>IPv4 Address:</source>
