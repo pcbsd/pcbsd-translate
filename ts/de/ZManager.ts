@@ -232,13 +232,17 @@ gleich 512 und weniger als oder gleich 128 KBytes sein.</translation>
         <source>Read-only property that identifies the amount of data accessible by a
 dataset, which might or might not be shared with other datasets in the
 pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur lesbare Eigenschaft, welche die Menge des Speichers eines Datasets angbit,
+welcher vielleicht oder vielleicht nicht mit anderen Datasets im Pool geteilt werden kann.</translation>
     </message>
     <message>
         <source>Sets the amount of disk space that a dataset can consume. This property
 enforces a hard limit on the amount of space used. This hard limit does
 not include disk space used by descendents, such as snapshots and clones.</source>
-        <translation type="unfinished"></translation>
+        <translation>Setzt die Menge des Plattenspeichers welcher von einem Dataset genutzt werden kann.
+Diese Eigenschaft erzwingt ein hartes Limit des zu nutzenden Speichers. Dieses
+harte Limit beinhaltet nicht den Plattenspeicher, welcher von Snapshots oder Clones
+genutzt wird.</translation>
     </message>
     <message>
         <source>Sets the minimum amount of disk space that is guaranteed to a dataset, not
@@ -250,7 +254,15 @@ the parent dataset&apos;s quotas and reservations.
 If refreservation is set, a snapshot is only allowed if enough free pool space
 is available outside of this reservation to accommodate the current number of
 referenced bytes in the dataset.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt die minimale Menge an Speicherplatz, die einem Dataset garantiert ist, fest.
+Dieses schließt Abkömmlinge, wie Snapshots oder Clones nicht ein. Wenn die Menge
+an Speicherplatz genutzt wird, welcher unter diesem Wert liegt. Wird das Dataset
+behandelt, wie es bei einer Reservierung geschehen würde. Diese refreservation
+wird dem übergeordneten Dataset angerechnet und wirkt sich auf dessen Quats und
+Reservierungen aus.
+Ist die refreservation gesetzt, ist ein Snapshot nur dann mögliche wenn es genug
+freien Speicherplatz, außerhalb von Reservierungen,  in einem Pool gibt um die Menge
+der referenzierten Bytes im Dataset aufnehmen zu können.</translation>
     </message>
     <message>
         <source>Sets the minimum amount of disk space guaranteed to a dataset and its descendents.
@@ -258,13 +270,20 @@ When the amount of disk space used is below this value, the dataset is treated a
 it were using the amount of space specified by its reservation. Reservations are
 accounted for in the parent dataset&apos;s disk space used, and count against the parent
 dataset&apos;s quotas and reservations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legt das Minimum an garantiertem Speicherplatz eines Datasets und dessen Abkömmlingen
+fest. Wenn die Anzahl genutzten Speicherplatzes unter diesem Wert liegt, wird das Dataset
+so behandelt, als wenn es die Menge Speicherplatz benutzen würde, welche in seiner
+Reservierung gesetzt wurde. Reservierungen werden dem Speicherplatz des übergeordneten
+Datasets angerechnet und wirken sich auf dessen Quotas und Reservierungen aus.</translation>
     </message>
     <message>
         <source>Controls what is cached in the secondary cache (L2ARC). Possible values are all, none,
 and metadata. If set to all, both user data and metadata are cached. If set to none,
 neither user data nor metadata is cached. If set to metadata, only metadata is cached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steuert was im zweichen Cache (L2ARC) zwischengespeichert wird. Mögliche Werte sind,
+none und metadata. Wird der Wert auf all gesetzt, wird beides (Benutzer- und Metadaten)
+zwischengespeichert. Wird none gesetzt, wird nichts (keine Benutzer- oder Metadaten)
+zwischengespeichert. Wird metadata gesetzt, werden nur Metadaten zwischengespeichert.</translation>
     </message>
     <message>
         <source>Controls whether the setuid bit is honored in a file system.</source>
@@ -290,17 +309,19 @@ zfs share command mit diesen Optionen aktiviert.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the dataset type as filesystem (file system or clone), volume, or snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nur lesbare Eigenschaft welche angbit ob es sich bei dem Dataset um ein filesystem (Dateisystem oder Clone), Volume oder Snapshot handelt. </translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space consumed by a dataset and all its descendents.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibgeschützte Eigenschaft die angibt wieviel Speicherplatz von einem Datasets und allen untergeordneten benutzt wird.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by
 children of this dataset, which would be freed if all the dataset&apos;s children
 were destroyed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibgeschützte Eigenschaft die angibt wieviel Speichplatz von Kindern
+dieses Datasets genutzt wird. Dieser wird frei, wenn alle Kinder dieses
+Datasets zerstört werden.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by

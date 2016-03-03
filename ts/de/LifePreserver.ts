@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagesintervall</translation>
     </message>
 </context>
 <context>
@@ -966,7 +966,7 @@
     </message>
     <message>
         <source>Loading Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informationen werden geladen</translation>
     </message>
 </context>
 <context>
@@ -1117,7 +1117,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagesintervall</translation>
     </message>
 </context>
 <context>
