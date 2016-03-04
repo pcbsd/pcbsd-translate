@@ -13,19 +13,19 @@
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivos de registro</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin mensajes recientes</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay Archivos de Registro Disponibles</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
@@ -44,11 +44,11 @@
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar todo</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo Advertencias</translation>
     </message>
     <message>
         <source>None</source>
@@ -64,7 +64,7 @@
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Mensajes</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
@@ -72,11 +72,11 @@
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar Bandeja</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
@@ -84,7 +84,7 @@
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerta del Sistema</translation>
     </message>
 </context>
 <context>

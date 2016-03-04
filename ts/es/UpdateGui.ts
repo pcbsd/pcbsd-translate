@@ -28,7 +28,7 @@
     <name>EOLDialog</name>
     <message>
         <source>End of support</source>
-        <translation type="unfinished">Fin de Soporte</translation>
+        <translation>Fin de soporte</translation>
     </message>
     <message>
         <source>Support ends at:</source>
@@ -36,7 +36,7 @@
     </message>
     <message>
         <source>Checking ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando ...</translation>
     </message>
     <message>
         <source>Days remaining:</source>
@@ -48,11 +48,11 @@
     </message>
     <message>
         <source>Checking end of support date...</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando fecha de fin de soporte…</translation>
     </message>
     <message>
         <source>PASSED</source>
-        <translation type="unfinished"></translation>
+        <translation>APROVADO</translation>
     </message>
     <message>
         <source>Your version is not supported now!
@@ -79,35 +79,35 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Start Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar Actualizaciones</translation>
     </message>
     <message>
         <source>View Package Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver Actualización de Paquetes</translation>
     </message>
     <message>
         <source>Available Patches from the PC-BSD project</source>
-        <translation type="unfinished"></translation>
+        <translation>Parches Disponibles del proyecto PC-BSD</translation>
     </message>
     <message>
         <source>Install Patches</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar parches</translation>
     </message>
     <message>
         <source>View Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver registro</translation>
     </message>
     <message>
         <source>Configure Automatic Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar Actualizaciones Automáticas</translation>
     </message>
     <message>
         <source>Automatically Update:</source>
-        <translation type="unfinished">Actualización automática:</translation>
+        <translation>Actualizar Automáticamente:</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic updates are started in the background 20 minutes after the system boot (and every 24 hours of uptime)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Las actualizaciones automáticas iniciaran en Segundo plano 20 minutos después de que arranque el sistema (y cada 24 horas de encendido)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -143,7 +143,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Updates Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones Disponibles</translation>
     </message>
     <message>
         <source>PC-BSD Patches</source>
@@ -151,11 +151,11 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Major OS Update: %1</source>
-        <translation type="unfinished">Actualización mayor del sistema: %1</translation>
+        <translation>Actualización mayor del OS: %1</translation>
     </message>
     <message>
         <source>Will install new FreeBSD version, apply security fixes, and update packages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se instalara una nueva versión de FreeBSD, aplicaran parches de seguridad y actualizaran paquetes.</translation>
     </message>
     <message>
         <source>Install Security &amp; Package Updates</source>
@@ -163,7 +163,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Will install all security fixes and update all packages</source>
-        <translation type="unfinished">Instalara los parches de seguridad y actualizara los paquetes</translation>
+        <translation>Se instalaran todos los parches de seguridad y actualizara los paquetes</translation>
     </message>
     <message>
         <source>Install Security Updates</source>
@@ -175,7 +175,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Install Package Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalación de Actualización de Paquetes</translation>
     </message>
     <message>
         <source>Will only update installed packages</source>
@@ -183,15 +183,15 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Auto-install all updates (including major OS upgrades)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar automáticamente actualizaciones (incluyendo actualizaciones mayores del OS)</translation>
     </message>
     <message>
         <source>Auto-install security updates only</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar automáticamente solo actualizaciones de seguridad</translation>
     </message>
     <message>
         <source>Auto-install package updates only</source>
@@ -294,15 +294,15 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Vulnerabilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vulnerabilidades:</translation>
     </message>
     <message>
         <source>More info...</source>
-        <translation type="unfinished"></translation>
+        <translation>Más información...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cerrar</translation>
+        <translation>Cerrar</translation>
     </message>
     <message>
         <source>No vulnerable packages found!</source>
@@ -321,7 +321,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Your system should have at least one system update!</source>
-        <translation type="unfinished"></translation>
+        <translation>El sistema debería tener al menos una actualización!</translation>
     </message>
     <message>
         <source>#</source>

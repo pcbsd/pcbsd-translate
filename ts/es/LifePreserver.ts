@@ -403,7 +403,7 @@
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La contraseña esta en blanco o no concuerda. </translation>
     </message>
     <message>
         <source>Select LPS file</source>
@@ -463,19 +463,19 @@
     </message>
     <message>
         <source>Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, Espere.</translation>
     </message>
     <message>
         <source>Enabling off-site backup....</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilitando respaldo off-site… </translation>
     </message>
     <message>
         <source>This key file is required to access/decrypt your saved data</source>
-        <translation type="unfinished"></translation>
+        <translation>Este archivo llave es necesario para acceder/desencriptar tus datos. </translation>
     </message>
     <message>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>ADVERTENCIA</translation>
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaurar</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Archivo</translation>
     </message>
     <message>
         <source>&amp;Manage Pool</source>
@@ -590,15 +590,15 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Básico</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperar archivo</translation>
     </message>
     <message>
         <source>Restore Dataset</source>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Restoring Directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaurando Directorio: %1</translation>
     </message>
     <message>
         <source>Reversion Error</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No olvides guardar tu llave SSH en una USB así podrás restaurar tu sistema remotamente</translation>
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
@@ -750,11 +750,11 @@
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Llave SSH publicas copiada al dispositivo USB exitosamente.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Falla</translation>
     </message>
     <message>
         <source>The public SSH key file could not be copied onto the USB device.</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>NOTE: This may take quite a while to complete</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTA: Tal vez tomara un tiempo para completar</translation>
     </message>
     <message>
         <source>Trying to start a scrub</source>
@@ -866,7 +866,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>GUI Snapshot</source>
@@ -993,7 +993,7 @@
     </message>
     <message>
         <source>Daily @</source>
-        <translation type="unfinished"></translation>
+        <translation>Diariamente @</translation>
     </message>
     <message>
         <source>h AP</source>
@@ -1021,7 +1021,7 @@
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Conservar</translation>
     </message>
     <message>
         <source>days worth of snapshots</source>
@@ -1105,7 +1105,7 @@
     </message>
     <message>
         <source>Click the Finish button to apply these settings and create the new backup schedule.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Clic el botón Finalizar para aplicar estas configuraciones y crear un nuevo horario de respaldos.</translation>
     </message>
     <message>
         <source>Your new Life Preserver schedule is now set up! You may modify your configuration or enable advanced features such as off-site data replication at any time from within the main Life Preserver window.</source>

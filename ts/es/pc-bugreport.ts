@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>MainWindow</name>
     <message>
@@ -28,14 +28,14 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="86"/>
         <source>Xorg server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor Xorg</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="93"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="388"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="405"/>
         <source>Desktop environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorno de escritorio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="100"/>

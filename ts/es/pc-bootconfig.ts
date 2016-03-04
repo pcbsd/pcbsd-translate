@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>PartitionSelect</name>
     <message>
@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seleccionar un archivo de tema GRUB</translation>
     </message>
     <message>
         <source>Theme File (theme.txt)</source>
@@ -291,11 +291,11 @@
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambios sin Guardar</translation>
     </message>
     <message>
         <source>You currently have unsaved changes in the GRUB configuration. Do you want to quit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tienes actualmente cambios sin guardar en la configuración del GRUB. Aun así deseas salir?</translation>
     </message>
 </context>
 </TS>
