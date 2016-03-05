@@ -205,11 +205,11 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Extracting system...</source>
-        <translation type="unfinished"></translation>
+        <translation>Izvelk sistēmu...</translation>
     </message>
     <message>
         <source>Installing system... This may take a while...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalē sistēmu... Tas var prasīt kādu laiku...</translation>
     </message>
     <message>
         <source>Installing packages... This may take a while...</source>
@@ -261,51 +261,51 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Configuration loaded! You may now safely remove the USB media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurācija ielādēta! Jūs varat droši atvienot USB datu nesēju.</translation>
     </message>
     <message>
         <source>Config File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurācijas fails:</translation>
     </message>
     <message>
         <source>Start the install using this config file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai startēt instalēšanu, izmantojot šo konfigurācijas failu?</translation>
     </message>
     <message>
         <source>Restoring system: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjauno sistēmu: %1</translation>
     </message>
     <message>
         <source>Start the default Full-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai sākt diska noklusēto, pilno instalēšanu tagad?</translation>
     </message>
     <message>
         <source>Start the Customized-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai sākt diska pielāgoto instalēšanu tagad?</translation>
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD instalētāja konfigurācijas skripts</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Diska pārvaldības utilīta</translation>
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās nolasīt /tmp/pc-sys/</translation>
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation type="unfinished"></translation>
+        <translation>Atcelt konfigurācijas skripta instalēšanu</translation>
     </message>
     <message>
         <source>Please select the type of installation to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, izvēlieties veicamo instalēšanas veidu</translation>
     </message>
     <message>
         <source>Graphical desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Grafiskā darbvirsma</translation>
     </message>
     <message>
         <source>PC-BSD (Graphical desktop)</source>
@@ -336,11 +336,11 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>This screen will display the currently selected disk options. Clicking customize will allow you to change the target disk, file-systems and more.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis ekrāns parādīs pašlaik atlasītās diska opcijas. Noklikšķinot Pielāgot, jums būs iespēja mainīt mērķa disku, failu sistēmas u.c.</translation>
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēma pašlaik tiek instalēta! Paņemiet kādu tasi kafijas un atslābinieties, instalētājs jums paziņos, kad tas pabeigs.</translation>
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
