@@ -5,7 +5,7 @@
     <name>PartitionSelect</name>
     <message>
         <source>Select a Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar una partición</translation>
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
@@ -13,22 +13,22 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Realizado</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This application requires administrator privileges for operation.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación requiere privilegios de administrador para su operación.</translation>
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Ventanas</translation>
     </message>
 </context>
 <context>
@@ -43,43 +43,43 @@
     </message>
     <message>
         <source>Create a new boot environment</source>
-        <translation type="unfinished">Crear un nuevo entorno de arranque</translation>
+        <translation>Crear un nuevo entorno de arranque</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Añadir</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <source>Remove the currently selected boot environment</source>
-        <translation type="unfinished">Eliminar el entorno de arranque elegido.</translation>
+        <translation>Eliminar el entorno de arranque elegido</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Make a copy of the selected boot environment</source>
-        <translation type="unfinished">Copiar el entorno de arranque elegido.</translation>
+        <translation>Copiar el entorno de arranque elegido</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Rename the currently selected boot environment</source>
-        <translation type="unfinished">Cambiar el nombre del entorno de arranque elegido.</translation>
+        <translation>Cambiar el nombre del entorno de arranque elegido</translation>
     </message>
     <message>
         <source>Activate the selected boot environment to be used as the default during bootup</source>
-        <translation type="unfinished">Usar el entorno de arranque elegido como arranque por defecto.</translation>
+        <translation>Usar el entorno de arranque elegido como arranque por defecto</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutando</translation>
     </message>
     <message>
         <source>Default</source>
@@ -107,11 +107,11 @@
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuraciones</translation>
     </message>
     <message>
         <source>Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Temporizador</translation>
     </message>
     <message>
         <source>Amount of time before the default option is started (0 deactivates automatic booting)</source>
@@ -119,7 +119,7 @@
     </message>
     <message>
         <source> seconds</source>
-        <translation type="unfinished"></translation>
+        <translation> segundos</translation>
     </message>
     <message>
         <source>Font File</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cerrar</translation>
     </message>
     <message>
         <source>Re&amp;build GRUB Menu</source>
@@ -195,7 +195,7 @@
     </message>
     <message>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre Invalido</translation>
     </message>
     <message>
         <source>A Boot Environment with that name already exists, please choose a different one.</source>
@@ -211,7 +211,7 @@
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Trabajando</translation>
     </message>
     <message>
         <source>New BE name</source>

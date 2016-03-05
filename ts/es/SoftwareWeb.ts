@@ -21,7 +21,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
         <source>Enterprise (Long Term Support)</source>
-        <translation>Empresarial (Soporte Prolongado)</translation>
+        <translation>Enterprise (Long Term Support)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="50"/>

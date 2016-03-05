@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>AddDlgCode</name>
     <message>
@@ -192,23 +192,23 @@
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>UID:</source>
-        <translation type="unfinished"></translation>
+        <translation>UID:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automático</translation>
     </message>
 </context>
 <context>
@@ -223,7 +223,7 @@
     </message>
     <message>
         <source>You must specify a password</source>
-        <translation type="unfinished">Debe introducir una contraseña</translation>
+        <translation>Debe introducir una contraseña</translation>
     </message>
     <message>
         <source>The passwords didn&apos;t match. Both boxes most contain the same value.</source>
@@ -250,31 +250,31 @@
     <name>ChangePassDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished">Cambiar contraseña</translation>
+        <translation>Cambiar Contraseña</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Contraseña:</translation>
+        <translation>Contraseña:</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Confirmar contraseña:</translation>
+        <translation>Confirmar contraseña:</translation>
     </message>
     <message>
         <source>O&amp;k</source>
-        <translation type="unfinished">O&amp;k</translation>
+        <translation>O&amp;k</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
+        <translation>&amp;Cancelar</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -285,7 +285,7 @@
     </message>
     <message>
         <source>&amp;Users</source>
-        <translation type="unfinished">&amp;Usuarios</translation>
+        <translation>&amp;Usuarios</translation>
     </message>
     <message>
         <source>&amp;Add</source>

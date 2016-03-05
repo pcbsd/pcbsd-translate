@@ -119,7 +119,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Security &amp; Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Seguridad &amp; Paquetes</translation>
     </message>
     <message>
         <source>Security</source>
@@ -135,11 +135,11 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>System restart required to finish updates!</source>
-        <translation type="unfinished">Reinicio del sistema requerido para finalizar de actualizar!</translation>
+        <translation>Reinicio del sistema requerido para finalizar de actualizar!</translation>
     </message>
     <message>
         <source>System currently performing background updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema actualmente realizando actualizaciones en segundo plano.</translation>
     </message>
     <message>
         <source>Updates Available</source>
@@ -195,7 +195,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Auto-install package updates only</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar automáticamente solamente actualizaciones de paquetes</translation>
     </message>
     <message>
         <source>Auto-install security and package updates (recommended)</source>
@@ -239,11 +239,11 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor Espere</translation>
     </message>
     <message>
         <source>Starting update procedures...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando procedimientos de actualización…</translation>
     </message>
     <message>
         <source>Your system will be switched to branch:</source>
@@ -267,7 +267,7 @@ Por favor actualiza tu sistema</translation>
     </message>
     <message>
         <source>No update logs available</source>
-        <translation type="unfinished">No hay logs de actualizaciones disponibles</translation>
+        <translation>No hay logs de actualizaciones disponibles</translation>
     </message>
 </context>
 <context>
