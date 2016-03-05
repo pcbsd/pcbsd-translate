@@ -5,19 +5,19 @@
     <name>Installer</name>
     <message>
         <source>Load installation config file from USB stick</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādēt instalēšanas konfigurācijas failu no USB zibatmiņas</translation>
     </message>
     <message>
         <source>&amp;Load config from USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Ie&amp;lādēt konfigurācijas failu no USB</translation>
     </message>
     <message>
         <source>Change the installation language</source>
-        <translation type="unfinished"></translation>
+        <translation>Mainīt instalēšanas valodu</translation>
     </message>
     <message>
         <source>Welcome to PC-BSD! Please select your language and click next to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esiet sveicināti PC-BSD! Lūdzu, izvēlieties valodu un noklikšķiniet Nākamais, lai turpinātu.</translation>
     </message>
     <message>
         <source>&lt;Version&gt;</source>
@@ -25,84 +25,85 @@
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopsavilkums</translation>
     </message>
     <message>
         <source>System Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas izvēle</translation>
     </message>
     <message>
         <source>Restore from Life-Preserver backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunot no Life-Preserver rezerves kopijas</translation>
     </message>
     <message>
         <source>&amp;Customize</source>
-        <translation type="unfinished"></translation>
+        <translation>Pielāgot [&amp;C]</translation>
     </message>
     <message>
         <source>Disk Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Diska izvēle</translation>
     </message>
     <message>
         <source>&amp;Save Config to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Saglabāt konfigurāciju USB</translation>
     </message>
     <message>
         <source>Installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalācija</translation>
     </message>
     <message>
         <source>Your system is now being installed! This process may take a while, depending upon the installation options chosen, and system speed. You will be notified when the installation is finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pašlaik notiek sistēmas instelēšana! Šis process var aizņemt kādu laiku, atkarībā no izvēlētajām opcijām un sistēmas ātrdarbības. Jums tiks paziņots, kad instalēšanas process būs pabeigts.</translation>
     </message>
     <message>
         <source>Your system is now installed!
  Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēma ir uzinstalēta!
+ Noklišķiniet uz Beigt, lai restartētu. Pēc restartēšanas jūs varat izņemt instalācijas datu nesēju.</translation>
     </message>
     <message>
         <source>Display hardware compatibility diagnostic</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt aparatūras saderības diagnostiku</translation>
     </message>
     <message>
         <source>Manage network connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārvaldīt savienojumu ar datortīklu</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt palīdzību šim ekrānam</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Palaist ekrāna tastatūru</translation>
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārslēgties starp US izkārtojumu un lietotāja izvēlēto</translation>
     </message>
     <message>
         <source>Emergency Shell and Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Ārkārtas čaula un utilītas</translation>
     </message>
     <message>
         <source>Cancel the installation</source>
-        <translation type="unfinished"></translation>
+        <translation>Atcelt instalēšanu</translation>
     </message>
     <message>
         <source>Ab&amp;ort</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārtraukt [&amp;o]</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>Atpakaļ [&amp;B]</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nākamais</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versija:</translation>
     </message>
     <message>
         <source>PC-BSD Installer</source>
@@ -162,20 +163,21 @@
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcijas:</translation>
     </message>
     <message>
         <source>Start the restore now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai sākt atjaunošanu tagad?</translation>
     </message>
     <message>
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jūsu sistēma ir atjaunota!
+Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt instalēšanas datu nesēju.</translation>
     </message>
     <message>
         <source>System Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas atjaunošana</translation>
     </message>
     <message>
         <source>Your system is now being restored, this may take a while depending upon the size of your backup and network conditions.</source>
@@ -672,7 +674,7 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opcijas:</translation>
     </message>
     <message>
         <source>Partition Scheme</source>
