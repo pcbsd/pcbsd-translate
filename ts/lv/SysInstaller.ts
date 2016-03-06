@@ -107,51 +107,51 @@
     </message>
     <message>
         <source>PC-BSD Installer</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD instalētājs</translation>
     </message>
     <message>
         <source>Unable to detect any disk drives! The install will now exit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar atrast nevienu disku! Instalēšana tagad tiks pārtaukta.</translation>
     </message>
     <message>
         <source>Unable to suggest a partition for the detected disk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar ieteikt nevienu diska nodalījumu atrastajam diskam.</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalē failu sistēmā, kas montēta /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disku iestatīs ņemot vērā sekojošo konfigurāciju:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished"></translation>
+        <translation>Disks:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoguļošana:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodalījums:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Failu sistēma:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Izmērs:</translation>
+        <translation>Izmērs:</translation>
     </message>
     <message>
         <source>ZFS Datasets:</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS datu kopa:</translation>
     </message>
     <message>
         <source>The original ZFS layout will be restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiks atjaunots oriģinālais ZFS izkārtojums</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Montēt:</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -181,27 +181,27 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Your system is now being restored, this may take a while depending upon the size of your backup and network conditions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēma tiek atjaunota. Tas var prasīt kādu laiku, atkarībā no rezerves kopijas izmēra un datortīkla stāvokļa.</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās!</translation>
     </message>
     <message>
         <source>The installer has encountered an error and has been halted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalētājam radās kļūda un tas tika apturēts.</translation>
     </message>
     <message>
         <source>Do you want to generate an error report?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai vēlaties ģenerēt kļūdas ziņojumu?</translation>
     </message>
     <message>
         <source>Restart the system now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai restartēt sistēmu tagad?</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Beigt [&amp;F]</translation>
     </message>
     <message>
         <source>Extracting system...</source>
@@ -213,23 +213,23 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Installing packages... This may take a while...</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalē pakotnes... Tas var prasīt kādu laiku...</translation>
     </message>
     <message>
         <source>Installing meta-package: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalē meta-pakotni: %1</translation>
     </message>
     <message>
         <source>Are you sure you want to abort this installation?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties pārtraukt instalēšanu?</translation>
     </message>
     <message>
         <source>Warning: The selected disk / partition is less than recommended %1GB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brīdinājums: Izvēlētais disks/tā nodalījums ir mazāks par ieteicamiem %1GB.</translation>
     </message>
     <message>
         <source>This will save your installation configuration to a MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tas saglabās instalēšanas konfigurāciju MSDOSFS/FAT32 formatētā USB zibatmiņā. Vai turpināt?</translation>
     </message>
     <message>
         <source>Please insert a USB stick now, and click OK to continue.</source>
@@ -458,51 +458,51 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     <name>wizardDisk</name>
     <message>
         <source>This wizard will walk you through the disk setup process. Please choose the setup mode you wish to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis vednis palīdzēs veikt diska iestatīšanas procesu. Lūdzu, izvēlieties iestatīšanas veidu, kuru vēlaties izmantot.</translation>
     </message>
     <message>
         <source>Setup Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Iestatīšanas veids</translation>
     </message>
     <message>
         <source>Basic (New to BSD or disk partitioning)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bāzes (nepieredzējušiem BSD vai diska sadalīšanā)</translation>
     </message>
     <message>
         <source>Advanced (Experienced with file-systems)</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalizēts (pieredzējušiem darbā ar failu sistēmām)</translation>
     </message>
     <message>
         <source>FreeBSD Experts (CLI manual mode)</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD eksperta (CLI manuālais rezīms)</translation>
     </message>
     <message>
         <source>Selected Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādiet disku</translation>
     </message>
     <message>
         <source>Selected Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādiet diska nodalījumu</translation>
     </message>
     <message>
         <source>Force ZFS 4K block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzspiest ZFS 4K bloka izmēru</translation>
     </message>
     <message>
         <source>ZFS pool name</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS pūla nosaukums</translation>
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
-        <translation type="unfinished"></translation>
+        <translation>Ja šī ir viena diska ZFS instalēšana, tad jūs varat turpināt, pretējā gadījumā, lūdzu, zemāk norādiet spoguli / raid režīmu un diskus. </translation>
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS virtuālās ierīces režīms</translation>
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet vēl vismaz 1 citu disku spogulim</translation>
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
@@ -554,51 +554,51 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>Noņemt [&amp;R]</translation>
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation type="unfinished"></translation>
+        <translation>Jūs izvēlējāties Eksperta režīmu. Šajā režīmā jūs varat startēt termināla logu un lietot komandrindu, lai manuāli sadalītu disku. Kad esat beiguši, pārliecinieties, ka piemontējat failu sistēmas pie /mnt, lai uzsāktu instalēšanu. </translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Pa&amp;laist termināli</translation>
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, pārbaudiet šo diska kopsavilkumu un noklikšķiniet uz Beigt, lai saglabātu iestatījumus. </translation>
     </message>
     <message>
         <source>Use entire disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot visu disku</translation>
     </message>
     <message>
         <source>Please select 2 or 4 additional drives for raidz1</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet 2 vai 4 papildus diskus raidz1 sējumam</translation>
     </message>
     <message>
         <source>Please select 3, 5, or 9 additional drives for raidz2</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet 3, 5 vai 9 papildus diskus raidz2 sējumam</translation>
     </message>
     <message>
         <source>Please select 4, 6, or 10 additional drives for raidz3</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet 4, 6 vai 10 papildus diskus raidz3 sējumam</translation>
     </message>
     <message>
         <source>ZFS Mounts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ZFS Mounts</translation>
     </message>
     <message>
         <source>ZFS Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS opcijas</translation>
     </message>
     <message>
         <source>The original system datasets / mount-points will be automatically restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sākotnējās sistēmas datu sējumi / montēšanas punkti tiks automātiski atjaunoti.</translation>
     </message>
     <message>
         <source>Resizing</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmēra mainīšana</translation>
     </message>
     <message>
         <source>Remove mount-point</source>
@@ -638,31 +638,31 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Instalē failu sistēmā, kas montēta /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Disku iestatīs ņemot vērā sekojošo konfigurāciju:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Disks:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Spoguļošana:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodalījums:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished"></translation>
+        <translation>Failu sistēma:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Izmērs:</translation>
+        <translation>Izmērs:</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
@@ -670,35 +670,35 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Montēt:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished">Opcijas:</translation>
+        <translation>Opcijas:</translation>
     </message>
     <message>
         <source>Partition Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Diska nodalījumu shēma</translation>
     </message>
     <message>
         <source>GPT (Best for new hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT (ieteicams jaunai aparatūrai)</translation>
     </message>
     <message>
         <source>MBR (Legacy)</source>
-        <translation type="unfinished"></translation>
+        <translation>MBR (vecākai aparatūrai)</translation>
     </message>
     <message>
         <source>Target Installation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mērķa instalēšana</translation>
     </message>
     <message>
         <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>UEFI (modernām mātesplatēm)</translation>
     </message>
     <message>
         <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <translation>BIOS (vecākām mātesplatēm)</translation>
     </message>
     <message>
         <source>Add additional disks to zpool</source>
@@ -749,15 +749,15 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosaukums</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotājvārds</translation>
     </message>
     <message>
         <source>Default shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Noklusētā čaula</translation>
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
