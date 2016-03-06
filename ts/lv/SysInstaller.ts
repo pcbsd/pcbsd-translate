@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izmērs:</translation>
     </message>
     <message>
         <source>ZFS Datasets:</source>
@@ -344,106 +344,106 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas uzstādīšana ir pabeigta! Klikšķiniet Beigt, lai restartētu, un, pirms startēt jauno sistēmu, pārliecinieties, ka instalācijas datu nesējs ir atvienots vai izņemts.</translation>
     </message>
 </context>
 <context>
     <name>dialogCheckHardware</name>
     <message>
         <source>Detected hardware devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Atrastās aparatūras ierīces</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
     <message>
         <source>Video driver:</source>
-        <translation type="unfinished"></translation>
+        <translation>Video draiveris:</translation>
     </message>
     <message>
         <source>Video resolution:</source>
-        <translation type="unfinished"></translation>
+        <translation>Video izšķirtspēja:</translation>
     </message>
     <message>
         <source>No ethernet detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatrada ethernet tīklu</translation>
     </message>
     <message>
         <source>Ethernet device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ethernet ierīce:</translation>
     </message>
     <message>
         <source>No wifi detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatrada WiFi</translation>
     </message>
     <message>
         <source>Wifi device:</source>
-        <translation type="unfinished"></translation>
+        <translation>WiFi ierīce:</translation>
     </message>
     <message>
         <source>No sound detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatrada skaņas ierīci</translation>
     </message>
     <message>
         <source>Sound device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skaņas ierīce:</translation>
     </message>
 </context>
 <context>
     <name>dialogFSSize</name>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmērs:</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished"></translation>
+        <translation>MB</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Labi [&amp;O]</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>At&amp;celt</translation>
     </message>
 </context>
 <context>
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
 </context>
 <context>
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastatūras iestatījumi</translation>
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Taustiņu izkārtojums</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>Variants</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastatūras modelis</translation>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished"></translation>
+        <translation>( jūs varat rakstīt zemāk pieejamā laukā, lai pārbaudītu izvēlētos iestatījumus. )</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -451,7 +451,7 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Aizvērt [&amp;C]</translation>
     </message>
 </context>
 <context>
@@ -662,7 +662,7 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Izmērs:</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
