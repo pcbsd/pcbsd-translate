@@ -5,7 +5,7 @@
     <name>BulkModuleDialog</name>
     <message>
         <source>EasyPBI: Bulk Creator</source>
-        <translation>EasyPBI: Hurtowy Kreator</translation>
+        <translation>EasyPBI: kreator hurtowy</translation>
     </message>
     <message>
         <source>Setup</source>
