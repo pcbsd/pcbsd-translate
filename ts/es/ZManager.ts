@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="es">
 <context>
     <name>DialogFSProp</name>
     <message>
@@ -13,35 +13,35 @@
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation>Propiedad</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <source>Add user property</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir propiedad de usuario</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Remove user property</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar propiedad de usuario</translation>
     </message>
     <message>
         <source>Inherit from parent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">heredar de padre</translation>
     </message>
     <message>
         <source>Revert changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Revertir cambios</translation>
     </message>
     <message>
         <source>Controls how ACL entries are inherited when files and directories are created. The values are
@@ -416,7 +416,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Select Directory</source>
@@ -664,11 +664,11 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Propiedad</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Valor</translation>
     </message>
     <message>
         <source>Total size of the storage pool.</source>
