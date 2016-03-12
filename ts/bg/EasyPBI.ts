@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation>Основна Директория в която да направи модулите</translation>
+        <translation>Основна Директория, в която да бъдат създадени модулите</translation>
     </message>
     <message>
         <source>...</source>
@@ -29,23 +29,23 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>Категория на пакета (ще се направи/използвай това като поддиректория на модул)</translation>
+        <translation>Категория на пакета (ще бъде създадена/използване като поддиректория на модул)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
-        <translation>Презапиши съществуващите модули</translation>
+        <translation>Презаписване на съществуващите модули</translation>
     </message>
     <message>
         <source>Graphical Applications</source>
-        <translation>Графични Приложения</translation>
+        <translation>Графични програми</translation>
     </message>
     <message>
         <source>Text Applications</source>
-        <translation>Текстови Приложения</translation>
+        <translation>Текстови програми</translation>
     </message>
     <message>
         <source>Server Applications</source>
-        <translation>Сървърни Приложения</translation>
+        <translation>Сървърни програми</translation>
     </message>
     <message>
         <source>Other (libraries, meta packages, etc)</source>
@@ -69,27 +69,27 @@
     </message>
     <message>
         <source>New Graphical Modules:</source>
-        <translation>Нови Графични Модули:</translation>
+        <translation>Нови графични модули:</translation>
     </message>
     <message>
         <source>New Server Modules:</source>
-        <translation>Нови Сървърни Модули:</translation>
+        <translation>Нови сървърни модули:</translation>
     </message>
     <message>
         <source>New Text Modules:</source>
-        <translation>Нови Текстови Модули:</translation>
+        <translation>Нови текстови модули:</translation>
     </message>
     <message>
         <source>Pre-existing Modules:</source>
-        <translation>Предществащи Модули:</translation>
+        <translation>Предшестващи модули:</translation>
     </message>
     <message>
         <source>Invalid/Skipped:</source>
-        <translation>Невалидни/Прескочени:</translation>
+        <translation>Невалидни/прескочени:</translation>
     </message>
     <message>
         <source>New Other Modules:</source>
-        <translation>Други Нови Модули</translation>
+        <translation>Други нови модули:</translation>
     </message>
     <message>
         <source>Stop</source>

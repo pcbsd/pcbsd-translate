@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;Затвaряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Enable WPA authentication</source>
-        <translation>Включи на WPA удостоверяване</translation>
+        <translation>Включване на WPA удостоверяване</translation>
     </message>
     <message>
         <source>Configure &amp;WPA</source>
