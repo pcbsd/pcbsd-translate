@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ca">
 <context>
     <name>MainWindow</name>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="14"/>
         <source>PC-BSD bug reporting tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Eina d&apos;enviament d&apos;informes d&apos;error del PC-BSD</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="34"/>
         <source>Please select the component where the error occurs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el component en què ocorre l&apos;error.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="69"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="143"/>
         <source>FreeBSD base system</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de base del FreeBSD</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="79"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="212"/>
         <source>PC-BSD base system</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema de base del PC-BSD</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="86"/>
         <source>Xorg server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor Xorg</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="93"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="388"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="405"/>
         <source>Desktop environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Entorn d&apos;escriptori</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="100"/>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished"></translation>
+        <translation>Programari del FreeBSD (ports/paquets)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="107"/>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished"></translation>
+        <translation>Programari del PC-BSD (pbi)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="174"/>
