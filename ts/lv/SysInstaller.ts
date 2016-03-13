@@ -233,31 +233,31 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Please insert a USB stick now, and click OK to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievietojiet USB zibatmiņu un klišķiniet Labi, lai turpinātu.</translation>
     </message>
     <message>
         <source>Please enter the nickname you want to save this configuration as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet segvārdu ar kādu vēlētos saglabāt šo konfigurāciju.</translation>
     </message>
     <message>
         <source>Failed saving config to USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās saglabāt konfigurāciju USB ierīcē. Vai šī ierīce strādā un ir formatēta kā MSDOSFS/FAT32?</translation>
     </message>
     <message>
         <source>Configuration saved! You may now safely remove the USB media.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurācija veiksmīgi saglabāta! Tagad varat droši atvienot USB ierīci.</translation>
     </message>
     <message>
         <source>This will load a installation configuration file your MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Šis ielasīs instalācijas konfigurācijas failu no jūsu MSDOSFS/FAT32 formatētas USB zibatmiņas. Vai turpināt?</translation>
     </message>
     <message>
         <source>Please insert the USB stick now, and click OK to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, pievienojiet USB zibatmiņu un noklišķiniet Labi, lai turpinātu.</translation>
     </message>
     <message>
         <source>Failed loading saved config file from the USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās ielasīt saglabāto konfigurācijas failu no USB nesēja. Vai tas strādā un ir formatēts kā MSDOSFS/FAT32?</translation>
     </message>
     <message>
         <source>Configuration loaded! You may now safely remove the USB media.</source>
@@ -309,30 +309,30 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>PC-BSD (Graphical desktop)</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD (grafiskā darbvirsma)</translation>
     </message>
     <message>
         <source>Best for servers and headless systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Ieteicams serveriem un sistēmām bez monitora</translation>
     </message>
     <message>
         <source>TrueOS (Console based server)</source>
-        <translation type="unfinished"></translation>
+        <translation>TrueOS (konsoles bāzēts serveris)</translation>
     </message>
     <message>
         <source>Restore from an existing backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunot no rezervers kopijas</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the language you wish to perform the install with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šajā solī jūs varat norādīt valodu, kuru vēlētos izmantot instalēšanas procesā.</translation>
     </message>
     <message>
         <source>This screen allows you to select the type of system you wish to install. Clicking customize will allow you to change the selected packages for your system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Šajā solī jūs varat norādīt sistēmas tipu, kuru vēlētos instalēt. Klišķinot Pielāgot, varēsiet mainīt sistēmai atlasītās pakotnes.</translation>
     </message>
     <message>
         <source>This screen will display the currently selected disk options. Clicking customize will allow you to change the target disk, file-systems and more.</source>
@@ -506,51 +506,51 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Piezīme:ZFS spoguli/raidz var iespējot tikai visa-diska instalēšanas gadījumā</translation>
     </message>
     <message>
         <source>ZFS allows the use of read-cache (L2Arc) and write log devices (ZIL). If you wish to enable either of these, please select the disks to be used below. </source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS ļauj lietot lasīšanas kešatmiņu (L2Arc) un rakstīšanas žurnāla ierīces (ZIL). Ja vēlaties iespējot kādu no tām, lūdzu, zemāk norādiet tam lietojamo disku. </translation>
     </message>
     <message>
         <source>Enable cache device</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot kešatmiņas ierīci</translation>
     </message>
     <message>
         <source>Enable log device</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot žurnāla ierīci</translation>
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD var nošifrēt jūsu diskus, izmantojot GELI framework. Tā ir visa-diska šifrēšana un prasīs paroli pie sistēmas startēšanas.</translation>
     </message>
     <message>
         <source>Encrypt disk with GELI (Requires GPT disk scheme)</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrēt disku ar GELI (nepieciešama GPT disku shēma)</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Parole</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Parole (atkārtoti)</translation>
     </message>
     <message>
         <source>Below you may adjust the file-system mount points. For most users the defaults will work best. </source>
-        <translation type="unfinished"></translation>
+        <translation>Zemāk jūs varat pielabot failu sistēmas montēšanas punktus. Vairākumam lietotāju noklusējuma vērtības strādās vislabāk. </translation>
     </message>
     <message>
         <source>(MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>(MB)</translation>
     </message>
     <message>
         <source>Swap Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Swap izmērs</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot [&amp;A]</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -586,7 +586,7 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>ZFS Mounts</source>
-        <translation type="unfinished">ZFS Mounts</translation>
+        <translation>ZFS montēšana</translation>
     </message>
     <message>
         <source>ZFS Options</source>
@@ -602,51 +602,51 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Remove mount-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Noņemt montēšanas punktu</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this mount point?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai esat pārliecināti, ka vēlaties noņemt šo montēšanas punktu?</translation>
     </message>
     <message>
         <source>Enter mount-point</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadiet montēšanas punktu</translation>
     </message>
     <message>
         <source>Please enter the new mount-point:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet jauno montēšanas punktu:</translation>
     </message>
     <message>
         <source>Invalid Mount</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs montēšanas punkts</translation>
     </message>
     <message>
         <source>Mount point should start with &apos;/&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Montēšanas punktam jāsākas ar &apos;/&apos;</translation>
     </message>
     <message>
         <source>Editing:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediģēšana:</translation>
     </message>
     <message>
         <source>Enter SWAP size</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievadiet SWAP izmēru</translation>
     </message>
     <message>
         <source>Size (MB)</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmērs (MB)</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished">Instalē failu sistēmā, kas montēta /mnt</translation>
+        <translation>Instalē failu sistēmā, kas montēta /mnt</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished">Disku iestatīs ņemot vērā sekojošo konfigurāciju:</translation>
+        <translation>Disku iestatīs ņemot vērā sekojošo konfigurāciju:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished">Disks:</translation>
+        <translation>Disks:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
@@ -690,7 +690,7 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Target Installation</source>
-        <translation type="unfinished">Mērķa instalēšana</translation>
+        <translation>Mērķa instalēšana</translation>
     </message>
     <message>
         <source>UEFI (Modern motherboards)</source>
@@ -702,50 +702,50 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Add additional disks to zpool</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot zpool papildus diskus</translation>
     </message>
     <message>
         <source>stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>stripe</translation>
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet stripe papildus diskus</translation>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodalījuma jaunais izmērs (kopā)</translation>
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, izvēlieties disku vai nodalījumu, kurā vēlaties instalēt. </translation>
     </message>
     <message>
         <source>Use GRUB bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot GRUB bootloader</translation>
     </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
     <message>
         <source>This wizard will walk you though the setup of your new server. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Šis vednis palīdzēs uzstādīt jūsu jauno serveri. Klikškiniet Nākamais, lai sāktu. </translation>
     </message>
     <message>
         <source>Please enter the root password for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet root paroli šim serverim</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Parole</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Parole (atkārtoti)</translation>
     </message>
     <message>
         <source>Please create a user for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, izveidojiet lietotāju šim serverim</translation>
     </message>
     <message>
         <source>Name</source>
@@ -761,205 +761,208 @@ Noklikšķiniet Beigt, lai restartētu. Pēc restartēšanas varat izņemt insta
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievediet resursdatora nosaukumu un attālās pieteikšanās preferenci.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursdatora nosaukums</translation>
     </message>
     <message>
         <source>Enable remote SSH login</source>
-        <translation type="unfinished"></translation>
+        <translation>Iespējot SSH attālo pieteikšanos</translation>
     </message>
     <message>
         <source>Please select a network device to configure for this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, izvēlieties, kuru tīkla ierīci konfigurēt šai sistēmai.</translation>
     </message>
     <message>
         <source>Network Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla saskarne</translation>
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP adrese</translation>
     </message>
     <message>
         <source>Netmask</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla maska</translation>
     </message>
     <message>
         <source>Nameserver (DNS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vārdu serveris (DNS)</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Vārteja</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 adrese</translation>
     </message>
     <message>
         <source>IPv6 Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 vārteja</translation>
     </message>
     <message>
         <source>IPv6 Nameserver</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 vārdu serveris</translation>
     </message>
     <message>
         <source>Please select any optional features to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet, vai vēl kādu neobligātu līdzekli instalēt.</translation>
     </message>
     <message>
         <source>Install ports tree (/usr/ports)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalēt portu koku (/usr/ports)</translation>
     </message>
     <message>
         <source>000.000.000.000</source>
-        <translation type="unfinished"></translation>
+        <translation>000.000.000.000</translation>
     </message>
     <message>
         <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai instalēt AppCafe? Tā ļauj jums pārvaldīt pakotnes un jails no pārlūkprogrammas vai mobilās ierīces.</translation>
     </message>
     <message>
         <source>Install AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalēt AppCafe</translation>
     </message>
 </context>
 <context>
     <name>wizardRestore</name>
     <message>
         <source>This wizard will walk you though the process of restoring your system from a Life-Preserver backup. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Šis vednis palīdzēs atjaunot sistēmu no Life-Preserver rezerves kopijas. Klikšķiniet uz Nākamais, lai sāktu. </translation>
     </message>
     <message>
         <source>Backup Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Rezerves kopiju serveris</translation>
     </message>
     <message>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Resursdators</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietotājvārds</translation>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH ports</translation>
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja saglabājāt jūsu Life-Preserver atslēgu USB nesējā, pievienojiet to tagad un izvēlieties to, pretējā gadījumā būs izmantojama paroles autentificēšanās.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Servera autentificēšana</translation>
     </message>
     <message>
         <source>Use USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot USB atslēgu</translation>
     </message>
     <message>
         <source>Use password authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Lietot paroles autentificēšanos</translation>
     </message>
     <message>
         <source>The following systems are backed up on this server, select the one you wish to restore. </source>
-        <translation type="unfinished"></translation>
+        <translation>Uz šī servera ir pieejamas sekojošo sistēmu rezerves kopijas, lūdzu, izvēlieties, kuru no tām atjaunot. </translation>
     </message>
     <message>
         <source>Restore System Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēmas atjaunošanas izvēle</translation>
     </message>
     <message>
         <source>Restore Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunošanas kopsavilkums</translation>
     </message>
     <message>
         <source>The system is ready to be restored, click Finish to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistēma ir gatava atjaunošanai, klikšķiniet Beigt, lai turpinātu.</translation>
     </message>
     <message>
         <source>No keys found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Atslēgas netika atrastas!</translation>
     </message>
     <message>
         <source>No Auth keys could be found on that memory stick!
 Please try another USB stick or use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uz šīs zibatmiņas netika atrasta neviena autentificēšanas atslēga!
+Lūdzu, mēģiniet citu USB zibatmiņu vai lietojiet paroles autentificēšanos.</translation>
     </message>
     <message>
         <source>Connection failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Savienojums neizdevās!</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check that the server is reachable and verify your user/password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja pieslēgties pie rezerves kopiju servera!
+Lūdzu, pārliecinieties vai serveris ir sasniedzams un pārbaudiet jūsu lietotājvārdu/paroli.</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check your hostname and that the backup server is reachable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neverēja pieslēgties pie rezerves kopiju servera!
+Lūdzu, pārbaudiet resursdatora nosaukumu kā arī vai ir sasniedzams rezerves kopiju serveris.</translation>
     </message>
     <message>
         <source>Will restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atjaunos no:</translation>
     </message>
     <message>
         <source>Select the SSH key to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādiet lietojamo SSH atslēgu</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Atslēgas fails:</translation>
     </message>
     <message>
         <source>To get started with a system restore, please select the type of backup to restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lai sāktu sistēmas atjaunošanu, lūdzu, norādiet no kāda rezerves kopijas tipa jāveic atjaunošana:</translation>
     </message>
     <message>
         <source>Encrypted iSCSI Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Šifrēta iSCSI atjaunošana</translation>
     </message>
     <message>
         <source>Please select the *.lpiscsi file</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, norādiet *.lpiscsi failu</translation>
     </message>
     <message>
         <source>Browse for local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārlūkot lokālu failu</translation>
     </message>
     <message>
         <source>Import from USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importēt no USB atslēgas</translation>
     </message>
     <message>
         <source>Please enter the password to unlock the lpiscsi file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lūdzu, ievadiet paroli, lai atslēgtu lpiscsi failu:</translation>
     </message>
     <message>
         <source>SSH Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH atjaunošana</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Atvērt failu</translation>
     </message>
     <message>
         <source>LP iSCSI Settings (*.lpiscsi)</source>
-        <translation type="unfinished"></translation>
+        <translation>LP iSCSI iestatījumi (*.lpiscsi)</translation>
     </message>
     <message>
         <source>Select the .lpiscsi to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Norādiet, kuru .lpiscsi lietot</translation>
     </message>
     <message>
         <source>ISCSI File:</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI fails:</translation>
     </message>
 </context>
 </TS>
