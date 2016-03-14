@@ -50,84 +50,85 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="174"/>
         <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Presentar un informe d&apos;error fent servir el mecanisme de Bugzilla per al FreeBSD </translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="194"/>
         <source>2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Enviar un correu electrònic la  llista de correu d&apos;erros de FreeBSD. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="243"/>
         <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Presentar un informe d&apos;error fent servir el programa de seguiment d&apos;errors del PC-BSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="263"/>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"></translation>
+        <translation>Si no esteu segur que és un error, podeu preguntar-ne informació a la llista de correu de proves del PC-BSD.
+ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="285"/>
         <source>X.org server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor X.org</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="316"/>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Presentar un informe d&apos;error fent servir el mecanisme freedesktop de Bugzilla.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="336"/>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Enviar un correu electrònic a la llista de correu de proves de xorg. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="356"/>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Si penseu que és un problema específic del FreeBSD; si us plau, informeu-ne a la llista de correu de Freebsd-x11.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="373"/>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation type="unfinished"></translation>
+        <translation>4. Si penseu que és un problema específic del PC-BSD; si us plau, creeu-ne un tiquet al seguiment d&apos;errors.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="394"/>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu quin entorn d&apos;escriptori produeix el problema:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="419"/>
         <source>Gnome</source>
-        <translation type="unfinished"></translation>
+        <translation>Gnome</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="450"/>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Envia un correu electrònic a la llista de correu freebsd-gnome.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="467"/>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Crea un tiquet al seguiment d&apos;errors del PC-BSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="495"/>
         <source>KDE</source>
-        <translation type="unfinished"></translation>
+        <translation>KDE</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="526"/>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Presenta un informe d&apos;error al seguiment d&apos;errors del KDE</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="546"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="645"/>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Si penseu que és un problema específic del FreeBSD; si us plau, informeu-ne la llista de correu de kde-freebsd.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="566"/>
@@ -137,12 +138,12 @@ Visit the following web page to subscribe to or read the archives of this list</
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="905"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="974"/>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Si penseu que és un problema específic del PC-BSD; si us plau, creeu un tiquet al seguiment d&apos;errors del PC-BSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="597"/>
         <source>XFCE</source>
-        <translation type="unfinished"></translation>
+        <translation>XFCE</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="628"/>
@@ -197,38 +198,38 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1033"/>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Podeu informar dels problemes a les llistes de correu del freebsd-ports-bugs</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1061"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1094"/>
         <source>PBI software</source>
-        <translation type="unfinished"></translation>
+        <translation>Programari PBI</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1067"/>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el programari de PBI amb l&apos;error</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1075"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1080"/>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicació</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1085"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1125"/>
         <source>1. You can try to report a bug at software site</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Podeu tractar d&apos;informar d&apos;un error al lloc web del programari.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1142"/>
@@ -238,7 +239,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.cpp" line="156"/>
         <source>PBI software: </source>
-        <translation type="unfinished"></translation>
+        <translation>Programari de PBI: </translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.cpp" line="295"/>
@@ -269,7 +270,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulari</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="23"/>
@@ -295,42 +296,42 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="130"/>
         <source>Diagnostic report</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe de diagnòstic</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="133"/>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe de diagnòstic del PCBSD </translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="138"/>
         <source>lsusb output</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida de lsusb</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="143"/>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished"></translation>
+        <translation>Llista de dispositius PCI - PCIConf</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="148"/>
         <source>Xorg version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió de Xorg</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="153"/>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió del FreeBSD  (uname -a)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallada</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
         <source>Failed to create diagnostic sheet</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha fallat crear el full de diagnòstic</translation>
     </message>
 </context>
 <context>
@@ -338,12 +339,12 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/weburl.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/weburl.ui" line="76"/>
         <source>Launch web browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia el navegador web</translation>
     </message>
 </context>
 <context>
@@ -351,24 +352,24 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="38"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="74"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="120"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de text</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="62"/>
         <source>Send message to</source>
-        <translation type="unfinished"></translation>
+        <translation>Envia un missatge a </translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="97"/>
         <source>Compose email</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriu un correu electrònic</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="108"/>
@@ -378,7 +379,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/maillist.ui" line="146"/>
         <source>Launch web browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Inicia el navegador web</translation>
     </message>
 </context>
 </TS>
