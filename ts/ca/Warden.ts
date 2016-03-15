@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ca">
 <context>
     <name>dialogConfig</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desa</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancel·la</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Jail Network Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfície de xarxa de la gàbia</translation>
     </message>
     <message>
         <source>Jail Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori de la gàbia</translation>
     </message>
     <message>
         <source>Temp Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori temporal</translation>
     </message>
     <message>
         <source>Select Jail Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un directori de gàbia</translation>
     </message>
     <message>
         <source>Select Temp Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un directori temporal</translation>
     </message>
 </context>
 <context>
     <name>dialogDisplayOutput</name>
     <message>
         <source>Command Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Sortida de l&apos;ordre</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>dialogEditIP</name>
     <message>
         <source>Jail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de gàbia</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions</translation>
     </message>
     <message>
         <source>Enable VNET / VIMAGE support</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita el suport de VNET / VIMAGE</translation>
     </message>
     <message>
         <source>IPv4</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça IPv4</translation>
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
@@ -91,11 +91,11 @@
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IPv6</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adreça IPv4 {6 ?}</translation>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Àlies</translation>
     </message>
     <message>
         <source>IPv4 Aliases</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Àlies de pont IPv6 {4 ?}</translation>
     </message>
     <message>
         <source>IPv6 Aliases</source>
@@ -123,39 +123,39 @@
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Àlies de pont IPv6</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos</translation>
     </message>
     <message>
         <source>The following permissions can be enabled or disabled for this jail. For more details hover over each item or refer to the jail manpage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els següents permisos es poden habilitar o inhabilitar per a aquesta gàbia. Per a més detalls col·loqueu el cursor sobre cada element o vegeu la pàgina del manual de la gàbia.</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Desa</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancel·la</translation>
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un procés dins de la gàbia té accés a System V IPC primitives.</translation>
     </message>
     <message>
         <source>The prison root is allowed to create raw sockets. Enables ping / traceroute.</source>
-        <translation type="unfinished"></translation>
+        <translation>La gàbia root té permís per crear sòcols en cru. Habilita ping / traceroute.</translation>
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
@@ -191,50 +191,50 @@
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guarda</translation>
     </message>
     <message>
         <source>Invalid IPv4 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça IPv4 no és vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv4 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça de pont IPv4 no és vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv4 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça de l&apos;encaminador IPv4 no és vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça IPv6 no és vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv6 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça del pont IPv6 no és vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv6 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;adreça de l&apos;encaminador IPv6 no és vàlida!</translation>
     </message>
     <message>
         <source>Add IP</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una IP</translation>
     </message>
     <message>
         <source>IP Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça IP:</translation>
     </message>
     <message>
         <source>Please enter a valid IPV4 or IPV6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, introduïu una adreça IPV4 o IPV6 vàlida!</translation>
     </message>
 </context>
 <context>
     <name>dialogImport</name>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa la gàbia</translation>
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
@@ -242,145 +242,145 @@
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;D&apos;acord</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cancel·la</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça IPv4</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;amfitrió</translation>
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la gàbia</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished"></translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 <context>
     <name>dialogTemplates</name>
     <message>
         <source>Jail Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilles de gàbia</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una gàbia nova</translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix la gàbia seleccionada</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>System Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió del sistema</translation>
     </message>
     <message>
         <source>What version do you wish to fetch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quina versió voleu?</translation>
     </message>
     <message>
         <source>Template Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobrenom de la plantilla</translation>
     </message>
     <message>
         <source>Enter a nickname for this template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriviu un sobrenom per a aquesta plantilla:</translation>
     </message>
 </context>
 <context>
     <name>dialogWarden</name>
     <message>
         <source>The Warden</source>
-        <translation type="unfinished"></translation>
+        <translation>El guarda</translation>
     </message>
     <message>
         <source>Working on Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Es treballa a la gàbia</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació</translation>
     </message>
     <message>
         <source>Jail Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació de la gàbia</translation>
     </message>
     <message>
         <source>Jail Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de gàbia:</translation>
     </message>
     <message>
         <source>Size on Disk:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida al disc:</translation>
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia durant l&apos;arrencada:</translation>
     </message>
     <message>
         <source>Network Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació de la xarxa</translation>
     </message>
     <message>
         <source>Active Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexions actives:</translation>
     </message>
     <message>
         <source>IPs:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>Listening on Ports:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ports on s&apos;escolta:</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Eines</translation>
     </message>
     <message>
         <source>Jail Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestió de gàbies</translation>
     </message>
     <message>
         <source>User Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Administració d&apos;usuaris</translation>
     </message>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestor del servei</translation>
     </message>
     <message>
         <source>Launch Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Obre un terminal</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprova si hi ha actualitzacions</translation>
     </message>
     <message>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilitats</translation>
     </message>
     <message>
         <source>Export Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta la gàbia</translation>
     </message>
     <message>
         <source>Snapshots</source>
@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Afegeix</translation>
     </message>
     <message>
         <source>Delete the snapshot</source>
@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Elimina</translation>
     </message>
     <message>
         <source>Scheduled Snapshots</source>
@@ -420,111 +420,111 @@
     </message>
     <message>
         <source>Days to keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Dies per mantenir</translation>
     </message>
     <message>
         <source>Installed Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbies instal·lades</translation>
     </message>
     <message>
         <source>Start the selected jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la gàbia seleccionada</translation>
     </message>
     <message>
         <source>&amp;Start Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Inicia la gàbia</translation>
     </message>
     <message>
         <source>Configure the jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura la gàbia</translation>
     </message>
     <message>
         <source>J&amp;ail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració de la gàbi&amp;a</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Afegeix una gàbia nova</translation>
     </message>
     <message>
         <source>&amp;New Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbia &amp;nova</translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Suprimeix la gàbia seleccionada</translation>
     </message>
     <message>
         <source>&amp;Remove Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Sup&amp;rimeix la gàbia</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fitxer</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Configura</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Surt</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Surt</translation>
     </message>
     <message>
         <source>New Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbia nova</translation>
     </message>
     <message>
         <source>&amp;Refresh Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Refresca les gàbies</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Refresca</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Arranjament</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <source>&amp;Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Importa la gàbia</translation>
     </message>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa la gàbia</translation>
     </message>
     <message>
         <source>&amp;Template Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestor de plan&amp;tilles</translation>
     </message>
     <message>
         <source>&lt;- Please select a jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;- Si us plau, seleccioneu una gàbia</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished"></translation>
+        <translation>Guarda</translation>
     </message>
     <message>
         <source>No valid network interface specified! Select one now?</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha especificat cap interfície de xarxa vàlida! Voleu seleccionar-ne una ara?</translation>
     </message>
     <message>
         <source>Updates available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitzacions disponibles!</translation>
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>At&amp;ura la gàbia</translation>
     </message>
     <message>
         <source>Stop the selected jail</source>
@@ -564,47 +564,47 @@
     </message>
     <message>
         <source>Stopping Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;atura la gàbia:</translation>
     </message>
     <message>
         <source>Starting Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;inicia la gàbia</translation>
     </message>
     <message>
         <source>Starting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;inicia la gàbia</translation>
     </message>
     <message>
         <source>Choose a directory to save the finished .wdn file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Trieu un directori per desar-hi el fitxer .wdn acabat:</translation>
     </message>
     <message>
         <source>Exporting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;exporta la gàbia:</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu suprimir la gàbia</translation>
     </message>
     <message>
         <source>Deleting Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;elimina la gàbia</translation>
     </message>
     <message>
         <source>Deleting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;elimina la gàbia:</translation>
     </message>
     <message>
         <source>Select warden jail package</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un paquet de gàbia del guarda</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregant...</translation>
     </message>
     <message>
         <source>Loading snapshots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Es carreguen les instantànies...</translation>
     </message>
     <message>
         <source>For snapshot support you must be using ZFS</source>
@@ -612,19 +612,19 @@
     </message>
     <message>
         <source>No label</source>
-        <translation type="unfinished"></translation>
+        <translation>Sense etiqueta</translation>
     </message>
     <message>
         <source>No snapshots available. You may create one below.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi ha instantànies disponibles. En podeu crear una aquí sota.</translation>
     </message>
     <message>
         <source>No jail selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha seleccionat cap gàbia!</translation>
     </message>
     <message>
         <source>Working on jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Es treballa a la gàbia:</translation>
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
@@ -636,39 +636,39 @@
     </message>
     <message>
         <source>Creating new snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Es crea la instantània nova... Espereu, si us plau...</translation>
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentari de la instantània</translation>
     </message>
     <message>
         <source>Are you sure you want to revert to the snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu tornar a la instantània:</translation>
     </message>
     <message>
         <source>Any newer snapshots will be lost, and the jail will be restarted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Es perdrà qualsevol instantània més nova i es reiniciarà la gàbia!</translation>
     </message>
     <message>
         <source>Reverting snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Es torna a la instantània. Espereu, si us plau...</translation>
     </message>
     <message>
         <source>Reverting snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Es torna a la instantània</translation>
     </message>
     <message>
         <source>Reverting to snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Es torna a la instantània:</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu suprimir la instantània:</translation>
     </message>
     <message>
         <source>Removing snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;elimina la instantània... Espereu, si us plau...</translation>
     </message>
 </context>
 <context>
@@ -690,7 +690,7 @@
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nom d&apos;amfitrió</translation>
     </message>
     <message>
         <source>Jailbird</source>
@@ -698,11 +698,11 @@
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adreça IPv4 {6 ?}</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adreça IPv4</translation>
     </message>
     <message>
         <source>Please select the type of jail you want to create. </source>
@@ -714,39 +714,39 @@
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbia tradicional (segura, la millor per als serveis)</translation>
     </message>
     <message>
         <source>Install PKGNG and PC-BSD utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Instal·la PKGNG i les utilitats del PC-BSD</translation>
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versió de la gàbia</translation>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbia de ports (no segura, permet executar aplicacions d&apos;X)</translation>
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gàbia de Linux (executa Linux dins d&apos;una gàbia) - Experimental!</translation>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
-        <translation type="unfinished"></translation>
+        <translation>Escriviu a continuació la contrasenya root per a aquesta gàbia. </translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya de root</translation>
     </message>
     <message>
         <source>Root Password (Confirm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya de root (confirmació)</translation>
     </message>
     <message>
         <source>Please select the Linux install script to use for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu l&apos;script d&apos;instal·lació de Linux a usar per a aquesta gàbia.</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
@@ -754,7 +754,7 @@
     </message>
     <message>
         <source>Jail Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opcions de la gàbia</translation>
     </message>
     <message>
         <source>Include system source</source>
@@ -770,11 +770,11 @@
     </message>
     <message>
         <source>Use system version (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa la versió del sistema (per defecte)</translation>
     </message>
     <message>
         <source>Hostname cannot contain spaces!</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom de l&apos;amfitrió no pot contenir espais!</translation>
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
@@ -782,19 +782,19 @@
     </message>
     <message>
         <source>Hostname already used!</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom d&apos;amfitrió ja s&apos;està utilitzant!</translation>
     </message>
     <message>
         <source>IP already used!</source>
-        <translation type="unfinished"></translation>
+        <translation>La IP ja s&apos;està utilitzant!</translation>
     </message>
     <message>
         <source>Invalid IP address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça IP no vàlida!</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">L&apos;adreça IPv6 no és vàlida!</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
@@ -802,7 +802,7 @@
     </message>
     <message>
         <source>Select Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecciona l&apos;script</translation>
     </message>
     <message>
         <source>Linux install files (*)</source>
