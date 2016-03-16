@@ -5,15 +5,15 @@
     <name>ethernetconfig</name>
     <message>
         <source>Network Configuration</source>
-        <translation>Мрежова настройка</translation>
+        <translation>Мрежови настройки</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>&amp;ОК</translation>
+        <translation>&amp;Добре</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation>Alt+Д</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+А</translation>
+        <translation>Alt+П</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation>Alt+З</translation>
     </message>
     <message>
         <source>Disable this networ&amp;k device</source>
@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation>Alt+Х</translation>
     </message>
     <message>
         <source>Custom MAC address</source>
-        <translation>Зададен от потребителя MAC адрес</translation>
+        <translation>Потребителски MAC адрес</translation>
     </message>
     <message>
         <source>IPv6 static address</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>Obtain IPv6 address automaticall&amp;y</source>
-        <translation>Автоматично получаване на IPv6 адрес</translation>
+        <translation>&amp;Автоматично получаване на IPv6 адрес</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation>Alt+Y</translation>
+        <translation>Alt+А</translation>
     </message>
     <message>
         <source>I&amp;nfo</source>

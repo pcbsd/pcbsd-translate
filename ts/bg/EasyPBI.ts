@@ -751,315 +751,315 @@
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD порт, който искате да преобразувате в PBI</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл с икона</translation>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG файл с икона, който да се използва за PBI пакета (може да бъде променен по-късно)</translation>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете PNG файл от локалната файлова система (препоръчва се размер 64x64 пиксела)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор</translation>
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
-        <translation type="unfinished"></translation>
+        <translation>Бърз модул (Прескачане на автоматичното генериране на стойности)</translation>
     </message>
     <message>
         <source>Select PNG Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на икона в PNG</translation>
     </message>
     <message>
         <source>PNG icon (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG икона (*.png)</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>EasyPBI Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки на EasyPBI</translation>
     </message>
     <message>
         <source>Local Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Локални пътища</translation>
     </message>
     <message>
         <source>External Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Външни инструменти</translation>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Инструмент за смяна на потребителя</translation>
     </message>
     <message>
         <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation type="unfinished"></translation>
+        <translation>Пълният път до графичния инструмент за &quot;Смяна на потребителя&quot; (pc-su, gksu, kdesu, qsu и др.)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Преглед на локалната файлова система за изпълнимия файл.</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор</translation>
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Нека EasyPBI сканира отново системата за налични инструменти.</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично откриване</translation>
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартни пътища за търсене</translation>
     </message>
     <message>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>Модули</translation>
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна директория за създаване на всички PBI модули</translation>
     </message>
     <message>
         <source>Select a local directory for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на стандартна директория за PBI модули.</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресурси</translation>
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна директория, която да бъде отворена когато се добавят икони/файлове към модул</translation>
     </message>
     <message>
         <source>Select a local directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на директория от локалната файлова система.</translation>
     </message>
     <message>
         <source>Default Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна икона</translation>
     </message>
     <message>
         <source>Default PNG icon to use for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна икона в PNG файл, която да се използва за PBI модули.</translation>
     </message>
     <message>
         <source>Browse local system for a default PNG icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Преглед на локалната файлова система за стандартна икона в PNG формат.</translation>
     </message>
     <message>
         <source>Select Default Module Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на стандартна директория за модули</translation>
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на стандартна директория, където се намират файлове с икони</translation>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на файл за стандартна икона</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG изображения (*.png)</translation>
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на графичен инструмент за смяна на потребителя</translation>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сигурни ли сте, че искате да се върнете към автоматично открития път за инструментите?</translation>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation>Това ще премахне всички потребителски настройки на пътищата към външни инструменти.</translation>
     </message>
 </context>
 <context>
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Опции за настройка на услуги</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмяна</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагане</translation>
     </message>
     <message>
         <source>Option Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид опция:</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание:</translation>
     </message>
     <message>
         <source>Number Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>Числови ограничения</translation>
     </message>
     <message>
         <source>Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимално:</translation>
     </message>
     <message>
         <source>Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation>Минимално:</translation>
     </message>
     <message>
         <source>Text Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстови опции</translation>
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимална дължина:</translation>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation>Скриване на текста (т.е. пароли)</translation>
     </message>
     <message>
         <source>Options List</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък с опции</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключ:</translation>
     </message>
     <message>
         <source>Default Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна стойност:</translation>
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation>Падащ списък (предефиниран списък с опции)</translation>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation>Числова кутия (цели числа)</translation>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстова кутия (потребителски текст)</translation>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (запазен като: %2)</translation>
     </message>
     <message>
         <source>New Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова стойност</translation>
     </message>
     <message>
         <source>Invisible File Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стойност за скритите файлове</translation>
     </message>
     <message>
         <source>New Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов текст</translation>
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Видимо име на опция:</translation>
     </message>
 </context>
 <context>
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Относно EasyPBI</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished">Лиценз</translation>
+        <translation>Лиценз</translation>
     </message>
     <message>
         <source>Development History</source>
-        <translation type="unfinished"></translation>
+        <translation>История на разработка</translation>
     </message>
     <message>
         <source>EasyPBI version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI версия %1</translation>
     </message>
     <message>
         <source>Create PBI&apos;s quickly and easily.</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на PBI пакети - бързо и лесно.</translation>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файла с ресурси не може да бъде отворен: %1</translation>
     </message>
     <message>
         <source>Please check that your EasyPBI compilation was performed correctly</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, уверете се, че компилацията на EasyPBI е била извършена правилно</translation>
     </message>
 </context>
 <context>
     <name>pkgSelect</name>
     <message>
         <source>Select a package</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на пакет</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Налични пакети</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Приемане</translation>
     </message>
     <message>
         <source>No Packages Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма налични пакети</translation>
     </message>
     <message>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсенето завърши</translation>
     </message>
     <message>
         <source>No package found with that term</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма намерени пакети с тази ключова дума</translation>
     </message>
 </context>
 </TS>

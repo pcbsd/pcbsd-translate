@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="bg">
 <context>
     <name>Installer</name>
     <message>
         <source>Change the installation language</source>
-        <translation type="unfinished"></translation>
+        <translation>Промяна на езика на инсталатора</translation>
     </message>
     <message>
         <source>Welcome to your new PC-BSD system! You may change your language above, and click next to begin the setup process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Добре дошли във вашата нова система на PC-BSD! Можете да промените езика по-горе, след което натиснете Напред - за да продължите процеса по установка.</translation>
     </message>
     <message>
         <source>May be used when dual-booting</source>
