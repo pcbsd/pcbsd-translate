@@ -80,7 +80,7 @@
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation>Stan systemu nie może zostać określony.</translation>
+        <translation>Nie można określić stanu systemu!</translation>
     </message>
 </context>
 <context>
