@@ -83,27 +83,27 @@
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça del pont IPv4 (Necessita VNET)</translation>
     </message>
     <message>
         <source>IPv4 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Encaminador IPv4 per defecte (Necessita VNET)</translation>
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished">IPv6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adreça IPv4 {6 ?}</translation>
+        <translation>Adreça IPv6</translation>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Adreça del pont IPv6 (Necessita VNET)</translation>
     </message>
     <message>
         <source>IPv6 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>Encaminador IPv6 per defecte (Necessita VNET)</translation>
     </message>
     <message>
         <source>Aliases</source>
@@ -111,15 +111,15 @@
     </message>
     <message>
         <source>IPv4 Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Àlies IPv4</translation>
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished">Àlies de pont IPv6 {4 ?}</translation>
+        <translation>Àlies del pont IPv4</translation>
     </message>
     <message>
         <source>IPv6 Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Àlies IPv6</translation>
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
@@ -159,39 +159,39 @@
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quan s&apos;estableix aquest paràmetre, aquests usuaris són tractats com a privilegiats i poden manipular les banderes del sistema de fitxers subjectes a les restriccions habituals a kern.securelevel.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris privilegiats dins de la gàbia seran capaços de muntar i desmuntar tipus de sistemes de fitxers marcats com a &quot;jail-friendly&quot;.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris privilegiats dins de la gàbia seran capaços de muntar i desmuntar el sistema de fitxers devfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris privilegiats dins de la gàbia seran capaços de muntar i desmuntar el sistema de fitxers nullfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris privilegiats dins de la gàbia seran capaços de muntar i desmuntar el sistema de fitxers procfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Els usuaris privilegiats dins de la gàbia seran capaços de muntar i desmuntar el sistema de fitxers zfs.</translation>
     </message>
     <message>
         <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;arrel de la presó pot gestionar quotes als sistemes de fitxers de la gàbia.</translation>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Això permet l&apos;accés a altres piles de protocols que no han tingut funcionalitat de gàbia afegida.</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished">Guarda</translation>
+        <translation>Guarda</translation>
     </message>
     <message>
         <source>Invalid IPv4 address!</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el sobrenom per a aquesta nova gàbia. Teniu l&apos;opció de canviar la IP / nom d&apos;amfitrió de la gàbia importada. Qualsevol referència interna a l&apos;antiga IP / nom d&apos;amfitrió encara pot necessitar un canvi després de la importació.</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -384,39 +384,39 @@
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantànies</translation>
     </message>
     <message>
         <source>Restore existing snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaura la instantània existent</translation>
     </message>
     <message>
         <source>R&amp;estore</source>
-        <translation type="unfinished"></translation>
+        <translation>R&amp;estaura</translation>
     </message>
     <message>
         <source>Create a new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una instantània nova</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegeix</translation>
+        <translation>&amp;Afegeix</translation>
     </message>
     <message>
         <source>Delete the snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la instantània</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Elimina</translation>
+        <translation>&amp;Elimina</translation>
     </message>
     <message>
         <source>Scheduled Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantànies programades</translation>
     </message>
     <message>
         <source>Snapshot Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Freqüència de les instantànies</translation>
     </message>
     <message>
         <source>Days to keep</source>
@@ -528,39 +528,39 @@
     </message>
     <message>
         <source>Stop the selected jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura la gàbia seleccionada</translation>
     </message>
     <message>
         <source>Stop this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura aquesta gàbia</translation>
     </message>
     <message>
         <source>Start this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia aquesta gàbia</translation>
     </message>
     <message>
         <source>Start update manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia el gestor d&apos;actualitzacions</translation>
     </message>
     <message>
         <source>Toggle Autostart</source>
-        <translation type="unfinished"></translation>
+        <translation>Commuta l&apos;inici automàtic</translation>
     </message>
     <message>
         <source>Export jail to .wdn file</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporta la gàbia a un fitxer .wdn</translation>
     </message>
     <message>
         <source>Clone this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Clona aquesta gàbia</translation>
     </message>
     <message>
         <source>Delete Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la gàbia</translation>
     </message>
     <message>
         <source>Stopping Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;atura la gàbia</translation>
     </message>
     <message>
         <source>Stopping Jail:</source>
@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>For snapshot support you must be using ZFS</source>
-        <translation type="unfinished"></translation>
+        <translation>Per tenir suport d&apos;instantànies cal usar ZFS</translation>
     </message>
     <message>
         <source>No label</source>
@@ -628,11 +628,11 @@
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduïu el nom d&apos;amfitrió per a la gàbia clonada</translation>
     </message>
     <message>
         <source>Cloned jail hostname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom d&apos;amfitrió de la gàbia clonada:</translation>
     </message>
     <message>
         <source>Creating new snapshot... Please wait...</source>
@@ -675,42 +675,42 @@
     <name>dialogWorking</name>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Treballant</translation>
     </message>
 </context>
 <context>
     <name>wizardNewJail</name>
     <message>
         <source>New Jail Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistent per a una gàbia nova</translation>
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà a través de la creació d&apos;una gàbia nova. En primer lloc, introduïu un nom d&apos;amfitrió i una adreça IP actualment en ús a la xarxa. Si teniu pensat fer ús d&apos;IPv6 per accedir a la gàbia, marqueu-ne la casella i introduïu-hi una adreça IPv6 vàlida. En acabat, feu clic a següent per continuar.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Nom d&apos;amfitrió</translation>
+        <translation>Nom d&apos;amfitrió</translation>
     </message>
     <message>
         <source>Jailbird</source>
-        <translation type="unfinished"></translation>
+        <translation>Engabiat</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adreça IPv4 {6 ?}</translation>
+        <translation>Adreça IPv6</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished">Adreça IPv4</translation>
+        <translation>Adreça IPv4</translation>
     </message>
     <message>
         <source>Please select the type of jail you want to create. </source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, seleccioneu el tipus de gàbia que voleu crear: </translation>
     </message>
     <message>
         <source>Jail Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus de gàbia</translation>
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, agafeu-vos un moment i establiu altres opcions per a aquesta gàbia. Recordeu que la inclusió de l&apos;opció de font de sistema requereix que siguin presents a /usr/src.</translation>
     </message>
     <message>
         <source>Jail Options</source>
@@ -758,15 +758,15 @@
     </message>
     <message>
         <source>Include system source</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclou la font de sistema</translation>
     </message>
     <message>
         <source>Include ports tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Inclou l&apos;arbre de ports</translation>
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la gàbia durant l&apos;arrencada del sistema</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
-        <translation type="unfinished"></translation>
+        <translation>El nom d&apos;amfitrió no pot contenir caràcters especials!</translation>
     </message>
     <message>
         <source>Hostname already used!</source>
@@ -794,11 +794,11 @@
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished">L&apos;adreça IPv6 no és vàlida!</translation>
+        <translation>L&apos;adreça IPv6 no és vàlida!</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, agafeu-vos un moment i establiu altres opcions per a aquesta gàbia.</translation>
     </message>
     <message>
         <source>Select Script</source>
@@ -806,7 +806,7 @@
     </message>
     <message>
         <source>Linux install files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers d&apos;instal·lació de Linux (*)</translation>
     </message>
 </context>
 </TS>

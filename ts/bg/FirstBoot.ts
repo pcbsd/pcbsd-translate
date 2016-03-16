@@ -13,107 +13,107 @@
     </message>
     <message>
         <source>May be used when dual-booting</source>
-        <translation type="unfinished"></translation>
+        <translation>Може да се използва при двойно начално зареждане</translation>
     </message>
     <message>
         <source>Set BIOS to UTC time</source>
-        <translation type="unfinished"></translation>
+        <translation>Сверяване на часовника на BIOS по UTC</translation>
     </message>
     <message>
         <source>System Timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Системно часово време</translation>
     </message>
     <message>
         <source>Set the system timezone</source>
-        <translation type="unfinished"></translation>
+        <translation>Задаване на системното часово време</translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Име на хост за системата</translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Парола на Root</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Парола</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Парола (отново)</translation>
     </message>
     <message>
         <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation type="unfinished"></translation>
+        <translation>Паролата за системата, или &quot;root&quot;, ви позволява да правите промени на операционната система, и трябва да бъде пазена от ненадеждни потребители.</translation>
     </message>
     <message>
         <source>Create a User</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на потребител</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителско име</translation>
     </message>
     <message>
         <source>Connect to a Wireless Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Свързване към безжична мрежа</translation>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторно &amp;сканиране</translation>
     </message>
     <message>
         <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation type="unfinished"></translation>
+        <translation>Бяха намерени следните безжични мрежи. Кликнете тази, към която искате да се свържете. Ако искате да прескочите тази стъпка, кликнете &quot;Напред&quot; по-долу.</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установката е завършена! Натиснете Завършване за да се впишете в новия си работен плот.</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Показване на помощ за текущия екран</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Стартиране на екранната клавиатура</translation>
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Превключване между американска подредба и потребителска подредба</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Назад</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Напред</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, въведете име на хост</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Името на хоста може да съдържа само букви и цифри</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Завършване</translation>
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителите на PersonaCrypt се нуждаят от същия UID на всяка система, на която се използва</translation>
     </message>
     <message>
         <source>Specify UID</source>
-        <translation type="unfinished"></translation>
+        <translation>Определете UID</translation>
     </message>
     <message>
         <source>Initialize PersonaCrypt Device</source>

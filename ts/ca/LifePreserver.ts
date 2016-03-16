@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ca">
 <context>
     <name>LPClassic</name>
     <message>
         <source>Classic Home-Dir Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia de seguretat clàssica del directori personal</translation>
     </message>
     <message>
         <source>Filename:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom del fitxer:</translation>
     </message>
     <message>
         <source>Exclude PBI Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou dreceres de PBI</translation>
     </message>
     <message>
         <source>Exclude User-Level Binaries (~/bin/)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou binaris del nivell de l&apos;usuari (~/bin/)</translation>
     </message>
     <message>
         <source>Additional Excludes</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclusions addicionals</translation>
     </message>
     <message>
         <source>Remove selected exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina l&apos;exclusió seleccionada</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Exclude file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou fitxer(s)</translation>
     </message>
     <message>
         <source>Exclude a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou un directori</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia</translation>
     </message>
     <message>
         <source>Home Directory Being Archived....</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;arxiva el directori personal...</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida:</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>A&amp;tura</translation>
     </message>
     <message>
         <source>&amp;Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;S&apos;ha acabat</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancel·lat</translation>
     </message>
     <message>
         <source>FINISHED</source>
-        <translation type="unfinished"></translation>
+        <translation>ACABAT</translation>
     </message>
     <message>
         <source>Exclude Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou fitxers</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -112,47 +112,47 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada dia</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada hora</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuts</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minuts</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minuts</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished"></translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Dies</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Total</translation>
     </message>
     <message>
         <source>Keep:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén:</translation>
     </message>
     <message>
         <source>Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicació</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished">Nom d&apos;usuari</translation>
+        <translation>Nom d&apos;usuari</translation>
     </message>
     <message>
         <source>SSH Port</source>
@@ -192,39 +192,39 @@
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Frega</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilita la fregada programada</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Setmanalment</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensualment</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia del mes</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Dia de la setmana</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation> Hora</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation>Dilluns</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimarts</translation>
     </message>
     <message>
         <source>Wednesdays</source>
@@ -264,42 +264,42 @@
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclòs:</translation>
     </message>
     <message>
         <source>Remote Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidors remots</translation>
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dades excloses</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;IP personalitzada&gt;</translation>
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Interval de dies</translation>
     </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
     <message>
         <source>ISCSI Setup Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Assistent de configuració d&apos;ISCSI</translation>
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta utilitat us guiarà a través dels passos necessaris per configurar  còpies de seguretat completament encriptades, fora del lloc, del sistema PC-BSD.</translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia de seguretat de la configuració del servidor</translation>
     </message>
     <message>
         <source>Select</source>
@@ -339,43 +339,43 @@
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa el fitxer de clau de còpia de seguretat</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Encripta el fitxer de clau</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Repetiu la contrasenya:</translation>
     </message>
     <message>
         <source>Create Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea un fitxer de clau</translation>
     </message>
     <message>
         <source>On New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>En una instantània nova</translation>
     </message>
     <message>
         <source>Manually Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciat manualment</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada dia</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada hora</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada 30 minuts</translation>
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada 30 minuts {10 ?}</translation>
     </message>
     <message>
         <source>Ready to begin</source>
@@ -411,11 +411,11 @@
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer del Life Preserver Server (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Reutilitza les dades existents a l&apos;amfitrió</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
@@ -494,7 +494,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Configure snapshot and replication schedules</source>
@@ -989,7 +989,7 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada hora</translation>
     </message>
     <message>
         <source>Daily @</source>
@@ -1001,15 +1001,15 @@
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuts</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10 minuts</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5 minuts</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -1033,11 +1033,11 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cada dia</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">@ h AP</translation>
     </message>
     <message>
         <source>Scrub schedule</source>
@@ -1045,35 +1045,35 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilita la fregada programada</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Setmanalment</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mensualment</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dia del mes</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dia de la setmana</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Hora</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dilluns</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimarts</translation>
     </message>
     <message>
         <source>Wednesdays</source>
@@ -1117,7 +1117,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Interval de dies</translation>
     </message>
 </context>
 <context>
