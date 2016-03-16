@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Base Directory</source>
-        <translation>Основна Директория</translation>
+        <translation>Основна директория</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation>Основна Директория, в която да бъдат създадени модулите</translation>
+        <translation>Основна директория, в която да бъдат създадени модулите</translation>
     </message>
     <message>
         <source>...</source>
@@ -101,102 +101,102 @@
     </message>
     <message>
         <source>Nothing Run Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Все още нищо не е стартирано</translation>
     </message>
     <message>
         <source>Checking %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка на %1</translation>
     </message>
     <message>
         <source>%1: Removing old module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Премахване на остарял модул</translation>
     </message>
     <message>
         <source>%1: New graphical module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Нов графичен модул</translation>
     </message>
     <message>
         <source>%1: New server module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Нов сървърен модул</translation>
     </message>
     <message>
         <source>%1: New text module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Нов текстов модул</translation>
     </message>
     <message>
         <source>%1: New other module</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Друг нов модул</translation>
     </message>
     <message>
         <source>Category Stopped: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Категорията е спряна: %1</translation>
     </message>
     <message>
         <source>Category Finished: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Категорията е завършена: %1</translation>
     </message>
     <message>
         <source>Base Module Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Основна директория за модули</translation>
     </message>
 </context>
 <context>
     <name>MainGUI</name>
     <message>
         <source>EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI</translation>
     </message>
     <message>
         <source>PBI Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация на PBI</translation>
     </message>
     <message>
         <source>Main settings for the PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Основни настройки за PBI</translation>
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>Записване на текущите настройки в конфигурационния файл на PBI</translation>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Записване на настройките</translation>
     </message>
     <message>
         <source>Port/Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Порт/Пакет</translation>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD порт, който да бъде пакетиран като PBI</translation>
     </message>
     <message>
         <source>Select a different FreeBSD package</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете друг пакет на FreeBSD</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Промяна</translation>
     </message>
     <message>
         <source>Repository Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Информация за хранилището</translation>
     </message>
     <message>
         <source>Search Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене на етикети</translation>
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък от етикети за търсене за програмата, разделени със запетая</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Приставки</translation>
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
-        <translation type="unfinished"></translation>
+        <translation>Не задължителни пакети, предоставящи допълнителни възможности към тази програма</translation>
     </message>
     <message>
         <source>...</source>
@@ -204,191 +204,191 @@
     </message>
     <message>
         <source>ScreenShots</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимки на екрана</translation>
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък с адреси към снимки на екрана на тази програма</translation>
     </message>
     <message>
         <source>Similar Apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Подобни програми</translation>
     </message>
     <message>
         <source>Other applications that are similar to this one</source>
-        <translation type="unfinished"></translation>
+        <translation>Други програми, подобни на тази</translation>
     </message>
     <message>
         <source>Author of the main program (or FreeBSD port maintainer instead)</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор на основната програма (или поддържащия порта на FreeBSD)</translation>
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Автор</translation>
     </message>
     <message>
         <source>Icon that will be used for the program (PNG resources available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Иконата, която ще се използва за програмата (налични са PNG ресурси)</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Икона</translation>
     </message>
     <message>
         <source>App Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип на програмата</translation>
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете файл, който да се използва за икона на програмата (изисква се за преките пътища)</translation>
     </message>
     <message>
         <source>No Specific Icon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма определена икона!</translation>
     </message>
     <message>
         <source>View Package Overrides (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>View Package Overrides (по избор)</translation>
     </message>
     <message>
         <source>Official name of the target program</source>
-        <translation type="unfinished"></translation>
+        <translation>Официално наименование на целевата програма</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>URL of the main website for the target program</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес на основният уеб сайт за целевата програма</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation type="unfinished"></translation>
+        <translation>Уеб сайт</translation>
     </message>
     <message>
         <source>URL of the main application website</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес на уеб сайта на основната програма</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценз</translation>
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Лиценз на програмата</translation>
     </message>
     <message>
         <source>+ Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>+ Пакети</translation>
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Допълнителни портове/пакети, които ще бъдат инсталирани с тази програма по подразбиране</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Обобщение</translation>
     </message>
     <message>
         <source>Short description of the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Кратко описание на програмата</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Описание</translation>
     </message>
     <message>
         <source>Full description of the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Пълно описание на програмата</translation>
     </message>
     <message>
         <source>XDG Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Преки пътища на XDG</translation>
     </message>
     <message>
         <source>Set any desktop/menu entries, and any MIME types</source>
-        <translation type="unfinished"></translation>
+        <translation>Задайте който и да е работен плот/елементи от меню, и които и да е MIME типове</translation>
     </message>
     <message>
         <source>Create and edit desktop entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване и редактиране на елементи на работния плот</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished"></translation>
+        <translation>Работен плот</translation>
     </message>
     <message>
         <source>Create and edit menu entries</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване и редактиране на елементи в менюто</translation>
     </message>
     <message>
         <source>Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню</translation>
     </message>
     <message>
         <source>Refresh the current list (useful if files recently modified outside of EasyPBI)</source>
-        <translation type="unfinished"></translation>
+        <translation>Опресняване на текущият списък (полезно, ако файлове са били променени извън EasyPBI)</translation>
     </message>
     <message>
         <source>Delete the current item from the PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на текущият елемент от модула на PBI</translation>
     </message>
     <message>
         <source>Begin creating a new XDG entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на създаване на нов запис в XDG</translation>
     </message>
     <message>
         <source>Entry Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Подробности за записа</translation>
     </message>
     <message>
         <source>Visible name for the item</source>
-        <translation type="unfinished"></translation>
+        <translation>Видимо име за елемента</translation>
     </message>
     <message>
         <source>Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Изпълним файл</translation>
     </message>
     <message>
         <source>Binary to be run when the item is activated</source>
-        <translation type="unfinished"></translation>
+        <translation>Бинарен файл, който да бъде стартиран, когато елемента бъде активиран</translation>
     </message>
     <message>
         <source>Auto-detected binaries for the PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматично открити бинарни файлове за този PBI</translation>
     </message>
     <message>
         <source>Custom Icon Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителски път до иконата</translation>
     </message>
     <message>
         <source>Application Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Икона на програмата</translation>
     </message>
     <message>
         <source>Start the application in a terminal session</source>
-        <translation type="unfinished"></translation>
+        <translation>Стартиране на програмата в сесия на терминала</translation>
     </message>
     <message>
         <source>Open in Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне в терминала</translation>
     </message>
     <message>
         <source>Flag this item to not be displayed at all</source>
-        <translation type="unfinished"></translation>
+        <translation>Отбелязване на този елемент да не се показва изобщо</translation>
     </message>
     <message>
         <source>Make Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation>Направи невидим</translation>
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
-        <translation type="unfinished"></translation>
+        <translation>Програмата се нуждае от административни права за да се изпълни</translation>
     </message>
     <message>
         <source>Requires Root</source>
-        <translation type="unfinished"></translation>
+        <translation>Изисква Root</translation>
     </message>
     <message>
         <source>Category</source>
@@ -396,139 +396,139 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation type="unfinished"></translation>
+        <translation>Категория в менюто, където да се намира елемента.</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Възможни категории в менюто</translation>
     </message>
     <message>
         <source>MIME Patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Образци за MIME</translation>
     </message>
     <message>
         <source>Space-separated list of automatic file associations (Example: *.junk *.JUNK *.test *.TEST)</source>
-        <translation type="unfinished"></translation>
+        <translation>Списък от автоматични файлови асоциации, разделени със запетая (например: *.junk *.JUNK *.test *.TEST)</translation>
     </message>
     <message>
         <source>Save the item as currently shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Запазване на елемента, както се показва в момента</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Запазване</translation>
     </message>
     <message>
         <source>Create a new item with the current settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на нов елемент с текущите настройки</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Добавяне</translation>
     </message>
     <message>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Скриптове</translation>
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Допълнителни инсталационни/изграждащи скриптове</translation>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете скрипт, който да бъде създаден или редактиран</translation>
     </message>
     <message>
         <source>Create the selected script</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на избрания скрипт</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Създаване</translation>
     </message>
     <message>
         <source>Delete the selected script from the PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на избраният скрипт от PBI модула</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Премахване</translation>
     </message>
     <message>
         <source>Save the current text as the selected script</source>
-        <translation type="unfinished"></translation>
+        <translation>Запазване на текущият текст като избраният скрипт</translation>
     </message>
     <message>
         <source>Contents for the selected script</source>
-        <translation type="unfinished"></translation>
+        <translation>Съдържание на избраният скрипт</translation>
     </message>
     <message>
         <source>Service Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация на услуги</translation>
     </message>
     <message>
         <source>Visual Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Визуални опции</translation>
     </message>
     <message>
         <source>Configuration Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурационни скриптове</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиш</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Default Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартна стойност</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактиране</translation>
     </message>
     <message>
         <source>New Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова опция</translation>
     </message>
     <message>
         <source>Remove Option</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване на опция</translation>
     </message>
     <message>
         <source>Create Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на шаблон</translation>
     </message>
     <message>
         <source>Save Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Запазване на скрипта</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Конфигуриране</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Помо&amp;щ</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation>Лента с инструменти</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Настройки</translation>
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Отваряне на редактора на настройки EasyPBI</translation>
     </message>
     <message>
         <source>Shift+S</source>
@@ -536,63 +536,63 @@
     </message>
     <message>
         <source>Get FreeBSD Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Сдобиване с FreeBSD портове</translation>
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегляне/обновяване на дървото с FreeBSD портове</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Нов</translation>
     </message>
     <message>
         <source>Click to create a new PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликнете за създаване на нов PBI модул</translation>
     </message>
     <message>
         <source>Create a new PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на нов PBI модул</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареждане</translation>
     </message>
     <message>
         <source>Click to load an existing module</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликнете за зареждане на съществуващ модул</translation>
     </message>
     <message>
         <source>Load an existing PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареждане на съществуващ PBI модул</translation>
     </message>
     <message>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation>История</translation>
     </message>
     <message>
         <source>Free&amp;BSD Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Free&amp;BSD портове</translation>
     </message>
     <message>
         <source>Open up freshports.org for additional port information</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете freshports.org за допълнителна информация за портовете</translation>
     </message>
     <message>
         <source>&amp;PBI Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;PBI модули</translation>
     </message>
     <message>
         <source>Open up the PC-BSD Wiki page for PBI developers</source>
-        <translation type="unfinished"></translation>
+        <translation>Отворете PC-BSD уики страницата за PBI разработчици</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Спиране</translation>
     </message>
     <message>
         <source>Close EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Затваряне на EasyPBI</translation>
     </message>
     <message>
         <source>Shift+Q</source>
@@ -600,19 +600,19 @@
     </message>
     <message>
         <source>&amp;Package Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Пакетиране на модул</translation>
     </message>
     <message>
         <source>Compress the current module for distribution</source>
-        <translation type="unfinished"></translation>
+        <translation>Компресиране на текущият модул за разпространение</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Относно</translation>
     </message>
     <message>
         <source>View additional information about EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>Преглед на допълнителна информация относно EasyPBI</translation>
     </message>
     <message>
         <source>Shift+A</source>
@@ -620,7 +620,7 @@
     </message>
     <message>
         <source>&amp;Refresh Module</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Опресняване на модула</translation>
     </message>
     <message>
         <source>Bulk Module Creator</source>
@@ -628,126 +628,126 @@
     </message>
     <message>
         <source>Fetch File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтегляне на списъка с файлове</translation>
     </message>
     <message>
         <source>Load Package File List</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареждане на списъка с файлове за пакета</translation>
     </message>
     <message>
         <source>No Module Loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма зареден модул</translation>
     </message>
     <message>
         <source>Installation Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>Инсталационни скриптове</translation>
     </message>
     <message>
         <source>Permissions Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка с правата</translation>
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation type="unfinished"></translation>
+        <translation>Възникна грешка при опита за създаване на локална структура от директории на EasyPBI. Моля, проверете правата за вашата домашна папка и рестартирайте EasyPBI.</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ресурсите не са налични</translation>
     </message>
     <message>
         <source>Some external resources could not be found, so the EasyPBI services that use these resources have been deactivated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Някои външни ресурси не могат да бъдат намерени, така че услугите на EasyPBI, които използват тези ресурси бяха деактивирани.</translation>
     </message>
     <message>
         <source>Please open up the EasyPBI settings to correct this deficiency.</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, отворете настройките на EasyPBI, за да отстраните този недостатък.</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Успех</translation>
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Копие на текущия модул беше успешно пакетирано в директорията на модула.</translation>
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI: Грешка с правата</translation>
     </message>
     <message>
         <source>Could not create PBI module. Please check the directory permissions and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>PBI модула не може да бъде създаден. Моля, проверете правата на директорията и опитайте отново.</translation>
     </message>
     <message>
         <source>Select PBI Module Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете конфигурация на PBI модула</translation>
     </message>
     <message>
         <source>PBI Configuration (pbi.conf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация на PBI (pbi.conf)</translation>
     </message>
     <message>
         <source>EasyPBI Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка на EasyPBI</translation>
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурационният файл на PBI не може да бъде записан. Моля, проверете правата на файла преди да опитате отново.</translation>
     </message>
     <message>
         <source>Screenshot URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес на снимка на екрана</translation>
     </message>
     <message>
         <source>Screenshot URL:</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес на снимка на екрана:</translation>
     </message>
     <message>
         <source>Find Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене на файл с икона</translation>
     </message>
     <message>
         <source>PNG Icon (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>PNG икона (*.png)</translation>
     </message>
     <message>
         <source>Could not remove the XDG entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG записът не може да бъде изтрит.</translation>
     </message>
     <message>
         <source>Check the file permissions and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверете правата на файла и опитайте отново</translation>
     </message>
     <message>
         <source>Could not save the changes to the XDG entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>Промените в XDG записа не могат да бъдат записани.</translation>
     </message>
     <message>
         <source>Could not create the XDG entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>XDG записа не може да бъде създаден.</translation>
     </message>
     <message>
         <source>Error Saving File</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при записа на файла</translation>
     </message>
     <message>
         <source>Could not save the script</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрипта не може да бъде запазен</translation>
     </message>
     <message>
         <source>Please check the file permissions and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, проверете правата на файла и опитайте отново</translation>
     </message>
 </context>
 <context>
     <name>NewModuleDialog</name>
     <message>
         <source>Create a new Module</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на нов модул</translation>
     </message>
     <message>
         <source>FreeBSD Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Пакет на FreeBSD</translation>
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
@@ -1000,7 +1000,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лиценз</translation>
     </message>
     <message>
         <source>Development History</source>

@@ -5,7 +5,7 @@
     <name>MainWindow</name>
     <message>
         <source>About</source>
-        <translation>Относно  </translation>
+        <translation>Относно</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Hardware</source>
-        <translation>Хардуеър</translation>
+        <translation>Хардуер</translation>
     </message>
     <message>
         <source>CPU:</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(разширена поддръжка)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Софтуер и системни компоненти...</translation>
     </message>
 </context>
 </TS>
