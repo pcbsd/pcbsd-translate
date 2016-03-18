@@ -77,11 +77,11 @@
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tots els fitxers (*)</translation>
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Empaquetant el directori personal...</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
@@ -92,31 +92,31 @@
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou directoris</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt de dades:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantànies locals</translation>
     </message>
     <message>
         <source>Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Planificació:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automàtic</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Cada dia</translation>
+        <translation>Cada dia</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Cada hora</translation>
+        <translation>Cada hora</translation>
     </message>
     <message>
         <source>30 minutes</source>
@@ -156,35 +156,35 @@
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished">Port SSH</translation>
+        <translation>Port SSH</translation>
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt de dades remot</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Freqüència</translation>
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronitza amb les instantànies</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuts</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minuts</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aplica</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -228,15 +228,15 @@
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dimecres</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dijous</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Divendres</translation>
     </message>
     <message>
         <source>Saturdays</source>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <source>ISCSI</source>
@@ -303,35 +303,35 @@
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu</translation>
     </message>
     <message>
         <source>Detected Settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres detectats:</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinació:</translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuari:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Amfitrió:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenya:</translation>
     </message>
     <message>
         <source>Local Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració local</translation>
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Planificació de còpia de seguretat:</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
@@ -407,7 +407,7 @@
     </message>
     <message>
         <source>Select LPS file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer LPS</translation>
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
@@ -419,35 +419,35 @@
     </message>
     <message>
         <source>GELI Encryption File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxer d&apos;encriptació GELI</translation>
     </message>
     <message>
         <source>Select GELI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer GELI</translation>
     </message>
     <message>
         <source>Select GELI Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un fitxer de clau GELI</translation>
     </message>
     <message>
         <source>GELI Key Files (*.key)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fitxers de clau GELI (*.key)</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>El Life Preserver ha experimentat un error quan intentava crear el vostre fitxer de clau. Si us plau, comproveu que els paràmetres siguin correctes i torneu-ho a provar.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi ha hagut un error en crear la clau</translation>
     </message>
     <message>
         <source>Key Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Clau creada</translation>
     </message>
     <message>
         <source>Your key file has been successfully created and is located in /usr/home</source>
-        <translation type="unfinished"></translation>
+        <translation>El vostre fitxer de clau s&apos;ha creat correctament i s&apos;ha ubicat a /usr/home</translation>
     </message>
     <message>
         <source>A Life Preserver configuration file for the remote system is required. (*.lps)</source>
@@ -490,39 +490,39 @@
     </message>
     <message>
         <source>Refresh the UI</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualitza la interfície</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Configure snapshot and replication schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura la instantània i la programació de la replicació</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Configura</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <source>System State:</source>
-        <translation type="unfinished"></translation>
+        <translation>Estat del sistema</translation>
     </message>
     <message>
         <source>Number of Disks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de discs:</translation>
     </message>
     <message>
         <source>Latest Snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Darrera instantània:</translation>
     </message>
     <message>
         <source>Restore Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaura les dades</translation>
     </message>
     <message>
         <source>Select the previous (older) snapshot</source>
@@ -562,35 +562,35 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>Dei&amp;xa de gestionar el &quot;Pool&quot;</translation>
     </message>
     <message>
         <source>&amp;Disks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Discs</translation>
     </message>
     <message>
         <source>&amp;Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>In&amp;stantànies</translation>
     </message>
     <message>
         <source>Delete Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la instantània</translation>
     </message>
     <message>
         <source>&amp;Classic Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpies de seguretat &amp;clàssiques</translation>
     </message>
     <message>
         <source>Com&amp;press Home Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Com&amp;primeix el directori personal</translation>
     </message>
     <message>
         <source>&amp;Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca la finestra</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres avançats</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -634,15 +634,15 @@
     </message>
     <message>
         <source>&amp;Extract Home Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Extreu el directori personal</translation>
     </message>
     <message>
         <source>Stop Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura la fregada</translation>
     </message>
     <message>
         <source>Start Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la replicació</translation>
     </message>
     <message>
         <source>Please Wait</source>
@@ -650,23 +650,23 @@
     </message>
     <message>
         <source>No datasets available</source>
-        <translation type="unfinished"></translation>
+        <translation>Espereu, si us plau.</translation>
     </message>
     <message>
         <source>Restoring Directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Es restaura el directori: %1</translation>
     </message>
     <message>
         <source>Reversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de reversió</translation>
     </message>
     <message>
         <source>Restore Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Restauració correcta.</translation>
     </message>
     <message>
         <source>Restoring file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Es restaura el fitxer: %1</translation>
     </message>
     <message>
         <source>Configuring dataset: %1</source>
@@ -702,39 +702,39 @@
     </message>
     <message>
         <source>WARNING: This is a permanant change that cannot be reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>ATENCIÓ! Aquest canvi és permanent i no es pot revertir.</translation>
     </message>
     <message>
         <source>%1: Removing snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: s&apos;eliminen instantànies</translation>
     </message>
     <message>
         <source>Removing snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;eliminen instantànies</translation>
     </message>
     <message>
         <source>%1: Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: s&apos;inhabilita la replicació</translation>
     </message>
     <message>
         <source>Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;inhabilita la replicació</translation>
     </message>
     <message>
         <source>%1: Disabling Life-Preserver Management</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: s&apos;inhabilita la gestió del Life-Preserver</translation>
     </message>
     <message>
         <source>Removing Life Preserver Schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;eliminen les planificacions del Life Preserver</translation>
     </message>
     <message>
         <source>No Valid USB Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositius USB no vàlids</translation>
     </message>
     <message>
         <source>No valid USB devices could be found. Please mount a FAT32 formatted USB stick and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut trobar dispositius USB vàlids. Si us plau, munteu una memòria USB formatada amb FAT32 i torneu-ho a provar.</translation>
     </message>
     <message>
         <source>Select USB Device</source>
@@ -770,23 +770,23 @@
     </message>
     <message>
         <source>User Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>No es troba l&apos;usuari</translation>
     </message>
     <message>
         <source>The user (%1) does not exist on this system. Please create this user first and then try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;usuari (%1) no existeix en aquest sistema. Si us plau, creeu-lo primer i torneu-ho a provar.</translation>
     </message>
     <message>
         <source>Extracting Home Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;extreu el directori personal</translation>
     </message>
     <message>
         <source>Package Extracted</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet extret</translation>
     </message>
     <message>
         <source>The package was successfully extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha extret el paquet correctament dins %1</translation>
     </message>
     <message>
         <source>Package Failure</source>
@@ -794,15 +794,15 @@
     </message>
     <message>
         <source>The package could not be extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error del paquet</translation>
     </message>
     <message>
         <source>Verify Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica la fregada</translation>
     </message>
     <message>
         <source>Are you sure you want to start a scrub on %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu iniciar la fregada a %1?</translation>
     </message>
     <message>
         <source>NOTE: This may take quite a while to complete</source>
@@ -842,39 +842,39 @@
     </message>
     <message>
         <source>Scrub Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha aturat la fregada</translation>
     </message>
     <message>
         <source>The scrub on %1 has been stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha aturat la fregada a %1.</translation>
     </message>
     <message>
         <source>Scrub Not Running</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;executa la fregada</translation>
     </message>
     <message>
         <source>There was no scrub running on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hi havia cap fregada en execució a %1.</translation>
     </message>
     <message>
         <source>New Snapshot Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nou nom de la instantània</translation>
     </message>
     <message>
         <source>Snapshot Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la instantània:</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>GUI Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantània GUI</translation>
     </message>
     <message>
         <source>Snapshot Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantània pendent</translation>
     </message>
     <message>
         <source>The new snapshot creation has been added to the queue</source>
@@ -910,7 +910,7 @@
     </message>
     <message>
         <source>Configuring scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Es configura la fregada: %1</translation>
     </message>
     <message>
         <source>Removing scrub: %1</source>
@@ -918,31 +918,31 @@
     </message>
     <message>
         <source>%1: Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;elimina la fregada: &amp;1</translation>
     </message>
     <message>
         <source>Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;inhabiliten les fregades</translation>
     </message>
     <message>
         <source>pools</source>
-        <translation type="unfinished"></translation>
+        <translation>pools</translation>
     </message>
     <message>
         <source>Re-Initialize Replications</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicialitza les replicacions</translation>
     </message>
     <message>
         <source>junk</source>
-        <translation type="unfinished"></translation>
+        <translation>brossa</translation>
     </message>
     <message>
         <source>Configuring replication settings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Es configuren els paràmetres de replicació: %1</translation>
     </message>
     <message>
         <source>Removing replication: %1, Host: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;elimina la replicació: %1, amfitrió: %2</translation>
     </message>
     <message>
         <source>Reset Replication Password</source>
@@ -985,39 +985,39 @@
     </message>
     <message>
         <source>Snapshots can be scheduled anywhere from daily, down to every 5 minutes. Snapshots consume very little disk space, and will only grow as the current data on disk changes.  </source>
-        <translation type="unfinished"></translation>
+        <translation>Les instantànies es poden planificar des de cada dia fins a cada 5 minuts. Les instantànies consumeixen molt poc espai de disc i només augmenten en la mesura que les dades actuals del disc canvien.  </translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Cada hora</translation>
+        <translation>Cada hora</translation>
     </message>
     <message>
         <source>Daily @</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada dia @</translation>
     </message>
     <message>
         <source>h AP</source>
-        <translation type="unfinished"></translation>
+        <translation>h AP</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished">30 minuts</translation>
+        <translation>30 minuts</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished">10 minuts</translation>
+        <translation>10 minuts</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished">5 minuts</translation>
+        <translation>5 minuts</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automàtic</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
-        <translation type="unfinished"></translation>
+        <translation>Poda d&apos;instantànies</translation>
     </message>
     <message>
         <source>Keep</source>
@@ -1053,39 +1053,39 @@
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">Mensualment</translation>
+        <translation>Cada mes</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished">Dia del mes</translation>
+        <translation>Dia del mes</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished">Dia de la setmana</translation>
+        <translation>Dia de la setmana</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"> Hora</translation>
+        <translation> Hora</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished">Dilluns</translation>
+        <translation>Dilluns</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished">Dimarts</translation>
+        <translation>Dimarts</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimecres</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Dijous</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>Divendres</translation>
     </message>
     <message>
         <source>Saturdays</source>
@@ -1124,43 +1124,43 @@
     <name>QObject</name>
     <message>
         <source>Scrub Finished: %1 (%2 errors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Fregada acabada: %1 (%2 errors)</translation>
     </message>
     <message>
         <source>Scrub Cancelled: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fregada cancel·lada: %1</translation>
     </message>
     <message>
         <source>Scrub Started: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fregada iniciada: %1</translation>
     </message>
     <message>
         <source>Resilver Finished: %1 (%2 errors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reagentament acabat: %1 (%2 errors)</translation>
     </message>
     <message>
         <source>%1: Currently Resilvering</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: ara es reargenta</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>No Snapshots Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Cap instantània disponible</translation>
     </message>
     <message>
         <source>Latest Replication: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Darrera replicació: %1</translation>
     </message>
     <message>
         <source>No Successful Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicació incorrecta</translation>
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Comentari de la instantània</translation>
     </message>
 </context>
 </TS>

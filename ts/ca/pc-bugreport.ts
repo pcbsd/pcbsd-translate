@@ -50,12 +50,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="174"/>
         <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
-        <translation>1. Presentar un informe d&apos;error fent servir el mecanisme de Bugzilla per al FreeBSD.</translation>
+        <translation>1. Presenteu un informe d&apos;error fent servir el mecanisme de Bugzilla per al FreeBSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="194"/>
         <source>2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation>2. Enviar un correu electrònic la  llista de correu d&apos;erros de FreeBSD. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
+        <translation>2. Envieu un correu electrònic a la llista de correu d&apos;erros de FreeBSD. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="243"/>
@@ -66,8 +66,7 @@
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="263"/>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation>Si no esteu segur que és un error, podeu preguntar-ne informació a la llista de correu de proves del PC-BSD.
- Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
+        <translation>1. PresentEU un informe d&apos;error fent servir el programa de seguiment d&apos;errors del PC-BSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="285"/>
@@ -77,7 +76,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="316"/>
         <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
-        <translation>1. Presentar un informe d&apos;error fent servir el mecanisme freedesktop de bugzilla.</translation>
+        <translation>1. PresentEU un informe d&apos;error fent servir el mecanisme freedesktop de bugzilla.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="336"/>
@@ -87,7 +86,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="356"/>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation>3. Si penseu que és un problema específic del FreeBSD; si us plau, informeu-ne a la llista de correu de Freebsd-x11.</translation>
+        <translation>2. Envieu un correu electrònic a la llista de correu de xorg en proves. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d&apos;aquesta llista.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="373"/>
@@ -97,7 +96,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="394"/>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation>Si us plau, seleccioneu quin entorn d&apos;escriptori produeix el problema:</translation>
+        <translation>4. Si penseu que és un problema específic del PC-BSD; si us plau, creeu-ne un tiquet al seguiment d&apos;errors.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="419"/>
@@ -107,12 +106,12 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="450"/>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation>1. Envia un correu electrònic a la llista de correu freebsd-gnome.</translation>
+        <translation>1. Envieu un correu electrònic a la llista de correu de freebsd-gnome.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="467"/>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation>2. Crea un tiquet al seguiment d&apos;errors del PC-BSD.</translation>
+        <translation>2. Creeu un tiquet al seguiment d&apos;errors del PC-BSD.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="495"/>
@@ -122,7 +121,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="526"/>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation>1. Presenta un informe d&apos;error al seguiment d&apos;errors del KDE.</translation>
+        <translation>1. Presenteu un informe d&apos;error al seguiment d&apos;errors del KDE.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="546"/>
@@ -138,7 +137,7 @@ Visit the following web page to subscribe to or read the archives of this list</
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="905"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="974"/>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation>3. Si penseu que és un problema específic del PC-BSD; si us plau, creeu un tiquet al seguiment d&apos;errors del PC-BSD.</translation>
+        <translation>2. Si penseu que és un problema específic del FreeBSD; si us plau, informeu-ne a la llista de correu de kde-freebsd.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="597"/>
@@ -198,7 +197,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1033"/>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation>1. Podeu informar dels problemes a les llistes de correu del freebsd-ports-bugs.</translation>
+        <translation>1. Podeu informar d&apos;un error al seguiment d&apos;errors o a la llista de correu del vostre escriptori preferit.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="1061"/>

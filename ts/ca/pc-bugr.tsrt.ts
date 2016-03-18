@@ -37,15 +37,15 @@
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
-        <translation>1. Presenta un informe d'error fent servir el mecanisme de Bugzilla del FreeBSD </translation>
+        <translation>1. Presenteu un informe d'error fent servir el mecanisme de Bugzilla del FreeBSD </translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Envieu un correu electrònic a la llista de correu d'errors del FreeBSD. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aquesta llista&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
-        <translation>1. Presenta un informe d'error fent servir el mecanisme de seguiment del PC-BSD</translation>
+        <translation>1. Presenteu un informe d'error fent servir el mecanisme de seguiment del PC-BSD</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
@@ -59,11 +59,11 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
-        <translation>1. Presenta un informe d'error fent servir usant el mecanisme de Bugzilla de freedesktop</translation>
+        <translation>Servidor X.org</translation>
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation>2. Envia un correu electrònic a la llista de distribució de xorg en proves. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aquesta llista.</translation>
+        <translation>2. Envieu un correu electrònic a la llista de distribució de xorg en proves. Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aquesta llista.</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
@@ -87,11 +87,11 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation>1. Envia un correu electrònic a la llista de correu del freebsd-gnome.</translation>
+        <translation>1. Envieu un correu electrònic a la llista de correu del freebsd-gnome.</translation>
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation>2. Crea un tiquet al seguiment d'errors del PC-BSD.</translation>
+        <translation>2. Creeu un tiquet al seguiment d'errors del PC-BSD.</translation>
     </message>
     <message>
         <source>KDE</source>
@@ -99,15 +99,15 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation>1. Presenta un informe d'error al seguiment d'errors del KDE</translation>
+        <translation>1. Presenteu un informe d'error al seguiment d'errors del KDE</translation>
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished"/>
+        <translation>2. Si penseu que és un problema específic del FreeBSD; si us plau, informeu-ne a la llista de correu de kde-freebsd.</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>3. Si penseu que és un problema específic del PC-BSD; si us plau, creeu un tiquet al seguiment d'errors del PC-BSD.</translation>
     </message>
     <message>
         <source>XFCE</source>
@@ -131,7 +131,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
-        <translation type="unfinished"/>
+        <translation>3. Si penseu que és un problema específic del PC-BSD; si us plau, creeu un tiquet al seguiment d'errors del PC-BSD .</translation>
     </message>
     <message>
         <source>Cinnamon</source>
@@ -139,7 +139,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation type="unfinished"/>
+        <translation>1. Podeu informar d'un error fent servir el seguiment d'errors del Cinnamon al GitHub.</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>
@@ -147,7 +147,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished"/>
+        <translation>1. Podeu informar d'un error del vostre entorn d'escriptori preferit al seu seguiment d'errors / llista de correu.</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
@@ -163,7 +163,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation>Si us plau, seleccioneu el programari de PBI amb l'error</translation>
+        <translation>Si us plau, seleccioneu el programari de PBI amb l'error.</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -171,7 +171,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>Application</source>
-        <translation>Aplicació</translation>
+        <translation>Icona</translation>
     </message>
     <message>
         <source>Version</source>
@@ -179,7 +179,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
-        <translation>1. Podeu informar del problema al lloc del programari</translation>
+        <translation>1. Podeu informar del problema al lloc del programari.</translation>
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
@@ -295,7 +295,7 @@ Visiteu la pàgina web següent per subscriure-us-hi o llegir els arxius d'aques
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
-        <translation>Visiteu la pàgina web següent per subscriure-us-hi o veure arxius.</translation>
+        <translation>Visiteu la pàgina web següent per subscriure-us-hi o veure'n els arxius.</translation>
     </message>
     <message>
         <source>Launch web browser</source>
