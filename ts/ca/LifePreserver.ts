@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Exclou directoris</translation>
     </message>
 </context>
 <context>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tanca</translation>
     </message>
     <message>
         <source>Scrub</source>
@@ -228,35 +228,35 @@
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished">Dimecres</translation>
+        <translation>Dimecres</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished">Dijous</translation>
+        <translation>Dijous</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished">Divendres</translation>
+        <translation>Divendres</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Dissabte</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Diumenge</translation>
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paràmetres de replicació</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifica la destinació de la replicació</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Amfitrió o IP personalitzada detectats:</translation>
     </message>
     <message>
         <source>SSH</source>
@@ -335,7 +335,7 @@
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunt de dades de la còpia de seguretat:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
@@ -375,11 +375,11 @@
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished">Cada 30 minuts {10 ?}</translation>
+        <translation>Cada 10 minuts</translation>
     </message>
     <message>
         <source>Ready to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>A punt per començar</translation>
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
@@ -387,7 +387,7 @@
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished"></translation>
+        <translation>Pot trigar una mica...</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
@@ -395,11 +395,11 @@
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Error amb els paràmetres</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrasenyes no vàlides</translation>
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
@@ -463,7 +463,7 @@
     </message>
     <message>
         <source>Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Espereu, si us plau.</translation>
     </message>
     <message>
         <source>Enabling off-site backup....</source>
@@ -475,7 +475,7 @@
     </message>
     <message>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>ATENCIÓ:</translation>
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
@@ -486,7 +486,7 @@
     <name>LPMain</name>
     <message>
         <source>Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserver</translation>
     </message>
     <message>
         <source>Refresh the UI</source>
@@ -534,11 +534,11 @@
     </message>
     <message>
         <source>Display any hidden files/folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra qualsevol fitxer o carpeta amagats</translation>
     </message>
     <message>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra els fitxers ocults</translation>
     </message>
     <message>
         <source>Restore the selected file/folder to the live system.</source>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restaura</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Fitxer</translation>
     </message>
     <message>
         <source>&amp;Manage Pool</source>
@@ -602,35 +602,35 @@
     </message>
     <message>
         <source>Restore Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaura el conjunt de dades</translation>
     </message>
     <message>
         <source>Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Desa la clau a l&apos;USB</translation>
     </message>
     <message>
         <source>Attach Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecta un disc</translation>
     </message>
     <message>
         <source>New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantània nova</translation>
     </message>
     <message>
         <source>&amp;Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>De&amp;sa la clau a l&apos;USB</translation>
     </message>
     <message>
         <source>Start Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia la fregada</translation>
     </message>
     <message>
         <source>Check system data integrity</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprova la integritat de les dades del sistema</translation>
     </message>
     <message>
         <source>Classic Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Còpia de seguretat clàssica</translation>
     </message>
     <message>
         <source>&amp;Extract Home Dir</source>
@@ -646,7 +646,7 @@
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Espereu, si us plau</translation>
     </message>
     <message>
         <source>No datasets available</source>
@@ -674,7 +674,7 @@
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatori</translation>
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
@@ -746,7 +746,7 @@
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Correcte</translation>
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
@@ -754,7 +754,7 @@
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallada</translation>
     </message>
     <message>
         <source>The public SSH key file could not be copied onto the USB device.</source>
@@ -1089,11 +1089,11 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dissabte</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diumenge</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
