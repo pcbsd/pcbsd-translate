@@ -5,43 +5,43 @@
     <name>DialogFSProp</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Діалог</translation>
     </message>
     <message>
         <source>Apply changes recursively to all descendants</source>
-        <translation type="unfinished">Застосувати зміни рекурсивно до всіх нащадків</translation>
+        <translation>Застосувати зміни рекурсивно до всіх нащадків</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished">Властивість</translation>
+        <translation>Властивість</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Значення</translation>
+        <translation>Значення</translation>
     </message>
     <message>
         <source>Source</source>
-        <translation type="unfinished">Джерело</translation>
+        <translation>Джерело</translation>
     </message>
     <message>
         <source>Add user property</source>
-        <translation type="unfinished">Додати власну властивість</translation>
+        <translation>Додати власну властивість</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Remove user property</source>
-        <translation type="unfinished">Вилучити власну властивість</translation>
+        <translation>Вилучити власну властивість</translation>
     </message>
     <message>
         <source>Inherit from parent</source>
-        <translation type="unfinished">Наслідувати</translation>
+        <translation>Наслідувати</translation>
     </message>
     <message>
         <source>Revert changes</source>
-        <translation type="unfinished">Скасувати зміни</translation>
+        <translation>Скасувати зміни</translation>
     </message>
     <message>
         <source>Controls how ACL entries are inherited when files and directories are created. The values are
@@ -440,7 +440,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogMount</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Діалог</translation>
     </message>
     <message>
         <source>Device to mount:</source>
@@ -456,7 +456,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>Select Directory</source>
@@ -467,7 +467,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogName</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Діалог</translation>
     </message>
     <message>
         <source>Pool name:</source>
@@ -506,7 +506,7 @@ existing data only compresses new data. Existing data remains uncompressed.</sou
     <name>DialogNewPool</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Діалог</translation>
     </message>
     <message>
         <source>Selected</source>
