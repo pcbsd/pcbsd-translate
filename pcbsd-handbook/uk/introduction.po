@@ -2,19 +2,18 @@
 # Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-22 09:36-0700\n"
+"POT-Creation-Date: 2016-03-22 12:15-0700\n"
 "PO-Revision-Date: 2015-12-11 12:50+0000\n"
 "Last-Translator: yurkis <yurkis@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -310,7 +309,7 @@ msgid "The following features or enhancements were introduced for PC-BSD® |vers
 msgstr ""
 
 #: ../../introduction.rst:158
-msgid "Based on FreeBSD 10.2 which adds these `features <https://www.freebsd.org/releases/10.2R/relnotes.html>`_."
+msgid "Based on FreeBSD 11.0 which adds these `features <https://www.freebsd.org/releases/11.0R/relnotes.html>`_."
 msgstr ""
 
 #: ../../introduction.rst:160
@@ -318,7 +317,7 @@ msgid "CD-sized network installers are available for both the graphical and text
 msgstr ""
 
 #: ../../introduction.rst:163
-msgid "Lumina has been updated to `0.8.6 <http://blog.pcbsd.org/2015/08/lumina-desktop-0-8-6-released/>`_."
+msgid "Lumina has been updated to `0.8.8 <http://lumina-desktop.org/lumina-desktop-0-8-8-released/>`_."
 msgstr ""
 
 #: ../../introduction.rst:165
