@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>FreeBSD base system</source>
-        <translation>FreeBSD baassüsteem</translation>
+        <translation>FreeBSD alussüsteem</translation>
     </message>
     <message>
         <source>PC-BSD base system</source>
-        <translation>PC-BSD baassüsteem</translation>
+        <translation>PC-BSD alussüsteem</translation>
     </message>
     <message>
         <source>Xorg server</source>

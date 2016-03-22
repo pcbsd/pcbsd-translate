@@ -312,31 +312,31 @@ Kui nüüd katkestada, siis võivad pakid katki minna. Katkestada ikkagi?</trans
     </message>
     <message>
         <source>MD5</source>
-        <translation type="unfinished"></translation>
+        <translation>MD5</translation>
     </message>
     <message>
         <source>MSCHAPV2</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAPV2</translation>
     </message>
     <message>
         <source>GTC</source>
-        <translation type="unfinished"></translation>
+        <translation>GTC</translation>
     </message>
     <message>
         <source>OTP</source>
-        <translation type="unfinished"></translation>
+        <translation>OTP</translation>
     </message>
     <message>
         <source>PAP</source>
-        <translation type="unfinished"></translation>
+        <translation>PAP</translation>
     </message>
     <message>
         <source>CHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>CHAP</translation>
     </message>
     <message>
         <source>MSCHAP</source>
-        <translation type="unfinished"></translation>
+        <translation>MSCHAP</translation>
     </message>
     <message>
         <source>Phase 2 Auth:</source>

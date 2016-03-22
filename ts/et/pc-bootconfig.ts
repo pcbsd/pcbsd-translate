@@ -5,19 +5,19 @@
     <name>PartitionSelect</name>
     <message>
         <source>Select a Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali partitsioon</translation>
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali ketas/partitsioon operatsioonisüsteemile %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Loobu</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmis</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Windows</translation>
     </message>
 </context>
 <context>

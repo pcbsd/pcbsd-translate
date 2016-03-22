@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="et">
 <context>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Raw Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Developer Mode</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Show Raw Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh PBI Index</source>
@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>Show Orphan Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vulnerability Info</source>
@@ -589,7 +589,7 @@ Kas jätkata?</translation>
     </message>
     <message>
         <source>These applications are required by the base PC-BSD system and cannot be removed</source>
-        <translation>Need rakendused on vajalikud PC-BSD baassüsteemile ja neid eemaldada ei saa</translation>
+        <translation>Need rakendused on vajalikud PC-BSD alussüsteemile ja neid eemaldada ei saa</translation>
     </message>
     <message>
         <source>Verify PBI Removal</source>

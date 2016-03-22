@@ -53,23 +53,23 @@
     </message>
     <message>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tere tulemast!</translation>
     </message>
     <message>
         <source>Getting Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ühendamine Internetiga</translation>
     </message>
     <message>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Rakenduste paigaldamine</translation>
     </message>
     <message>
         <source>Configure Your System</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteemi seadistamine</translation>
     </message>
     <message>
         <source>Preserve Your Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Failide varundamine</translation>
     </message>
     <message>
         <source>Stay up to Date</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Get Involved</source>
-        <translation type="unfinished"></translation>
+        <translation>Löö kaasa</translation>
     </message>
 </context>
 </TS>

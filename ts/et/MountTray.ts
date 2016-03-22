@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Network Shares</source>
-        <translation type="unfinished"></translation>
+        <translation>Failide ühiskasutus</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks with SMPlayer</source>
-        <translation type="unfinished"></translation>
+        <translation>Mängi optilisi kettaid automaatselt SMPlayeriga</translation>
     </message>
 </context>
 </TS>

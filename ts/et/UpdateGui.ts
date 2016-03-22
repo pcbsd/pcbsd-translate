@@ -91,7 +91,7 @@ Palun uuenda süsteemi.</translation>
     </message>
     <message>
         <source>Install Patches</source>
-        <translation>Paigalda paigad</translation>
+        <translation>Paigalda valitud</translation>
     </message>
     <message>
         <source>View Log</source>
@@ -223,7 +223,7 @@ Palun uuenda süsteemi.</translation>
     </message>
     <message>
         <source>Base updates history</source>
-        <translation>Baassüsteemi uuenduste ajalugu</translation>
+        <translation>Alussüsteemi uuenduste ajalugu</translation>
     </message>
     <message>
         <source>End of support</source>
@@ -313,7 +313,7 @@ Palun uuenda süsteemi.</translation>
     <name>UpdateHistoryDialog</name>
     <message>
         <source>Base system updates history</source>
-        <translation>Baassüsteemi uuenduste ajalugu</translation>
+        <translation>Alussüsteemi uuenduste ajalugu</translation>
     </message>
     <message>
         <source>Release</source>

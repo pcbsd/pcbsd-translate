@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulge</translation>
+        <translation>Sulge</translation>
     </message>
 </context>
 <context>

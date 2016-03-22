@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Base:</source>
-        <translation>Baas:</translation>
+        <translation>Alusversioon:</translation>
     </message>
     <message>
         <source>Backend Utilities:</source>

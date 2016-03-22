@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation>FreeBSD baas</translation>
+        <translation>FreeBSD alusversioon</translation>
     </message>
     <message>
         <source>Arch:</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(LTS)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkvara ja süsteemi komponendid</translation>
     </message>
 </context>
 </TS>

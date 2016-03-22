@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Valikulised teenused</translation>
     </message>
 </context>
 <context>
@@ -224,19 +224,19 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba kaugligipääs SSH kaudu</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Luba SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Keela IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 ühenduste keelamine</translation>
     </message>
 </context>
 <context>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbetüüp:</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -302,7 +302,7 @@
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation>Klaviatuuri seaded</translation>
+        <translation>Klaviatuuri sätted</translation>
     </message>
     <message>
         <source>Key Layout</source>
