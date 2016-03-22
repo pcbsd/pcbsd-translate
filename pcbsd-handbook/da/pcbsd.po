@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-22 08:12-0700\n"
+"POT-Creation-Date: 2016-03-22 08:43-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,22 +15,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# 26abb60daabd42919fda70f2ff692a51
 #: ../../pcbsd.rst:7
 msgid "PC-BSD\\ |reg| User Guide |release|"
 msgstr ""
 
-# da9c8770b688476ca0b29d082c74c153
 #: ../../pcbsd.rst:9
 msgid "Contents:"
 msgstr ""
 
-# d25a2281e9104fa2a432d6a02c5695ac
 #: ../../pcbsd.rst:30
 msgid "Index"
 msgstr ""
 
-# 7fb94f5f391b442982d4b49eb8bc9401
 #: ../../pcbsd.rst:32
 msgid ":ref:`genindex`"
 msgstr ""
