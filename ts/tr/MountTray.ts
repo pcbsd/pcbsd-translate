@@ -192,8 +192,8 @@
         <translation>Uygula</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translation>Optik diskleri SMPlayer ile otomatik oynat</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -212,7 +212,7 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mounttray/settingsDialog.cpp" line="10"/>
-        <source>Auto-play optical disks with SMPlayer</source>
+        <source>Auto-play optical disks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -192,8 +192,8 @@
         <translation>Appliquer</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translation>Lecture automatique des disques avec SMPlayer</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

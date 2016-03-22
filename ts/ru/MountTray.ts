@@ -192,8 +192,8 @@
         <translation>Применить</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translation>Автоматическое проигрование оптических дисков с помощью SMPlayer</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -193,9 +193,8 @@
         <translation>適用</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translatorcomment>チェックボックスのキャプション</translatorcomment>
-        <translation>SMPlayer で光ディスクを自動再生する</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

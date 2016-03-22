@@ -192,7 +192,7 @@
         <translation type="unfinished">Primjeni</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
+        <source>Auto-play optical disks</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

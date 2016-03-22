@@ -193,8 +193,8 @@
         <translation>Zatwierdź</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translation>Automatyczne odtwarzanie dysków optycznych przy pomocy SMPlayer</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

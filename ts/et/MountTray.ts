@@ -192,8 +192,8 @@
         <translation>Rakenda</translation>
     </message>
     <message>
-        <source>Auto-play optical disks with SMPlayer</source>
-        <translation>Mängi optilisi kettaid automaatselt SMPlayeriga</translation>
+        <source>Auto-play optical disks</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
