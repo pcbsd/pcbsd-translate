@@ -2,18 +2,21 @@
 # Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-22 09:36-0700\n"
-"PO-Revision-Date: 2016-01-20 22:05+0000\n"
-"Last-Translator: hierra <sebastiao.luiz.guerra@gmail.com>\n"
+"PO-Revision-Date: 2016-03-22 16:38+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1458664718.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -955,8 +958,9 @@ msgid "display hardware memory"
 msgstr ""
 
 #: ../../introduction.rst:329
+#, fuzzy
 msgid ":command:`sysctl hw.model`"
-msgstr ""
+msgstr ":command:`sysctl hw.realmem`"
 
 #: ../../introduction.rst:329
 msgid "display CPU model"
@@ -971,8 +975,9 @@ msgid "display CPU Architecture"
 msgstr ""
 
 #: ../../introduction.rst:333
+#, fuzzy
 msgid ":command:`sysctl hw.ncpu`"
-msgstr ""
+msgstr ":command:`sysctl hw.realmem`"
 
 #: ../../introduction.rst:333
 msgid "display number of CPUs"
