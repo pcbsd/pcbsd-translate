@@ -15,12 +15,10 @@ else
   GBRANCH="master"
 fi
 
-if [ ! -d "$GITPATH" ] ; then
-   git clone --depth=1 -b $GBRANCH https://github.com/pcbsd/pcbsd.git ${GITPATH}
-else
-  cd ${GITPATH}
-  git pull
+if [ -d "$GITPATH" ] ; then
+   rm -rf ${GITPATH}
 fi
+git clone --depth=1 -b $GBRANCH https://github.com/pcbsd/pcbsd.git ${GITPATH}
 
 PROJECTCONF="${GITPATH}/i18n-projects"
 
