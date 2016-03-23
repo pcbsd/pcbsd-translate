@@ -117,98 +117,98 @@
     </message>
     <message>
         <source>Initialize PersonaCrypt Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Инициализиране на устройство за PersonaCrypt</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор</translation>
     </message>
     <message>
         <source>Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Външно устройство</translation>
     </message>
     <message>
         <source>User-portion of the disk encryption key</source>
-        <translation type="unfinished"></translation>
+        <translation>Потребителската част от ключа за криптиране на диска</translation>
     </message>
     <message>
         <source>Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Парола на устройството</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма намерени устройства</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, свържете външно устройство и опитайте отново</translation>
     </message>
     <message>
         <source>Select Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор на външно устройство</translation>
     </message>
     <message>
         <source>Warning: Any existing data on the selected device will be deleted during the user creation process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение:Всички съществуващи данни на избраното устройство ще бъдат изтрити по време на процеса по създаване на потребител.</translation>
     </message>
     <message>
         <source>User Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Детайли за потребителя</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка</translation>
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Изходящо устройство</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка на силата на звука</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка на възпроизвеждането на звук</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Бележка: Настройките на звука могат да бъдат регулирани и по-късно от смесителя на звуци на PC-BSD.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Име на домейн</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля, въведете име на домейн</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Името на домейна може да съдържа само букви и цифри</translation>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>Опционални услуги</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the system language you wish to use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Този екран ви позволява да изберете езика на системата, който искате да използвате.</translation>
     </message>
     <message>
         <source>This screen lets you pick the default timezone for your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Този екран ви позволява да изберете стандартната часова зона за този компютър.</translation>
     </message>
     <message>
         <source>On this screen please enter the root password you wish to use. This password is used for full system access, and should be something secure.</source>
-        <translation type="unfinished"></translation>
+        <translation>На този екран, моля въведете паролата на root , която искате да използвате. Тази парола се използва за пълен достъп до системата, така че трябва да е нещо сигурно.</translation>
     </message>
     <message>
         <source>On this screen you will need to create a user to log into your desktop. Additional users may be created in the Control Panel.</source>
