@@ -2,19 +2,18 @@
 # Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-22 12:15-0700\n"
+"POT-Creation-Date: 2016-03-22 16:14-0700\n"
 "PO-Revision-Date: 2016-01-07 15:15+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -308,12 +307,8 @@ msgstr ""
 "sistema operativo, antes de que ocurriera la actualización."
 
 #: ../../introduction.rst:107
-msgid "PC-BSD® started off as an independent project, but since October, 2006 PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
+msgid "PC-BSD® began as an independent project, but since October 2006, PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
-"PC-BSD® comenzó como un proyecto independiente, pero desde octubre de 2006, "
-"PC-BSD® está financieramente respaldado y soportado por el proveedor de "
-"soluciones de hardware de clase empresarial `iXsystems "
-"<https://www.ixsystems.com/>`_."
 
 #: ../../introduction.rst:113
 msgid "Goals and Features"
@@ -430,166 +425,26 @@ msgid "Based on FreeBSD 11.0 which adds these `features <https://www.freebsd.org
 msgstr ""
 
 #: ../../introduction.rst:160
-msgid "CD-sized network installers are available for both the graphical and text installers. The installation looks the same for both, with the difference being the size of the downloaded media and the fact that the installation files are retrieved over the network rather than from the installation media."
+msgid "The GRUB bootloader has been replaced by the FreeBSD bootloader, which provides both GELI and Boot Environment support."
 msgstr ""
-"Instaladores vía red de la capacidad de un CD están disponibles para las "
-"instalaciones gráfica y modo texto. La instalación se ve de la misma forma "
-"para los dos, con la diferencia en el tamaño del medio descargado y el hecho "
-"de que la instalación de archivos es obtenida por medio de la red en lugar "
-"de el medio de instalación."
 
-#: ../../introduction.rst:163
+#: ../../introduction.rst:162
 msgid "Lumina has been updated to `0.8.8 <http://lumina-desktop.org/lumina-desktop-0-8-8-released/>`_."
 msgstr ""
 
-#: ../../introduction.rst:165
-msgid "`iocage <https://github.com/iocage/iocage>`_ has replaced Warden as the back-end for jail management in :ref:`AppCafe®` and the \"Warden\" tab has been renamed to \"Plugins\". The Warden graphical utility has been removed from Control Panel and the command line usage docs have been changed to describe how to use the :command:`iocage` command line utility."
+#: ../../introduction.rst:164
+msgid "The sysadm client and server utilities have been added, creating powerful new user friendly options for system management."
 msgstr ""
-"`iocage <https://github.com/iocage/iocage>`_ ha reemplazado a Warden como el "
-"back-end para la administración de jaulas en :ref:`AppCafe®` y la pestaña "
-"“Warden” se ha renombrado a “Plugins”. La utilería gráfica Warden se ha "
-"removido del Panel de Control y la documentación para su uso en línea de "
-"comandos se ha cambiado para describir como usar la utilería de línea de "
-"comandos :command:`iocage`."
 
-#: ../../introduction.rst:168
-msgid "The default Serif/Sans Serif font is now `Noto <http://www.google.com/get/noto/>`_ instead of Dejavu."
+#: ../../introduction.rst:166
+msgid "freebsd-update has been retired in favor of using \"pkg\" for system updates."
 msgstr ""
-"La tipografía Serif/Sans Serif predeterminada es ahora `Noto "
-"<http://www.google.com/get/noto/>`_ en lugar de Dejavu."
-
-#: ../../introduction.rst:170
-msgid "The graphical installer now uses the `Droid <http://www.droidfonts.com/>`_ font."
-msgstr ""
-"El instalador gráfico ahora usa la fuente `Droid "
-"<http://www.droidfonts.com/>`_."
 
 #: ../../introduction.rst:172
-msgid "The installer now supports installing to free space. This means that you no longer need to temporarily format a partition after shrinking a drive when installing PC-BSD® in a dual-boot scenario."
-msgstr ""
-"El instalador ahora soporta la instalación en espacio libre. Esto significa "
-"que usted ya no necesita formatear temporalmente la partición después de "
-"reducir el disco cuando instale PC-BSD® es un escenario de arranque dual."
-
-#: ../../introduction.rst:175
-msgid "The graphical installer now provides a shortcut to :ref:`Disk Manager`."
-msgstr ""
-"El instalador gráfico ahora proporciona un acceso directo al :ref:`"
-"Administrador de Disco`."
-
-#: ../../introduction.rst:177
-msgid "Wine has been removed from the installer but can be installed afterwards using :ref:`AppCafe®`."
-msgstr ""
-"Wine ha sido removido del instalador, pero puede ser instalado después "
-"usando :ref:`AppCafe®`."
-
-#: ../../introduction.rst:179
-msgid "The \"Domain Name\" field has been added to the :ref:`Time Zone Selection Screen`."
-msgstr ""
-"El campo de \"Nombre de Dominio\" ha sido añadido a la :ref:`Pantalla de "
-"Selección de Uso Horario`."
-
-#: ../../introduction.rst:181
-msgid "The \"Enable Optional Services\" screen has been added to the post-configuration wizard. Currently, this screen allows you to enable the SSH service or to disable IPv6."
-msgstr ""
-"La pantalla \"Habilitar Servicios Opcionales\" ha sido añadida al asistente "
-"post-configuración. Actualmente, esta pantalla le permite habilitar un "
-"servicio SSH o deshabilitar IPv6."
-
-#: ../../introduction.rst:183
-msgid "The \"Tile Plugins\" and \"Cascade Plugins\" entries have been added to the right-click menu of Lumina."
-msgstr ""
-"Las entradas de los \"Plugins en Mosaico\" y \"Plugins en Cascada\" se han "
-"añadido al menú del botón derecho de Lumina."
-
-#: ../../introduction.rst:185
-msgid "You can now create and manage more than two panels using the Lumina configuration utility."
-msgstr ""
-"Usted ahora puede crear y administrar mas de dos paneles usando la utilería "
-"de configuración de Lumina."
-
-#: ../../introduction.rst:187
-msgid "The \"Save Pkg List\" option has been added to the \"Configure\" button of :ref:`AppCafe®`."
-msgstr ""
-"La opción \"Guardar Lista de Paquetes\" se ha añadido al botón \"Configurar\""
-" de :ref:`AppCafe®`."
-
-#: ../../introduction.rst:189
-msgid "The \"Enterprise (Long Term Support)\" repository has been added to :menuselection:`AppCafe® --> Configure --> Repository Configuration`. This option is meant for enterprise users that wish to only receive software updates which fix known security vulnerabilities."
-msgstr ""
-"El repositorio \"Enterprise (Soporte a Largo Plazo)\" se ha añadido a "
-":menuselection:`AppCafe® --> Configurar --> Configuración del Repositorio`. "
-"Esta opción está dirigida a usuarios empresariales que quieren recibir "
-"solamente actualizaciones de software que arreglan vulnerabilidades de "
-"seguridad conocidas."
-
-#: ../../introduction.rst:192
-msgid "If you install or uninstall any software in AppCafe®, a \"Status\" tab will appear so that you can review the installation log."
-msgstr ""
-"Si usted instala o desinstala cualquier software en AppCafe®, una pestaña de "
-"\"Estado\" aparecerá para que pueda revisar los logs de la instalación."
-
-#: ../../introduction.rst:194
-msgid "The :menuselection:`System --> Branches` menu has been added to :ref:`Update Manager`. This can be used to change which software branch is used to track updates."
-msgstr ""
-"El menú :menuselection:`Sistema --> Ramas` se ha añadido al :ref:`"
-"Administrador de Actualizaciones`. Esto puede usarse para cambiar que rama "
-"de software se usará para rastrear actualizaciones."
-
-#: ../../introduction.rst:196
-msgid "The **showeol** option has been added to :command:`pc-updatemanager`."
-msgstr "La opción **showeol** ha sido añadida a :command:`pc-updatemanager`."
-
-#: ../../introduction.rst:198
-msgid "The \"Allow Valid Users with UID under 1000\" checkbox and \"Additional Excluded Users\" field have been added to :menuselection:`Control Panel --> Login Manager --> Misc`."
-msgstr ""
-"La casilla “Permitir Usuarios Validos con UID por debajo de 1000” y el campo "
-"“Usuarios Excluídos Adicionales” se han añadido a :menuselection:`Panel de "
-"Control --> Administrador de Acceso --> Misceláneos`."
-
-#: ../../introduction.rst:200
-msgid "The **probe-netdrives**, **list-mountednetdrives**, **mountnet**, and **unmountnet** options have been added to :ref:`pc-sysconfig`."
-msgstr ""
-"Las opciones **probe-netdrives**, **list-mountednetdrives**, **mountnet**, y "
-"**unmountnet** se han añadido a :ref:`pc-sysconfig`."
-
-#: ../../introduction.rst:205
-msgid "The \"Domain Name\" field has been added to :menuselection:`Control Panel --> Network Configuration --> Network Configuration (Advanced)`."
-msgstr ""
-"El campo \"Nombre de Dominio\" se ha añadido a :menuselection:`Panel de "
-"Control --> Configuración de Red --> Configuración de Red (Avanzada)`."
-
-#: ../../introduction.rst:207
-msgid "The \"Replication Server\" screen has been removed from the :ref:`Life Preserver` initial configuration wizard and an option has been added to the last screen of the wizard offering to open the advanced configuration options so that replication can be configured."
-msgstr ""
-"La pantalla del \"Servidor de Replicación\" se ha eliminado del asistente de "
-"configuración inicial de :ref:`Life Preserver` y una opción ha sido añadida "
-"a la última pantalla del asistente, ofreciendo abrir las opciones de "
-"configuración avanzada para que así, la replicación pueda ser configurada."
-
-#: ../../introduction.rst:210
-msgid "Life Preserver's \"Local Snapshots\" tab now allows you to create a list of datasets to exclude when creating snapshots."
-msgstr ""
-"La pestaña de \"Instantáneas Locales\" de Life Preserver ahora le permite "
-"crear una lista de datasets para excluir cuando se crean instantáneas."
-
-#: ../../introduction.rst:212
-msgid "Life Preserver's \"Replication\" tab now allows you to create a list of datasets to exclude when replicating to the remote server."
-msgstr ""
-"La pestaña \"Replicación\" de Life Preserver ahora le permite crear una "
-"lista de datasets para excluir cuando se repliquen a un servidor remoto."
-
-#: ../../introduction.rst:214
-msgid "The \"Reset Replication Password\" option has been added to the :menuselection:`Life Preserver --> Snapshots` menu."
-msgstr ""
-"La opción \"Restablecer Contraseña de Replicación\" se ha añadido al menú "
-":menuselection:`Life Preserver --> Instantáneas`."
-
-#: ../../introduction.rst:220
 msgid "PC-BSD® for Linux Users"
 msgstr "PC-BSD® para Usuarios de Linux"
 
-#: ../../introduction.rst:222
+#: ../../introduction.rst:174
 msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
 msgstr ""
 "PC-BSD® está basado en FreeBSD, esto significa que no es una distribución "
@@ -598,7 +453,7 @@ msgstr ""
 "que algunos comandos son diferentes. Esta sección cubre algunas de estas "
 "diferencias."
 
-#: ../../introduction.rst:228
+#: ../../introduction.rst:180
 msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
 msgstr ""
 "BSD y Linux usan diferentes sistemas de archivos durante la instalación. "
@@ -608,7 +463,7 @@ msgstr ""
 "sistema de archivos, usted necesitará hacer algo de investigación para saber "
 "si los datos serán accesibles en los dos sistemas operativos."
 
-#: ../../introduction.rst:232
+#: ../../introduction.rst:184
 msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
 msgstr ""
 "La Tabla 1.3a comprende los diferentes sistemas de archivos comúnmente "
@@ -619,80 +474,80 @@ msgstr ""
 "Compartición de Archivos` para más información acerca de utilerías "
 "disponibles para la gestión de archivos."
 
-#: ../../introduction.rst:236
+#: ../../introduction.rst:188
 msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
 msgstr "**Tabla 1.3a: Soporte para Sistemas de Archivo en PC-BSD®**"
 
-#: ../../introduction.rst:239
+#: ../../introduction.rst:191
 msgid "Filesystem"
 msgstr "Sistema de Archivos"
 
-#: ../../introduction.rst:239
+#: ../../introduction.rst:191
 msgid "Native to"
 msgstr "Nativo en"
 
-#: ../../introduction.rst:239
+#: ../../introduction.rst:191
 msgid "Type of non-native support"
 msgstr "Tipo de soporte no nativo"
 
-#: ../../introduction.rst:239
+#: ../../introduction.rst:191
 msgid "**Usage notes**"
 msgstr "**Notas de uso**"
 
-#: ../../introduction.rst:241
+#: ../../introduction.rst:193
 msgid "Btrfs"
 msgstr "Btrfs"
 
-#: ../../introduction.rst:241
+#: ../../introduction.rst:193
+#: ../../introduction.rst:197
+#: ../../introduction.rst:199
+#: ../../introduction.rst:204
+#: ../../introduction.rst:215
+#: ../../introduction.rst:221
 #: ../../introduction.rst:245
-#: ../../introduction.rst:247
-#: ../../introduction.rst:252
-#: ../../introduction.rst:263
-#: ../../introduction.rst:269
-#: ../../introduction.rst:293
 msgid "Linux"
 msgstr "Linux"
 
-#: ../../introduction.rst:241
-#: ../../introduction.rst:243
-#: ../../introduction.rst:260
-#: ../../introduction.rst:263
+#: ../../introduction.rst:193
+#: ../../introduction.rst:195
+#: ../../introduction.rst:212
+#: ../../introduction.rst:215
 msgid "none"
 msgstr "Ninguno"
 
-#: ../../introduction.rst:243
+#: ../../introduction.rst:195
 msgid "exFAT"
 msgstr "exFAT"
 
-#: ../../introduction.rst:243
-#: ../../introduction.rst:256
-#: ../../introduction.rst:258
-#: ../../introduction.rst:265
-#: ../../introduction.rst:267
+#: ../../introduction.rst:195
+#: ../../introduction.rst:208
+#: ../../introduction.rst:210
+#: ../../introduction.rst:217
+#: ../../introduction.rst:219
 msgid "Windows"
 msgstr "Windows"
 
-#: ../../introduction.rst:243
+#: ../../introduction.rst:195
 msgid "requires a license from Microsoft"
 msgstr "Requiere una licencia de Microsoft"
 
-#: ../../introduction.rst:245
+#: ../../introduction.rst:197
 msgid "EXT2"
 msgstr "EXT2"
 
-#: ../../introduction.rst:245
-#: ../../introduction.rst:247
-#: ../../introduction.rst:256
-#: ../../introduction.rst:258
-#: ../../introduction.rst:267
+#: ../../introduction.rst:197
+#: ../../introduction.rst:199
+#: ../../introduction.rst:208
+#: ../../introduction.rst:210
+#: ../../introduction.rst:219
 msgid "r/w support loaded by default"
 msgstr "Soporte de lectura/escritura predeterminado"
 
-#: ../../introduction.rst:247
+#: ../../introduction.rst:199
 msgid "EXT3"
 msgstr "EXT3"
 
-#: ../../introduction.rst:247
+#: ../../introduction.rst:199
 msgid "since EXT3 journaling is not supported, you will not be able to mount a filesystem requiring a journal replay unless you :command:`fsck` it using an external utility such as `e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
 msgstr ""
 "Dado que el journaling en EXT3 no está soportado, usted no será capaz de "
@@ -700,100 +555,100 @@ msgstr ""
 "menos que haga :command:`fsck` usando una utilería externa como `e2fsprogs "
 "<http://e2fsprogs.sourceforge.net>`_"
 
-#: ../../introduction.rst:252
+#: ../../introduction.rst:204
 msgid "EXT4"
 msgstr "EXT4"
 
-#: ../../introduction.rst:252
+#: ../../introduction.rst:204
 msgid "r/o support loaded by default"
 msgstr "Soporte de solo lectura predeterminado"
 
-#: ../../introduction.rst:252
+#: ../../introduction.rst:204
 msgid "EXT3 journaling, extended attributes, and inodes greater than 128 bytes are not supported; EXT3 filesystems converted to EXT4 may have better performance"
 msgstr ""
 "El journaling en EXT3, atributos extendidos, e inodos mayores a 128 bytes no "
 "están soportados; sistemas de archivos EXT3 convertidos a EXT4 deben tener "
 "mejor desempeño"
 
-#: ../../introduction.rst:256
+#: ../../introduction.rst:208
 msgid "FAT16"
 msgstr "FAT16"
 
-#: ../../introduction.rst:258
+#: ../../introduction.rst:210
 msgid "FAT32"
 msgstr "FAT32"
 
-#: ../../introduction.rst:260
+#: ../../introduction.rst:212
 msgid "HFS+"
 msgstr "HFS+"
 
-#: ../../introduction.rst:260
+#: ../../introduction.rst:212
 msgid "Mac OS X"
 msgstr "Mac OS X"
 
-#: ../../introduction.rst:260
+#: ../../introduction.rst:212
 msgid "older Mac versions might work with `hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
 msgstr ""
 "Las versiones anteriores de Mac deberían trabajar mejor con `hfsexplorer "
 "<http://www.catacombae.org/hfsexplorer>`_"
 
-#: ../../introduction.rst:263
+#: ../../introduction.rst:215
 msgid "JFS"
 msgstr "JFS"
 
-#: ../../introduction.rst:265
+#: ../../introduction.rst:217
 msgid "NTFS5"
 msgstr "NTFS5"
 
-#: ../../introduction.rst:265
+#: ../../introduction.rst:217
 msgid "full r/w support loaded by default"
 msgstr "Soporte completo de lectura/escritura predeterminado"
 
-#: ../../introduction.rst:267
+#: ../../introduction.rst:219
 msgid "NTFS6"
 msgstr "NTFS6"
 
-#: ../../introduction.rst:269
+#: ../../introduction.rst:221
 msgid "ReiserFS"
 msgstr "ReiserFS"
 
-#: ../../introduction.rst:269
+#: ../../introduction.rst:221
 msgid "r/o support is loaded by default"
 msgstr "Soporte de solo lectura predeterminado"
 
-#: ../../introduction.rst:271
+#: ../../introduction.rst:223
 msgid "UFS2"
 msgstr "UFS2"
 
-#: ../../introduction.rst:271
+#: ../../introduction.rst:223
 msgid "FreeBSD"
 msgstr "FreeBSD"
 
-#: ../../introduction.rst:271
+#: ../../introduction.rst:223
 msgid "check if your Linux distro provides ufsutils; r/w support on Mac; UFS Explorer can be used on Windows"
 msgstr ""
 "Asegúrese que su distribución Linux proporcione ufsutils; soporte de lectura/"
 "escritura en Mac; UFS Explorer puede usarse en Windows"
 
-#: ../../introduction.rst:273
+#: ../../introduction.rst:225
 msgid "changed to r/o support in Mac Lion"
 msgstr "Cambiado a soporte de solo lectura en Mac Lion"
 
-#: ../../introduction.rst:275
+#: ../../introduction.rst:227
 msgid "ZFS"
 msgstr "ZFS"
 
-#: ../../introduction.rst:275
+#: ../../introduction.rst:227
 msgid "PC-BSD, FreeBSD"
 msgstr "PC-BSD, FreeBSD"
 
-#: ../../introduction.rst:280
+#: ../../introduction.rst:232
 msgid "Linux and BSD use different naming conventions for devices. For example:"
 msgstr ""
 "Linux y BSD usan diferentes convenciones al nombrar dispositivos. Por "
 "ejemplo:"
 
-#: ../../introduction.rst:282
+#: ../../introduction.rst:234
 msgid "in Linux, Ethernet interfaces begin with :file:`eth`; in BSD, interface names indicate the name of the driver. For example, an Ethernet interface may be listed as :file:`re0`, indicating that it uses the Realtek :file:`re` driver. The advantage of this convention is that you can read the **man 4** page for the driver (e.g. type :command:`man 4 re`) to see which models and features are provided by that driver."
 msgstr ""
 "En Linux, las interfaces Ethernet comienzan con :file:`eth`; en BSD, los "
@@ -804,252 +659,252 @@ msgstr ""
 "4 re`) para ver cuáles modelos y características se proporcionan con ese "
 "controlador."
 
-#: ../../introduction.rst:286
+#: ../../introduction.rst:238
 msgid "BSD disk names differ from Linux. IDE drives begin with :file:`ad` and SCSI and USB drives begin with :file:`da`."
 msgstr ""
 "Los nombres de discos en BSD son diferentes a Linux. Discos IDE comienzan "
 "con :file:`ad` y los discos SCSI y USB comienzan con :file:`da`."
 
-#: ../../introduction.rst:288
+#: ../../introduction.rst:240
 msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
 msgstr ""
 "Algunas de las características usadas por BSD tienen una contraparte similar "
 "en Linux, pero el nombre de la característica es diferente. La Tabla 1.3b "
 "proporciona algunos ejemplos comunes:"
 
-#: ../../introduction.rst:290
+#: ../../introduction.rst:242
 msgid "**Table 1.3b: Names for BSD and Linux Features**"
 msgstr "**Tabla 1.3b: Nombres para Características de BSD y Linux**"
 
-#: ../../introduction.rst:293
+#: ../../introduction.rst:245
 msgid "PC-BSD"
 msgstr "PC-BSD"
 
-#: ../../introduction.rst:293
+#: ../../introduction.rst:245
 msgid "**Description**"
 msgstr "**Descripción**"
 
-#: ../../introduction.rst:295
+#: ../../introduction.rst:247
 msgid "IPFW"
 msgstr "IPFW"
 
-#: ../../introduction.rst:295
+#: ../../introduction.rst:247
 msgid "iptables"
 msgstr "iptables"
 
-#: ../../introduction.rst:295
+#: ../../introduction.rst:247
 msgid "default firewall"
 msgstr "Cortafuegos predeterminado"
 
-#: ../../introduction.rst:297
+#: ../../introduction.rst:249
 msgid ":file:`/etc/rc.d/` for operating system and :file:`/usr/local/etc/rc.d/` for applications"
 msgstr ""
 ":file:`/etc/rc.d/` para el sistema operativo y :file:`/usr/local/etc/rc.d/` "
 "para aplicaciones"
 
-#: ../../introduction.rst:297
+#: ../../introduction.rst:249
 msgid ":file:`rc0.d/`, :file:`rc1.d/`, etc."
 msgstr ":file:`rc0.d/`, :file:`rc1.d/`, etc."
 
-#: ../../introduction.rst:297
+#: ../../introduction.rst:249
 msgid "in PC-BSD the directories containing the startup scripts do not link to runlevels as there are no runlevels; system startup scripts are separated from third-party application scripts"
 msgstr ""
 "En PC-BSD los directorios que contienen los scripts de arranque no apuntan a "
 "niveles de corrida ya que no los hay; los scripts de arranque del sistema se "
 "separan de los scripts de aplicaciones de terceros"
 
-#: ../../introduction.rst:301
+#: ../../introduction.rst:253
 msgid ":file:`/etc/ttys` and :file:`/etc/rc.conf`"
 msgstr ":file:`/etc/ttys` y :file:`/etc/rc.conf`"
 
-#: ../../introduction.rst:301
+#: ../../introduction.rst:253
 msgid ":command:`telinit`, :file:`init.d/`"
 msgstr ":command:`telinit`, :file:`init.d/`"
 
-#: ../../introduction.rst:301
+#: ../../introduction.rst:253
 msgid "terminals are configured in *ttys* and *rc.conf* indicates which services will start at boot time"
 msgstr ""
 "Las terminales se configuran en *ttys* y *rc.conf* indica qué servicios se "
 "arrancaran al inicio"
 
-#: ../../introduction.rst:305
+#: ../../introduction.rst:257
 msgid "If you are comfortable with the command line, you may find that some of the commands that you are used to have different names on BSD. Table 1.3c lists some common commands and what they are used for."
 msgstr ""
 "Si usted se siente cómodo con la línea de comandos, encontrará que algunos "
 "de los comandos a los que está acostumbrado, tienen diferentes nombres en "
 "BSD. La Tabla 1.3c lista comandos comunes y para qué se usan."
 
-#: ../../introduction.rst:308
+#: ../../introduction.rst:260
 msgid "**Table 1.3c: Common BSD and Linux Commands**"
 msgstr "**Table 1.3c: Comandos Comunes en BSD y Linux**"
 
-#: ../../introduction.rst:311
+#: ../../introduction.rst:263
 msgid "Command"
 msgstr "Comando"
 
-#: ../../introduction.rst:311
+#: ../../introduction.rst:263
 msgid "**Used to:**"
 msgstr "**Usado para:**"
 
-#: ../../introduction.rst:313
+#: ../../introduction.rst:265
 msgid ":command:`dmesg`"
 msgstr ":command:`dmesg`"
 
-#: ../../introduction.rst:313
+#: ../../introduction.rst:265
 msgid "discover what hardware was detected by the kernel"
 msgstr "Encontrar qué hardware fue detectado por el kernel"
 
-#: ../../introduction.rst:315
+#: ../../introduction.rst:267
 msgid ":command:`sysctl dev`"
 msgstr ":command:`sysctl dev`"
 
-#: ../../introduction.rst:315
+#: ../../introduction.rst:267
 msgid "display configured devices"
 msgstr "Muestra dispositivos configurados"
 
-#: ../../introduction.rst:317
+#: ../../introduction.rst:269
 msgid ":command:`pciconf -l -cv`"
 msgstr ":command:`pciconf -l -cv`"
 
-#: ../../introduction.rst:317
+#: ../../introduction.rst:269
 msgid "show PCI devices"
 msgstr "Muestra dispositivos PCI"
 
-#: ../../introduction.rst:319
+#: ../../introduction.rst:271
 msgid ":command:`dmesg | grep usb`"
 msgstr ":command:`dmesg | grep usb`"
 
-#: ../../introduction.rst:319
+#: ../../introduction.rst:271
 msgid "show USB devices"
 msgstr "Muestra dispositivos USB"
 
-#: ../../introduction.rst:321
+#: ../../introduction.rst:273
 msgid ":command:`kldstat`"
 msgstr ":command:`kldstat`"
 
-#: ../../introduction.rst:321
+#: ../../introduction.rst:273
 msgid "list all modules loaded in the kernel"
 msgstr "Lista todos los módulos cargados en el kernel"
 
-#: ../../introduction.rst:323
+#: ../../introduction.rst:275
 msgid ":command:`kldload <module>`"
 msgstr ":command:`kldload <modulo>`"
 
-#: ../../introduction.rst:323
+#: ../../introduction.rst:275
 msgid "load a kernel module for the current session"
 msgstr "Cargar un módulo del kernel para la sesión activa"
 
-#: ../../introduction.rst:325
+#: ../../introduction.rst:277
 msgid ":command:`pbi_add -r <pbiname>`"
 msgstr ":command:`pbi_add -r <nombredelpbi>`"
 
-#: ../../introduction.rst:325
+#: ../../introduction.rst:277
 msgid "install software from the command line"
 msgstr "Instalar software desde la línea de comandos"
 
-#: ../../introduction.rst:327
+#: ../../introduction.rst:279
 msgid ":command:`sysctl hw.realmem`"
 msgstr ":command:`sysctl hw.realmem`"
 
-#: ../../introduction.rst:327
+#: ../../introduction.rst:279
 msgid "display hardware memory"
 msgstr "Mostrar la memoria del harware"
 
-#: ../../introduction.rst:329
+#: ../../introduction.rst:281
 msgid ":command:`sysctl hw.model`"
 msgstr ":command:`sysctl hw.model`"
 
-#: ../../introduction.rst:329
+#: ../../introduction.rst:281
 msgid "display CPU model"
 msgstr "Mostrar modelo del CPU"
 
-#: ../../introduction.rst:331
+#: ../../introduction.rst:283
 msgid ":command:`sysctl hw.machine_arch`"
 msgstr ":command:`sysctl hw.machine_arch`"
 
-#: ../../introduction.rst:331
+#: ../../introduction.rst:283
 msgid "display CPU Architecture"
 msgstr "Muestra la arquitectura del CPU"
 
-#: ../../introduction.rst:333
+#: ../../introduction.rst:285
 msgid ":command:`sysctl hw.ncpu`"
 msgstr ":command:`sysctl hw.ncpu`"
 
-#: ../../introduction.rst:333
+#: ../../introduction.rst:285
 msgid "display number of CPUs"
 msgstr "Muestra el número de CPUs"
 
-#: ../../introduction.rst:335
+#: ../../introduction.rst:287
 msgid ":command:`uname -vm`"
 msgstr ":command:`uname -vm`"
 
-#: ../../introduction.rst:335
+#: ../../introduction.rst:287
 msgid "get release version information"
 msgstr "Muestra información de la versión"
 
-#: ../../introduction.rst:337
+#: ../../introduction.rst:289
 msgid ":command:`gpart show`"
 msgstr ":command:`gpart show`"
 
-#: ../../introduction.rst:337
+#: ../../introduction.rst:289
 msgid "show device partition information"
 msgstr "Muestra la información de las particiones"
 
-#: ../../introduction.rst:339
+#: ../../introduction.rst:291
 msgid ":command:`fuser`"
 msgstr ":command:`fuser`"
 
-#: ../../introduction.rst:339
+#: ../../introduction.rst:291
 msgid "list IDs of all processes that have one or more files open"
 msgstr ""
 "Lista los IDs de todos los procesos que tienen uno o más archivos abiertos"
 
-#: ../../introduction.rst:342
+#: ../../introduction.rst:294
 msgid "The following articles and videos provide additional information about some of the differences between BSD and Linux:"
 msgstr ""
 "Los siguientes artículos y videos proporcionan información adicional sobre "
 "algunas de las diferencias entre BSD y Linux:"
 
-#: ../../introduction.rst:344
+#: ../../introduction.rst:296
 msgid "`Comparing BSD and Linux <http://www.freebsd.org/doc/en/articles/explaining-bsd/comparing-bsd-and-linux.html>`_"
 msgstr ""
 "`Comparing BSD and Linux <http://www.freebsd.org/doc/en/articles/explaining-"
 "bsd/comparing-bsd-and-linux.html>`_"
 
-#: ../../introduction.rst:346
+#: ../../introduction.rst:298
 msgid "`FreeBSD Quickstart Guide for Linux® Users <http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
 msgstr ""
 "`FreeBSD Quickstart Guide for Linux® Users "
 "<http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
 
-#: ../../introduction.rst:348
+#: ../../introduction.rst:300
 msgid "`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
 msgstr ""
 "`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
 
-#: ../../introduction.rst:350
+#: ../../introduction.rst:302
 msgid "`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
 msgstr ""
 "`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
 
-#: ../../introduction.rst:352
+#: ../../introduction.rst:304
 msgid "`Interview: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-beings-interview/>`_"
 msgstr ""
 "`Entrevista: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-"
 "beings-interview/>`_"
 
-#: ../../introduction.rst:354
+#: ../../introduction.rst:306
 msgid "`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
 msgstr ""
 "`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
 
-#: ../../introduction.rst:356
+#: ../../introduction.rst:308
 msgid "`Why you should use a BSD style license for your Open Source Project <http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
 msgstr ""
 "`Why you should use a BSD style license for your Open Source Project "
 "<http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
 
-#: ../../introduction.rst:358
+#: ../../introduction.rst:310
 msgid "`A Sysadmin's Unixersal Translator (ROSETTA STONE) <http://bhami.com/rosetta.html>`_"
 msgstr ""
 "`A Sysadmin's Unixersal Translator (ROSETTA STONE) "
