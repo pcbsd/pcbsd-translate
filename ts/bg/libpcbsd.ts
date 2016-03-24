@@ -1,246 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="bg">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Установяване на безжична точка за достъп</translation>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Базова установка</translation>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Видимо име:</translation>
     </message>
     <message>
         <source>InternetGateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Шлюз за интернет</translation>
     </message>
     <message>
         <source>(SSID required)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Изисква се SSID)</translation>
     </message>
     <message>
         <source>Set Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Задаване на парола:</translation>
     </message>
     <message>
         <source>WPA Password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Парола за WPA (по избор)</translation>
     </message>
     <message>
         <source>Advanced Configuration (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройка за напреднали (по избор)</translation>
     </message>
     <message>
         <source>Base IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Основен IP:</translation>
     </message>
     <message>
         <source>192.168.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>192.168.0.1</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished"></translation>
+        <translation>Мрежова маска:</translation>
     </message>
     <message>
         <source>255.255.255.0</source>
-        <translation type="unfinished"></translation>
+        <translation>255.255.255.0</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим:</translation>
     </message>
     <message>
         <source>11g</source>
-        <translation type="unfinished"></translation>
+        <translation>11g</translation>
     </message>
     <message>
         <source>11ng</source>
-        <translation type="unfinished"></translation>
+        <translation>11ng</translation>
     </message>
     <message>
         <source>11n</source>
-        <translation type="unfinished"></translation>
+        <translation>11n</translation>
     </message>
     <message>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Канал:</translation>
     </message>
     <message>
         <source>Country Code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Код на държавата:</translation>
     </message>
     <message>
         <source>2-letter country code (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Дву-буквен код на държавата (по избор)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагане</translation>
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Безжично устройство: %1</translation>
     </message>
     <message>
         <source>Invalid Password Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Неправилна дължина на паролата</translation>
     </message>
     <message>
         <source>WPA password must be a minimum of 8 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>WPA паролата трябва да е дълга най-малко 8 символа.</translation>
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Драйвера за безжична мрежа не поддържа предоставяне на безжична точка за достъп.</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation type="unfinished"></translation>
+        <translation>Не може да се създаде точка за достъп (wlan0активен ли е вече?)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспех</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSelectDialog</name>
     <message>
         <source>Select keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете клавиатурна подредба</translation>
     </message>
     <message>
         <source>Keyboard layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиатурна подредба:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Търсене...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Нова колона</translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вариант на подредбата:</translation>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation>Обичаен</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Код</translation>
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation>Език на въвеждане</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>Вариант</translation>
     </message>
 </context>
 <context>
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиши за превключване на клавиатурната подредба</translation>
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Shift</translation>
     </message>
     <message>
         <source>Ctrl + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Shift</translation>
     </message>
     <message>
         <source>Alt + Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Интервал</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Други варианти</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+Backspace прекратява изпълнението на xorg</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Диалог</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Затваряне</translation>
     </message>
 </context>
 <context>
     <name>dialogMetaProgress</name>
     <message>
         <source>System-Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Системни пакети</translation>
     </message>
     <message>
         <source>Total Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Общ напредък</translation>
     </message>
     <message>
         <source>Update Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Напредък на обновяване</translation>
     </message>
     <message>
         <source>Meta-Package Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Промени на мета-пакета</translation>
     </message>
     <message>
         <source>Warning: Packages are still being modifed!
 If you cancel now the packages may be corrupted. Cancel anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение: Пакетите все още се променят!
+Ако отмените сега, пакетите могат да се повредят. Отменяне въпреки това?</translation>
     </message>
 </context>
 <context>
@@ -303,7 +304,7 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Затваряне</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -350,7 +351,7 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     <name>metaWidget</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Прилагане</translation>
     </message>
     <message>
         <source>Loading... Please wait...</source>

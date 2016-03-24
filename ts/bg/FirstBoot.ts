@@ -243,14 +243,14 @@
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Затваряне</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Затваряне</translation>
     </message>
 </context>
 <context>
@@ -305,27 +305,27 @@
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Клавиатурна подредба</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>Вариант</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished"></translation>
+        <translation>Модел на клавиатурата</translation>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished"></translation>
+        <translation>( Можете да пишете в полето по-долу за да изпробвате избраните настройки. )</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Прилагане</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Затваряне</translation>
     </message>
 </context>
 </TS>
