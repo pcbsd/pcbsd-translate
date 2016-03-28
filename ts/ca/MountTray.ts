@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation>Veure l&apos;ús de disc</translation>
+        <translation>Mostra l&apos;ús de disc</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Reprodueix automàticament els discos òptics</translation>
     </message>
 </context>
 </TS>
