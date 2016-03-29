@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Optik diskleri otomatik oynat</translation>
     </message>
 </context>
 </TS>
