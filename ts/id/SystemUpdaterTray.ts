@@ -28,10 +28,6 @@
         <translation>1 jam</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation>5 jam</translation>
-    </message>
-    <message>
         <source>12 Hours</source>
         <translation>12 jam</translation>
     </message>
@@ -46,6 +42,14 @@
     <message>
         <source>Remind Me Later</source>
         <translation>Ingatkan Aku Nanti</translation>
+    </message>
+    <message>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 jam {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 jam {8 ?}</translation>
     </message>
 </context>
 <context>

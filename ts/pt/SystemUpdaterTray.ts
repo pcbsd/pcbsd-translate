@@ -28,10 +28,6 @@
         <translation>1 Hora</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation>5 Horas </translation>
-    </message>
-    <message>
         <source>12 Hours</source>
         <translation>12 Horas</translation>
     </message>
@@ -46,6 +42,14 @@
     <message>
         <source>Remind Me Later</source>
         <translation>Lembre-me mais tarde</translation>
+    </message>
+    <message>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 Horas {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 Horas {8 ?}</translation>
     </message>
 </context>
 <context>

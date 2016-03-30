@@ -28,10 +28,6 @@
         <translation>1 stundas</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation>5 stundām</translation>
-    </message>
-    <message>
         <source>12 Hours</source>
         <translation>12 stundām</translation>
     </message>
@@ -46,6 +42,14 @@
     <message>
         <source>Remind Me Later</source>
         <translation>Atgādināt vēlāk</translation>
+    </message>
+    <message>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 stundām {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 stundām {8 ?}</translation>
     </message>
 </context>
 <context>

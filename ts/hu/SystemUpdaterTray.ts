@@ -28,10 +28,6 @@
         <translation>1 óra</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation>5 óra</translation>
-    </message>
-    <message>
         <source>12 Hours</source>
         <translation>12 óra</translation>
     </message>
@@ -46,6 +42,14 @@
     <message>
         <source>Remind Me Later</source>
         <translation>Emlékeztessen később</translation>
+    </message>
+    <message>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 óra {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 óra {8 ?}</translation>
     </message>
 </context>
 <context>
