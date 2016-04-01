@@ -9,43 +9,43 @@
     </message>
     <message>
         <source>Filename:</source>
-        <translation type="unfinished">Failinimi:</translation>
+        <translation>Failinimi:</translation>
     </message>
     <message>
         <source>Exclude PBI Shortcuts</source>
-        <translation type="unfinished">Jäta välja PBI otseteed</translation>
+        <translation>Jäta välja PBI otseteed</translation>
     </message>
     <message>
         <source>Exclude User-Level Binaries (~/bin/)</source>
-        <translation type="unfinished">Jäta välja kasutaja-taseme käivitatavad failid (~/bin/)</translation>
+        <translation>Jäta välja kasutaja-taseme käivitatavad failid (~/bin/)</translation>
     </message>
     <message>
         <source>Additional Excludes</source>
-        <translation type="unfinished">Jäta lisaks välja</translation>
+        <translation>Jäta lisaks välja</translation>
     </message>
     <message>
         <source>Remove selected exclude</source>
-        <translation type="unfinished">Eemalda valitud</translation>
+        <translation>Eemalda valitud</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Exclude file(s)</source>
-        <translation type="unfinished">Jäta välja fail(id)</translation>
+        <translation>Jäta välja fail(id)</translation>
     </message>
     <message>
         <source>Exclude a directory</source>
-        <translation type="unfinished">Jäta välja kaust</translation>
+        <translation>Jäta välja kaust</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Katkesta</translation>
+        <translation>Katkesta</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished">Alusta</translation>
+        <translation>Alusta</translation>
     </message>
     <message>
         <source>Home Directory Being Archived....</source>
@@ -53,31 +53,31 @@
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Suurus:</translation>
+        <translation>Suurus:</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished">&amp;Peata</translation>
+        <translation>&amp;Peata</translation>
     </message>
     <message>
         <source>&amp;Finished</source>
-        <translation type="unfinished">&amp;Valmis</translation>
+        <translation>&amp;Valmis</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished">Tühistatud</translation>
+        <translation>Tühistatud</translation>
     </message>
     <message>
         <source>FINISHED</source>
-        <translation type="unfinished">VALMIS</translation>
+        <translation>VALMIS</translation>
     </message>
     <message>
         <source>Exclude Files</source>
-        <translation type="unfinished">Jäta välja failid</translation>
+        <translation>Jäta välja failid</translation>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished">Kõik failid (*)</translation>
+        <translation>Kõik failid (*)</translation>
     </message>
     <message>
         <source>Packaging Home Directory...</source>
@@ -85,275 +85,273 @@
     </message>
     <message>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Jäta välja kaustad</translation>
     </message>
 </context>
 <context>
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished">Seadista andmekogu</translation>
+        <translation>Seadista andmekogu</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished">Andmekogu:</translation>
+        <translation>Andmekogu:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
-        <translation type="unfinished">Kohalikud tõmmised</translation>
+        <translation>Kohalikud tõmmised</translation>
     </message>
     <message>
         <source>Schedule:</source>
-        <translation type="unfinished">Ajakava:</translation>
+        <translation>Ajakava:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaatne</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Iga päev</translation>
+        <translation>Iga päev</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Iga tund</translation>
+        <translation>Iga tund</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished">5 minutit {30 ?}</translation>
+        <translation>30 minuti tagant</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished">5 minutit {10 ?}</translation>
+        <translation>10 minuti tagant</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minuti tagant</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished">@ h AP</translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Days</source>
-        <translation type="unfinished">Päeva</translation>
+        <translation>päeva tagant</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished">Kokku</translation>
+        <translation>Kokku</translation>
     </message>
     <message>
         <source>Keep:</source>
-        <translation type="unfinished">Hoia alles:</translation>
+        <translation>Hoia alles:</translation>
     </message>
     <message>
         <source>Replication</source>
-        <translation type="unfinished">Kopeerimine</translation>
+        <translation>Kopeerimine</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+        <translation>Kasutajanimi</translation>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished">SSH port</translation>
+        <translation>SSH port</translation>
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished">Andmekogu kaugarvutis</translation>
+        <translation>Andmekogu kaugarvutis</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished">Sagedus</translation>
+        <translation>Sagedus</translation>
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Hetktõmmiste sünkroonimine</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished">
-             {30 ?}</translation>
+        <translation>30 minuti tagant</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished">
-             {30 ?} {10 ?}</translation>
+        <translation>10 minuti tagant</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsitsi</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Rakenda</translation>
+        <translation>&amp;Rakenda</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulge</translation>
+        <translation>&amp;Sulge</translation>
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Puhasta</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Korrapärane puhastamine</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga nädal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga kuu</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuupäev</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Nädalapäev</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation> tund</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation>Esmaspäeviti</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Teisipäeviti</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolmapäeviti</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Neljapäeviti</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>Reedeti</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Laupäeviti</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Pühapäeviti</translation>
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeerimise sätted</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Määra kopeerimise siht</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Leitud hostinimi või kohandatud IP:</translation>
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välja jäetud:</translation>
     </message>
     <message>
         <source>Remote Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Võrguserverid</translation>
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Väljajäetud andmed</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Kohandatud IP&gt;</translation>
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation>Intervall päevades</translation>
     </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
     <message>
         <source>ISCSI Setup Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI seadistamisabiline</translation>
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>See abiline aitab seadistada krüpteeritud varukoopia PC-BSD süsteemist üle võrgu.</translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Varundusserveri seadistus</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali</translation>
     </message>
     <message>
         <source>Detected Settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuvastatud sätted:</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Siht:</translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutaja:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Parool:</translation>
     </message>
     <message>
         <source>Local Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Kohalik seadistus</translation>
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Varunduse ajakava</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Andmekogu varunduseks:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta varunduse võtmefail</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Krüpteerimise võtmefail</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Korda parooli:</translation>
     </message>
     <message>
         <source>Create Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo võtmefail</translation>
     </message>
     <message>
         <source>On New Snapshot</source>
@@ -361,35 +359,35 @@
     </message>
     <message>
         <source>Manually Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Käsitsi algatatud</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Iga päev</translation>
+        <translation>Iga päev</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Iga tund</translation>
+        <translation>Iga tund</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga 30 minuti tagant</translation>
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga 10 minuti tagant</translation>
     </message>
     <message>
         <source>Ready to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Varundamiseks valmis</translation>
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas soovid kindlasti kasutada andmevarundust üle võrgu?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished"></translation>
+        <translation>See võib võtta aega...</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
@@ -1011,11 +1009,11 @@
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5 minuti tagant</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaatne</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
@@ -1047,55 +1045,55 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korrapärane puhastamine</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iga nädal</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iga kuu</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kuupäev</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nädalapäev</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> tund</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esmaspäeviti</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teisipäeviti</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolmapäeviti</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neljapäeviti</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reedeti</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Laupäeviti</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pühapäeviti</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
@@ -1119,7 +1117,7 @@
     </message>
     <message>
         <source>Interval of Days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Intervall päevades</translation>
     </message>
 </context>
 <context>

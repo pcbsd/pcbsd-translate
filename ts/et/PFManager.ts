@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="et">
 <context>
     <name>MainDialog</name>
     <message>
         <source>Firewall Manager</source>
-        <translation type="unfinished">Tulemüüri haldamine</translation>
+        <translation>Tulemüüri haldamine</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Üldine</translation>
+        <translation>Üldine</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Seadistus</translation>
+        <translation>Seadistus</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
-        <translation type="unfinished">&amp;Taasta algseadistus</translation>
+        <translation>Taasta &amp;algseadistus</translation>
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished">Tulemüür</translation>
+        <translation>Tulemüür</translation>
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished">&amp;Käivita</translation>
+        <translation>&amp;Käivita</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished">&amp;Peata</translation>
+        <translation>&amp;Peata</translation>
     </message>
     <message>
         <source>Re&amp;start</source>
-        <translation type="unfinished">&amp;Taaskäivita</translation>
+        <translation>&amp;Taaskäivita</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished">Üldised sätted</translation>
+        <translation>Üldised sätted</translation>
     </message>
     <message>
         <source>Enable Firewall on startup</source>
-        <translation type="unfinished">Lülita tulemüür käivitamisel sisse</translation>
+        <translation>Lülita tulemüür käivitamisel sisse</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished">Port</translation>
+        <translation>Port</translation>
     </message>
     <message>
         <source>Open Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Avatud pordid</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüüp</translation>
     </message>
     <message>
         <source>Close Selected Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge valitud pordid</translation>
     </message>
     <message>
         <source>Open Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava port</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge</translation>
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Märkus: allolevaid sätteid kasutatakse ainult siis, kui marsruutimine ei toimu Tor-i kaudu.</translation>
     </message>
 </context>
 <context>
@@ -77,36 +77,36 @@
     <message>
         <source>This will turn off the firewall completely.
 Are you sure?</source>
-        <translation type="unfinished">See lülitab tulemüüri täielikult välja.
-Oled kindel?</translation>
+        <translation>Tulemüür lülitatakse täielikult välja.
+Kas oled kindel?</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Küsimus</translation>
+        <translation>Küsimus</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Õnnestus</translation>
+        <translation>Õnnestus</translation>
     </message>
     <message>
         <source>Restarted successfuly!</source>
-        <translation type="unfinished">Taaskäivitamine õnnestus!</translation>
+        <translation>Taaskäivitamine õnnestus!</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Tõrge</translation>
+        <translation>Tõrge</translation>
     </message>
     <message>
         <source>Failed to restart!</source>
-        <translation type="unfinished">Taaskäivitamine ebaõnnestus!</translation>
+        <translation>Taaskäivitamine ebaõnnestus!</translation>
     </message>
     <message>
         <source>Restored.</source>
-        <translation type="unfinished">Taastatud.</translation>
+        <translation>Taastatud</translation>
     </message>
     <message>
         <source>Config file successfuly restored.</source>
-        <translation type="unfinished">Sätete fail taastati edukalt.</translation>
+        <translation>Sätete fail taastati edukalt.</translation>
     </message>
 </context>
 </TS>
