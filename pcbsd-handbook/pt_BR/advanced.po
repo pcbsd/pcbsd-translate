@@ -2,19 +2,18 @@
 # Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-31 12:14-0700\n"
-"PO-Revision-Date: 2016-03-22 23:16+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2016-03-31 16:13-0700\n"
+"PO-Revision-Date: 2015-12-19 19:41+0000\n"
+"Last-Translator: João Ricardo <joaorsbatista@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
 
 #: ../../advanced.rst:5
 msgid "Advanced Installation Topics"
@@ -220,9 +219,8 @@ msgid "If you select \"edit\", the menu shown in :numref:`Figure %s: Edit Menu <
 msgstr ""
 
 #: ../../advanced.rst:171
-#, fuzzy
 msgid "This screen contains the following options:"
-msgstr "Este menu inicial fornece as seguintes opções:"
+msgstr ""
 
 #: ../../advanced.rst:173
 msgid "**disk:** used to change the disk to install into. Selecting this option will re-open the screens shown in :numref:`Figure %s: Select Installation Disk <text3>` through :numref:`Figure %s: Full Disk Encryption <text7>`, and then return you back to this menu."
@@ -273,9 +271,8 @@ msgid "If you click the *utility* option in the main menu of the text based inst
 msgstr ""
 
 #: ../../advanced.rst:225
-#, fuzzy
 msgid "This screen provides the following options:"
-msgstr "Este menu inicial fornece as seguintes opções:"
+msgstr ""
 
 #: ../../advanced.rst:227
 msgid "**shell:** this option is useful if you are troubleshooting a PC-BSD® system that no longer boots. It will open a shell with administrative access that includes the base FreeBSD utilities. You can use this shell to try to determine what the problem is and, if necessary, to create a backup or copy essential files to another system. When you are finished using the shell, type :command:`exit` to return to the screen shown in :numref:`Figure %s: System Utilities Menu <util1>`."
@@ -342,9 +339,8 @@ msgid "For security reasons, you should not login as the *root* user. For this r
 msgstr ""
 
 #: ../../advanced.rst:288
-#, fuzzy
 msgid "This screen contains the following fields:"
-msgstr "Este menu inicial fornece as seguintes opções:"
+msgstr ""
 
 #: ../../advanced.rst:290
 msgid "**Name:** can contain capital letters and spaces."
@@ -499,9 +495,8 @@ msgid "any entries you added to :file:`/usr/local/etc/grub.d/40_custom`"
 msgstr ""
 
 #: ../../advanced.rst:432
-#, fuzzy
 msgid "Creating an Automated Installation"
-msgstr ":ref:`Criando uma Instalação Automatizada`"
+msgstr ""
 
 #: ../../advanced.rst:434
 msgid "PC-BSD® provides a set of Bourne shell scripts that allow advanced users to create automatic or customized PC-BSD® installations. :command:`pc-sysinstall` is the name of the master script; it reads a customizable configuration file and uses dozens of backend scripts to perform the installation. You can read more about this utility by typing **man pc-sysinstall**."
