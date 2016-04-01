@@ -407,11 +407,11 @@
     </message>
     <message>
         <source>Select LPS file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali LPS-fail</translation>
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserveri Serveri fail (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
@@ -610,35 +610,35 @@
     </message>
     <message>
         <source>Attach Disk</source>
-        <translation type="unfinished">Ühenda ketas</translation>
+        <translation>Ühenda ketas</translation>
     </message>
     <message>
         <source>New Snapshot</source>
-        <translation type="unfinished">Uus hetktõmmis</translation>
+        <translation>Uus hetktõmmis</translation>
     </message>
     <message>
         <source>&amp;Save Key to USB</source>
-        <translation type="unfinished">&amp;Salvesta võti USB-mälupulgale</translation>
+        <translation>&amp;Salvesta võti USB-mälupulgale</translation>
     </message>
     <message>
         <source>Start Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Alusta puhastamist</translation>
     </message>
     <message>
         <source>Check system data integrity</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolli süsteemi andmete terviklikkust</translation>
     </message>
     <message>
         <source>Classic Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassikaline varundus</translation>
     </message>
     <message>
         <source>&amp;Extract Home Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Paki kodukaust lahti</translation>
     </message>
     <message>
         <source>Stop Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Peata puhastamine</translation>
     </message>
     <message>
         <source>Start Replication</source>
