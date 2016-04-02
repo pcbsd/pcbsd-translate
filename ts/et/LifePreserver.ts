@@ -391,19 +391,19 @@
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üle võrgu varundamisel esines tõrge. Veendu, et seadistus on korrektne, ja proovi uuesti.</translation>
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Seadistuse viga</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Vigased paroolid</translation>
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisestatud paroolid ei klapi või on tühjad</translation>
     </message>
     <message>
         <source>Select LPS file</source>
@@ -415,35 +415,35 @@
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasuta hosti olemasolevaid andmeid</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
-        <translation type="unfinished"></translation>
+        <translation>GELI krüpteerimisfail:</translation>
     </message>
     <message>
         <source>Select GELI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali GELI fail</translation>
     </message>
     <message>
         <source>Select GELI Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali GELI võtmefail</translation>
     </message>
     <message>
         <source>GELI Key Files (*.key)</source>
-        <translation type="unfinished"></translation>
+        <translation>GELI võtmefailid (*.key)</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Võtmefaili loomisel esines tõrge. Veendu, et seadistus on korrektne, ja proovi uuesti.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Võtme loomise viga</translation>
     </message>
     <message>
         <source>Key Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Võti loodud</translation>
     </message>
     <message>
         <source>Your key file has been successfully created and is located in /usr/home</source>
