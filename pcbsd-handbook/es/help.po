@@ -2,13 +2,12 @@
 # Copyright (C) 2011-2016, iXsystems
 # This file is distributed under the same license as the PC-BSD User Guide package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-04 12:14-0700\n"
-"PO-Revision-Date: 2016-04-04 19:23+0000\n"
+"PO-Revision-Date: 2016-04-04 19:19+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -17,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1459797821.000000\n"
+"X-POOTLE-MTIME: 1459797551.000000\n"
 
 #: ../../help.rst:5
 msgid "Finding Help"
