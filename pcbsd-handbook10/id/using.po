@@ -1,0 +1,1156 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2016, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-05 08:14-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: ../../using.rst:4
+msgid "Using PC-BSD®"
+msgstr ""
+
+#: ../../using.rst:6
+msgid "This section discusses how to perform common tasks that were not discussed in the :ref:`Control Panel` section."
+msgstr ""
+
+#: ../../using.rst:12
+msgid "Java and Flash"
+msgstr ""
+
+#: ../../using.rst:14
+msgid "The IcedTea-Web PBI provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this PBI, search for \"icedtea\" within :ref:`AppCafe®`."
+msgstr ""
+
+#: ../../using.rst:17
+msgid "PC-BSD® installs and configures the Adobe Flash player (version 11) plugin for you. This means that flash should \"just work\" when browsing the web. You will find several web browsers in the Web Browsers category of :ref:`AppCafe®`, including Firefox, Opera, and Chromium."
+msgstr ""
+
+#: ../../using.rst:20
+msgid "If Adobe Flash does not seem to be working, running the following command as your regular user account should fix the problem::"
+msgstr ""
+
+#: ../../using.rst:24
+msgid "The Adobe Flash Player preferences icon in :ref:`Control Panel` can be used to modify how websites interact with your browser using Adobe Flash. Many of the same configurations can be done via right-click within an active flash object in a web browser."
+msgstr ""
+
+#: ../../using.rst:27
+msgid "To access the utility shown in :numref:`Figure %s: Flash Player Configuration Utility <flash>`, use :menuselection:`Control Panel --> Adobe Flash Player preferences` or type :command:`flash-player-properties`."
+msgstr ""
+
+#: ../../using.rst:34
+msgid "The options available in each tab and when to use them are described at the Adobe website:"
+msgstr ""
+
+#: ../../using.rst:36
+msgid "`Storage <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7fff.html>`_ describes private browsing support and the privacy issues associated with local storage of flash information."
+msgstr ""
+
+#: ../../using.rst:39
+msgid "`Camera and Mic <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff8.html>`_ controls how websites can use your computer's camera and microphone."
+msgstr ""
+
+#: ../../using.rst:41
+msgid "`Playback <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff5.html>`_ describes how to configure peer-assisted networking to improve bandwidth."
+msgstr ""
+
+#: ../../using.rst:43
+msgid "`Advanced <http://help.adobe.com/en_US/FlashPlayer/LSM/WS6aa5ec234ff3f285139dc56112e3786b68c-7ff0.html>`_ controls how Flash Player handles browsing data, updates, trusted locations, and protected content."
+msgstr ""
+
+#: ../../using.rst:50
+msgid "Installing Custom Fonts"
+msgstr ""
+
+#: ../../using.rst:52
+msgid "PC-BSD® installs Microsoft TrueType fonts which include the Times New Roman, Courier New, Georgia, Trebuchet MS, Comic Sans MS Arial, Arial Black, Verdana, Andale Mono, and Impact fonts."
+msgstr ""
+
+#: ../../using.rst:55
+msgid "If you have a collection of fonts that you have downloaded or purchased, you can configure your PC-BSD® system to also use these fonts. Which utility you use depends upon which window manager you have logged into."
+msgstr ""
+
+#: ../../using.rst:58
+msgid "many fonts are available from :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box in the \"App Search\" tab to search for fonts. Any font installed using AppCafe® should not require any additional configuration to \"just work\"."
+msgstr ""
+
+#: ../../using.rst:61
+msgid "To install custom fonts within KDE, go to :menuselection:`System Settings --> Font Management`. In :numref:`Figure %s: Using KDE's Font Installer to Install Custom Fonts <font1>`, \"All Fonts\" is currently selected under the \"Group\" column, showing all of the fonts installed on this system."
+msgstr ""
+
+#: ../../using.rst:68
+msgid "To install your fonts, highlight \"Personal Fonts\" under the \"Group\" column, then click the \"+Add\" button. This will allow you to browse to the font you wish to add. You can add multiple fonts in the same directory by holding down the :kbd:`Ctrl` key while making your selection. Click the \"Open\" button, which will install the font for you. When it is finished, a pop-up message will indicate that you will need to restart any open applications for the font change to take affect. Your newly installed font(s) should now show up in the \"Personal Fonts\" section in the \"Group\" column and be available to the applications you use."
+msgstr ""
+
+#: ../../using.rst:73
+msgid "To install custom fonts within GNOME, go to :menuselection:`Activities --> Files`. Navigate to the location of the font that you would like to install and either double-click the font name or select \"Font Viewer\" from the icon's right-click menu. This will open the font in Font Viewer, allowing you to view it. If you like the font, click the \"Install Font\" button to make it available to your applications. In the example shown in :numref:`Figure %s: Using Files to Install a Custom Font <font2>`, the user is installing the BlackFlag font."
+msgstr ""
+
+#: ../../using.rst:82
+msgid "To install custom fonts within XFCE, use :menuselection:`Applications --> System --> Thunar File Manager`. Once you browse to the location of the font and double- or right-click it, you will see the same Font Viewer used by GNOME."
+msgstr ""
+
+#: ../../using.rst:85
+msgid "If you prefer to install fonts from the command line, become the superuser and copy the downloaded font to the :file:`/usr/local/share/fonts/` directory. Then, refresh the fonts cache::"
+msgstr ""
+
+#: ../../using.rst:94
+msgid "Multimedia"
+msgstr ""
+
+#: ../../using.rst:96
+msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
+msgstr ""
+
+#: ../../using.rst:100
+msgid "If you install your web browser using AppCafe®, you should be able to play most media formats, including YouTube videos, Internet radio, and many trailer and movie sites."
+msgstr ""
+
+#: ../../using.rst:103
+msgid "If people are blue in YouTube videos, this is due to a known issue in flash which Adobe hasn't fixed for open source players. To resolve this issue, right-click an area in the video, select \"Settings\", then uncheck the box \"Enable hardware acceleration\". Alternately, use the Minitube PBI to watch YouTube."
+msgstr ""
+
+#: ../../using.rst:106
+msgid "if you happen to come across a file that you can not play in a web browser or media player, it is probably because it is in a proprietary format that requires a licensing fee or restricts distribution of the codec that is required to play that media format."
+msgstr ""
+
+#: ../../using.rst:109
+msgid "AppCafe® contains several dozen applications for playing and editing multimedia. It includes these popular applications (click the links to view screenshots):"
+msgstr ""
+
+#: ../../using.rst:111
+msgid "`aTunes <http://www.atunes.org/?page_id=5>`_: full-featured audio player and manager that can play mp3, ogg, wma, wav, flac, mp4 and radio streaming, allowing users to easily edit tags, organize music and rip audio CDs."
+msgstr ""
+
+#: ../../using.rst:114
+msgid "`Audacity <http://sourceforge.net/projects/audacity/?lang=en>`_: multilingual audio editor and recorder."
+msgstr ""
+
+#: ../../using.rst:116
+msgid "`DeaDBeeF <http://deadbeef.sourceforge.net/screenshots.html>`_: music player that supports most audio formats."
+msgstr ""
+
+#: ../../using.rst:118
+msgid "`Decibel <http://decibel.silent-blade.org/index.php?n=Main.Screenshots>`_: audio player built around a highly modular structure that lets the user disable completely the features he does not need. Able to play CDs directly."
+msgstr ""
+
+#: ../../using.rst:121
+msgid "`gtkpod <http://www.gtkpod.org/index.php?title=Screenshots>`_: graphical user interface for the Apple iPod."
+msgstr ""
+
+#: ../../using.rst:123
+msgid "`Miro <http://www.getmiro.com/download/screenshots/>`_: HD video player that can play almost any video file and offers over 6,000 free Internet TV shows and video podcasts."
+msgstr ""
+
+#: ../../using.rst:126
+msgid "`SMPlayer <http://smplayer.sourceforge.net/>`_: universal media player that can handle any media format and play audio CDs, DVDs, (S)VCDs, TV/radio cards, YouTube™ and SHOUTcast™ streams. This is the default player used by :ref:`Mount Tray`."
+msgstr ""
+
+#: ../../using.rst:133
+msgid "Kodi"
+msgstr ""
+
+#: ../../using.rst:135
+msgid "`Kodi, formerly known as XBMC, <http://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats. It can play CDs and DVDs from a disk or image file and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
+msgstr ""
+
+#: ../../using.rst:139
+msgid "During the installation of PC-BSD®, the installer provided an option to install Kodi. If you wish to install Kodi afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
+msgstr ""
+
+#: ../../using.rst:143
+msgid "If you have never used Kodi before, take some time to skim through the `Kodi Wiki Manual <http://kodi.wiki/>`_. The `Turn PC-BSD into a home theater forum post <https://forums.pcbsd.org/thread-19799.html>`_ contains a quick how-to for configuring Kodi."
+msgstr ""
+
+#: ../../using.rst:150
+msgid "PlexHome Theater"
+msgstr ""
+
+#: ../../using.rst:152
+msgid "`Plex Home Theater <https://plex.tv/>`_ is a centralized media playback system. The central Plex Media Server streams media to many Plex player Apps which are used to view your media library and watch shows."
+msgstr ""
+
+#: ../../using.rst:155
+msgid "During the installation of PC-BSD®, the installer provided an option to install PlexHome Theater. If you wish to install it afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
+msgstr ""
+
+#: ../../using.rst:159
+msgid "Once installed, an entry for \"Plex Home Theater\" will also be added to the login manager so that you can login directly to the home theater instead of a desktop."
+msgstr ""
+
+#: ../../using.rst:161
+msgid "The first time you run or log into Plex Home Theater, a wizard will check your audio settings and sign into your Plex account. If you do not have a Plex account yet, create one at `plex.tv <https://plex.tv/>`_. The wizard will give you a PIN code and an URL to enter the code. Once you enter the PIN, the wizard will connect and sign you in. You can now search for and watch media. To exit Plex, click the \"<\" then \"Quit\"."
+msgstr ""
+
+#: ../../using.rst:169
+msgid "Files and File Sharing"
+msgstr ""
+
+#: ../../using.rst:171
+msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`  to install the PBI. Once a file manager is installed, type its name if you wish to run it from another desktop."
+msgstr ""
+
+#: ../../using.rst:178
+msgid "**Table 9.4a: Available File Managers**"
+msgstr ""
+
+#: ../../using.rst:181
+msgid "File Manager"
+msgstr ""
+
+#: ../../using.rst:181
+msgid "Desktop/PBI"
+msgstr ""
+
+#: ../../using.rst:181
+msgid "Screenshots"
+msgstr ""
+
+#: ../../using.rst:183
+#: ../../using.rst:277
+msgid "dolphin"
+msgstr ""
+
+#: ../../using.rst:183
+#: ../../using.rst:277
+#: ../../using.rst:281
+msgid "KDE"
+msgstr ""
+
+#: ../../using.rst:183
+msgid "`<https://userbase.kde.org/Dolphin>`_"
+msgstr ""
+
+#: ../../using.rst:185
+msgid "emelfm2"
+msgstr ""
+
+#: ../../using.rst:185
+#: ../../using.rst:189
+#: ../../using.rst:197
+#: ../../using.rst:283
+msgid "PBI"
+msgstr ""
+
+#: ../../using.rst:185
+msgid "`<http://emelfm2.net/wiki/ScreenShots>`_"
+msgstr ""
+
+#: ../../using.rst:187
+msgid "caja"
+msgstr ""
+
+#: ../../using.rst:187
+msgid "MATE"
+msgstr ""
+
+#: ../../using.rst:187
+msgid "`<http://mate-desktop.org/gallery/1.6/>`_"
+msgstr ""
+
+#: ../../using.rst:189
+#: ../../using.rst:283
+msgid "mucommander"
+msgstr ""
+
+#: ../../using.rst:189
+msgid "`<http://www.mucommander.com/screenshots.php>`_"
+msgstr ""
+
+#: ../../using.rst:191
+#: ../../using.rst:286
+msgid "nautilus"
+msgstr ""
+
+#: ../../using.rst:191
+#: ../../using.rst:286
+msgid "GNOME, PBI"
+msgstr ""
+
+#: ../../using.rst:191
+msgid "`<https://projects.gnome.org/nautilus/screenshots.html>`_"
+msgstr ""
+
+#: ../../using.rst:193
+msgid "pcmanfm"
+msgstr ""
+
+#: ../../using.rst:193
+msgid "LXDE, PBI"
+msgstr ""
+
+#: ../../using.rst:193
+msgid "`<http://lxde.org/easy_fast_file_management_pcmanfm>`_"
+msgstr ""
+
+#: ../../using.rst:195
+#: ../../using.rst:288
+msgid "thunar"
+msgstr ""
+
+#: ../../using.rst:195
+#: ../../using.rst:288
+msgid "XFCE, PBI"
+msgstr ""
+
+#: ../../using.rst:195
+msgid "`<http://docs.xfce.org/xfce/thunar/start>`_"
+msgstr ""
+
+#: ../../using.rst:197
+msgid "xfe"
+msgstr ""
+
+#: ../../using.rst:197
+msgid "`<http://roland65.free.fr/xfe/index.php?page=screenshots>`_"
+msgstr ""
+
+#: ../../using.rst:200
+msgid "When working with files on your PC-BSD® system, save your own files to your home directory. Since most of the files outside of your home directory are used by the operating system and applications, you should not delete or modify any files outside of your home directory, unless you know what you are doing."
+msgstr ""
+
+#: ../../using.rst:203
+msgid "Table 9.4b summarizes the directory structure found on a PC-BSD® system. :command:`man hier` explains this directory structure in more detail."
+msgstr ""
+
+#: ../../using.rst:205
+msgid "**Table 9.4b: PC-BSD Directory Structure**"
+msgstr ""
+
+#: ../../using.rst:208
+msgid "Directory"
+msgstr ""
+
+#: ../../using.rst:208
+msgid "Contents"
+msgstr ""
+
+#: ../../using.rst:210
+msgid "/"
+msgstr ""
+
+#: ../../using.rst:210
+msgid "pronounced as \"root\" and represents the beginning of the directory structure"
+msgstr ""
+
+#: ../../using.rst:212
+msgid "/bin/"
+msgstr ""
+
+#: ../../using.rst:212
+msgid "applications (binaries) that were installed with the operating system"
+msgstr ""
+
+#: ../../using.rst:214
+msgid "/boot/"
+msgstr ""
+
+#: ../../using.rst:214
+msgid "stores the startup code, including kernel modules (such as hardware drivers)"
+msgstr ""
+
+#: ../../using.rst:216
+msgid "/compat/linux/"
+msgstr ""
+
+#: ../../using.rst:216
+msgid "Linux software compatibility files"
+msgstr ""
+
+#: ../../using.rst:218
+msgid "/dev/"
+msgstr ""
+
+#: ../../using.rst:218
+msgid "files which are used by the operating system to access devices"
+msgstr ""
+
+#: ../../using.rst:220
+msgid "/etc/"
+msgstr ""
+
+#: ../../using.rst:220
+msgid "operating system configuration files"
+msgstr ""
+
+#: ../../using.rst:222
+msgid "/etc/X11/"
+msgstr ""
+
+#: ../../using.rst:222
+msgid "the :file:`xorg.conf` configuration file"
+msgstr ""
+
+#: ../../using.rst:224
+msgid "/etc/rc.d/"
+msgstr ""
+
+#: ../../using.rst:224
+msgid "operating system startup scripts"
+msgstr ""
+
+#: ../../using.rst:226
+msgid "/home/"
+msgstr ""
+
+#: ../../using.rst:226
+msgid "subdirectories for each user account; each user should store their files in their own home directory"
+msgstr ""
+
+#: ../../using.rst:228
+msgid "/lib/"
+msgstr ""
+
+#: ../../using.rst:228
+msgid "operating system libraries needed for applications"
+msgstr ""
+
+#: ../../using.rst:230
+msgid "/libexec/"
+msgstr ""
+
+#: ../../using.rst:230
+msgid "operating system libraries and binaries"
+msgstr ""
+
+#: ../../using.rst:232
+msgid "/media/"
+msgstr ""
+
+#: ../../using.rst:232
+msgid "mount point for storage media such as DVDs and USB drives"
+msgstr ""
+
+#: ../../using.rst:234
+msgid "/mnt/"
+msgstr ""
+
+#: ../../using.rst:234
+msgid "another mount point"
+msgstr ""
+
+#: ../../using.rst:236
+msgid "/proc/"
+msgstr ""
+
+#: ../../using.rst:236
+msgid "the proc filesystem required by some Linux applications"
+msgstr ""
+
+#: ../../using.rst:238
+msgid "/rescue/"
+msgstr ""
+
+#: ../../using.rst:238
+msgid "necessary programs for emergency recovery"
+msgstr ""
+
+#: ../../using.rst:240
+msgid "/root/"
+msgstr ""
+
+#: ../../using.rst:240
+msgid "administrative account's home directory"
+msgstr ""
+
+#: ../../using.rst:242
+msgid "/sbin/"
+msgstr ""
+
+#: ../../using.rst:242
+msgid "operating system applications; typically only the superuser can run these applications"
+msgstr ""
+
+#: ../../using.rst:244
+msgid "/tmp/"
+msgstr ""
+
+#: ../../using.rst:244
+msgid "temporary file storage; files stored here may disappear when the system reboots"
+msgstr ""
+
+#: ../../using.rst:246
+msgid "/usr/bin/"
+msgstr ""
+
+#: ../../using.rst:246
+msgid "contains most of the command line programs available to users"
+msgstr ""
+
+#: ../../using.rst:248
+msgid "/usr/local/"
+msgstr ""
+
+#: ../../using.rst:248
+msgid "contains the binaries, libraries, startup scripts, documentation, and configuration files used by applications installed from ports or packages"
+msgstr ""
+
+#: ../../using.rst:251
+msgid "/usr/local/share/fonts/"
+msgstr ""
+
+#: ../../using.rst:251
+msgid "system wide fonts for graphical applications"
+msgstr ""
+
+#: ../../using.rst:253
+msgid "/usr/local/share/icons/"
+msgstr ""
+
+#: ../../using.rst:253
+msgid "system wide icons"
+msgstr ""
+
+#: ../../using.rst:255
+msgid "/usr/ports/"
+msgstr ""
+
+#: ../../using.rst:255
+msgid "location of system ports tree (if installed)"
+msgstr ""
+
+#: ../../using.rst:257
+msgid "/usr/share/"
+msgstr ""
+
+#: ../../using.rst:257
+msgid "system documentation and man pages"
+msgstr ""
+
+#: ../../using.rst:259
+msgid "/usr/sbin/"
+msgstr ""
+
+#: ../../using.rst:259
+msgid "command line programs for the superuser"
+msgstr ""
+
+#: ../../using.rst:261
+msgid "/usr/src/"
+msgstr ""
+
+#: ../../using.rst:261
+msgid "location of system source code (if installed)"
+msgstr ""
+
+#: ../../using.rst:263
+msgid "/var/"
+msgstr ""
+
+#: ../../using.rst:263
+msgid "files that change (vary), such as log files and print jobs"
+msgstr ""
+
+#: ../../using.rst:266
+msgid "PC-BSD® provides built-in support for accessing Windows shares, meaning you only have to decide which utility you prefer to access existing Windows shares on your network. If a desktop is installed, you do not have to be logged into that desktop in order to use that utility."
+msgstr ""
+
+#: ../../using.rst:269
+msgid "Table 9.4c summarizes the available utilities (type a utility's name to launch it in any desktop), which desktop it installs with and whether or not a separate PBI is available, and a short description of how to access the available shares using that utility."
+msgstr ""
+
+#: ../../using.rst:272
+msgid "**Table 9.4c: Utilities that Support Windows Shares**"
+msgstr ""
+
+#: ../../using.rst:275
+msgid "**Utility**"
+msgstr ""
+
+#: ../../using.rst:275
+msgid "**Desktop/PBI**"
+msgstr ""
+
+#: ../../using.rst:275
+msgid "**How to Access Existing Shares**"
+msgstr ""
+
+#: ../../using.rst:277
+msgid "in the left frame, click on :menuselection:`Network --> Samba Shares`, then the Workgroup name; if the network requires a username and password to browse for shares, set this in :menuselection:`Control Panel --> System Settings --> Sharing` while in KDE or type :command:`systemsettings` and click \"Sharing\" while in another desktop"
+msgstr ""
+
+#: ../../using.rst:281
+msgid "konqueror"
+msgstr ""
+
+#: ../../using.rst:281
+msgid "in the location bar, type *smb:/*"
+msgstr ""
+
+#: ../../using.rst:283
+msgid "click on :menuselection:`Go --> Connect to server --> SMB`; input the NETBIOS name of server, name of share, name of domain (or workgroup), and the share's username and password"
+msgstr ""
+
+#: ../../using.rst:286
+msgid "click on :menuselection:`Browse Network --> Windows Network`"
+msgstr ""
+
+#: ../../using.rst:288
+msgid "in the left frame, click on :menuselection:`Network --> Windows Network`"
+msgstr ""
+
+#: ../../using.rst:295
+msgid "Windows Emulation"
+msgstr ""
+
+#: ../../using.rst:297
+msgid "`Wine <https://www.winehq.org/>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
+msgstr ""
+
+#: ../../using.rst:300
+msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <http://wiki.winehq.org/>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
+msgstr ""
+
+#: ../../using.rst:304
+msgid "Wine can be installed during installation or from :ref:`AppCafe®`. Once installed, it can be started by clicking the entry for \"Wine Configuration\" from the desktop's application menu or by typing :command:`winecfg` at the command line. The initial Wine configuration menu shown in :numref:`Figure %s: Wine Configuration Menu <wine1>`."
+msgstr ""
+
+#: ../../using.rst:311
+msgid "Click the \"Add application\" button to browse to the application's installer file. By default, the contents of your hard drive will be listed under \"drive_c\". If the installer is on a CD/DVD, use the drop-down menu to browse to your :menuselection:`home directory --> *.wine --> dosdevices` folder. The contents of the CD/DVD should be listed under *d:*. If they are not, the most likely reason is that your CD/DVD was not automatically mounted by the desktop. To mount the media, type the following as the superuser::"
+msgstr ""
+
+#: ../../using.rst:318
+msgid "You should hear the media spin and be able to select the installer file. Once selected, press \"Apply\" then \"OK\" to exit the configuration utility."
+msgstr ""
+
+#: ../../using.rst:320
+msgid "To install the application, click the Winefile desktop icon or type :command:`winefile` to see the screen shown in :numref:`Figure %s: Installing the Application Using winefile <wine2>`."
+msgstr ""
+
+#: ../../using.rst:326
+msgid "Click the button representing the drive containing the installer and double-click on the installation file (e.g. :file:`setup.exe`). The installer should launch and you can proceed to install the application as you would on a Windows system."
+msgstr ""
+
+#: ../../using.rst:329
+msgid "if you had to manually mount the CD/DVD, you will need to unmount it before it will eject. As the superuser, use the command :command:`umount /mnt`."
+msgstr ""
+
+#: ../../using.rst:331
+msgid "Once the installation is complete, browse to the application's location. :numref:`Figure %s: Running the Installed Application <wine3>` shows an example of running Internet Explorer within :command:`winefile`."
+msgstr ""
+
+#: ../../using.rst:342
+msgid "Running Steam"
+msgstr ""
+
+#: ../../using.rst:344
+msgid "Wine can be configured to install and run `Steam games <http://store.steampowered.com/about/>`_. The necessary configuration and a list of tested games can be found on the `PC-BSD® Wine Tips and Tricks page <http://wiki.pcbsd.org/index.php/AppCafe/emulators/i386-wine-devel#Tips_and_Tricks>`_. Video instructions can be found at `Steam on PC-BSD - How to Get Wine Running 3D Games <https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ and at `Steam on PCBSD 2 - Using Wine as a Streaming Client <http://blog.pcbsd.org/2014/12/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
+msgstr ""
+
+#: ../../using.rst:353
+msgid "Remote Desktop"
+msgstr ""
+
+#: ../../using.rst:355
+msgid "Occasionally it is useful to allow connections between desktop sessions running on different computers. This can be handy when troubleshooting a problem since both users will be able to see the error on the problematic system and either user can take control of the mouse and keyboard in order to fix the problem. Typically this is a temporary situation as providing access to one's computer allows a remote user the ability to both view and modify its settings."
+msgstr ""
+
+#: ../../using.rst:359
+msgid "The `remote desktop protocol (RDP) <https://en.wikipedia.org/wiki/Remote_Desktop_Protocol>`_ can be used to make a connection to another computer. Depending upon the operating system, you may have to first install or enable RDP software on the remote computer:"
+msgstr ""
+
+#: ../../using.rst:362
+msgid "Not every edition of Windows provides a fully functional version of RDP; for example, it may not be fully supported in a Home Edition of Windows. Even if the full version of RDP is included, remote access may or may not be enabled by default. If you have trouble connecting using RDP, do a web search for \"remote desktop\" and the name of the version of Windows you are using to find out how to configure its remote desktop settings. If you still can not connect, you can instead download, install, and configure `VNC <https://en.wikipedia.org/wiki/Virtual_Network_Computing>`_ server software on the system."
+msgstr ""
+
+#: ../../using.rst:367
+msgid "If the other computer you are connecting to is a Mac, Linux, or BSD system, you will have to first install either `xrdp <http://www.xrdp.org/>`_ or a VNC server on the other system. Depending upon the operating system, either software may or may not already be installed. If it is not, check the software repository for the operating system or use a web search to find out how to install and configure one of these applications on that operating system. If you are connecting to another PC-BSD® system, use :ref:`AppCafe®`, check the box \"Search all available PBI and packages\", and search for \"rdp\" or \"vnc\"."
+msgstr ""
+
+#: ../../using.rst:372
+msgid "If there is a firewall on either system or a network firewall between the two systems, check that it allows connections to the TCP port required by the type of connection that you will be using:"
+msgstr ""
+
+#: ../../using.rst:375
+msgid "**RDP:** uses port 3389"
+msgstr ""
+
+#: ../../using.rst:377
+msgid "**VNC:** uses port 5900 (for the first connection, 5901 for the second connection, etc.)"
+msgstr ""
+
+#: ../../using.rst:379
+msgid "If you need to manually add a firewall rule, it is best to only allow the IP address of the computer that will be connecting. You should immediately remove or disable this firewall rule after the connection is finished so that other computers do not try to connect to the computer. Since your PC-BSD® system is considered to be the client and will be initiating the connection, you do not have to modify the firewall on the PC-BSD® system."
+msgstr ""
+
+#: ../../using.rst:387
+msgid "Connecting with KRDC"
+msgstr ""
+
+#: ../../using.rst:389
+msgid "KRDC can be used to initiate a connection request. This application can be installed using :ref:`AppCafe®` Check the \"Search all available PBI and packages\" box within the \"App Search\" tab to install this package."
+msgstr ""
+
+#: ../../using.rst:392
+msgid "To launch this application, go to :menuselection:`Applications --> Internet --> Remote Desktop Client` within KDE or type :command:`krdc` at the command line within any desktop. If you click :kbd:`F1` while in KRDC you can access the `Remote Connection Desktop Handbook <https://docs.kde.org/stable4/en/kdenetwork/krdc/index.html>`_ to learn more about how to use this application."
+msgstr ""
+
+#: ../../using.rst:396
+msgid ":numref:`Figure %s: Creating a Connection Using KRDC <krdc1>` shows the initial KRDC screen which allows you to specify which system you wish to connect to."
+msgstr ""
+
+#: ../../using.rst:402
+msgid "Use the drop-down menu to indicate whether the remote system is using RDP or VNC for the connection. Then type in the IP address of the system you wish to connect to. If you are connecting to a VNC system, the IP address needs to be followed by a colon and a number indicating the number of the session. Typically, the number will be 1 unless the VNC server is hosting multiple simultaneous connections. Once you press enter, the connection will be initiated and, if it is an RDP connection, you will see the screen shown in :numref:`Figure %s: Settings for the RDP Connection <krdc2>`."
+msgstr ""
+
+#: ../../using.rst:411
+msgid "Here is a quick overview of the settings:"
+msgstr ""
+
+#: ../../using.rst:413
+msgid "**Desktop resolution:** since the contents of the screen are sent over the network, select the lowest resolution that still allows you to see what is happening on the other system. If you have a very fast network connection, you can choose a higher resolution; if you find that the other system is very slow to refresh its screen, try choosing a lower resolution."
+msgstr ""
+
+#: ../../using.rst:417
+msgid "**Color depth:** choose the lowest color depth that allows you to see the other system; you can choose a higher color depth if the network connection is fast."
+msgstr ""
+
+#: ../../using.rst:419
+msgid "**Keyboard layout:** this drop-down menu allows you to select the desired keyboard layout."
+msgstr ""
+
+#: ../../using.rst:421
+msgid "**Sound:** this drop-down menu allows you to choose whether any sounds heard during the connection are produced on this system, the remote system, or to disable sound during the connection."
+msgstr ""
+
+#: ../../using.rst:424
+msgid "**Performance:** select the option that best matches the network speed to the remote host. Choices are \"Modem\", \"Broadband\", or \"LAN\"."
+msgstr ""
+
+#: ../../using.rst:426
+msgid "**RemoteFX:** check this box if the remote system supports RemoteFX and hardware acceleration is desired."
+msgstr ""
+
+#: ../../using.rst:428
+msgid "**Share Media:** specifies a mount point for data to be shared between the systems."
+msgstr ""
+
+#: ../../using.rst:430
+msgid "**Console login:** if you are connecting to a Unix-like system, you can check this box if you wish to have access to the other system's command line console."
+msgstr ""
+
+#: ../../using.rst:432
+msgid "**Extra options:** allows you to specify `rdesktop switches <http://linux.die.net/man/1/rdesktop>`_ that are not covered by the other options in this screen."
+msgstr ""
+
+#: ../../using.rst:434
+msgid "**Show this dialog again for this host:** if you plan on using the same settings every time you connect to this computer, you can uncheck this box. If you need to change the settings at a later time, you can right-click the connection (which will appear in a list as a past connection) and choose \"Settings\" from the right-click menu."
+msgstr ""
+
+#: ../../using.rst:438
+msgid "**Remember password:** `KWallet <https://utils.kde.org/projects/kwalletmanager/>`_ is KDE's password storage system. If this box stays checked, you will only need to input the password the first time you make this connection as it will be saved for you. If this is the first time you have stored a password using KWallet, it will prompt you for some information to set up your wallet."
+msgstr ""
+
+#: ../../using.rst:442
+msgid "If it is a VNC connection, you will be able to choose your connection type (speed), screen resolution, and have the option to remember the password."
+msgstr ""
+
+#: ../../using.rst:444
+msgid "Once you press \"OK\", the connection should be initiated and you will receive pop-up messages asking for a username then a password; the details you provide must match a user account on the system you are connecting to. Once your authentication details are confirmed, you should see the desktop of the other system. If you move your mouse, it will move on the other desktop as well. Click the \"View Only\" button in the top toolbar whenever you wish to disable this mouse behavior. When you are finished your session, you can click the \"Disconnect\" button in the top toolbar."
+msgstr ""
+
+#: ../../using.rst:449
+msgid "if the connection fails, check on the remote computer that either the RDP software is enabled or that the VNC server is listening for connections. Also double-check that a firewall is not preventing the connection."
+msgstr ""
+
+#: ../../using.rst:456
+msgid "Connecting with VNC"
+msgstr ""
+
+#: ../../using.rst:458
+msgid "If you prefer to use VNC for the connection, use :ref:`AppCafe®` to install a VNC client such as TightVNC. Before using the VNC client, ensure that the VNC server is installed and running on the remote desktop."
+msgstr ""
+
+#: ../../using.rst:461
+msgid "Once TightVNC is installed, type :command:`vncviewer` to start the VNC client. A small window will appear, allowing you to type in the IP address of the remote system in the format *IP_ADDRESS:5801*. Change the *5801* if the VNC server is listening on a different port."
+msgstr ""
+
+#: ../../using.rst:468
+msgid "Using Desktop Sharing"
+msgstr ""
+
+#: ../../using.rst:470
+msgid "If you wish another user to connect to your computer, the KDE Desktop Sharing application can be used to generate a connection invitation The :command:`krfb` application can be installed using :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box within \"App Search\" to search for this application."
+msgstr ""
+
+#: ../../using.rst:473
+msgid "To launch this application within KDE, go to :menuselection:`Applications --> Internet --> Desktop Sharing` or type :command:`krfb` from the command prompt of any desktop. If you press :kbd:`F1` while in this application, it will open the `Desktop Sharing Handbook <https://docs.kde.org/stable4/en/kdenetwork/krfb/index.html>`_ where you can learn more about using this utility. :numref:`Figure %s: Initiating a Connection Request Using krfb <krfb1>` shows the initial screen for this application."
+msgstr ""
+
+#: ../../using.rst:482
+msgid "To share your desktop, check the box \"Enable Desktop Sharing\". This will activate the \"Connection Details\" portion of this screen. If you click the blue icon next to the \"Address\", a pop-up menu will indicate that this is just a hint and that the remote user should use the IP address for your computer. If you wish, you can click the icon next to the \"Password\". This will activate that field so that you can change the generated password to the one you want to use for the session. Be sure to reclick the icon to save the new password."
+msgstr ""
+
+#: ../../using.rst:487
+msgid "while you can check the \"Enable Unattended Access\" checkbox, it is **not recommended** to do so. If you give another user the unattended password (which is set by clicking the \"Change Unattended Password\"), they can connect to your system without your knowledge. The default, which occurs when the \"Enable Unattended Access\" is **un** checked, is for a pop-up message to appear on your screen whenever a remote user attempts to connect and for the desktop to remain inaccessible until you accept the remote connection."
+msgstr ""
+
+#: ../../using.rst:492
+msgid "Once you have checked the box to \"Enable Desktop Sharing\", contact the other person to let them know the password and IP address so that they can connect. The most secure way to convey the invitation information is through an alternate communications channel such as a phone call. Ideally, you are speaking to the other person as they connect so that you can walk them through the problem you are experiencing and they can let you know what they are doing to your system as you watch them do it."
+msgstr ""
+
+#: ../../using.rst:497
+msgid "The other person should input the IP address and password into their VNC client in order to start the connection. You will know when they try to connect as a pop-up message will appear on your screen similar to :numref:`Figure %s: The Other User is Trying to Connect Using the Invitation <krfb2>`."
+msgstr ""
+
+#: ../../using.rst:504
+msgid "In this example, a computer with an IP address of 192.168.1.111 is trying to connect. Buttons are provided to either accept or refuse the connection. You can also check or uncheck the box to \"allow remote user to control keyboard and mouse\". If you accept the connection, the other user will be prompted to input the invitation password. Once the password is accepted, they will see your desktop."
+msgstr ""
+
+#: ../../using.rst:508
+msgid "your desktop will continue to be shared as long as the \"Enable Desktop Sharing\" checkbox is checked, even if you close this utility. **Always remember** to uncheck this box when your session is finished in order to prevent unwanted connections."
+msgstr ""
+
+#: ../../using.rst:515
+msgid "Thin Client"
+msgstr ""
+
+#: ../../using.rst:517
+msgid "PC-BSD® provides a Thin Client script which can be used to easily create a PXE Boot Desktop Server, to support thin clients, and a PXE Boot Install Server, for creating a central server which systems can connect to in order to be installed with PC-BSD®."
+msgstr ""
+
+#: ../../using.rst:520
+msgid "This section demonstrates how to configure and use both the PXE Boot Desktop Server and the PXE Boot Install Server."
+msgstr ""
+
+#: ../../using.rst:526
+msgid "PXE Boot Desktop Server"
+msgstr ""
+
+#: ../../using.rst:528
+msgid "A PC-BSD® PXE Boot Desktop Server allows you to automatically configure a network of `diskless computers <https://en.wikipedia.org/wiki/Diskless_node>`_ where each computer has a network interface card capable of `PXE <https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ booting. When a client boots from their network interface instead of their hard disk, they automatically connect to the PXE Boot Desktop Server and receive a login window. Once authenticated, they can use PC-BSD®, even if PC-BSD® is not installed on their own computer and even if their computer does not have a hard drive."
+msgstr ""
+
+#: ../../using.rst:533
+msgid "To prepare your PC-BSD® system for a PXE Boot Desktop Server configuration, perform these tasks first:"
+msgstr ""
+
+#: ../../using.rst:535
+msgid "If the diskless clients will require Internet access, install two network cards where one NIC is connected to the Internet and the other is connected to a private LAN from which the thin clients can PXE boot from."
+msgstr ""
+
+#: ../../using.rst:538
+msgid "The PC-BSD® system should have lots of RAM installed, especially if multiple clients will be connecting."
+msgstr ""
+
+#: ../../using.rst:540
+msgid "To configure the PC-BSD® system as a PXE Boot Desktop Server, run the following script as the superuser::"
+msgstr ""
+
+#: ../../using.rst:549
+msgid "If you wish to have the PC-BSD® system act as the DHCP server, type **d**. If the network already has a configured DHCP server, type **e**. The following example will install the DHCP server on the PC-BSD® system. After making your selection, press enter to continue::"
+msgstr ""
+
+#: ../../using.rst:555
+msgid "If your intent is to install a PXE Boot Desktop Server, input **r** and press enter. If you previously typed **d** and a DHCP server is not already installed, it will be installed for you. Once the DHCP server is installed, the tools needed in the PXE environment will be installed and messages will indicate the progress. Once everything is installed, you will see this message::"
+msgstr ""
+
+#: ../../using.rst:563
+msgid "Input the FreeBSD device name of the interface that is attached to the local network containing the diskless workstations. This interface will run the DHCP server and should not be connected to a network with another DHCP server running. In the example shown here, the user has input the *em0* interface. If you are unsure of the device name, type :command:`ifconfig` from another terminal."
+msgstr ""
+
+#: ../../using.rst:567
+msgid "The script will now configure the specified interface and start the required services::"
+msgstr ""
+
+#: ../../using.rst:575
+msgid "Before rebooting, you may wish to customize the installation."
+msgstr ""
+
+#: ../../using.rst:577
+msgid "The installation creates a chroot directory that contains a small PXE image that is used by clients to launch Xorg and connect to the PXE Boot Desktop Server. You can access this chroot by typing this command as the superuser::"
+msgstr ""
+
+#: ../../using.rst:582
+msgid "Running :command:`pkg info` within the chroot will show which X components and drivers are available. Should you need to install additional video drivers, use :command:`pkg install` within the chroot. When you are finished using the chroot, type :command:`exit` to leave it."
+msgstr ""
+
+#: ../../using.rst:585
+msgid "The thin client script installs and configures the following services:"
+msgstr ""
+
+#: ../../using.rst:587
+msgid "**NFS:** the Network File System is a protocol for sharing files on a network. It has been configured to allow clients on the network attached to the interface that you specified to connect to the thin client server. Its configuration file is located in :file:`/etc/exports`."
+msgstr ""
+
+#: ../../using.rst:590
+msgid "**TFTP:** the Trivial File Transfer Protocol is a light-weight version of FTP used to transfer configuration or boot files between machines. The PXE network cards on the diskless computers will use TFTP to receive their configuration information. This service was enabled in :file:`/etc/inetd.conf` with a home directory of :file:`/usr/home/thinclient`."
+msgstr ""
+
+#: ../../using.rst:594
+msgid "**DHCP:** the Dynamic Host Configuration Protocol is used to configure IP addressing info on the diskless workstations. If you selected to install a DHCP server, it will be configured to assign addresses for the network attached to the interface that you specified. Its configuration file is located in :file:`/usr/local/etc/dhcpd.conf`."
+msgstr ""
+
+#: ../../using.rst:598
+msgid "The thin client script also creates the *pxeboot* user with the default password *thinclient*. This username and password is used to save the working Xorg configuration files for each of the diskless computers. It is highly recommended that you change this password right away by running this command as the superuser::"
+msgstr ""
+
+#: ../../using.rst:604
+msgid "You will also need to create the users that will connect to the system. You can do so using  or by typing :command:`adduser` at the command line and following the prompts."
+msgstr ""
+
+#: ../../using.rst:607
+msgid "After a successful installation and reboot of the PXE Boot Desktop Server, the DHCP service will be running on the NIC you specified. Make sure that this NIC and a PXE capable client are connected to the same hub or switch. When you boot up the client, PXE should automatically obtain an IP address and begin to load PC-BSD®. If it does not, review the boot order settings in the BIOS on the client to make sure that PXE is listed first."
+msgstr ""
+
+#: ../../using.rst:611
+msgid "After the boot process has finished, the client will be brought to this prompt::"
+msgstr ""
+
+#: ../../using.rst:616
+msgid "If you wait 10 seconds, this message will timeout, and the client will bring up X in 1024x768 mode. If this is not the resolution that you wish to use, type \"Y\" at the prompt and hit enter to bring up the Xorg Configuration screen. In this menu, you will be able to setup your own custom :file:`xorg.conf` file, auto-detect settings, and test the new configuration. When finished, choose \"Save working config\" to send this configuration to the PXE Boot Desktop Server. This will prompt for the password of the pxeboot user. Once authenticated, the file will be saved by the client's MAC address in :file:`/home/pxeboot/mnt/xorg-config/<mac>.conf`. The next time you boot the client, it will automatically use the saved :file:`xorg.conf` file and bring the system to the PC-BSD® login screen."
+msgstr ""
+
+#: ../../using.rst:623
+msgid "in order for the login to succeed, the user account must already exist on the PXE Boot Desktop Server."
+msgstr ""
+
+#: ../../using.rst:625
+msgid "The client's boot environment is located in :file:`/home/pxeboot`. This is mounted read-only during the PXE boot process to allow the client to bootup and create an XDCMP connection to the server."
+msgstr ""
+
+#: ../../using.rst:628
+msgid "Once logged in to the PXE Boot Desktop Server, using PC-BSD® will be the same as if you had installed PC-BSD® on the client system. You will be able to use to install software and to save and use the files in your home directory."
+msgstr ""
+
+#: ../../using.rst:631
+msgid "Use the **-remove** option if you wish to uninstall the PXE Boot Desktop Server::"
+msgstr ""
+
+#: ../../using.rst:636
+msgid "This will remove the PXE environment from the system. If you are finished using the PXE boot services, you can stop them using these commands::"
+msgstr ""
+
+#: ../../using.rst:644
+msgid "and prevent them from restarting by removing these lines from :file:`/etc/rc.conf`::"
+msgstr ""
+
+#: ../../using.rst:654
+msgid "Your interface name and IP address may differ from those in the example. The *dhcpd* and *portmap* lines will not exist if you did not install a DHCP server."
+msgstr ""
+
+#: ../../using.rst:660
+msgid "PXE Boot Install Server"
+msgstr ""
+
+#: ../../using.rst:662
+msgid "A PC-BSD® PXE Boot Install Server can be used to install PC-BSD®, FreeBSD, or TrueOS® onto computers who connect to the server using PXE. The installations can be interactive or fully automated. The PXE Boot Install Server supports multiple, concurrent installations with the only limiting factor being the server's disk I/O and the network's bandwidth."
+msgstr ""
+
+#: ../../using.rst:666
+msgid "The installation of the PXE Boot Install Server starts the same way, except this time you select **i** when prompted::"
+msgstr ""
+
+#: ../../using.rst:677
+msgid "Once the environment is downloaded and configured, you will be asked if you would like to install the web interface::"
+msgstr ""
+
+#: ../../using.rst:683
+msgid "You will then be prompted to input the interface to be used by the server and then the services will be started::"
+msgstr ""
+
+#: ../../using.rst:701
+msgid "Once the PXE Boot Install Server is installed, try to PXE boot a client which is connected to the same network. If the client boots successfully, you will see the installation screen shown in :numref:`Figure %s: PXE Boot Installation Menu <pxe1>`."
+msgstr ""
+
+#: ../../using.rst:708
+msgid "By default, selecting \"install\" from the boot menu will use the :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example` script which installs a basic FreeBSD system. In addition to starting an installation, this menu provides an emergency shell prompt. This can be useful if you have a system which can no longer boot and you wish to either access the disk's contents or attempt to repair the installation."
+msgstr ""
+
+#: ../../using.rst:712
+msgid "Any scripts that you create and place in the :file:`/usr/home/thinclient/installscripts/` directory will be selectable as an installation option within the PXE client boot menu. Tables 5.5a and 5.5b in  summarize the available configuration options when creating an installation script. Alternately, every time you install PC-BSD, the installation script is automatically saved to :file:`/root/pc-sysinstall.cfg`. This means that if you wish to repeat an installation, you simply need to copy that file to the :file:`/usr/home/thinclient/installscripts/` directory on the PXE Boot Install Server."
+msgstr ""
+
+#: ../../using.rst:717
+msgid "The PXE Boot Install Server also supports completely unattended installations. To perform fully-automated installations over the PXE interface, create a configuration script named :file:`/usr/home/thinclient/installscripts/unattended.cfg`. When a PXE client first boots, it checks for the existence of the :file:`unattended.cfg` file, and if found, it will automatically use it for installation. Some caution should be taken when using this method since simply plugging a PXE boot client into the wrong LAN cable could cause it to be re-installed."
+msgstr ""
+
+#: ../../using.rst:726
+msgid "Security"
+msgstr ""
+
+#: ../../using.rst:728
+msgid "Your PC-BSD® system is secure by default. This section provides an overview of the built-in security features and additional resources should you like to learn more about increasing the security of your system beyond its current level."
+msgstr ""
+
+#: ../../using.rst:731
+msgid "The security features built into PC-BSD® include:"
+msgstr ""
+
+#: ../../using.rst:733
+msgid "**Naturally immune to viruses and other malware:** most viruses are written to exploit Windows systems and do not understand the binaries or paths found on a PC-BSD® system. Antivirus software is still available in the Security section of :ref:`AppCafe®` as this can be useful if you send or forward email attachments to users running other operating systems."
+msgstr ""
+
+#: ../../using.rst:737
+msgid "**Potential for serious damage is limited:** file and directory ownership and permissions along with separate user and group functions mean that as an ordinary user any program executed will only be granted the abilities and access of that user. A user that is not a member of the *wheel* group can not switch to administrative access and can not enter or list the contents of a directory that has not been set for universal access."
+msgstr ""
+
+#: ../../using.rst:741
+msgid "**Built-in firewall:** the default firewall ruleset allows you to access the Internet and the shares available on your network but does not allow any inbound connections to your computer. In addition, `Fail2ban <http://www.fail2ban.org/wiki/index.php/Main_Page>`_ is installed. This service can be configured to identify possible break-in attempts and to respond with an action such as creating a firewall rule to ban the intruder. Instructions for configuring fail2ban can be found on the `fail2ban wiki <http://www.fail2ban.org/wiki/index.php/MANUAL_0_8#Usage>`_."
+msgstr ""
+
+#: ../../using.rst:746
+msgid "**Very few services are enabled by default:** you can easily view which services are started at boot time using :ref:`Service Manager` or by reading through :file:`/etc/rc.conf`. You can disable the services that you do not use by disabling that service in :ref:`Service Manager` or by commenting out that line with a *#* in :file:`/etc/rc.conf`."
+msgstr ""
+
+#: ../../using.rst:750
+msgid "**SSH is disabled by default:** and can only be enabled by the superuser. This setting prevents bots and other users from trying to access your system. If you do need to use SSH, add the line *sshd_enable=YES* to :file:`/etc/rc.conf`. You can then start the service by typing :command:`service sshd start`. You will need to add a firewall rule using :ref:`Firewall Manager` to allow SSH connections over TCP port 22."
+msgstr ""
+
+#: ../../using.rst:754
+msgid "**SSH root logins are disabled by default:** if you enable SSH, you must login as a regular user and use :command:`su` or :command:`sudo` when you need to perform administrative actions. You should not change this default as this prevents an unwanted user from having complete access to your system."
+msgstr ""
+
+#: ../../using.rst:757
+msgid "**sudo is installed:** and configured to allow users in the *wheel* group permission to run an administrative command after typing their password. By default, the first user you create during installation is added to the *wheel* group. You can use :ref:`User Manager` to add other users to this group. You can change the default :command:`sudo` configuration using the :command:`visudo` command as the superuser."
+msgstr ""
+
+#: ../../using.rst:761
+msgid "`AESNI <https://en.wikipedia.org/wiki/AES_instruction_set>`_ support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
+msgstr ""
+
+#: ../../using.rst:764
+msgid "**Automatic notification of security advisories:** :ref:`Update Manager` will automatically notify you if an update is available as the result of a `security advisory <http://www.freebsd.org/security/advisories.html>`_ that affects PC-BSD®. This allows you to keep your operating system fully patched with just the click of a mouse."
+msgstr ""
+
+#: ../../using.rst:768
+msgid "PC-BSD® packages are built with `LibreSSL <http://www.libressl.org/>`_ which has fewer vulnerabilities than OpenSSL."
+msgstr ""
+
+#: ../../using.rst:770
+msgid ":ref:`PersonaCrypt` allows a user to use a removable, encrypted device as their home directory."
+msgstr ""
+
+#: ../../using.rst:772
+msgid "Logging into a stealth session creates an encrypted zvol as a temporary home directory for that login session. When the user logs out of a stealth session, the zvol is destroyed, along with the contents of the temporary home directory."
+msgstr ""
+
+#: ../../using.rst:775
+msgid ":ref:`Tor Mode` can be used to anonymously access Internet sites as this mode automatically forwards all Internet traffic through the `Tor Project's <https://www.torproject.org/>`_ transparent proxy service."
+msgstr ""
+
+#: ../../using.rst:778
+msgid "If you would like to learn more about security on FreeBSD/PC-BSD® systems, :command:`man security` is a good place to start. These resources provide more information about security on FreeBSD-based operating systems:"
+msgstr ""
+
+#: ../../using.rst:781
+msgid "`FreeBSD Security Information <http://www.freebsd.org/security/>`_"
+msgstr ""
+
+#: ../../using.rst:783
+msgid "`Security Section of FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/security.html>`_"
+msgstr ""
+
+#: ../../using.rst:785
+msgid "`Hardening FreeBSD <http://www.bsdguides.org/2005/hardening-freebsd/>`_"
+msgstr ""
+
+#: ../../using.rst:791
+msgid "Tor Mode"
+msgstr ""
+
+#: ../../using.rst:793
+msgid "Tor mode uses `Tor <https://www.torproject.org/>`_, `socat <http://www.dest-unreach.org/socat/>`_, and a built-in script which automatically creates the necessary firewall rules to enable and disable tor mode at the user's request. While in tor mode, the firewall will redirect all outgoing port 80 (HTTP), 443 (HTTPS), and DNS traffic through the Tor transparent proxy network."
+msgstr ""
+
+#: ../../using.rst:797
+msgid "To start tor mode, right-click Update Manager and check the \"Routing through Tor\" box. The pop-up message shown in :numref:`Figure %s: Enabling Tor Mode <tor1>` will appear."
+msgstr ""
+
+#: ../../using.rst:803
+msgid "If you have never used the Tor network before, it is recommended to read the link for the Tor FAQ. Click \"Yes\" to enable tor mode and enter your password when prompted so that the firewall rules can be updated for you."
+msgstr ""
+
+#: ../../using.rst:806
+msgid "While in tor mode, a small onion will be added to the Update Manager icon and, if you hover over the icon, it will say \"(Routing through Tor)\". You can also verify that you are connected to the Tor network by right-clicking Update Manager and clicking \"Check Tor connection\". It will take a moment or so, but a pop-up message should indicate that the connection to `<https://check.torproject.org/>`_ succeeded."
+msgstr ""
+
+#: ../../using.rst:810
+msgid "the system will remain in tor mode, even after a reboot, until you disable it. To disable tor mode, right-click Update Manager and uncheck the \"Routing through Tor\" box. Now when you \"Check Tor connection\", it should indicate that you are not using Tor."
+msgstr ""
+
+#: ../../using.rst:813
+msgid "To enable and disable tor mode from the command line or on a desktop that does not provide a system tray, use the following commands:"
+msgstr ""
+
+#: ../../using.rst:815
+msgid ":command:`sudo enable-tor-mode` enables tor mode."
+msgstr ""
+
+#: ../../using.rst:817
+msgid ":command:`sudo disable-tor-mode` disables tor mode."
+msgstr ""
+
+#: ../../using.rst:823
+msgid "Accessibility"
+msgstr ""
+
+#: ../../using.rst:825
+msgid "The GNOME and KDE desktop environments provide accessibility features to assist users with vision and mobility impairments. In PC-BSD®, these desktops can be installed either during installation or afterwards using :ref:`AppCafe®`."
+msgstr ""
+
+#: ../../using.rst:828
+msgid "This section provides an overview of the features provided by each desktop and additional references to these features."
+msgstr ""
+
+#: ../../using.rst:834
+msgid "GNOME Universal Access"
+msgstr ""
+
+#: ../../using.rst:836
+msgid "GNOME3 provides a \"Universal Access\" utility for configuring the desktop for accessibility. To open this utility, open \"Activities\" and search for \"Universal Access\". This will open the screen shown in :numref:`Figure %s: Universal Access Screen <access1>`."
+msgstr ""
+
+#: ../../using.rst:843
+msgid "The \"Seeing\" section of this screen has options for assisting users with low vision."
+msgstr ""
+
+#: ../../using.rst:845
+msgid "Click \"Off\" in the \"Hearing\" section to open a pop-up screen used to enable visual alerts, either to the window title of the current window or the entire screen. The pop-up screen provides a \"Test flash\" button for testing the settings."
+msgstr ""
+
+#: ../../using.rst:848
+msgid "If you click \"Off\" next to \"Typing Assist (AccessX)\" in the \"Typing\" section, it will open the screen shown in :numref:`Figure %s: Keyboard and Key Options <access2>`. \"Sticky Keys\", \"Slow Keys\", and \"Bounce Keys\" can be enabled in this screen to assist users with mobility impairments."
+msgstr ""
+
+#: ../../using.rst:855
+msgid "If you click the \"Off\" next to \"Click Assist\" in the \"Pointing and Clicking\" section, you can configure a simulated secondary click and a hover click."
+msgstr ""
+
+#: ../../using.rst:857
+msgid "More information about the options provided by Universal Access can be found at the `GNOME Universal page <https://help.gnome.org/users/gnome-help/3.16/a11y.html.en>`_."
+msgstr ""
+
+#: ../../using.rst:863
+msgid "KDE Accessibility Tools"
+msgstr ""
+
+#: ../../using.rst:865
+msgid "To install the KDE accessibility tools, use :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" in \"App Search\" and search for the \"kdeaccessibility\" package."
+msgstr ""
+
+#: ../../using.rst:867
+msgid "The KDE-Accessibility component installs the following software:"
+msgstr ""
+
+#: ../../using.rst:869
+msgid "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: a screen magnifier. In KDE, this application is in :menuselection:`Applications --> Utilities --> Screen Magnifier` or you can type :command:`kmag` from the command line. Drag the magnifier window over the text you wish to magnify or click its \"Settings\" button to view the shortcuts for its various modes. Click :kbd:`F1` while the application is open to access the Kmagnifier Handbook."
+msgstr ""
+
+#: ../../using.rst:874
+msgid "`KMouseTool <https://docs.kde.org/stable4/en/kdeaccessibility/kmousetool/>`_: clicks the mouse whenever the mouse cursor pauses briefly. It can also drag the mouse, although this takes a bit more practice. To start this utility in KDE, click :menuselection:`Applications --> Utilities --> Automatic Mouse Click` or type :command:`kmousetool` from the command line. In the screen shown in :numref:`Figure %s: Configuring KMouseTool <access3>`, check the settings you wish to use, click the \"Apply\" button, then click the \"Start\" button. If you quit this screen, it will be added to the system tray and will continue to run until you launch its icon and click the \"Stop\" button."
+msgstr ""
+
+#: ../../using.rst:883
+msgid "`KMouth <https://docs.kde.org/stable4/en/kdeaccessibility/kmouth/index.html>`_: enables persons that cannot speak to speak through their computer. It keeps a history of spoken sentences from which the user can select to be re-spoken. To start this program, click :menuselection:`Applications --> Utilities --> Speech Synthesizer Frontend` or type :command:`kmouth` from the command line. The first time you run this application, a configuration wizard will prompt you to set the command to use for speaking texts (such as :file:`/usr/local/bin/espeak`) and the character encoding."
+msgstr ""

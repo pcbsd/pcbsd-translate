@@ -1,0 +1,1285 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2016, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-05 08:14-0700\n"
+"PO-Revision-Date: 2016-01-12 15:41+0000\n"
+"Last-Translator: Guillermo <garciarojas@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: ../../preinstall.rst:2
+msgid "Pre-Installation Tasks"
+msgstr "Tareas Antes de la Instalación"
+
+#: ../../preinstall.rst:4
+msgid "While the PC-BSD® installer is very easy to use, installing a brand new operating system can sometimes be a daunting task."
+msgstr ""
+"Mientras que el instalador de PC-BSD® es muy fácil de usar, instalar un "
+"sistema operativo nuevo puede ser algunas veces una tarea desalentadora."
+
+#: ../../preinstall.rst:6
+msgid "Before you begin, there are a few things you should check to ensure that your system is ready to install PC-BSD®."
+msgstr ""
+"Antes de comenzar, hay algunas cosas que debería checar para asegurarse que "
+"su sistema está listo para instalar PC-BSD®."
+
+#: ../../preinstall.rst:8
+msgid "**Are you dual-booting or installing over the entire drive?** If you are dual-booting you will need to ensure that you have a primary partition available. Refer to the section on :ref:`Dual Booting`."
+msgstr ""
+"**Está haciendo arranque dual o instalando sobre el disco completo?** Si "
+"está haciendo arranque dual, necesitará asegurarse que tiene una partición "
+"primaria disponible. Refiérase a la sección de :ref:`Arranque Dual`."
+
+#: ../../preinstall.rst:11
+msgid "**Have you backed up your important data?** Any irreplaceable data, such as emails, bookmarks, or important files and documents should **always** be backed up to an external media, such as a removable drive or another system, **before** installing or upgrading any operating system."
+msgstr ""
+"**Ha respaldado sus datos importantes?** Cualquier dato irremplazable, como "
+"correos electrónicos, marcadores, o archivos importantes y documentos "
+"deberían **siempre** ser respaldados en medios externos, como discos "
+"removibles u otro sistema, **antes** de instalar o actualizar cualquier "
+"sistema operativo."
+
+#: ../../preinstall.rst:14
+msgid "If you wish to determine if your hardware is detected by PC-BSD®, start an installation and click the :ref:`Hardware Compatibility` button in the :ref:`Language Selection Screen`."
+msgstr ""
+"Si quiere determinar si su hardware es detectado por PC-BSD®, comience una "
+"instalación y presione en el botón :ref:`Compatibilidad de Hardware` en la "
+":ref:`Pantalla de Selección de Idioma`."
+
+#: ../../preinstall.rst:17
+msgid "Should you run into an issue with your installation, refer to :ref:`Finding Help`."
+msgstr ""
+"Si tiene algún problema con su instalación, refiérase a :ref:`Buscando "
+"Ayuda`."
+
+#: ../../preinstall.rst:19
+msgid "This section discusses the PC-BSD® hardware requirements, how to prepare the system for installation, and how to obtain and prepare the installation media."
+msgstr ""
+"Esta sección discute los requerimientos de hardware de PC-BSD®, cómo "
+"preparar el sistema para la instalación, y cómo obtener y preparar el medio "
+"de instalación."
+
+#: ../../preinstall.rst:25
+msgid "Minimum Requirements"
+msgstr "Requerimientos Mínimos"
+
+#: ../../preinstall.rst:27
+msgid "PC-BSD® has moderate hardware requirements and commonly uses less resources than its commercial counterparts. Before installing PC-BSD®, make sure that your hardware or virtual machine at least meets the minimum requirements. To get the most out of your PC-BSD® experience, use a system that meets the recommended system requirements."
+msgstr ""
+"PC-BSD® tiene requerimientos moderados de hardware y comúnmente usa menos "
+"recursos que sus contrapartes comerciales. Antes de instalar PC-BSD®, "
+"asegúrese que su hardware o máquina virtual cuente con al menos los "
+"requerimientos mínimos. Para sacar el mayor provecho de su experiencia con "
+"PC-BSD®, use un sistema que cumpla con los requerimientos recomendados para "
+"el sistema."
+
+#: ../../preinstall.rst:31
+msgid "At a **bare minimum** you need to meet these requirements in order to install PC-BSD®:"
+msgstr ""
+"Como **mínimo** usted necesita cumplir con los siguientes requerimientos "
+"para poder instalar PC-BSD®:"
+
+#: ../../preinstall.rst:33
+#: ../../preinstall.rst:43
+msgid "64-bit processor"
+msgstr "Procesador de 64-bits"
+
+#: ../../preinstall.rst:35
+msgid "1 GB RAM"
+msgstr "1 GB RAM"
+
+#: ../../preinstall.rst:37
+msgid "20GB of free hard drive space on a primary partition for a TrueOS® server installation"
+msgstr ""
+"20 GB de espacio libre en el disco duro en una partición primaria para una "
+"instalación de servidor TrueOS®"
+
+#: ../../preinstall.rst:39
+#: ../../preinstall.rst:49
+msgid "Network card"
+msgstr "Tarjeta de Red"
+
+#: ../../preinstall.rst:41
+msgid "The following are the minimum **recommended** requirements. The more RAM and available disk space, the better your computing experience:"
+msgstr ""
+"Los siguientes son los requerimientos mínimos **recomendados**. La mayor "
+"cantidad de RAM y espacio de disco disponible, será mejor para su experiecia "
+"computacional:"
+
+#: ../../preinstall.rst:45
+msgid "4 GB of RAM"
+msgstr "4 GB de RAM"
+
+#: ../../preinstall.rst:47
+msgid "50GB of free hard drive space on a primary partition for a desktop installation"
+msgstr ""
+"50 GB de espacio libre en el disco duro en una partición primaria para una "
+"instalación de escritorio"
+
+#: ../../preinstall.rst:51
+msgid "Sound card"
+msgstr "Tarjeta de Sonido"
+
+#: ../../preinstall.rst:53
+msgid "NVIDIA 3D-accelerated video card"
+msgstr "Tarjeta de video NVIDIA con aceleración 3D"
+
+#: ../../preinstall.rst:55
+msgid "The PC-BSD® installer's hardware check will display a warning message if the selected partition contains less than 20GB for a server installation or less than 50GB for a desktop installation. The installation itself does not require this much disk space. Instead, the minimum recommendation is to provide sufficient room for the installation of multiple desktops, applications, and to store local ZFS snapshots and boot environments."
+msgstr ""
+"El comprobador de hardware del instalador de PC-BSD® mostrará un mensaje de "
+"alerta si la partición seleccionada contiene menos de 20 GB para una "
+"instalación de servidor o menos de 50 GB para una instalación de escritorio. "
+"La instalación misma no requiere esta cantidad de espacio en disco. En su "
+"lugar, la recomendación mínima es para proveer espacio suficiente para la "
+"instalación de multiples escritorios, aplicaciones, y para guardar las "
+"instantáneas locales de ZFS y entornos de arranque."
+
+#: ../../preinstall.rst:59
+msgid "You can never have too much RAM, so install as much as you can afford. To play modern video games, you should use a fast CPU. If you want to create a collection of tunes and movies on your computer, you will want a large disk which can be internal or external."
+msgstr ""
+"Nunca se puede tener RAM suficiente, así que instale la más que pueda. Para "
+"jugar video juegos modernos, necesitará usar un CPU rápido. Si quiere crear "
+"una colección de canciones y películas en su equipo, querrá un disco más "
+"grande, el cual puede ser interno o externo."
+
+#: ../../preinstall.rst:66
+msgid "Supported Hardware"
+msgstr "Hardware Soportado"
+
+#: ../../preinstall.rst:68
+msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.2R/hardware.html#proc>`_ list the amd64 processors known to work."
+msgstr ""
+"PC-BSD® debería instalarse en cualquier sistema que tenga un procesador de "
+"64-bits (también llamado amd64). A pesar del nombre amd64, un procesador de "
+"64-bits **no necesita** ser fabricado por AMD para ser soportado. Las `Notas "
+"de Hardware de FreeBSD "
+"<http://www.freebsd.org/releases/10.2R/hardware.html#proc>`_ listan los "
+"procesadores amd64 que se sabe funcionan."
+
+#: ../../preinstall.rst:72
+msgid "Like most open source operating systems, PC-BSD® uses X.org drivers for graphics support. PC-BSD® will automatically detect the optimal video settings for supported video drivers. You can verify that your graphics hardware is supported by clicking the :ref:`Hardware Compatibility` icon within the installer."
+msgstr ""
+"Como la mayoría de sistemas operativos open source, PC-BSD® usa los "
+"controladores X.org para el soporte gráfico. PC-BSD® automáticamente "
+"detectará la configuración óptima de video para los controladores "
+"soportados. Puede verificar que su hardware de gráficos está soportado "
+"presionando el icono :ref:`Compatibilidad de Hardware` dentro del instalador."
+
+#: ../../preinstall.rst:75
+msgid "Support for the major graphic vendors is as follows:"
+msgstr "El soporte para los grandes fabricantes de gráficos es como sigue:"
+
+#: ../../preinstall.rst:77
+msgid "**NVIDIA:** if you want to use 3D acceleration, NVIDIA is currently the best supported as there is a native driver for PC-BSD®. If an NVIDIA video card is detected, an \"nVidia settings\" icon will be added to the Control Panel for managing NVIDIA settings."
+msgstr ""
+"**NVIDIA:** Si quiere usar aceleración 3D, NVIDIA es actualmente el mejor "
+"soportado ya que existe un controlador nativo para PC-BSD®. Si una tarjéta "
+"gráfica NVIDIA es detectada, un icono \"Configuraciones nVidia\" se añadirá "
+"al Panel de Control para gestionar las configuraciones de NVIDIA."
+
+#: ../../preinstall.rst:80
+msgid "**Intel:** 3D acceleration on most Intel graphics is supported."
+msgstr ""
+"**Intel:** La aceleración 3D en la mayoría de las tarjetas gráficas intel "
+"está soportada."
+
+#: ../../preinstall.rst:82
+msgid "**ATI/Radeon:** 3D acceleration on most ATI and Radeon cards is supported."
+msgstr ""
+"**ATI/Radeon:** La aceleración 3D en la mayoría de las tarjetas ATI y Radeon "
+"está soportada."
+
+#: ../../preinstall.rst:84
+msgid "**Optimus:** at this time there is no switching support between the two graphics adapters provided by Optimus. Optimus implementations vary, so PC-BSD® may or may not be able to successfully load a graphics driver on your hardware. If you get a blank screen after installation, check your BIOS to see if it has an option to disable one of the graphics adapters or to set \"discrete\" mode. If the BIOS does not provide a discrete mode, PC-BSD® will default to the 3D Intel driver and disable NVIDIA. This will change in the future when the NVIDIA driver supports Optimus."
+msgstr ""
+"**Optimus:** en este momento no hay soporte para cambiar entre dos "
+"adaptadores gráficos proveídos por Optimus. Las implementaciones de Optimus "
+"varían, así que PC-BSD® puede o no cargar satisfactoriamente un controlador "
+"gráfico en su hardware. Si obtiene una pantalla negra después de la "
+"instalación, cheque su BIOS para ver si tiene una opción para deshabilitar "
+"uno de los adaptadores gráficos o para poner el modo \"discreto\". Si el "
+"BIOS no proporciona un modo discreto, PC-BSD® pondrá por defecto el "
+"controlador Intel 3D y deshabilitará NVIDIA. Esto cambiará en el futuro "
+"cuando el controlador NVIDIA soporte Optimus."
+
+#: ../../preinstall.rst:89
+msgid "A list of graphics cards which are known to work can be found on the `FreeBSD Graphics Wiki <https://wiki.freebsd.org/Graphics>`_."
+msgstr ""
+"Una lista de tarjetas gráficas que se sabe funcionan puede encontrarse en el "
+"`Wiki de Gráficos de FreeBSD <https://wiki.freebsd.org/Graphics>`_."
+
+#: ../../preinstall.rst:91
+msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/10.2R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
+msgstr ""
+"PC-BSD® tiene soporte nativo para docenas de tarjetas de red inalámbrica. "
+"Puede revisar si su tarjeta tiene un `Controlador para FreeBSD "
+"<http://www.freebsd.org/releases/10.2R/hardware.html#WLAN>`_. Si es así, "
+"simplemente “debe funcionar”. Una lista de dispositivos Atheros soportados y "
+"sus limitantes conocidas puede encontrarse en la `Wiki del Estado del "
+"Hardware Wi-Fi de Atheros "
+"<https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. Una lista "
+"de dispositivos Intel soportados y sus limitantes conocidas puede "
+"encontrarse en la `Wiki de las tarjetas iwn(4) Intel series 802.11n "
+"<https://wiki.freebsd.org/dev/iwn%284%29>`_."
+
+#: ../../preinstall.rst:96
+msgid "PC-BSD® will automatically detect available wireless networks for supported wireless devices. You can verify that your device is supported by clicking the :ref:`Hardware Compatibility` icon within the installer. If it an external wireless device, insert it before running the \"Hardware Compatibility\" utility."
+msgstr ""
+"PC-BSD® detectará automáticamente las redes inalámbricas disponibles para "
+"los dispositivos inalámbricos soportados. Puede verificar que su dispositivo "
+"está soportado presionando en el icono :ref:`Compatibilidad de Hardware` "
+"dentro del instalador. Si cuenta con un dispositivo inalámbrico externo, "
+"insértelo antes de arrancar la utilería \"Compatibilidad de Hardware\"."
+
+#: ../../preinstall.rst:99
+msgid "Certain Broadcom devices, typically found in cheap laptops, are quite buggy and can have lockups when in DMA mode. If the device freezes, try switching to \"PIO\" mode in the BIOS. Alternately, add the line *hw.bwn.usedma=0* to :file:`/boot/loader.conf` and reboot to see if that makes a difference."
+msgstr ""
+"Ciertos dispositivos Broadcom, comúnmente encontrados en portátiles baratas, "
+"son algo problemáticas y pueden tener bloqueos en el modo DMA. Si el "
+"dispositivo se congela, intente cambiar al modo \"PIO\" en el BIOS. "
+"Alternativamente, añada la línea *hw.bwn.usedma=0* al archivo "
+":file:`/boot/loader.conf` y reinicie para ver si marca una diferencia."
+
+#: ../../preinstall.rst:102
+msgid "If you wish to check your hardware before installing PC-BSD®, a good place to start is the `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.2R/hardware.html>`_. Another good resource is to start the installer and click the :ref:`Hardware Compatibility` icon."
+msgstr ""
+"Si gusta revisar su hardware antes de instalar PC-BSD®, un buen lugar dónde "
+"empezar son las `Notas de Hardware de FreeBSD "
+"<http://www.freebsd.org/releases/10.2R/hardware.html>`_. Otro buen recurso "
+"es comenzar el instalador y presionar el icono :ref:`Compatibilidad de "
+"Hardware`."
+
+#: ../../preinstall.rst:106
+msgid "While most hardware \"just works\" with PC-BSD®, it is possible that you will run across a piece of hardware that does not. It should be remembered that PC-BSD® is really FreeBSD, meaning that any hardware that works on FreeBSD will work on PC-BSD®. If you are experiencing problems with a device, start with a web search for the term \"FreeBSD\" plus the type and model of the hardware. This will let you know if there is a known issue with the device. If there are many search results, concentrate on the most recent ones as often hardware that used to be problematic has since been fixed or the missing driver will be available in an upcoming release of FreeBSD. If you experience problems with a device that should work but does not or you can not find any existing problem reports for your hardware, you can help improve hardware support for all PC-BSD® users if you :ref:`Report a bug` so that it can be addressed by the developers."
+msgstr ""
+"Mientras que la mayoría del hardware \"simplemente funciona\" con PC-BSD®, "
+"es posible que usted se encuentre con alguna pieza de hardware que no. Debe "
+"recordar que PC-BSD® es realmente FreeBSD, esto significa que cualquier "
+"hardware que funciona en FreeBSD funcionará en PC-BSD®. Si está teniendo "
+"problemas con un dispositivo, comience con una búsqueda en la web con el "
+"término \"FreeBSD\" más el tipo y modelo del hardware. Esto le dejará saber "
+"si hay algún problema conocido con el dispositivo. Si hay muchos resultados "
+"de la búsqueda, concéntrese en los más recientes ya que el hardware que "
+"solía presentar problemas puede haber sido arreglado o el controlador "
+"perdido puede estar disponible para un nuevo lanzamiento de FreeBSD. Si está "
+"teniendo problemas con un dispositivo que debería funcionar pero no lo hace "
+"o no puede encontrar reportes de algún problema existente para su hardware, "
+"usted puede mejorar el soporte de hardware para todos los usuarios de PC-BSD®"
+" si :ref:`Reporta una falla` para que pueda ser tomada por los "
+"desarrolladores."
+
+#: ../../preinstall.rst:118
+msgid "Laptops"
+msgstr "Portátiles"
+
+#: ../../preinstall.rst:120
+msgid "Many PC-BSD® users successfully run PC-BSD® on their laptops. However, depending upon the model of laptop, you may run across some issues. These typically deal with:"
+msgstr ""
+"Muchos usuarios de PC-BSD® corren satisfactoriamente PC-BSD® en sus "
+"portátiles. De cualquier modo, dependiendo del modelo de su portátil, puede "
+"encontrarse con algunos problemas. Estos típicamente tienen que ver con:"
+
+#: ../../preinstall.rst:123
+msgid "**Sleep/suspend:** unfortunately, `ACPI <https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface>`_ is not an exact science, meaning that you may have to experiment with various :command:`sysctl` variables in order to achieve successful sleep and suspend states on your particular laptop model. If your laptop is a ThinkPad, `ThinkWiki <http://www.thinkwiki.org/wiki/ThinkWiki>`_ is an excellent source. For other types of laptops, try reading the \"SYSCTL VARIABLES\" section of :command:`man 4 acpi` and check to see if there is an ACPI man page specific to your vendor by typing :command:`apropos acpi.` The `Tuning with sysctl(8) <http://www.freebsd.org/doc/en/books/handbook/configtuning-sysctl.html>`_ section of the FreeBSD Handbook demonstrates how to determine your current :command:`sysctl` values, modify a value, and make a modified value persist after a reboot. If the battery reading is incorrect, try the workaround in this `PR <https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=160838>`_."
+msgstr ""
+"**Dormir/Suspender:** desafortunadamente, `ACPI "
+"<https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface>`_ "
+"no es una ciencia exacta, significando que tendrá que experimentar con "
+"varias variables :command:`sysctl` para poder conseguir una suspensión "
+"exitosa y estados de suspensión en su modelo particular de portátil. Si su "
+"portátil es una ThinkPad, `ThinkWiki "
+"<http://www.thinkwiki.org/wiki/ThinkWiki>`_ es una excelente referencia. "
+"Para otros tipos de portátiles, trate de leer la sección de \"VARIABLES "
+"SYSCTL\" de :command:`man 4 acpi` y cheque si hay una página del manual ACPI "
+"específica para su proveedor tecleando :command:`apropos acpi.` La sección `"
+"Afinando con sysctl(8) <http://www.freebsd.org/doc/en/books/handbook"
+"/configtuning-sysctl.html>`_ del Manual de FreeBSD demuestra como determinar "
+"sus valores :command:`sysctl` actuales, modificar un valor, y hacer que un "
+"valor persista después de reiniciar. Si la lectura de la batería es "
+"incorrecta, intente lo siguiente en este `PR "
+"<https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=160838>`_."
+
+#: ../../preinstall.rst:131
+msgid "**Internal wireless:** some chipsets do not have a FreeBSD driver yet."
+msgstr ""
+"**Red Inalámbrica Interna:** algunos chipsets no tienen aún un controlador "
+"FreeBSD."
+
+#: ../../preinstall.rst:133
+msgid "**Synaptics:** depending upon the hardware, you may or may not be able to disable the system's touchpad. This `forum post <https://forums.freebsd.org/threads/how-to-disable-mousepad-tapping.17370/#post-100670>`_ describes how to enable Synaptics and some of the :command:`sysctl` options that this feature provides."
+msgstr ""
+"**Synaptics:** dependiendo del hardware, podrá o no deshabilitar el touchpad "
+"del sistema. Esta `entrada del foro <https://forums.freebsd.org/threads/how-"
+"to-disable-mousepad-tapping.17370/#post-100670>`_ describe como habilitar "
+"Synaptics y algunas de las opciones :command:`sysctl` que esta "
+"característica proporciona."
+
+#: ../../preinstall.rst:137
+msgid "**Optimus graphics:** the current workaround is to disable Optimus in the BIOS, set the onboard Intel video to be dominant, or to change the graphics mode to discrete."
+msgstr ""
+"**Gráficos Optimus:** la solución actual es deshabilitar Optimus en el BIOS, "
+"ponga el video integrado Intel como el dominante, o cambie el modo gráfico a "
+"discreto."
+
+#: ../../preinstall.rst:140
+msgid "If you wish to test your laptop's hardware, use the \"Hardware Compatibility\" icon in the :ref:`Language Selection Screen` before continuing with the installation."
+msgstr ""
+"Si quiere probar el hardware de su portátil, use el icono \"Compatibilidad "
+"de Hardware\" en la :ref:`Pantalla de Selección de Idioma` antes de "
+"continuar con la instalación."
+
+#: ../../preinstall.rst:143
+msgid "If you would like to install PC-BSD® onto an Asus Eee, read the `FreeBSD Eee page <https://wiki.FreeBSD.org/AsusEee>`_ first."
+msgstr ""
+"Si quiere instalar PC-BSD® en una Asus Eee, lea primero la página de `Eee en "
+"FreeBSD <https://wiki.FreeBSD.org/AsusEee>`_."
+
+#: ../../preinstall.rst:145
+msgid "The `FreeBSD Tuning Power Consumption page <https://wiki.FreeBSD.org/TuningPowerConsumption>`_ has some tips for reducing power consumption."
+msgstr ""
+"La página de `Ajustes de Consumo de Energía en FreeBSD "
+"<https://wiki.FreeBSD.org/TuningPowerConsumption>`_ tiene algunos tips para "
+"reducir el consumo de energía."
+
+#: ../../preinstall.rst:149
+msgid "With regards to specific hardware, the ThinkPad T420 may panic during install. If it does, go into the BIOS and set the video mode to \"discrete\" which should allow you to complete an installation. Some Thinkpads have a BIOS bug that prevents them from booting from GPT labeled disks. If you are unable to boot into a new installation, restart the installer and go into \"Advanced Mode\" in the :ref:`Disk Selection Screen`. Make sure that the \"Partition disk with GPT\" box is unchecked. If it was checked previously, redo the installation with the box unchecked."
+msgstr ""
+"Con referencia a hardware específico, la ThinkPad T420 puede colgarse "
+"durante la instalación. Si lo hace, vaya al BIOS y ponga el modo de video en "
+"“discreto”, lo cuál deberá ayudarle a completar la instalación. Algunas "
+"Thinkpads tienen un error en el BIOS que evita que arranquen desde discos "
+"marcados como GPT. Si no es capaz de arrancar en una nueva instalación, "
+"reinicie el instalador y vaya a “Modo Avanzado” en la :ref:`Pantala de "
+"Selección de Disco`. Asegúrese que la casilla “Particionar disco con GPT” "
+"esté deshabilitada. Si estaba habilitada previamente, vuelva a instalar con "
+"la casilla deshabilitada."
+
+#: ../../preinstall.rst:158
+msgid "Touch Screens"
+msgstr "Pantallas Táctiles"
+
+#: ../../preinstall.rst:160
+msgid "PC-BSD® should automatically detect USB-based touch screen devices. If your display is USB and is not auto-detected, send the output of :command:`usbconfig` and your :file:`/etc/X11/xorg.conf` file using the :ref:`Report a bug` tool."
+msgstr ""
+"PC-BSD® debe detectar automáticamente los dispositivos de pantalla táctil "
+"basados en USB. Si su pantalla es USB y no se auto detecta, mande la salida "
+"del comando :command:`usbconfig` y su archivo :file:`/etc/X11/xorg.conf` "
+"usando la herramienta :ref:`Reporte un bug`."
+
+#: ../../preinstall.rst:167
+msgid "Creating Free Space"
+msgstr "Creando Espacio Libre"
+
+#: ../../preinstall.rst:169
+msgid "If you wish to dual-boot PC-BSD® with an existing operating system, you must first make sure that there is either a free partition or an area of free space to install into. For example, if you are currently running a Windows operating system, it will be installed to the entire hard drive. You will need to first shrink the partition that contains the current operating system in order to make room to install PC-BSD®. Shrinking is an operation that retains the current operating system, while reducing the size of its partition. This section demonstrates how to create free space within Windows 7."
+msgstr ""
+"Si quiere un arranque dual de PC-BSD® con un sistema operativo existente, "
+"primero debe asegurarse que hay o una partición libre o un área de espacio "
+"libre para instalar. Por ejemplo, si actualmente corre el sistema operativo "
+"Windows, éste estará instalado en todo el disco duro. Primero necesitará "
+"reducir la partición que contiene el sistema operativo actual para poder "
+"hacer espacio a la instalación de PC-BSD®. Reducir es una operación que "
+"retiene el sistema operativo actual, mientras se reduce el tamaño de su "
+"partición. Esta sección demuestra como crear espacio libre en Windows 7."
+
+#: ../../preinstall.rst:174
+msgid "**before** shrinking a partition, make sure that you first back up your valuable data to an external media such as a removable USB drive!"
+msgstr ""
+"**Antes** de reducir la partición, asegúrese que primero ha respaldado sus "
+"datos importantes en un medio externo como un disco USB removible!"
+
+#: ../../preinstall.rst:176
+msgid "To shrink the drive, open Computer Management and click :menuselection:`Storage --> Disk Management`. In the example shown in :numref:`Figure %s: Viewing Disk Layout in Disk Management <partition1>`, the Windows system has three partitions: a 16GB recovery partition, a 100MB system partition, and a 450GB data partition."
+msgstr ""
+"Para reducir el disco, abra Administración de Equipo y presione "
+":menuselection:`Almacenamiento --> Administración de Disco`. En el ejemplo "
+"mostrado en :numref:`Figura %s: Viendo el Diseño del Disco en el "
+"Administrador de Disco <partition1>`, el sistema Windows tiene tres "
+"particiones: una partición de recuperación de 16 GB, una partición del "
+"sistema de 100 MB, y una partición de datos de 450 GB."
+
+#: ../../preinstall.rst:184
+msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, in this example it is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
+msgstr ""
+"Ya que las tres particiones están usando todo el disco, la partición de "
+"datos necesita reducirse para crear espacio para instalar PC-BSD®. Para "
+"reducir la partición de datos, presione botón derecho sobre la partición, en "
+"este ejemplo se llama *Acer (C:)*, y seleccione \"Reducir Volúmen\". Espere "
+"un momento ya que se hace una consulta al volúmen sobre el espacio "
+"disponible para reducir. Los resultados se desplegarán como se muestra en el "
+"ejemplo en la :numref:`Figura %s: Espacio Disponible para Reducir <shrink1>`."
+
+#: ../../preinstall.rst:192
+msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in :numref:`Figure %s: Disk Now Has Free Space <shrink2>`."
+msgstr ""
+"En este ejemplo, 321089 MB de espacio están disponibles. Para dividir la "
+"partición entre Windows y PC-BSD®, cambie ese número a *230000* y presione "
+"el botón \"Reducir\". Cuando termine, el nuevo espacio libre creado se "
+"mostrará, como se ve en la :numref:`Figura %s: El Disco Ahora Tiene Espacio "
+"Libre <shrink2>`."
+
+#: ../../preinstall.rst:199
+msgid "it is important that you **do not** choose to install PC-BSD® into any of the three Windows partitions when you get to the :ref:`Disk Selection Screen` of the installer. It is a good idea to write down the sizes of all of the partitions so that you will recognize the free space when the PC-BSD® installer displays your current partitions."
+msgstr ""
+"Es importante que usted **no** elija instalar PC-BSD® en ninguna de estas "
+"tres particiones de Windows cuando llegue a la :ref:`Pantalla de Selección "
+"de Disco` del instalador. Es una buena idea escribir los tamaños de todas "
+"las particiones para que reconozca el espacio libre cuando el instalador de "
+"PC-BSD® muestre sus particiones actuales."
+
+#: ../../preinstall.rst:206
+msgid "Obtaining PC-BSD®"
+msgstr "Obtener PC-BSD®"
+
+#: ../../preinstall.rst:208
+msgid "PC-BSD® version numbers are similar to those used by FreeBSD. In addition, PC-BSD® provides two branches. The branch that you choose to install or upgrade to determines when you will receive updates as new features and drivers are added to the operating system. Downloadable image names include the version number, where |version| is the most recent version, and either the word :file:`RELEASE` or :file:`STABLE`, where:"
+msgstr ""
+"Los números de versión de PC-BSD® son similares a los usados por FreeBSD. "
+"Adicionalmente, PC-BSD® proporciona dos ramas. La rama que escoja para "
+"instalar o actualizar determinará cuándo recibirá actualizaciones tan pronto "
+"como nuevas características y controladores sean añadidos al sistema "
+"operativo. Los nombres de las imágenes para descargar incluyen el número de "
+"la versión, donde |version| es la versión más reciente, y las palabras "
+":file:`RELEASE` o :file:`STABLE`, donde:"
+
+#: ../../preinstall.rst:212
+msgid "**RELEASE:** indicates that new drivers and features will not be added to the operating system until the next RELEASE version becomes available and the user upgrades to that new version. If reliability is more important to you than new features or drivers, use the RELEASE version."
+msgstr ""
+"**RELEASE:** indica que nuevos controladores y características no serán "
+"añadidas al sistema operativo hasta que la próxima versión RELEASE esté "
+"disponible y el usuario actualice a esa nueva versión. Si la confiabilidad "
+"es más importante para usted que las nuevas características o controladores, "
+"use la versión RELEASE."
+
+#: ../../preinstall.rst:215
+msgid "**STABLE:** around the 1st of each month, :ref:`Update Manager` will provide a patch which will update the operating system to include all of the new features and drivers. If you wish to have or test the latest features and drivers as they become available and can tolerate possible breakage caused by new features being available before the next RELEASE, use the STABLE version."
+msgstr ""
+"**STABLE:** alrededor del día 1° de cada mes, el :ref:`Administrador de "
+"Actualizaciones` proporcionará un parche que actualizará el sistema "
+"operativo para incluir todas las nuevas características y controladores. Si "
+"quiere tener o probar las últimas novedades y características en cuanto "
+"estén disponibles y puede tolerar los posibles errores causados por las "
+"nuevas características disponibles antes de la siguiente RELEASE, use la "
+"versión STABLE."
+
+#: ../../preinstall.rst:219
+msgid "The image files for the current RELEASE can be downloaded from the `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_. Previous RELEASE versions and STABLE versions can be downloaded from the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_."
+msgstr ""
+"Los archivos de imágen para la RELEASE actual pueden descargarse desde el `"
+"Sitio web de PC-BSD® <http://www.pcbsd.org/en/download.html>`_. Las "
+"versiones RELEASE previas y las versiones STABLE pueden descargarse desde el "
+"`CDN de PC-BSD® <http://iso.cdn.pcbsd.org/>`_."
+
+#: ../../preinstall.rst:222
+msgid "Several types of files are available for download. Before downloading a file, review the following descriptions to see which one best suits your needs:"
+msgstr ""
+"Diferentes tipos de archivos están disponibles para descarga. Antes de "
+"descargar un archivo, revise las siguientes descripciones para ver cuales se "
+"ajustan mejor a sus necesidades:"
+
+#: ../../preinstall.rst:224
+msgid "Files beginning with :file:`PCBSD` and ending in :file:`DVD-USB.iso` contain all of the information needed to install a graphical desktop or command-line server as well as several applications during installation. This type of file can either be burned to a DVD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
+msgstr ""
+"Los archivos que comienzan con :file:`PCBSD` y terminan en :file:`DVD-"
+"USB.iso` contienen toda la información necesaria para instalar un escritorio "
+"gráfico o un servidor con línea de comandos así como algunas aplicaciones "
+"durante la instalación. Este tipo de archivo puede ser grabado en un DVD o "
+"en un dispositivo USB. También habrá archivos asociados con el mismo nombre "
+"pero terminando en una extensión: :file:`.md5` o :file:`.sha256`. "
+"Dependiendo de su sistema operativo actual y sus utilerías, puede usar el "
+"valor en cada uno de esos archivos para determinar la integridad de la "
+"descarga, como se describe en :ref:`Revisando la Integridad de los Datos`. "
+"Si un torrent está disponible, también habrá un archivo con el mismo nombre "
+"y una extensión :file:`.torrent`."
+
+#: ../../preinstall.rst:230
+msgid "Files beginning with :file:`TrueOS` contain a command-line installer and are used to install a command-line version of a server. This type of file can either be burned to a CD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
+msgstr ""
+"Los archivos que comienzan con :file:`TrueOS` contienen un instalador en "
+"línea de comandos y son usados para instalar una versión de línea de "
+"comandos de un servidor. Este tipo de archivo puede ser grabado en un CD o "
+"en un dispositivo USB. Siempre habrá archivos asociados con el mismo nombre "
+"pero terminando en una extensión :file:`.md5` o :file:`.sha256`. Dependiendo "
+"de su sistema operativo y sus utilerías, puede usar el valor en cualquiera "
+"de esos archivos para determinar la integridad de la descarga, como se "
+"describe en :ref:`Revisando la Integridad de los Datos`. Si un torrent está "
+"disponible, siempre habrá un archivo con el mismo nombre y la extensión "
+":file:`.torrent`."
+
+#: ../../preinstall.rst:236
+msgid "Files containing :file:`netinstall` in their name are used to perform a network install. These files can be burned to a CD, so are a smaller initial download size. However, they require an Internet connection during installation as the files needed by the installer will be downloaded from the Internet."
+msgstr ""
+"Los archivos que contienen :file:`netinstall` en su nombre, son usados para "
+"realizar una instalación vía red. Estos archivos pueden ser grabados en un "
+"CD, ya que son pequeños en su tamaño de descarga. De cualquier forma, "
+"requieren una conexión a internet durante la instalación ya que los archivos "
+"necesarios por el instalador serán descargados desde la Internet."
+
+#: ../../preinstall.rst:239
+msgid "If you plan to install a graphical desktop, download the file with :file:`PCBSD` in its name and either burn it to a DVD media or write it to a removable USB device."
+msgstr ""
+"Si planea instalar un escritorio gráfico, descargue el archivo con "
+":file:`PCBSD` en su nombre y grábelo en un DVD o en un dispositivo USB "
+"removible."
+
+#: ../../preinstall.rst:242
+msgid "If you prefer to install a command-line only server, you can either download the same ISO or download the ISO with :file:`TRUEOS` in the name. The :file:`TRUEOS` download is smaller and can be burned to a CD or written to a removable USB device."
+msgstr ""
+"Si prefiere instalar un servidor solamente con línea de comandos, usted "
+"puede descargar la misma ISO o descargar la ISO con :file:`TRUEOS` en el "
+"nombre. La descarga de :file:`TRUEOS` es menor y puede ser grabada en un CD "
+"o en un dispositivo USB removible."
+
+#: ../../preinstall.rst:245
+msgid "Pre-installed virtual images are also available, making it easy to use or try out PC-BSD® in a virtual environment. Four types of images are available:"
+msgstr ""
+"También están disponibles imágenes virtuales preinstaladas, haciendo fácil "
+"el usar o probar PC-BSD® en un ambiente virtual. Están disponibles cuatro "
+"tipos de imágenes:"
+
+#: ../../preinstall.rst:248
+msgid "Files ending in :file:`.ova` can be used in VirtualBox, as described in :ref:`Using the Downloadable .ova File`."
+msgstr ""
+"Los archivos que terminan en :file:`.ova` pueden ser usados en VirtualBox, "
+"como se describe en :ref:`Usando el Archivo Descargable .ova`."
+
+#: ../../preinstall.rst:250
+msgid "Files ending in :file:`.vdi.xz` can be used in Virtualbox, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
+msgstr ""
+"Los archivos que terminan en :file:`.vdi.xz` pueden ser usados en "
+"VirtualBox, como se describe en :ref:`Usando el Disco Descargable VirtualBox "
+"o VMware`."
+
+#: ../../preinstall.rst:252
+msgid "Files ending in :file:`.vmdk.xz` can be used in VMware, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
+msgstr ""
+"Los archivos que terminan en :file:`.vmdk.xz` pueden ser usados en VMware, "
+"como se describe en :ref:`Usando el Disco Descargable VirtualBox o VMware`."
+
+#: ../../preinstall.rst:254
+msgid "Files ending in :file:`.raw.xz` can be used in Qemu and can also be converted to other virtual image formats."
+msgstr ""
+"Los archivos que terminan en :file:`.raw.xz` pueden ser usados en Qemu, y "
+"pueden también convertirse en otros formatos de imágenes virtuales."
+
+#: ../../preinstall.rst:256
+msgid "When selecting a virtual image file, choose a format that matches your virtualization technology, and an edition that matches what you would like to use. The following editions are available:"
+msgstr ""
+"Cuando seleccione un archivo de imágen virtual, elija el formato que "
+"coincida con su tecnología de virtualización, y una edición que coincida con "
+"lo que usted quiere usar. Las siguientes ediciones están disponibles:"
+
+#: ../../preinstall.rst:259
+msgid ":file:`consumer-desktop`: provides an installed version of PC-BSD® with the KDE and Fluxbox desktop environments."
+msgstr ""
+":file:`consumer-desktop`: proporciona una versión instalada de PC-BSD® con "
+"los entornos de escritorio KDE y Fluxbox."
+
+#: ../../preinstall.rst:261
+msgid ":file:`trueos-server`: provides a pre-installed TrueOS® server that is command-line only."
+msgstr ""
+":file:`trueos-server`: proporciona un servidor TrueOS® preinstalado con "
+"línea de comandos solamente."
+
+#: ../../preinstall.rst:263
+msgid "If you downloaded an installation file, instead of a virtual image, refer to :ref:`Burning the Installation Media` for instructions on how to burn the file to bootable media."
+msgstr ""
+"Si descargó un archivo de instalación, en lugar de una imágen virtual, "
+"refiérase a :ref:`Grabando el Medio de Instalación` para instrucciones en "
+"como grabar el archivo en un medio arrancable."
+
+#: ../../preinstall.rst:266
+msgid "If you have a slow download connection or wish to support the PC-BSD® project financially, you can purchase PC-BSD® DVDs from the `FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
+msgstr ""
+"Si tiene una conexión lenta para descargas o quiere apoyar al proyecto PC-"
+"BSD® financieramente, puede comprar DVDs de PC-BSD® desde el `FreeBSD Mall "
+"<http://www.freebsdmall.com/cgi-"
+"bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
+
+#: ../../preinstall.rst:269
+msgid "Members of the PC-BSD® project attend many IT conferences across the globe and give out PC-BSD® DVDs at conference booths. Visiting a PC-BSD® booth is an excellent way to meet other PC-BSD® users and to get your questions answered. Check the `PC-BSD® Blog <http://blog.pcbsd.org/>`_ to see if any events are happening near you. If you are organizing a PC-BSD® booth, `contact us <http://www.pcbsd.org/en/support/>`_ to arrange for DVDs."
+msgstr ""
+"Los miembros del proyecto PC-BSD® se presentan en muchas conferencias de TI "
+"a lo largo del planeta y regalan DVDs de PC-BSD® en las cabinas de las "
+"conferencias. Visitando una cabina de PC-BSD® es una forma excelente de "
+"conocer a otros usuarios de PC-BSD® y tener sus preguntas respondidas. "
+"Revise el `Blog de PC-BSD® <http://blog.pcbsd.org/>`_ para ver si algunos "
+"eventos se están desarrollando cerca de usted. Si está organizando una "
+"cabina de PC-BSD®, `contáctenos <http://www.pcbsd.org/en/support/>`_ para "
+"proporcionarle DVDs."
+
+#: ../../preinstall.rst:277
+msgid "Data Integrity Check"
+msgstr "Revisando la Integridad de los Datos"
+
+#: ../../preinstall.rst:279
+msgid "After downloading the desired file, it is a good idea to check that the file is exactly the same as the one on the PC-BSD® server. While downloading, a portion of the file may get damaged or lost, making the installation file unusable. Each PC-BSD® installation file has an associated MD5 and SHA256 checksum. If a checksum of the file you downloaded matches, your download was successful. If a checksum does not match, try downloading the file again. In order to verify a checksum, you will need to use a checksum verification utility."
+msgstr ""
+"Después de descargar el archivo deseado, es una buena idea el revisar que el "
+"archivo es exactamente el mismo que el del servidor PC-BSD®. Mientras se "
+"descarga, una porción del archivo puede dañarse o perderse, haciendo el "
+"archivo de instalación no usable. Cada archivo de instalación PC-BSD® tiene "
+"asociada una firma MD5 y SHA256. Si la firma del archivo que descargó "
+"coincide, su descarga ha sido exitosa. Si la firma no coincide, intente "
+"descargar el archivo nuevamente. Para verificar la firma, usted necesitará "
+"usar una utilería de verificación de firmas."
+
+#: ../../preinstall.rst:284
+msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_  only lists the SHA256 while the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
+msgstr ""
+"Solo necesita verificar una de las firmas. El `Sitio web de PC-BSD® "
+"<http://www.pcbsd.org/en/download.html>`_ solo lista las firmas SHA256 "
+"mientras que el `CDN de PC-BSD® <http://iso.cdn.pcbsd.org/>`_ lista ambos "
+"archivos de firmas :file:`.md5` y :file:`.sha256`. Esta sección demuestra "
+"cómo verificar una firma MD5."
+
+#: ../../preinstall.rst:288
+msgid "If you are currently using a Windows system, you can download and install the `FastSum <http://www.fastsum.com/>`_ utility in order to verify the MD5 checksum. Once installed, launch the program and click the \"Files\" button, shown in :numref:`Figure %s: Verifying a Checksum Using FastSum <fastsum1>`, to browse to the location of your downloaded file."
+msgstr ""
+"Si actualmente está usando un sistema Windows, puede descargar e instalar la "
+"utilería `FastSum <http://www.fastsum.com/>`_ para poder verificar las "
+"firmas MD5. Una vez instalada, ejecute el programa y presione el botón \""
+"Archivos\", mostrado en la :numref:`Figura %s: Verificando la Firma Usando "
+"FastSum <fastsum1>`, para encontrar la ubicación de su archivo descargado."
+
+#: ../../preinstall.rst:295
+msgid "Once the file is selected, click the green arrow to calculate the checksum. Once calculated, it will be listed in the \"Checksum\\State\" column, though FastSum will capitalize the letters."
+msgstr ""
+"Una vez que el archivo ha sido seleccionado, presione en la flecha verde "
+"para calcular la firma. Una vez calculada, será listada en la columna \""
+"Firma|Estado\", aunque FastSum pondrá en mayúsculas todas las letras."
+
+#: ../../preinstall.rst:298
+msgid "On Linux and BSD systems you can use the built-in :command:`md5` or :command:`md5sum` command line tool to check the MD5 checksum. In this example, the file is located in the :file:`Downloads` subdirectory directory. You should substitute the name and location of the file that you downloaded::"
+msgstr ""
+"En los sistemas Linux y BSD puede hacer uso de la utilería de línea de "
+"comandos incluida :command:`md5` o :command:`md5sum` para revisar la firma "
+"MD5. En este ejemplo, el archivo está localizado en el subdirectorio "
+":file:`Downloads`. Usted debe cambiar el nombre y la ruta del archivo que "
+"descargó:"
+
+#: ../../preinstall.rst:307
+msgid "Burning the Installation Media"
+msgstr "Grabando el Medio de Instalación"
+
+#: ../../preinstall.rst:309
+msgid "If you downloaded an :file:`.iso` file, it can be burned to either a DVD (or a CD, if it is the TrueOS ISO) or to a removable USB device. This section demonstrates how to do so using several different applications and operating systems."
+msgstr ""
+"Si descargó un archivo :file:`.iso`, puede ser grabado ya sea en un DVD (o "
+"en un CD, si se trata de la ISO de TrueOS) o en un dispositivo USB "
+"removible. Esta sección demuestra como hacerlo usando diferentes "
+"aplicaciones y sistemas operativos."
+
+#: ../../preinstall.rst:316
+msgid "Burning to DVD on Windows"
+msgstr "Grabando a un DVD en Windows"
+
+#: ../../preinstall.rst:318
+msgid "Windows 7 has built-in support for writing ISO images to disc. Right-click on the :file:`.iso` file in Windows Explorer and select \"Burn disk image\". Select the DVD device in the \"Disk Burner\" drop-down menu and then click \"Burn\" to write the disc. See the Microsoft article `Burn a CD or DVD from an ISO file <http://windows.microsoft.com/en-US/windows7/Burn-a-CD-or-DVD-from-an-ISO-file>`_ for more detailed instructions."
+msgstr ""
+"Windows 7 tiene soporte incluido para grabar imágenes ISO a disco. Presione "
+"botón derecho en el archivo :file:`.iso` en el Explorador de Windows y "
+"seleccione \"Grabar imágen de disco\". Seleccione el dispositivo DVD en el "
+"menú desplegable \"Grabador de Disco\" y presione en \"Grabar\" para grabar "
+"el disco. Revise el artículo de Microsoft `Grabando un CD o DVD desde un "
+"archivo ISO <http://windows.microsoft.com/en-US/windows7/Burn-a-CD-or-DVD-"
+"from-an-ISO-file>`_ para instrucciones más detalladas."
+
+#: ../../preinstall.rst:322
+msgid "Alternately, the `InfraRecorder utility <http://infrarecorder.org/>`_ is an open source burning application for both CDs and DVDs. Once installed, open InfraRecorder and click on the \"Write Image\" button shown in :numref:`Figure %s: Initial InfraRecorder Screen <infra1>`."
+msgstr ""
+"Alternativamente, la `utilería InfraRecorder <http://infrarecorder.org/>`_ "
+"es una aplicación open souce para grabar CDs y DVDs. Una vez instalado, abra "
+"InfraRecorder y presione en el botón \"Grabar Imágen\" mostrado en la "
+":numref:`Figura %s: Pantalla Inicial de InfraRecorder <infra1>`."
+
+#: ../../preinstall.rst:329
+msgid "InfraRecorder will display a screen where you can browse to the location of the :file:`.iso` file. Once selected, you will be presented with an options screen shown in :numref:`Figure %s: Burn Options in InfraRecorder <infra2>`. You can accept the defaults and click \"OK\" to start the burn. When finished, the burner tray will open and a dialog box will appear indicating that the burning process has finished."
+msgstr ""
+"InfraRecorder desplegará una pantalla donde puede buscar la ubicación del "
+"archivo :file:`.iso`. Una vez seleccionado, se le presentará una pantalla de "
+"opciones mostrada en la :numref:`Figura %s: Opciones de Grabado en "
+"InfraRecorder <infra2>`. Puede aceptar las opciones predeterminadas y "
+"presionar \"OK\" para iniciar la grabación. Cuando termine, la bandeja del "
+"quemador se abrirá y un cuadro de diálogo aparecerá indicándole que el "
+"proceso de grabado ha terminado."
+
+#: ../../preinstall.rst:341
+msgid "Burning to DVD on a BSD or Linux System"
+msgstr "Grabando a un DVD en un sistema BSD o Linux"
+
+#: ../../preinstall.rst:343
+msgid "`The K3B burner <https://www.kde.org/applications/multimedia/k3b/>`_ is an easy-to-use graphical burning application for Linux and BSD systems. This utility can be installed using :ref:`AppCafe®`. Once installed, it can be run from any desktop by typing :command:`k3b`."
+msgstr ""
+"`El grabador K3B <https://www.kde.org/applications/multimedia/k3b/>`_ es una "
+"aplicación gráfica de grabado, fácil de usar para Linux y sistemas BSD. Esta "
+"utilería puede ser instalada usando :ref:`AppCafe®`. Una vez instalada, "
+"puede correr desde cualquier escritorio tecleando :command:`k3b`."
+
+#: ../../preinstall.rst:346
+msgid "To burn your ISO, launch K3B, insert a blank DVD/CD media, browse to the location of the :file:`.iso` file in the screen shown in :numref:`Figure %s: Selecting the Burn Image Tool Within K3B <k3b1>`, and click :menuselection:`Tools --> Burn Image...` to see the screen in :numref:`Figure %s: K3B's Burn Image Screen <k3b2>`."
+msgstr ""
+"Para grabar su ISO, ejecute K3B, inserte un medio DVD/CD en blanco, busque "
+"dónde se localiza el archivo :file:`.iso` en la pantalla mostrada en la "
+":numref:`Figura %s: Seleccionando la Herramienta Grabar Imágen en K3B <k3b1>`"
+", y presione :menuselection:`Herramientas --> Grabar Imágen...` para ver la "
+"pantalla que se muestra en la :numref:`Figura %s: Pantalla de Grabar Imágen "
+"de K3B <k3b2>`."
+
+#: ../../preinstall.rst:358
+msgid "Click the \"Start\" button to burn the file. K3B will automatically eject the media once the burn is complete."
+msgstr ""
+"Presione el botón \"Iniciar\" para grabar el archivo. K3B automáticamente "
+"expulsará el medio una vez que la grabación se haya completado."
+
+#: ../../preinstall.rst:360
+msgid "`The Brasero burner <https://wiki.gnome.org/Apps/Brasero>`_ provides an alternative, easy-to-use burning application included with the :ref:`GNOME` desktop. A PBI is also available within :ref:`AppCafe®`. Once installed, Brasero can be launched by typing :command:`brasero` from within any window manager. :numref:`Figure %s: Brasero's Initial Screen <brasero1>` shows the initial Brasero screen."
+msgstr ""
+"`El grabador Brasero <https://wiki.gnome.org/Apps/Brasero>`_ proporciona una "
+"alternativa, una aplicación fácil de usar para grabar incluida con el "
+"escritorio :ref:`GNOME`. Un PBI está también disponible en :ref:`AppCafe®`. "
+"Una vez instalado, Brasero puede ejecutarse tecleando :command:`brasero` "
+"desde cualquier gestor de ventanas. La :numref:`Figura %s: Pantalla Inicial "
+"de Brasero <brasero1>` muestra la pantalla inicial de Brasero."
+
+#: ../../preinstall.rst:368
+msgid "Click \"Burn image\" to open the screen seen in :numref:`Figure %s: Brasero Image Burning Setup <brasero2>`. Use the \"Click here to select a disk image\" button to select your :file:`.iso` file."
+msgstr ""
+"Presione en \"Grabar imágen\" para abrir la pantalla mostrada en la :numref:`"
+"Figura %s: Preparación para Grabar Imágen en Brasero <brasero2>`. Use el "
+"botón \"Presione aquí para seleccionar una imágen de disco\" para "
+"seleccionar su archivo :file:`.iso`."
+
+#: ../../preinstall.rst:375
+msgid "The name and size of your :file:`.iso` file should appear and Brasero will indicate the size of the media. If you click on the \"Properties\" button, you can change some options, but it is fine to keep the default settings. When you are ready, click the \"Burn\" button and Brasero will burn your ISO."
+msgstr ""
+"El nombre y tamaño de su archivo :file:`.iso` deberá aparecer y Brasero le "
+"indicará el tamaño del medio. Si presiona en el botón \"Propiedades\", puede "
+"cambiar algunas opciones, pero es mejor quedarse con las características "
+"predeterminadas. Cuando esté listo, presione el botón \"Grabar\" y Brasero "
+"grabará su ISO."
+
+#: ../../preinstall.rst:378
+msgid "If you are familiar with using the command line on a FreeBSD or PC-BSD® system, you can use the :command:`growisofs` command line utility to burn the DVD. This utility is included with the dvd+rw-tools FreeBSD port which is installed by default on a PC-BSD® system. If that software is not yet installed on a FreeBSD system, issue this command as the superuser::"
+msgstr ""
+"Si está familiarizado con la línea de comandos en un sistema FreeBSD o PC-"
+"BSD®, puede usar la utilería de línea de comandos :command:`growisofs` para "
+"grabar el DVD. Esta utilería está incluida con el port dvd+rw-tools de "
+"FreeBSD que está instalado por defecto un sistema PC-BSD®. Si ese software "
+"no ha sido instalado en un sistema FreeBSD, ejecute este comando como "
+"superusuario:"
+
+#: ../../preinstall.rst:384
+msgid "Depending upon the type of DVD burner hardware, you may have to configure the system to use it. If the device is ATAPI (i.e. not USB or SCSI), the ATAPI driver must be loaded. The superuser can issue this command::"
+msgstr ""
+"Dependiendo del tipo de su hardware para grabar DVD, usted tendrá que "
+"configurar el sistema para usarlo. Si el dispositivo es ATAPI (por ejemplo "
+"no USB ni SCSI), el controlador ATAPI debería ser cargado. El superusuario "
+"puede introducir este comando:"
+
+#: ../../preinstall.rst:389
+msgid "If you just get your prompt back, the driver successfully loaded. If you get the message \"kldload: can't load atapicam: File exists\", this means that the driver was already loaded. If the device is USB or SCSI, no additional drivers need to be loaded if you are running the generic FreeBSD kernel. After inserting the DVD media into the device, you can start the burn using this command::"
+msgstr ""
+"Si obtiene nuevamente el símbolo del sistema, el controlador se ha cargado "
+"satisfactoriamente. Si recibe el mensaje \"kldload: no se puede cargar "
+"atapicam: El archivo ya existe\", esto significa que el controlador ya está "
+"cargado. Si el dispositivo es USB o SCSI, no se necesita cargar "
+"controladores adicionales si está corriendo el kernel genérico de FreeBSD. "
+"Después de insertar el medio DVD en el dispositivo, puede comenzar la "
+"grabación usando el siguiente comando:"
+
+#: ../../preinstall.rst:395
+msgid "If your device is not the first CD device, change the number *0* accordingly. If your ISO has a different name, substitute the correct name in the command shown above."
+msgstr ""
+"Si su dispositivo no es el primer dispositivo CD, cambie el número *0* según "
+"convenga. Si su ISO tiene un nombre diferente, sustituya el nombre correcto "
+"en el comando mostrado anteriormente."
+
+#: ../../preinstall.rst:402
+msgid "Burning to DVD on a Mac OS X System"
+msgstr "Grabando a un DVD en un Sistema Mac OS X"
+
+#: ../../preinstall.rst:404
+msgid "To burn the ISO on a Mac OS X system, go to :menuselection:`Finder --> Applications --> Utilities --> Disk Utility`. With a blank media inserted into the burner, highlight the device representing the DVD writer and click the \"Burn\" button. This will open up a browser where you can select the ISO to burn."
+msgstr ""
+"Para grabar la ISO en un sistema Mac OS X, vaya a :menuselection:`Buscador "
+"--> Aplicaciones --> Utilerías --> Utilería de Disco`. Con un medio vírgen "
+"insertado en el grabador, seleccione el dispositivo que representa al "
+"grabador DVD y presione el botón \"Grabar\". Esto abrirá un navegador donde "
+"puede seleccionar la ISO a grabar."
+
+#: ../../preinstall.rst:407
+msgid "Once the ISO is highlighted, click the \"Burn\" button. A pop-up message will indicate that the device is ready to burn. Click \"Burn\" once more and Disk Utility will write the ISO to the DVD media."
+msgstr ""
+"Una vez que seleccionó la ISO, presione el botón \"Grabar\". Una mensaje "
+"emergente le indicará que el dispositivo está listo para grabar. Presione \""
+"Grabar\" una vez más y la Utilería de Disco grabará la ISO al DVD."
+
+#: ../../preinstall.rst:414
+msgid "Writing to a USB Device"
+msgstr "Grabando en un Dispositivo USB"
+
+#: ../../preinstall.rst:416
+msgid "To write to a USB device, you will need the following:"
+msgstr "Para grabar en un dispositivo USB, necesitará lo siguiente:"
+
+#: ../../preinstall.rst:418
+msgid "a utility that can write the image to a USB media; the utility that you use will depend upon your operating system"
+msgstr ""
+"Una utilería que pueda escribir la imágen en un medio USB; la utilería que "
+"use dependerá de su sistema operativo."
+
+#: ../../preinstall.rst:420
+msgid "a USB thumb drive or hard drive large enough to hold the image"
+msgstr ""
+"Una memoria USB o un disco duro lo bastante grande para alojar la imágen."
+
+#: ../../preinstall.rst:422
+msgid "Once the image is written, boot from the removable device and proceed with the PC-BSD® installation."
+msgstr ""
+"Una vez que la imágen se ha grabado, arranque desde el dispositivo removible "
+"y proceda con la instalación de PC-BSD®."
+
+#: ../../preinstall.rst:424
+msgid "if there is a card reader on the system or the USB drive is connected using a USB dongle, device enumeration may be affected. For example, with the USB card reader dongle as the destination, the device name could be :file:`/dev/da1` instead of :file:`/dev/da0`."
+msgstr ""
+"Si tiene un lector de tarjetas en el sistema o el dispositivo USB está "
+"conectado usando un concentrador USB, la enumeración del dispositivo puede "
+"ser afectada. Por ejemplo, con el lector de tarjetas USB como destino, el "
+"nombre del dispositivo puede ser: :file:`/dev/da1` en vez de "
+":file:`/dev/da0`."
+
+#: ../../preinstall.rst:427
+msgid "To write the :file:`.iso` file to a flash card or removable USB drive on a BSD or Linux system, use the :command:`dd` command line utility. On a FreeBSD system, the superuser can use this command to write the file to the first plugged in USB device::"
+msgstr ""
+"Para escribir el archivo :file:`.iso` a una memoria flash o un disco USB "
+"removible en un sistema BSD o Linux, use la utilería de línea de comandos "
+":command:`dd`. En un sistema FreeBSD, el superusuario puede usar este "
+"comando para escribir el archivo al primer dispositivo USB conectado:"
+
+#: ../../preinstall.rst:435
+msgid "When using the :command:`dd` command:"
+msgstr "Cuando use el comando :command:`dd`:"
+
+#: ../../preinstall.rst:437
+msgid "**if=** refers to the input file to be written"
+msgstr "**if=** se refiere al archivo que será escrito"
+
+#: ../../preinstall.rst:439
+msgid "**of=** refers to the output file (the device name of the flash card or removable USB drive); increment the number in the name if it is not the first USB device"
+msgstr ""
+"**of=** se refiere al archivo de salida (el nombre del dispositivo de la "
+"memoria flash o el disco USB removible); incremente el número en el nombre "
+"si no es el primer dispositivo USB."
+
+#: ../../preinstall.rst:442
+msgid "**bs=** refers to the block size"
+msgstr "**bs=** se refiere al tamaño del bloque"
+
+#: ../../preinstall.rst:444
+msgid "on Linux, if you type :command:`mount` with the USB stick inserted, you will see two or more device nodes corresponding to the USB stick. For example, :file:`/dev/sdc` and :file:`/dev/sdc1`, where :file:`/dev/sdc1` corresponds to the primary partition of the USB stick. Before using the :command:`dd` command, ensure that the usb stick is first unmounted. Then, remember to use :file:`/dev/sdc` (the device node without the number) as the option for the output file **of=**. Once the :command:`dd` completes, you might not be able to mount the USB stick on Linux as Linux has very limited support for UFS, the BSD filesystem that gets created on the USB stick."
+msgstr ""
+"En Linux, si escribe el comando :command:`mount` con el USB insertado, verá "
+"dos o más nodos de dispositivos correspondientes al dispositivo USB. Por "
+"ejemplo, :file:`/dev/sdc` y :file:`/dev/sdc1`, donde :file:`/dev/sdc1` "
+"corresponde a la partición primaria del dispositivo USB. Antes de usar el "
+"comando :command:`dd`, asegúrese que el dispositivo USB esté desmontado "
+"primero. Después, recuerde usar :file:`/dev/sdc` ( el nodo del dispositivo "
+"sin el número) como la opción para el archivo de salida **of=**. Una vez que "
+":command:`dd` termine, probablemente no sea capaz de montar el dispositivo "
+"USB en Linux, ya que Linux tiene un soporte muy limitado para UFS, el "
+"sistema de archivos BSD que se ha creado en el dispositivo USB."
+
+#: ../../preinstall.rst:450
+msgid "To burn the image file on a Windows system, you can use `win32-image-writer <http://sourceforge.net/projects/win32diskimager/>`_. When downloading win32-image-writer, download the latest version that ends in :file:`-binary.zip` and use a utility such as Windows Explorer or 7zip to unzip the executable."
+msgstr ""
+"Para grabar el archivo de imágen en un sistema Windows, puede usar `win32"
+"-image-writer <http://sourceforge.net/projects/win32diskimager/>`_. Cuando "
+"descargue win32-image-writer, descargue la última version que termine en "
+":file:`-binary.zip` y use una utilería como el Navegador de Windows o 7zip "
+"para extraer el ejecutable."
+
+#: ../../preinstall.rst:453
+msgid "If you launch :command:`win32-image-writer.exe`, it will start the Win32 Disk Imager utility, shown in :numref:`Figure %s: Using Win32 Disk Imager to Write the Image <writer1>`. Use the \"browse\" button to browse to the location of the :file:`.iso` file. Insert a USB thumb drive and select its drive letter (in this example, drive D). Click the \"Write\" button and the image will be written to the USB thumb drive."
+msgstr ""
+"Si ejecuta :command:`win32-image-writer.exe`, lanzará la utilería Win32 Disk "
+"Imager, mostrada en la :numref:`Figura %s: Usando Win32 Disk Imager para "
+"Grabar la Imágen <writer1>`. Use el botón \"buscar\" para buscar la "
+"ubicación del archivo :file:`.iso`. Inserte una memoria USB y seleccione su "
+"letra de unidad (en este ejemplo, unidad D). Presione el botón \"Grabar\" y "
+"la imágen será grabada en la memoria USB."
+
+#: ../../preinstall.rst:461
+msgid "To burn the :file:`.iso` file on Mac OS X, insert a USB stick and open Terminal. Run the :command:`diskutil list` command to find out the device name of the USB disk, unmount the USB disk, then use :command:`dd` to write the image to the raw disk (:file:`rdisk`). In the following example, an 8GB USB stick has a device name of :file:`/dev/disk1` and a raw device name of :file:`/dev/rdisk1`.::"
+msgstr ""
+"Para grabar el archivo :file:`.iso` en Mac OS X, inserte un dispositivo USB "
+"y abra una Terminal. Ejecute el comando :command:`diskutil list` para "
+"encontrar el nombre del dispositivo del disco USB, desmonte el disco USB, "
+"después use el comando :command:`dd` para escribir la imágen al disco en "
+"blanco (:file:`rdisk`). En el siguiente ejemplo, un dispositivo USB de 8 GB "
+"tiene un nombre de dispositivo :file:`/dev/disk1` y un nombre de dispositivo "
+"raw :file:`/dev/rdisk1`.:"
+
+#: ../../preinstall.rst:490
+msgid "Virtualization"
+msgstr "Virtualización"
+
+#: ../../preinstall.rst:492
+msgid "A virtualized environment allows you to test drive an operating system without overwriting your current operating system. This is an excellent way to practice installation, determine whether all of your hardware is supported, or to try multiple versions of different operating systems. Virtualization software effectively creates windows (known as virtual machines) into which you can install and use an operating system. The only limitation to virtualization is your hardware as each virtual machine uses CPU and RAM. Depending upon the amount of CPU and RAM in your computer, you may find that the operating system you install using virtualization software runs slowly. If your computer slows down greatly, try closing other applications running on your computer to free up some RAM."
+msgstr ""
+"Un ambiente virtualizado le permite probar un sistema operativo sin "
+"sobrescribir su sistema operativo actual. Esta es una forma excelente de "
+"practicar la instalación, determinar si todo su hardware está soportado, o "
+"para probar multiples versiones de diferentes sistemas operativos. El "
+"software de virtualización crea ventanas (conocidas como máquinas virtuales) "
+"en las que puede instalar y usar un sistema operativo. La única limitación "
+"para la virtualización es su hardware ya que cada máquina virtual usa CPU y "
+"RAM. Dependiendo de la cantidad de CPU y RAM en su computadora, puede "
+"encontrar que el sistema operativo que instale usando el software de "
+"virtualización corre lentamente. Si su computadora se alenta en gran medida, "
+"trate de cerrar otras aplicaciones corriendo en su computadora para liberar "
+"algo de RAM."
+
+#: ../../preinstall.rst:499
+msgid "During the installation of PC-BSD®, you can choose to install the `VirtualBox <https://www.virtualbox.org/>`_ open source virtualization program and the `VirtualBox Guest Additions <http://www.virtualbox.org/manual/ch04.html>`_ with the operating system. The guest additions add mouse pointer integration, shared folders between the host and guest, better video support, and a shared clipboard. To install these after installation, use :ref:`AppCafe®` and search for \"virtualbox\"."
+msgstr ""
+"Durante la instalación de PC-BSD®, puede elegir instalar el programa de "
+"virtualización open source `VirtualBox <https://www.virtualbox.org/>`_ y los "
+"`Agregados para el Huésped de VirtualBox "
+"<http://www.virtualbox.org/manual/ch04.html>`_ con el sistema operativo. Los "
+"agregados añaden integración al puntero del ratón, directorios compartidos "
+"entre el anfitrión y el huésped, mejor soporte de video, y un portapapeles "
+"compartido. Para instalarlos después de la instalación, use :ref:`AppCafe®` "
+"y busque \"virtualbox\"."
+
+#: ../../preinstall.rst:504
+msgid "the first time you run VirtualBox on a PC-BSD® system, a background script will automatically give your user account the permissions required to run this application. Depending upon your desktop, this might break any existing shortcuts to VirtualBox. To fix the shortcut, logout and back in."
+msgstr ""
+"La primera vez que corra VirtualBox en un sistema PC-BSD®, un script de "
+"segundo plano le dará automáticamente a su usuario, los permisos necesarios "
+"para correr esta aplicación. Dependiendo de su escritorio, esto pudiera "
+"romper cualquier acceso directo a VirtualBox. Para arreglar el acceso "
+"directo, salga y entre de nuevo a su sesión."
+
+#: ../../preinstall.rst:507
+msgid "If your computer is running another operating system, download the binary for your operating system from the `VirtualBox Downloads page <https://www.virtualbox.org/wiki/Downloads>`_. VirtualBox runs on Windows, Linux, Macintosh, and OpenSolaris and supports a large number of operating systems that can be installed into a virtual machine."
+msgstr ""
+"Si su computadora corre otro sistema operativo, descargue el binario para su "
+"sistema operativo desde la `página de Descargas de VirtualBox "
+"<https://www.virtualbox.org/wiki/Downloads>`_. VirtualBox corre en Windows, "
+"Linux, Macintosh, y OpenSolaris y soporta un amplio número de sistemas "
+"operativos que se pueden instalar en una máquina virtual."
+
+#: ../../preinstall.rst:511
+msgid "This section describes how to prepare VirtualBox for an installation of PC-BSD® using an :file:`.iso` file as well as how to use the downloadable :file:`.vmdk`, :file:`.vdi`, and :file:`.ova` images with VirtualBox."
+msgstr ""
+"Esta sección describe como preparar VirtualBox para una instalación de PC-"
+"BSD® usando un archivo :file:`.iso` y también cómo usar las imágenes "
+"descargables :file:`.vmdk`, :file:`.vdi`, y :file:`.ova` con VirtualBox."
+
+#: ../../preinstall.rst:518
+msgid "Creating a Virtual Machine for an ISO File"
+msgstr "Creando una Máquina Virtual para un Archivo ISO"
+
+#: ../../preinstall.rst:520
+msgid "Once you have downloaded the PC-BSD® ISO and installed VirtualBox on the current system, create a virtual machine and use the ISO to install PC-BSD® into the virtual machine. The virtual machine must meet the following minimum requirements:"
+msgstr ""
+"Una vez que ha descargado la ISO de PC-BSD® e instalado VirtualBox en el "
+"sistema actual, cree una máquina virtual y use la ISO para instalar PC-BSD® "
+"en la máquina virtual. La máquina virtual tiene que cumplir con los "
+"siguientes requerimientos mínimos:"
+
+#: ../../preinstall.rst:523
+msgid "1024 MB base memory size"
+msgstr "1024 MB de memoria base"
+
+#: ../../preinstall.rst:525
+msgid "a virtual disk **at least 20 GB in size** for a TrueOS® installation or **at least 50 GB in size** for a PC-BSD® installation"
+msgstr ""
+"Un disco virtual de **al menos 20 GB de espacio** para una instalación de "
+"TrueOS® o **al menos 50 GB de espacio** para una instalación de PC-BSD®"
+
+#: ../../preinstall.rst:527
+msgid "a bridged adapter"
+msgstr "Un adaptador puente"
+
+#: ../../preinstall.rst:529
+msgid "To create the virtual machine, start VirtualBox to see the screen shown in :numref:`Figure %s: Initial VirtualBox Screen <vbox1>`."
+msgstr ""
+"Para crear la máquina virtual, inicie VirtualBox para ver la pantalla "
+"mostrada en la :numref:`Figura %s: Pantalla Inicial de VirtualBox <vbox1>`."
+
+#: ../../preinstall.rst:535
+msgid "Click the \"New\" button to start the new virtual machine wizard. Click the \"Next\" button to see the screen in :numref:`Figure %s: Type in a Name and Select the Operating System for the New Virtual Machine <vbox2>`."
+msgstr ""
+"Presione el botón \"Nuevo\" para comenzar el asistente de nueva máquina "
+"virtual. Presione el botón \"Siguiente\" para ver la pantalla de la :numref:`"
+"Figura %s: Ingrese un Nombre y Seleccione el Sistema Operativo para la Nueva "
+"Máquina Virtual <vbox2>`."
+
+#: ../../preinstall.rst:542
+msgid "Enter a name for your virtual machine, which can be anything that makes sense to you. Click the \"Operating System\" drop-down menu and select \"BSD\". In the \"Version\" drop-down menu, select \"FreeBSD (64 bit)\". Click \"Next\" to see the screen in :numref:`Figure %s: Select the Amount of Memory Reserved for the Virtual Machine <vbox3>`."
+msgstr ""
+"Ingrese un nombre para su máquina virtual, que puede ser cualquier cosa que "
+"tenga sentido para usted. Presione el menú desplegable \"Sistema Operativo\" "
+"y seleccione \"BSD\". En el menú desplegable \"Versión\", seleccione \""
+"FreeBSD (64 bit)\". Presione \"Siguiente\" para ver la pantalla de la "
+":numref:`Figura %s: Seleccionando la Cantidad de Memoria Reservada para la "
+"Máquina Virtual <vbox3>`."
+
+#: ../../preinstall.rst:549
+msgid "The base memory size must be changed to **at least 1024 MB.** If your system has a lot of RAM, use more. Any number within the green area is considered a safe value by VirtualBox, meaning it should not slow down your computer too much. When finished, click Next to see the screen in :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`."
+msgstr ""
+"El tamaño de la memoria base deberá cambiarse a **al menos 1024 MB.** Si su "
+"sistema tiene mucha RAM, use más. Cualquier número dentro del área verde es "
+"considerado un valor seguro para VirtualBox, significando que no debería "
+"alentar mucho su computadora. Cuando termine, presione \"Siguiente\" para "
+"ver la pantalla en la :numref:`Figura %s: Seleccione Si Usa o Crea un Nuevo "
+"Disco Duro Virtual <vbox4>`."
+
+#: ../../preinstall.rst:557
+msgid "This screen is used to create the virtual hard drive, or the amount of disk space that will be available to the virtual machine. If this is your first virtual machine, keep the default of \"Create a virtual hard drive now\" and click \"Create\" to go to the screen shown in :numref:`Figure %s: Select the Hard Drive Type <vbox5>`. If you have created a virtual machine in the past and wish to reuse its disk space, select \"Use an existing virtual hard drive file\" from the drop-down menu. You can create as many virtual machines as you wish. However, if your computer is getting low on disk space, you should consider reusing existing virtual hard drives to prevent your physical hard drive from being used up by old virtual machines."
+msgstr ""
+"Esta pantalla es usada para crear el disco duro virtual, o la cantidad de "
+"espacio en disco que estará disponible para la máquina virtual. Si ésta es "
+"su primera máquina virtual, mantenga el valor predeterminado de \"Crear un "
+"disco duro virtual ahora\" y presione \"Crear\" para ir a la pantalla "
+"mostrada en la :numref:`Figura %s: Seleccionando el Tipo de Disco Duro "
+"<vbox5>`. Si ha creado ya una máquina virtual en el pasado y quiere reusar "
+"su espacio en disco, seleccione \"Use un archivo existente de disco duro "
+"virtual\" desde el menú desplegable. Puede crear tantas máquinas virtuales "
+"como guste. Sin embargo, si su computadora se está quedando sin espacio en "
+"disco, debería considerar reusar discos duros virtuales existentes para "
+"prevenir que su disco duro físico sea consumido por viejas máquinas "
+"virtuales."
+
+#: ../../preinstall.rst:567
+msgid "Select \"VDI\" and click the \"Next\" button to see the screen in :numref:`Figure %s: Select the Storage Type <vbox6>`."
+msgstr ""
+"Seleccione \"VDI\" y presione el botón \"Siguiente\" para ver la pantalla "
+"mostrada en la :numref:`Figura %s: Seleccionando el Tipo de Almacenamiento "
+"<vbox6>`."
+
+#: ../../preinstall.rst:573
+msgid "You can now choose whether you want \"Dynamically allocated\" or \"Fixed size\" storage. The first option uses disk space as needed until it reaches the maximum size that you will set in the next screen. The second option creates a disk the same size as that specified amount of disk space, whether it is used or not. Choose the first option if you are worried about disk space; otherwise choose the second option as it allows VirtualBox to run slightly faster. Once you select \"Next\", you will see the screen in :numref:`Figure %s: Select the File Name and Size of the Virtual Disk <vbox7>`."
+msgstr ""
+"Ahora puede elegir si quiere almacenamiento \"Reservado Dinámicamente\" o de "
+"\"Tamaño Fijo\". La primera opción usa el espacio en disco como se vaya "
+"necesitando hasta que llega al tamaño máximo que usted elegirá en la "
+"siguiente pantalla. La segunda opción crea un disco del mismo tamaño al "
+"especificado, se use o no. Elija la primera opción si le preocupa el espacio "
+"en disco; de otra forma elija la segunda opción, ya que permite a VirtualBox "
+"correr un poco más rápido. Una vez que seleccione \"Siguiente\", usted verá "
+"la pantalla en la :numref:`Figura %s: Seleccionando el Nombre de Archivo y "
+"Tamaño del Disco Virtual <vbox7>`."
+
+#: ../../preinstall.rst:582
+msgid "This screen is used to set the size (or upper limit) of the virtual machine. If you plan to install PC-BSD® into the virtual machine, **increase the size to at least 20 GB** or you will receive an error during the PC-BSD® installation. If you plan to install KDE, GNOME, multiple desktop managers, or applications within the virtual machine, you will probably want to choose at least 50GB. Whatever size you set, make sure that your computer has enough free disk space to support it. Use the folder icon to browse to a directory on disk with sufficient space to hold your virtual machine."
+msgstr ""
+"Esta pantalla se usa para establecer el tamaño (o límite superior) de la "
+"máquina virtual. Si planea instalar PC-BSD® en una máquina virtual, **"
+"aumente el tamaño al menos hasta 20 GB** o recibirá un error durante la "
+"instalación de PC-BSD®. Si planea instalar KDE, GNOME, múltiples "
+"escritorios, o aplicaciones dentro de la máquina virtual, probablemente "
+"querrá elegir al menos 50 GB. Cualquier tamaño que establezca, asegúrese que "
+"su computadora tiene el suficiente espacio libre en disco para soportarla. "
+"Use el icono de carpeta para examinar un directorio en el disco con espacio "
+"suficiente para alojar su máquina virtual."
+
+#: ../../preinstall.rst:587
+msgid "Once you make your selection and press \"Next\", you will see a summary of your choices. You can use the \"Back\" button to return to a previous screen if you wish to change any values. Otherwise, click \"Create\" to finish using the wizard. Your virtual machine should now show up in the left box, as seen in the example in :numref:`Figure %s: The New Virtual Machine <vbox8>`."
+msgstr ""
+"Una vez que haya realizado su selección y presione \"Siguiente\", verá un "
+"resumen de sus elecciones. Puede usar el botón \"Atrás\" para regresar a una "
+"pantalla previa si quiere cambiar cualquier valor. De otra forma, presione \""
+"Crear\" para terminar de usar el asistente. Su máquina virtual debería ahora "
+"mostrarse en la caja de la izquierda, como se muestra en el ejemplo en la "
+":numref:`Figura %s: La Máquina Virtual Nueva <vbox8>`."
+
+#: ../../preinstall.rst:595
+msgid "In order to use your network card, configure bridging on your virtual machine. To do this, go to :menuselection:`Settings --> Network`. In the \"Attached to\" drop-down menu select \"Bridged Adapter\" then select the name of the physical interface from the \"Name\" drop-down menu. In the example shown in :numref:`Figure %s: Configuring a Bridged Adapter in VirtualBox <vbox9>`, the Intel Pro/1000 Ethernet card is attached to the network and has a device name of :file:`re0`."
+msgstr ""
+"Para usar su tarjeta de red, configure un puente en su máquina virtual. Para "
+"hacer esto, vaya a :menuselection:`Configuraciones --> Red`. En el menú "
+"desplegable \"Conectado a\" seleccione \"Adaptador Puente\" y después "
+"seleccione el nombre de la interfaz física desde el menú desplegable \""
+"Nombre\". En el ejemplo mostrado en la :numref:`Figura %s: Configurando un "
+"Adaptador Puente en VirtualBox <vbox9>`, la tarjeta Ethernet Intel Pro/1000 "
+"está conectada a la red y tiene un nombre de dispositivo de :file:`re0`."
+
+#: ../../preinstall.rst:603
+msgid "Before starting your virtual machine, configure it to use your installation media. Click the \"Storage\" hyperlink in the right frame to access the storage screen seen in :numref:`Figure %s: The Storage Settings of the Virtual Machine <vbox10>`."
+msgstr ""
+"Antes de iniciar su máquina virtual, configúrela para usar su medio de "
+"instalación. Presione el enlace \"Almacenamiento\" en el marco derecho para "
+"accesar la pantalla de almacenamiento mostrada en la :numref:`Figura %s: Las "
+"Configuraciones de Almacenamiento de la Máquina Virtual <vbox10>`."
+
+#: ../../preinstall.rst:610
+msgid "Double-click the word \"Empty\", which represents your DVD reader. If you wish to access the PC-BSD® installer from your DVD reader, double-check that the \"Slot\" is pointing to the correct location (e.g. \"IDE Secondary Master\") and use the drop-down menu to change it if the location is incorrect. Click the \"CD/DVD Device\" drop-down menu to change it from empty to the \"Host Drive\" value."
+msgstr ""
+"Haga doble-clic en la palabra \"Vacío\" que representa su lector DVD. Si "
+"quiere accesar el instalador de PC-BSD® desde su lector de DVD, revise que "
+"el \"Slot\" esté apuntando a la dirección correcta (por ejemplo \"IDE "
+"Secundario Maestro\") y use el menú desplegable para cambiarlo si la "
+"dirección es incorrecta. Presione el menú desplegable \"Unidad CD/DVD\" para "
+"cambiarlo de vacío al valor \"Unidad Anfitrión\"."
+
+#: ../../preinstall.rst:614
+msgid "If you prefer to use an ISO that is stored on your hard disk, click the DVD icon then \"Choose a virtual CD/DVD disk file\" to open a browser menu where you can navigate to the location of the ISO. Highlight the desired ISO and click \"Open\". The name of the ISO will now appear in the \"Storage Tree\" section."
+msgstr ""
+"Si prefiere usar la ISO que está almacenada en su disco duro, presione el "
+"icono del DVD y luego \"Elija el archivo de disco virtual CD/DVD\" para "
+"abrir el menú del navegador donde podrá navegar a la ruta de la ISO. "
+"Seleccione la ISO deseada y presione \"Abrir\". El nombre de la ISO ahora "
+"aparecerá en la sección \"Árbol de Almacenamiento\"."
+
+#: ../../preinstall.rst:617
+msgid "You are now ready to install PC-BSD® into your virtual machine. Simply highlight the virtual machine and click on the green \"Start\" icon. A window will open indicating that the virtual machine is starting. If you have a DVD inserted, you should hear it spin and it should start to boot into the installation program. If it does not or if you are using an ISO stored on the hard disk, press \"F12\" to select the boot device when you see the message to do so, then press \"c\" to boot from CD-ROM. You can then proceed through the installation as described in :ref:`Installing PC-BSD®`."
+msgstr ""
+"Ahora está listo para instalar PC-BSD® en su máquina virtual. Simplemente "
+"seleccione la máquina virtual y presione en el icono verde \"Iniciar\". Una "
+"ventana se abrirá indicando que la máquina virtual está iniciando. Si tiene "
+"el DVD montado, debe escucharlo girar y debe comenzar a arrancar en el "
+"programa de instalación. Si no lo está o está usando la ISO almacenada en el "
+"disco duro, presione \"F12\" para seleccionar el dispositivo de arranque "
+"cuando vea el mensaje para hacerlo, entonces presione \"c\" para arrancar "
+"desde el CD-ROM. Ahora puede proceder a través de la instalación como se "
+"describe en :ref:`Instalando PC-BSD®`."
+
+#: ../../preinstall.rst:626
+msgid "Using the Downloadable VirtualBox or VMWare Disk"
+msgstr "Usando el Disco Descargable VirtualBox o VMware"
+
+#: ../../preinstall.rst:628
+msgid "PC-BSD® provides pre-built VirtualBox and VMWare disks which create a a pre-made virtual machine with PC-BSD® already installed. The VirtualBox file ends in a :file:`.vdi.xz` extension and the VMWare disk file ends in a :file:`.vmdk.xz` extension. The :file:`.xz` means that the file needs to be unzipped first so that it just ends with a :file:`.vdi` or :file:`.vmdk` extension."
+msgstr ""
+"PC-BSD® proporciona discos VirtualBox y VMWare pre-construidos que crean una "
+"máquina virtual pre-configurada con PC-BSD® ya instalado. El archivo "
+"VirtualBox termina con una extensión :file:`.vdi.xz` y el disco de VMWare "
+"termina con una extensión :file:`.vmdk.xz`. El :file:`.xz` significa que el "
+"archivo necesita ser extraído primero para que solo termine con una "
+"extensión :file:`.vdi` o :file:`.vmdk`."
+
+#: ../../preinstall.rst:632
+msgid "On a Linux or BSD system, use the :command:`xz` command by giving it the name of the file which you downloaded::"
+msgstr ""
+"En un sistema Linux o BSD, use el comando :command:`xz` dándole el nombre "
+"del archivo que descargó:"
+
+#: ../../preinstall.rst:636
+msgid "Since this is a large file, the command will take a few minutes to extract the image. You will receive the prompt back when it has finished."
+msgstr ""
+"Dado que es un archivo grande, el comando tomará unos minutos para extraer "
+"la imágen. Recibirá el indicador de comandos cuando termine."
+
+#: ../../preinstall.rst:638
+msgid "On a Windows system, you can use a utility such as `7-Zip <http://www.7-zip.org/>`_. On a Mac OS X system, simply double-click the file in \"Finder\" to extract it."
+msgstr ""
+"En un sistema Windows, puede usar una utilería como `7-Zip "
+"<http://www.7-zip.org/>`_. En un sistema Mac OS X, simplemente haga doble-"
+"clic en el archivo en el \"Buscador\" para extraerlo."
+
+#: ../../preinstall.rst:641
+msgid "Once the file is unzipped, open VirtualBox. When you get to :numref:`Figure %s: Select Whether to Use an Existing or Create a New Virtual Hard Drive <vbox4>`, select \"Use an existing virtual hard drive file\"."
+msgstr ""
+"Una vez que el archivo es descomprimido, abra VirtualBox. Cuando llegue a la "
+":numref:`Figura %s: Seleccionando si Usa o Crea un Nuevo Disco Duro Virtual "
+"<vbox4>`"
+
+#: ../../preinstall.rst:644
+msgid "Use the browse icon to browse to the location of the :file:`.vdi` or :file:`.vmdk` file then press \"Next\". A message will indicate that the virtual machine will be created. Click the \"Create\" button to finish the wizard. You can then configure the network adapter and start the virtual machine."
+msgstr ""
+"Use el icono de examinar para examinar la ruta del archivo :file:`.vdi` o "
+":file:`.vmdk` y presione \"Siguiente\". Un mensaje le indicará que la "
+"máquina virtual será creada. Presione el botón \"Crear\" para finalizar el "
+"asistente. Usted puede ahora configurar el adaptador de red e iniciar la "
+"máquina virtual."
+
+#: ../../preinstall.rst:647
+msgid "The \"consumer-desktop\" virtual machine will boot into the post-installation configuration screens so that the system can be configured. Once the display wizard is finished and the login menu appears, input the username and password that you configured at the :ref:`Create a User Screen`."
+msgstr ""
+"La máquina virtual \"consumer-desktop\" arrancará en las pantallas de "
+"configuración post-instalación para que el sistema pueda ser configurado. "
+"Una vez que el asistente de pantalla termine y el menú de inicio de sesión "
+"aparezca, introduzca el usuario y contraseña que configuró en la :ref:`"
+"Pantalla de Creación de Usuario`."
+
+#: ../../preinstall.rst:650
+#: ../../preinstall.rst:683
+msgid "When using the \"trueos-server\" edition, the virtual machine will boot into a password prompt. Enter *root* as the username and *pcbsd* as the password. It is recommended to immediately change the *root* password by typing :command:`passwd` and following the prompts. It is also recommended to create a user account to login with. You can do so by typing :command:`adduser` and following the prompts."
+msgstr ""
+"Cuando use la edición \"trueos-server\", la máquina virtual arrancará en un "
+"indicador para introducir la contraseña. Ingrese *root* como el nombre de "
+"usuario y *pcbsd* como la contraseña. Se recomienda que inmediatamente "
+"cambie la contraseña de *root* tecleando :command:`passwd` y siguiendo los "
+"indicadores. También se recomienda crear una cuenta de usuario con la cual "
+"ingresar. Puede hacerlo tecleando :command:`adduser` y siguiendo los "
+"indicadores."
+
+#: ../../preinstall.rst:658
+msgid "Using the Downloadable .ova File"
+msgstr "Usando el Archivo Descargable .ova"
+
+#: ../../preinstall.rst:660
+msgid "A file that ends in a :file:`.ova` extension is a tarball of a virtual machine that follows the Open Virtualization Format (OVF). This file can be used in any virtualization technology that supports OVF, such as VirtualBox or VMware."
+msgstr ""
+"Un archivo que termina con una extensión :file:`.ova` es un archivo "
+"comprimido de una máquina virtual que sigue el Formato Abierto de "
+"Virtualización (Open Virtualization Format OVF). Este archivo puede usarse "
+"en cualquier tecnología de virtualización que soporte OVF, como VirtualBox o "
+"VMware."
+
+#: ../../preinstall.rst:663
+msgid "If you double-click the :file:`.ova` file on a Windows or Mac system, it will automatically open the image for you in the default virtualization application."
+msgstr ""
+"Si hace doble-clic en el archivo :file:`.ova` en un sistema Windows o Mac, "
+"abrirá automáticamente la imágen para usted en la aplicación de "
+"virtualización predeterminada."
+
+#: ../../preinstall.rst:665
+msgid "The first time you open an :file:`.ova` file on a PC-BSD® system, right-click the file, select \"Open With\", browse to the application to open it with, and check the box \"Remember application association for this type of file\". The following example assumes the user has selected :menuselection:`System --> Oracle VM VirtualBox` as the application."
+msgstr ""
+"La primera vez que abra un archivo :file:`.ova` en un sistema PC-BSD®, haga "
+"doble-clic en el archivo, seleccione \"Abrir Con\", examine hasta la "
+"aplicación con la que lo abrirá, y seleccione la casilla \"Recordar "
+"asociación de aplicación para este tipo de archivo\". El siguiente ejemplo "
+"asume que el usuario ha seleccionado :menuselection:`Sistema --> Oracle VM "
+"VirtualBox` como la aplicación."
+
+#: ../../preinstall.rst:669
+msgid "The first time a PC-BSD® :file:`.ova` file is opened, a screen will open so that you can review the virtual machine's settings that came with the file. An example is shown in :numref:`Figure %s: Appliance Settings Screen <ova1>`. To edit a setting, double-click its name."
+msgstr ""
+"La primera vez que un archivo :file:`.ova` de PC-BSD® es abierto, una "
+"pantalla se abrirá para que pueda revisar las configuraciones de la máquina "
+"virtual que vienen con el archivo. Un ejemplo se muestra en la :numref:`"
+"Figura %s: Pantalla de Configuraciones de la Máquina Virtual <ova1>`. Para "
+"editar una configuración, haga doble clic en el nombre."
+
+#: ../../preinstall.rst:676
+msgid "Depending upon the setting, you can either type in the desired value or select it from a drop-down menu. Once you are finished, click the \"Import\" button. It will take a few minutes for the import to complete and a status bar will indicate the status of the import. Once imported, the virtual machine will show in the left frame of VirtualBox. Highlight the virtual machine and click \"Start\" to boot into the image."
+msgstr ""
+"Dependiendo de la configuración, puede ingresar el valor deseado o "
+"seleccionarlo desde un menú desplegable. Una vez que termine, presione el "
+"botón \"Importar\". Tomará algunos minutos para que se complete la "
+"importación y una barra de estado le indicará del estado de la importación. "
+"Una vez importada, la máquina virtual aparecerá en el marco izquierdo de "
+"VirtualBox. Seleccione la máquina virtual y presione \"Iniciar\" para "
+"arrancar en la imágen."
+
+#: ../../preinstall.rst:680
+msgid "When using the \"consumer-desktop\" edition, the virtual machine will boot into Figure 4.2a so that you can perform the post-installation configuration for the desktop."
+msgstr ""
+"Cuando use la edición \"consumer-desktop\", la máquina virtual arrancará "
+"para que pueda realizar las configuraciones post-instalación para el "
+"escritorio."

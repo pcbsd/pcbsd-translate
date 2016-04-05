@@ -1,0 +1,936 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2016, iXsystems
+# This file is distributed under the same license as the PC-BSD User Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PC-BSD User Guide 10.1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-05 08:14-0700\n"
+"PO-Revision-Date: 2016-02-15 04:05+0000\n"
+"Last-Translator: vater <vater@chelnok.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.12.0\n"
+
+#: ../../introduction.rst:2
+msgid "**Preface**"
+msgstr "**Vorwort**"
+
+#: ../../introduction.rst:4
+msgid "Written by users of the PC-BSD® operating system."
+msgstr ""
+"Geschrieben von den Benutzerinnen und Benutzern des Betriebssystems PC-BSD®."
+
+#: ../../introduction.rst:6
+msgid "Version |version|"
+msgstr "Version |version|"
+
+#: ../../introduction.rst:8
+msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
+msgstr "Copyright © 2005 - 2016 Das Projekt PC-BSD®."
+
+#: ../../introduction.rst:10
+msgid "Welcome to PC-BSD®! This Handbook covers the installation and use of PC-BSD® |version|. This Handbook is a work in progress and relies on the contributions of many individuals. If you are interested in assisting with the Handbook, refer to the documentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_. If you use IRC Freenode, you are welcome to join the #pcbsd channel where you will find other PC-BSD® users."
+msgstr ""
+"Willkommen zu PC-BSD®! Dieses Handbuch beschreibt die Installation und die "
+"Benutzung von PC-BSD® |version|. Dieses Handbuch ist in ständiger "
+"Bearbeitung und gründet sich auf die Beiträge vieler Einzelpersonen. Wenn "
+"Sie daran interessiert sind beim Handbuchs zu unterstützen, beziehen Sie auf "
+"die Dokumentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-"
+"qt5/docs/README.md>`_. Wenn Sie IRC Freenode nutzen, sind Sie eingeladen dem "
+"Kanal #pcbsd beizutreten, wo Sie auch andere Benutzerinnen und Benutzer von "
+"PC-BSD® finden werden. "
+
+#: ../../introduction.rst:12
+msgid "Previous versions of the Handbook in various formats and languages are available from `here <ftp://ftp.pcbsd.org/pub/handbook/>`_."
+msgstr ""
+"Vorherige Versionen des Handbuches sind in verschiedensten Formaten und "
+"Sprachen von ftp://ftp.pcbsd.org/pub/handbook/ `hier "
+"<ftp://ftp.pcbsd.org/pub/handbook/>`_ verfügbar."
+
+#: ../../introduction.rst:14
+msgid "The PC-BSD® Users Handbook is freely available for sharing and redistribution under the terms of the `Creative Commons Attribution License <https://creativecommons.org/licenses/by/4.0/>`_. This means that you have permission to copy, distribute, translate, and adapt the work as long as you attribute the PC-BSD® Project as the original source of the Handbook."
+msgstr ""
+"Das Benutzungshandbuch von PC-BSD® ist frei verfügbar zum Verteilen und "
+"Neuverbreiten unter den Bedingungen der `Creative Commons Namensnennung "
+"Lizenz International <https://creativecommons.org/licenses/by/4.0/>`_. Das "
+"bedeutet, dass Sie die Berechtigung zum Kopieren, Verbreiten, Übersetzen und "
+"Übernehmen haben solange Sie das PC-BSD® Project als orginale Quelle des "
+"Handbuches benennen."
+
+#: ../../introduction.rst:16
+msgid "PC-BSD® and the PC-BSD® logo are registered trademarks of `iXsystems <https://www.ixsystems.com/>`_. If you wish to use the PC-BSD® logo in your own works, ask for permission first from marketing@ixsystems.com."
+msgstr ""
+"PC-BSD® und das PC-BSD® Logo sind registrierte Markenzeichen von `iXsystems "
+"<https://www.ixsystems.com/>`_. Wenn Sie das Logo von PC-BSD® in eigenen "
+"Arbeiten nutzen möchten, fragen Sie bitte um Erlaubnis unter folgender "
+"Adresse marketing@ixsystems.com."
+
+#: ../../introduction.rst:18
+msgid "AMD is a trademark of Advanced Micro Devices, Inc."
+msgstr "AMD ist eine eingetragene Marke von Advanced Micro Devices, Inc."
+
+#: ../../introduction.rst:20
+msgid "Apache is a trademark of The Apache Software Foundation."
+msgstr "Apache ist eine eingetragene Marke von The Apache Software Foundation."
+
+#: ../../introduction.rst:22
+msgid "AppCafe® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+"AppCafe® ist ein registriertes Markenzeichen von `iXsystems "
+"<https://www.ixsystems.com/>`_."
+
+#: ../../introduction.rst:24
+msgid "Asus® and Eee PC® are registered trademarks of ASUSTeK® Computer Inc."
+msgstr "Asus® und Eee PC® sind eingetragene Marke von ASUSTeK® Computer Inc."
+
+#: ../../introduction.rst:26
+msgid "Facebook® is a registered trademark of Facebook Inc."
+msgstr "Facebook® ist eine eingetragene Marke von Facebook Inc."
+
+#: ../../introduction.rst:28
+msgid "Flash® is a registered trademark of Adobe Systems Incorporated in the United States and/or other countries."
+msgstr ""
+"Flash® ist eine eingetragene Marke von Adobe Systems Incorporated in den "
+"Vereinigte Staaten von Amerika und/oder anderen Ländern."
+
+#: ../../introduction.rst:30
+msgid "FreeBSD® is a registered trademark of the `FreeBSD Foundation <https://www.freebsdfoundation.org/>`_."
+msgstr ""
+"FreeBSD® ist ein registriertes Markenzeichen von `FreeBSD Foundation "
+"<https://www.freebsdfoundation.org/>`_."
+
+#: ../../introduction.rst:32
+msgid "FreeNAS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+"FreeNAS® ist ein registriertes Markenzeichen von `iXsystems "
+"<https://www.ixsystems.com/>`_."
+
+#: ../../introduction.rst:34
+msgid "IBM® is a registered trademark of International Business Machines Corporation."
+msgstr ""
+"IBM® ist eine eingetragene Marke von International Business Machines "
+"Corporation."
+
+#: ../../introduction.rst:36
+msgid "Intel, the Intel logo, Pentium Inside, and Pentium are trademarks of Intel Corporation in the U.S. and/or other countries."
+msgstr ""
+"Intel, das Intel-Logo, Pentium Inside und Pentium sind eingetragene Marken "
+"von Intel Corporation in den Vereinigten Staaten und/oder anderen Ländern."
+
+#: ../../introduction.rst:38
+msgid "Java™ is a trademark of Oracle America and/or its affiliates in the United States and other countries."
+msgstr ""
+"Java™ ist eine Marke von Oracle America und/oder seinen verbundenen "
+"Unternehmen in den Vereinigten Staaten und in anderen Ländern."
+
+#: ../../introduction.rst:40
+msgid "Lenovo® is a registered trademark of Lenovo."
+msgstr "Lenovo® ist eine eingetragene Marke von Lenovo."
+
+#: ../../introduction.rst:42
+msgid "LinkedIn® is a registered trademark of LinkedIn Corporation."
+msgstr "LinkedIn® ist eine eingetragene Marke von LinkedIn Corporation."
+
+#: ../../introduction.rst:44
+msgid "Linux® is a registered trademark of Linus Torvalds."
+msgstr "Linux® ist eine eingetragene Marke von Linus Torvalds."
+
+#: ../../introduction.rst:46
+msgid "Mac and Mac OS are trademarks of Apple Inc., registered in the U.S. and other countries."
+msgstr ""
+"Mac und Mac OS sind eingetragene Marken von Apple Inc. in den USA und "
+"anderen Ländern."
+
+#: ../../introduction.rst:48
+msgid "MacBook® is a registered trademark of Apple Inc."
+msgstr "MacBook® ist eine eingetragene Marke von Apple Inc."
+
+#: ../../introduction.rst:50
+msgid "MySQL is a trademark of Oracle."
+msgstr "MySQL ist eine eingetragene Marke von Oracle."
+
+#: ../../introduction.rst:52
+msgid "NVIDIA® is a trademark and/or registered trademark of NVIDIA Corporation in the U.S. and other countries."
+msgstr ""
+"NVIDIA® ist eine eingetragene Marke von NVIDIA Corporation in den USA und "
+"anderen Ländern."
+
+#: ../../introduction.rst:54
+msgid "PostgreSQL® is a registered trademark of the PostgreSQL Global Development Group."
+msgstr ""
+"PostgreSQL® ist eine eingetragene Marke von PostgreSQL Global Development "
+"Group."
+
+#: ../../introduction.rst:56
+msgid "ThinkPad® is a registered trademark of Lenovo."
+msgstr "ThinkPad® ist eine eingetragene Marke von Lenovo."
+
+#: ../../introduction.rst:58
+msgid "TrueOS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+"TrueOS® ist ein registriertes Markenzeichen von `iXsystems "
+"<https://www.ixsystems.com/>`_."
+
+#: ../../introduction.rst:60
+msgid "Twitter is a trademark of Twitter, Inc. in the United States and other countries."
+msgstr ""
+"Twitter ist eine eingetragene Marke von Twitter Inc. in den Vereinigten "
+"Staaten und anderen Ländern."
+
+#: ../../introduction.rst:62
+msgid "UNIX® is a registered trademark of The Open Group."
+msgstr "UNIX® ist eine eingetragene Marke von The Open Group."
+
+#: ../../introduction.rst:64
+msgid "VirtualBox® is a registered trademark of Oracle."
+msgstr "VirtualBox® ist eine eingetragene Marke von Oracle."
+
+#: ../../introduction.rst:66
+msgid "VMWare® is a registered trademark of VMWare, Inc."
+msgstr "VMWare® ist eine eingetragene Marke von VMWare, Inc."
+
+#: ../../introduction.rst:68
+msgid "Windows® is a registered trademark of Microsoft Corporation in the United States and other countries."
+msgstr ""
+"Windows® ist eine eingetragene Marke von Microsoft Corporation in den "
+"Vereinigten Staaten und anderen Ländern."
+
+#: ../../introduction.rst:70
+msgid "**Typographic Conventions**"
+msgstr "**Typographische Konventionen**"
+
+#: ../../introduction.rst:72
+msgid "Names of graphical elements such as buttons, icons, fields, columns, and boxes are enclosed within quotes. For example: click the \"Browse Categories\" button."
+msgstr ""
+"Namen von grafischen Elementen, wie Schaltflächen, Symbole, Spalten und "
+"Kästen sind von Anführungszeichen eingeschlossen. Zum Beispiel: klicke die "
+"Schaltfläche \"Durchsuche Kategorien\"."
+
+#: ../../introduction.rst:74
+msgid "Menu selections are italicized and separated by arrows. For example: :menuselection:`Control Panel --> About`."
+msgstr ""
+"Auswahlen beim Menü sind kursiv und getrennt mit Pfeilen: Zum Beispiel: "
+":menuselection:`Systemsteuerung --> Über`."
+
+#: ../../introduction.rst:76
+msgid "Commands that are mentioned within text are highlighted in :command:`bold text`. Command examples and command output are contained in green code blocks."
+msgstr ""
+"Kommandos, die innerhalb eines Textes genannt werden, sind in :command:`"
+"fetten Text`hervorgehoben. Beispiele für ein Kommando und die Ausgabe für "
+"ein Kommando sind in grünen Blöcken für Code enthalten."
+
+#: ../../introduction.rst:78
+msgid "File names are enclosed in a blue box :file:`/like/this`."
+msgstr ""
+"Dateinamen sind in einem blauen Kasten :file:`/like/this` eingeschlossen."
+
+#: ../../introduction.rst:80
+msgid "Keystrokes are formatted in a blue box. For example: press :kbd:`Enter`."
+msgstr ""
+"Tastendrücke sind in einem blauen Kasten formatiert. Zum Beispiel: Drücke "
+":kbd:`Eingabe`."
+
+#: ../../introduction.rst:82
+msgid "**bold text** is used to emphasize an important point."
+msgstr "**fetter Text** wird verwendet, um einen wichtigen Punkt zu betonen."
+
+#: ../../introduction.rst:84
+msgid "*italic text* is used to represent device names or text that is input into a GUI field."
+msgstr ""
+"*italic text* is used to represent device names or text that is input into a "
+"GUI field.*kursiver Text* wird verwendet, um den Namen eines Gerätes "
+"darzustellen oder Text, der Eingabe im Feld einer GUI ist."
+
+#: ../../introduction.rst:87
+msgid "Introduction"
+msgstr "Einführung"
+
+#: ../../introduction.rst:89
+msgid "Welcome to PC-BSD®!"
+msgstr "Willkommen zu PC-BSD®!"
+
+#: ../../introduction.rst:91
+msgid "`PC-BSD® <http://www.pcbsd.org/>`_ began in 2005 when Kris Moore presented the first beta version of a FreeBSD operating system pre-configured for desktop use. Since then, PC-BSD® has matured into a polished, feature-rich, free-of-charge, open source operating system that meets the desktop or server needs of the beginner to the advanced user alike."
+msgstr ""
+"`PC-BSD® <http://www.pcbsd.org/>`_ begann 2005, als Kris Moore die erste "
+"Beta-Version eines für die Desktop-Benutzung vorkonfigurierten FreeBSD-"
+"Betreibssytems präsentierte. Seitdem hat PC-BSD® zu einem ausgefeilten, "
+"reichhaltigen, gebührenfreien, quelloffenen Betriebssystem entwickelt, das "
+"die Bedürfnisse zum Desktop von Einsteigerinnen und Einsteigern bis zu "
+"fortgeschrittenen Benutzerinnen und Benutzern gleichermaßen trifft."
+
+#: ../../introduction.rst:93
+msgid "PC-BSD® is essentially a customized installation of FreeBSD, not a forked derivative. Since the underlying FreeBSD system has been kept intact, you have a fully functional FreeBSD system under the hood. PC-BSD® provides a graphical installer which can be used to easily install a desktop or a server version of FreeBSD, known as TrueOS®. Other differences from FreeBSD include:"
+msgstr ""
+"Bei PC-BSD® handelt es sich im Wesentlichen eine angepasste Installation von "
+"FreeBSD, nicht um ein abgespaltenes Derivat. Da das zugrundeliegende FreeBSD-"
+"System intakt gehalten wurden, haben Sie ein voll funktionsfähiges FreeBSD-"
+"System unter der Haube. PC-BSD® bietet eine grafische Installation, welche "
+"zum leichten Installieren einer Desktop- oder einer Serverversion von "
+"FreeBSD, bekannt als TrueOS®, verwendet werden kann. Andere Unterschiede zu "
+"FreeBSD beinhalten:"
+
+#: ../../introduction.rst:95
+msgid "PC-BSD® pre-configures at least one desktop environment during a desktop installation. Installed desktop environments appear in the login menu, allowing the user to select which environment to log into."
+msgstr ""
+"PC-BSD® konfiguriert mindestens eine Arbeitsoberfläche während der "
+"Installation vor. Installierte Arbeitsoberflächen erscheinen im Anmeldemenü, "
+"was der Benutzerin oder dem Benutzer erlaubt auszuwählen in welche "
+"Oberfläche sich angemeldet wird."
+
+#: ../../introduction.rst:97
+msgid "The PC-BSD® graphical installer supports additional features such as configuring ZFS and encryption during installation."
+msgstr ""
+"Die grafische Installationsprogramm von PC-BSD® unterstützt zusätzliche "
+"Funktionen wie z.B. die Konfiguration von ZFS und Verschlüsslung während der "
+"Installation."
+
+#: ../../introduction.rst:99
+msgid "PC-BSD® provides a graphical software management system for the desktop and a command line equivalent for the server."
+msgstr ""
+"PC-BSD® bietet ein grafisches Softwareverwaltungssystem für die Desktop- und "
+"einer Befehlszeilenversion für den Server."
+
+#: ../../introduction.rst:101
+msgid "PC-BSD® provides a :ref:`Control Panel` of utilities for configuring the system. The graphical versions of these utilities are available on both versions, the desktop and server."
+msgstr ""
+"PC-BSD® bietet eine :ref:`Systemsteuerung` mit Werkzeugen zur Konfiguration "
+"des Systems. Die grafische Version von diesen Werkzeugen sind für beide "
+"Versionen, die für den Desktop und die für den Server, verfügbar."
+
+#: ../../introduction.rst:103
+msgid "PC-BSD® comes pre-configured with a number of automatic scripts to perform tasks such as connecting digital cameras or USB memory sticks."
+msgstr ""
+"PC-BSD® kommt mit einer Reihe von automatischen Skripten, um Aufgaben wie "
+"den Anschluss von Digitalkameras oder USB-Memory-Sticks durchzuführen."
+
+#: ../../introduction.rst:105
+msgid "The PC-BSD® boot menu supports boot environments, or snapshots of the operating system, and the PC-BSD® Update Manager automatically adds a new boot environment to the boot menu before updating the operating system or software. This means that if an update fails, you can reboot into the previous version of the operating system, before the update occurred."
+msgstr ""
+"Das Boot-Menü von PC-BSD® unterstützt Boot-Umgebungen – oder auch "
+"Schnappschüsse vom Betriebssystem – und die Aktualisierungsverwaltung von PC-"
+"BSD® fügt automatisch eine neue Boot-Umgebung zum Boot-Menü hinzu bevor das "
+"Betriebssystem oder Software aktualisiert wird."
+
+#: ../../introduction.rst:107
+msgid "PC-BSD® began as an independent project, but since October 2006, PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
+msgstr ""
+
+#: ../../introduction.rst:113
+msgid "Goals and Features"
+msgstr "Ziele und Funktionen"
+
+#: ../../introduction.rst:115
+msgid "PC-BSD® provides the following features:"
+msgstr "PC-BSD® bietet folgende Funktionen:"
+
+#: ../../introduction.rst:117
+msgid "**Easy installation:** to install either a graphical desktop or command-line server version of PC-BSD®, simply insert the installation media, reboot the system to start the installer, and answer a few questions in the installation menus."
+msgstr ""
+"**Einfache Installation:** um eine Version, entweder als grafischen Desktop "
+"oder als Server mit Kommandozeile, von PC-BSD® zu installieren, einfach das "
+"Medium für die Installation einführen, das System neu booten, um das "
+"Installationsprogramm starten, und einige Fragen in den grafischen Menüs "
+"beantworten."
+
+#: ../../introduction.rst:120
+msgid "**Automatically configured hardware:** video, sound, network, and other devices are automatically configured for you."
+msgstr ""
+"**Automatisch konfigurierte Hardware:** Video-, Sound-, Netzwerk- und andere "
+"Geräte sind automatisch für Sie konfiguriert."
+
+#: ../../introduction.rst:122
+msgid "**Intuitive desktop interface:** PC-BSD® comes with a choice of :ref:`Desktops` to support your day-to-day computing needs."
+msgstr ""
+"**Intuitive Schnittstelle zur Arbeitsoberfläche:** PC-BSD® kommt mit einer "
+"Auswahl an :ref:`Arbeitsoberflächen`, um Ihre tagtäglichen Bedürfnisse am "
+"Computer zu unterstützen."
+
+#: ../../introduction.rst:124
+msgid "**Easy software management:** with :ref:`AppCafe®`, installing, upgrading, and uninstalling software is safe and easy."
+msgstr ""
+"**Einfache Verwaltung der Software:** mit :ref:`AppCafe®` ist Installieren, "
+"Aktualisieren und Deinstallieren von Software sicher und einfach."
+
+#: ../../introduction.rst:126
+msgid "**Lots of software available:** in addition to its own software, PC-BSD® can install software that has been ported to FreeBSD (currently over 24,700 applications)."
+msgstr ""
+"**Vielzahl von Software verfügbar:** in Ergänzung zu seiner eigenen "
+"Software, kann PC-BSD® Software installieren, die für FreeBSD portiert wurde "
+"(aktuell über 24.700 Anwendungen)."
+
+#: ../../introduction.rst:129
+msgid "**Easy to update:** PC-BSD® provides a built-in :ref:`Update Manager` that will notify you of available updates and allow you to apply operating system security fixes, bug fixes, and system enhancements as well as upgrade to newer versions of the operating system or installed software."
+msgstr ""
+"**Einfach zu aktualisieren:** PC-BSD® bietet eine eingebaute "
+":ref:`Aktualisierungsverwaltung`, die Sie zu verfügbare Aktualisierungen "
+"benachrichtigt und es Ihnen erlaubt Behebungen von Fehlern bei der "
+"Sicherheit des Betriebssystems, Behebung von Defekten, Erweiterungen des "
+"Systems, wie auch das Hochrüsten auf neuere Versionen des Betriebssystems "
+"oder der installierten Software anzuwenden."
+
+#: ../../introduction.rst:132
+msgid "**Virus-free:** PC-BSD® is not affected by viruses, spyware, or other malware."
+msgstr ""
+"**Virusfrei:** PC-BSD® ist nicht von Viren, Spionagesoftware oder anderer "
+"Schadsoftware befallen."
+
+#: ../../introduction.rst:134
+msgid "**No defragmentation:** PC-BSD® hard drives do not need to be defragmented and do not slow down over time. PC-BSD® uses OpenZFS which is a self-healing filesystem."
+msgstr ""
+"**Keine Defragmentierung:** Festplatten bei PC-BSD® brauchen nicht "
+"defragmentiert werden und verlangsamen sich nicht über die Zeit. PC-BSD® "
+"benutzt OpenZFS, was ein selbstheilendes Dateisystem ist."
+
+#: ../../introduction.rst:137
+msgid "**Laptop support:** provides power saving and swap space encryption and automatically switches between wired and wifi network connections."
+msgstr ""
+"**Unterstützung von Laptops:** bietet Energiesparen und die Verschlüsslung "
+"von SWAP-Speicher sowie automatisches Umschalten zwischen kabelgebundenen "
+"und drahtlosen Netzwerkverbindungen."
+
+#: ../../introduction.rst:139
+msgid "**Secure environment:** PC-BSD® provides a pre-configured firewall and a built-in host-based Intrusion Detection System."
+msgstr ""
+"**Sichere Umgebung:** PC-BSD® bietet eine vorkonfigurierte Firewall sowie "
+"ein eingebautes, auf den Host basierendes Angrifferkennungssystem."
+
+#: ../../introduction.rst:141
+msgid "**Easy system administration:** PC-BSD® provides a :ref:`Control Panel` containing many graphical tools for performing system administration tasks."
+msgstr ""
+"**Einfache Administration vom System:** PC-BSD® bietet ein "
+":ref:`Systemsteuerung`, welches viele grafischen Werkzeuge zum Ausführen von "
+"administrativen Aufgaben beinhaltet."
+
+#: ../../introduction.rst:143
+msgid "**Localization:** PC-BSD® supports a number of native languages and locales."
+msgstr ""
+"**Regionalisierung:** PC-BSD® unterstützt eine Vielzahl von grundsätzlichen "
+"Sprachen und Regionales."
+
+#: ../../introduction.rst:145
+msgid "**Vibrant community:** PC-BSD® has a friendly and helpful community."
+msgstr ""
+"**Lebhafte Gemeinschaft:** PC-BSD® hat eine freundliche und hilfreiche "
+"Gemeinschaft."
+
+#: ../../introduction.rst:147
+msgid "**Professional support:** professional email and phone support is available from `iXsystems <https://www.ixsystems.com/support/>`_."
+msgstr ""
+"**Professionelle Unterstützung:** professionelle Unterstützung per E-Mail "
+"und Telefon sind von `iXsystems <https://www.ixsystems.com/support/>`_ "
+"verfügbar."
+
+#: ../../introduction.rst:154
+msgid "What's New in |version|"
+msgstr "Was ist neu bei |version|"
+
+#: ../../introduction.rst:156
+msgid "The following features or enhancements were introduced for PC-BSD® |version|:"
+msgstr ""
+"Die folgenden Funktionalitäten oder Erweiterungen wurden wurden bei PC-BSD® "
+"|version|:"
+
+#: ../../introduction.rst:158
+msgid "Based on FreeBSD 11.0 which adds these `features <https://www.freebsd.org/releases/11.0R/relnotes.html>`_."
+msgstr ""
+
+#: ../../introduction.rst:160
+msgid "The GRUB bootloader has been replaced by the FreeBSD bootloader, which provides both GELI and Boot Environment support."
+msgstr ""
+
+#: ../../introduction.rst:162
+msgid "Lumina has been updated to `0.8.8 <http://lumina-desktop.org/lumina-desktop-0-8-8-released/>`_."
+msgstr ""
+
+#: ../../introduction.rst:164
+msgid "The sysadm client and server utilities have been added, creating powerful new user friendly options for system management."
+msgstr ""
+
+#: ../../introduction.rst:166
+msgid "freebsd-update has been retired in favor of using \"pkg\" for system updates."
+msgstr ""
+
+#: ../../introduction.rst:172
+msgid "PC-BSD® for Linux Users"
+msgstr "PC-BSD® für Benutzerinnen und Benutzer von Linux"
+
+#: ../../introduction.rst:174
+msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
+msgstr ""
+"PC-BSD® basiert auf FreeBSD, was bedeutet, dass es keine Distribution von "
+"Linux ist. Wenn Sie zuvor Linux benutzt habe, werden Sie der Meinung sein, "
+"dass einige Funktionen, die Sie benutzten, auf einem BSD-System andere Namen "
+"haben und dass einige Kommandos anders sind. Dieser Abschnitt behandelt "
+"einige dieser Unterschiede."
+
+#: ../../introduction.rst:180
+msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
+msgstr ""
+"BSD und Linux benutzen unterschiedliche Dateisysteme während der "
+"Installation. Viele Linux-Distributionen verwenden EXT2, EXT3, EXT4 oder "
+"ReiserFS, während PC-BSD® OpenZFS nutzt. Das bedeutet, dass wenn sie Dual-"
+"Boot mit Linux wünschen oder auf Daten auf einer externen Festplatte "
+"zugreifen, die mit einem anderen Dateisystem formatiert wurden, werden Sie "
+"zuerst ein wenig Forschung betreiben müssen, um zu sehen, ob die Daten von "
+"beiden Betriebssystemen zugänglich sind."
+
+#: ../../introduction.rst:184
+msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
+msgstr ""
+"Die Tabelle 1.3a fasst die verschiedenen Dateisysteme zusammen, die häufig "
+"von Desktop-Systemen eingesetzt werden. Die meisten bei PC-BSD® verfügbaren "
+"Desktop-Verwaltungen sollten automatisch die folgenden Dateisysteme "
+"unterstützen: FAT16, FAT32, EXT2, EXT3 (ohne Journaling), EXT4 (read-only), "
+"NTFS5, NTFS6 und XFS. Schauen Sie sich den Abschnitt bei :ref:`Dateien und "
+"Teilen von Dateien` für weitere Informationen über die verfügbaren Werkzeuge "
+"dür Dateiverwaltung an."
+
+#: ../../introduction.rst:188
+msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
+msgstr "**Tabelle 1.3a: Unterstützung von Dateisystemen bei PC-BSD®**"
+
+#: ../../introduction.rst:191
+msgid "Filesystem"
+msgstr "Dateisystem"
+
+#: ../../introduction.rst:191
+msgid "Native to"
+msgstr "Nativ für"
+
+#: ../../introduction.rst:191
+msgid "Type of non-native support"
+msgstr "Typ von nicht nativer Unterstützung"
+
+#: ../../introduction.rst:191
+msgid "**Usage notes**"
+msgstr "**Anmerkungen zur Benutzungen**"
+
+#: ../../introduction.rst:193
+msgid "Btrfs"
+msgstr "Btrfs"
+
+#: ../../introduction.rst:193
+#: ../../introduction.rst:197
+#: ../../introduction.rst:199
+#: ../../introduction.rst:204
+#: ../../introduction.rst:215
+#: ../../introduction.rst:221
+#: ../../introduction.rst:245
+msgid "Linux"
+msgstr "Linux"
+
+#: ../../introduction.rst:193
+#: ../../introduction.rst:195
+#: ../../introduction.rst:212
+#: ../../introduction.rst:215
+msgid "none"
+msgstr "nein"
+
+#: ../../introduction.rst:195
+msgid "exFAT"
+msgstr "exFAT"
+
+#: ../../introduction.rst:195
+#: ../../introduction.rst:208
+#: ../../introduction.rst:210
+#: ../../introduction.rst:217
+#: ../../introduction.rst:219
+msgid "Windows"
+msgstr "Windows"
+
+#: ../../introduction.rst:195
+msgid "requires a license from Microsoft"
+msgstr "benötigt eine Lizenz von Microsoft"
+
+#: ../../introduction.rst:197
+msgid "EXT2"
+msgstr "EXT2"
+
+#: ../../introduction.rst:197
+#: ../../introduction.rst:199
+#: ../../introduction.rst:208
+#: ../../introduction.rst:210
+#: ../../introduction.rst:219
+msgid "r/w support loaded by default"
+msgstr "Unterstützung für r/w (lesen/schreiben) wird als Voreinstellung geladen"
+
+#: ../../introduction.rst:199
+msgid "EXT3"
+msgstr "EXT3"
+
+#: ../../introduction.rst:199
+msgid "since EXT3 journaling is not supported, you will not be able to mount a filesystem requiring a journal replay unless you :command:`fsck` it using an external utility such as `e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
+msgstr ""
+"seit Journalisieren (journaling) von EXT3 nicht unterstützt ist, wird es "
+"Ihnen nicht möglich sein ein Dateisystem einzuhängen, was die Wiedergabe "
+"eines Journals benötigt, solange Sie es nicht mit :command:`fsck` behandeln "
+"indem Sie externe Dienstprogramme wie `e2fsprogs "
+"<http://e2fsprogs.sourceforge.net>`_ benutzen"
+
+#: ../../introduction.rst:204
+msgid "EXT4"
+msgstr "EXT4"
+
+#: ../../introduction.rst:204
+msgid "r/o support loaded by default"
+msgstr "Unterstützung für r/o (nur lesen) wird als Voreinstellung geladen"
+
+#: ../../introduction.rst:204
+msgid "EXT3 journaling, extended attributes, and inodes greater than 128 bytes are not supported; EXT3 filesystems converted to EXT4 may have better performance"
+msgstr ""
+"Journalisieren (journaling) von EXT3, erweiterte Attribute, und Inodes "
+"größer als 128 Bytes sind nicht unterstützt; Dateisysteme EXT3 zu EXT4 "
+"konvertiert könnten bessere Leistung haben"
+
+#: ../../introduction.rst:208
+msgid "FAT16"
+msgstr "FAT16"
+
+#: ../../introduction.rst:210
+msgid "FAT32"
+msgstr "FAT32"
+
+#: ../../introduction.rst:212
+msgid "HFS+"
+msgstr "HFS+"
+
+#: ../../introduction.rst:212
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+#: ../../introduction.rst:212
+msgid "older Mac versions might work with `hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
+msgstr ""
+"ältere Versionen von Mac könnten mit `hfsexplorer "
+"<http://www.catacombae.org/hfsexplorer>`_ funktionieren"
+
+#: ../../introduction.rst:215
+msgid "JFS"
+msgstr "JFS"
+
+#: ../../introduction.rst:217
+msgid "NTFS5"
+msgstr "NTFS5"
+
+#: ../../introduction.rst:217
+msgid "full r/w support loaded by default"
+msgstr ""
+"volle Unterstützung für r/w (lesen/schreiben) wird als Voreinstellung geladen"
+
+#: ../../introduction.rst:219
+msgid "NTFS6"
+msgstr "NTFS6"
+
+#: ../../introduction.rst:221
+msgid "ReiserFS"
+msgstr "ReiserFS"
+
+#: ../../introduction.rst:221
+msgid "r/o support is loaded by default"
+msgstr "Unterstützung für r/o (nur lesen) wird als Voreinstellung geladen"
+
+#: ../../introduction.rst:223
+msgid "UFS2"
+msgstr "UFS2"
+
+#: ../../introduction.rst:223
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+#: ../../introduction.rst:223
+msgid "check if your Linux distro provides ufsutils; r/w support on Mac; UFS Explorer can be used on Windows"
+msgstr ""
+"prüfen Sie, ob Ihre Linux-Distribution ufsutils anbietet; Unterstützung r/w ("
+"lesen und schreiben) bei Mac; UFS Explorer kann bei Windows benutzt werden"
+
+#: ../../introduction.rst:225
+msgid "changed to r/o support in Mac Lion"
+msgstr "geändert auf Unterstützung r/o (nur lesen) bei Mac Lion"
+
+#: ../../introduction.rst:227
+msgid "ZFS"
+msgstr "ZFS"
+
+#: ../../introduction.rst:227
+msgid "PC-BSD, FreeBSD"
+msgstr "PC-BSD, FreeBSD"
+
+#: ../../introduction.rst:232
+msgid "Linux and BSD use different naming conventions for devices. For example:"
+msgstr ""
+"Linux und BSD verwenden unterschiedliche Namenskonventionen für Geräte. Zum "
+"Beispiel:"
+
+#: ../../introduction.rst:234
+msgid "in Linux, Ethernet interfaces begin with :file:`eth`; in BSD, interface names indicate the name of the driver. For example, an Ethernet interface may be listed as :file:`re0`, indicating that it uses the Realtek :file:`re` driver. The advantage of this convention is that you can read the **man 4** page for the driver (e.g. type :command:`man 4 re`) to see which models and features are provided by that driver."
+msgstr ""
+"bei Linux beginnen Schnittstellen für Ethernet mit :file:`eth`, bei BSD, "
+"weisen Namen für eine Schnittstelle auf den Treiber hin. Zum Beispiel könnte "
+"eine Schnittstelle für Ethernet als :file:`re0` gelistet, darauf hinweisen, "
+"dass sie den Treiber Realtek :file:`re` benutzt. Der Vorteil dieser "
+"Konvention ist, dass Sie die Seite **man 4** für den Treiber lesen können ("
+"z.B. tippen Sie :command:`man 4 re`), um zu sehen welche Modelle und "
+"Funktionalitäten bei diesem Treiber angeboten werden."
+
+#: ../../introduction.rst:238
+msgid "BSD disk names differ from Linux. IDE drives begin with :file:`ad` and SCSI and USB drives begin with :file:`da`."
+msgstr ""
+"Festplattenbezeichnungen bei BSD unterscheiden sich zu Linux. IDE-Laufwerke "
+"beginnen mit :file:`ad` und SCSI- und USB-Laufwerke beginnen mit :file:`da`."
+
+#: ../../introduction.rst:240
+msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
+msgstr ""
+"Einige der vom BSD verwendeten Funktionalitäten haben ähnliche Gegenstücke "
+"zu Linux, aber die Namen der Funktion ist unterschiedlich. Tabelle 1.3b "
+"bietet einige übliche Beispiele:"
+
+#: ../../introduction.rst:242
+msgid "**Table 1.3b: Names for BSD and Linux Features**"
+msgstr "**Table 1.3b: Namen für Funktionalitäten für BSD und Linux**"
+
+#: ../../introduction.rst:245
+msgid "PC-BSD"
+msgstr "PC-BSD"
+
+#: ../../introduction.rst:245
+msgid "**Description**"
+msgstr "**Beschreibung**"
+
+#: ../../introduction.rst:247
+msgid "IPFW"
+msgstr "IPFW"
+
+#: ../../introduction.rst:247
+msgid "iptables"
+msgstr "iptables"
+
+#: ../../introduction.rst:247
+msgid "default firewall"
+msgstr "voreingestellte Firewall"
+
+#: ../../introduction.rst:249
+msgid ":file:`/etc/rc.d/` for operating system and :file:`/usr/local/etc/rc.d/` for applications"
+msgstr ""
+":file:`/etc/rc.d/` fürs Betriebssystem und :file:`/usr/local/etc/rc.d/` für "
+"Anwendungen"
+
+#: ../../introduction.rst:249
+msgid ":file:`rc0.d/`, :file:`rc1.d/`, etc."
+msgstr ":file:`rc0.d/`, :file:`rc1.d/`, etc."
+
+#: ../../introduction.rst:249
+msgid "in PC-BSD the directories containing the startup scripts do not link to runlevels as there are no runlevels; system startup scripts are separated from third-party application scripts"
+msgstr ""
+"bei PC-BSD beinhalten die Verzeichnisse die Scripte zum anfänglicher Starten "
+"welche nicht zu den Runlevels verweisen, als wären da keine Runlevels; "
+"Scripte zum anfänglicher Starten des Systems sind von Scripten für "
+"Anwendungen von Dritten getrennt"
+
+#: ../../introduction.rst:253
+msgid ":file:`/etc/ttys` and :file:`/etc/rc.conf`"
+msgstr ":file:`/etc/ttys` und :file:`/etc/rc.conf`"
+
+#: ../../introduction.rst:253
+msgid ":command:`telinit`, :file:`init.d/`"
+msgstr ":command:`telinit`, :file:`init.d/`"
+
+#: ../../introduction.rst:253
+msgid "terminals are configured in *ttys* and *rc.conf* indicates which services will start at boot time"
+msgstr ""
+"Terminals sind in *ttys* konfiguriert und *rc.conf* weist darauf hin, welche "
+"Dienste zur Boot-Zeit gestartet werden"
+
+#: ../../introduction.rst:257
+msgid "If you are comfortable with the command line, you may find that some of the commands that you are used to have different names on BSD. Table 1.3c lists some common commands and what they are used for."
+msgstr ""
+"Wenn Sie sich auf der Kommandozeile wohlfühlen, könnten Sie finden, dass "
+"einige der Kommandos die Sie benutzen, bei BSD andere Namen haben. Tabelle "
+"1.3c listet einige übliche Kommandos auf und benennt wofür sie benutzt "
+"werden."
+
+#: ../../introduction.rst:260
+msgid "**Table 1.3c: Common BSD and Linux Commands**"
+msgstr "**Table 1.3c: Übliche Kommandos bei BSD und Linux**"
+
+#: ../../introduction.rst:263
+msgid "Command"
+msgstr "Kommando"
+
+#: ../../introduction.rst:263
+msgid "**Used to:**"
+msgstr "**Benutzt für:**"
+
+#: ../../introduction.rst:265
+msgid ":command:`dmesg`"
+msgstr ":command:`dmesg`"
+
+#: ../../introduction.rst:265
+msgid "discover what hardware was detected by the kernel"
+msgstr "deckt auf welche Hardware vom Kernel entdeckt wurde"
+
+#: ../../introduction.rst:267
+msgid ":command:`sysctl dev`"
+msgstr ":command:`sysctl dev`"
+
+#: ../../introduction.rst:267
+msgid "display configured devices"
+msgstr "zeige konfigurierte Geräte"
+
+#: ../../introduction.rst:269
+msgid ":command:`pciconf -l -cv`"
+msgstr ":command:`pciconf -l -cv`"
+
+#: ../../introduction.rst:269
+msgid "show PCI devices"
+msgstr "zeige PCI-Geräte"
+
+#: ../../introduction.rst:271
+msgid ":command:`dmesg | grep usb`"
+msgstr ":command:`dmesg | grep usb`"
+
+#: ../../introduction.rst:271
+msgid "show USB devices"
+msgstr "zeige USB-Geräte"
+
+#: ../../introduction.rst:273
+msgid ":command:`kldstat`"
+msgstr ":command:`kldstat`"
+
+#: ../../introduction.rst:273
+msgid "list all modules loaded in the kernel"
+msgstr "liste alle Module, die in den Kernel geladen sind"
+
+#: ../../introduction.rst:275
+msgid ":command:`kldload <module>`"
+msgstr ":command:`kldload <module>`"
+
+#: ../../introduction.rst:275
+msgid "load a kernel module for the current session"
+msgstr "lade ein Kernelmodul für die aktuelle Sitzung"
+
+#: ../../introduction.rst:277
+msgid ":command:`pbi_add -r <pbiname>`"
+msgstr ":command:`pbi_add -r <pbiname>`"
+
+#: ../../introduction.rst:277
+msgid "install software from the command line"
+msgstr "installiere Software von der Kommandozeile"
+
+#: ../../introduction.rst:279
+msgid ":command:`sysctl hw.realmem`"
+msgstr ":command:`sysctl hw.realmem`"
+
+#: ../../introduction.rst:279
+msgid "display hardware memory"
+msgstr "zeige Hardware-Speicher"
+
+#: ../../introduction.rst:281
+msgid ":command:`sysctl hw.model`"
+msgstr ":command:`sysctl hw.model`"
+
+#: ../../introduction.rst:281
+msgid "display CPU model"
+msgstr "zeige Modell der CPU"
+
+#: ../../introduction.rst:283
+msgid ":command:`sysctl hw.machine_arch`"
+msgstr ":command:`sysctl hw.machine_arch`"
+
+#: ../../introduction.rst:283
+msgid "display CPU Architecture"
+msgstr "zeige Architektur der CPU"
+
+#: ../../introduction.rst:285
+msgid ":command:`sysctl hw.ncpu`"
+msgstr ":command:`sysctl hw.ncpu`"
+
+#: ../../introduction.rst:285
+msgid "display number of CPUs"
+msgstr "zeige die Anzahl von CPUs"
+
+#: ../../introduction.rst:287
+msgid ":command:`uname -vm`"
+msgstr ":command:`uname -vm`"
+
+#: ../../introduction.rst:287
+msgid "get release version information"
+msgstr "bekomme die Information zur Version der Veröffentlichung"
+
+#: ../../introduction.rst:289
+msgid ":command:`gpart show`"
+msgstr ":command:`gpart show`"
+
+#: ../../introduction.rst:289
+msgid "show device partition information"
+msgstr "zeige die Information zur Partitionierung des Gerätes"
+
+#: ../../introduction.rst:291
+msgid ":command:`fuser`"
+msgstr ":command:`fuser`"
+
+#: ../../introduction.rst:291
+msgid "list IDs of all processes that have one or more files open"
+msgstr ""
+"liste die IDs von allen Prozessen, die eine oder mehre Dateien geöffnet haben"
+
+#: ../../introduction.rst:294
+msgid "The following articles and videos provide additional information about some of the differences between BSD and Linux:"
+msgstr ""
+"Die folgenden Artikel und Videos bieten zusätzliche Informationen über "
+"einige der Unterschiede zwischen BSD und Linux:"
+
+#: ../../introduction.rst:296
+msgid "`Comparing BSD and Linux <http://www.freebsd.org/doc/en/articles/explaining-bsd/comparing-bsd-and-linux.html>`_"
+msgstr ""
+"`Ein Vergleich zwischen BSD und Linux "
+"<https://www.freebsd.org/doc/de/articles/explaining-bsd/comparing-bsd-and-"
+"linux.html>`_"
+
+#: ../../introduction.rst:298
+msgid "`FreeBSD Quickstart Guide for Linux® Users <http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
+msgstr ""
+"`FreeBSD Quickstart Guide for Linux® Users (leider bisher nur in Englisch) "
+"<http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
+
+#: ../../introduction.rst:300
+msgid "`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
+msgstr ""
+"`BSD vs Linux (Englisch) <http://www.over-"
+"yonder.net/~fullermd/rants/bsd4linux/01>`_"
+
+#: ../../introduction.rst:302
+msgid "`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
+msgstr ""
+"`Why Choose FreeBSD? (Englisch) "
+"<http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
+
+#: ../../introduction.rst:304
+msgid "`Interview: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-beings-interview/>`_"
+msgstr ""
+"`Interview: BSD for Human Beings (Englisch) <http://www.unixmen.com/bsd-for-"
+"human-beings-interview/>`_"
+
+#: ../../introduction.rst:306
+msgid "`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
+msgstr ""
+"`Video: BSD 4 Linux Users (Englisch) "
+"<https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
+
+#: ../../introduction.rst:308
+msgid "`Why you should use a BSD style license for your Open Source Project <http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
+msgstr ""
+"`Why you should use a BSD style license for your Open Source Project "
+"(Englisch) <http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
+
+#: ../../introduction.rst:310
+msgid "`A Sysadmin's Unixersal Translator (ROSETTA STONE) <http://bhami.com/rosetta.html>`_"
+msgstr ""
+"`A Sysadmin's Unixersal Translator (ROSETTA STONE) (Englisch) "
+"<http://bhami.com/rosetta.html>`_"
