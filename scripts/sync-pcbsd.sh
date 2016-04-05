@@ -18,6 +18,7 @@ fi
 if [ -d "$GITPATH" ] ; then
    rm -rf ${GITPATH}
 fi
+echo "git clone --depth=1 -b $GBRANCH https://github.com/pcbsd/pcbsd.git ${GITPATH}"
 git clone --depth=1 -b $GBRANCH https://github.com/pcbsd/pcbsd.git ${GITPATH}
 
 PROJECTCONF="${GITPATH}/i18n-projects"
