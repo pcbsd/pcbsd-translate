@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ca">
 <context>
     <name>BulkModuleDialog</name>
     <message>
@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració</translation>
     </message>
     <message>
         <source>Base Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Directori base</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation>Categoria</translation>
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
@@ -37,43 +37,43 @@
     </message>
     <message>
         <source>Graphical Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions gràfiques</translation>
     </message>
     <message>
         <source>Text Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions de text</translation>
     </message>
     <message>
         <source>Server Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicacions de servidor</translation>
     </message>
     <message>
         <source>Other (libraries, meta packages, etc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altres (llibreries, metapaquets, etc)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicia</translation>
     </message>
     <message>
         <source>Current Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progrés actual</translation>
     </message>
     <message>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation type="unfinished"></translation>
+        <translation>Estadístiques</translation>
     </message>
     <message>
         <source>New Graphical Modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mòduls gràfics nous:</translation>
     </message>
     <message>
         <source>New Server Modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mòduls de servidor nous:</translation>
     </message>
     <message>
         <source>New Text Modules:</source>
@@ -89,23 +89,23 @@
     </message>
     <message>
         <source>New Other Modules:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altres mòduls nous:</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Atura</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanca</translation>
     </message>
     <message>
         <source>Nothing Run Yet</source>
-        <translation type="unfinished"></translation>
+        <translation>Encara no s&apos;ha executat res</translation>
     </message>
     <message>
         <source>Checking %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprovant %1</translation>
     </message>
     <message>
         <source>%1: Removing old module</source>
@@ -176,15 +176,15 @@
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Canvia</translation>
     </message>
     <message>
         <source>Repository Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informació del repositori</translation>
     </message>
     <message>
         <source>Search Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiquetes de cerca</translation>
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
@@ -192,7 +192,7 @@
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectors</translation>
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
@@ -224,7 +224,7 @@
     </message>
     <message>
         <source>Author</source>
-        <translation type="unfinished"></translation>
+        <translation>Autor</translation>
     </message>
     <message>
         <source>Icon that will be used for the program (PNG resources available)</source>
@@ -232,11 +232,11 @@
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Icona</translation>
     </message>
     <message>
         <source>App Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipus d&apos;aplicació</translation>
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>URL of the main website for the target program</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>+ Packages</source>
-        <translation type="unfinished"></translation>
+        <translation> + Paquets</translation>
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
@@ -288,7 +288,7 @@
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Resum</translation>
     </message>
     <message>
         <source>Short description of the application</source>
@@ -296,7 +296,7 @@
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation>Descripció</translation>
     </message>
     <message>
         <source>Full description of the application</source>
@@ -348,7 +348,7 @@
     </message>
     <message>
         <source>Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Executable</translation>
     </message>
     <message>
         <source>Binary to be run when the item is activated</source>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Categoria</translation>
     </message>
     <message>
         <source>Menu category for the item to be located.</source>

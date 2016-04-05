@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"></translation>
+        <translation>Recupera el fitxer</translation>
     </message>
     <message>
         <source>Restore Dataset</source>
@@ -670,7 +670,7 @@
     </message>
     <message>
         <source>Configuring dataset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuració del conjunt de dades: %1</translation>
     </message>
     <message>
         <source>Reminder</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
-        <translation type="unfinished"></translation>
+        <translation>No oblideu desar la clau SSH en una memòria USB per tal que pugueu restaurar el sistema des d&apos;un amfitrió remot més endavant!</translation>
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
@@ -766,7 +766,7 @@
     </message>
     <message>
         <source>Home Dir Package (*.home.tar.gz)</source>
-        <translation type="unfinished"></translation>
+        <translation>Paquet del directori personal (*.home.tar.gz)</translation>
     </message>
     <message>
         <source>User Missing</source>
@@ -790,7 +790,7 @@
     </message>
     <message>
         <source>Package Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallada de paquet</translation>
     </message>
     <message>
         <source>The package could not be extracted within %1</source>
@@ -806,27 +806,27 @@
     </message>
     <message>
         <source>NOTE: This may take quite a while to complete</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTA: això pot trigar força estona a fer-se</translation>
     </message>
     <message>
         <source>Trying to start a scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;intenta iniciar una fregada</translation>
     </message>
     <message>
         <source>Scrub Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Fregada iniciada</translation>
     </message>
     <message>
         <source>A scrub has just been started on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;acaba d&apos;iniciar una fregada a %1</translation>
     </message>
     <message>
         <source>Scrub Not Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Fregada no iniciada</translation>
     </message>
     <message>
         <source>A scrub on %1 could not be started at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;ha pogut iniciar una fregada a %1 a aquesta hora.</translation>
     </message>
     <message>
         <source>Please wait until any current resilvering or scrubs are finished before trying again.</source>
