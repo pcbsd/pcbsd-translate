@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PC-BSD User Guide 11.0\n"
+"Project-Id-Version: PC-BSD User Guide 10.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-06 08:22-0700\n"
+"POT-Creation-Date: 2016-04-06 10:48-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,11 +41,11 @@ msgid "PC-BSD® Forums"
 msgstr ""
 
 #: ../../help.rst:24
-msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are replied to quickly. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
+msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are quickly answered. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
 msgstr ""
 
 #: ../../help.rst:28
-msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some things along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
+msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some new information along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
 msgstr ""
 
 #: ../../help.rst:34
@@ -65,7 +65,7 @@ msgid "`Desktop Questions and Support <https://forums.pcbsd.org/forum-13.html>`_
 msgstr ""
 
 #: ../../help.rst:43
-msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server-related topics."
+msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server related topics."
 msgstr ""
 
 #: ../../help.rst:45
@@ -125,274 +125,278 @@ msgid "`German <https://forums.pcbsd.org/forum-46.html>`_"
 msgstr ""
 
 #: ../../help.rst:76
-msgid "`Japanese <https://forums.pcbsd.org/forum-50.html>`_"
+msgid "`Italian <https://forums.pcbsd.org/forum-85.html>`_"
 msgstr ""
 
 #: ../../help.rst:78
-msgid "`Russian <https://forums.pcbsd.org/forum-49.html>`_"
+msgid "`Japanese <https://forums.pcbsd.org/forum-50.html>`_"
 msgstr ""
 
 #: ../../help.rst:80
-msgid "`Slovene <https://forums.pcbsd.org/forum-48.html>`_"
+msgid "`Russian <https://forums.pcbsd.org/forum-49.html>`_"
 msgstr ""
 
 #: ../../help.rst:82
-msgid "`Spanish <https://forums.pcbsd.org/forum-44.html>`_"
+msgid "`Slovenian <https://forums.pcbsd.org/forum-48.html>`_"
 msgstr ""
 
 #: ../../help.rst:84
-msgid "While logged into the forums, you can click your username towards the upper right corner to edit your profile, options, avatar, signature, or buddy list."
+msgid "`Spanish <https://forums.pcbsd.org/forum-44.html>`_"
 msgstr ""
 
 #: ../../help.rst:86
+msgid "While logged into the forums, you can click your username towards the upper right corner to edit your profile, options, avatar, signature, or buddy list."
+msgstr ""
+
+#: ../../help.rst:88
 msgid "Before asking a question on the forums or starting a new thread, first use the search utility to see if a similar thread already exists. If one does, you can add to the conversation by using the \"Reply to this topic\" button. If you find a thread useful, feel free to click the \"Add Thank You\" button to let the original poster know that you benefited from their knowledge."
 msgstr ""
 
-#: ../../help.rst:90
+#: ../../help.rst:92
 msgid "If a similar thread does not already exist, review the forum categories to determine which one is the best fit for your post. When creating a new thread, use a useful \"Thread Subject\" to describe your problem or question--remember, other users may be researching a similar issue and you want them to find your thread. Include enough details in your message so that others can quickly understand what you are experiencing--otherwise, they will have to ask you additional questions to understand your problem. Make sure you are subscribed to your thread so that you will receive a notification when someone responds to it."
 msgstr ""
 
-#: ../../help.rst:95
+#: ../../help.rst:97
 msgid "You can ask a question by clicking on the \"Start new topic\" button in the forum category that most closely matches your question. If you do not see a category that matches your question, try the \"Desktop Questions and Support\" category."
 msgstr ""
 
-#: ../../help.rst:98
+#: ../../help.rst:100
 msgid "In addition to the forums available from the PC-BSD® Forums website, the following forums may assist you in troubleshooting your PC-BSD® system:"
 msgstr ""
 
-#: ../../help.rst:100
+#: ../../help.rst:102
 msgid "`FreeBSD Forums <https://forums.freebsd.org/>`_: many PC-BSD® problems are related to the underlying FreeBSD operating system. The FreeBSD forums are very active and full of useful information that can apply to your PC-BSD® system."
 msgstr ""
 
-#: ../../help.rst:103
+#: ../../help.rst:105
 msgid "`BSD Foren <http://www.bsdforen.de/index.php>`_: these forums are in German and contain many categories for each of the BSD operating systems."
 msgstr ""
 
-#: ../../help.rst:105
+#: ../../help.rst:107
 msgid "`BSD Guru PC-BSD® Forum <http://www.bsdguru.org/dyskusja/viewforum.php?f=45>`_: this forum is in Polish and is specific to PC-BSD®, forums for the other BSD operating systems are also available at `BSD Guru <http://www.bsdguru.org/dyskusja/>`_."
 msgstr ""
 
-#: ../../help.rst:112
+#: ../../help.rst:114
 msgid "PC-BSD® IRC Channel"
 msgstr ""
 
-#: ../../help.rst:114
-msgid "Like many open source projects, PC-BSD® has an `IRC Channel <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
-msgstr ""
-
-#: ../../help.rst:117
-msgid "**Server name:** irc.freenode.net"
+#: ../../help.rst:116
+msgid "Like many open source projects, PC-BSD® has an :wikipedia:`Internet Relay Chat` (IRC) channel so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
 msgstr ""
 
 #: ../../help.rst:119
-msgid "**Channel name:** #pcbsd (note that the # is required)"
+msgid "**Server name:** irc.freenode.net"
 msgstr ""
 
 #: ../../help.rst:121
-msgid ":ref:`AppCafe®` has an IRC category where you can find PBIs for IRC clients. If you do not wish to install an IRC client, you can instead use the `web interface to #pcbsd <http://www.pcbsd.org/en/join-us-on-pcbsd.html>`_."
+msgid "**Channel name:** #pcbsd (note that the # is required)"
 msgstr ""
 
-#: ../../help.rst:124
-msgid "IRC is a great way to chat with other users and get answers to your questions. A few things to keep in mind if you ask a question on IRC:"
+#: ../../help.rst:123
+msgid ":ref:`AppCafe®` has an IRC category where you can find IRC client software. If you do not wish to install an IRC client, you can instead use the `web interface to #pcbsd <http://irc.lc/freenode/pcbsd>`_."
 msgstr ""
 
 #: ../../help.rst:126
+msgid "IRC is a great way to chat with other users and get answers to your questions. A few things to keep in mind if you ask a question on IRC:"
+msgstr ""
+
+#: ../../help.rst:128
 msgid "Most of the regular users are always logged in, even when they are away from their computer or are busy doing other things. If you do not get an answer right away, do **not** get mad, leave the channel, and never come back again. Stick around for a while to see if anyone responds."
 msgstr ""
 
-#: ../../help.rst:129
+#: ../../help.rst:131
 msgid "IRC users represent many different time zones. It is quite possible that it is late at night or very early in the morning for some users when you ask a question."
 msgstr ""
 
-#: ../../help.rst:132
+#: ../../help.rst:134
 msgid "Do not post error messages in the channel as the IRC software will probably kick you out for flooding and it is considered to be bad etiquette. Instead, use a pasting service such as `pastebin <http://pastebin.com/>`_ and refer to the URL on channel."
 msgstr ""
 
-#: ../../help.rst:135
+#: ../../help.rst:137
 msgid "Be polite and do not demand that others answer your question."
 msgstr ""
 
-#: ../../help.rst:137
+#: ../../help.rst:139
 msgid "It is considered rude to DM (direct message) someone who does not know you. If no one answers your question, do not start DMing people you do not know."
 msgstr ""
 
-#: ../../help.rst:139
+#: ../../help.rst:141
 msgid "The first time you join a channel, it is okay to say hi and introduce yourself."
 msgstr ""
 
-#: ../../help.rst:145
+#: ../../help.rst:147
 msgid "Mailing Lists"
 msgstr ""
 
-#: ../../help.rst:147
+#: ../../help.rst:149
 msgid "Mailing lists are a handy way to discuss problems, solutions, and requested features as they create a searchable archive of discussions. The PC-BSD® Project offers the following mailing lists to cover a wide variety of discussion topics:"
 msgstr ""
 
-#: ../../help.rst:150
+#: ../../help.rst:152
 msgid "`Announce <http://lists.pcbsd.org/mailman/listinfo/announce>`_: a read-only, low frequency list used by the PC-BSD® team to make announcements to the community."
 msgstr ""
 
-#: ../../help.rst:153
+#: ../../help.rst:155
 msgid "`Commits <http://lists.pcbsd.org/mailman/listinfo/commits>`_: lists commits as PC-BSD® code is added or modified by developers."
 msgstr ""
 
-#: ../../help.rst:155
+#: ../../help.rst:157
 msgid "`Dev <http://lists.pcbsd.org/mailman/listinfo/dev>`_: for discussion related to PC-BSD® technical development."
 msgstr ""
 
-#: ../../help.rst:157
+#: ../../help.rst:159
 msgid "`Docs <http://lists.pcbsd.org/mailman/listinfo/docs>`_: for communications between those who are involved, or interested in contributing to, the PC-BSD® documentation effort."
 msgstr ""
 
-#: ../../help.rst:160
+#: ../../help.rst:162
 msgid "`Testing <http://lists.pcbsd.org/mailman/listinfo/testing>`_:for those wishing to participate in PC-BSD® beta testing and feedback."
 msgstr ""
 
-#: ../../help.rst:162
+#: ../../help.rst:164
 msgid "`Translations <http://lists.pcbsd.org/mailman/listinfo/translations>`_: for those involved in translating for PC-BSD®."
 msgstr ""
 
-#: ../../help.rst:164
+#: ../../help.rst:166
 msgid "`Translations-notifications <http://lists.pcbsd.org/mailman/listinfo/translations-notifications>`_: lists documentation commits that affect translations"
 msgstr ""
 
-#: ../../help.rst:166
+#: ../../help.rst:168
 msgid "Each mailing list includes a description of topics suitable for discussion on that list and indicates if it is read only or available for user discussion. Anyone can read the archives of a list. If you wish to send an email to a mailing list, you will need to first subscribe to the list. The link for each mailing list provides an interface for subscribing to that list. When you send an email to the list, remember to use the mailing address that you used when you subscribed to the list."
 msgstr ""
 
-#: ../../help.rst:171
+#: ../../help.rst:173
 msgid "Several of the mailing lists are archived at `gmane <http://dir.gmane.org/index.php?prefix=gmane.os.pcbsd>`_. Gmane allows you to read the archives in several different formats. It also provides RSS feeds in various formats for keeping up-to-date on new messages and topics."
 msgstr ""
 
-#: ../../help.rst:174
+#: ../../help.rst:176
 msgid "In addition to the official mailing lists, there are mailing lists set up by PC-BSD® users. Many of these lists are designed for discussion in other languages. A list of alternative PC-BSD® mailing lists can be found at `Google groups <https://groups.google.com/forum/#!search/pc-bsd>`_."
 msgstr ""
 
-#: ../../help.rst:181
+#: ../../help.rst:183
 msgid "FreeBSD Handbook and FAQ"
 msgstr ""
 
-#: ../../help.rst:183
+#: ../../help.rst:185
 msgid "PC-BSD® uses FreeBSD as its underlying operating system, so everything in the `FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ and `FreeBSD FAQ <http://www.freebsd.org/doc/en/books/faq/>`_ applies to PC-BSD® as well. Both documents are comprehensive and cover nearly every task you can accomplish on a FreeBSD system. They are also an excellent resource for learning how things work under the hood of your PC-BSD® system."
 msgstr ""
 
-#: ../../help.rst:187
+#: ../../help.rst:189
 msgid "some configurations described in the FreeBSD Handbook already \"just work\" on your PC-BSD® system as they have been pre-configured for you. In these instances, reading that FreeBSD Handbook section can help you to understand how your system is configured and why it works."
 msgstr ""
 
-#: ../../help.rst:194
+#: ../../help.rst:196
 msgid "Social Media"
 msgstr ""
 
-#: ../../help.rst:196
+#: ../../help.rst:198
 msgid "The PC-BSD® project maintains several social media sites to help users keep up-to-date with what is happening and to provide venues for developers and users to network with each other. Anyone is welcome to join."
 msgstr ""
 
-#: ../../help.rst:199
-msgid "`Official PC-BSD® Blog <http://blog.pcbsd.org/>`_"
-msgstr ""
-
 #: ../../help.rst:201
-msgid "`PC-BSD® on Twitter <https://twitter.com/PCBSD/>`_"
+msgid "`Official PC-BSD® Blog <https://blog.pcbsd.org/>`_"
 msgstr ""
 
 #: ../../help.rst:203
-msgid "`PC-BSD® Facebook Group <https://www.facebook.com/groups/4210443834/>`_"
+msgid "`PC-BSD® on Twitter <https://twitter.com/PCBSD/>`_"
 msgstr ""
 
 #: ../../help.rst:205
-msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/b/118078374333558564924/>`_"
+msgid "`PC-BSD® Facebook Group <https://www.facebook.com/groups/4210443834/>`_"
 msgstr ""
 
 #: ../../help.rst:207
+msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/+pcbsd/posts>`_"
+msgstr ""
+
+#: ../../help.rst:209
 msgid "`PC-BSD® LinkedIn Group <http://www.linkedin.com/groups?gid=1942544>`_"
 msgstr ""
 
-#: ../../help.rst:213
+#: ../../help.rst:215
 msgid "Search and Portals"
 msgstr ""
 
-#: ../../help.rst:215
+#: ../../help.rst:217
 msgid "Many BSD related search portals exist. If you can not find the answer that you are looking for in the forums or mailing lists, try searching these websites:"
 msgstr ""
 
-#: ../../help.rst:217
+#: ../../help.rst:219
 msgid "`The OpenDirectory <http://www.dmoz.org/Computers/Software/Operating_Systems/Unix/BSD/>`_"
 msgstr ""
 
-#: ../../help.rst:219
+#: ../../help.rst:221
 msgid "`FreeBSD Search <http://www.freebsd.org/search/index.html>`_ (includes mailing list archives, man pages, and web pages)"
 msgstr ""
 
-#: ../../help.rst:221
+#: ../../help.rst:223
 msgid "`FreeBSD News <https://www.freebsdnews.com/>`_"
 msgstr ""
 
-#: ../../help.rst:223
+#: ../../help.rst:225
 msgid "`About BSD <http://aboutbsd.net/>`_"
 msgstr ""
 
-#: ../../help.rst:225
+#: ../../help.rst:227
 msgid "`BSD Guides <http://www.bsdguides.org/guides/>`_"
 msgstr ""
 
-#: ../../help.rst:227
-msgid "`Slashdot BSD <http://bsd.slashdot.org/>`_"
-msgstr ""
-
 #: ../../help.rst:229
-msgid "`DistroWatch <http://distrowatch.com/>`_"
+msgid "`Slashdot BSD <https://bsd.slashdot.org/>`_"
 msgstr ""
 
 #: ../../help.rst:231
+msgid "`DistroWatch <http://distrowatch.com/>`_"
+msgstr ""
+
+#: ../../help.rst:233
 msgid "`LinuxBSDos <http://linuxbsdos.com/>`_"
 msgstr ""
 
-#: ../../help.rst:237
+#: ../../help.rst:239
 msgid "Other Resources"
 msgstr ""
 
-#: ../../help.rst:239
+#: ../../help.rst:241
 msgid "The following BSD sites and resources may also contain useful information:"
 msgstr ""
 
-#: ../../help.rst:241
+#: ../../help.rst:243
 msgid "`The FreeBSD Diary <http://www.freebsddiary.org/>`_"
 msgstr ""
 
-#: ../../help.rst:243
+#: ../../help.rst:245
 msgid "`PC-BSD® YouTube channel <https://www.youtube.com/channel/UCyd7MaPVUpa-ueUsGjUujag>`_"
 msgstr ""
 
-#: ../../help.rst:245
+#: ../../help.rst:247
 msgid "`BSD YouTube channel <https://www.youtube.com/user/bsdconferences>`_"
 msgstr ""
 
-#: ../../help.rst:247
+#: ../../help.rst:249
 msgid "`BSD Talk <http://bsdtalk.blogspot.com/>`_"
 msgstr ""
 
-#: ../../help.rst:249
+#: ../../help.rst:251
 msgid "`BSD Now <http://www.bsdnow.tv/>`_"
 msgstr ""
 
-#: ../../help.rst:251
-msgid "`BSD Magazine <http://bsdmag.org/>`_ (free, monthly download)"
-msgstr ""
-
 #: ../../help.rst:253
-msgid "`FreeBSD Journal <http://www.freebsdjournal.com/>`_ (bi-monthly magazine)"
+msgid "`BSD Magazine <https://bsdmag.org/>`_ (free, monthly download)"
 msgstr ""
 
 #: ../../help.rst:255
-msgid "`BSD Hacks <http://shop.oreilly.com/product/9780596006792.do>`_ (book)"
+msgid "`FreeBSD Journal <http://www.freebsdjournal.com/>`_ (bi-monthly magazine)"
 msgstr ""
 
 #: ../../help.rst:257
-msgid "`The Best of FreeBSD Basics <http://reedmedia.net/books/freebsd-basics/>`_ (book)"
+msgid "`BSD Hacks <http://shop.oreilly.com/product/9780596006792.do>`_ (book)"
 msgstr ""
 
 #: ../../help.rst:259
+msgid "`The Best of FreeBSD Basics <http://reedmedia.net/books/freebsd-basics/>`_ (book)"
+msgstr ""
+
+#: ../../help.rst:261
 msgid "`Definitive Guide to PC-BSD® <http://www.apress.com/9781430226413>`_ (book)"
 msgstr ""
 
