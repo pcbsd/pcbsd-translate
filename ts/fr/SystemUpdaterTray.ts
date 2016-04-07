@@ -44,12 +44,8 @@
         <translation>Me le Rappeler Ultérieurement</translation>
     </message>
     <message>
-        <source>4 Hours</source>
-        <translation type="unfinished">24 Heures {4 ?}</translation>
-    </message>
-    <message>
-        <source>8 Hours</source>
-        <translation type="unfinished">24 Heures {8 ?}</translation>
+        <source>5 Hours</source>
+        <translation type="unfinished">24 Heures {8 ?} {5 ?}</translation>
     </message>
 </context>
 <context>
