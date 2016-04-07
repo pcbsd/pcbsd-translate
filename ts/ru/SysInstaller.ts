@@ -300,32 +300,28 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <translation>Отменен сценарий конфигурации установки</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Пожалуйста, выберите тип установки для выполнения</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Графический Рабочий стол</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (Графический Рабочий стол)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Лучшее для серверов и бездисплейных систем</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (консольный сервер)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Восстановить из существующей резервной копии</translation>
     </message>
 </context>
 <context>
@@ -349,45 +345,6 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>В настоящее время система закончила установку! Нажмите «Завершить», чтобы перезагрузить компьютер и не забудьте извлечь любые установочные носители информации до начала загрузки в новую систему.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">Отмена[&amp;C]</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -763,6 +720,10 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <source>Please select the disk or partition you wish to install onto. </source>
         <translation>Пожалуйста, выберите диск или раздел, который вы хотите установить на.</translation>
     </message>
+    <message>
+        <source>Use GRUB bootloader</source>
+        <translation>Использовать системный загрузчик GRUB</translation>
+    </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
@@ -859,28 +820,12 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Установка AppCafe? Это позволит управлять пакетами и jails из веб-браузера или мобильного устройства.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Установка AppCafe</translation>
     </message>
 </context>
 <context>
