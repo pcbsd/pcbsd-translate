@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 04:23-0700\n"
-"PO-Revision-Date: 2016-01-07 18:47+0000\n"
+"POT-Creation-Date: 2016-04-07 08:24-0700\n"
+"PO-Revision-Date: 2016-04-07 16:02+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460044948.000000\n"
 
 #: ../../install.rst:5
 msgid "Installing PC-BSD®"
@@ -43,10 +45,16 @@ msgstr ""
 #: ../../install.rst:15
 msgid "The system should boot into the menu shown in :numref:`Figure %s: Initial Boot Menu <install1b>`. Typically, you can just press enter or wait for this menu to go by and the system will boot into the graphical installer. If you have problems booting into the graphical installer, refer to :ref:`Installation Troubleshooting`."
 msgstr ""
+"El sistema debería arrancar con el menú mostrado en la :numref:`Figura %s: "
+"Menú de Arranque Inicial <install1b>`. Típicamente, usted puede solo "
+"presionar Intro o esperar a que el menú siga y el sistema arranque en el "
+"instalador gráfico. Si tiene problemas arrancando en el instalador gráfico, "
+"refiérase a :ref:`Solución de Problemas de la Instalación`."
 
 #: ../../install.rst:22
 msgid "The rest of this chapter describes the screens of the graphical installer."
 msgstr ""
+"El resto de este capítulo describe las pantallas del instalador gráfico."
 
 #: ../../install.rst:28
 msgid "Language Selection Screen"

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-07 04:23-0700\n"
-"PO-Revision-Date: 2016-04-07 15:06+0000\n"
+"POT-Creation-Date: 2016-04-07 08:24-0700\n"
+"PO-Revision-Date: 2016-04-07 15:11+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1460041603.000000\n"
+"X-POOTLE-MTIME: 1460041892.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -454,14 +454,23 @@ msgstr ""
 #: ../../introduction.rst:167
 msgid "The \"Plugins\" tab has been removed from :ref:`AppCafe®` as this functionality is being rewritten for the upcoming 11-RELEASE. In the interim, refer to :ref:`Managing Jails from the CLI` if you wish to manage jails on your PC-BSD® system."
 msgstr ""
+"La pestaña \"Plugins\" se ha eliminado de :ref:`AppCafe®` ya que esta "
+"funcionalidad se está reescribiendo para la próxima 11-RELEASE. Mientras "
+"tanto, refiérase a :ref:`Administrando Jaulas desde la CLI` si quiere "
+"administrar jaulas en su sistema PC-BSD®."
 
 #: ../../introduction.rst:170
 msgid "The \"Search all available PBIs and packages\" checkbox has been renamed to \"Search all available software\" in :menuselection:`AppCafe® --> App Search`."
 msgstr ""
+"La casilla \"Buscar todos los PBIs y paquetes disponibles\" se ha renombrado "
+"a \"Buscar todo el software disponible\" en :menuselection:`AppCafe® --> "
+"Búsqueda de Aplicaciones`."
 
 #: ../../introduction.rst:172
 msgid "The \"Auto-play optical disks\" checkbox has been added to :menuselection:`Mount Tray --> More Options --> Change Settings`."
 msgstr ""
+"La casilla \"Auto ejecutar discos ópticos\" se ha añadido a :menuselection:`"
+"Bandeja de Montaje --> Más Opciones --> Cambiar Configuraciones`."
 
 #: ../../introduction.rst:178
 msgid "PC-BSD® for Linux Users"
