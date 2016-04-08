@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-08 04:24-0700\n"
-"PO-Revision-Date: 2016-04-07 16:02+0000\n"
+"POT-Creation-Date: 2016-04-08 08:23-0700\n"
+"PO-Revision-Date: 2016-04-08 16:38+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460133534.000000\n"
 
 #: ../../install.rst:5
 msgid "Installing PC-BSD®"
@@ -169,94 +171,169 @@ msgstr "Pantalla de Selección del Sistema"
 #: ../../install.rst:81
 msgid "The \"System Selection\" screen, shown in :numref:`Figure %s: System Selection Screen <install3a>`, allows you to install a desktop (PC-BSD®) or a server (TrueOS®) operating system. It also can be used for :ref:`Restoring the Operating System`. This chapter concentrates on a desktop installation. Refer to :ref:`Install a Server` for instructions on how to install a command-line only server."
 msgstr ""
+"La pantalla de “Selección del Sistema”, mostrada en la :numref:`Figura %s: "
+"Pantalla de Selección del Sistema <install3a>`, le permite instalar un "
+"sistema operativo de escritorio (PC-BSD®) o un servidor (TrueOS®). También "
+"puede usarse para :ref:`Restaurar el Sistema Operativo`. Este capítulo se "
+"concentra en una instalación de escritorio. Refiérase a :ref:`Instalando un "
+"Servidor` para instrucciones sobre cómo instalar un servidor con línea de "
+"comandos solamente."
 
 #: ../../install.rst:89
 msgid "By default, PC-BSD® will be selected and the default window manager will depend upon the amount of RAM on the system. Systems containing more than 2GB of RAM will default to the KDE desktop and all other systems will default to the LXDE desktop. To change the default window manager or to browse for additional desktops and components to install, click the \"Customize\" button to open the screen shown in :numref:`Figure %s: Browsing Additional System Components <install4a>`."
 msgstr ""
+"Por defecto, PC-BSD® será seleccionado y el gestor de ventanas "
+"predeterminado dependerá de la cantidad de RAM en el sistema. Los sistemas "
+"que contengan más de 2 GB de RAM ejecutarán el escritorio KDE y los demás "
+"sistemas ejecutarán el escritorio LXDE. Para cambiar el gestor de ventanas "
+"predeterminado o para buscar escritorios adicionales y componentes para "
+"instalar, presione el botón “Personalizar” para abrir la pantalla mostrada "
+"en la :numref:`Figura %s: Buscando Componentes del Sistema Adicionales "
+"<install4a>`."
 
 #: ../../install.rst:97
 msgid "Check the ► next to a component in order to expand it so that you can check or uncheck its sub-components. All components that are checked will be installed. If you highlight then right-click a component and select \"View Packages\", a pop-up menu will list the name of the packages that are installed with that component."
 msgstr ""
+"Presione la ► junto a un componente para expandirlo para que pueda "
+"seleccionar o deseleccionar sus sub-componentes. Todos los componentes que "
+"están seleccionados serán instalados. Si selecciona un componente, después "
+"presiona con el botón derecho del ratón y selecciona “Ver Paquetes”, un menú "
+"emergente listará el nombre de los paquetes que serán instalados con ese "
+"componente."
 
 #: ../../install.rst:101
 msgid "The following components are available for installation."
-msgstr ""
+msgstr "Los siguientes componentes están disponibles para instalarse."
 
 #: ../../install.rst:103
 msgid "**Desktops:** the following desktops are available: :ref:`Awesome`, :ref:`Cinnamon`, :ref:`FVWM`, :ref:`GNOME`, :ref:`i3`, :ref:`IceWM`, :ref:`KDE4`, :ref:`Lumina`, :ref:`LXDE`, :ref:`MATE`, :ref:`Openbox`, :ref:`Ratpoison`, :ref:`spectrwm`, :ref:`WindowLab`, :ref:`Window Maker`, and :ref:`XFCE4`. Each desktop that is selected will be installed and will appear in the login menu of the installed PC-BSD® system."
 msgstr ""
+"**Escritorios:** Los siguientes escritorios están disponibles: :ref:`Awesome`"
+", :ref:`Cinnamon`, :ref:`FVWM`, :ref:`GNOME`, :ref:`i3`, :ref:`IceWM`, "
+":ref:`KDE4`, :ref:`Lumina`, :ref:`LXDE`, :ref:`MATE`, :ref:`Openbox`, "
+":ref:`Ratpoison`, :ref:`spectrwm`, :ref:`WindowLab`, :ref:`Window Maker`, y "
+":ref:`XFCE4`. Cada escritorio que sea seleccionado se instalará y aparecerá "
+"en el menú de inicio de sesión del sistema PC-BSD® instalado."
 
 #: ../../install.rst:108
 msgid "even if you uncheck all desktops, :ref:`Fluxbox` is always installed and available in the login menu of a PC-BSD® system."
 msgstr ""
+"Incluso si deselecciona todos los escritorios, :ref:`Fluxbox` siempre se "
+"instalará y estará disponible en el menú de inicio de sesión del sistema PC-"
+"BSD®."
 
 #: ../../install.rst:110
 msgid "**Devel:** check the box to install `QGit <https://sourceforge.net/projects/qgit/>`_."
 msgstr ""
+"**Desarrollo:** Seleccione la casilla para instalar `QGit "
+"<https://sourceforge.net/projects/qgit/>`_."
 
 #: ../../install.rst:112
 msgid "**Drivers:** if you have an NVIDIA video card, the correct driver should already be checked for you."
 msgstr ""
+"**Controladores:** Si tiene una tarjeta de video NVIDIA, el controlador "
+"correcto debería estar ya seleccionado para usted."
 
 #: ../../install.rst:114
 msgid "**Emulators:** check the box to install `VirtualBox <https://www.virtualbox.org/>`_."
 msgstr ""
+"**Emuladores:** Seleccione la casilla para instalar `VirtualBox "
+"<https://www.virtualbox.org/>`_."
 
 #: ../../install.rst:116
 msgid "**i18n:** if you expand the ► you can select to install localization for for the KDE desktop and for the operating system."
 msgstr ""
+"**i18n:** Si expande la ► puede seleccionar instalar la región para el "
+"escritorio KDE y para el sistema operativo."
 
 #: ../../install.rst:118
 msgid "**IRC:** check the box to install `HexChat <http://hexchat.github.io/>`_."
 msgstr ""
+"**IRC:** Seleccione la casilla para instalar `HexChat "
+"<http://hexchat.github.io/>`_."
 
 #: ../../install.rst:120
 msgid "**Java:** if you expand the ► you can select to install `IcedTea <http://icedtea.classpath.org/wiki/IcedTea-Web>`_ and `OpenJDK <http://openjdk.java.net/>`_ versions 7 and 8."
 msgstr ""
+"**Java:** Si expande la ► puede seleccionar instalar `IcedTea "
+"<http://icedtea.classpath.org/wiki/IcedTea-Web>`_ y `OpenJDK "
+"<http://openjdk.java.net/>`_ versiones 7 y 8."
 
 #: ../../install.rst:123
 msgid "**Mail:** check this box to install the `Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_ email client."
 msgstr ""
+"**Correo:** Seleccione la casilla para instalar el cliente de correo `"
+"Thunderbird <https://www.mozilla.org/en-US/thunderbird/>`_."
 
 #: ../../install.rst:125
 msgid "**MediaCenter:** if you expand the ► you can select to install `KODI <https://kodi.tv/>`_ and `PlexHome Theater <https://plex.tv/>`_."
 msgstr ""
+"**MediaCenter:** Si expande la ► puede seleccionar instalar `KODI "
+"<https://kodi.tv/>`_ y `PlexHome Theater <https://plex.tv/>`_."
 
 #: ../../install.rst:127
 msgid "**Net:** check this box to install the `KRDC <https://www.kde.org/applications/internet/krdc/>`_ remote desktop client."
 msgstr ""
+"**Red:** Seleccione la casilla para instalar el cliente de escritorio remoto "
+"`KRDC <https://www.kde.org/applications/internet/krdc/>`_."
 
 #: ../../install.rst:129
 msgid "**Net-IM:** check this box to install the `Pidgin <http://www.pidgin.im/>`_ IRC client."
 msgstr ""
+"**Net-IM:** Seleccione la casilla para instalar el cliente de IRC `Pidgin "
+"<http://www.pidgin.im/>`_."
 
 #: ../../install.rst:131
 msgid "**Roles:** if you expand the ► you can select to install the following installation roles: \"Development\", \"Internet\", and \"Media\". Right-click a role and select \"View Packages\" to view which software is installed with that role."
 msgstr ""
+"**Roles:** Si expande la ► puede seleccionar el instalar los siguientes "
+"roles de instalación: “Desarrollo”, “Internet”, y “Media”. Presione el botón "
+"derecho en un rol y seleccione \"Ver Paquetes\" para ver que software se "
+"instala con ese rol."
 
 #: ../../install.rst:134
 msgid "**Security:** check this box to install the `OpenVPN <https://openvpn.net/index.php/open-source.html>`_ VPN client."
 msgstr ""
+"**Seguridad:** Seleccione la casilla para instalar el cliente de VPN `"
+"OpenVPN <https://openvpn.net/index.php/open-source.html>`_."
 
 #: ../../install.rst:136
 msgid "**SysUtils:** check this box to install the `PySalt <http://saltstack.com/community/>`_ distributed remote execution and configuration management system."
 msgstr ""
+"**SysUtils:** Seleccione la casilla para instalar el sistema de "
+"administración de configuración y ejecución remota distribuida `PySalt "
+"<http://saltstack.com/community/>`_."
 
 #: ../../install.rst:139
 msgid "**Virtualization:** if you expand the ► you can install `VirtualBox Guest Additions <https://www.virtualbox.org/>`_ and `VMwareGuest <http://open-vm-tools.sourceforge.net/about.php>`_."
 msgstr ""
+"**Virtualización:** Si expande la ► puede instalar los `VirtualBox Guest "
+"Additions <https://www.virtualbox.org/>`_ y `VMwareGuest <http://open-vm-"
+"tools.sourceforge.net/about.php>`_."
 
 #: ../../install.rst:142
 msgid "**Web:** if you expand the ► you can select to install the `Chromium <http://www.chromium.org/>`_ and `Firefox <https://www.mozilla.org/en-US/firefox/new/>`_ web browsers. By default, Firefox is selected."
 msgstr ""
+"**Web:** Si expande la ► puede seleccionar instalar los navegadores `"
+"Chromium <http://www.chromium.org/>`_ y `Firefox <https://www.mozilla.org/en-"
+"US/firefox/new/>`_. Por defecto, Firefox está seleccionado."
 
 #: ../../install.rst:145
 msgid "Once you have made your selection(s), click the \"Save\" button to save your selections. The \"PC-BSD Package Selection\" box will list the components that you selected for installation. You can now click the \"Next\" button to proceed to the next screen."
 msgstr ""
+"Una vez que ha realizado su(s) selección(es), presione el botón “Guardar” "
+"para guardarlas. La casilla de “Selección de Paquetes de PC-BSD” listará los "
+"componentes que ha seleccionado para instalar. Ahora puede presionar el "
+"botón “Siguiente” para proceder con la siguiente pantalla."
 
 #: ../../install.rst:148
 msgid "if you are installing a desktop, the installer will display a pop-up message if it cannot find a physical or virtual disk that does not meet the recommended minimum size of 50GB. It will let you continue an installation on a smaller disk, but you may run into disk space issues on smaller disks."
 msgstr ""
+"Si está instalando un escritorio, el instalador desplegará un mensaje "
+"emergente si no puede encontrar un disco físico o virtual que cumpla con el "
+"tamaño mínimo recomendado de 50 GB. Le dejará continuar la instalación en un "
+"disco más pequeño, pero usted tendrá problemas de espacio con discos "
+"pequeños."
 
 #: ../../install.rst:155
 msgid "Disk Selection Screen"
@@ -283,6 +360,10 @@ msgstr ""
 #: ../../install.rst:167
 msgid "If you wish to select which disk or partition to install PC-BSD® into, click the \"Customize\" button to start the Disk Setup Wizard, shown in :numref:`Figure %s: Disk Setup Wizard <install6>`."
 msgstr ""
+"Si quiere seleccionar en cuál disco o partición instalar PC-BSD®, presione "
+"el botón de “Personalizar” para inciar el Asistente de Configuración de "
+"Disco, mostrado en la :numref:`Figura %s: Asistente de Configuración de "
+"Disco <install6>`."
 
 #: ../../install.rst:173
 msgid "The wizard provides three modes of operation. The rest of this section describes these modes in detail."
@@ -337,6 +418,10 @@ msgstr "Modo Básico"
 #: ../../install.rst:196
 msgid "If you select \"Basic\" mode, the wizard will display the screen shown in :numref:`Figure %s: Select a Disk or Partition <install7b>`."
 msgstr ""
+"Si quiere seleccionar en cuál disco o partición instalar PC-BSD®, presione "
+"el botón de “Personalizar” para inciar el Asistente de Configuración de "
+"Disco, mostrado en la :numref:`Figura %s: Asistente de Configuración de "
+"Disco <install6>`."
 
 #: ../../install.rst:202
 msgid "By default, the first hard disk will be selected. If you wish to install on a different disk, use the \"Selected Disk\" drop-down menu to select the disk to install into."
@@ -379,6 +464,8 @@ msgstr "Modo Avanzado"
 #: ../../install.rst:221
 msgid "If you select advanced mode, the wizard will display the screen shown in :numref:`Figure %s: Advanced Mode Options <install8a>`."
 msgstr ""
+"Si selecciona el modo avanzado, el asistente le mostrará la pantalla de la "
+":numref:`Figura %s: Opciones del Modo Avanzado <install8a>`."
 
 #: ../../install.rst:227
 msgid "This screen provides the following options:"
@@ -399,6 +486,15 @@ msgstr ""
 #: ../../install.rst:236
 msgid "**Partition Scheme:**  the default of \"GPT (Best for new hardware)\" is a partition table layout that supports larger partition sizes than the traditional \"MBR (Legacy)\" layout. **If your installation disk/partition is larger than 2 TB, this option must be selected**. Some older motherboards do not support this option. If the installation fails, try again with \"MBR (Legacy)\" selected. When in doubt, try the default selection first. Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
 msgstr ""
+"**Esquema de Particiones:** El predeterminado “GPT (Mejor para hardware "
+"nuevo)” es un diseño de tabla de particiones que soporta tamaños de "
+"particiones más grandes que el diseño tradicional “MBR (Antiguo)”. **Si su "
+"disco de instalación/partición es más grande que 2 TB, esta opción debe "
+"seleccionarse**. Algunas tarjetas madre no soportan esta opción. Si la "
+"instalación falla, intente de nuevo con “MBR (Antiguo)” seleccionado. Si "
+"tiene dudas, intente primero con la selección predeterminada. Note que esta "
+"sección no aparecerá si usted especificó una partición en vez de “Usar el "
+"disco completo” en el menú desplegable “Partición Seleccionada”."
 
 #: ../../install.rst:241
 msgid "**Target Installation:** when installing to non-UEFI systems, keep the default selection of \"BIOS (Legacy motherboards)\". If the hardware supports UEFI, change the selection to \"UEFI (Modern motherboards)\". Note that this section will not appear if you specify a partition rather than \"Use entire disk\" in the \"Selected Partition\" drop-down menu."
@@ -421,10 +517,17 @@ msgstr ""
 #: ../../install.rst:248
 msgid "**ZFS pool name:** if you wish to use a pool name other than the default of *tank*, check this box and input the name of the pool."
 msgstr ""
+"**Nombre del pool ZFS:** Si quiere usar otro nombre de pool que el "
+"predeterminado de *tank*, marque esta casilla e introduzca el nombre del "
+"pool."
 
 #: ../../install.rst:250
 msgid "After making your selections click \"Next\" to access the ZFS configuration screens. The rest of this section provides a ZFS overview and demonstrates how to customize the ZFS layout. Note that *root* is a reserved term and can not be used as a pool name."
 msgstr ""
+"Después de hacer sus selecciones presione “Siguiente” para accesar las "
+"pantallas de configuración de ZFS. El resto de esta sección proporciona un "
+"vistazo a ZFS y demuestra como personalizar el diseño de ZFS. Note que *root*"
+" es una palabra reservada y no se puede usar como nombre del pool."
 
 #: ../../install.rst:257
 msgid "ZFS Overview"
@@ -443,6 +546,12 @@ msgstr ""
 #: ../../install.rst:263
 msgid "If you are new to ZFS, the Wikipedia entry on :wikipedia:`ZFS` provides an excellent starting point to learn about its features. Additionally, `FreeBSD Mastery: ZFS <https://www.michaelwlucas.com/nonfiction/freebsd-mastery-zfs>`_  by Michael W Lucas and Allan Jude is a helpful resource and is more specific to ZFS as it is implemented in FreeBSD."
 msgstr ""
+"Si usted es nuevo en ZFS, la Entrada de :wikipedia:`ZFS` en la Wikipedia le "
+"proporciona un punto de inicio excelente para aprender acerca de sus "
+"características. Adicionalmente, `FreeBSD Mastery: ZFS "
+"<https://www.michaelwlucas.com/nonfiction/freebsd-mastery-zfs>`_ de Michael "
+"W. Lucas y Allan Jude es un recurso muy útil y es más específico en ZFS como "
+"está implementado en FreeBSD."
 
 #: ../../install.rst:267
 msgid "These resources are also useful to bookmark and refer to as needed:"
@@ -859,6 +968,10 @@ msgstr "Pantalla de Progreso de la Instalación"
 #: ../../install.rst:447
 msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in :numref:`Figure %s: Installation Progress Screen <install13a>`, provides a progress bar and messages so that you can watch the installation's progress."
 msgstr ""
+"Una vez que seleccione “Si” para comenzar la instalacion, una pantalla de "
+"progreso, mostrada en la :numref:`Figura %s: Pantalla de Progreso de la "
+"Instalación <install13a>`, le mostrará una barra de progreso y mensajes para "
+"que pueda seguir el proceso de instalación."
 
 #: ../../install.rst:454
 msgid "How long the installation takes depends upon the speed of your hardware, the installation type you selected, and the number of components to be installed. A typical installation takes between 15 and 30 minutes."

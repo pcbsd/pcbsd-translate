@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-08 04:24-0700\n"
-"PO-Revision-Date: 2016-01-18 15:14+0000\n"
+"POT-Creation-Date: 2016-04-08 08:23-0700\n"
+"PO-Revision-Date: 2016-04-08 17:39+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460137169.000000\n"
 
 #: ../../controlpanel.rst:5
 msgid "Control Panel"
@@ -452,7 +454,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:230
 msgid "Boot Manager"
-msgstr "Administrador de Arranque"
+msgstr "Gestor de Arranque"
 
 #: ../../controlpanel.rst:232
 msgid "PC-BSD® supports a feature of ZFS known as multiple boot environments (BEs). With multiple boot environments, the process of updating software becomes a low-risk operation as you can backup your current boot environment before upgrading or making software updates to your system. If needed, you also have the option of booting into a backup boot environment. For example:"
