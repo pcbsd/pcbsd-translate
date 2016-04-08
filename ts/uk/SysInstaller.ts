@@ -300,28 +300,32 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <translation>Скасовано встановлення конфігураційного скрипта</translation>
     </message>
     <message>
-        <source>Please select the type of installation to perform</source>
-        <translation>Будь ласка оберіть бажаний тип встановлення</translation>
+        <source>Desktop (PC-BSD)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Graphical desktop</source>
-        <translation>Графічна стільниця</translation>
+        <source>Server (TrueOS)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PC-BSD (Graphical desktop)</source>
-        <translation>PC-BSD (Графічна стільниця)</translation>
+        <source>Customize the selected system</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Best for servers and headless systems</source>
-        <translation>Найкраще для серверів та безмоніторних систем</translation>
+        <source>PC-BSD Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TrueOS (Console based server)</source>
-        <translation>TrueOS (консольний сервер)</translation>
+        <source>TrueOS Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore from an existing backup</source>
-        <translation>Відновити з наявної резервної копії</translation>
+        <source>The following meta-pkgs will be installed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -345,6 +349,45 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>Система закінчила встановлення! Натисніть Завершити, щоб перезавантажитися, і перед завантаженням в вашу нову систему впевніться, що витягли будь-які встановлювальні носії.</translation>
+    </message>
+</context>
+<context>
+    <name>desktopSelection</name>
+    <message>
+        <source>System Package Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available System Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">Скасувати</translation>
+    </message>
+    <message>
+        <source>No Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package Listing for:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -720,10 +763,6 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <source>Please select the disk or partition you wish to install onto. </source>
         <translation>Будь ласка оберіть диск чи розділ для встановлення. </translation>
     </message>
-    <message>
-        <source>Use GRUB bootloader</source>
-        <translation>Використовувати завантажувач GRUB</translation>
-    </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
@@ -820,12 +859,28 @@ Click Finish to reboot. After rebooting you may eject the install media.</source
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>Встановити AppCafe? Це дозволить керувати пакунками та тюрмами (jails) використовуючи веб переглядач чи мобільний пристрій.</translation>
+        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install AppCafe</source>
-        <translation>Встановити AppCafe</translation>
+        <source>Enable AppCafe Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
