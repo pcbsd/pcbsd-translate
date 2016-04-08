@@ -102,7 +102,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="214"/>
         <source>New Password (repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sandi Baru (ulangi)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="221"/>

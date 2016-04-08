@@ -155,11 +155,11 @@
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Kode</translation>
     </message>
     <message>
         <source>Input language</source>
@@ -189,19 +189,19 @@
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished">Alt + Shift</translation>
+        <translation>Alt + Shift</translation>
     </message>
     <message>
         <source>Ctrl + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift</translation>
     </message>
     <message>
         <source>Alt + Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Space</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opsi lainnya</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
@@ -308,6 +308,42 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Identitas Anonim:</translation>
     </message>
 </context>
 <context>

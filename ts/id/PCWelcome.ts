@@ -53,11 +53,11 @@
     </message>
     <message>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selamat Datang!</translation>
     </message>
     <message>
         <source>Getting Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Mendapatkan Terhubung</translation>
     </message>
     <message>
         <source>Install Applications</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Preserve Your Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pertahankan Berkas Anda</translation>
     </message>
     <message>
         <source>Stay up to Date</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Get Involved</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikut Serta</translation>
     </message>
 </context>
 </TS>

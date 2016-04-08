@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Open Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Terbuka Ports</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipe</translation>
     </message>
     <message>
         <source>Close Selected Ports</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutup</translation>
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>

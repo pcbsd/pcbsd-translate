@@ -5,7 +5,7 @@
     <name>PartitionSelect</name>
     <message>
         <source>Select a Partition</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilih partisi</translation>
     </message>
     <message>
         <source>Select a disk/partition for %1</source>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Batalkan</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Selesai</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"></translation>
+        <translation>Jendela</translation>
     </message>
 </context>
 <context>

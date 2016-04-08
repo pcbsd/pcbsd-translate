@@ -280,11 +280,11 @@
     </message>
     <message>
         <source>IPv4 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alamat IPv4:</translation>
     </message>
     <message>
         <source>IPv6 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alamat IPv6:</translation>
     </message>
 </context>
 </TS>

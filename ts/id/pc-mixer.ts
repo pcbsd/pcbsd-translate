@@ -60,7 +60,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="80"/>
         <source>Default Tray Device:</source>
-        <translation type="unfinished">Perangkat baki utama:</translation>
+        <translation>Perangkat baki utama:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="93"/>

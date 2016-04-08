@@ -44,8 +44,12 @@
         <translation>Przypomnij poźniej</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">24 godziny {8 ?} {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 godziny {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 godziny {8 ?}</translation>
     </message>
 </context>
 <context>
