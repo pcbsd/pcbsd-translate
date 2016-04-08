@@ -300,28 +300,32 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
         <translation>Yapılandırma betiği kurulumu iptal edildi</translation>
     </message>
     <message>
-        <source>Please select the type of installation to perform</source>
-        <translation>Lütfen gerçekleştirilecek kurulum türünü seçin</translation>
+        <source>Desktop (PC-BSD)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Graphical desktop</source>
-        <translation>Grafiksel masaüstü</translation>
+        <source>Server (TrueOS)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PC-BSD (Graphical desktop)</source>
-        <translation>PC-BSD (Grafiksel masaüstü)</translation>
+        <source>Customize the selected system</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Best for servers and headless systems</source>
-        <translation>Sunucular ve gözetimsiz sistemler için uygun</translation>
+        <source>PC-BSD Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TrueOS (Console based server)</source>
-        <translation>TrueOS (Konsol tabanlı sunucu)</translation>
+        <source>TrueOS Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore from an existing backup</source>
-        <translation>Var olan bir yedeklemeden geri yükle</translation>
+        <source>The following meta-pkgs will be installed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -345,6 +349,45 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>Sistem kurulumu tamamlandı! Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın, yeni sisteminizi başlatmadan önce takılı olan kurulum medyasını çıkartmayı unutmayın.</translation>
+    </message>
+</context>
+<context>
+    <name>desktopSelection</name>
+    <message>
+        <source>System Package Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available System Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">İ&amp;ptal</translation>
+    </message>
+    <message>
+        <source>No Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package Listing for:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -720,10 +763,6 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
         <source>Please select the disk or partition you wish to install onto. </source>
         <translation>Lütfen kurulumu gerçekleştirmek istediğiniz diski ya da bölümü seçin. </translation>
     </message>
-    <message>
-        <source>Use GRUB bootloader</source>
-        <translation>GRUB önyükleyiciyi kullan</translation>
-    </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
@@ -820,12 +859,28 @@ Sistemi yeniden başlatmak için Tamamla düğmesine tıklayın. Yeniden başlat
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>AppCafe kurulsun mu? Bu, bir web tarayıcı ya da mobil aygıttan paketleri ve hapisleri yönetmenize olanak verir.</translation>
+        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install AppCafe</source>
-        <translation>AppCafe&apos;yi Kur</translation>
+        <source>Enable AppCafe Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
