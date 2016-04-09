@@ -137,7 +137,7 @@
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation>Pas de Périphérique détecté</translation>
+        <translation>Aucun Périphérique détecté</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation>Note: Les paramètres audios peuvent aussi être ajustés plus tard à travers le mixer audio de PC-BSD.</translation>
+        <translation>Note: Les paramètres audios peuvent aussi être ajustés plus tard à travers le mixeur audio de PC-BSD.</translation>
     </message>
     <message>
         <source>Domain Name</source>

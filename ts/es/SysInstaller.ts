@@ -300,32 +300,28 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
         <translation>Instalación de script de configuración cancelada</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Por favor, seleccione el tipo de instalación a realizar</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Escritorio Gráfico</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (Escritorio Gráfico)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Recomendado para servidores y sistemas sin monitor</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (Servidor basado en consola)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Restaurar desde un respaldo existente</translation>
     </message>
 </context>
 <context>
@@ -349,45 +345,6 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>¡El sistema terminó de instalarse! Presione &quot;Terminar&quot; para reiniciar, y asegúrese de extraer cualquier medio de instalación antes de arrancar en su nuevo sistema.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancelar</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -732,18 +689,6 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
         <translation>MBR (Antiguo)</translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation>Objetivo de la Instalación</translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation>UEFI (Tarjetas madre modernas)</translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation>BIOS (Tarjetas madre antiguas)</translation>
-    </message>
-    <message>
         <source>Add additional disks to zpool</source>
         <translation>Añadir discos adicionales al zpool</translation>
     </message>
@@ -762,6 +707,10 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
         <translation>Por favor, seleccione el disco o partición en donde quiere instalar.</translation>
+    </message>
+    <message>
+        <source>Use GRUB bootloader</source>
+        <translation>Usar GRUB como gestor de arranque</translation>
     </message>
 </context>
 <context>
@@ -859,28 +808,12 @@ Presione &quot;Terminar&quot; para reiniciar. Después de reiniciar, debería ex
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Instalar AppCafe? Esto le permite administrar paquetes y jaulas desde un navegador web o dispositivo móvil.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Instalar AppCafe</translation>
     </message>
 </context>
 <context>

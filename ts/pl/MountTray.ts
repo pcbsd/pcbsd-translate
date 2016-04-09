@@ -194,7 +194,7 @@
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatycznie odtwarzaj dyski optyczne</translation>
     </message>
 </context>
 </TS>

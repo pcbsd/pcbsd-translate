@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lecture automatique des disques optiques</translation>
     </message>
 </context>
 </TS>

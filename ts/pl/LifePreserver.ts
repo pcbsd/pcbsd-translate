@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz harmonogram dla operacji scrub</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -252,11 +252,11 @@
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikacja docelowego miejsca replikacji</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykryj nazwę hosta lub adres IP:</translation>
     </message>
     <message>
         <source>SSH</source>
@@ -280,7 +280,11 @@
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Custom IP&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Interwał dni</translation>
     </message>
 </context>
 <context>
@@ -407,27 +411,27 @@
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished">Użyj dostępnych danych </translation>
+        <translation>Użyj istniejących danych na komputerze</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik szyfrowania GELI:</translation>
     </message>
     <message>
         <source>Select GELI File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik GELI:</translation>
     </message>
     <message>
         <source>Select GELI Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz plik z kluczem GELI:</translation>
     </message>
     <message>
         <source>GELI Key Files (*.key)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki z kluczami GELI (*.key)</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserver napotkał błąd podczas tworzenia pliku z kluczem. Proszę sprawdzić czy ustawienia są właściwe i spróbować ponownie.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
@@ -471,11 +475,11 @@
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę się upewnić, że plik z kluczem jest w bezpiecznym miejscu(na przykład na pamięci USB zamkniętej w bezpiecznym miejscu). Administratorzy serwera kopii zapasowych nie ponoszą odpowiedzialności za utratę klucza.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Life Preserver napotkał błąd podczas tworzenia zdalnej kopii zapasowej. Proszę sprawdzić czy ustawienia są właściwe i spróbować ponownie.</translation>
     </message>
 </context>
 <context>
@@ -906,27 +910,27 @@
     </message>
     <message>
         <source>Configuring scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguracja operacji scrub: %1</translation>
     </message>
     <message>
         <source>Removing scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie operacji scrub: %1</translation>
     </message>
     <message>
         <source>%1: Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Wyłączanie operacji scrub</translation>
     </message>
     <message>
         <source>Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączanie operacji scrub</translation>
     </message>
     <message>
         <source>pools</source>
-        <translation type="unfinished"></translation>
+        <translation>pule przestrzeni dyskowej</translation>
     </message>
     <message>
         <source>Re-Initialize Replications</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponowna inicjalizacja replikacji</translation>
     </message>
     <message>
         <source>junk</source>
@@ -934,167 +938,35 @@
     </message>
     <message>
         <source>Configuring replication settings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurowanie ustawień replikacji: %1</translation>
     </message>
     <message>
         <source>Removing replication: %1, Host: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuwanie replikacji: %1, Host: %2</translation>
     </message>
     <message>
         <source>Reset Replication Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj hasło replikacji</translation>
     </message>
     <message>
         <source>Invalid Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy cel</translation>
     </message>
     <message>
         <source>This is an ISCSI replication target and does not use an SSH password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jest to cel replikacji ISCSI i nieużywa on hasła SSH.</translation>
     </message>
     <message>
         <source>Some file(s) could not be restored from the snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektórych plików nie udało się przywrócić.</translation>
     </message>
     <message>
         <source>The file(s) were succesfully restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Udało się przywrócić pliki</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Wczytywanie informacji</translation>
     </message>
 </context>
 <context>
@@ -1170,11 +1042,11 @@
     </message>
     <message>
         <source>Scrub schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>Harmonogram operacji scrub</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz harmonogram operacji scrub</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -1226,7 +1098,7 @@
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja typu scrub wykrywa niespójności i uszkodzenia puli dyskowej.</translation>
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
@@ -1243,6 +1115,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Interwał dni</translation>
     </message>
 </context>
 <context>
