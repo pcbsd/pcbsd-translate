@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 04:20-0700\n"
-"PO-Revision-Date: 2015-12-11 20:25+0000\n"
+"POT-Creation-Date: 2016-04-11 08:22-0700\n"
+"PO-Revision-Date: 2016-04-11 16:13+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460391192.000000\n"
 
 #: ../../desktops.rst:5
 msgid "Desktops"
@@ -74,6 +76,9 @@ msgstr "Awesome"
 #: ../../desktops.rst:35
 msgid "The `awesome window manager <https://awesomewm.org/>`_ is highly configurable and primarily targeted at power users who prefer to use the command line within their graphical environment."
 msgstr ""
+"El `gestor de ventanas awesome <https://awesomewm.org/>`_ es altamente "
+"configurable y principalmente orientrado a usuarios experimentados que "
+"prefieren usar la línea de comandos dentro de su entorno gráfico."
 
 #: ../../desktops.rst:38
 msgid ":numref:`Figure %s: Awesome Window Manager on PC-BSD® <awesome1>` shows a screenshot of Awesome running on PC-BSD® |version|. The user has right-clicked the desktop in order to launch the awesome application manager."
@@ -370,6 +375,12 @@ msgstr "IceWM"
 #: ../../desktops.rst:204
 msgid "The `IceWM window manager <http://www.icewm.org>`_ is light-weight. :numref:`Figure %s: IceWM on PC-BSD® <icewm1>` shows a screenshot of IceWM running on PC-BSD®. In this example, the user has launched the \"Application\" menu by clicking on the \"BSD\" button in the lower left corner. This menu can also be launched by right-clicking anywhere on the desktop."
 msgstr ""
+"El `gestor de ventanas IceWM <http://www.icewm.org>`_ es muy ligero. La "
+":numref:`Figura %s: IceWM en PC-BSD® <icewm1>` muestra una captura de "
+"pantalla de IceWM corriendo en PC-BSD®. En este ejemplo, el usuario ha "
+"lanzado el menú de “Aplicación” presionando en el botón “BSD” en la esquina "
+"inferior izquierda. Este menú también puede lanzarse haciendo clic derecho "
+"en cualquier parte del escritorio."
 
 #: ../../desktops.rst:212
 msgid "If you are new to IceWM, refer to the `IceWM FAQ and Howto <http://www.sosst.sk/doc/icewm/FAQ/>`_ for more information about configuration, customization, and keyboard shortcuts."
@@ -468,6 +479,15 @@ msgstr "Lumina"
 #: ../../desktops.rst:259
 msgid "The `Lumina Desktop Environment <http://lumina-desktop.org/>`_ (Lumina for short) is a lightweight, XDG-compliant, BSD-licensed desktop environment that focuses specifically on streamlining the ability to complete work while minimizing system overhead. It is specifically designed for PC-BSD® and FreeBSD, but has also been ported to many other BSD and Linux operating systems. It is based on the Qt graphical toolkit and the Fluxbox window manager, and uses a small number of X utilities for various tasks, such as :command:`numlockx` and :command:`xscreensaver`."
 msgstr ""
+"El `Entorno de Escritorio Lumina <http://lumina-desktop.org/>`_ (mejor "
+"conocido como Lumina) es un entorno ligero, compatible con XDG, y de "
+"licencia BSD que se enfoca específicamente en mejorar la habilidad de dejar "
+"el trabajo hecho, a la vez que minimiza la sobrecarga en el sistema. Está "
+"diseñado específicamente para PC-BSD® y FreeBSD, pero también ha sido "
+"portado a muchos otros sistemas operativos BSD y Linux. Esta basado en el "
+"toolkit gráfico QT y el manejador de ventanas Fluxbox, y usa un pequeño "
+"conjunto de utilidades de X tales como :command:`numlockx` y "
+":command:`xscreensaver` para llevar a cabo varias tareas."
 
 #: ../../desktops.rst:264
 msgid "Lumina's features include:"
@@ -795,6 +815,13 @@ msgstr "spectrwm"
 #: ../../desktops.rst:429
 msgid "The `spectrwm minimalist window manager <https://github.com/conformal/spectrwm/wiki>`_, formerly known as scrotwm, is written by OpenBSD hackers. It provides keyboard shortcuts, a configuration file, and assumes that the user prefers to use the command line. If you have not used spectrwm before, spend some time reading through its `man page <https://opensource.conformal.com/cgi-bin/man-cgi?spectrwm>`_ first."
 msgstr ""
+"El `gestor de ventanas minimalista spectrwm "
+"<https://github.com/conformal/spectrwm/wiki>`_, anteriormente conocido como "
+"scrotwm, es programado por hackers de OpenBSD. Proporciona atajos de "
+"teclado, un archivo de configuraciones, y asume que el usuario prefiere usar "
+"la línea de comandos. Si no ha usado spectrwm anteriormente, tómese su "
+"tiempo para leer a través de su `página del manual "
+"<https://opensource.conformal.com/cgi-bin/man-cgi?spectrwm>`_ primero."
 
 #: ../../desktops.rst:433
 msgid "To launch applications within spectrwm, start an xterm by pressing :kbd:`Alt+Shift+Enter`. Once you have an xterm, you can start any program you wish. For example, to start :ref:`Control Panel` type :command:`pc-controlpanel`. spectrwm does not provide minimize, maximize, or close buttons within its windows. To close a GUI application, use :kbd:`CTRL-c` within the xterm you used to launch the application. To leave this desktop, type :command:`killall spectrwm` from an xterm."
@@ -851,6 +878,9 @@ msgstr "Window Maker"
 #: ../../desktops.rst:461
 msgid "The `Window Maker window manager <https://windowmaker.org/>`_ is light-weight and designed to reproduce the look and feel of the :wikipedia:`NEXTSTEP` user interface."
 msgstr ""
+"El `gestor de ventanas Window Maker <https://windowmaker.org/>`_ es liviano "
+"y diseñado para reproducir el aspecto de la interfaz de usuario de "
+":wikipedia:`NEXTSTEP`."
 
 #: ../../desktops.rst:463
 msgid ":numref:`Figure %s: Window Maker on PC-BSD® <windowmaker1>` shows a screenshot of Window Maker running on PC-BSD®. In this example, the user launched the \"Application\" menu by right-clicking an area of the desktop."

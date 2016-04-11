@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 04:20-0700\n"
-"PO-Revision-Date: 2016-04-08 17:49+0000\n"
+"POT-Creation-Date: 2016-04-11 08:22-0700\n"
+"PO-Revision-Date: 2016-04-11 16:13+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460391226.000000\n"
 
 #: ../../postinstall.rst:5
 msgid "Post Installation Configuration and Installation Troubleshooting"
@@ -116,10 +118,20 @@ msgstr ""
 #: ../../postinstall.rst:52
 msgid "The first time the boot completes, the post-installer configuration script will attempt to set the optimal display settings. A pop-up menu will ask if you would like to accept these settings. If you click \"Yes\", PC-BSD® will then proceed to the :ref:`Language Screen` so that you can perform the initial configuration of the system."
 msgstr ""
+"La primera vez que el arranque se completa, el script de configuración post-"
+"instalación intentará establecer la configuración óptima de la pantalla. Un "
+"menú emergente le preguntará si quiere aceptar esta configuración. Si "
+"presiona \"Sí\", PC-BSD® procederá a la :ref:`Pantalla de Idioma` para que "
+"pueda realizar la configuración inicial del sistema."
 
 #: ../../postinstall.rst:55
 msgid "Read through the rest of this section if you have encrypted your disk(s) or if you have problems setting the display settings. If you are dual booting and your other operating system was not automatically added to the graphical boot menu by the installer, refer to :ref:`Dual Booting`."
 msgstr ""
+"Lea a través del resto de esta sección si ha encriptado su(s) disco(s) o si "
+"tiene problemas estableciendo la configuración de la pantalla. Si está "
+"haciendo un arranque dual y su otro sistema operativo no fue añadido "
+"automáticamente al menú de arranque gráfico por el instalador, refiérase a "
+":ref:`Arranque Dual`."
 
 #: ../../postinstall.rst:63
 msgid "If you Encrypted Your Disks"
@@ -137,6 +149,10 @@ msgstr ""
 #: ../../postinstall.rst:72
 msgid "The boot process will wait for you to successfully input the password that you created in the installation screen shown in :numref:`Figure %s: Configure Encryption <install11a>`. If the correct password is typed in, the system will continue to boot."
 msgstr ""
+"El proceso de arranque esperará a que usted ingrese correctamente la "
+"contraseña que creó en la pantalla de instalación mostrada en la :numref:`"
+"Figura %s: Configurando la Encriptación <install11a>`. Si la contraseña "
+"conrrecta se ha ingresado, el sistema continuará con el arranque."
 
 #: ../../postinstall.rst:79
 msgid "If Your Display is Not Automatically Detected"
@@ -558,6 +574,10 @@ msgstr ""
 #: ../../postinstall.rst:325
 msgid "While in the installer, you can read this log to see what went wrong. Click the black \"Emergency Shell and Utilities\" icon, then select \"shell\" from the \"PC-BSD Utility Menu\". You can now read the log by typing this command::"
 msgstr ""
+"Mientras esté en el instalador, puede leer este log para ver qué falló. "
+"Presione el icono negro de \"Consola de Emergencia y Utilerías\", después "
+"seleccione \"consola\" desde el \"Menú de Utilerías de PC-BSD\". Ahora puede "
+"leer el log ingresando este comando::"
 
 #: ../../postinstall.rst:330
 msgid "If you can not figure out how to fix the error or believe that you have discovered an installation bug, send the log that was saved on the USB stick using the instructions in :ref:`Report a Bug`."
@@ -602,10 +622,18 @@ msgstr ""
 #: ../../postinstall.rst:345
 msgid "If that change did not help, reboot and select the \"6. Configure Boot Options...\" from the boot menu shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1b>`. This will open the screen shown in :numref:`Figure %s: PC-BSD® Boot Options <menu1>`."
 msgstr ""
+"Si ese cambio no ayuda, reinicie y seleccione la opción “6. Configurar las "
+"Opciones de Arranque...\" del menú de arranque mostrado en la :numref:`"
+"Figura %s: Menú de Arranque del Instalador de PC-BSD® <install1b>`. Esto "
+"abrirá la pantalla mostrada en la :numref:`Figura %s: Opciones de Arranque "
+"de PC-BSD® <menu1>`."
 
 #: ../../postinstall.rst:352
 msgid "Press :kbd:`7` to toggle \"Off\" to \"On, then press :kbd:`Enter`. This will boot the installer using the VESA graphics driver which is supported on all systems."
 msgstr ""
+"Presione :kbd:`7` para cambiar de \"Apagado\" a \"Encendido\", después "
+"presione :kbd:`Intro`. Esto arrancará el instalador usando el controlador de "
+"gráficos VESA, el cual está soportado en todos los sistemas."
 
 #: ../../postinstall.rst:354
 msgid "A not uncommon cause for problems is the LBA (Logical Block Addressing) setting in the BIOS. If your PC is not booting up before or after installation, check your BIOS and turn LBA off (do not leave it on automatic)."
