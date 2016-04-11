@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "If you like playing around with operating systems and have a bit of spare
 msgstr ""
 
 #: ../../support.rst:18
-msgid "If you have a spare system or virtual machine, you can also download and try out the latest release candidate snapshots. These versions are still in testing and have not been officially released yet. Having as many people as possible using PC-BSD® on many different hardware configurations assists the Project in finding and fixing bugs. This makes using PC-BSD® better for everyone. Subscribing to the `PC-BSD® blog <http://blog.pcbsd.org/>`_ is a good way to keep up-to-date on the availability of testing snapshots and any major bugs that affect users."
+msgid "If you have a spare system or virtual machine, you can also download and try out the latest release candidate snapshots. These versions are still in testing and have not been officially released yet. Having as many people as possible using PC-BSD® on many different hardware configurations assists the Project in finding and fixing bugs. This makes using PC-BSD® better for everyone. Subscribing to the `PC-BSD® blog <https://blog.pcbsd.org/>`_ is a good way to keep up-to-date on the availability of testing snapshots and any major bugs that affect users."
 msgstr ""
 
 #: ../../support.rst:23
@@ -101,7 +101,7 @@ msgid "Interface Translation"
 msgstr ""
 
 #: ../../support.rst:71
-msgid "PC-BSD® uses `Pootle <https://en.wikipedia.org/wiki/Pootle>`_ for managing localization of the menu screens used by the installer and the PC-BSD® utilities. Pootle makes it possible to find out if your native language has been fully localized for PC-BSD®. Pootle also makes it easy for users to check and submit translated text as it provides a web editor and commenting system. This means that translators can spend their time making and reviewing translations rather than learning how to use a translation tool."
+msgid "PC-BSD® uses :wikipedia:`Pootle` for managing localization of the menu screens used by the installer and the PC-BSD® utilities. Pootle makes it possible to find out if your native language has been fully localized for PC-BSD®. Pootle also makes it easy for users to check and submit translated text as it provides a web editor and commenting system. This means that translators can spend their time making and reviewing translations rather than learning how to use a translation tool."
 msgstr ""
 
 #: ../../support.rst:76
@@ -469,50 +469,166 @@ msgid "If you have a GitHub account and are logged in, you can contribute minor 
 msgstr ""
 
 #: ../../support.rst:391
-msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 8.1a."
+msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 11.4a."
 msgstr ""
 
 #: ../../support.rst:397
-msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
+msgid "**Table 11.4a: Commonly Used pbi.conf Variables**"
+msgstr ""
+
+#: ../../support.rst:400
+msgid "Variable"
+msgstr ""
+
+#: ../../support.rst:400
+msgid "Description"
+msgstr ""
+
+#: ../../support.rst:402
+msgid "PBI_ORIGIN="
+msgstr ""
+
+#: ../../support.rst:402
+msgid "mandatory; the \"category/portname\" of the FreeBSD package"
+msgstr ""
+
+#: ../../support.rst:404
+msgid "PBI_PROGNAME="
+msgstr ""
+
+#: ../../support.rst:404
+msgid "mandatory; name of the application"
 msgstr ""
 
 #: ../../support.rst:406
-msgid "Purchase PC-BSD® Swag"
+msgid "PBI_PROGWEB="
+msgstr ""
+
+#: ../../support.rst:406
+msgid "mandatory unless does not exist; website for the application"
 msgstr ""
 
 #: ../../support.rst:408
-msgid "While PC-BSD® is free, some users may wish to purchase media or other items to show their support for the PC-BSD® Project. PC-BSD® items are available from the following websites:"
+msgid "PBI_PROGAUTHOR="
 msgstr ""
 
-#: ../../support.rst:411
-msgid "`FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
+#: ../../support.rst:408
+msgid "mandatory; often found at the website for the application"
+msgstr ""
+
+#: ../../support.rst:410
+msgid "PBI_LICENSE="
+msgstr ""
+
+#: ../../support.rst:410
+msgid "the type of open source license used by the application"
+msgstr ""
+
+#: ../../support.rst:412
+msgid "PBI_TAGS="
+msgstr ""
+
+#: ../../support.rst:412
+msgid "a comma separated list (no spaces) of search terms associated with the application"
 msgstr ""
 
 #: ../../support.rst:414
+msgid "PBI_PROGTYPE="
+msgstr ""
+
+#: ../../support.rst:414
+msgid "mandatory; use \"Graphical\" or \"Text\""
+msgstr ""
+
+#: ../../support.rst:416
+msgid "PBI_CATEGORY="
+msgstr ""
+
+#: ../../support.rst:416
+msgid "the category to place the application into; click \"Browse Categories\" within AppCafe to see the list of categories"
+msgstr ""
+
+#: ../../support.rst:418
+msgid "PBI_OTHERPKGS="
+msgstr ""
+
+#: ../../support.rst:418
+msgid "a space separated list in the format \"category/portname\" of other applications to bundle into the PBI"
+msgstr ""
+
+#: ../../support.rst:420
+msgid "PBI_PLUGINS="
+msgstr ""
+
+#: ../../support.rst:420
+msgid "a space separated list in the format \"category/portname\" of similar packages"
+msgstr ""
+
+#: ../../support.rst:422
+msgid "PBI_SCREENSHOTS="
+msgstr ""
+
+#: ../../support.rst:422
+msgid "a space separated list of URLs to screenshots in :file:`.png` or :file:`.jpg` format"
+msgstr ""
+
+#: ../../support.rst:424
+msgid "PBI_RELATED="
+msgstr ""
+
+#: ../../support.rst:424
+msgid "a space separated list in the format \"category/portname\" of similar PBIs"
+msgstr ""
+
+#: ../../support.rst:426
+msgid "export"
+msgstr ""
+
+#: ../../support.rst:426
+msgid "mandatory; followed by a list of all of the variables used in the file"
+msgstr ""
+
+#: ../../support.rst:429
+msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
+msgstr ""
+
+#: ../../support.rst:438
+msgid "Purchase PC-BSD® Swag"
+msgstr ""
+
+#: ../../support.rst:440
+msgid "While PC-BSD® is free, some users may wish to purchase media or other items to show their support for the PC-BSD® Project. PC-BSD® items are available from the following websites:"
+msgstr ""
+
+#: ../../support.rst:443
+msgid "`FreeBSD Mall <https://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
+msgstr ""
+
+#: ../../support.rst:446
 msgid "Amazon: sells The Definitive Guide to PC-BSD® (hard copy and Kindle formats) as well as the Kindle versions of the PC-BSD® Handbook. Items available for purchase in your country may vary."
 msgstr ""
 
-#: ../../support.rst:417
+#: ../../support.rst:449
 msgid "`The PC-BSD® Corporate Storefront <http://pcbsd.qbstores.com/>`_: sells high-quality apparel and accessories."
 msgstr ""
 
-#: ../../support.rst:423
+#: ../../support.rst:455
 msgid "Become an Advocate"
 msgstr ""
 
-#: ../../support.rst:425
+#: ../../support.rst:457
 msgid "So you love PC-BSD®? Why not tell your family, friends, fellow students and colleagues about it? You will not be the only one that likes a virus-free, feature-rich, no-cost operating system. Here are some suggestions to get you started:"
 msgstr ""
 
-#: ../../support.rst:428
+#: ../../support.rst:460
 msgid "Burn a couple of DVDs and pass them out. If your school or user group has an upcoming event where you can promote PC-BSD®, you can request additional DVDs from sales@pcbsd.com."
 msgstr ""
 
-#: ../../support.rst:431
+#: ../../support.rst:463
 msgid "Consider giving a presentation about PC-BSD® at a local community event or conference. Let us know about it and we will help you spread the word."
 msgstr ""
 
-#: ../../support.rst:433
+#: ../../support.rst:465
 msgid "Write a personal blog detailing your journey from your first PC-BSD® install experience to your most recent accomplishment. The blog could also be used to teach or explain how to perform tasks on PC-BSD®. A regional language blog may help build the community in your area and to find others with similar interests."
 msgstr ""
 

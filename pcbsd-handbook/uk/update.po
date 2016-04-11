@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: 2015-06-26 14:08+0000\n"
 "Last-Translator: yurkis <yurkis@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgid "AppCafe®"
 msgstr ""
 
 #: ../../update.rst:22
-msgid "AppCafe® provides an intuitive, graphical method for installing and managing software. It provides a graphical front-end to FreeBSD packages, which are pre-built applications that have been tested for FreeBSD. It also provides a front-end to PBIs, which are packages that contain extra meta-data which is displayed in AppCafe®, such as screenshots and lists of similar applications. It also provides graphical jail management, which allows you to run applications which are isolated from the rest of the operating system."
+msgid "AppCafe® provides an intuitive, graphical method for installing and managing software. It provides a graphical front-end to FreeBSD packages, which are pre-built applications tested for FreeBSD. It also provides a front-end to PBIs, which are packages that contain extra meta-data which is displayed in AppCafe®, such as screenshots and lists of similar applications. It also provides graphical jail management, which allows you to run applications which are isolated from the rest of the operating system."
 msgstr ""
 
 #: ../../update.rst:27
@@ -140,7 +140,7 @@ msgid "The \"Recommended Applications\" section displays applications which are 
 msgstr ""
 
 #: ../../update.rst:131
-msgid "The \"Categories\" pane lists the available software categories. By default, only the recommended applications for each category are shown. To instead view all of the PBIs for each category, click the \"Recommended\" button which will change to an \"All Apps\" button. Click the name of a category to view the available PBIs within that category."
+msgid "The \"Categories\" pane lists the available software categories. By default, only the recommended applications for each category are shown. Alternately, to view all of the PBIs for each category, click the \"Recommended\" button which will change to an \"All Apps\" button. Click the name of a category to view the available PBIs within that category."
 msgstr ""
 
 #: ../../update.rst:135
@@ -236,7 +236,7 @@ msgid "Plugins"
 msgstr ""
 
 #: ../../update.rst:205
-msgid "Beginning with PC-BSD® 10.2, plugins can be used to install a pre-configured, isolated application into its own jail. A `jail <https://en.wikipedia.org/wiki/FreeBSD_jail>`_ provides a very light-weight, operating system-level virtualization. A jail is similar to running an independent instance of FreeBSD on the same hardware, without all of the overhead usually associated with virtualization. Jails are usually created for running applications or services. For example, you could host your own media server on your desktop system without affecting other installed applications or your data. Each jail has its own IP address, running processes, and users. Whatever happens in that jail does not affect your operating system or other jails running on the PC-BSD® system."
+msgid "Beginning with PC-BSD® 10.2, plugins can be used to install a pre-configured, isolated application into its own jail. A :wikipedia:`FreeBSD jail` provides a very light-weight, operating system-level virtualization. A jail is similar to running an independent instance of FreeBSD on the same hardware, without all of the overhead usually associated with virtualization. Jails are usually created for running applications or services. For example, you could host your own media server on your desktop system without affecting other installed applications or your data. Each jail has its own IP address, running processes, and users. Whatever happens in that jail does not affect your operating system or other jails running on the PC-BSD® system."
 msgstr ""
 
 #: ../../update.rst:211
@@ -468,165 +468,169 @@ msgid "Once the update is complete, the new boot environment, or updated snapsho
 msgstr ""
 
 #: ../../update.rst:533
-msgid "As the update is running, a log is written to :file:`/var/log/pc-updatemanager.log` and this log is displayed in the \"View Log\" tab of the graphical Update Manager utility, shown in :numref:`Figure %s: Viewing the Update Log <update10a>`. This way you can see which software is being updated and if there are any updating errors. The next time an update occurs, the previous log is written to :file:`/var/log/pc-updatemanager.log.prev`, so that you also have a copy of the previous update's log."
+msgid "The default ZFS layout used by PC-BSD® ensures that when new boot environments are created, the :file:`/usr/local/`, :file:`/usr/home/`, :file:`/usr/ports/`, :file:`/usr/src/` and :file:`/var/` directories remain untouched. This way, if you decide to rollback to a previous boot environment, you will not lose data in your home directories, any installed applications, or downloaded src or ports. However, you will return the system to its previous state, before the update was applied."
 msgstr ""
 
 #: ../../update.rst:537
+msgid "As the update is running, a log is written to :file:`/var/log/pc-updatemanager.log` and this log is displayed in the \"View Log\" tab of the graphical Update Manager utility, shown in :numref:`Figure %s: Viewing the Update Log <update10a>`. This way you can see which software is being updated and if there are any updating errors. The next time an update occurs, the previous log is written to :file:`/var/log/pc-updatemanager.log.prev`, so that you also have a copy of the previous update's log."
+msgstr ""
+
+#: ../../update.rst:541
 msgid "You no longer need to initiate updates manually. PC-BSD® now uses an automated updater that automatically checks for updates, no more than once per day, 20 minutes after a reboot and then every 24 hours. You can configure what gets updated using the \"Configure Automatic Updates\" tab of Update Manager, shown in :numref:`Figure %s: Configuring What to Update <update11a>`. Choices are \"Security & Packages\" (all updates), \"Security\" (only security patches and operating system updates), \"Packages\" (only installed software), or \"Nothing\" (disables automatic updating)."
 msgstr ""
 
-#: ../../update.rst:554
+#: ../../update.rst:558
 msgid "The \"View\" menu of Update Manager provides the following information:"
 msgstr ""
 
-#: ../../update.rst:556
+#: ../../update.rst:560
 msgid "**Vulnerabilities:** click this entry to determine if any of the installed software has a known, unpatched vulnerability. In the example shown in :numref:`Figure %s: Viewing Installed Software Vulnerability Information <update14>`, two installed packages have known vulnerabilities. If you highlight an entry and click the \"More info...\" button, the default web browser will open to a page that provides more details about the vulnerability."
 msgstr ""
 
-#: ../../update.rst:560
+#: ../../update.rst:564
 msgid "**Base updates history:** the \"Version\" field in :ref:`About` usually includes a patch number which indicates the level to which the operating system has been patched against known vulnerabilities. If you click this entry, it will provide an overview of which vulnerabilities were addressed at each patch level. In the example shown in :numref:`Figure %s: Viewing Operating System Patches <update15>`, the system is running \"10.1-RELEASE-p20, or patch level 20. Most patch levels have an associated Security Advisory (SA). More information about each advisory is available from the `FreeBSD Security Advisories page <https://www.freebsd.org/security/advisories.html>`_."
 msgstr ""
 
-#: ../../update.rst:573
+#: ../../update.rst:577
 msgid "The \"System\" menu of Update Manager provides one option:"
 msgstr ""
 
-#: ../../update.rst:575
+#: ../../update.rst:579
 msgid "**Branches:** users who wish to test upcoming versions can switch software branches and update to that software branch. In the example shown in :numref:`Figure %s: Switching Branches <branch1>`, this system is currently running the 10.1* branch and the upcoming 11.0 branch is available for selection."
 msgstr ""
 
-#: ../../update.rst:582
+#: ../../update.rst:586
 msgid "Updates can still be initiated manually using either a GUI or a command-line application. The rest of this section demonstrates how to manually update using either the GUI or the command-line method."
 msgstr ""
 
-#: ../../update.rst:589
+#: ../../update.rst:593
 msgid "Manual Updates (GUI Method)"
 msgstr ""
 
-#: ../../update.rst:591
+#: ../../update.rst:595
 msgid "Beginning in version 10.1.1, the automatic updater will automatically keep your system up-to-date. You will know that an update has completed when the pop-up menu, shown in :numref:`Figure %s: Managing the Reboot After Update <update9>`, indicates that a reboot is needed to complete the update process. The automatic updater will only update what it has been configured to update. If you would like to double-check or change what gets updated, start Update Manager, enter your password, and use the drop-down menu in the \"Configure Automatic Updates\" screen shown in :numref:`Figure %s: Configuring What to Update <update11a>`."
 msgstr ""
 
-#: ../../update.rst:596
+#: ../../update.rst:600
 msgid "Due to its schedule, the automatic updater will never check for new updates more than once in a 24 hour period. To manually check for updates, right-click the Update Manager in system tray and click \"Check for Updates\". Alternatively, start Update Manager. If any updates are available, an \"Updates Available\" tab will appear, as seen in the example in :numref:`Figure %s: Updates are Available <update12a>`. If no updates are available, of if the system is currently updating, this tab will not appear."
 msgstr ""
 
-#: ../../update.rst:604
+#: ../../update.rst:608
 msgid "In this example, a security update is available. Click the \"Start Updates\" button to manually start the update. When prompted, reboot so that the system can boot into the newly patched operating system."
 msgstr ""
 
-#: ../../update.rst:607
+#: ../../update.rst:611
 msgid "When package updates are available a \"View Package Updates\" box can be clicked to see which packages will be upgraded."
 msgstr ""
 
-#: ../../update.rst:609
+#: ../../update.rst:613
 msgid "how often package updates are available depends upon the \"Repository Settings\" set in :menuselection:`AppCafe® --> Configure`. The default setting of \"Production\" will only provide package updates every 3 months whereas a setting of \"Edge\" will provide package updates as soon as a new version is available. If you need application stability, stay on \"Production\". If you can handle some application breakage in favor of having the latest software, change to \"Edge\". Also, if you select \"Security\" or \"Nothing\" in the \"Configure Automatic Updates\" tab of Update Manager, packages will only get updated with the next software release which happens every 3 months."
 msgstr ""
 
-#: ../../update.rst:615
+#: ../../update.rst:619
 msgid "updates will update **all** installed software. If you have placed a lock on a package using :command:`pkg` or an older version of AppCafe®, Update Manager will fail and will generate a message in the log indicating that the failure is due to a locked package. If you prefer to lock certain applications against being updated, select \"Security\" or \"Nothing\" in the \"Configure Automatic Updates\" tab of Update Manager and manually update software as needed using :command:`pkg`."
 msgstr ""
 
-#: ../../update.rst:624
+#: ../../update.rst:628
 msgid "Manual Updates (CLI Method)"
 msgstr ""
 
-#: ../../update.rst:626
+#: ../../update.rst:630
 msgid "TrueOS® users, or those who prefer to use a command-line utility, can use :command:`pc-updatemanager` to manually apply updates. If you type :command:`pc-updatemanager`, it will show its available options::"
 msgstr ""
 
-#: ../../update.rst:645
+#: ../../update.rst:649
 msgid "To determine if any system updates are available, type the following command::"
 msgstr ""
 
-#: ../../update.rst:662
+#: ../../update.rst:666
 msgid "If any updates are available, follow the instructions to install the update::"
 msgstr ""
 
-#: ../../update.rst:687
+#: ../../update.rst:691
 msgid "If no updates are available, the **check** command will indicate \"Your system is up to date!\"."
 msgstr ""
 
-#: ../../update.rst:689
+#: ../../update.rst:693
 msgid "To determine if package updates are available, use this command::"
 msgstr ""
 
-#: ../../update.rst:721
+#: ../../update.rst:725
 msgid "In this example, newer versions are available. If no updates were available, the output would have instead said \"All packages are up to date!\"."
 msgstr ""
 
-#: ../../update.rst:723
+#: ../../update.rst:727
 msgid "If updates are available, you can install them with this command::"
 msgstr ""
 
-#: ../../update.rst:779
+#: ../../update.rst:783
 msgid "While the package output has been snipped from this example due to the amount of packages to be upgraded, the update process will download the latest versions of the packages which need updating, displaying the download progress for each file. Once the downloads are complete, it will create a new boot environment and display the installation process for each file within the boot environment. The last step of the update process is to extract the desktop (or server) overlay and upgrade GRUB and then to return the prompt. Once the update is complete, reboot to boot into the updated version of the system."
 msgstr ""
 
-#: ../../update.rst:788
+#: ../../update.rst:792
 msgid "Upgrading from 9.x to 10.x"
 msgstr ""
 
-#: ../../update.rst:790
+#: ../../update.rst:794
 msgid "PC-BSD® 10.x has switched to 64-bit and ZFS-only. This means that you can **not** upgrade a system that is either 32-bit or formatted with UFS. If the hardware supports 64-bit, you will need to backup your important data to another system or external drive and then perform a new installation. The new installation will perform a format of the selected disk(s) with ZFS."
 msgstr ""
 
-#: ../../update.rst:794
+#: ../../update.rst:798
 msgid "The boot loader and default ZFS layout has changed to support :ref:`Boot Manager` and ZFS snapshot management with :ref:`Life Preserver`. For this reason, 9.x users should backup their important data to another system or external drive and then perform a new installation which will create the required ZFS layout."
 msgstr ""
 
-#: ../../update.rst:801
+#: ../../update.rst:805
 msgid "Upgrading from 10.x to |version|"
 msgstr ""
 
-#: ../../update.rst:803
-msgid "Upgrading from any 10.x version to |version| is the same as applying any package update. This means that the update to |version| will either appear in Update Manager as a package update, for both \"Edge\" and \"Production\" users, or in the listing of :command:`pc-updatemanager pkgcheck`."
+#: ../../update.rst:807
+msgid "Upgrading from any 10.x version to |version| is the same as applying any package update. This means the update to |version| will either appear in Update Manager as a package update, for both \"Edge\" and \"Production\" users, or in the listing of :command:`pc-updatemanager pkgcheck`."
 msgstr ""
 
-#: ../../update.rst:806
+#: ../../update.rst:810
 msgid "a fresh install, rather than an update, is only required if you wish to take advantage of any of the following features: UEFI boot (on a current non-UEFI installation), full disk encryption, or the `improved encryption key generation provided by GELIv7 <https://github.com/freebsd/freebsd/commit/38de8ef1dd0e468ff1e3ec1c431f465e270beba3>`_. This means that you will have to backup your data to an external drive or another system, perform the new install, then restore your data from the backup."
 msgstr ""
 
-#: ../../update.rst:815
+#: ../../update.rst:819
 msgid "Create a Local Package Mirror"
 msgstr ""
 
-#: ../../update.rst:817
+#: ../../update.rst:821
 msgid "The official PC-BSD® package repository is hosted as a `ScaleEngine <http://www.scaleengine.com/>`_ CDN (Content Delivery Network). It is possible to :command:`rsync` a copy of the package repository, which means you can have a locally hosted, complete package repository available for your own clients."
 msgstr ""
 
-#: ../../update.rst:820
-msgid "To create a local package mirror, first setup a directory which is served over HTTP. The web server can be a public URL on the Internet or a private web server, as long as it is accessible to your target audience. Ensure that this directory is browsable by a web browser from a client system **before** moving on to the next step."
-msgstr ""
-
 #: ../../update.rst:824
-msgid "Once you have the HTTP directory ready for serving, use the following commands to sync with the official package repository::"
+msgid "To create a local package mirror, first setup a directory which is served over HTTP. The web server can be a public URL on the Internet or a private web server, as long as it is accessible to your target audience. Ensure this directory is browsable by a web browser from a client system **before** moving on to the next step."
 msgstr ""
 
 #: ../../update.rst:828
+msgid "Once you have the HTTP directory ready for serving, use the following commands to sync with the official package repository::"
+msgstr ""
+
+#: ../../update.rst:832
 msgid "The complete package repository may be well over 200GB in size. If you do not need the entire repository, you can instead sync the specific version of PC-BSD® packages to pull as shown in these examples::"
 msgstr ""
 
-#: ../../update.rst:835
+#: ../../update.rst:839
 msgid "Note that for major RELEASES, you will pull the *.0* version for the entire branch. In other words, both the 10.1 and 10.2 minor releases use the *10.0-RELEASE* package directory."
 msgstr ""
 
-#: ../../update.rst:838
+#: ../../update.rst:842
 msgid "Once the repository is downloaded, configure each client by editing their :file:`/usr/local/etc/pcbsd.conf` file with the following. Replace *<myhost>* with the URL to the local repository::"
 msgstr ""
 
-#: ../../update.rst:844
+#: ../../update.rst:848
 msgid "After editing each client's file, run :command:`pc-updatemanager syncconf` on the client to apply the changes."
 msgstr ""
 
-#: ../../update.rst:847
+#: ../../update.rst:851
 msgid "Alternately, on each client, configure :ref:`Appcafe®` to use the custom repository. Go to :menuselection:`Configure --> Repository Settings`. Click \"Custom\" in the screen shown in :numref:`Figure %s: Add the Custom Repository to AppCafe® <repo1>`, then the \"+\" button. Input the URL to the repository and click \"OK\"."
 msgstr ""
 
-#: ../../update.rst:854
+#: ../../update.rst:858
 msgid "It will take a few minutes for AppCafe® to read in the :file:`INDEX` for the custom repository."
 msgstr ""
 
-#: ../../update.rst:856
+#: ../../update.rst:860
 msgid "Configured clients will now use your local mirror whenever they use :command:`pkg` or AppCafe®."
 msgstr ""

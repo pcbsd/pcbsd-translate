@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: 2016-01-07 18:47+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -398,61 +398,55 @@ msgstr ""
 "del hardware RAID, y ACLs de NFSv4 nativas."
 
 #: ../../install.rst:239
-msgid "If you are new to ZFS, the `Wikipedia entry on ZFS <https://en.wikipedia.org/wiki/ZFS>`_ provides an excellent starting point to learn about its features. Additionally, `FreeBSD Mastery: ZFS <http://zfsbook.com>`_ by Michael W Lucas and Allan Jude is a very helpful resource and is more specific to ZFS as it is implemented in FreeBSD."
+msgid "If you are new to ZFS, the Wikipedia entry on :wikipedia:`ZFS` provides an excellent starting point to learn about its features. Additionally, `FreeBSD Mastery: ZFS <https://www.michaelwlucas.com/nonfiction/freebsd-mastery-zfs>`_  by Michael W Lucas and Allan Jude is a very helpful resource and is more specific to ZFS as it is implemented in FreeBSD."
 msgstr ""
-"Si usted es nuevo en ZFS, la `Entrada de ZFS en la Wikipedia "
-"<https://en.wikipedia.org/wiki/ZFS>`_ le proporciona un punto de inicio "
-"excelente para aprender acerca de sus características. Adicionalmente, `"
-"FreeBSD Mastery: ZFS <http://zfsbook.com>`_ de Michael W. Lucas y Allan Jude "
-"es un recurso muy útil y es más específico en ZFS como está implementado en "
-"FreeBSD."
 
-#: ../../install.rst:241
+#: ../../install.rst:243
 msgid "These resources are also useful to bookmark and refer to as needed:"
 msgstr ""
 "Estos recursos son también útiles para marcarlos y referirse a ellos según "
 "los necesite:"
 
-#: ../../install.rst:243
+#: ../../install.rst:245
 msgid "`ZFS Evil Tuning Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Evil_Tuning_Guide>`_"
 msgstr ""
 "`ZFS Evil Tuning Guide <http://www.solaris-cookbook.eu/solaris/solaris-10"
 "-zfs-evil-tuning-guide/>`_"
 
-#: ../../install.rst:245
+#: ../../install.rst:247
 msgid "`FreeBSD ZFS Tuning Guide <https://wiki.FreeBSD.org/ZFSTuningGuide>`_"
 msgstr "`FreeBSD ZFS Tuning Guide <https://wiki.FreeBSD.org/ZFSTuningGuide>`_"
 
-#: ../../install.rst:247
+#: ../../install.rst:249
 msgid "`ZFS Best Practices Guide <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide>`_"
 msgstr ""
 "`ZFS Best Practices Guide "
 "<http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide>`_ "
 "(Offline)"
 
-#: ../../install.rst:249
+#: ../../install.rst:251
 msgid "`ZFS Administration Guide <http://docs.oracle.com/cd/E19253-01/819-5461/index.html>`_"
 msgstr ""
 "`ZFS Administration Guide "
 "<http://docs.oracle.com/cd/E19253-01/819-5461/index.html>`_"
 
-#: ../../install.rst:251
+#: ../../install.rst:253
 msgid "`Becoming a ZFS Ninja (video) <https://blogs.oracle.com/video/entry/becoming_a_zfs_ninja>`_"
 msgstr ""
 "`Becoming a ZFS Ninja (video) "
 "<https://blogs.oracle.com/video/entry/becoming_a_zfs_ninja>`_"
 
-#: ../../install.rst:253
+#: ../../install.rst:255
 msgid "`blog post explaining how ZFS simplifies the storage stack <https://blogs.oracle.com/bonwick/entry/rampant_layering_violation>`_"
 msgstr ""
 "`Entrada de blog explicando cómo ZFS simplifica la pila de almacenamiento "
 "<https://blogs.oracle.com/bonwick/entry/rampant_layering_violation>`_"
 
-#: ../../install.rst:255
+#: ../../install.rst:257
 msgid "The following is a glossary of terms used by ZFS:"
 msgstr "El siguiente es un glosario de términos usados por ZFS:"
 
-#: ../../install.rst:257
+#: ../../install.rst:259
 msgid "**Pool:** a collection of devices that provides physical storage and data replication managed by ZFS. This pooled storage model eliminates the concept of volumes and the associated problems of partitions, provisioning, wasted bandwidth, and stranded storage. Thousands of filesystems can draw from a common storage pool, each one consuming only as much space as it actually needs. The combined I/O bandwidth of all devices in the pool is available to all filesystems at all times. The `Storage Pools Recommendations <http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide#ZFS_Storage_Pools_Recommendations>`_ of the ZFS Best Practices Guide provides detailed recommendations for creating the storage pool."
 msgstr ""
 "**Pool:** Una colección de dispositivos que proporcionan almacenamiento "
@@ -468,35 +462,35 @@ msgstr ""
 "ge_Pools_Recommendations>`_ de la Guía de Mejores Prácticas de ZFS "
 "proporciona recomendaciones detalladas para crear el pool de almacenamiento."
 
-#: ../../install.rst:264
+#: ../../install.rst:266
 msgid "**Mirror:** a form of RAID where all data is mirrored onto two or more disks, creating a redundant copy should a disk fail."
 msgstr ""
 "**Mirror:** Una forma de RAID donde todos los datos son reflejados dentro de "
 "dos o más discos, creando una copia redundante por si un disco llegara a "
 "fallar."
 
-#: ../../install.rst:266
+#: ../../install.rst:268
 msgid "**RAIDZ:** ZFS software solution that is equivalent to RAID5 in that it allows one disk to fail without losing data. Requires a minimum of 3 disks."
 msgstr ""
 "**RAIDZ:** Solución de software ZFS que es equivalente al RAID5 en el caso "
 "de que permite que un disco falle sin perder datos. Requiere un mínimo de 3 "
 "discos."
 
-#: ../../install.rst:268
+#: ../../install.rst:270
 msgid "**RAIDZ2:** double-parity ZFS software solution that is similar to RAID6 in that it allows two disks to fail without losing data. Requires a minimum of 4 disks."
 msgstr ""
 "**RAIDZ2:** Solución de software ZFS de doble paridad que es similar al "
 "RAID6 en el caso de que permite que dos discos fallen sin perder datos. "
 "Requiere un mínimo de 4 discos."
 
-#: ../../install.rst:271
+#: ../../install.rst:273
 msgid "**RAIDZ3:** triple-parity ZFS software solution. RAIDZ3 offers three parity drives and can operate in degraded mode if up to three drives fail with no restrictions on which drives can fail."
 msgstr ""
 "**RAIDZ3:** Solución de software ZFS de triple paridad. RAIDZ3 ofrece tres "
 "discos de paridad y puede operar en modo degradado si más de tres discos "
 "fallan, sin restricciones de cuales discos pueden fallar."
 
-#: ../../install.rst:274
+#: ../../install.rst:276
 msgid "**Dataset:** once a pool is created, it can be divided into datasets. A dataset is similar to a folder in that it supports permissions. A dataset is also similar to a filesystem in that you can set properties such as quotas and compression."
 msgstr ""
 "**Dataset:** Una vez que se ha creado un pool, puede dividirse en datasets. "
@@ -504,7 +498,7 @@ msgstr ""
 "dataset también es similar a un sistema de archivos en que puede darle "
 "propiedades como quotas y compresión."
 
-#: ../../install.rst:277
+#: ../../install.rst:279
 msgid "**Snapshot:** a read-only point-in-time copy of a filesystem. Snapshots can be created quickly and, if little data changes, new snapshots take up very little space. For example, a snapshot where no files have changed takes 0MB of storage, but if you change a 10GB file it will keep a copy of both the old and the new 10GB version. Snapshots provide a clever way of keeping a history of files, should you need to recover an older copy or even a deleted file. For this reason, many administrators take snapshots often (e.g. every 15 minutes), store them for a period of time (e.g. for a month), and store them on another system. Such a strategy allows the administrator to roll the system back to a specific time or, if there is a catastrophic loss, an off-site snapshot can restore the system up to the last snapshot interval (e.g. within 15 minutes of the data loss). Snapshots can be cloned or rolled back, but the files on the snapshot can not be accessed independently."
 msgstr ""
 "**Snapshot:** Una copia de solo lectura y de un punto en el tiempo de un "
@@ -524,7 +518,7 @@ msgstr ""
 "de los datos). Los snapshots pueden clonarse o regresarse, pero los archivos "
 "en el snapshot no se pueden accesar independientemente."
 
-#: ../../install.rst:285
+#: ../../install.rst:287
 msgid "**Clone:** a writable copy of a snapshot which can only be created on the same ZFS volume. Clones provide an extremely space-efficient way to store many copies of mostly-shared data such as workspaces, software installations, and diskless clients. Clones do not inherit the properties of the parent dataset, but rather inherit the properties based on where the clone is created in the ZFS pool. Because a clone initially shares all its disk space with the original snapshot, its used property is initially zero. As changes are made to the clone, it uses more space."
 msgstr ""
 "**Clon:** Una copia con permisos de escritura de un snapshot, el cuál solo "
@@ -537,7 +531,7 @@ msgstr ""
 "espacio en disco con el snapshot original, su propiedad de uso es "
 "inicialmente cero. Conforme se hagan cambios en el clon, usa más espacio."
 
-#: ../../install.rst:290
+#: ../../install.rst:292
 msgid "**ZIL:** is effectively a filesystem journal that manages writes. The ZIL is a temporary storage area for sync writes until they are written asynchronously to the ZFS pool. If the system has many sync writes, such as from a database server, performance can be increased by adding a dedicated log device known as a SLOG (Secondary LOG). If the system has few sync writes, a SLOG will not speed up writes. When creating a dedicated log device, it is recommended to use a fast SSD with a supercapacitor or a bank of capacitors that can handle writing the contents of the SSD's RAM to the SSD. If you decide to create a dedicated log device, the SSD should be half the size of system RAM as anything larger than that is unused capacity. Note that a dedicated log device can not be shared between ZFS pools and that the same device cannot hold both a log and a cache device."
 msgstr ""
 "**ZIL:** Es efectivamente un journal de sistema de archivos que administra "
@@ -556,7 +550,7 @@ msgstr ""
 "que el mismo dispositivo no puede alojar ni un dispositivo de logueo ni un "
 "dispositivo de caché."
 
-#: ../../install.rst:297
+#: ../../install.rst:299
 msgid "**L2ARC:** ZFS uses a RAM cache to reduce read latency. If an SSD is dedicated as a cache device, it is known as an L2ARC and ZFS uses it to store more reads which can increase random read performance. However, adding a cache device will not improve a system with too little RAM and will actually decrease performance as ZFS uses RAM to track the contents of L2ARC. RAM is always faster than disks, so always add as much RAM as possible before determining if the system would benefit from a L2ARC device. If you have a lot of applications that do large amounts of random reads on a dataset small enough to fit into the L2ARC, read performance may be increased by adding a dedicated cache device. SSD cache devices only help if your working set is larger than system RAM, but small enough that a significant percentage of it will fit on the SSD. Note that a dedicated L2ARC device can not be shared between ZFS pools."
 msgstr ""
 "**L2ARC:** ZFS usa un caché de RAM para reducir la latencia de lectura. Si "
@@ -575,18 +569,18 @@ msgstr ""
 "pequeño que un porcentaje significativo de él quepa en el SSD. Note que un "
 "dispositivo L2ARC dedicado no puede ser compartido entre pools de ZFS."
 
-#: ../../install.rst:308
+#: ../../install.rst:310
 msgid "ZFS Layout"
 msgstr "Diseño de ZFS"
 
-#: ../../install.rst:310
+#: ../../install.rst:312
 msgid "In \"Advanced Mode\", the disk setup wizard allows you to configure your ZFS layout. The initial ZFS configuration screen is seen in :numref:`Figure %s: ZFS Configuration <install9a>`."
 msgstr ""
 "En el \"Modo Avanzado\", el asistente de configuración del disco le permite "
 "configurar su diseño ZFS. La pantalla inicial de la configuración de ZFS se "
 "muestra en la :numref:`Figura %s: Configuración ZFS <install9a>`."
 
-#: ../../install.rst:316
+#: ../../install.rst:318
 msgid "If your system contains multiple drives and you would like to use them to create a ZFS mirror or RAIDZ*, check the box \"Add additional disks to zpool\" which will enable this screen. Any available disks will be listed in the box below the \"ZFS Virtual Device Mode\" drop-down menu. Select the desired level of redundancy, then the desired number of disks."
 msgstr ""
 "Si su sistema contiene múltiples discos y quiere usarlos para crear un "
@@ -596,54 +590,54 @@ msgstr ""
 "ZFS\". Seleccione el nivel deseado de redundancia, después el número deseado "
 "de discos."
 
-#: ../../install.rst:320
+#: ../../install.rst:322
 msgid "the PC-BSD® installer requires you to use entire disks (not partitions) when adding additional disks to the pool."
 msgstr ""
 "El instalador de PC-BSD® requiere que usted use los discos completos (no "
 "particiones) cuando se añaden discos adicionales al pool."
 
-#: ../../install.rst:322
+#: ../../install.rst:324
 msgid "While ZFS will let you use disks of different sizes, this is discouraged as it will decrease storage capacity and ZFS performance."
 msgstr ""
 "Mientras que ZFS le dejará usar discos de diferentes tamaños, esto no se "
 "recomienda ya que decrecerá la capacidad de almacenamiento y el rendimiento "
 "de ZFS."
 
-#: ../../install.rst:324
+#: ../../install.rst:326
 msgid "The PC-BSD® installer supports the following ZFS configurations:"
 msgstr ""
 "El instalador de PC-BSD® soporta las siguientes configuraciones para ZFS:"
 
-#: ../../install.rst:326
+#: ../../install.rst:328
 msgid "**mirror:** requires a minimum of 2 disks."
 msgstr "**Mirror:** Requiere un mínimo de 2 discos."
 
-#: ../../install.rst:328
+#: ../../install.rst:330
 msgid "**RAIDZ1:** requires a minimum of 3 disks. For best performance, a maximum of 9 disks is recommended."
 msgstr ""
 "**RAIDZ1:** Requiere un mínimo de 3 discos. Para un mejor rendimiento, un "
 "máximo de 9 discos es recomendado."
 
-#: ../../install.rst:330
+#: ../../install.rst:332
 msgid "**RAIDZ2:** requires a minimum of 4 disks. For best performance, a maximum of 10 disks is recommended."
 msgstr ""
 "**RAIDZ2:** Requiere un mínimo de 4 discos. Para un mejor rendimiento, un "
 "máximo de 10 discos es recomendado."
 
-#: ../../install.rst:332
+#: ../../install.rst:334
 msgid "**RAIDZ3:** requires a minimum of 5 disks. For best performance, a maximum of 11 disks is recommended."
 msgstr ""
 "**RAIDZ3:** Requiere un mínimo de 5 discos. Para un mejor rendimiento, un "
 "máximo de 11 discos es recomendado."
 
-#: ../../install.rst:334
+#: ../../install.rst:336
 msgid "**stripe:** requires a minimum of 2 disks. **Note that a stripe does NOT provide ANY redundancy. If any disk fails in a stripe, all data in the pool is lost!**"
 msgstr ""
 "**Stripe:** requiere un mínimo de 2 discos. **Note que un stripe NO "
 "proporciona NINGUNA redundancia. Si cualquier disco en el stripe falla, "
 "todos los datos en el pool se pierden!**"
 
-#: ../../install.rst:337
+#: ../../install.rst:339
 msgid "The installer will not let you save a configuration if your system does not meet the minimum number of disks required by that configuration. As you select a configuration, a message will indicate how many more disks you need to select."
 msgstr ""
 "El instalador no le permitirá guardar la configuración si su sistema no "
@@ -651,7 +645,7 @@ msgstr ""
 "que seleccione una configuración, un mensaje le indicará cuántos discos más "
 "necesita seleccionar."
 
-#: ../../install.rst:340
+#: ../../install.rst:342
 msgid "To use multiple disks, select the type of configuration from the \"ZFS Virtual Device Mode\" drop-down menu, then check the box for each disk that you would like to add to that configuration. When finished, click the \"Next\" button to see the screen shown in :numref:`Figure %s: Add L2ARC or ZIL <install10a>`."
 msgstr ""
 "Para usar múltiples discos, seleccione el tipo de configuración desde el "
@@ -660,7 +654,7 @@ msgstr ""
 "presione el botón \"Siguiente\" para ver la pantalla mostrada en la :numref:`"
 "Figura %s: Añadiendo L2ARC o ZIL <install10a>`."
 
-#: ../../install.rst:347
+#: ../../install.rst:349
 msgid "This screen can be used to specify an SSD to use as an L2ARC or a secondary log device. Any available devices will be listed in the boxes in this screen. Note that a separate SSD is needed for each type of device. Refer to the descriptions for ZIL and L2ARC in the :ref:`ZFS Overview` to determine if your system would benefit from any of these devices before adding them in this screen. When finished, click \"Next\" to see the screen shown in :numref:`Figure %s: Configure Encryption <install11a>`."
 msgstr ""
 "Esta pantalla puede ser usada para especificar un SSD a usar como un L2ARC o "
@@ -672,7 +666,7 @@ msgstr ""
 "Cuando termine, presione \"Next\" para ver la pantalla mostrada en la "
 ":numref:`Figura %s: Configurando Encriptación <install11a>`."
 
-#: ../../install.rst:355
+#: ../../install.rst:357
 msgid "This screen can be used to configure full-disk encryption which is meant to protect the data on the disks should the system itself be lost or stolen. This type of encryption prevents the data on the disks from being available during bootup, unless the correct passphrase is typed at the bootup screen. Once the passphrase is accepted, the data is unencrypted and can easily be read from disk."
 msgstr ""
 "Esta pantalla puede usarse para configurar la encriptación completa del "
@@ -683,7 +677,7 @@ msgstr ""
 "Una vez que la contraseña sea aceptada, los datos son desencriptados y se "
 "pueden leer fácilmente desde el disco."
 
-#: ../../install.rst:359
+#: ../../install.rst:361
 msgid "To configure full disk encryption, check the box \"Encrypt disk with GELI\". This option will be greyed out if \"GPT (Best for new hardware)\" is not selected as GELI does not support MBR partitioning at this time. If needed, use the \"Back\" button to go back to the :ref:`Advanced Mode` screen and select the option \"GPT (Best for new hardware)\". Once the \"Encrypt disk with GELI\" box is checked, input a good passphrase twice into the \"Password\" fields. This password should be long and something that you will not forget, but hard for other users, especially those who know you, to guess."
 msgstr ""
 "Para configurar la encriptación completa del disco, seleccione la casilla \""
@@ -697,19 +691,19 @@ msgstr ""
 "le olvide, pero difícil de adivinar para otros usuarios, especialmente "
 "aquellos que le conocen."
 
-#: ../../install.rst:364
+#: ../../install.rst:366
 msgid "if you ever forget this passphrase, you will be unable to decrypt the disks and will lose access to their data!"
 msgstr ""
 "Si usted olvida esta contraseña, usted no será capaz de desencriptar los "
 "discos y perderá el acceso a sus datos!"
 
-#: ../../install.rst:366
+#: ../../install.rst:368
 msgid "When finished, click \"Next\" to move on the screen shown in :numref:`Figure %s: Default ZFS Layout <install12a>`."
 msgstr ""
 "Cuando termine, presione \"Siguiente\" para pasar a la pantalla mostrada en "
 "la :numref:`Figura %s: Diseño ZFS Predeterminado <install12a>`."
 
-#: ../../install.rst:372
+#: ../../install.rst:374
 msgid "Regardless of how many disks you selected for your ZFS configuration, the default layout will be the same. ZFS does not require separate partitions for :file:`/usr`, :file:`/tmp`, or :file:`/var`. Instead, you create one ZFS partition (pool) and specify a mount for each dataset. A :file:`/boot` partition is not mandatory with ZFS as the PC-BSD® installer puts a 64k partition at the beginning of the drive."
 msgstr ""
 "Independientemente de cuántos discos seleccione para su configuración ZFS, "
@@ -720,13 +714,13 @@ msgstr ""
 "ZFS ya que el instalador de PC-BSD® crea una partición de 64k en el "
 "principio del disco."
 
-#: ../../install.rst:376
+#: ../../install.rst:378
 msgid "**do not remove any of the default mount points** as they are used by PC-BSD®."
 msgstr ""
 "**No elimine nunguno de los puntos de montaje predeterminados** ya que los "
 "mismos son usados por PC-BSD®."
 
-#: ../../install.rst:378
+#: ../../install.rst:380
 msgid "You can use the \"Add\" button to add additional mount points. You will only be prompted for the name of the mount point as size is not limited at creation time. Instead, the data on any mount point can continue to grow as long as space remains within the ZFS pool."
 msgstr ""
 "Puede usar el botón \"Añadir\" para añadir puntos de montaje adicionales. "
@@ -735,7 +729,7 @@ msgstr ""
 "cualquier punto de montaje pueden continuar creciendo tanto como espacio "
 "disponible quede en el pool ZFS."
 
-#: ../../install.rst:381
+#: ../../install.rst:383
 msgid "If you wish to set the swap size, click the \"Swap Size\" button. This will prompt you to enter a size in MB. If you have created a RAIDZ or mirror, a swap partition of the specified size will be created on each disk and mirrored between the drives. For example, if you specify a 2048MB swap size, a 2GB swap partition will be created on all of the specified disks, yet the total swap size will be 2GB, due to redundancy."
 msgstr ""
 "Si quiere establecer el tamaño de la swap, presione el botón \"Tamaño de "
@@ -746,14 +740,14 @@ msgstr ""
 "especificados, sin embargo, el tamaño total de la swap será de 2 GB, debido "
 "a la redundancia."
 
-#: ../../install.rst:385
+#: ../../install.rst:387
 msgid "If you right-click any mount point, you can toggle between enabling or disabling any of the following ZFS properties."
 msgstr ""
 "Si presiona el botón derecho sobre cualquier punto de montaje, puede cambiar "
 "entre habilitar y deshabilitar cualquiera de las siguientes propiedades para "
 "ZFS."
 
-#: ../../install.rst:387
+#: ../../install.rst:389
 msgid "**atime:** when set to \"on\", controls whether the access time for files is updated when they are read. When set to \"off\", this property avoids producing write traffic when reading files and can result in significant performance gains, though it might confuse mailers and some other utilities."
 msgstr ""
 "**atime:** Cuando se pone en \"Activado\", controla si la hora de acceso "
@@ -763,35 +757,35 @@ msgstr ""
 "rendimiento, aunque puede confundir a las aplicaciones de correo y a algunas "
 "otras utilerías."
 
-#: ../../install.rst:390
+#: ../../install.rst:392
 msgid "**canmount:** if set to \"off\", the filesystem can not be mounted."
 msgstr ""
 "**canmount:** Si está en \"Apagado\", el sistema de archivos no se puede "
 "montar."
 
-#: ../../install.rst:392
+#: ../../install.rst:394
 msgid "**checksum:** automatically verifies the integrity of the data stored on disks. **Setting this property to \"off\" is highly discouraged.**"
 msgstr ""
 "**checksum:** Automáticamente verifica la integridad de los datos guardados "
 "en los discos. **Deshabilitar esta propiedad no se recomienda.**"
 
-#: ../../install.rst:395
+#: ../../install.rst:397
 msgid "**compression:** if set to \"on\", automatically compresses stored data to conserve disk space."
 msgstr ""
 "**compression:** Si se pone en \"Activado\", automáticamente comprime los "
 "datos guardados para conservar espacio en disco."
 
-#: ../../install.rst:397
+#: ../../install.rst:399
 msgid "**exec:** if set to \"off\", processes can not be executed from within this filesystem."
 msgstr ""
 "**exec:** Si se pone en \"Desactivado\", los procesos no se pueden ejecutar "
 "desde este sistema de archivos."
 
-#: ../../install.rst:399
+#: ../../install.rst:401
 msgid "**setuid:** if set to \"on\", the set-UID bit is respected."
 msgstr "**setuid:** Si se pone en \"Activado\", el bit set-UID es respetado."
 
-#: ../../install.rst:401
+#: ../../install.rst:403
 msgid "Once you click \"Next\", the wizard will show a summary of your selections. If you wish to change anything, use the “Back” button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
 "Una vez que presione \"Siguiente\", el asistente le mostará un resumen de "
@@ -799,11 +793,11 @@ msgstr ""
 "para regresar a una pantalla previa. De otra manera, presione \"Terminar\" "
 "para dejar el asistente y regresar a la pantalla de \"Selección de Disco\"."
 
-#: ../../install.rst:408
+#: ../../install.rst:410
 msgid "FreeBSD Expert Mode"
 msgstr "Modo Experto FreeBSD"
 
-#: ../../install.rst:410
+#: ../../install.rst:412
 msgid "If you select FreeBSD expert mode, you will be prompted to launch a terminal where you can use command line utilities such as :command:`bsdinstall` to manually configure the partitions. When you are finished, type :command:`exit` to leave the terminal, then click \"Next\" to review the disk summary. If you wish to change anything, use the \"Back\" button to return to a previous screen. Otherwise, click \"Finish\" to leave the wizard and return to the \"Disk Selection\" screen."
 msgstr ""
 "Si seleccionó el modo experto FreeBSD, se le preguntará si lanza una "
@@ -815,33 +809,33 @@ msgstr ""
 "presione \"Terminar\" para dejar el asistente y regresar a la pantalla de \""
 "Selección de Disco\"."
 
-#: ../../install.rst:419
+#: ../../install.rst:421
 msgid "Installation Progress Screen"
 msgstr "Pantalla de Progreso de la Instalación"
 
-#: ../../install.rst:421
+#: ../../install.rst:423
 msgid "Once you select \"Yes\" to start the installation, a progress screen, seen in :numref:`Figure %s: Installation Progress Screen <install13a>`, provides a progress bar and messages so that you can watch the installation's progress."
 msgstr ""
 
-#: ../../install.rst:428
+#: ../../install.rst:430
 msgid "How long the installation takes depends upon the speed of your hardware, the installation type you selected, and the number of components to be installed. A typical installation takes between 15 and 30 minutes."
 msgstr ""
 "La duración de la instalación dependerá de la velocidad de su hardware, el "
 "tipo de instalación que seleccionó, y el número de componentes para "
 "instalar. Una instalación típica toma entre 15 y 30 minutos."
 
-#: ../../install.rst:435
+#: ../../install.rst:437
 msgid "Installation Finished Screen"
 msgstr "Pantalla de Finalización de la Instalación"
 
-#: ../../install.rst:437
+#: ../../install.rst:439
 msgid "The screen shown in :numref:`Figure %s: PC-BSD® Installation is Now Complete <install14a>` appears once the installation is complete."
 msgstr ""
 "La pantalla mostrada en la :numref:`Figura %s: La Instalación de PC-BSD® "
 "Está Completa <install14a>` aparece una vez que la instalación se ha "
 "completado."
 
-#: ../../install.rst:443
+#: ../../install.rst:445
 msgid "Click the \"Finish\" button to reboot into your PC-BSD® installation. Wait until the installer exits before removing the installation media."
 msgstr ""
 "Presione el botón \"Terminar\" para reiniciar dentro de su instalación de PC-"

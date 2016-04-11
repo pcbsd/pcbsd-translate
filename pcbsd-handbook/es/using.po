@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: 2016-01-20 15:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -187,14 +187,8 @@ msgid "Multimedia"
 msgstr "Multimedia"
 
 #: ../../using.rst:96
-msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
+msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
 msgstr ""
-"PC-BSD® ha sido preconfigurado para soportar la mayoría de los formatos "
-"multimedia y hace fácil la instalación de la mayoría de las aplicaciones "
-"multimedia de código abierto usando :ref:`AppCafe®`. PC-BSD® soporta tanto `"
-"PulseAudio <http://www.freedesktop.org/wiki/Software/PulseAudio/>`_ como `"
-"OSS <http://opensound.com/>`_ de manera que las aplicaciones que usen "
-"cualquiera de estos servidores de sonido deberían funcionar."
 
 #: ../../using.rst:100
 msgid "If you install your web browser using AppCafe®, you should be able to play most media formats, including YouTube videos, Internet radio, and many trailer and movie sites."
@@ -237,10 +231,8 @@ msgstr ""
 "etiquetas, organizar la música y copiar CDs de audio."
 
 #: ../../using.rst:114
-msgid "`Audacity <http://sourceforge.net/projects/audacity/?lang=en>`_: multilingual audio editor and recorder."
+msgid "`Audacity <https://sourceforge.net/projects/audacity/?lang=en>`_: multilingual audio editor and recorder."
 msgstr ""
-"`Audacity <http://sourceforge.net/projects/audacity/?lang=en>`_: editor y "
-"grabador de audio multilingüe."
 
 #: ../../using.rst:116
 msgid "`DeaDBeeF <http://deadbeef.sourceforge.net/screenshots.html>`_: music player that supports most audio formats."
@@ -282,26 +274,12 @@ msgid "Kodi"
 msgstr "Kodi"
 
 #: ../../using.rst:135
-msgid "`Kodi, formerly known as XBMC, <http://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats. It can play CDs and DVDs from a disk or image file and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
+msgid "`Kodi, formerly known as XBMC, <https://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats. It can play CDs and DVDs from a disk or image file and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
 msgstr ""
-"`Kodi, anteriormente conocido como XBMC, <http://kodi.tv/>`_ es un software "
-"reproductor de medios con licencia GPL y centro de entretenimiento para "
-"medios digitales. Puede reproducir la mayoría de los formatos de audio y "
-"video. Puede reproducir CDs y DVDs desde un disco o archivo de imagen e "
-"incluso archivos dentro de otros, comprimidos con ZIP o RAR. Puede buscar "
-"todos sus archivos multimedia y automáticamente crear un biblioteca "
-"personalizada con carátulas de álbumes, descripciones, y fan art."
 
 #: ../../using.rst:139
-msgid "During the installation of PC-BSD®, the installer provided an option to install Kodi. If you wish to install Kodi afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
+msgid "To install Kodi, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
 msgstr ""
-"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
-"instalar Kodi. Si desea instalar Kodi después, use AppCafe®. Presione el "
-"recuadro \"Buscar todos los PBI y paquetes disponibles\" y busque \"pcbsd-"
-"meta-kodi\". Una vez instalado, una entrada para \"Media Center\" debería "
-"añadirse a la sección \"Multimedia\" del menú de aplicaciones de su "
-"escritorio. Puede también iniciar Kodi escribiendo :command:`kodi` en la "
-"línea de comandos."
 
 #: ../../using.rst:143
 msgid "If you have never used Kodi before, take some time to skim through the `Kodi Wiki Manual <http://kodi.wiki/>`_. The `Turn PC-BSD into a home theater forum post <https://forums.pcbsd.org/thread-19799.html>`_ contains a quick how-to for configuring Kodi."
@@ -324,15 +302,8 @@ msgstr ""
 "sus bibliotecas multimeda y ver programas."
 
 #: ../../using.rst:155
-msgid "During the installation of PC-BSD®, the installer provided an option to install PlexHome Theater. If you wish to install it afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
+msgid "To install PlexHome Theater, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
 msgstr ""
-"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
-"instalar PlexHome Theater. Si desea instalarlo después, use AppCafe®. "
-"Presione el recuadro \"Examinar todos los PBI y paquetes disponibles\" y "
-"busque \"plexhometheater\". Una vez instalado, una entrada debería añadirse "
-"a la sección \"Multimedia\" del menú de aplicaciones de su escritorio. Puede "
-"también iniciar esta aplicación escribiendo :command:`plexhometheater` en la "
-"línea de comandos."
 
 #: ../../using.rst:159
 msgid "Once installed, an entry for \"Plex Home Theater\" will also be added to the login manager so that you can login directly to the home theater instead of a desktop."
@@ -829,12 +800,8 @@ msgid "Windows Emulation"
 msgstr "Emulación de Windows"
 
 #: ../../using.rst:297
-msgid "`Wine <https://www.winehq.org/>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
+msgid "`Wine <https://wiki.winehq.org/Main_Page>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
 msgstr ""
-"`Wine <https://www.winehq.org/>`_ es una aplicación que le permite crear un "
-"entorno de Windows para instalar software para Windows. Esto puede ser útil "
-"si su juego favorito de Windows o aplicación de productividad no ha sido "
-"portada a Linux o BSD."
 
 #: ../../using.rst:300
 msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <http://wiki.winehq.org/>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
@@ -908,24 +875,14 @@ msgid "Running Steam"
 msgstr "Ejecutando Steam"
 
 #: ../../using.rst:344
-msgid "Wine can be configured to install and run `Steam games <http://store.steampowered.com/about/>`_. The necessary configuration and a list of tested games can be found on the `PC-BSD® Wine Tips and Tricks page <http://wiki.pcbsd.org/index.php/AppCafe/emulators/i386-wine-devel#Tips_and_Tricks>`_. Video instructions can be found at `Steam on PC-BSD - How to Get Wine Running 3D Games <https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ and at `Steam on PCBSD 2 - Using Wine as a Streaming Client <http://blog.pcbsd.org/2014/12/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
+msgid "Wine can be configured to install and run `Steam games <http://store.steampowered.com/about/>`_. Video instructions can be found at `Steam on PC-BSD - How to Get Wine Running 3D Games <https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ and at `Steam on PCBSD 2 - Using Wine as a Streaming Client <http://blog.pcbsd.org/2014/12/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
 msgstr ""
-"Wine puede configurarse para instalar y ejecutar `Juegos de Steam "
-"<http://store.steampowered.com/about/>`_. La configuración necesaria y la "
-"lista de juegos probados se puede encontrar en la `página de Trucos y "
-"Consejos de Wine en PC-BSD® "
-"<http://wiki.pcbsd.org/index.php/AppCafe/emulators/i386-wine-"
-"devel#Tips_and_Tricks>`_. Las instrucciones de video se pueden encontrar en `"
-"Steam en PC-BSD - Cómo Conseguir que Wine Ejecute Juegos 3D "
-"<https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ y en `Steam en PCBSD 2 - "
-"Usando Wine como un Cliente de Streaming <http://blog.pcbsd.org/2014/12"
-"/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
 
-#: ../../using.rst:353
+#: ../../using.rst:352
 msgid "Remote Desktop"
 msgstr "Escritorio Remoto"
 
-#: ../../using.rst:355
+#: ../../using.rst:354
 msgid "Occasionally it is useful to allow connections between desktop sessions running on different computers. This can be handy when troubleshooting a problem since both users will be able to see the error on the problematic system and either user can take control of the mouse and keyboard in order to fix the problem. Typically this is a temporary situation as providing access to one's computer allows a remote user the ability to both view and modify its settings."
 msgstr ""
 "Algunas veces es necesario permitir conexiones entre sesiones de escritorio "
@@ -936,30 +893,15 @@ msgstr ""
 "temporal ya que permitir acceso a nuestro equipo otorga a un usuario remoto "
 "la capacidad tanto de ver como de modificar sus configuraciones."
 
-#: ../../using.rst:359
-msgid "The `remote desktop protocol (RDP) <https://en.wikipedia.org/wiki/Remote_Desktop_Protocol>`_ can be used to make a connection to another computer. Depending upon the operating system, you may have to first install or enable RDP software on the remote computer:"
+#: ../../using.rst:358
+msgid "The :wikipedia:`Remote Desktop Protocol` (RDP) can be used to make a connection to another computer. Depending upon the operating system, you may have to first install or enable RDP software on the remote computer:"
 msgstr ""
-"El `protocolo de escritorio remoto (RDP) "
-"<https://en.wikipedia.org/wiki/Remote_Desktop_Protocol>`_ puede usarse para "
-"establecer una conexión a otro equipo. Dependiendo del sistema operativo, "
-"puede necesitar instalar primero el software RDP o habilitarlo en el equipo "
-"remoto."
 
-#: ../../using.rst:362
-msgid "Not every edition of Windows provides a fully functional version of RDP; for example, it may not be fully supported in a Home Edition of Windows. Even if the full version of RDP is included, remote access may or may not be enabled by default. If you have trouble connecting using RDP, do a web search for \"remote desktop\" and the name of the version of Windows you are using to find out how to configure its remote desktop settings. If you still can not connect, you can instead download, install, and configure `VNC <https://en.wikipedia.org/wiki/Virtual_Network_Computing>`_ server software on the system."
+#: ../../using.rst:361
+msgid "Not every edition of Windows provides a fully functional version of RDP; for example, it may not be fully supported in a Home Edition of Windows. Even if the full version of RDP is included, remote access may or may not be enabled by default. If you have trouble connecting using RDP, do a web search for \"remote desktop\" and the name of the version of Windows you are using to find out how to configure its remote desktop settings. If you still can not connect, you can instead download, install, and configure :wikipedia:`Virtual Network Computing` (VNC) server software on the system."
 msgstr ""
-"No todas las ediciones de Windows proporcionan un versión completamente "
-"funcional de RDP; por ejemplo, puede no estar totalmente soportado en un "
-"Windows Home Edition. Incluso si se incluye la versión completa de RDP, el "
-"acceso remoto puede, o no, estar habilitado de forma predeterminada. Si "
-"tiene problemas conectándose usando RDP, haga una búsqueda sobre \""
-"escritorio remoto\" en la web y el nombre de la versión de Windows que está "
-"usando para averiguar cómo configurar sus configuraciones de escritorio "
-"remoto. Si todavía no se puede conectar, usted entonces puede descargar, "
-"instalar, y configurar el software del servidor `VNC "
-"<https://en.wikipedia.org/wiki/Virtual_Network_Computing>`_ en el sistema."
 
-#: ../../using.rst:367
+#: ../../using.rst:366
 msgid "If the other computer you are connecting to is a Mac, Linux, or BSD system, you will have to first install either `xrdp <http://www.xrdp.org/>`_ or a VNC server on the other system. Depending upon the operating system, either software may or may not already be installed. If it is not, check the software repository for the operating system or use a web search to find out how to install and configure one of these applications on that operating system. If you are connecting to another PC-BSD® system, use :ref:`AppCafe®`, check the box \"Search all available PBI and packages\", and search for \"rdp\" or \"vnc\"."
 msgstr ""
 "Si el otro ordenador al que se está conectando es un Mac, Linux o sistema "
@@ -972,24 +914,24 @@ msgstr ""
 ":ref:`AppCafe®`, seleccione el recuadro \"Buscar todos los PBI y paquetes "
 "disponibles\", y busque \"rdp\" o \"vnc\"."
 
-#: ../../using.rst:372
+#: ../../using.rst:371
 msgid "If there is a firewall on either system or a network firewall between the two systems, check that it allows connections to the TCP port required by the type of connection that you will be using:"
 msgstr ""
 "Si hay un cortafuegos en cualquier sistema o un cortafuegos de red entre los "
 "dos sistemas, compruebe que permite la conexión al puerto TCP requerido por "
 "el tipo de conexión que usted estará usando:"
 
-#: ../../using.rst:375
+#: ../../using.rst:374
 msgid "**RDP:** uses port 3389"
 msgstr "**RDP:** usa el puerto 3389"
 
-#: ../../using.rst:377
+#: ../../using.rst:376
 msgid "**VNC:** uses port 5900 (for the first connection, 5901 for the second connection, etc.)"
 msgstr ""
 "**VNC:** usa el puerto 5900 (para la primera conexión, 5901 para la segunda "
 "conexión, etc.)"
 
-#: ../../using.rst:379
+#: ../../using.rst:378
 msgid "If you need to manually add a firewall rule, it is best to only allow the IP address of the computer that will be connecting. You should immediately remove or disable this firewall rule after the connection is finished so that other computers do not try to connect to the computer. Since your PC-BSD® system is considered to be the client and will be initiating the connection, you do not have to modify the firewall on the PC-BSD® system."
 msgstr ""
 "Si necesita añadir manualmente una regla al cortafuegos, es mejor permitir "
@@ -1000,11 +942,11 @@ msgstr ""
 "iniciará la conexión, no tiene qué modificar el cortafuegos en el sistema PC-"
 "BSD®."
 
-#: ../../using.rst:387
+#: ../../using.rst:386
 msgid "Connecting with KRDC"
 msgstr "Conectándose con KRDC"
 
-#: ../../using.rst:389
+#: ../../using.rst:388
 msgid "KRDC can be used to initiate a connection request. This application can be installed using :ref:`AppCafe®` Check the \"Search all available PBI and packages\" box within the \"App Search\" tab to install this package."
 msgstr ""
 "KRDC se puede usar para iniciar una petición de conexión. Esta aplicación se "
@@ -1012,7 +954,7 @@ msgstr ""
 "los PBI y paquetes disponibles\" en la pestaña \"Buscar Aplicaciones\" para "
 "instalar este paquete."
 
-#: ../../using.rst:392
+#: ../../using.rst:391
 msgid "To launch this application, go to :menuselection:`Applications --> Internet --> Remote Desktop Client` within KDE or type :command:`krdc` at the command line within any desktop. If you click :kbd:`F1` while in KRDC you can access the `Remote Connection Desktop Handbook <https://docs.kde.org/stable4/en/kdenetwork/krdc/index.html>`_ to learn more about how to use this application."
 msgstr ""
 "Para iniciar esta aplicación, vaya a :menuselection:`Aplicaciones --> "
@@ -1022,14 +964,14 @@ msgstr ""
 "Remoto <https://docs.kde.org/stable4/en/kdenetwork/krdc/index.html>`_ para "
 "saber más acerca de cómo usar esta aplicación."
 
-#: ../../using.rst:396
+#: ../../using.rst:395
 msgid ":numref:`Figure %s: Creating a Connection Using KRDC <krdc1>` shows the initial KRDC screen which allows you to specify which system you wish to connect to."
 msgstr ""
 "La :numref:`Figura %s: Creando una Conexión Usando KRDC <krdc1>` muestra la "
 "pantalla inicial de KRDC que le permite especificar a qué sistema se quiere "
 "conectar."
 
-#: ../../using.rst:402
+#: ../../using.rst:401
 msgid "Use the drop-down menu to indicate whether the remote system is using RDP or VNC for the connection. Then type in the IP address of the system you wish to connect to. If you are connecting to a VNC system, the IP address needs to be followed by a colon and a number indicating the number of the session. Typically, the number will be 1 unless the VNC server is hosting multiple simultaneous connections. Once you press enter, the connection will be initiated and, if it is an RDP connection, you will see the screen shown in :numref:`Figure %s: Settings for the RDP Connection <krdc2>`."
 msgstr ""
 "Use el menú desplegable para indicar si el sistema remoto está usando RDP o "
@@ -1042,11 +984,11 @@ msgstr ""
 "pantalla mostrada en la :numref:`Figura %s: Configuraciones para la Conexión "
 "RDP <krdc2>`."
 
-#: ../../using.rst:411
+#: ../../using.rst:410
 msgid "Here is a quick overview of the settings:"
 msgstr "Aquí hay un breve resumen de las configuraciones:"
 
-#: ../../using.rst:413
+#: ../../using.rst:412
 msgid "**Desktop resolution:** since the contents of the screen are sent over the network, select the lowest resolution that still allows you to see what is happening on the other system. If you have a very fast network connection, you can choose a higher resolution; if you find that the other system is very slow to refresh its screen, try choosing a lower resolution."
 msgstr ""
 "**Resolución del escritorio:** puesto que los contenidos de la pantalla se "
@@ -1055,60 +997,60 @@ msgstr ""
 "puede elegir una resolución mayor; si encuentra que el otro sistema es muy "
 "lento para refrescar la pantalla, pruebe eligiendo una resolución menor."
 
-#: ../../using.rst:417
+#: ../../using.rst:416
 msgid "**Color depth:** choose the lowest color depth that allows you to see the other system; you can choose a higher color depth if the network connection is fast."
 msgstr ""
 "**Profundidad de color:** elija la menor profundidad de color que le permita "
 "ver el otro sistema; pude escoger una mayor profundidad de color si la "
 "conexión de red es rápida."
 
-#: ../../using.rst:419
+#: ../../using.rst:418
 msgid "**Keyboard layout:** this drop-down menu allows you to select the desired keyboard layout."
 msgstr ""
 "**Diseño del teclado:** este menú desplegable le permite seleccionar el "
 "diseño de teclado que desee."
 
-#: ../../using.rst:421
+#: ../../using.rst:420
 msgid "**Sound:** this drop-down menu allows you to choose whether any sounds heard during the connection are produced on this system, the remote system, or to disable sound during the connection."
 msgstr ""
 "**Sonido:** este menú desplegable le permite elegir si cualquier sonido "
 "escuchado durante la conexión es producido por este sistema, el sistema "
 "remoto, o deshabilitar el sonido durante la conexión."
 
-#: ../../using.rst:424
+#: ../../using.rst:423
 msgid "**Performance:** select the option that best matches the network speed to the remote host. Choices are \"Modem\", \"Broadband\", or \"LAN\"."
 msgstr ""
 "**Rendimiento:** seleccione la opción que mejor se ajuste a la velocidad de "
 "red del sistema remoto. Las opciones son \"Modem\", \"Banda Ancha\" o \"LAN\""
 "."
 
-#: ../../using.rst:426
+#: ../../using.rst:425
 msgid "**RemoteFX:** check this box if the remote system supports RemoteFX and hardware acceleration is desired."
 msgstr ""
 "**RemoteFX:** seleccione esta casilla si el sistema remoto soporta RemoteFX "
 "y si desea aceleración por hardware."
 
-#: ../../using.rst:428
+#: ../../using.rst:427
 msgid "**Share Media:** specifies a mount point for data to be shared between the systems."
 msgstr ""
 "**Compartir Medios:** especifica un punto de montaje para los datos que se "
 "compartirán entre sistemas."
 
-#: ../../using.rst:430
+#: ../../using.rst:429
 msgid "**Console login:** if you are connecting to a Unix-like system, you can check this box if you wish to have access to the other system's command line console."
 msgstr ""
 "**Acceso por consola:** si se está conectando a un sistema tipo Unix, puede "
 "seleccionar esta casilla si desea tener acceso a la línea de comandos del "
 "otro sistema."
 
-#: ../../using.rst:432
+#: ../../using.rst:431
 msgid "**Extra options:** allows you to specify `rdesktop switches <http://linux.die.net/man/1/rdesktop>`_ that are not covered by the other options in this screen."
 msgstr ""
 "**Opciones extra:** le permite especificar `modificadores de rdesktop "
 "<http://linux.die.net/man/1/rdesktop>`_ que no están cubiertos por las otras "
 "opciones en esta pantalla."
 
-#: ../../using.rst:434
+#: ../../using.rst:433
 msgid "**Show this dialog again for this host:** if you plan on using the same settings every time you connect to this computer, you can uncheck this box. If you need to change the settings at a later time, you can right-click the connection (which will appear in a list as a past connection) and choose \"Settings\" from the right-click menu."
 msgstr ""
 "**Mostrar este diálogo otra vez para este sistema:** si planea usar las "
@@ -1118,7 +1060,7 @@ msgstr ""
 "como una conexión anterior) y elegir \"Configuración\" desde el menú del "
 "botón derecho."
 
-#: ../../using.rst:438
+#: ../../using.rst:437
 msgid "**Remember password:** `KWallet <https://utils.kde.org/projects/kwalletmanager/>`_ is KDE's password storage system. If this box stays checked, you will only need to input the password the first time you make this connection as it will be saved for you. If this is the first time you have stored a password using KWallet, it will prompt you for some information to set up your wallet."
 msgstr ""
 "**Recordar contraseña:** `KWallet "
@@ -1129,13 +1071,13 @@ msgstr ""
 "primera vez que ha almacenado una contraseña mediante KWallet, se le pedirá "
 "cierta información para configurar su cartera de contraseñas."
 
-#: ../../using.rst:442
+#: ../../using.rst:441
 msgid "If it is a VNC connection, you will be able to choose your connection type (speed), screen resolution, and have the option to remember the password."
 msgstr ""
 "Si es una conexión VNC, podrá elegir su tipo de conexión (velocidad), "
 "resolución de pantalla, y tendrá la opción de recordar la contraseña."
 
-#: ../../using.rst:444
+#: ../../using.rst:443
 msgid "Once you press \"OK\", the connection should be initiated and you will receive pop-up messages asking for a username then a password; the details you provide must match a user account on the system you are connecting to. Once your authentication details are confirmed, you should see the desktop of the other system. If you move your mouse, it will move on the other desktop as well. Click the \"View Only\" button in the top toolbar whenever you wish to disable this mouse behavior. When you are finished your session, you can click the \"Disconnect\" button in the top toolbar."
 msgstr ""
 "Una vez que presione \"OK\" la conexión debería iniciarse y usted recibirá "
@@ -1148,25 +1090,25 @@ msgstr ""
 "deshabilitar este comportamiento del ratón. Cuando termine su sesión, puede "
 "presionar el botón \"Desconectar\" en la barra de herramientas superior."
 
-#: ../../using.rst:449
+#: ../../using.rst:448
 msgid "if the connection fails, check on the remote computer that either the RDP software is enabled or that the VNC server is listening for connections. Also double-check that a firewall is not preventing the connection."
 msgstr ""
 "Si la conexión falla, compruebe en el equipo remoto que el software RDP está "
 "habilitado o que el servidor VNC está escuchando por conexiones. También "
 "compruebe que un cortafuegos no esté evitando la conexión."
 
-#: ../../using.rst:456
+#: ../../using.rst:455
 msgid "Connecting with VNC"
 msgstr "Conectándose con VNC"
 
-#: ../../using.rst:458
+#: ../../using.rst:457
 msgid "If you prefer to use VNC for the connection, use :ref:`AppCafe®` to install a VNC client such as TightVNC. Before using the VNC client, ensure that the VNC server is installed and running on the remote desktop."
 msgstr ""
 "Si prefiere usar VNC para la conexión, use :ref:`AppCafe®` para instalar un "
 "cliente VNC, como TightVNC. Antes de usar el cliente VNC, asegúrese que el "
 "servidor VNC está instalado y corriendo en el escritorio remoto."
 
-#: ../../using.rst:461
+#: ../../using.rst:460
 msgid "Once TightVNC is installed, type :command:`vncviewer` to start the VNC client. A small window will appear, allowing you to type in the IP address of the remote system in the format *IP_ADDRESS:5801*. Change the *5801* if the VNC server is listening on a different port."
 msgstr ""
 "Una vez que esté instalado TightVNC, escriba :command:`vncviewer` para "
@@ -1174,11 +1116,11 @@ msgstr ""
 "escribir la dirección IP del sistema remoto en el formato *IP_ADDRESS:5801*. "
 "Cambie el *5801* si el servidor VNC está escuchando en un puerto diferente."
 
-#: ../../using.rst:468
+#: ../../using.rst:467
 msgid "Using Desktop Sharing"
 msgstr "Compartir Escritorio"
 
-#: ../../using.rst:470
+#: ../../using.rst:469
 msgid "If you wish another user to connect to your computer, the KDE Desktop Sharing application can be used to generate a connection invitation The :command:`krfb` application can be installed using :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box within \"App Search\" to search for this application."
 msgstr ""
 "Si desea que otro usuario se conecte a su equipo, se puede usar la "
@@ -1187,7 +1129,7 @@ msgstr ""
 ":ref:`AppCafe®`. Seleccione el recuadro \"Buscar todos los PBI y paquetes "
 "disponibles\" en \"Buscar Aplicaciones\" para buscar la aplicación."
 
-#: ../../using.rst:473
+#: ../../using.rst:472
 msgid "To launch this application within KDE, go to :menuselection:`Applications --> Internet --> Desktop Sharing` or type :command:`krfb` from the command prompt of any desktop. If you press :kbd:`F1` while in this application, it will open the `Desktop Sharing Handbook <https://docs.kde.org/stable4/en/kdenetwork/krfb/index.html>`_ where you can learn more about using this utility. :numref:`Figure %s: Initiating a Connection Request Using krfb <krfb1>` shows the initial screen for this application."
 msgstr ""
 "Para lanzar esta aplicación en KDE, vaya a :menuselection:`Aplicaciones --> "
@@ -1199,7 +1141,7 @@ msgstr ""
 "una Petición de Conexión Usando krfb <krfb1>` muestra la pantalla inicial "
 "para esta aplicación."
 
-#: ../../using.rst:482
+#: ../../using.rst:481
 msgid "To share your desktop, check the box \"Enable Desktop Sharing\". This will activate the \"Connection Details\" portion of this screen. If you click the blue icon next to the \"Address\", a pop-up menu will indicate that this is just a hint and that the remote user should use the IP address for your computer. If you wish, you can click the icon next to the \"Password\". This will activate that field so that you can change the generated password to the one you want to use for the session. Be sure to reclick the icon to save the new password."
 msgstr ""
 "Para compartir su escritorio, seleccione la casilla \"Habilitar Compartir "
@@ -1211,7 +1153,7 @@ msgstr ""
 "cambiar la contraseña generada por aquella que quiera usar para la sesión. "
 "Asegúrese de volver a presionar el icono para guardar la nueva contraseña."
 
-#: ../../using.rst:487
+#: ../../using.rst:486
 msgid "while you can check the \"Enable Unattended Access\" checkbox, it is **not recommended** to do so. If you give another user the unattended password (which is set by clicking the \"Change Unattended Password\"), they can connect to your system without your knowledge. The default, which occurs when the \"Enable Unattended Access\" is **un** checked, is for a pop-up message to appear on your screen whenever a remote user attempts to connect and for the desktop to remain inaccessible until you accept the remote connection."
 msgstr ""
 "Mientras que usted puede seleccionar la casilla \"Habilitar el Acceso sin "
@@ -1223,7 +1165,7 @@ msgstr ""
 "pantalla siempre que un usuario remoto intenta conectarse y el escritorio "
 "permanecerá inaccesible hasta que usted acepte la conexión remota."
 
-#: ../../using.rst:492
+#: ../../using.rst:491
 msgid "Once you have checked the box to \"Enable Desktop Sharing\", contact the other person to let them know the password and IP address so that they can connect. The most secure way to convey the invitation information is through an alternate communications channel such as a phone call. Ideally, you are speaking to the other person as they connect so that you can walk them through the problem you are experiencing and they can let you know what they are doing to your system as you watch them do it."
 msgstr ""
 "Una vez que haya seleccionado la casilla \"Habilitar Compartir Escritorio\", "
@@ -1235,7 +1177,7 @@ msgstr ""
 "está experimentando y le puedan hacer saber lo que están haciendo con su "
 "sistema mientras usted los ve hacerlo."
 
-#: ../../using.rst:497
+#: ../../using.rst:496
 msgid "The other person should input the IP address and password into their VNC client in order to start the connection. You will know when they try to connect as a pop-up message will appear on your screen similar to :numref:`Figure %s: The Other User is Trying to Connect Using the Invitation <krfb2>`."
 msgstr ""
 "La otra persona debería ingresar la dirección IP y la contraseña en su "
@@ -1244,7 +1186,7 @@ msgstr ""
 ":numref:`Figura %s: El Otro Usuario Trata de Conectarse Usando la Invitación "
 "<krfb2>`."
 
-#: ../../using.rst:504
+#: ../../using.rst:503
 msgid "In this example, a computer with an IP address of 192.168.1.111 is trying to connect. Buttons are provided to either accept or refuse the connection. You can also check or uncheck the box to \"allow remote user to control keyboard and mouse\". If you accept the connection, the other user will be prompted to input the invitation password. Once the password is accepted, they will see your desktop."
 msgstr ""
 "En este ejemplo, un equipo con un dirección IP de 192.168.1.111 está "
@@ -1254,7 +1196,7 @@ msgstr ""
 "le pedirá al otro usuario que introduzca la contraseña de la invitación. Una "
 "vez que se acepte la contraseña, podrán ver su escritorio."
 
-#: ../../using.rst:508
+#: ../../using.rst:507
 msgid "your desktop will continue to be shared as long as the \"Enable Desktop Sharing\" checkbox is checked, even if you close this utility. **Always remember** to uncheck this box when your session is finished in order to prevent unwanted connections."
 msgstr ""
 "Su escritorio continuará compartido tanto tiempo como la casilla \"Habilitar "
@@ -1262,11 +1204,11 @@ msgstr ""
 "utilería. **Recuerde siempre** desmarcar esta casilla cuando su sesión esté "
 "terminada para prevenir conexiones no deseadas."
 
-#: ../../using.rst:515
+#: ../../using.rst:514
 msgid "Thin Client"
 msgstr "Cliente Ligero"
 
-#: ../../using.rst:517
+#: ../../using.rst:516
 msgid "PC-BSD® provides a Thin Client script which can be used to easily create a PXE Boot Desktop Server, to support thin clients, and a PXE Boot Install Server, for creating a central server which systems can connect to in order to be installed with PC-BSD®."
 msgstr ""
 "PC-BSD® proporciona un script de Cliente Ligero que se puede usar para crear "
@@ -1275,56 +1217,46 @@ msgstr ""
 "servidor central al que se puedan conectar sus sistemas para ser instalados "
 "con PC-BSD®."
 
-#: ../../using.rst:520
+#: ../../using.rst:519
 msgid "This section demonstrates how to configure and use both the PXE Boot Desktop Server and the PXE Boot Install Server."
 msgstr ""
 "Esta sección muestra cómo configurar y utilizar tanto el Servidor de "
 "Escritorio de Arranque PXE y el Servidor de Instalación de Arranque PXE."
 
-#: ../../using.rst:526
+#: ../../using.rst:525
 msgid "PXE Boot Desktop Server"
 msgstr "Servidor de Escritorio de Arranque PXE"
 
-#: ../../using.rst:528
-msgid "A PC-BSD® PXE Boot Desktop Server allows you to automatically configure a network of `diskless computers <https://en.wikipedia.org/wiki/Diskless_node>`_ where each computer has a network interface card capable of `PXE <https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ booting. When a client boots from their network interface instead of their hard disk, they automatically connect to the PXE Boot Desktop Server and receive a login window. Once authenticated, they can use PC-BSD®, even if PC-BSD® is not installed on their own computer and even if their computer does not have a hard drive."
+#: ../../using.rst:527
+msgid "A PC-BSD® PXE Boot Desktop Server allows you to automatically configure a :wikipedia:`Diskless node` where each computer has a network interface card capable of :wikipedia:`Preboot Execution Environment` (PXE) booting. When a client boots from their network interface instead of their hard disk, they automatically connect to the PXE Boot Desktop Server and receive a login window. Once authenticated, they can use PC-BSD®, even if PC-BSD® is not installed on their own computer and even if their computer does not have a hard drive."
 msgstr ""
-"Un Servidor de Escritorio de Arranque PXE de PC-BSD® le permite configurar "
-"automáticamente una red de `equipos sin disco "
-"<https://en.wikipedia.org/wiki/Diskless_node>`_ donde cada equipo tiene una "
-"tarjeta interfaz de red que es capaz de iniciar `PXE "
-"<https://en.wikipedia.org/wiki/Preboot_Execution_Environment>`_ Cuando un "
-"cliente arranca desde su interfaz de red en vez que desde un disco duro, se "
-"conecta automáticamente al Servidor de Escritorio de Arranque PXE y recibe "
-"una ventana de acceso. Una vez autenticado, puede usar PC-BSD®, incluso si "
-"PC-BSD® no está instalado en su propio equipo e incluso si su equipo no "
-"tiene un disco duro."
 
-#: ../../using.rst:533
+#: ../../using.rst:532
 msgid "To prepare your PC-BSD® system for a PXE Boot Desktop Server configuration, perform these tasks first:"
 msgstr ""
 "Para preparar su sistema PC-BSD® para la configuración del Servidor de "
 "Escritorio de Arranque PXE, realice primero las siguientes tareas:"
 
-#: ../../using.rst:535
+#: ../../using.rst:534
 msgid "If the diskless clients will require Internet access, install two network cards where one NIC is connected to the Internet and the other is connected to a private LAN from which the thin clients can PXE boot from."
 msgstr ""
 "Si los clientes sin disco van a requerir conexión a Internet, instale dos "
 "tarjetas de red donde una NIC se conectará a Internet y la otra se conectará "
 "a una LAN privada desde la que los clientes ligeros puede arrancar PXE."
 
-#: ../../using.rst:538
+#: ../../using.rst:537
 msgid "The PC-BSD® system should have lots of RAM installed, especially if multiple clients will be connecting."
 msgstr ""
 "El sistema PC-BSD® debería tener mucha RAM instalada, sobre todo si se "
 "conectarán muchos clientes ligeros."
 
-#: ../../using.rst:540
+#: ../../using.rst:539
 msgid "To configure the PC-BSD® system as a PXE Boot Desktop Server, run the following script as the superuser::"
 msgstr ""
 "Para configurar el sistema PC-BSD® como un Servidor de Escritorio de "
 "Arranque PXE, ejecute el siguiente script como administrador::"
 
-#: ../../using.rst:549
+#: ../../using.rst:548
 msgid "If you wish to have the PC-BSD® system act as the DHCP server, type **d**. If the network already has a configured DHCP server, type **e**. The following example will install the DHCP server on the PC-BSD® system. After making your selection, press enter to continue::"
 msgstr ""
 "Si desea tener el sistema PC-BSD® actuando como un servidor DHCP, escriba "
@@ -1332,7 +1264,7 @@ msgstr ""
 "siguiente ejemplo instalará el servidor DHCP en el sistema PC-BSD®. Tras "
 "hacer su selección, presione intro para continuar::"
 
-#: ../../using.rst:555
+#: ../../using.rst:554
 msgid "If your intent is to install a PXE Boot Desktop Server, input **r** and press enter. If you previously typed **d** and a DHCP server is not already installed, it will be installed for you. Once the DHCP server is installed, the tools needed in the PXE environment will be installed and messages will indicate the progress. Once everything is installed, you will see this message::"
 msgstr ""
 "Si su intención es instalar el Servidor de Escritorio de Arranque PXE, "
@@ -1342,7 +1274,7 @@ msgstr ""
 "se instalarán y mensajes le indicarán el progreso. Una vez que todo esté "
 "instalado, verá este mensaje::"
 
-#: ../../using.rst:563
+#: ../../using.rst:562
 msgid "Input the FreeBSD device name of the interface that is attached to the local network containing the diskless workstations. This interface will run the DHCP server and should not be connected to a network with another DHCP server running. In the example shown here, the user has input the *em0* interface. If you are unsure of the device name, type :command:`ifconfig` from another terminal."
 msgstr ""
 "Introduzca el nombre del dispositivo FreeBSD de la interfaz que está "
@@ -1352,17 +1284,17 @@ msgstr ""
 "usuario ha introducido la interfaz *em0*. Si no está seguro del nombre del "
 "dispositivo escriba :command:`ifconfig` desde otra terminal."
 
-#: ../../using.rst:567
+#: ../../using.rst:566
 msgid "The script will now configure the specified interface and start the required services::"
 msgstr ""
 "El script configurará ahora la interfaz especificada e iniciará los "
 "servicios requeridos::"
 
-#: ../../using.rst:575
+#: ../../using.rst:574
 msgid "Before rebooting, you may wish to customize the installation."
 msgstr "Antes de reiniciar, puede personalizar la instalación."
 
-#: ../../using.rst:577
+#: ../../using.rst:576
 msgid "The installation creates a chroot directory that contains a small PXE image that is used by clients to launch Xorg and connect to the PXE Boot Desktop Server. You can access this chroot by typing this command as the superuser::"
 msgstr ""
 "La instalación crea un directorio chroot que contiene una imagen PXE pequeña "
@@ -1370,7 +1302,7 @@ msgstr ""
 "Escritorio de Arranque PXE. Puede accesar a este chroot escribiendo este "
 "comando como administrador::"
 
-#: ../../using.rst:582
+#: ../../using.rst:581
 msgid "Running :command:`pkg info` within the chroot will show which X components and drivers are available. Should you need to install additional video drivers, use :command:`pkg install` within the chroot. When you are finished using the chroot, type :command:`exit` to leave it."
 msgstr ""
 "Al ejecutar :command:`pkg info` dentro del chroot se mostrarán los "
@@ -1379,12 +1311,12 @@ msgstr ""
 "install` dentro del chroot. Cuando haya terminado de utilizar chroot, "
 "escriba :command:`exit` para salir de él."
 
-#: ../../using.rst:585
+#: ../../using.rst:584
 msgid "The thin client script installs and configures the following services:"
 msgstr ""
 "El script de cliente ligero instala y configura los siguientes servicios:"
 
-#: ../../using.rst:587
+#: ../../using.rst:586
 msgid "**NFS:** the Network File System is a protocol for sharing files on a network. It has been configured to allow clients on the network attached to the interface that you specified to connect to the thin client server. Its configuration file is located in :file:`/etc/exports`."
 msgstr ""
 "**NFS:** el Sistema de Archivos de Red (Network File System) es un protocolo "
@@ -1393,7 +1325,7 @@ msgstr ""
 "al servidor de clientes ligeros. Su archivo de configuración está ubicado en "
 ":file:`/etc/exports`."
 
-#: ../../using.rst:590
+#: ../../using.rst:589
 msgid "**TFTP:** the Trivial File Transfer Protocol is a light-weight version of FTP used to transfer configuration or boot files between machines. The PXE network cards on the diskless computers will use TFTP to receive their configuration information. This service was enabled in :file:`/etc/inetd.conf` with a home directory of :file:`/usr/home/thinclient`."
 msgstr ""
 "**TFT:** el Protocolo de Transferencia de Archivos Trivial (Trivial File "
@@ -1404,7 +1336,7 @@ msgstr ""
 ":file:`/etc/inetd.conf` con un directorio personal de "
 ":file:`/usr/home/thinclient`."
 
-#: ../../using.rst:594
+#: ../../using.rst:593
 msgid "**DHCP:** the Dynamic Host Configuration Protocol is used to configure IP addressing info on the diskless workstations. If you selected to install a DHCP server, it will be configured to assign addresses for the network attached to the interface that you specified. Its configuration file is located in :file:`/usr/local/etc/dhcpd.conf`."
 msgstr ""
 "**DHCP:** el Protocolo de Configuración Dinámica del Host (Dynamic Host "
@@ -1414,7 +1346,7 @@ msgstr ""
 "red conectada a la interfaz que usted especificó. Su archivo de "
 "configuración está ubicado en :file:`/usr/local/etc/dhcpd.conf`."
 
-#: ../../using.rst:598
+#: ../../using.rst:597
 msgid "The thin client script also creates the *pxeboot* user with the default password *thinclient*. This username and password is used to save the working Xorg configuration files for each of the diskless computers. It is highly recommended that you change this password right away by running this command as the superuser::"
 msgstr ""
 "El script de cliente ligero también crea un usuario *pxeboot* con la "
@@ -1423,14 +1355,14 @@ msgstr ""
 "cada uno de los equipos sin disco. Es altamente recomendable que cambie esta "
 "contraseña inmediatamente ejecutando este comando como administrador::"
 
-#: ../../using.rst:604
+#: ../../using.rst:603
 msgid "You will also need to create the users that will connect to the system. You can do so using  or by typing :command:`adduser` at the command line and following the prompts."
 msgstr ""
 "También necesitará crear los usuarios que se conectarán al sistema. Puede "
 "hacerlo usando o escribiendo :command:`adduser` en la línea de comandos y "
 "siguiendo las instrucciones."
 
-#: ../../using.rst:607
+#: ../../using.rst:606
 msgid "After a successful installation and reboot of the PXE Boot Desktop Server, the DHCP service will be running on the NIC you specified. Make sure that this NIC and a PXE capable client are connected to the same hub or switch. When you boot up the client, PXE should automatically obtain an IP address and begin to load PC-BSD®. If it does not, review the boot order settings in the BIOS on the client to make sure that PXE is listed first."
 msgstr ""
 "Tras una instalación exitosa y el reinicio del Servidor de Escritorio de "
@@ -1441,13 +1373,13 @@ msgstr ""
 ". Si no lo hace, revise el orden de arranque en la BIOS del cliente para "
 "asegurarse de que PXE se lista en primer lugar."
 
-#: ../../using.rst:611
+#: ../../using.rst:610
 msgid "After the boot process has finished, the client will be brought to this prompt::"
 msgstr ""
 "Después de que haya terminado el proceso de arranque, el cliente será "
 "llevado a este indicador de comandos::"
 
-#: ../../using.rst:616
+#: ../../using.rst:615
 msgid "If you wait 10 seconds, this message will timeout, and the client will bring up X in 1024x768 mode. If this is not the resolution that you wish to use, type \"Y\" at the prompt and hit enter to bring up the Xorg Configuration screen. In this menu, you will be able to setup your own custom :file:`xorg.conf` file, auto-detect settings, and test the new configuration. When finished, choose \"Save working config\" to send this configuration to the PXE Boot Desktop Server. This will prompt for the password of the pxeboot user. Once authenticated, the file will be saved by the client's MAC address in :file:`/home/pxeboot/mnt/xorg-config/<mac>.conf`. The next time you boot the client, it will automatically use the saved :file:`xorg.conf` file and bring the system to the PC-BSD® login screen."
 msgstr ""
 "Si espera 10 segundos, este mensaje desaparecerá, y el cliente cargará X en "
@@ -1463,20 +1395,20 @@ msgstr ""
 "el cliente, éste usará automáticamente el archivo :file:`xorg.conf` guardado "
 "y cargará en el sistema la pantalla de acceso de PC-BSD®."
 
-#: ../../using.rst:623
+#: ../../using.rst:622
 msgid "in order for the login to succeed, the user account must already exist on the PXE Boot Desktop Server."
 msgstr ""
 "Para que el acceso tenga éxito, la cuenta de usuario debe existir en el "
 "Servidor de Escritorio de Arranque PXE."
 
-#: ../../using.rst:625
+#: ../../using.rst:624
 msgid "The client's boot environment is located in :file:`/home/pxeboot`. This is mounted read-only during the PXE boot process to allow the client to bootup and create an XDCMP connection to the server."
 msgstr ""
 "El entorno de arranque del cliente esta ubicado en :file:`/home/pxeboot`. "
 "Este está montado en modo de solo lectura durante el proceso de arranque PXE "
 "para permitir al cliente arrancar y crear una conexión XDCMP con el servidor."
 
-#: ../../using.rst:628
+#: ../../using.rst:627
 msgid "Once logged in to the PXE Boot Desktop Server, using PC-BSD® will be the same as if you had installed PC-BSD® on the client system. You will be able to use to install software and to save and use the files in your home directory."
 msgstr ""
 "Una vez conectado al Servidor de Escritorio de Arranque PXE, usar PC-BSD® "
@@ -1484,36 +1416,36 @@ msgstr ""
 "usarlo para instalar software, y guardar y usar los archivos en su "
 "directorio personal."
 
-#: ../../using.rst:631
+#: ../../using.rst:630
 msgid "Use the **-remove** option if you wish to uninstall the PXE Boot Desktop Server::"
 msgstr ""
 "Utilice la opción **-remove** si desea desinstalar el Servidor de Escritorio "
 "de Arranque PXE::"
 
-#: ../../using.rst:636
+#: ../../using.rst:635
 msgid "This will remove the PXE environment from the system. If you are finished using the PXE boot services, you can stop them using these commands::"
 msgstr ""
 "Esto eliminará el entorno PXE del sistema. Si ha terminado de usar los "
 "servicios de arranque PXE, puede pararlos usando estos comandos::"
 
-#: ../../using.rst:644
+#: ../../using.rst:643
 msgid "and prevent them from restarting by removing these lines from :file:`/etc/rc.conf`::"
 msgstr ""
 "Y les impide reiniciarse mediante la eliminación de estas líneas de "
 ":file:`/etc/rc.conf`::"
 
-#: ../../using.rst:654
+#: ../../using.rst:653
 msgid "Your interface name and IP address may differ from those in the example. The *dhcpd* and *portmap* lines will not exist if you did not install a DHCP server."
 msgstr ""
 "El nombre de su interfaz y dirección IP pueden ser diferentes de los del "
 "ejemplo. Las líneas *dhcpd* y *portmap* no existirán si no instala un "
 "servidor DHCP."
 
-#: ../../using.rst:660
+#: ../../using.rst:659
 msgid "PXE Boot Install Server"
 msgstr "Servidor de Instalación de Arranque PXE"
 
-#: ../../using.rst:662
+#: ../../using.rst:661
 msgid "A PC-BSD® PXE Boot Install Server can be used to install PC-BSD®, FreeBSD, or TrueOS® onto computers who connect to the server using PXE. The installations can be interactive or fully automated. The PXE Boot Install Server supports multiple, concurrent installations with the only limiting factor being the server's disk I/O and the network's bandwidth."
 msgstr ""
 "Un Servidor de Instalación de Arranque PXE de PC-BSD® se puede usar para "
@@ -1523,26 +1455,26 @@ msgstr ""
 "y concurrentes instalaciones siendo el único factor limitante las I/O de "
 "disco del servidor y el ancho de banda de la red."
 
-#: ../../using.rst:666
+#: ../../using.rst:665
 msgid "The installation of the PXE Boot Install Server starts the same way, except this time you select **i** when prompted::"
 msgstr ""
 "La instalación del Servidor de Instalación de Arranque PXE comienza de la "
 "misma forma, excepto que esta vez usted selecciona **i** cuando se le "
 "pregunte::"
 
-#: ../../using.rst:677
+#: ../../using.rst:676
 msgid "Once the environment is downloaded and configured, you will be asked if you would like to install the web interface::"
 msgstr ""
 "Una vez que el entorno se ha descargado y configurado, se le preguntará si "
 "desea instalar la interfaz web::"
 
-#: ../../using.rst:683
+#: ../../using.rst:682
 msgid "You will then be prompted to input the interface to be used by the server and then the services will be started::"
 msgstr ""
 "Se le solicitará después que introduzca la interfaz que se empleará por el "
 "servidor y después se iniciarán los servicios::"
 
-#: ../../using.rst:701
+#: ../../using.rst:700
 msgid "Once the PXE Boot Install Server is installed, try to PXE boot a client which is connected to the same network. If the client boots successfully, you will see the installation screen shown in :numref:`Figure %s: PXE Boot Installation Menu <pxe1>`."
 msgstr ""
 "Una vez que el Servidor de Instalación de Arranque PXE está instalado, "
@@ -1551,7 +1483,7 @@ msgstr ""
 "mostrada en la :numref:`Figura %s: Menú de Instalación de Arranque PXE "
 "<pxe1>`."
 
-#: ../../using.rst:708
+#: ../../using.rst:707
 msgid "By default, selecting \"install\" from the boot menu will use the :file:`/usr/home/thinclient/installscripts/pc-sysinstall.example` script which installs a basic FreeBSD system. In addition to starting an installation, this menu provides an emergency shell prompt. This can be useful if you have a system which can no longer boot and you wish to either access the disk's contents or attempt to repair the installation."
 msgstr ""
 "Por defecto, seleccionando \"instalar\" en el menú de arranque usará el "
@@ -1561,7 +1493,7 @@ msgstr ""
 "útil si tiene un sistema que ya no puede arrancar y usted desea acceder a "
 "los contenidos del disco o intentar reparar la instalación."
 
-#: ../../using.rst:712
+#: ../../using.rst:711
 msgid "Any scripts that you create and place in the :file:`/usr/home/thinclient/installscripts/` directory will be selectable as an installation option within the PXE client boot menu. Tables 5.5a and 5.5b in  summarize the available configuration options when creating an installation script. Alternately, every time you install PC-BSD, the installation script is automatically saved to :file:`/root/pc-sysinstall.cfg`. This means that if you wish to repeat an installation, you simply need to copy that file to the :file:`/usr/home/thinclient/installscripts/` directory on the PXE Boot Install Server."
 msgstr ""
 "Cualquier script que cree y coloque en el directorio "
@@ -1573,7 +1505,7 @@ msgstr ""
 "directorio :file:`/usr/home/thinclient/installscripts/` en el Servidor de "
 "Instalación de Arranque PXE."
 
-#: ../../using.rst:717
+#: ../../using.rst:716
 msgid "The PXE Boot Install Server also supports completely unattended installations. To perform fully-automated installations over the PXE interface, create a configuration script named :file:`/usr/home/thinclient/installscripts/unattended.cfg`. When a PXE client first boots, it checks for the existence of the :file:`unattended.cfg` file, and if found, it will automatically use it for installation. Some caution should be taken when using this method since simply plugging a PXE boot client into the wrong LAN cable could cause it to be re-installed."
 msgstr ""
 "El Servidor de Instalación de Arranque PXE también soporta completamente "
@@ -1586,11 +1518,11 @@ msgstr ""
 "que sólo conectar un cliente de arranque PXE en un cable LAN incorrecto "
 "podría provocar que fuese reinstalado."
 
-#: ../../using.rst:726
+#: ../../using.rst:725
 msgid "Security"
 msgstr "Seguridad"
 
-#: ../../using.rst:728
+#: ../../using.rst:727
 msgid "Your PC-BSD® system is secure by default. This section provides an overview of the built-in security features and additional resources should you like to learn more about increasing the security of your system beyond its current level."
 msgstr ""
 "Su sistema PC-BSD® es seguro por defecto. Esta sección proporciona un "
@@ -1598,11 +1530,11 @@ msgstr ""
 "adicionales si quiere saber más acerca de aumentar la seguridad de su "
 "sistema más allá del nivel actual."
 
-#: ../../using.rst:731
+#: ../../using.rst:730
 msgid "The security features built into PC-BSD® include:"
 msgstr "Las características de seguridad incorporadas en PC-BSD® incluyen:"
 
-#: ../../using.rst:733
+#: ../../using.rst:732
 msgid "**Naturally immune to viruses and other malware:** most viruses are written to exploit Windows systems and do not understand the binaries or paths found on a PC-BSD® system. Antivirus software is still available in the Security section of :ref:`AppCafe®` as this can be useful if you send or forward email attachments to users running other operating systems."
 msgstr ""
 "**Inmunidad natural a virus y otro software malicioso:** la mayoría de los "
@@ -1612,7 +1544,7 @@ msgstr ""
 "útil si usted envía o reenvía adjuntos de correo a usuarios que ejecutan "
 "otros sistemas operativos."
 
-#: ../../using.rst:737
+#: ../../using.rst:736
 msgid "**Potential for serious damage is limited:** file and directory ownership and permissions along with separate user and group functions mean that as an ordinary user any program executed will only be granted the abilities and access of that user. A user that is not a member of the *wheel* group can not switch to administrative access and can not enter or list the contents of a directory that has not been set for universal access."
 msgstr ""
 "**El potencial de daños serios es limitado:** la propiedad y permisos de "
@@ -1623,7 +1555,7 @@ msgstr ""
 "modo administrativo y no podrá entrar o listar el contenido de un directorio "
 "que no se haya configurado para tener un acceso universal."
 
-#: ../../using.rst:741
+#: ../../using.rst:740
 msgid "**Built-in firewall:** the default firewall ruleset allows you to access the Internet and the shares available on your network but does not allow any inbound connections to your computer. In addition, `Fail2ban <http://www.fail2ban.org/wiki/index.php/Main_Page>`_ is installed. This service can be configured to identify possible break-in attempts and to respond with an action such as creating a firewall rule to ban the intruder. Instructions for configuring fail2ban can be found on the `fail2ban wiki <http://www.fail2ban.org/wiki/index.php/MANUAL_0_8#Usage>`_."
 msgstr ""
 "**Cortafuegos integrado:** el conjunto de reglas predeterminadas del "
@@ -1637,7 +1569,7 @@ msgstr ""
 "el `wiki de fail2ban "
 "<http://www.fail2ban.org/wiki/index.php/MANUAL_0_8#Usage>`_."
 
-#: ../../using.rst:746
+#: ../../using.rst:745
 msgid "**Very few services are enabled by default:** you can easily view which services are started at boot time using :ref:`Service Manager` or by reading through :file:`/etc/rc.conf`. You can disable the services that you do not use by disabling that service in :ref:`Service Manager` or by commenting out that line with a *#* in :file:`/etc/rc.conf`."
 msgstr ""
 "**Muy pocos servicios están habilitados por defecto:** usted puede ver "
@@ -1647,7 +1579,7 @@ msgstr ""
 ":ref:`Administrador de Servicios` o comentando una línea con un *#* en "
 ":file:`/etc/rc.conf`."
 
-#: ../../using.rst:750
+#: ../../using.rst:749
 msgid "**SSH is disabled by default:** and can only be enabled by the superuser. This setting prevents bots and other users from trying to access your system. If you do need to use SSH, add the line *sshd_enable=YES* to :file:`/etc/rc.conf`. You can then start the service by typing :command:`service sshd start`. You will need to add a firewall rule using :ref:`Firewall Manager` to allow SSH connections over TCP port 22."
 msgstr ""
 "**SSH está deshabilitado por defecto.** y sólo puede ser habilitado por el "
@@ -1658,7 +1590,7 @@ msgstr ""
 "cortafuegos mediante el :ref:`Administrador del Cortafuegos` para permitir "
 "conexiones SSH a través del puerto TCP 22."
 
-#: ../../using.rst:754
+#: ../../using.rst:753
 msgid "**SSH root logins are disabled by default:** if you enable SSH, you must login as a regular user and use :command:`su` or :command:`sudo` when you need to perform administrative actions. You should not change this default as this prevents an unwanted user from having complete access to your system."
 msgstr ""
 "**Las conexiones SSH del administrador están deshabilitadas por defecto:** "
@@ -1667,7 +1599,7 @@ msgstr ""
 "administrativas. No debería cambiar este comportamiento por defecto ya que "
 "se evita que un usuario no deseado tenga acceso completo a su sistema."
 
-#: ../../using.rst:757
+#: ../../using.rst:756
 msgid "**sudo is installed:** and configured to allow users in the *wheel* group permission to run an administrative command after typing their password. By default, the first user you create during installation is added to the *wheel* group. You can use :ref:`User Manager` to add other users to this group. You can change the default :command:`sudo` configuration using the :command:`visudo` command as the superuser."
 msgstr ""
 "**sudo está instalado:** y configurado para dar a los usuarios del grupo "
@@ -1678,14 +1610,11 @@ msgstr ""
 "la configuración predeterminada de :command:`sudo` empleando el comando "
 ":command:`visudo`."
 
-#: ../../using.rst:761
-msgid "`AESNI <https://en.wikipedia.org/wiki/AES_instruction_set>`_ support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
+#: ../../using.rst:760
+msgid ":wikipedia:`AES instruction set` (AESNI) support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
 msgstr ""
-"El soporte `AESNI <https://en.wikipedia.org/wiki/AES_instruction_set>`_ está "
-"cargado por defecto para procesadores Intel Core i5/i7 que soportan este "
-"ajuste de encriptado. Este soporte acelera el encriptado y desencriptado AES."
 
-#: ../../using.rst:764
+#: ../../using.rst:763
 msgid "**Automatic notification of security advisories:** :ref:`Update Manager` will automatically notify you if an update is available as the result of a `security advisory <http://www.freebsd.org/security/advisories.html>`_ that affects PC-BSD®. This allows you to keep your operating system fully patched with just the click of a mouse."
 msgstr ""
 "**Notificación automática de avisos de seguridad:** el :ref:`Administrador "
@@ -1695,19 +1624,19 @@ msgstr ""
 "Esto le permite mantener su sistema operativo completamente parchado con "
 "solo un clic del ratón."
 
-#: ../../using.rst:768
+#: ../../using.rst:767
 msgid "PC-BSD® packages are built with `LibreSSL <http://www.libressl.org/>`_ which has fewer vulnerabilities than OpenSSL."
 msgstr ""
 "Los paquetes de PC-BSD® se construyen con `LibreSSL "
 "<http://www.libressl.org/>`_ que tiene menos vulnerabilidades que OpenSSL."
 
-#: ../../using.rst:770
+#: ../../using.rst:769
 msgid ":ref:`PersonaCrypt` allows a user to use a removable, encrypted device as their home directory."
 msgstr ""
 ":ref:`PersonaCrypt` permite a un usuario utilizar un dispositivo extraíble y "
 "encriptado como su directorio personal."
 
-#: ../../using.rst:772
+#: ../../using.rst:771
 msgid "Logging into a stealth session creates an encrypted zvol as a temporary home directory for that login session. When the user logs out of a stealth session, the zvol is destroyed, along with the contents of the temporary home directory."
 msgstr ""
 "Accesando a una sesión sigilosa crea un zvol encriptado como directorio "
@@ -1715,7 +1644,7 @@ msgstr ""
 "sesión sigilosa, se destruye el zvol, junto con el contenido del directorio "
 "personal temporal."
 
-#: ../../using.rst:775
+#: ../../using.rst:774
 msgid ":ref:`Tor Mode` can be used to anonymously access Internet sites as this mode automatically forwards all Internet traffic through the `Tor Project's <https://www.torproject.org/>`_ transparent proxy service."
 msgstr ""
 "El :ref:`Modo Tor` puede usarse para acceder de forma anónima a sitios de "
@@ -1723,7 +1652,7 @@ msgstr ""
 "a través del servicio de proxy transparente del `Proyecto Tor "
 "<https://www.torproject.org/>`_."
 
-#: ../../using.rst:778
+#: ../../using.rst:777
 msgid "If you would like to learn more about security on FreeBSD/PC-BSD® systems, :command:`man security` is a good place to start. These resources provide more information about security on FreeBSD-based operating systems:"
 msgstr ""
 "Si quiere saber más sobre la seguridad de los sistemas FreeBSD/PC-BSD®, "
@@ -1731,27 +1660,27 @@ msgstr ""
 "proporcionan más información sobre seguridad en los sistemas basados en "
 "FreeBSD:"
 
-#: ../../using.rst:781
+#: ../../using.rst:780
 msgid "`FreeBSD Security Information <http://www.freebsd.org/security/>`_"
 msgstr ""
 "`Información de Seguridad de FreeBSD <http://www.freebsd.org/security/>`_"
 
-#: ../../using.rst:783
+#: ../../using.rst:782
 msgid "`Security Section of FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/security.html>`_"
 msgstr ""
 "`Sección sobre Seguridad del Manual de FreeBSD "
 "<http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/security.html>`_"
 
-#: ../../using.rst:785
+#: ../../using.rst:784
 msgid "`Hardening FreeBSD <http://www.bsdguides.org/2005/hardening-freebsd/>`_"
 msgstr ""
 "`Asegurando FreeBSD <http://www.bsdguides.org/2005/hardening-freebsd/>`_"
 
-#: ../../using.rst:791
+#: ../../using.rst:790
 msgid "Tor Mode"
 msgstr "Modo Tor"
 
-#: ../../using.rst:793
+#: ../../using.rst:792
 msgid "Tor mode uses `Tor <https://www.torproject.org/>`_, `socat <http://www.dest-unreach.org/socat/>`_, and a built-in script which automatically creates the necessary firewall rules to enable and disable tor mode at the user's request. While in tor mode, the firewall will redirect all outgoing port 80 (HTTP), 443 (HTTPS), and DNS traffic through the Tor transparent proxy network."
 msgstr ""
 "El modo Tor emplea `Tor <https://www.torproject.org/>`_, `socat <http://www"
@@ -1761,7 +1690,7 @@ msgstr ""
 "redireccionará toda salida al puerto 80 (HTTP), 443 (HTTPS), y el tráfico "
 "DNS a través de la red del proxy transparente Tor."
 
-#: ../../using.rst:797
+#: ../../using.rst:796
 msgid "To start tor mode, right-click Update Manager and check the \"Routing through Tor\" box. The pop-up message shown in :numref:`Figure %s: Enabling Tor Mode <tor1>` will appear."
 msgstr ""
 "Para iniciar el modo tor, presione botón derecho en el Administrador de "
@@ -1769,7 +1698,7 @@ msgstr ""
 "El mensaje emergente mostrado en la :numref:`Figura %s: Habilitando el Modo "
 "Tor <tor1>` aparecerá."
 
-#: ../../using.rst:803
+#: ../../using.rst:802
 msgid "If you have never used the Tor network before, it is recommended to read the link for the Tor FAQ. Click \"Yes\" to enable tor mode and enter your password when prompted so that the firewall rules can be updated for you."
 msgstr ""
 "Si nunca antes ha usado la red Tor, es recomendable leer el enlace de las "
@@ -1777,7 +1706,7 @@ msgstr ""
 "contraseña cuando se le pida para que las reglas del cortafuegos se puedan "
 "actualizar para usted."
 
-#: ../../using.rst:806
+#: ../../using.rst:805
 msgid "While in tor mode, a small onion will be added to the Update Manager icon and, if you hover over the icon, it will say \"(Routing through Tor)\". You can also verify that you are connected to the Tor network by right-clicking Update Manager and clicking \"Check Tor connection\". It will take a moment or so, but a pop-up message should indicate that the connection to `<https://check.torproject.org/>`_ succeeded."
 msgstr ""
 "Mientras esté en modo Tor, se añadirá una pequeña cebolla al icono del "
@@ -1788,7 +1717,7 @@ msgstr ""
 "momento, pero un mensaje emergente debería indicarle que la conexión a "
 "`<https://check.torproject.org/>`_ tuvo éxito."
 
-#: ../../using.rst:810
+#: ../../using.rst:809
 msgid "the system will remain in tor mode, even after a reboot, until you disable it. To disable tor mode, right-click Update Manager and uncheck the \"Routing through Tor\" box. Now when you \"Check Tor connection\", it should indicate that you are not using Tor."
 msgstr ""
 "El sistema permanecerá en modo Tor, incluso tras un reinicio, hasta que lo "
@@ -1797,26 +1726,26 @@ msgstr ""
 "través de Tor\". Ahora, cuando \"Compruebe la Conexión Tor\", debería "
 "indicar que no está usando Tor."
 
-#: ../../using.rst:813
+#: ../../using.rst:812
 msgid "To enable and disable tor mode from the command line or on a desktop that does not provide a system tray, use the following commands:"
 msgstr ""
 "Para habilitar y deshabilitar el modo Tor desde la línea de comando o desde "
 "un escritorio que no proporcione una bandeja del sistema, use los siguientes "
 "comandos:"
 
-#: ../../using.rst:815
+#: ../../using.rst:814
 msgid ":command:`sudo enable-tor-mode` enables tor mode."
 msgstr ":command:`sudo enable-tor-mode` habilita el modo Tor."
 
-#: ../../using.rst:817
+#: ../../using.rst:816
 msgid ":command:`sudo disable-tor-mode` disables tor mode."
 msgstr ":command:`sudo disable-tor-mode` deshabilita el modo Tor."
 
-#: ../../using.rst:823
+#: ../../using.rst:822
 msgid "Accessibility"
 msgstr "Accesibilidad"
 
-#: ../../using.rst:825
+#: ../../using.rst:824
 msgid "The GNOME and KDE desktop environments provide accessibility features to assist users with vision and mobility impairments. In PC-BSD®, these desktops can be installed either during installation or afterwards using :ref:`AppCafe®`."
 msgstr ""
 "Los entornos de escritorio GNOME y KDE proporcionan características de "
@@ -1824,17 +1753,17 @@ msgstr ""
 "movilidad. En PC-BSD®, estos escritorios se pueden instalar bien durante la "
 "instalación o posteriormente usando :ref:`AppCafe®`."
 
-#: ../../using.rst:828
+#: ../../using.rst:827
 msgid "This section provides an overview of the features provided by each desktop and additional references to these features."
 msgstr ""
 "Esta sección proporciona un resumen de las características que aporta cada "
 "escritorio y referencias adicionales a ellas."
 
-#: ../../using.rst:834
+#: ../../using.rst:833
 msgid "GNOME Universal Access"
 msgstr "Acceso Universal de GNOME"
 
-#: ../../using.rst:836
+#: ../../using.rst:835
 msgid "GNOME3 provides a \"Universal Access\" utility for configuring the desktop for accessibility. To open this utility, open \"Activities\" and search for \"Universal Access\". This will open the screen shown in :numref:`Figure %s: Universal Access Screen <access1>`."
 msgstr ""
 "GNOME3 proporciona una utilería de \"Acceso Universal\" para configurar el "
@@ -1842,13 +1771,13 @@ msgstr ""
 " y busque \"Acceso Universal\". Esto abrirá la pantalla mostrada en la "
 ":numref:`Figura %s: Pantalla de Acceso Universal <access1>`."
 
-#: ../../using.rst:843
+#: ../../using.rst:842
 msgid "The \"Seeing\" section of this screen has options for assisting users with low vision."
 msgstr ""
 "La sección \"Vista\" de esta pantalla tiene opciones para ayudar a usuarios "
 "con visión reducida."
 
-#: ../../using.rst:845
+#: ../../using.rst:844
 msgid "Click \"Off\" in the \"Hearing\" section to open a pop-up screen used to enable visual alerts, either to the window title of the current window or the entire screen. The pop-up screen provides a \"Test flash\" button for testing the settings."
 msgstr ""
 "Presione \"Apagar\" en la sección \"Escuchar\" para abrir una pantalla "
@@ -1856,7 +1785,7 @@ msgstr ""
 "de la ventana actual o en la pantalla completa. La pantalla emergente "
 "proporciona un botón \"Flash de prueba\" para comprobar los ajustes."
 
-#: ../../using.rst:848
+#: ../../using.rst:847
 msgid "If you click \"Off\" next to \"Typing Assist (AccessX)\" in the \"Typing\" section, it will open the screen shown in :numref:`Figure %s: Keyboard and Key Options <access2>`. \"Sticky Keys\", \"Slow Keys\", and \"Bounce Keys\" can be enabled in this screen to assist users with mobility impairments."
 msgstr ""
 "Si presiona \"Apagar\" junto a \"Asistencia al Teclear (AccessX)\" en la "
@@ -1865,36 +1794,36 @@ msgstr ""
 ", y \"Teclas de Rebote\" pueden ser habilitadas en esta pantalla para "
 "asistir a usuarios con impedimentos de movilidad."
 
-#: ../../using.rst:855
+#: ../../using.rst:854
 msgid "If you click the \"Off\" next to \"Click Assist\" in the \"Pointing and Clicking\" section, you can configure a simulated secondary click and a hover click."
 msgstr ""
 "Si presiona \"Apagar\" junto a \"Asistencia al Pulsar\" en la sección \""
 "Señalando y Pulsando\", puede configurar un clic de ratón secundario y un "
 "clic por superposición simulados."
 
-#: ../../using.rst:857
+#: ../../using.rst:856
 msgid "More information about the options provided by Universal Access can be found at the `GNOME Universal page <https://help.gnome.org/users/gnome-help/3.16/a11y.html.en>`_."
 msgstr ""
 "Más información sobre las opciones proporcionadas por el Acceso Universal se "
 "pueden encontrar el la `página de GNOME Universal "
 "<https://help.gnome.org/users/gnome-help/3.16/a11y.html.en>`_."
 
-#: ../../using.rst:863
+#: ../../using.rst:862
 msgid "KDE Accessibility Tools"
 msgstr "Herramientas de Accesibilidad de KDE"
 
-#: ../../using.rst:865
+#: ../../using.rst:864
 msgid "To install the KDE accessibility tools, use :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" in \"App Search\" and search for the \"kdeaccessibility\" package."
 msgstr ""
 "Para instalar las herramientas de accesibilidad de KDE, use :ref:`AppCafe®`. "
 "Seleccione \"Buscar todos los PBI y paquetes\" en \"Búsqueda de "
 "Aplicaciones\" y busque el paquete \"kdeaccessibility\"."
 
-#: ../../using.rst:867
+#: ../../using.rst:866
 msgid "The KDE-Accessibility component installs the following software:"
 msgstr "El componente de accesibilidad de KDE instala el software siguiente:"
 
-#: ../../using.rst:869
+#: ../../using.rst:868
 msgid "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: a screen magnifier. In KDE, this application is in :menuselection:`Applications --> Utilities --> Screen Magnifier` or you can type :command:`kmag` from the command line. Drag the magnifier window over the text you wish to magnify or click its \"Settings\" button to view the shortcuts for its various modes. Click :kbd:`F1` while the application is open to access the Kmagnifier Handbook."
 msgstr ""
 "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: "
@@ -1906,7 +1835,7 @@ msgstr ""
 "Presione :kbd:`F1` mientras la aplicación está abierta para accesar al "
 "Manual de Kmagnifier."
 
-#: ../../using.rst:874
+#: ../../using.rst:873
 msgid "`KMouseTool <https://docs.kde.org/stable4/en/kdeaccessibility/kmousetool/>`_: clicks the mouse whenever the mouse cursor pauses briefly. It can also drag the mouse, although this takes a bit more practice. To start this utility in KDE, click :menuselection:`Applications --> Utilities --> Automatic Mouse Click` or type :command:`kmousetool` from the command line. In the screen shown in :numref:`Figure %s: Configuring KMouseTool <access3>`, check the settings you wish to use, click the \"Apply\" button, then click the \"Start\" button. If you quit this screen, it will be added to the system tray and will continue to run until you launch its icon and click the \"Stop\" button."
 msgstr ""
 "`KMouseTool <https://docs.kde.org/stable4/en/kdeaccessibility/kmousetool/>`_:"
@@ -1920,7 +1849,7 @@ msgstr ""
 "pantalla, se añadirá a la bandeja del sistema y continuará corriendo hasta "
 "que lance su icono y presione el botón \"Parar\"."
 
-#: ../../using.rst:883
+#: ../../using.rst:882
 msgid "`KMouth <https://docs.kde.org/stable4/en/kdeaccessibility/kmouth/index.html>`_: enables persons that cannot speak to speak through their computer. It keeps a history of spoken sentences from which the user can select to be re-spoken. To start this program, click :menuselection:`Applications --> Utilities --> Speech Synthesizer Frontend` or type :command:`kmouth` from the command line. The first time you run this application, a configuration wizard will prompt you to set the command to use for speaking texts (such as :file:`/usr/local/bin/espeak`) and the character encoding."
 msgstr ""
 "`KMouth "

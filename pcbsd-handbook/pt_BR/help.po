@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,11 +40,11 @@ msgid "PC-BSD® Forums"
 msgstr ""
 
 #: ../../help.rst:24
-msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are replied to quickly. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
+msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are quickly answered. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
 msgstr ""
 
 #: ../../help.rst:28
-msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some things along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
+msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some new information along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
 msgstr ""
 
 #: ../../help.rst:34
@@ -64,7 +64,7 @@ msgid "`Desktop Questions and Support <https://forums.pcbsd.org/forum-13.html>`_
 msgstr ""
 
 #: ../../help.rst:43
-msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server-related topics."
+msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server related topics."
 msgstr ""
 
 #: ../../help.rst:45
@@ -176,7 +176,7 @@ msgid "PC-BSD® IRC Channel"
 msgstr ""
 
 #: ../../help.rst:114
-msgid "Like many open source projects, PC-BSD® has an `IRC Channel <https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
+msgid "Like many open source projects, PC-BSD® has an :wikipedia:`Internet Relay Chat` (IRC) channel so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
 msgstr ""
 
 #: ../../help.rst:117
@@ -288,7 +288,7 @@ msgid "The PC-BSD® project maintains several social media sites to help users k
 msgstr ""
 
 #: ../../help.rst:199
-msgid "`Official PC-BSD® Blog <http://blog.pcbsd.org/>`_"
+msgid "`Official PC-BSD® Blog <https://blog.pcbsd.org/>`_"
 msgstr ""
 
 #: ../../help.rst:201
@@ -300,7 +300,7 @@ msgid "`PC-BSD® Facebook Group <https://www.facebook.com/groups/4210443834/>`_"
 msgstr ""
 
 #: ../../help.rst:205
-msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/b/118078374333558564924/>`_"
+msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/+pcbsd/posts>`_"
 msgstr ""
 
 #: ../../help.rst:207
@@ -336,7 +336,7 @@ msgid "`BSD Guides <http://www.bsdguides.org/guides/>`_"
 msgstr ""
 
 #: ../../help.rst:227
-msgid "`Slashdot BSD <http://bsd.slashdot.org/>`_"
+msgid "`Slashdot BSD <https://bsd.slashdot.org/>`_"
 msgstr ""
 
 #: ../../help.rst:229
@@ -376,7 +376,7 @@ msgid "`BSD Now <http://www.bsdnow.tv/>`_"
 msgstr ""
 
 #: ../../help.rst:251
-msgid "`BSD Magazine <http://bsdmag.org/>`_ (free, monthly download)"
+msgid "`BSD Magazine <https://bsdmag.org/>`_ (free, monthly download)"
 msgstr ""
 
 #: ../../help.rst:253

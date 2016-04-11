@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: 2016-01-12 15:41+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,11 +108,8 @@ msgid "Network card"
 msgstr "Tarjeta de Red"
 
 #: ../../preinstall.rst:41
-msgid "The following are the minimum **recommended** requirements. The more RAM and available disk space, the better your computing experience:"
+msgid "The following are the minimum **recommended** requirements. More RAM and available disk space will improve your computing experience:"
 msgstr ""
-"Los siguientes son los requerimientos mínimos **recomendados**. La mayor "
-"cantidad de RAM y espacio de disco disponible, será mejor para su experiecia "
-"computacional:"
 
 #: ../../preinstall.rst:45
 msgid "4 GB of RAM"
@@ -144,12 +141,8 @@ msgstr ""
 "instantáneas locales de ZFS y entornos de arranque."
 
 #: ../../preinstall.rst:59
-msgid "You can never have too much RAM, so install as much as you can afford. To play modern video games, you should use a fast CPU. If you want to create a collection of tunes and movies on your computer, you will want a large disk which can be internal or external."
+msgid "You can never have too much RAM, so install as much as you can afford. To play modern video games, you should use a fast CPU. If you want to create a collection of music and movies on your computer, you will want a large disk which can be internal or external."
 msgstr ""
-"Nunca se puede tener RAM suficiente, así que instale la más que pueda. Para "
-"jugar video juegos modernos, necesitará usar un CPU rápido. Si quiere crear "
-"una colección de canciones y películas en su equipo, querrá un disco más "
-"grande, el cual puede ser interno o externo."
 
 #: ../../preinstall.rst:66
 msgid "Supported Hardware"
@@ -212,10 +205,8 @@ msgstr ""
 "cuando el controlador NVIDIA soporte Optimus."
 
 #: ../../preinstall.rst:89
-msgid "A list of graphics cards which are known to work can be found on the `FreeBSD Graphics Wiki <https://wiki.freebsd.org/Graphics>`_."
+msgid "A list of usable graphics cards can be found on the `FreeBSD Graphics Wiki <https://wiki.freebsd.org/Graphics>`_."
 msgstr ""
-"Una lista de tarjetas gráficas que se sabe funcionan puede encontrarse en el "
-"`Wiki de Gráficos de FreeBSD <https://wiki.freebsd.org/Graphics>`_."
 
 #: ../../preinstall.rst:91
 msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/10.2R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
@@ -259,23 +250,8 @@ msgstr ""
 "Hardware`."
 
 #: ../../preinstall.rst:106
-msgid "While most hardware \"just works\" with PC-BSD®, it is possible that you will run across a piece of hardware that does not. It should be remembered that PC-BSD® is really FreeBSD, meaning that any hardware that works on FreeBSD will work on PC-BSD®. If you are experiencing problems with a device, start with a web search for the term \"FreeBSD\" plus the type and model of the hardware. This will let you know if there is a known issue with the device. If there are many search results, concentrate on the most recent ones as often hardware that used to be problematic has since been fixed or the missing driver will be available in an upcoming release of FreeBSD. If you experience problems with a device that should work but does not or you can not find any existing problem reports for your hardware, you can help improve hardware support for all PC-BSD® users if you :ref:`Report a bug` so that it can be addressed by the developers."
+msgid "While most hardware \"just works\" with PC-BSD®, it is possible that you will run across a piece of hardware that does not. Remember that PC-BSD® is really FreeBSD, meaning that any hardware that works on FreeBSD will work on PC-BSD®. If you are experiencing problems with a device, start with a web search for the term \"FreeBSD\" plus the type and model of the hardware. This will let you know if there is a known issue with the device. If there are many search results, concentrate on the most recent ones as often hardware that used to be problematic has since been fixed or the missing driver will be available in an upcoming release of FreeBSD. If you experience problems with a device that should work but does not or you can not find any existing problem reports for your hardware, you can help improve hardware support for all PC-BSD® users if you :ref:`Report a bug` so that it can be addressed by the developers."
 msgstr ""
-"Mientras que la mayoría del hardware \"simplemente funciona\" con PC-BSD®, "
-"es posible que usted se encuentre con alguna pieza de hardware que no. Debe "
-"recordar que PC-BSD® es realmente FreeBSD, esto significa que cualquier "
-"hardware que funciona en FreeBSD funcionará en PC-BSD®. Si está teniendo "
-"problemas con un dispositivo, comience con una búsqueda en la web con el "
-"término \"FreeBSD\" más el tipo y modelo del hardware. Esto le dejará saber "
-"si hay algún problema conocido con el dispositivo. Si hay muchos resultados "
-"de la búsqueda, concéntrese en los más recientes ya que el hardware que "
-"solía presentar problemas puede haber sido arreglado o el controlador "
-"perdido puede estar disponible para un nuevo lanzamiento de FreeBSD. Si está "
-"teniendo problemas con un dispositivo que debería funcionar pero no lo hace "
-"o no puede encontrar reportes de algún problema existente para su hardware, "
-"usted puede mejorar el soporte de hardware para todos los usuarios de PC-BSD®"
-" si :ref:`Reporta una falla` para que pueda ser tomada por los "
-"desarrolladores."
 
 #: ../../preinstall.rst:118
 msgid "Laptops"
@@ -289,24 +265,8 @@ msgstr ""
 "encontrarse con algunos problemas. Estos típicamente tienen que ver con:"
 
 #: ../../preinstall.rst:123
-msgid "**Sleep/suspend:** unfortunately, `ACPI <https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface>`_ is not an exact science, meaning that you may have to experiment with various :command:`sysctl` variables in order to achieve successful sleep and suspend states on your particular laptop model. If your laptop is a ThinkPad, `ThinkWiki <http://www.thinkwiki.org/wiki/ThinkWiki>`_ is an excellent source. For other types of laptops, try reading the \"SYSCTL VARIABLES\" section of :command:`man 4 acpi` and check to see if there is an ACPI man page specific to your vendor by typing :command:`apropos acpi.` The `Tuning with sysctl(8) <http://www.freebsd.org/doc/en/books/handbook/configtuning-sysctl.html>`_ section of the FreeBSD Handbook demonstrates how to determine your current :command:`sysctl` values, modify a value, and make a modified value persist after a reboot. If the battery reading is incorrect, try the workaround in this `PR <https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=160838>`_."
+msgid "**Sleep/suspend:** unfortunately, :wikipedia:`Advanced Configuration and Power Interface` (ACPI) is not an exact science, meaning that you may have to experiment with various :command:`sysctl` variables in order to achieve successful sleep and suspend states on your particular laptop model. If your laptop is a ThinkPad, `ThinkWiki <http://www.thinkwiki.org/wiki/ThinkWiki>`_ is an excellent source. For other types of laptops, try reading the \"SYSCTL VARIABLES\" section of :command:`man 4 acpi` and check to see if there is an ACPI man page specific to your vendor by typing :command:`apropos acpi.` The `Tuning with sysctl(8) <http://www.freebsd.org/doc/en/books/handbook/configtuning-sysctl.html>`_ section of the FreeBSD Handbook demonstrates how to determine your current :command:`sysctl` values, modify a value, and make a modified value persist after a reboot. If the battery reading is incorrect, try the workaround in this `PR <https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=160838>`_."
 msgstr ""
-"**Dormir/Suspender:** desafortunadamente, `ACPI "
-"<https://en.wikipedia.org/wiki/Advanced_Configuration_and_Power_Interface>`_ "
-"no es una ciencia exacta, significando que tendrá que experimentar con "
-"varias variables :command:`sysctl` para poder conseguir una suspensión "
-"exitosa y estados de suspensión en su modelo particular de portátil. Si su "
-"portátil es una ThinkPad, `ThinkWiki "
-"<http://www.thinkwiki.org/wiki/ThinkWiki>`_ es una excelente referencia. "
-"Para otros tipos de portátiles, trate de leer la sección de \"VARIABLES "
-"SYSCTL\" de :command:`man 4 acpi` y cheque si hay una página del manual ACPI "
-"específica para su proveedor tecleando :command:`apropos acpi.` La sección `"
-"Afinando con sysctl(8) <http://www.freebsd.org/doc/en/books/handbook"
-"/configtuning-sysctl.html>`_ del Manual de FreeBSD demuestra como determinar "
-"sus valores :command:`sysctl` actuales, modificar un valor, y hacer que un "
-"valor persista después de reiniciar. Si la lectura de la batería es "
-"incorrecta, intente lo siguiente en este `PR "
-"<https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=160838>`_."
 
 #: ../../preinstall.rst:131
 msgid "**Internal wireless:** some chipsets do not have a FreeBSD driver yet."
@@ -315,13 +275,8 @@ msgstr ""
 "FreeBSD."
 
 #: ../../preinstall.rst:133
-msgid "**Synaptics:** depending upon the hardware, you may or may not be able to disable the system's touchpad. This `forum post <https://forums.freebsd.org/threads/how-to-disable-mousepad-tapping.17370/#post-100670>`_ describes how to enable Synaptics and some of the :command:`sysctl` options that this feature provides."
+msgid "**Synaptics:** depending upon the hardware, you may or may not be able to disable the system's touchpad. This `forum post <https://forums.freebsd.org/threads/17370/#post-100670>`_ describes how to enable Synaptics and some of the :command:`sysctl` options that this feature provides."
 msgstr ""
-"**Synaptics:** dependiendo del hardware, podrá o no deshabilitar el touchpad "
-"del sistema. Esta `entrada del foro <https://forums.freebsd.org/threads/how-"
-"to-disable-mousepad-tapping.17370/#post-100670>`_ describe como habilitar "
-"Synaptics y algunas de las opciones :command:`sysctl` que esta "
-"característica proporciona."
 
 #: ../../preinstall.rst:137
 msgid "**Optimus graphics:** the current workaround is to disable Optimus in the BIOS, set the onboard Intel video to be dominant, or to change the graphics mode to discrete."
@@ -338,10 +293,8 @@ msgstr ""
 "continuar con la instalación."
 
 #: ../../preinstall.rst:143
-msgid "If you would like to install PC-BSD® onto an Asus Eee, read the `FreeBSD Eee page <https://wiki.FreeBSD.org/AsusEee>`_ first."
+msgid "If you would like to install PC-BSD® onto an Asus Eee PC, read the `FreeBSD Eee page <https://wiki.FreeBSD.org/AsusEee>`_ first."
 msgstr ""
-"Si quiere instalar PC-BSD® en una Asus Eee, lea primero la página de `Eee en "
-"FreeBSD <https://wiki.FreeBSD.org/AsusEee>`_."
 
 #: ../../preinstall.rst:145
 msgid "The `FreeBSD Tuning Power Consumption page <https://wiki.FreeBSD.org/TuningPowerConsumption>`_ has some tips for reducing power consumption."
@@ -408,15 +361,8 @@ msgstr ""
 "sistema de 100 MB, y una partición de datos de 450 GB."
 
 #: ../../preinstall.rst:184
-msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, in this example it is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
+msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, which in this example is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
 msgstr ""
-"Ya que las tres particiones están usando todo el disco, la partición de "
-"datos necesita reducirse para crear espacio para instalar PC-BSD®. Para "
-"reducir la partición de datos, presione botón derecho sobre la partición, en "
-"este ejemplo se llama *Acer (C:)*, y seleccione \"Reducir Volúmen\". Espere "
-"un momento ya que se hace una consulta al volúmen sobre el espacio "
-"disponible para reducir. Los resultados se desplegarán como se muestra en el "
-"ejemplo en la :numref:`Figura %s: Espacio Disponible para Reducir <shrink1>`."
 
 #: ../../preinstall.rst:192
 msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in :numref:`Figure %s: Disk Now Has Free Space <shrink2>`."
@@ -472,12 +418,8 @@ msgstr ""
 "versión STABLE."
 
 #: ../../preinstall.rst:219
-msgid "The image files for the current RELEASE can be downloaded from the `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_. Previous RELEASE versions and STABLE versions can be downloaded from the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_."
+msgid "The image files for the current RELEASE can be downloaded from the `PC-BSD® website <http://www.pcbsd.org/download/>`_. Previous RELEASE versions and STABLE versions can be downloaded from the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_."
 msgstr ""
-"Los archivos de imágen para la RELEASE actual pueden descargarse desde el `"
-"Sitio web de PC-BSD® <http://www.pcbsd.org/en/download.html>`_. Las "
-"versiones RELEASE previas y las versiones STABLE pueden descargarse desde el "
-"`CDN de PC-BSD® <http://iso.cdn.pcbsd.org/>`_."
 
 #: ../../preinstall.rst:222
 msgid "Several types of files are available for download. Before downloading a file, review the following descriptions to see which one best suits your needs:"
@@ -540,11 +482,8 @@ msgstr ""
 "o en un dispositivo USB removible."
 
 #: ../../preinstall.rst:245
-msgid "Pre-installed virtual images are also available, making it easy to use or try out PC-BSD® in a virtual environment. Four types of images are available:"
+msgid "Pre-installed virtual images are also available, making it easy to use or try PC-BSD® in a virtual environment. Four types of images are available:"
 msgstr ""
-"También están disponibles imágenes virtuales preinstaladas, haciendo fácil "
-"el usar o probar PC-BSD® en un ambiente virtual. Están disponibles cuatro "
-"tipos de imágenes:"
 
 #: ../../preinstall.rst:248
 msgid "Files ending in :file:`.ova` can be used in VirtualBox, as described in :ref:`Using the Downloadable .ova File`."
@@ -598,24 +537,12 @@ msgstr ""
 "como grabar el archivo en un medio arrancable."
 
 #: ../../preinstall.rst:266
-msgid "If you have a slow download connection or wish to support the PC-BSD® project financially, you can purchase PC-BSD® DVDs from the `FreeBSD Mall <http://www.freebsdmall.com/cgi-bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
+msgid "If you have a slow download connection or wish to support the PC-BSD® project financially, you can purchase PC-BSD® DVDs from the `FreeBSD Mall <https://www.freebsdmall.com/cgi-bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
 msgstr ""
-"Si tiene una conexión lenta para descargas o quiere apoyar al proyecto PC-"
-"BSD® financieramente, puede comprar DVDs de PC-BSD® desde el `FreeBSD Mall "
-"<http://www.freebsdmall.com/cgi-"
-"bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
 
 #: ../../preinstall.rst:269
-msgid "Members of the PC-BSD® project attend many IT conferences across the globe and give out PC-BSD® DVDs at conference booths. Visiting a PC-BSD® booth is an excellent way to meet other PC-BSD® users and to get your questions answered. Check the `PC-BSD® Blog <http://blog.pcbsd.org/>`_ to see if any events are happening near you. If you are organizing a PC-BSD® booth, `contact us <http://www.pcbsd.org/en/support/>`_ to arrange for DVDs."
+msgid "Members of the PC-BSD® project attend many IT conferences across the globe and give out PC-BSD® DVDs at conference booths. Visiting a PC-BSD® booth is an excellent way to meet other PC-BSD® users and to get your questions answered. Check the `PC-BSD® Blog <https://blog.pcbsd.org/>`_ to see if any events are happening near you. If you are organizing a PC-BSD® booth, `contact us <http://www.pcbsd.org/support/>`_ to arrange for DVDs."
 msgstr ""
-"Los miembros del proyecto PC-BSD® se presentan en muchas conferencias de TI "
-"a lo largo del planeta y regalan DVDs de PC-BSD® en las cabinas de las "
-"conferencias. Visitando una cabina de PC-BSD® es una forma excelente de "
-"conocer a otros usuarios de PC-BSD® y tener sus preguntas respondidas. "
-"Revise el `Blog de PC-BSD® <http://blog.pcbsd.org/>`_ para ver si algunos "
-"eventos se están desarrollando cerca de usted. Si está organizando una "
-"cabina de PC-BSD®, `contáctenos <http://www.pcbsd.org/en/support/>`_ para "
-"proporcionarle DVDs."
 
 #: ../../preinstall.rst:277
 msgid "Data Integrity Check"
@@ -634,13 +561,8 @@ msgstr ""
 "usar una utilería de verificación de firmas."
 
 #: ../../preinstall.rst:284
-msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/en/download.html>`_  only lists the SHA256 while the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
+msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/download/>`_  only lists the SHA256 while the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
 msgstr ""
-"Solo necesita verificar una de las firmas. El `Sitio web de PC-BSD® "
-"<http://www.pcbsd.org/en/download.html>`_ solo lista las firmas SHA256 "
-"mientras que el `CDN de PC-BSD® <http://iso.cdn.pcbsd.org/>`_ lista ambos "
-"archivos de firmas :file:`.md5` y :file:`.sha256`. Esta sección demuestra "
-"cómo verificar una firma MD5."
 
 #: ../../preinstall.rst:288
 msgid "If you are currently using a Windows system, you can download and install the `FastSum <http://www.fastsum.com/>`_ utility in order to verify the MD5 checksum. Once installed, launch the program and click the \"Files\" button, shown in :numref:`Figure %s: Verifying a Checksum Using FastSum <fastsum1>`, to browse to the location of your downloaded file."
@@ -900,13 +822,8 @@ msgstr ""
 "sistema de archivos BSD que se ha creado en el dispositivo USB."
 
 #: ../../preinstall.rst:450
-msgid "To burn the image file on a Windows system, you can use `win32-image-writer <http://sourceforge.net/projects/win32diskimager/>`_. When downloading win32-image-writer, download the latest version that ends in :file:`-binary.zip` and use a utility such as Windows Explorer or 7zip to unzip the executable."
+msgid "To burn the image file on a Windows system, you can use `win32-image-writer <https://sourceforge.net/projects/win32diskimager/>`_. When downloading win32-image-writer, download the latest version that ends in :file:`-binary.zip` and use a utility such as Windows Explorer or 7zip to unzip the executable."
 msgstr ""
-"Para grabar el archivo de imágen en un sistema Windows, puede usar `win32"
-"-image-writer <http://sourceforge.net/projects/win32diskimager/>`_. Cuando "
-"descargue win32-image-writer, descargue la última version que termine en "
-":file:`-binary.zip` y use una utilería como el Navegador de Windows o 7zip "
-"para extraer el ejecutable."
 
 #: ../../preinstall.rst:453
 msgid "If you launch :command:`win32-image-writer.exe`, it will start the Win32 Disk Imager utility, shown in :numref:`Figure %s: Using Win32 Disk Imager to Write the Image <writer1>`. Use the \"browse\" button to browse to the location of the :file:`.iso` file. Insert a USB thumb drive and select its drive letter (in this example, drive D). Click the \"Write\" button and the image will be written to the USB thumb drive."

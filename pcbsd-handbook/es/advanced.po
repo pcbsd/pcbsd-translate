@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-11 08:13-0700\n"
+"POT-Creation-Date: 2016-04-11 12:13-0700\n"
 "PO-Revision-Date: 2016-01-08 17:14+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -420,17 +420,10 @@ msgid "This screen provides the following options:"
 msgstr "Esta pantalla proporciona las siguientes opciones:"
 
 #: ../../advanced.rst:227
-msgid "**shell:** this option is useful if you are troubleshooting a PC-BSD® system that no longer boots. It will open a shell with administrative access that includes the base FreeBSD utilities. You can use this shell to try to determine what the problem is and, if necessary, to create a backup or copy essential files to another system. When you are finished using the shell, type :command:`exit` to return to the screen shown in :numref:`Figure %s: System Utilities Menu <util1>`."
+msgid "**shell:** this option is useful if you are troubleshooting a PC-BSD® system that no longer boots. It will open a shell with administrative access that includes the base FreeBSD utilities. Advanced users can use this shell to try to determine what the problem is, to create a backup or copy essential files to another system, or edit configuration files with an editor such as `ee <https://www.freebsd.org/cgi/man.cgi?query=ee>`_ or :command:`vi`. When you are finished using the shell, type :command:`exit` to return to the screen shown in :numref:`Figure %s: System Utilities Menu <util1>`."
 msgstr ""
-"**shell:** esta opción es útil si está resolviendo algún problema en un "
-"sistema PC-BSD® que no arranca. Abrirá una consola con acceso administrativo "
-"que incluye las utilerías básicas de FreeBSD. Puede usar esta consola para "
-"intentar determinar cuál es el problema y, si es necesario, crear un "
-"respaldo o copiar archivos esenciales a otro sistema. Cuando termine de usar "
-"la consola, ingrese :command:`exit` para regresar a la pantalla mostrada en "
-"la :numref:`Figura %s: Menú de Utilerías del Sistema <util1>`."
 
-#: ../../advanced.rst:231
+#: ../../advanced.rst:232
 msgid "**zimport** this option will display the names of available ZFS pools. Type the name of an available pool and it will import it then display the available boot environments (BEs). Type the name of the desired BE and this option will mount it then offer to open a chroot shell so that you can view its contents and manipulate files as needed in order to perform maintenance on that boot environment. When you are finished, type :command:`exit` to leave the boot environment and return to the screen shown in :numref:`Figure %s: System Utilities Menu <util1>`."
 msgstr ""
 "**zimport** esta opción desplegará los nombres de los pools ZFS disponibles. "
@@ -442,7 +435,7 @@ msgstr ""
 ":command:`exit` para dejar el entorno de arranque y regresar a la pantalla "
 "mostrada en la :numref:`Figura %s: Menú de Utilerías del Sistema <util1>`."
 
-#: ../../advanced.rst:236
+#: ../../advanced.rst:237
 msgid "**fixgrub:** this option can be used to restamp the GRUB boot loader should the installed system no longer boot. When this option is selected, it will first show the available ZFS pools and prompt you to input the name of the pool to import."
 msgstr ""
 "**fixgrub:** esta opción se puede usar para reinstalar el gestor de arranque "
@@ -450,24 +443,24 @@ msgstr ""
 "selecciona esta opción, primero mostrará los pools ZFS disponibles y le "
 "pedirá que ingrese el nombre del pool a importar."
 
-#: ../../advanced.rst:239
+#: ../../advanced.rst:240
 msgid "**exit:** this option will return you to the main menu seen in :numref:`Figure %s: Text Installation Menu <text1>`."
 msgstr ""
 "**exit:** esta opción lo regresará al menú principal mostrado en la :numref:`"
 "Figura %s: Menú de la Instalación en Modo Texto <text1>`."
 
-#: ../../advanced.rst:245
+#: ../../advanced.rst:246
 msgid "Install a Server"
 msgstr "Instalando un Servidor"
 
-#: ../../advanced.rst:247
+#: ../../advanced.rst:248
 msgid "The :ref:`System Selection Screen` of the PC-BSD® installer can be used to install TrueOS®, a FreeBSD-based server operating system, rather than a PC-BSD® desktop operating system."
 msgstr ""
 "La :ref:`Pantalla de Selección de Sistema` del instalador PC-BSD® se puede "
 "usar para instalar TrueOS®, un sistema operativo servidor basado en FreeBSD, "
 "en vez de un sistema operativo PC-BSD® de escritorio."
 
-#: ../../advanced.rst:250
+#: ../../advanced.rst:251
 msgid "TrueOS® adds the following to a vanilla installation of FreeBSD: :command:`iocage` for jail management and the command line versions of most of the :ref:`Control Panel` utilities. You will find those utilities in :file:`/usr/local/bin/pc-*`. It also installs the software mentioned in `the RUN_DEPENDS= section of this file <https://github.com/pcbsd/freebsd-ports/blob/master/misc/trueos-base/Makefile>`_."
 msgstr ""
 "TrueOS® añade lo siguiente a su instalación básica de FreeBSD: "
@@ -478,27 +471,27 @@ msgstr ""
 "<https://github.com/pcbsd/freebsd-ports/blob/master/misc/trueos-"
 "base/Makefile>`_."
 
-#: ../../advanced.rst:254
+#: ../../advanced.rst:255
 msgid "For a server installation, using the PC-BSD® installer rather than the FreeBSD installer offers several benefits:"
 msgstr ""
 "Para la instalación de un servidor, emplear el instalador de PC-BSD® en vez "
 "del instalador de FreeBSD ofrece algunas ventajas:"
 
-#: ../../advanced.rst:256
+#: ../../advanced.rst:257
 msgid "the ability to easily configure ZFS during installation"
 msgstr "La capacidad de configurar fácilmente ZFS durante la instalación"
 
-#: ../../advanced.rst:258
+#: ../../advanced.rst:259
 msgid "the ability to configure multiple boot environments"
 msgstr "La capacidad de configurar múltiples entornos de arranque"
 
-#: ../../advanced.rst:260
+#: ../../advanced.rst:261
 msgid "a wizard (described in this section) is provided during installation to configure the server for first use"
 msgstr ""
 "Se proporciona un asistente (descrito en esta sección) durante la "
 "instalación para configurar el servidor para su primer uso"
 
-#: ../../advanced.rst:262
+#: ../../advanced.rst:263
 msgid "this section describes how to install a command-line only server using the PC-BSD® graphical installer. Alternately, you can also install a server :ref:`Using the TrueOS® CD` or :ref:`Using the Text Installer`."
 msgstr ""
 "Esta sección describe como instalar un servidor sólo en línea de comandos "
@@ -506,7 +499,7 @@ msgstr ""
 "instalar una servidor :ref:`Usando el CD de TrueOS®` o :ref:`Usando el "
 "Instalador en Modo Texto`."
 
-#: ../../advanced.rst:265
+#: ../../advanced.rst:266
 msgid "To perform a server installation, start the PC-BSD® installer as usual. When you get to the :ref:`System Selection Screen` of the installer, select \"Server (TrueOS)\", as shown in :numref:`Figure %s: Selecting to Install TrueOS® <server1>`."
 msgstr ""
 "Para realizar una instalación de servidor, comience como siempre con el "
@@ -514,7 +507,7 @@ msgstr ""
 "Sistema` del instalador, seleccione \"Server (TrueOS)\", como se muestra en "
 "la :numref:`Figura %s: Seleccionando la Instalación de TrueOS® <server1>`."
 
-#: ../../advanced.rst:272
+#: ../../advanced.rst:273
 msgid "Click \"Next\" to start the \"Server Setup Wizard\" then click \"Next\" again to see the screen shown in :numref:`Figure %s: Set the Root Password <server2>`."
 msgstr ""
 "Presione \"Siguiente\" para iniciar el \"Asistente de Configuración de "
@@ -522,14 +515,14 @@ msgstr ""
 "en la :numref:`Figura %s: Estableciendo la Contraseña de Administrador "
 "<server2>`."
 
-#: ../../advanced.rst:278
+#: ../../advanced.rst:279
 msgid "Input and confirm the root password then click \"Next\" to proceed to the screen shown in :numref:`Figure %s: Create the Primary User Account <server3>`."
 msgstr ""
 "Ingrese y confirme la contraseña de administrador y presione \"Siguiente\" "
 "para proceder a la pantalla mostrada en la :numref:`Figura %s: Creando la "
 "Cuenta De Usuario Primario <server3>`."
 
-#: ../../advanced.rst:284
+#: ../../advanced.rst:285
 msgid "For security reasons, you should not login as the *root* user. For this reason, the wizard requires you to create a primary user account that will be used to login to the server. This account will automatically be added to the *wheel* group, allowing that user to :command:`su` to the root account when administrative access is required."
 msgstr ""
 "Por razones de seguridad, no debería conectarse como *administrador*. Por "
@@ -538,40 +531,40 @@ msgstr ""
 "grupo *wheel*, permitiendo a ese usuario conectarse a través de :command:`su`"
 " a la cuenta del administrador cuando se requiera."
 
-#: ../../advanced.rst:288
+#: ../../advanced.rst:289
 msgid "This screen contains the following fields:"
 msgstr "Esta pantalla contiene los siguientes campos:"
 
-#: ../../advanced.rst:290
+#: ../../advanced.rst:291
 msgid "**Name:** can contain capital letters and spaces."
 msgstr "**Nombre:** puede contener letras mayúculas y espacios."
 
-#: ../../advanced.rst:292
+#: ../../advanced.rst:293
 msgid "**Username:** the name used when logging in. Can not contain spaces and is case sensitive (e.g. *Kris* is a different username than *kris*)."
 msgstr ""
 "**Nombre de usuario:** el nombre empleado cuando ingrese. No puede contener "
 "espacios y es sensible a mayúsculas (por ejemplo, *Kris* es un usuario "
 "diferente a *kris*)."
 
-#: ../../advanced.rst:294
+#: ../../advanced.rst:295
 msgid "**Password:** the password used when logging in. You must type it twice in order to confirm it."
 msgstr ""
 "**Contraseña:** la contraseña empleada cuando se accede. Debe escribirla dos "
 "veces para confirmarla."
 
-#: ../../advanced.rst:296
+#: ../../advanced.rst:297
 msgid "**Default shell:** use the drop-down menu to select the **csh**, **tcsh**, **sh**, or **bash** login shell."
 msgstr ""
 "**Consola predeterminada:** use el menú desplegable para seleccionar la "
 "consola de acceso **csh**, **tcsh**, **sh**, o **bash**."
 
-#: ../../advanced.rst:298
+#: ../../advanced.rst:299
 msgid "When finished, click \"Next\" to proceed to the screen shown in :numref:`Figure %s: Set the Hostname <server4>`."
 msgstr ""
 "Cuando termine, presione \"Siguiente\" para proceder a la pantalla mostrada "
 "en la :numref:`Figura %s: Estableciendo el Nombre de Equipo <server4>`."
 
-#: ../../advanced.rst:304
+#: ../../advanced.rst:305
 msgid "Input the system's hostname. If you will be using :command:`ssh` to connect to the system, check the box \"Enable remote SSH login\". Click \"Next\" to proceed to the network configuration screen shown in :numref:`Figure %s: Configure the Network <server5>`."
 msgstr ""
 "Ingrese el nombre del equipo. Si estará usando :command:`ssh` para "
@@ -579,27 +572,27 @@ msgstr ""
 ". Presione \"Siguiente\" para proceder a la pantalla de configuración de red "
 "mostrada en la :numref:`Figura %s: Configurando la Red <server5>`."
 
-#: ../../advanced.rst:311
+#: ../../advanced.rst:312
 msgid "Use the \"Network Interface\" drop-down menu to select from the following:"
 msgstr ""
 "Use el menú desplegable \"Interfaz de Red\" para seleccionar lo siguiente:"
 
-#: ../../advanced.rst:313
+#: ../../advanced.rst:314
 msgid "**AUTO-DHCP-SLAAC:** (default) will configure every active interface for DHCP and for both IPv4 and IPv6"
 msgstr ""
 "**AUTO-DHCP-SLAAC:** (predeterminado) configurará todas las interfaces "
 "activas para DHCP y para ambos, IPv4 y IPv6."
 
-#: ../../advanced.rst:315
+#: ../../advanced.rst:316
 msgid "**AUTO-DHCP:** will configure every active interface for DHCP and for IPv4"
 msgstr ""
 "**AUTO-DHCP:** configurará todas las interfaces activas para DHCP y para IPv4"
 
-#: ../../advanced.rst:317
+#: ../../advanced.rst:318
 msgid "**IPv6-SLAAC:** will configure every active interface for DHCP and for IPv6"
 msgstr "**IPv6-SLAAC:** configurará todas las interfaces para DHCP y para IPv6"
 
-#: ../../advanced.rst:319
+#: ../../advanced.rst:320
 msgid "Alternately, select the device name for the interface that you wish to manually configure and input the IPv4 and/or IPv6 addressing information. When finished, click \"Next\" to proceed to the screen shown in :numref:`Figure %s: Configure Remote Access to AppCafe <server6>`."
 msgstr ""
 "Alternativamente, seleccione el nombre de dispositivo para la interfaz que "
@@ -608,7 +601,7 @@ msgstr ""
 "pantalla mostrada en la :numref:`Figura %s: Configurando el Acceso Remoto a "
 "AppCafe <server6>`."
 
-#: ../../advanced.rst:326
+#: ../../advanced.rst:327
 msgid "If you would like to manage installed software or jails from your phone or a remote system, check the box \"Enable AppCafe Remote\". If you only plan to use :ref:`AppCafe®` from the system you are installing, click \"Next\" to instead continue to the next screen."
 msgstr ""
 "Si desea administrar el software instalado o jaulas desde un teléfono o "
@@ -616,7 +609,7 @@ msgstr ""
 "Si solo planea usar :ref:`AppCafe®` desde el sistema que se está instalando, "
 "presione \"Siguiente\" para continuar a la siguiente pantalla."
 
-#: ../../advanced.rst:329
+#: ../../advanced.rst:330
 msgid "If you check the box to configure remote access, input a username and password and select the port number to use when accessing AppCafe® from another device. When finished, click \"Next\" to access the screen shown in :numref:`Figure %s: Install Ports <server7>`."
 msgstr ""
 "Si marca la casilla para configurar el acceso remoto, ingrese un nombre de "
@@ -625,7 +618,7 @@ msgstr ""
 "accesar a la pantalla mostrada en la :numref:`Figura %s: Instalando Ports "
 "<server7>`."
 
-#: ../../advanced.rst:336
+#: ../../advanced.rst:337
 msgid "If you wish to install the FreeBSD ports collection, check the \"Install ports tree\" box then click \"Finish\" to exit the wizard and access the summary screen shown in :numref:`Figure %s: Review Installation Summary <install5>`."
 msgstr ""
 "Si quiere instalar la colección de ports de FreeBSD, marque la casilla \""
@@ -633,26 +626,26 @@ msgstr ""
 "asistente y accesar la pantalla de resumen mostrada en la :numref:`Figura %s:"
 " Revisando el Resumen de la Instalación <install5>`."
 
-#: ../../advanced.rst:343
+#: ../../advanced.rst:344
 msgid "Click \"Customize\" if you wish to proceed to the  screen in order to configure the system's disk(s)."
 msgstr ""
 "Presione \"Personalizar\" si desea ir a la pantalla para configurar el(los) "
 "disco(s) del sistema."
 
-#: ../../advanced.rst:345
+#: ../../advanced.rst:346
 msgid "If you wish to save the finished configuration to re-use it at a later time, insert a FAT-formatted USB stick and click \"Save Config to USB\"."
 msgstr ""
 "Si desea guardar la configuración terminada para reutilizarla más tarde, "
 "inserte un dispositivo USB formateado con FAT y presione en \"Guardar la "
 "Configuración al USB\". "
 
-#: ../../advanced.rst:347
+#: ../../advanced.rst:348
 msgid "Once you are ready to start the installation, click \"Next\". A pop-up menu will ask if you would like to start the installation now."
 msgstr ""
 "Una vez que esté listo para empezar la instalación, presione en \"Siguiente\""
 ". Surgirá un menú que preguntará si quiere comenzar ya con la instalación."
 
-#: ../../advanced.rst:349
+#: ../../advanced.rst:350
 msgid "Once the system is installed, it will boot to a command-line login prompt. Login using the primary user account that was configured during installation. You can now configure and use the server as you would any other FreeBSD server installation. The `FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ is an excellent reference for performing common FreeBSD server tasks."
 msgstr ""
 "Una vez instalado el sistema, arrancará en un indicador de comandos. Acceda "
@@ -662,11 +655,11 @@ msgstr ""
 "<http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/>`_ es una "
 "referencia excelente para realizar tareas comunes en un servidor FreeBSD."
 
-#: ../../advanced.rst:357
+#: ../../advanced.rst:358
 msgid "Using the TrueOS® CD"
 msgstr "Usando el CD de TrueOS®"
 
-#: ../../advanced.rst:359
+#: ../../advanced.rst:360
 msgid "PC-BSD® provides a CD-sized TrueOS® ISO which provides an ncurses installer for installing a command-line version of TrueOS®. If your intent is to only install servers and you do not need a graphical installer, this ISO is convenient to use and quick to download."
 msgstr ""
 "PC-BSD® tiene disponible una ISO de TrueOS® del tamaño de un CD, que "
@@ -674,7 +667,7 @@ msgstr ""
 "línea de comandos. Si pretende instalar sólo servidores y no se necesita un "
 "instalador gráfico, esta ISO es apropiada para usar y rápida de descargar."
 
-#: ../../advanced.rst:362
+#: ../../advanced.rst:363
 msgid "To start a server installation using the TrueOS® ISO, insert the prepared boot media. The initial boot menu, shown in :numref:`Figure %s: TrueOS® Boot Menu <cd1>`, indicates that this is a TrueOS® installation."
 msgstr ""
 "Para comenzar una instalación de servidor usando la ISO de TrueOS®, inserte "
@@ -682,48 +675,41 @@ msgstr ""
 ":numref:`Figura %s: Menú de Arranque de TrueOS® <cd1>`, indica que esta es "
 "una instalación de TrueOS®."
 
-#: ../../advanced.rst:369
+#: ../../advanced.rst:370
 msgid "The installer will finish booting and display the installation menu shown in :numref:`Figure %s: TrueOS® Installation Menu <cd2>`."
 msgstr ""
 "El instalador terminará de arrancar y desplegará el menú de instalación "
 "mostrado en la :numref:`Figura %s: Menú de Instalación de TrueOS® <cd2>`."
 
-#: ../../advanced.rst:375
+#: ../../advanced.rst:376
 msgid "To begin the installation, press :kbd:`Enter`. The server installation will proceed as described in :ref:`Using the Text Installer`."
 msgstr ""
 "Para comenzar la instalación, presione :kbd:`Intro`. La instalación del "
 "servidor procederá como se describe en :ref:`Usando el Instalador en Modo "
 "Texto`."
 
-#: ../../advanced.rst:377
+#: ../../advanced.rst:378
 msgid "The TrueOS® boot media can also be used to repair an existing installation, using the instructions in :ref:`Using the System Utilities Menu`."
 msgstr ""
 "El medio de arranque de TrueOS® puede usarse para reparar una instalación "
 "existente, siguiendo las instrucciones que hay en :ref:`Usando el Menú de "
 "Utilerías del Sistema`."
 
-#: ../../advanced.rst:383
+#: ../../advanced.rst:384
 msgid "Dual Booting"
 msgstr "Arranque Dual"
 
-#: ../../advanced.rst:385
-msgid "A PC-BSD® installation assumes that you have an existing primary partition to install into. If your computer has only one disk and PC-BSD® will be the only operating system, it is fine to accept the default partitioning scheme. However, if you will be sharing PC-BSD® with other operating systems, care has to be taken that PC-BSD® is installed into the correct partition; otherwise, you may inadvertently overwrite an existing operating system."
+#: ../../advanced.rst:386
+msgid "A PC-BSD® installation assumes that you have an existing primary partition to install into. If your computer has only one disk and PC-BSD® will be the only operating system, it is fine to accept the default partitioning scheme. However, if you will be sharing PC-BSD® with other operating systems, be careful that PC-BSD® is installed into the correct partition or you may inadvertently overwrite an existing operating system."
 msgstr ""
-"Una instalación de PC-BSD® asume que usted tiene una partición primaria "
-"donde instalarlo. Si el equipo dispone sólo de un disco, y PC-BSD® va a ser "
-"el único sistema operativo, es bueno aceptar el esquema de partición "
-"predeterminado. Sin embargo, si se va a compartir PC-BSD® con otros sistemas "
-"operativos hay que tener cuidado de que PC-BSD® se instale en la partición "
-"correcta; de otra manera se podría sobreescribir inadvertidamente un sistema "
-"operativo existente."
 
-#: ../../advanced.rst:389
+#: ../../advanced.rst:390
 msgid "If you wish to install multiple operating systems on your computer, you will need the following:"
 msgstr ""
 "Si desea instalar múltiples sistemas operativos en el equipo, necesitará lo "
 "siguiente:"
 
-#: ../../advanced.rst:391
+#: ../../advanced.rst:392
 msgid "a partition for each operating system. Many operating systems, including PC-BSD®, can only be installed into a primary or GPT partition. This means that you will need to use partitioning software as described in :ref:`Creating Free Space`."
 msgstr ""
 "Una partición para cada sistema operativo. Muchos sistemas operativos, "
@@ -731,7 +717,7 @@ msgstr ""
 "partición GPT. Esto significa que necesitará emplear software de "
 "particionado como se describe en :ref:`Creando Espacio Libre`."
 
-#: ../../advanced.rst:394
+#: ../../advanced.rst:395
 msgid "a backup of any existing data. This backup should not be stored on your computer's hard drive but on another computer or on a removable media such as a USB drive or burnt onto a DVD media. If you are careful in your installation, everything should go fine. However, you will be glad that you made a backup should something go wrong."
 msgstr ""
 "Un respaldo de todos los datos existentes. Este respaldo no debería "
@@ -740,7 +726,7 @@ msgstr ""
 "durante la instalación, todo debería salir bien. Sin embargo, se alegrará de "
 "haber hecho un respaldo si algo fuera mal."
 
-#: ../../advanced.rst:398
+#: ../../advanced.rst:399
 msgid "When installing PC-BSD® onto a computer that is to contain multiple operating systems, care must be taken to **select the correct partition** in the :ref:`Disk Selection Screen` of the installation. On a system containing multiple partitions, each partition will be listed. Highlight the partition that you wish to install into and **make sure that you do not select a partition that already contains an operating system or data that you wish to keep.**"
 msgstr ""
 "Cuando se instala PC-BSD® en un equipo que va a contener múltiples sistemas "
@@ -751,7 +737,7 @@ msgstr ""
 "selecciona una partición que ya contiene un sistema operativo o datos que "
 "desea conservar.**"
 
-#: ../../advanced.rst:402
+#: ../../advanced.rst:403
 msgid "**make sure that you click the \"Customize\" button while in the \"Disk Selection\" screen.** If you just click \"Next\" without customizing the disk layout, the installer will overwrite the contents of the primary disk."
 msgstr ""
 "**Asegúrese de presionar en el botón de \"Personalizar\" cuando esté en la "
@@ -759,11 +745,11 @@ msgstr ""
 "personalizar el diseño del disco, el instalador sobreescribirá los "
 "contenidos del disco primario."
 
-#: ../../advanced.rst:409
+#: ../../advanced.rst:410
 msgid "GRUB Boot Loader"
 msgstr "Gestor de Arranque GRUB"
 
-#: ../../advanced.rst:411
+#: ../../advanced.rst:412
 msgid "PC-BSD® uses a customized version of the GRUB boot-loader to provide ZFS boot environment support, which is used as part of the system updating mechanism. PC-BSD® requires that its version of GRUB be installed as the primary boot-loader on the disk. **Using another boot-loader will break this critical functionality, and is strongly discouraged.**"
 msgstr ""
 "PC-BSD® utiliza una versión personalizada del gestor de arranque GRUB para "
@@ -773,18 +759,11 @@ msgstr ""
 "primario. **Empleando otro cargador de arranque romperá esta funcionalidad "
 "crítica, y es muy desaconsejado.**"
 
-#: ../../advanced.rst:415
-msgid "The GRUB boot-loader is capable of dual-booting most other systems, including Windows and Linux. In order to dual-boot PC-BSD® with other operating systems, you can add entries to the :file:`/usr/local/etc/grub.d/40_custom` file, which will be preserved across upgrades. For more information on the syntax used, refer to the `GRUB Manual <http://www.gnu.org/software/grub/manual/grub.html>`_."
+#: ../../advanced.rst:416
+msgid "The GRUB boot-loader is capable of dual-booting most other systems, including Windows and Linux. In order to dual-boot PC-BSD® with other operating systems, you can add entries to the :file:`/usr/local/etc/grub.d/40_custom.dist` file, which will be preserved across upgrades. For more information on the syntax used, refer to the `GRUB Manual <http://www.gnu.org/software/grub/manual/grub.html>`_."
 msgstr ""
-"El gestor de arranque GRUB es capaz de arrancar también otros sistemas "
-"operativos, incluyendo Windows y Linux. Para un arranque dual de PC-BSD® con "
-"otros sistemas operativos, puede añadir las entradas al archivo "
-":file:`/usr/local/etc/grub.d/40_custom`, que se conservará durante las "
-"actualizaciones. Para más información acerca de la sintaxis empleada, "
-"dirigirse al `Manual de GRUB "
-"<http://www.gnu.org/software/grub/manual/grub.html>`_."
 
-#: ../../advanced.rst:419
+#: ../../advanced.rst:420
 msgid "PC-BSD® will attempt to identify other installed operating systems to add to the GRUB menu automatically. If you have an operating system which is not detected, please open a new bug report on `bugs.pcbsd.org <https://bugs.pcbsd.org/>`_ with the following information:"
 msgstr ""
 "PC-BSD® tratará de identificar otros sistema operativos instalados para "
@@ -792,25 +771,25 @@ msgstr ""
 "que no se ha detectado, por favor abra un nuevo informe de error en `"
 "bugs.pcbsd.org <https://bugs.pcbsd.org/>`_ con la siguiente información:"
 
-#: ../../advanced.rst:422
+#: ../../advanced.rst:423
 msgid "name of the operating system"
 msgstr "Nombre del sistema operativo"
 
-#: ../../advanced.rst:424
+#: ../../advanced.rst:425
 msgid "output of the :command:`gpart show` and :command:`glabel list` commands"
 msgstr "Salida de los comandos :command:`gpart show` y :command:`glabel list`"
 
-#: ../../advanced.rst:426
+#: ../../advanced.rst:427
 msgid "any entries you added to :file:`/usr/local/etc/grub.d/40_custom`"
 msgstr ""
 "Cualquier entrada que se haya añadido a "
 ":file:`/usr/local/etc/grub.d/40_custom`"
 
-#: ../../advanced.rst:432
+#: ../../advanced.rst:433
 msgid "Creating an Automated Installation"
 msgstr "Creando una Instalación Automatizada"
 
-#: ../../advanced.rst:434
+#: ../../advanced.rst:435
 msgid "PC-BSD® provides a set of Bourne shell scripts that allow advanced users to create automatic or customized PC-BSD® installations. :command:`pc-sysinstall` is the name of the master script; it reads a customizable configuration file and uses dozens of backend scripts to perform the installation. You can read more about this utility by typing **man pc-sysinstall**."
 msgstr ""
 "PC-BSD® proporciona una serie de scripts del shell Bourne que permiten a los "
@@ -820,13 +799,13 @@ msgstr ""
 "backend para realizar la instalación. Puede leer más acerca de esta utilería "
 "escribiendo **man pc-sysinstall**."
 
-#: ../../advanced.rst:438
+#: ../../advanced.rst:439
 msgid "Here is a quick overview of the components used by :command:`pc-sysinstall`:"
 msgstr ""
 "Aquí tiene un vistazo rápido de los componentes empleados por :command:`pc-"
 "sysinstall`:"
 
-#: ../../advanced.rst:440
+#: ../../advanced.rst:441
 msgid ":file:`/usr/local/share/pc-sysinstall/backend/` contains the scripts used by the PC-BSD® installer. Scripts have been divided by function, such as :file:`functions-bsdlabel.sh` and :file:`functions-installcomponents.sh`. If you have ever wondered how the PC-BSD® installer works, read through these scripts. This directory also contains the :file:`parseconfig.sh` and :file:`startautoinstall.sh` scripts which :command:`pc-sysinstall` uses to parse the configuration file and begin the installation."
 msgstr ""
 ":file:`/usr/local/share/pc-sysinstall/backend/` contiene los scripts que "
@@ -838,13 +817,13 @@ msgstr ""
 "son usados por :command:`pc-sysinstall` para parsear el archivo de "
 "configuración y empezar con la instalación."
 
-#: ../../advanced.rst:445
+#: ../../advanced.rst:446
 msgid ":file:`/usr/local/share/pc-sysinstall/backend-query/` contains the scripts which are used by the installer to detect and configure hardware."
 msgstr ""
 ":file:`/usr/local/share/pc-sysinstall/backend-query/` contiene los scripts "
 "utilizados por el instalador para detectar y configurar el hardware."
 
-#: ../../advanced.rst:447
+#: ../../advanced.rst:448
 msgid ":file:`/usr/local/share/pc-sysinstall/conf/` contains the configuration file :file:`pc-sysinstall.conf`. It also contains a file indicating which localizations are available (:file:`avail-langs`), an :file:`exclude-from-upgrade` file, and a :file:`licenses/` subdirectory containing text files of applicable licenses."
 msgstr ""
 ":file:`/usr/local/share/pc-sysinstall/conf/` contiene el archivo de "
@@ -853,13 +832,13 @@ msgstr ""
 ":file:`exclude-from-upgrade` y un subdirectorio :file:`licenses/` que "
 "contiene los archivos de texto de las licencias aplicables."
 
-#: ../../advanced.rst:450
+#: ../../advanced.rst:451
 msgid ":file:`/usr/local/share/pc-sysinstall/doc/` contains the help text that is seen if you run :command:`pc-sysinstall` without any arguments."
 msgstr ""
 ":file:`/usr/local/share/pc-sysinstall/doc/` contiene el texto de ayuda que "
 "aparecerá si ejecuta :command:`pc-sysinstall` sin ningún argumento."
 
-#: ../../advanced.rst:452
+#: ../../advanced.rst:453
 msgid ":file:`/usr/local/share/pc-sysinstall/examples/` contains several example configuration files for different scenarios (e.g. :file:`upgrade`, :file:`fbsd-netinstall`). The :file:`README` file in this directory should be considered as mandatory reading before using :command:`pc-sysinstall`."
 msgstr ""
 ":file:`/usr/local/share/pc-sysinstall/examples/` contiene varios ejemplos de "
@@ -868,19 +847,19 @@ msgstr ""
 "en este directorio debería considerarse como de lectura obligatoria antes de "
 "usar :command:`pc-sysinstall`."
 
-#: ../../advanced.rst:455
+#: ../../advanced.rst:456
 msgid ":file:`/usr/sbin/pc-sysinstall` this is the script that is used to perform a customized installation."
 msgstr ""
 ":file:`/usr/sbin/pc-sysinstall` este es el script que se usa para realizar "
 "una instalación personalizada."
 
-#: ../../advanced.rst:457
+#: ../../advanced.rst:458
 msgid "This section discusses the steps needed to create a custom installation."
 msgstr ""
 "En esta sección se discuten los pasos necesarios para crear una instalación "
 "personalizada."
 
-#: ../../advanced.rst:459
+#: ../../advanced.rst:460
 msgid "First, determine which variables you wish to customize. A list of possible variables can be found in :file:`/usr/local/share/pc-sysinstall/examples/README` and are summarized in Table 5.5a. Note that the Table is meant as a quick reference to determine which variables are available. The :file:`README` file contains more complete descriptions for each variable."
 msgstr ""
 "Primero, determine que variables desea personalizar. Una lista de posibles "
@@ -890,815 +869,814 @@ msgstr ""
 "variables están disponibles. El archivo :file:`README` contiene una "
 "descripción más completa para cada variable."
 
-#: ../../advanced.rst:463
+#: ../../advanced.rst:464
 msgid "**Table 5.5a: Available Variables for Customizing a PC-BSD® Installation**"
 msgstr ""
 "**Tabla 5.5a: Variables Disponibles para la Personalización de una "
 "Instalación PC-BSD®**"
 
-#: ../../advanced.rst:466
-#: ../../advanced.rst:620
+#: ../../advanced.rst:467
+#: ../../advanced.rst:621
 msgid "Variable"
 msgstr "Variable"
 
-#: ../../advanced.rst:466
-#: ../../advanced.rst:620
+#: ../../advanced.rst:467
+#: ../../advanced.rst:621
 msgid "Options"
 msgstr "Opciones"
 
-#: ../../advanced.rst:466
-#: ../../advanced.rst:620
+#: ../../advanced.rst:467
+#: ../../advanced.rst:621
 msgid "Description"
 msgstr "Descripción"
 
-#: ../../advanced.rst:468
+#: ../../advanced.rst:469
 msgid "hostname="
 msgstr "hostname="
 
-#: ../../advanced.rst:468
+#: ../../advanced.rst:469
 msgid "should be unique for the network"
 msgstr "Debe ser único para la red"
 
-#: ../../advanced.rst:468
+#: ../../advanced.rst:469
 msgid "optional as installer will auto\\-generate a hostname if empty"
 msgstr ""
 "Opcional ya que el instalador auto\\-generará un nombre del equipo si está "
 "vacío"
 
-#: ../../advanced.rst:470
+#: ../../advanced.rst:471
 msgid "installMode="
 msgstr "installMode="
 
-#: ../../advanced.rst:470
+#: ../../advanced.rst:471
 msgid "\"fresh\", \"upgrade\", \"extract\", or \"zfsrestore\""
 msgstr "\"fresh\", \"upgrade\", \"extract\", o \"zfsrestore\""
 
-#: ../../advanced.rst:470
+#: ../../advanced.rst:471
 msgid "sets the installation type"
 msgstr "Establece el tipo de instalación"
 
-#: ../../advanced.rst:472
+#: ../../advanced.rst:473
 msgid "installLocation="
 msgstr "installLocation="
 
-#: ../../advanced.rst:472
+#: ../../advanced.rst:473
 msgid "/path/to/location"
 msgstr "/dirección/a/la_localización"
 
-#: ../../advanced.rst:472
+#: ../../advanced.rst:473
 msgid "used only when *installMode* is extract and should point to an already mounted location"
 msgstr ""
 "Empleado cuando *installMode* es extract y debería apuntar a una "
 "localización ya montada"
 
-#: ../../advanced.rst:474
+#: ../../advanced.rst:475
 msgid "installInteractive="
 msgstr "installInteractive="
 
-#: ../../advanced.rst:474
-#: ../../advanced.rst:544
-#: ../../advanced.rst:576
-#: ../../advanced.rst:624
+#: ../../advanced.rst:475
+#: ../../advanced.rst:545
+#: ../../advanced.rst:577
+#: ../../advanced.rst:625
 msgid "\"yes\" or \"no\""
 msgstr "\"yes\" o \"no\""
 
-#: ../../advanced.rst:474
+#: ../../advanced.rst:475
 msgid "set to \"no\" for automated installs without user input"
 msgstr ""
 "Establecer como \"no\" para instalaciones automatizadas sin la intervención "
 "del usuario"
 
-#: ../../advanced.rst:476
+#: ../../advanced.rst:477
 msgid "netDev="
 msgstr "netDev="
 
-#: ../../advanced.rst:476
+#: ../../advanced.rst:477
 msgid "\"AUTO-DHCP\" or FreeBSD interface name"
 msgstr "\"AUTO DHCP\" o nombre de la interfaz de FreeBSD"
 
-#: ../../advanced.rst:476
+#: ../../advanced.rst:477
 msgid "type of network connection to use during the installation"
 msgstr "Tipo de conexión de red que se usará durante la instalación"
 
-#: ../../advanced.rst:478
+#: ../../advanced.rst:479
 msgid "netIP="
 msgstr "netIP="
 
-#: ../../advanced.rst:478
+#: ../../advanced.rst:479
 msgid "IP address of interface used during installation"
 msgstr "Dirección IP de la interfaz empleada durante la instalación"
 
-#: ../../advanced.rst:478
-#: ../../advanced.rst:480
-#: ../../advanced.rst:482
-#: ../../advanced.rst:484
+#: ../../advanced.rst:479
+#: ../../advanced.rst:481
+#: ../../advanced.rst:483
+#: ../../advanced.rst:485
 msgid "only use if *netDev* is set to an interface name"
 msgstr "Usar sólo si *netDev* está establecido a un nombre de interfaz"
 
-#: ../../advanced.rst:480
+#: ../../advanced.rst:481
 msgid "netMask="
 msgstr "netMask="
 
-#: ../../advanced.rst:480
-#: ../../advanced.rst:490
+#: ../../advanced.rst:481
+#: ../../advanced.rst:491
 msgid "subnet mask of interface"
 msgstr "Máscara de subred de la interfaz"
 
-#: ../../advanced.rst:482
+#: ../../advanced.rst:483
 msgid "netNameServer="
 msgstr "netNameServer="
 
-#: ../../advanced.rst:482
+#: ../../advanced.rst:483
 msgid "IP address of DNS server"
 msgstr "Dirección IP del servidor DNS"
 
-#: ../../advanced.rst:484
+#: ../../advanced.rst:485
 msgid "netDefaultRouter="
 msgstr "netDefaultRouter="
 
-#: ../../advanced.rst:484
-#: ../../advanced.rst:494
+#: ../../advanced.rst:485
+#: ../../advanced.rst:495
 msgid "IP address of default gateway"
 msgstr "Dirección IP de la puerta de enlace predeterminada"
 
-#: ../../advanced.rst:486
+#: ../../advanced.rst:487
 msgid "netSaveDev="
 msgstr "netSaveDev="
 
-#: ../../advanced.rst:486
+#: ../../advanced.rst:487
 msgid "AUTO-DHCP or FreeBSD interface name(s) (multiple allowed separated by spaces)"
 msgstr ""
 "DHCP automático o nombre(s) de interfaz(ces) de FreeBSD (se permiten varios, "
 "separados por comillas)"
 
-#: ../../advanced.rst:486
+#: ../../advanced.rst:487
 msgid "type of network configuration to enable on the installed system; can set multiple interfaces"
 msgstr ""
 "Tipo de configuración de red para habilitar en el sistema instalado; puede "
 "configurar varias interfaces"
 
-#: ../../advanced.rst:488
+#: ../../advanced.rst:489
 msgid "netSaveIP="
 msgstr "netSaveIP="
 
-#: ../../advanced.rst:488
+#: ../../advanced.rst:489
 msgid "IP address of interface or \"DHCP\""
 msgstr "Dirección IP de la interfaz o \"DHCP\""
 
-#: ../../advanced.rst:488
-#: ../../advanced.rst:490
+#: ../../advanced.rst:489
+#: ../../advanced.rst:491
 msgid "only use if *netSaveDev* is set to an interface name or a list of interface names (repeat for each interface)"
 msgstr ""
 "Sólo usar si *netSaveDev* está configurado con un nombre de interfaz o a una "
 "lista de nombres de interfaces (repetir para cada interfaz)"
 
-#: ../../advanced.rst:490
+#: ../../advanced.rst:491
 msgid "netSaveMask="
 msgstr "netSaveMask="
 
-#: ../../advanced.rst:492
+#: ../../advanced.rst:493
 msgid "netSaveNameServer="
 msgstr "netSaveNameServer="
 
-#: ../../advanced.rst:492
+#: ../../advanced.rst:493
 msgid "IP address of DNS server (multiple allowed separated by spaces)"
 msgstr ""
 "Dirección IP del servidor DNS (se permiten varias, separadas por espacios)"
 
-#: ../../advanced.rst:492
-#: ../../advanced.rst:494
+#: ../../advanced.rst:493
+#: ../../advanced.rst:495
 msgid "only use if *netSaveDev* is set to an interface name or a list of interface names (do not repeat for each interface)"
 msgstr ""
 "Usar sólo si *netSaveDev* está establecido a un nombre de interfaz o a una "
 "lista de nombres de interfaces (no repetir para cada interfaz)"
 
-#: ../../advanced.rst:494
+#: ../../advanced.rst:495
 msgid "netSaveDefaultRouter="
 msgstr "netSaveDefaultRouter="
 
-#: ../../advanced.rst:496
+#: ../../advanced.rst:497
 msgid "disk0="
 msgstr "disk0="
 
-#: ../../advanced.rst:496
+#: ../../advanced.rst:497
 msgid "FreeBSD disk device name, (e.g. *ad0*)"
 msgstr "Nombre del dispositivo de disco FreeBSD, (por ejemplo *ad0*)"
 
-#: ../../advanced.rst:496
-#: ../../advanced.rst:498
+#: ../../advanced.rst:497
+#: ../../advanced.rst:499
 msgid "see *README* for examples"
 msgstr "Ver *README* para ejemplos"
 
-#: ../../advanced.rst:498
+#: ../../advanced.rst:499
 msgid "partition="
 msgstr "partition="
 
-#: ../../advanced.rst:498
+#: ../../advanced.rst:499
 msgid "\"all\", \"free\", \"s1\", \"s2\", \"s3\", \"s4\", or \"image\""
 msgstr "\"all\", \"free\", \"s1\", \"s2\", \"s3\", \"s4\", o \"image\""
 
-#: ../../advanced.rst:500
+#: ../../advanced.rst:501
 msgid "partscheme="
 msgstr "partscheme="
 
-#: ../../advanced.rst:500
+#: ../../advanced.rst:501
 msgid "\"MBR\" or \"GPT\""
 msgstr "\"MBR\" o \"GPT\""
 
-#: ../../advanced.rst:500
+#: ../../advanced.rst:501
 msgid "partition scheme type"
 msgstr "Tipo de esquema de partición"
 
-#: ../../advanced.rst:502
+#: ../../advanced.rst:503
 msgid "mirror="
 msgstr "mirror="
 
-#: ../../advanced.rst:502
+#: ../../advanced.rst:503
 msgid "FreeBSD disk device name (e.g. *ad1*)"
 msgstr "Nombre del dispositivo de disco FreeBSD (por ejemplo *ad1*)"
 
-#: ../../advanced.rst:502
+#: ../../advanced.rst:503
 msgid "sets the target disk for the mirror (i.e. the second disk)"
 msgstr ""
 "Establece el disco de destino para el mirror (por ejemplo el segundo disco)"
 
-#: ../../advanced.rst:504
+#: ../../advanced.rst:505
 msgid "mirrorbal="
 msgstr "mirrorbal="
 
-#: ../../advanced.rst:504
+#: ../../advanced.rst:505
 msgid "\"load\", \"prefer\", \"round-robin\", or \"split\""
 msgstr "\"load\", \"prefer\", \"round-robin\", o \"split\""
 
-#: ../../advanced.rst:504
+#: ../../advanced.rst:505
 msgid "defaults to \"round-robin\" if the *mirrorbal* method is not specified"
 msgstr ""
 "Predeterminados para \"round-robin\" si el método *mirrorbal* no está "
 "especificado"
 
-#: ../../advanced.rst:506
+#: ../../advanced.rst:507
 msgid "bootManager="
 msgstr "bootManager="
 
-#: ../../advanced.rst:506
+#: ../../advanced.rst:507
 msgid "\"none\", \"bsd\", or \"GRUB\""
 msgstr "\"none\", \"bsd\", o \"GRUB\""
 
-#: ../../advanced.rst:506
+#: ../../advanced.rst:507
 msgid "when using \"GRUB\", include its package in *installPackages=*"
 msgstr "Cuando se usa \"GRUB\", incluye su paquete en *installPackages=*"
 
-#: ../../advanced.rst:508
+#: ../../advanced.rst:509
 msgid "image="
 msgstr "image="
 
-#: ../../advanced.rst:508
+#: ../../advanced.rst:509
 msgid "/path/to/image /mountpoint"
 msgstr "/dirección/a/la_imagen /punto_de_montaje"
 
-#: ../../advanced.rst:508
+#: ../../advanced.rst:509
 msgid "will write specified image file"
 msgstr "Escribirá el archivo de imagen especificado"
 
-#: ../../advanced.rst:510
+#: ../../advanced.rst:511
 msgid "commitDiskPart"
 msgstr "commitDiskPart"
 
-#: ../../advanced.rst:510
+#: ../../advanced.rst:511
 msgid "this variable is mandatory and must be placed at the end of each *diskX* section; create a *diskX* section for each disk you wish to configure."
 msgstr ""
 "Esta variable es obligatoria y se debe colocar al final de cada sección "
 "*diskX*; cree una sección *diskX* para cada disco que desee configurar."
 
-#: ../../advanced.rst:512
+#: ../../advanced.rst:513
 msgid "encpass="
 msgstr "encpass="
 
-#: ../../advanced.rst:512
+#: ../../advanced.rst:513
 msgid "password value"
 msgstr "Valor de la contraseña"
 
-#: ../../advanced.rst:512
+#: ../../advanced.rst:513
 msgid "at boot time, system will prompt for this password in order to mount the associated GELI encrypted partition"
 msgstr ""
 "Durante el inicio, el sistema le solicitará su contraseña para montar la "
 "partición asociada encriptada con GELI"
 
-#: ../../advanced.rst:514
+#: ../../advanced.rst:515
 msgid "commitDiskLabel"
 msgstr "commitDiskLabel"
 
-#: ../../advanced.rst:514
+#: ../../advanced.rst:515
 msgid "this variable is mandatory and must be placed at the end of disk's partitioning settings; see the *README* for examples on how to set the <File System Type> <Size> <Mountpoint> entries for each disk"
 msgstr ""
 "Esta variable es obligatoria y se debe colocar al final de la configuración "
 "del particionado del disco; vea *README* para ejemplos de cómo establecer "
 "las entradas <File System Type> <Size> <Mountpoint> para cada disco"
 
-#: ../../advanced.rst:516
+#: ../../advanced.rst:517
 msgid "installMedium="
 msgstr "installMedium="
 
-#: ../../advanced.rst:516
+#: ../../advanced.rst:517
 msgid "\"dvd\", \"usb\", \"ftp\", \"rsync\", or \"image\""
 msgstr "\"dvd\", \"usb\", \"ftp\", \"rsync\", o \"image\""
 
-#: ../../advanced.rst:516
+#: ../../advanced.rst:517
 msgid "source to be used for installation"
 msgstr "Medio que se usará para la instalación"
 
-#: ../../advanced.rst:518
+#: ../../advanced.rst:519
 msgid "localPath="
 msgstr "localPath="
 
-#: ../../advanced.rst:518
+#: ../../advanced.rst:519
 msgid "/path/to/files"
 msgstr "/dirección/a/los_archivos"
 
-#: ../../advanced.rst:518
+#: ../../advanced.rst:519
 msgid "location of directory containing installation files"
 msgstr "Localización del directorio que contiene los archivos de instalación"
 
-#: ../../advanced.rst:520
+#: ../../advanced.rst:521
 msgid "installType="
 msgstr "installType="
 
-#: ../../advanced.rst:520
+#: ../../advanced.rst:521
 msgid "\"PCBSD\" or \"FreeBSD\""
 msgstr "\"PCBSD\" o \"FreeBSD\""
 
-#: ../../advanced.rst:520
+#: ../../advanced.rst:521
 msgid "determines whether this is a desktop or a server install"
 msgstr "Determina si esto es una instalación de un escritorio o de un servidor"
 
-#: ../../advanced.rst:522
+#: ../../advanced.rst:523
 msgid "installFile="
 msgstr "installFile="
 
-#: ../../advanced.rst:522
+#: ../../advanced.rst:523
 msgid "e.g. \"fbsd-release.tbz\""
 msgstr "Por ejemplo \"fbsd-release.tbz\""
 
-#: ../../advanced.rst:522
+#: ../../advanced.rst:523
 msgid "only set if using a customized installer archive"
 msgstr "Sólo configurar si se usa un archivo de instalación personalizado"
 
-#: ../../advanced.rst:524
+#: ../../advanced.rst:525
 msgid "packageType="
 msgstr "packageType="
 
-#: ../../advanced.rst:524
+#: ../../advanced.rst:525
 msgid "\"tar\", \"uzip\", \"split\", or \"dist\""
 msgstr "\"tar\", \"uzip\", \"split\", o \"dist\""
 
-#: ../../advanced.rst:524
+#: ../../advanced.rst:525
 msgid "the archive type on the installation media"
 msgstr "El tipo de archivo en el medio de instalación"
 
-#: ../../advanced.rst:526
+#: ../../advanced.rst:527
 msgid "distFiles="
 msgstr "distFiles="
 
-#: ../../advanced.rst:526
+#: ../../advanced.rst:527
 msgid "e.g. \"base src kernel\""
 msgstr "Por ejemplo \"base src kernel\""
 
-#: ../../advanced.rst:526
+#: ../../advanced.rst:527
 msgid "list of FreeBSD distribution files to install when using *packageType=dist*"
 msgstr ""
 "Lista de los archivos de la distribución FreeBSD que se instalarán cuando se "
 "usa *packageType=dist*"
 
-#: ../../advanced.rst:528
+#: ../../advanced.rst:529
 msgid "ftpPath="
 msgstr "ftpPath="
 
-#: ../../advanced.rst:528
+#: ../../advanced.rst:529
 msgid "ftp://ftp_path"
 msgstr "ftp://dirección_ftp"
 
-#: ../../advanced.rst:528
+#: ../../advanced.rst:529
 msgid "location of the installer archive when using *installMedium=ftp*"
 msgstr ""
 "Localización del archivo del instalador cuando se usa *installMedium=ftp*"
 
-#: ../../advanced.rst:530
+#: ../../advanced.rst:531
 msgid "rsyncPath="
 msgstr "rsyncPath="
 
-#: ../../advanced.rst:530
+#: ../../advanced.rst:531
 msgid "e.g. \"life-preserver/back-2011-09-12T14_53_14\""
 msgstr "Por ejemplo \"life-preserver/back-2011-09-12T14_53_14\""
 
-#: ../../advanced.rst:530
+#: ../../advanced.rst:531
 msgid "location of the rsync data on the remote server when using *installMedium=rsync*"
 msgstr ""
 "Ubicación de los datos de rsync en el servidor remoto cuando se usa "
 "*installMedium=rsync*"
 
-#: ../../advanced.rst:532
+#: ../../advanced.rst:533
 msgid "rsyncUser="
 msgstr "rsyncUser="
 
-#: ../../advanced.rst:532
-#: ../../advanced.rst:586
-#: ../../advanced.rst:592
+#: ../../advanced.rst:533
+#: ../../advanced.rst:587
+#: ../../advanced.rst:593
 msgid "username"
 msgstr "Nombre del usuario"
 
-#: ../../advanced.rst:532
-#: ../../advanced.rst:534
-#: ../../advanced.rst:536
+#: ../../advanced.rst:533
+#: ../../advanced.rst:535
+#: ../../advanced.rst:537
 msgid "set when using *installMedium=rsync*"
 msgstr "Configurar cuando se use *installMedium=rsync*"
 
-#: ../../advanced.rst:534
+#: ../../advanced.rst:535
 msgid "rsyncHost="
 msgstr "rsyncHost="
 
-#: ../../advanced.rst:534
+#: ../../advanced.rst:535
 msgid "IP address of rsync server"
 msgstr "Dirección IP del servidor rsync"
 
-#: ../../advanced.rst:536
+#: ../../advanced.rst:537
 msgid "rsyncPort="
 msgstr "rsyncPort="
 
-#: ../../advanced.rst:536
+#: ../../advanced.rst:537
 msgid "port number"
 msgstr "Número del puerto"
 
-#: ../../advanced.rst:538
+#: ../../advanced.rst:539
 msgid "installComponents="
 msgstr "installComponents="
 
-#: ../../advanced.rst:538
+#: ../../advanced.rst:539
 msgid "e.g. \"amarok,firefox,ports\""
 msgstr "Por ejemplo \"amarok,firefox,ports\""
 
-#: ../../advanced.rst:538
+#: ../../advanced.rst:539
 msgid "components must exist in */PCBSD/pc-sysinstall/components/*; typically, *installPackages=* is used instead"
 msgstr ""
 "Los componentes deben existir en */PCBSD/pc-sysinstall/components/*; "
 "típicamente se usa *installPackages=* en su lugar"
 
-#: ../../advanced.rst:540
+#: ../../advanced.rst:541
 msgid "installPackages="
 msgstr "installPackages="
 
-#: ../../advanced.rst:540
+#: ../../advanced.rst:541
 msgid "e.g. \"Xorg cabextract"
 msgstr "Por ejemplo \"Xorg cabextract\""
 
-#: ../../advanced.rst:540
-msgid "list of traditional or pkgng packages to install; requires *pkgExt=*"
+#: ../../advanced.rst:541
+msgid "list of traditional or pkg packages to install; requires *pkgExt=*"
 msgstr ""
-"Lista de paquetes tradicionales o de pkgng para instalar; requiere *pkgExt=*"
 
-#: ../../advanced.rst:542
+#: ../../advanced.rst:543
 msgid "pkgExt="
 msgstr "pkgExt="
 
-#: ../../advanced.rst:542
+#: ../../advanced.rst:543
 msgid "\".txz\" or \".tbz\""
 msgstr "\".txz\" o \".tbz\""
 
-#: ../../advanced.rst:542
+#: ../../advanced.rst:543
 msgid "specify the extension used by the type of package to be installed"
 msgstr "Especifique la extension usada por el tipo de paquete que se instalará"
 
-#: ../../advanced.rst:544
+#: ../../advanced.rst:545
 msgid "upgradeKeepDesktopProfile="
 msgstr "upgradeKeepDesktopProfile="
 
-#: ../../advanced.rst:544
+#: ../../advanced.rst:545
 msgid "specify if you wish to keep your existing user's desktop profile data during an upgrade"
 msgstr ""
 "Especifique si desea mantener los datos del perfil de escritorio existente "
 "durante una actualización"
 
-#: ../../advanced.rst:546
+#: ../../advanced.rst:547
 msgid "rootPass="
 msgstr "rootPass="
 
-#: ../../advanced.rst:546
+#: ../../advanced.rst:547
 msgid "password"
 msgstr "Contraseña"
 
-#: ../../advanced.rst:546
+#: ../../advanced.rst:547
 msgid "set the root password of the installed system to the specified string"
 msgstr ""
 "Establecer la contraseña del administrador del sistema instalado a la cadena "
 "especificada"
 
-#: ../../advanced.rst:548
+#: ../../advanced.rst:549
 msgid "rootEncPass="
 msgstr "rootEncPass="
 
-#: ../../advanced.rst:548
-#: ../../advanced.rst:556
+#: ../../advanced.rst:549
+#: ../../advanced.rst:557
 msgid "encrypted string"
 msgstr "Cadena encriptada"
 
-#: ../../advanced.rst:548
+#: ../../advanced.rst:549
 msgid "set root password to specified encrypted string"
 msgstr ""
 "Establecer la contraseña del administrador a la cadena encriptada "
 "especificada"
 
-#: ../../advanced.rst:550
+#: ../../advanced.rst:551
 msgid "userName="
 msgstr "userName="
 
-#: ../../advanced.rst:550
+#: ../../advanced.rst:551
 msgid "case sensitive value"
 msgstr "Valor sensible a mayúsculas"
 
-#: ../../advanced.rst:550
+#: ../../advanced.rst:551
 msgid "create a separate block of user values for each user you wish to create"
 msgstr ""
 "Crear un bloque separado de valores de usuario para cada usuario que desee "
 "crear"
 
-#: ../../advanced.rst:552
+#: ../../advanced.rst:553
 msgid "userComment="
 msgstr "userComment="
 
-#: ../../advanced.rst:552
+#: ../../advanced.rst:553
 msgid "description"
 msgstr "Descripción"
 
-#: ../../advanced.rst:552
+#: ../../advanced.rst:553
 msgid "description text can include spaces"
 msgstr "El Texto de descripción puede incluir espacios"
 
-#: ../../advanced.rst:554
+#: ../../advanced.rst:555
 msgid "userPass="
 msgstr "userPass="
 
-#: ../../advanced.rst:554
+#: ../../advanced.rst:555
 msgid "password of user"
 msgstr "Contraseña del usuario"
 
-#: ../../advanced.rst:556
+#: ../../advanced.rst:557
 msgid "userEncPass"
 msgstr "userEncPass"
 
-#: ../../advanced.rst:556
+#: ../../advanced.rst:557
 msgid "set user password to specified encrypted string"
 msgstr ""
 "Establecer la contraseña del usuario a la cadena encriptada especificada"
 
-#: ../../advanced.rst:558
+#: ../../advanced.rst:559
 msgid "userShell="
 msgstr "userShell="
 
-#: ../../advanced.rst:558
+#: ../../advanced.rst:559
 msgid "e.g. \"/bin/csh\""
 msgstr "Por ejemplo \"/bin/csh\""
 
-#: ../../advanced.rst:558
+#: ../../advanced.rst:559
 msgid "path to default shell"
 msgstr "Ruta al shell predeterminado"
 
-#: ../../advanced.rst:560
+#: ../../advanced.rst:561
 msgid "userHome="
 msgstr "userHome="
 
-#: ../../advanced.rst:560
+#: ../../advanced.rst:561
 msgid "e.g. \"/home/username\""
 msgstr "Por ejemplo \"/home/nombre_del_usuario\" "
 
-#: ../../advanced.rst:560
+#: ../../advanced.rst:561
 msgid "path to home directory"
 msgstr "Dirección al directorio personal"
 
-#: ../../advanced.rst:562
+#: ../../advanced.rst:563
 msgid "defaultGroup="
 msgstr "defaultGroup="
 
-#: ../../advanced.rst:562
+#: ../../advanced.rst:563
 msgid "e.g. \"wheel\""
 msgstr "Por ejemplo \"wheel\""
 
-#: ../../advanced.rst:562
+#: ../../advanced.rst:563
 msgid "default group"
 msgstr "Grupo predeterminado"
 
-#: ../../advanced.rst:564
+#: ../../advanced.rst:565
 msgid "userGroups="
 msgstr "userGroups="
 
-#: ../../advanced.rst:564
+#: ../../advanced.rst:565
 msgid "e.g. \"wheel,operator\""
 msgstr "Por ejemplo \"wheel, operator\""
 
-#: ../../advanced.rst:564
+#: ../../advanced.rst:565
 msgid "comma separated (no spaces) list of additional groups"
 msgstr "Lista de grupos adicionales separados por coma (sin espacios)"
 
-#: ../../advanced.rst:566
+#: ../../advanced.rst:567
 msgid "commitUser"
 msgstr "commitUser"
 
-#: ../../advanced.rst:566
+#: ../../advanced.rst:567
 msgid "mandatory, must be last line in each user block"
 msgstr "Obligatorio, debe ser la última línea en cada bloque de usuario"
 
-#: ../../advanced.rst:568
+#: ../../advanced.rst:569
 msgid "runCommand="
 msgstr "runCommand="
 
-#: ../../advanced.rst:568
-#: ../../advanced.rst:572
+#: ../../advanced.rst:569
+#: ../../advanced.rst:573
 msgid "full path to command"
 msgstr "Ruta completa al comando"
 
-#: ../../advanced.rst:568
+#: ../../advanced.rst:569
 msgid "run the specified command within chroot of the installed system, after the installation is complete"
 msgstr ""
 "Corra el comando especificado con chroot del sistema instalado, luego de que "
 "la instalación se haya completado"
 
-#: ../../advanced.rst:570
+#: ../../advanced.rst:571
 msgid "runScript="
 msgstr "runScript="
 
-#: ../../advanced.rst:570
+#: ../../advanced.rst:571
 msgid "full path to script"
 msgstr "Ruta completa al script"
 
-#: ../../advanced.rst:570
+#: ../../advanced.rst:571
 msgid "runs specified script within chroot of the installed system, after the installation is complete"
 msgstr ""
 "Corre el script especificado con chroot en el sistema instalado, luego de "
 "que la instalación se haya completado"
 
-#: ../../advanced.rst:572
+#: ../../advanced.rst:573
 msgid "runExtCommand="
 msgstr "runExtCommand="
 
-#: ../../advanced.rst:572
+#: ../../advanced.rst:573
 msgid "runs a command outside the chroot"
 msgstr "Ejecuta un comando fuera de chroot"
 
-#: ../../advanced.rst:574
+#: ../../advanced.rst:575
 msgid "timeZone="
 msgstr "timeZone="
 
-#: ../../advanced.rst:574
+#: ../../advanced.rst:575
 msgid "e.g. \"America/New_York\""
 msgstr "Por ejemplo\"America/Nueva_York\""
 
-#: ../../advanced.rst:574
+#: ../../advanced.rst:575
 msgid "location must exist in :file:`/usr/share/zoneinfo/`"
 msgstr "La ubicación debe existir en :file:`/usr/share/zoneinfo/`"
 
-#: ../../advanced.rst:576
+#: ../../advanced.rst:577
 msgid "enableNTP="
 msgstr "enableNTP="
 
-#: ../../advanced.rst:576
+#: ../../advanced.rst:577
 msgid "enable/disable NTP"
 msgstr "Activar/desactivar NTP"
 
-#: ../../advanced.rst:578
+#: ../../advanced.rst:579
 msgid "localizeLang="
 msgstr "localizeLang="
 
-#: ../../advanced.rst:578
-#: ../../advanced.rst:580
+#: ../../advanced.rst:579
+#: ../../advanced.rst:581
 msgid "e.g. \"en\""
 msgstr "Por ejemplo \"en\""
 
-#: ../../advanced.rst:578
+#: ../../advanced.rst:579
 msgid "sets the system console and Desktop to the target language"
 msgstr "Establece la consola del sistema y el Escritorio al idioma seleccionado"
 
-#: ../../advanced.rst:580
+#: ../../advanced.rst:581
 msgid "localizeKeyLayout="
 msgstr "localizeKeyLayout="
 
-#: ../../advanced.rst:580
+#: ../../advanced.rst:581
 msgid "updates the system's Xorg config to set the keyboard layout"
 msgstr ""
 "Actualiza la configuración de Xorg del sistema para establecer la "
 "distribución de teclado"
 
-#: ../../advanced.rst:582
+#: ../../advanced.rst:583
 msgid "localizeKeyModel="
 msgstr "localizeKeyModel="
 
-#: ../../advanced.rst:582
+#: ../../advanced.rst:583
 msgid "e.g. \"pc104\""
 msgstr "Por ejemplo \"pc104\""
 
-#: ../../advanced.rst:582
+#: ../../advanced.rst:583
 msgid "updates the system's Xorg config to set the keyboard model"
 msgstr ""
 "Actualiza la configuración de Xorg del sistema para establecer el modelo del "
 "teclado"
 
-#: ../../advanced.rst:584
+#: ../../advanced.rst:585
 msgid "localizeKeyVariant="
 msgstr "localizeKeyVariant="
 
-#: ../../advanced.rst:584
+#: ../../advanced.rst:585
 msgid "e.g. \"intl\""
 msgstr "Por ejemplo \"intl\""
 
-#: ../../advanced.rst:584
+#: ../../advanced.rst:585
 msgid "updates the Xorg config to set the keyboard variant"
 msgstr ""
 "Actualiza la configuración de Xorg para establecer la variante de teclado"
 
-#: ../../advanced.rst:586
+#: ../../advanced.rst:587
 msgid "autoLoginUser="
 msgstr "autoLoginUser="
 
-#: ../../advanced.rst:586
+#: ../../advanced.rst:587
 msgid "user will be logged in automatically without entering a password"
 msgstr "El usuario sera automáticamente autenticado sin ingresar una contraseña"
 
-#: ../../advanced.rst:588
+#: ../../advanced.rst:589
 msgid "sshHost="
 msgstr "sshHost="
 
-#: ../../advanced.rst:588
+#: ../../advanced.rst:589
 msgid "hostname or IP address"
 msgstr "Nombre del equipo o dirección IP"
 
-#: ../../advanced.rst:588
+#: ../../advanced.rst:589
 msgid "the address of the remote server when using *installMode=zfsrestore*"
 msgstr "La dirección del servidor remoto cuando se usa *installMode=zfsrestore*"
 
-#: ../../advanced.rst:590
+#: ../../advanced.rst:591
 msgid "sshPort="
 msgstr "sshPort="
 
-#: ../../advanced.rst:590
+#: ../../advanced.rst:591
 msgid "e.g \"22\""
 msgstr "Por ejemplo \"22\""
 
-#: ../../advanced.rst:590
+#: ../../advanced.rst:591
 msgid "the SSH port number of the remote server when using *installMode=zfsrestore*"
 msgstr ""
 "El numero de puerto SSH del servidor remoto cuando se usa "
 "*installMode=zfsrestore*"
 
-#: ../../advanced.rst:592
+#: ../../advanced.rst:593
 msgid "sshUser="
 msgstr "sshUser="
 
-#: ../../advanced.rst:592
+#: ../../advanced.rst:593
 msgid "the username on the remote server when using *installMode=zfsrestore*"
 msgstr ""
 "El nombre de usuario en el servidor remoto cuando se usa "
 "*installMode=zfsrestore*"
 
-#: ../../advanced.rst:594
+#: ../../advanced.rst:595
 msgid "sshKey="
 msgstr "sshKey="
 
-#: ../../advanced.rst:594
+#: ../../advanced.rst:595
 msgid "e.g. \"/root/id_rsa\""
 msgstr "Por ejemplo \"/root/id_rsa\""
 
-#: ../../advanced.rst:594
+#: ../../advanced.rst:595
 msgid "path to the SSH key file on the remote server when using *installMode=zfsrestore*"
 msgstr ""
 "Ruta al archivo de clave SSH en el servidor remoto cuando se usa "
 "*installMode=zfsrestore*"
 
-#: ../../advanced.rst:596
+#: ../../advanced.rst:597
 msgid "zfsProps="
 msgstr "zfsProps="
 
-#: ../../advanced.rst:596
+#: ../../advanced.rst:597
 msgid "e.g. \".lp-props-tank#backups#mybackup\""
 msgstr "Por ejemplo \".lp-props-tank#backups#mybackup\""
 
-#: ../../advanced.rst:596
+#: ../../advanced.rst:597
 msgid "location of dataset properties file created by Life Preserver during replication when using *installMode=zfsrestore*"
 msgstr ""
 "La ubicación del archivo de propiedades del dataset creado por Life "
 "Preserver durante la replicación cuando se usa *installMode=zfsrestore*"
 
-#: ../../advanced.rst:598
+#: ../../advanced.rst:599
 msgid "zfsRemoteDataset="
 msgstr "zfsRemoteDataset="
 
-#: ../../advanced.rst:598
+#: ../../advanced.rst:599
 msgid "e.g. \"tank/backups/mybackup\""
 msgstr "Por ejemplo \"tank/backups/mibackup\""
 
-#: ../../advanced.rst:598
+#: ../../advanced.rst:599
 msgid "location of remote dataset to restore from when using *installMode=zfsrestore*"
 msgstr ""
 "Ubicación del dataset remoto desde el que restaurar cuando se usa "
 "*installMode=zfsrestore*"
 
-#: ../../advanced.rst:601
+#: ../../advanced.rst:602
 msgid "Next, create a customized configuration. One way to create a customized configuration file is to read through the configuration examples in :file:`/usr/local/share/pc-sysinstall/examples/` to find the one that most closely matches your needs. Copy that file to any location and customize it so that it includes the variables and values you would like to use in your installation."
 msgstr ""
 "Enseguida, cree una configuración personalizada. Una manera de crear un "
@@ -1708,7 +1686,7 @@ msgstr ""
 "modifíquelo de manera que incluya las variables y valores que le gustaría "
 "emplear en su instalación."
 
-#: ../../advanced.rst:605
+#: ../../advanced.rst:606
 msgid "An alternate way to create this file is to start an installation, configure the system as desired, and save the configuration to a USB stick (with or without actually performing the installation). You can use that saved configuration file as-is or customize it to meet an installation's needs. This method may prove easier when performing complex disk layouts."
 msgstr ""
 "Una manera alternativa de crear este archivo es iniciar la instalación, "
@@ -1718,7 +1696,7 @@ msgstr ""
 "necesidades de una instalación en particular. Este método puede resultar mas "
 "sencillo cuando se realizan configuraciónes complejas de disco."
 
-#: ../../advanced.rst:609
+#: ../../advanced.rst:610
 msgid "If you wish to perform a fully-automated installation that does not prompt for any user input, you will also need to review :file:`/usr/local/share/pc-sysinstall/examples/pc-autoinstall.conf` and place a customized copy of that file into :file:`/boot/pc-autoinstall.conf` on your installation media."
 msgstr ""
 "Si desea realizar una instalación completamente automatizada que no le pida "
@@ -1727,7 +1705,7 @@ msgstr ""
 "colocar una copia personalizada de ese archivo en :file:`/boot/pc-"
 "autoinstall.conf` en su medio de instalación."
 
-#: ../../advanced.rst:613
+#: ../../advanced.rst:614
 msgid "Table 5.5b summarizes the additional variables that are available for fully automatic installations. More detailed descriptions can be found in the :file:`/usr/local/share/pc-sysinstall/examples/pc-autoinstall.conf` file. Note that the variables in this file use a different syntax than those in Table 5.6a in that the values follow a colon and a space rather than the equals sign."
 msgstr ""
 "La Tabla 5.5b resume las variables adicionales que están disponibles para "
@@ -1738,99 +1716,99 @@ msgstr ""
 "5.6a en que los valores siguen a una coma y un espacio en lugar de a un "
 "signo de igual."
 
-#: ../../advanced.rst:617
+#: ../../advanced.rst:618
 msgid "**Table 5.5b: Additional Variables for Automated Installations**"
 msgstr "**Tabla 5.5b: Variables Adicionales para Instalaciones Automatizadas**"
 
-#: ../../advanced.rst:622
+#: ../../advanced.rst:623
 msgid "pc_config"
 msgstr "pc_config"
 
-#: ../../advanced.rst:622
+#: ../../advanced.rst:623
 msgid "URL or /path/to/file"
 msgstr "URL o /ruta/al/archivo"
 
-#: ../../advanced.rst:622
+#: ../../advanced.rst:623
 msgid "location of customized :file:`pc-sysinstall.conf`"
 msgstr "Ubicación de :file:`pc-sysinstall.conf` personalizado"
 
-#: ../../advanced.rst:624
+#: ../../advanced.rst:625
 msgid "confirm_install"
 msgstr "confirm_install"
 
-#: ../../advanced.rst:624
+#: ../../advanced.rst:625
 msgid "should be set to \"yes\", otherwise booting the wrong disk will result in a system wipe"
 msgstr ""
 "Deberia estar establecido en \"yes\", de otro modo arrancar desde el disco "
 "incorrecto resultara en un borrado del sistema"
 
-#: ../../advanced.rst:626
+#: ../../advanced.rst:627
 msgid "shutdown_cmd"
 msgstr "shutdown_cmd"
 
-#: ../../advanced.rst:626
+#: ../../advanced.rst:627
 msgid "e.g. :command:`shutdown -p now`"
 msgstr "Por ejemplo :command:`shutdown -p now`"
 
-#: ../../advanced.rst:626
+#: ../../advanced.rst:627
 msgid "good idea to run a shutdown, but this can be any command/script you wish to execute post-install"
 msgstr ""
 "Buena idea para apagar, pero esto puede ser cualquier comando/script que "
 "desee ejecutar tras la instalación"
 
-#: ../../advanced.rst:628
+#: ../../advanced.rst:629
 msgid "nic_config"
 msgstr "nic_config"
 
-#: ../../advanced.rst:628
+#: ../../advanced.rst:629
 msgid "\"dhcp-all\" or <interface name> <IP address> <subnet mask>"
 msgstr "\"dhcp-all\" o <interface name> <IP address> <subnet mask>"
 
-#: ../../advanced.rst:628
+#: ../../advanced.rst:629
 msgid "will attempt DHCP on all found NICs until the installation file can be fetched or will setup specified interface"
 msgstr ""
 "Intentará el DHCP en todas las NICs encontradas hasta que el archivo de "
 "instalación pueda ser obtenido o configurará la interfaz especificada"
 
-#: ../../advanced.rst:630
+#: ../../advanced.rst:631
 msgid "nic_dns"
 msgstr "nic_dns"
 
-#: ../../advanced.rst:630
-#: ../../advanced.rst:632
+#: ../../advanced.rst:631
+#: ../../advanced.rst:633
 msgid "IP address"
 msgstr "Dirección IP"
 
-#: ../../advanced.rst:630
+#: ../../advanced.rst:631
 msgid "DNS server to use"
 msgstr "Servidor DNS a utilizar"
 
-#: ../../advanced.rst:632
+#: ../../advanced.rst:633
 msgid "nic_gateway"
 msgstr "nic_gateway"
 
-#: ../../advanced.rst:632
+#: ../../advanced.rst:633
 msgid "default gateway to use"
 msgstr "Puerta de enlace predeterminada a utilizar"
 
-#: ../../advanced.rst:636
+#: ../../advanced.rst:637
 msgid "Finally, create a custom installation media or installation server. :command:`pc-sysinstall` supports the following installation methods:"
 msgstr ""
 "Finalmente, cree un medio de instalación personalizado o un servidor de "
 "instalación. :command:`pc-sysinstall` soporta los siguientes métodos de "
 "instalación:"
 
-#: ../../advanced.rst:638
+#: ../../advanced.rst:639
 msgid "from a CD, DVD, or USB media"
 msgstr "Desde un CD, DVD, o dispositivo USB"
 
-#: ../../advanced.rst:640
+#: ../../advanced.rst:641
 msgid "from an installation directory on an HTTP, FTP, SSH+rsync, or a :ref:`PXE Boot Install Server`"
 msgstr ""
 "Desde un directorio de instalación a un HTTP, FTP, SSH+rsync o a un :ref:`"
 "Servidor de Instalación PXE Boot`"
 
-#: ../../advanced.rst:642
+#: ../../advanced.rst:643
 msgid "The easiest way to create a custom installation media is to modify an existing installation image. For example, if you have downloaded an ISO for the PC-BSD® version that you wish to customize, the superuser can access the contents of the ISO as follows::"
 msgstr ""
 "La manera más fácil de crear un medio de instalación personalizado es "
@@ -1838,26 +1816,26 @@ msgstr ""
 "una ISO para la versión de PC-BSD® que desea personalizar, el administrador "
 "puede acceder a los contenidos de la ISO de la siguiente manera::"
 
-#: ../../advanced.rst:649
+#: ../../advanced.rst:650
 msgid "Make sure to :command:`cd` into a directory where you would like to copy the contents of the ISO. In the following examples, :file:`/tmp/custominstall/` was created for this purpose::"
 msgstr ""
 "Asegúrese de hacer :command:`cd` dentro del directorio donde le gustaría "
 "copiar los contenidos de la ISO. En los siguientes ejemplos, "
 ":file:`/tmp/custominstall/` fue creado para este propósito::"
 
-#: ../../advanced.rst:658
+#: ../../advanced.rst:659
 msgid "Alternately, if you have inserted an installation CD or DVD, you can mount the media and copy its contents to your desired directory::"
 msgstr ""
 "Alternativamente, si inserto un CD o DVD de instalación, puede montar el "
 "medio y copiar sus contenidos al directorio que prefiera::"
 
-#: ../../advanced.rst:666
+#: ../../advanced.rst:667
 msgid "If you are creating an automated installation, copy your customized :file:`pc-autoinstall.conf` to :file:`/tmp/custominstall/boot/`."
 msgstr ""
 "Si está creando una instalación automatizada, copie su :file:`pc-"
 "autoinstall.conf` personalizado a :file:`/tmp/custominstall/boot/`."
 
-#: ../../advanced.rst:668
+#: ../../advanced.rst:669
 msgid "Copy your customized configuration file to :file:`/tmp/custominstall/`. Double-check that the \"installMedium=\" variable in your customized configuration file is set to the type of media that you will be installing from."
 msgstr ""
 "Copie su archivo de configuración personalizado a :file:`/tmp/custominstall/`"
@@ -1865,57 +1843,57 @@ msgstr ""
 "configuración personalizado refleje el tipo de medio desde el cual vaya a "
 "realizarse la instalación."
 
-#: ../../advanced.rst:671
+#: ../../advanced.rst:672
 msgid "You may also need to add some extra files if you set the following variables in your custom configuration file:"
 msgstr ""
 "También puede necesitar añadir algunos archivos extra si establece las "
 "siguientes variables en su archivo de configuración personalizada:"
 
-#: ../../advanced.rst:673
+#: ../../advanced.rst:674
 msgid "**installComponents=** make sure that any extra components you wish to install exist in :file:`extras/PBI/` (if they end in the :file:`.pbi` extension) or :file:`extras/components/` (if they end in :file:`.tbz`)"
 msgstr ""
 "**installComponents=** asegúrese de que cualquier componente extra que desee "
 "instalar existe en :file:`extras/PBI/` (si terminan con la extensión "
 ":file:`.pbi` ) o :file:`extras/components/` (si terminan en :file:`.tbz`)"
 
-#: ../../advanced.rst:676
+#: ../../advanced.rst:677
 msgid "**runCommand=** make sure the command exists in the specified path"
 msgstr ""
 "**runCommand=** asegúrese de que existe el comando en la ruta especificada"
 
-#: ../../advanced.rst:678
+#: ../../advanced.rst:679
 msgid "**runScript=** make sure the script exists in the specified path"
 msgstr ""
 "**runScript=** asegúrese de que el script existe en la ruta especificada"
 
-#: ../../advanced.rst:680
+#: ../../advanced.rst:681
 msgid "**runExtCommand=** make sure the command exists in the specified path"
 msgstr ""
 "**runExtCommand=** asegúrese de que el comando existe en la ruta especificada"
 
-#: ../../advanced.rst:682
+#: ../../advanced.rst:683
 msgid "If the installation media is a CD or DVD, you will need to create a bootable media that contains the files in your directory. To create a bootable ISO::"
 msgstr ""
 "Si el medio de instalación es un CD o un DVD, necesitará crear un medio "
 "arrancable que contenga los archivos en su directorio. Para crear una ISO "
 "arrancable::"
 
-#: ../../advanced.rst:688
+#: ../../advanced.rst:689
 msgid "You can then use your favorite burning utility to burn the ISO to the media."
 msgstr ""
 "Puede usar sus utilerías de grabación favoritas para grabar una ISO al medio."
 
-#: ../../advanced.rst:690
+#: ../../advanced.rst:691
 msgid "To begin an installation that requires user interaction::"
 msgstr "Para comenzar una instalación que requiere la interacción del usuario::"
 
-#: ../../advanced.rst:694
+#: ../../advanced.rst:695
 msgid "To begin a fully automated installation, insert the installation media and reboot."
 msgstr ""
 "Para comenzar una instalación completamente automatizada, inserte el "
 "dispositivo de instalación y reinicie."
 
-#: ../../advanced.rst:696
+#: ../../advanced.rst:697
 msgid "If you are using an HTTP, FTP, or SSH server as the installation media, untar or copy the required files to a directory on the server that is accessible to users. Be sure to configure the server so that the installation files are accessible to the systems that you wish to install. If you are using a PXE Boot Install server, follow the instructions at :ref:`PXE Boot Install Server`."
 msgstr ""
 "Si está usando un servidor HTTP, FTP o SSH como medio de instalación, "
