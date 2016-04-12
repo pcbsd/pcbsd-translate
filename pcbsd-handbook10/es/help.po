@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-12 04:18-0700\n"
-"PO-Revision-Date: 2016-04-04 19:44+0000\n"
+"POT-Creation-Date: 2016-04-12 08:20-0700\n"
+"PO-Revision-Date: 2016-04-12 17:50+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460483433.000000\n"
 
 #: ../../help.rst:5
 msgid "Finding Help"
@@ -57,10 +59,28 @@ msgstr "Foros de PC-BSD®"
 #: ../../help.rst:24
 msgid "`The PC-BSD® Forums <https://forums.pcbsd.org/>`_ contain a wealth of information, tips and solutions which you can access from a web browser. There are many active members and you will find that most questions are quickly answered. If you are having problems with something on your PC-BSD® system, try using the forum's search utility. You will often find that someone else has posted a similar question and that other users have responded with a fix or a how-to."
 msgstr ""
+"Los `Foros de PC-BSD® <https://forums.pcbsd.org/>`_ contienen bastante "
+"información, tips y soluciones que puede accesar desde su navegador web. Hay "
+"muchos miembros activos y se dará cuenta que la mayoría de las preguntas se "
+"responden muy rápido. Si está teniendo problemas con algo en su sistema PC-"
+"BSD®, intente usar la utilería de búsqueda del foro. Casi siempre encontrará "
+"que alguien más ha posteado una pregunta similar y que otros usuarios han "
+"respondido con una solución o con instrucciones."
 
 #: ../../help.rst:28
 msgid "The Forums have been categorized, allowing users to skim through the categories that interest them while learning some new information along the way. You do not have to create a login account in order to search or read through the forums. However, if you wish to ask or answer a question on a forum or subscribe to a forum in order to be automatically notified when a new post is added, you will need to be logged in. To subscribe to a forum, open the page for the forum and click the \"Subscribe to this Forum\" link in the far right end of the bar that contains the forum's name. If you would like to view new posts, click your username near the upper right corner and either click \"View New Posts\" or \"View Today's Posts\"."
 msgstr ""
+"Los Foros se han categorizado, permitiendo a los usuarios echar un vistazo a "
+"las categorías que les interesan mientras aprenden algunas cosas en el "
+"proceso. No necesita crear una cuenta de acceso para poder buscar o leer los "
+"foros. De cualquier forma, si quiere preguntar o responder una pregunta en "
+"un foro o suscribirse en un foro para ser notificado automáticamente cuando "
+"un nuevo tema se añade, necesitará accesar. Para suscribirse en un foro, "
+"abra la página del foro y presione en el enlace “Suscribirse a este Foro” en "
+"la extrema derecha de la barra que contiene el nombre del foro. Si quiere "
+"ver nuevos temas, presione en su nombre de usuario cerca de la esquina "
+"superior derecha y ya sea que presione en “Ver Nuevos Temas” o “Ver Temas de "
+"Hoy”."
 
 #: ../../help.rst:34
 msgid "The current categories and the forum descriptions are described below:"
@@ -90,6 +110,8 @@ msgstr ""
 #: ../../help.rst:43
 msgid "`Server Questions and Support <https://forums.pcbsd.org/forum-15.html>`_: this forum is for discussion of server related topics."
 msgstr ""
+"`Preguntas y Soporte de Servidor <https://forums.pcbsd.org/forum-15.html>`_: "
+"este foro es para discusiones de temas relacionados a servidores."
 
 #: ../../help.rst:45
 msgid "`Hardware Support and Questions <https://forums.pcbsd.org/forum-83.html>`_: if you are having problems with any hardware devices, post the details of your problem to this forum."
@@ -179,9 +201,8 @@ msgid "`German <https://forums.pcbsd.org/forum-46.html>`_"
 msgstr "`Alemán <https://forums.pcbsd.org/forum-46.html>`_"
 
 #: ../../help.rst:76
-#, fuzzy
 msgid "`Italian <https://forums.pcbsd.org/forum-85.html>`_"
-msgstr "`Ruso <https://forums.pcbsd.org/forum-49.html>`_"
+msgstr "`Italiano <https://forums.pcbsd.org/forum-85.html>`_"
 
 #: ../../help.rst:78
 msgid "`Japanese <https://forums.pcbsd.org/forum-50.html>`_"
@@ -192,7 +213,6 @@ msgid "`Russian <https://forums.pcbsd.org/forum-49.html>`_"
 msgstr "`Ruso <https://forums.pcbsd.org/forum-49.html>`_"
 
 #: ../../help.rst:82
-#, fuzzy
 msgid "`Slovenian <https://forums.pcbsd.org/forum-48.html>`_"
 msgstr "`Esloveno <https://forums.pcbsd.org/forum-48.html>`_"
 
@@ -275,6 +295,9 @@ msgstr "Canal IRC de PC-BSD®"
 #: ../../help.rst:116
 msgid "Like many open source projects, PC-BSD® has an :wikipedia:`Internet Relay Chat` (IRC) channel so that users can chat and get help in real time. To get connected, use the following information in your IRC client:"
 msgstr ""
+"Al igual que muchos proyectos open source, PC-BSD® tiene un Canal IRC para "
+"que los usuarios puedan platicar y obtener ayuda en tiempo real. Para "
+"conectarse, use la información siguiente en su cliente de IRC:"
 
 #: ../../help.rst:119
 msgid "**Server name:** irc.freenode.net"
@@ -287,6 +310,9 @@ msgstr "**Nombre del Canal:** #pcbsd (note que se requiere #)"
 #: ../../help.rst:123
 msgid ":ref:`AppCafe®` has an IRC category where you can find IRC client software. If you do not wish to install an IRC client, you can instead use the `web interface to #pcbsd <http://irc.lc/freenode/pcbsd>`_."
 msgstr ""
+":ref:`AppCafe®` tiene una categoría IRC donde puede encontrar clientes de "
+"IRC. Si no quiere instalar un cliente de IRC, puede entonces usar la `"
+"interfaz web de #pcbsd <http://irc.lc/freenode/pcbsd>`_."
 
 #: ../../help.rst:126
 msgid "IRC is a great way to chat with other users and get answers to your questions. A few things to keep in mind if you ask a question on IRC:"
@@ -458,7 +484,6 @@ msgstr ""
 "bienvenido a unirse."
 
 #: ../../help.rst:201
-#, fuzzy
 msgid "`Official PC-BSD® Blog <https://blog.pcbsd.org/>`_"
 msgstr "`Blog Oficial de PC-BSD® <http://blog.pcbsd.org/>`_"
 
@@ -474,6 +499,7 @@ msgstr ""
 #: ../../help.rst:207
 msgid "`PC-BSD® Google+ page <https://plus.google.com/u/0/+pcbsd/posts>`_"
 msgstr ""
+"`Página de Google+ de PC-BSD® <https://plus.google.com/u/0/+pcbsd/posts>`_"
 
 #: ../../help.rst:209
 msgid "`PC-BSD® LinkedIn Group <http://www.linkedin.com/groups?gid=1942544>`_"
@@ -516,7 +542,6 @@ msgid "`BSD Guides <http://www.bsdguides.org/guides/>`_"
 msgstr "`BSD Guides <http://www.bsdguides.org/guides/>`_"
 
 #: ../../help.rst:229
-#, fuzzy
 msgid "`Slashdot BSD <https://bsd.slashdot.org/>`_"
 msgstr "`Slashdot BSD <http://bsd.slashdot.org/>`_"
 
@@ -561,7 +586,6 @@ msgid "`BSD Now <http://www.bsdnow.tv/>`_"
 msgstr "`BSD Now <http://www.bsdnow.tv/>`_"
 
 #: ../../help.rst:253
-#, fuzzy
 msgid "`BSD Magazine <https://bsdmag.org/>`_ (free, monthly download)"
 msgstr "`BSD Magazine <http://bsdmag.org/>`_ (descarga gratuita, mensual)"
 

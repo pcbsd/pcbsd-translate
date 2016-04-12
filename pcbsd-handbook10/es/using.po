@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-12 04:18-0700\n"
-"PO-Revision-Date: 2016-01-20 15:06+0000\n"
+"POT-Creation-Date: 2016-04-12 08:20-0700\n"
+"PO-Revision-Date: 2016-04-12 17:43+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460483029.000000\n"
 
 #: ../../using.rst:4
 msgid "Using PC-BSD®"
@@ -33,6 +35,10 @@ msgstr "Java y Flash"
 #: ../../using.rst:14
 msgid "IcedTea-Web provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this software, search for \"icedtea\" within :ref:`AppCafe®`."
 msgstr ""
+"IcedTea-Web proporciona un plugin de Java de código abierto para el "
+"navegador web que funciona automáticamente con los navegadores Firefox, "
+"Chromium, y Opera, sin configuraciones adicionales. Para instalar este "
+"software, busque “icedtea” en :ref:`AppCafe®`."
 
 #: ../../using.rst:17
 msgid "PC-BSD® installs and configures the Adobe Flash player (version 11) plugin for you. This means that flash should \"just work\" when browsing the web. You will find several web browsers in the Web Browsers category of :ref:`AppCafe®`, including Firefox, Opera, and Chromium."
@@ -107,6 +113,8 @@ msgstr "Instalando Fuentes Personalizadas"
 #: ../../using.rst:52
 msgid "PC-BSD® includes `Google Noto <http://www.google.com/get/noto/>`_ which provide multi-lingual Sans and Serif fonts."
 msgstr ""
+"PC-BSD® incluye `Google Noto <http://www.google.com/get/noto/>`_ que "
+"proporciona fuentes Sans y Serif multi lenguaje."
 
 #: ../../using.rst:54
 msgid "If you have a collection of fonts that you have downloaded or purchased, you can configure your PC-BSD® system to also use these fonts. Which utility you use depends upon which window manager you have logged into."
@@ -118,6 +126,11 @@ msgstr ""
 #: ../../using.rst:57
 msgid "many other fonts are available from :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box in the \"App Search\" tab to search for fonts. Any font installed using AppCafe® should not require any additional configuration to \"just work\"."
 msgstr ""
+"Otras muchas fuentes están disponibles desde :ref:`AppCafe®`. Seleccione la "
+"casilla “Buscar todos los PBI y paquetes disponibles” en la pestaña “"
+"Búsqueda de Aplicaciones” para buscar fuentes. Cualquier fuente instalada "
+"mediante AppCafe® no debería requerir ninguna configuración adicional para "
+"que “simplemente funcione”."
 
 #: ../../using.rst:60
 msgid "To install custom fonts within KDE, go to :menuselection:`System Settings --> Font Management`. In :numref:`Figure %s: Using KDE's Font Installer to Install Custom Fonts <font1>`, \"All Fonts\" is currently selected under the \"Group\" column, showing all of the fonts installed on this system."
@@ -178,6 +191,12 @@ msgstr "Multimedia"
 #: ../../using.rst:95
 msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
 msgstr ""
+"PC-BSD® ha sido preconfigurado para soportar la mayoría de los formatos "
+"multimedia y hace fácil la instalación de la mayoría de las aplicaciones "
+"multimedia de código abierto usando ref:`AppCafe®`. PC-BSD® soporta tanto `"
+"PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ como `"
+"OSS <http://opensound.com/>`_ de manera que las aplicaciones que usen "
+"cualquiera de estos servidores de sonido deberían funcionar."
 
 #: ../../using.rst:99
 msgid "If you install your web browser using AppCafe®, you should be able to play most media formats, including YouTube videos, Internet radio, and many trailer and movie sites."
@@ -189,6 +208,13 @@ msgstr ""
 #: ../../using.rst:102
 msgid "If people are blue in YouTube videos, this is due to a known issue in flash which Adobe hasn't fixed for open source players. To resolve this issue, right-click an area in the video, select \"Settings\", then uncheck the box \"Enable hardware acceleration\". Alternately, install `Minitube <http://flavio.tordini.org/minitube>`_ using :ref:`AppCafe®` and use it to watch YouTube."
 msgstr ""
+"Si la gente aparece azul en los vídeos de Youtube, es debido a un error "
+"conocido en flash que Adobe no ha arreglado para los reproductores de código "
+"abierto. Para resolver este problema, haga clic derecho en un área en el "
+"video, seleccione “Configuraciones”, después desmarque la casilla “Habilitar "
+"aceleración por hardware”. Alternativamente, instale `Minitube "
+"<http://flavio.tordini.org/minitube>`_ usando :ref:`AppCafe®` y uselo para "
+"ver YouTube."
 
 #: ../../using.rst:106
 msgid "if you happen to come across a file that you can not play in a web browser or media player, it is probably because it is in a proprietary format that requires a licensing fee or restricts distribution of the codec that is required to play that media format."
@@ -216,6 +242,8 @@ msgstr ""
 #: ../../using.rst:114
 msgid "`Audacity <https://sourceforge.net/projects/audacity/?lang=en>`_: multilingual audio editor and recorder."
 msgstr ""
+"`Audacity <https://sourceforge.net/projects/audacity/?lang=en>`_: editor y "
+"grabador de audio multilenguaje."
 
 #: ../../using.rst:116
 msgid "`DeaDBeeF <http://deadbeef.sourceforge.net/screenshots.html>`_: music player that supports most audio formats."
@@ -259,10 +287,23 @@ msgstr "Kodi"
 #: ../../using.rst:135
 msgid "`Kodi, formerly known as XBMC, <https://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats, CDs and DVDs from a disk or image file, and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
 msgstr ""
+"`Kodi, anteriormente conocido como XBMC <https://kodi.tv/>`_, es un software "
+"reproductor de medios con licencia GPL y centro de entretenimiento para "
+"medios digitales. Puede reproducir la mayoría de los formatos de audio y "
+"video. Puede reproducir CDs y DVDs desde un disco o archivo de imagen e "
+"incluso archivos dentro de otros, comprimidos con ZIP o RAR. Puede buscar "
+"todos sus archivos multimedia y automáticamente crear un biblioteca "
+"personalizada con carátulas de álbumes, descripciones, y fan art."
 
 #: ../../using.rst:139
 msgid "During the installation of PC-BSD®, the installer provided an option to install Kodi. If you wish to install Kodi afterwards, use AppCafe®. Click \"App Search\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
 msgstr ""
+"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
+"instalar Kodi. Si desea instalarlo después, use AppCafe®. Presione el "
+"recuadro “Búsqueda de Aplicaciones” y busque “pcbsd-meta-kodi”. Una vez "
+"instalado, una entrada para \"Media Center\" debería añadirse a la sección "
+"“Multimedia” del menú de aplicaciones de su escritorio. Puede también "
+"iniciar Kodi escribiendo :command:`kodi` en la línea de comandos."
 
 #: ../../using.rst:143
 msgid "If you have never used Kodi before, take some time to skim through the `Kodi Wiki Manual <http://kodi.wiki/>`_. The `Turn PC-BSD into a home theater forum post <https://forums.pcbsd.org/thread-19799.html>`_ contains a quick how-to for configuring Kodi."
@@ -287,6 +328,13 @@ msgstr ""
 #: ../../using.rst:155
 msgid "During the installation of PC-BSD®, the installer will have provided an option to install PlexHome Theater. If you wish to install it afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
 msgstr ""
+"Durante la instalación de PC-BSD®, el instalador proporciona una opción para "
+"instalar PlexHome Theater. Si desea instalarlo después, use AppCafe®. "
+"Presione el recuadro “Examinar todos los PBI y paquetes disponibles” y "
+"busque “plexhometheater”. Una vez instalado, una entrada debería añadirse a "
+"la sección “Multimedia” del menú de aplicaciones de su escritorio. Puede "
+"también iniciar esta aplicación escribiendo :command:`plexhometheater` en la "
+"línea de comandos."
 
 #: ../../using.rst:159
 msgid "Once installed, an entry for \"Plex Home Theater\" will also be added to the login manager so that you can login directly to the home theater instead of a desktop."
@@ -313,6 +361,20 @@ msgstr "Archivos y Compartición de Archivos"
 #: ../../using.rst:171
 msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`. Once a file manager is installed, type its name if you wish to run it from another desktop."
 msgstr ""
+"Dependiendo de qué :ref:`Escritorios` tenga instalados, diferentes utilerías "
+"gráficas para la administración de archivos pueden estar ya instaladas para "
+"usted. Usted no necesita estar conectado en un gestor de ventanas específico "
+"para usar un administrador de archivos ya instalado. Por ejemplo, si está "
+"instalado KDE, puede ejecutar su administrador de archivos en cualquier "
+"gestor de ventanas escribiendo :command:`dolphin`. KDE, GNOME, LXDE, y XFCE "
+"instalan sus propios administradores de archivos, mientras que la mayoría de "
+"los otros escritorios asumen que usted instalará su administrador de "
+"archivos favorito. La Tabla 9.4a resume los administradores de archivos "
+"disponibles e indica con qué escritorios se instalan. Algunos "
+"administradores de archivos se pueden instalar independientemente del "
+"escritorio usando :ref:`AppCafe®`. Una vez que se ha instalado un "
+"administrador de archivos, escriba su nombre si desea ejecutarlo desde otro "
+"escritorio."
 
 #: ../../using.rst:178
 msgid "**Table 9.4a: Available File Managers**"
@@ -324,7 +386,7 @@ msgstr "Administrador de Archivos"
 
 #: ../../using.rst:181
 msgid "Desktop/AppCafe"
-msgstr ""
+msgstr "Escritorio/AppCafe"
 
 #: ../../using.rst:181
 msgid "Screenshots"
@@ -354,7 +416,7 @@ msgstr "emelfm2"
 #: ../../using.rst:197
 #: ../../using.rst:283
 msgid "AppCafe"
-msgstr ""
+msgstr "AppCafe"
 
 #: ../../using.rst:185
 msgid "`<http://emelfm2.net/wiki/ScreenShots>`_"
@@ -389,7 +451,7 @@ msgstr "nautilus"
 #: ../../using.rst:191
 #: ../../using.rst:286
 msgid "GNOME, AppCafe"
-msgstr ""
+msgstr "GNOME, AppCafe"
 
 #: ../../using.rst:191
 msgid "`<https://projects.gnome.org/nautilus/screenshots.html>`_"
@@ -401,7 +463,7 @@ msgstr "pcmanfm"
 
 #: ../../using.rst:193
 msgid "LXDE, AppCafe"
-msgstr ""
+msgstr "LXDE, AppCafe"
 
 #: ../../using.rst:193
 msgid "`<http://lxde.org/easy_fast_file_management_pcmanfm>`_"
@@ -415,7 +477,7 @@ msgstr "thunar"
 #: ../../using.rst:195
 #: ../../using.rst:288
 msgid "XFCE, AppCafe"
-msgstr ""
+msgstr "XFCE, AppCafe"
 
 #: ../../using.rst:195
 msgid "`<http://docs.xfce.org/xfce/thunar/start>`_"
@@ -707,6 +769,11 @@ msgstr ""
 #: ../../using.rst:269
 msgid "Table 9.4c summarizes the available utilities (type a utility's name to launch it in any desktop), which desktop it installs with and whether or not it can be installed separately using :ref:`AppCafe®`, and a short description of how to access the available shares using that utility."
 msgstr ""
+"La tabla 9.4c resume las utilerías disponibles (escriba el nombre de la "
+"utilería para ejecutarla en cualquier escritorio), con qué escritorio se "
+"instala y si puede o no instalarse de forma separada usando :ref:`AppCafe®`, "
+"y una pequeña descripción de cómo accesar a los recursos compartidos "
+"disponibles empleando esa utilería."
 
 #: ../../using.rst:272
 msgid "**Table 9.4c: Utilities that Support Windows Shares**"
@@ -718,7 +785,7 @@ msgstr "**Utilería**"
 
 #: ../../using.rst:275
 msgid "**Desktop/AppCafe**"
-msgstr ""
+msgstr "**Escritorio/AppCafe**"
 
 #: ../../using.rst:275
 msgid "**How to Access Existing Shares**"
@@ -775,6 +842,13 @@ msgstr ""
 #: ../../using.rst:300
 msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <https://wiki.winehq.org/Main_Page>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
 msgstr ""
+"Wine no está garantizado para trabajar con cualquier aplicación de Windows. "
+"Si no está seguro de que la aplicación que necesita está soportada, búsquela "
+"en la sección “Buscar Aplicaciones”, de la `base de datos de aplicaciones "
+"Wine <https://appdb.winehq.org/>`_. El `wiki de Wine "
+"<https://wiki.winehq.org/Main_Page>`_ contiene muchos recursos para que "
+"usted se inicie y para consultar si encuentra problemas con su aplicación de "
+"Windows."
 
 #: ../../using.rst:304
 msgid "Wine can be installed during installation or from :ref:`AppCafe®`. Once installed, it can be started by clicking the entry for \"Wine Configuration\" from the desktop's application menu or by typing :command:`winecfg` at the command line. The initial Wine configuration menu shown in :numref:`Figure %s: Wine Configuration Menu <wine1>`."
@@ -840,6 +914,12 @@ msgstr "Ejecutando Steam"
 #: ../../using.rst:344
 msgid "Wine can be configured to install and run `Steam games <http://store.steampowered.com/about/>`_. Video instructions can be found at `Steam on PC-BSD - How to Get Wine Running 3D Games <https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ and at `Steam on PCBSD 2 - Using Wine as a Streaming Client <http://blog.pcbsd.org/2014/12/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
 msgstr ""
+"Wine puede configurarse para instalar y ejecutar `Juegos de Steam "
+"<http://store.steampowered.com/about/>`_. Instrucciones en video pueden "
+"encontrarse en `Steam en PC-BSD - Cómo Hacer que Wine Ejecute Juegos 3D "
+"<https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ y en `Steam en PCBSD 2 - "
+"Usando Wine como Cliente de Streaming <http://blog.pcbsd.org/2014/12/steam-"
+"on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
 
 #: ../../using.rst:352
 msgid "Remote Desktop"
@@ -859,10 +939,22 @@ msgstr ""
 #: ../../using.rst:358
 msgid "The :wikipedia:`Remote Desktop Protocol` (RDP) can be used to make a connection to another computer. Depending upon the operating system, you may have to first install or enable RDP software on the remote computer:"
 msgstr ""
+"El protocolo de escritorio remoto (RDP) puede usarse para establecer una "
+"conexión a otro equipo. Dependiendo del sistema operativo, puede necesitar "
+"instalar primero el software RDP o habilitarlo en el equipo remoto."
 
 #: ../../using.rst:361
 msgid "Not every edition of Windows provides a fully functional version of RDP; for example, it may not be fully supported in a Home Edition of Windows. Even if the full version of RDP is included, remote access may or may not be enabled by default. If you have trouble connecting using RDP, do a web search for \"remote desktop\" and the name of the version of Windows you are using to find out how to configure its remote desktop settings. If you still can not connect, you can instead download, install, and configure :wikipedia:`Virtual Network Computing` (VNC) server software on the system."
 msgstr ""
+"No todas las ediciones de Windows proporcionan un versión completamente "
+"funcional de RDP; por ejemplo, puede no estar totalmente soportado en un "
+"Windows Home Edition. Incluso si se incluye la versión completa de RDP, el "
+"acceso remoto puede, o no, estar habilitado de forma predeterminada. Si "
+"tiene problemas conectándose usando RDP, haga una búsqueda sobre “escritorio "
+"remoto” en la web y el nombre de la versión de Windows que está usando para "
+"averiguar cómo configurar sus configuraciones de escritorio remoto. Si "
+"todavía no se puede conectar, usted entonces puede descargar, instalar, y "
+"configurar el software del servidor VNC en el sistema."
 
 #: ../../using.rst:366
 msgid "If the other computer you are connecting to is a Mac, Linux, or BSD system, you will have to first install either `xrdp <http://www.xrdp.org/>`_ or a VNC server on the other system. Depending upon the operating system, either software may or may not already be installed. If it is not, check the software repository for the operating system or use a web search to find out how to install and configure one of these applications on that operating system. If you are connecting to another PC-BSD® system, use :ref:`AppCafe®`, check the box \"Search all available PBI and packages\", and search for \"rdp\" or \"vnc\"."
@@ -1193,6 +1285,14 @@ msgstr "Servidor de Escritorio de Arranque PXE"
 #: ../../using.rst:527
 msgid "A PC-BSD® PXE Boot Desktop Server allows you to automatically configure a :wikipedia:`Diskless node` where each computer has a network interface card capable of :wikipedia:`Preboot Execution Environment` (PXE) booting. When a client boots from their network interface instead of their hard disk, they automatically connect to the PXE Boot Desktop Server and receive a login window. Once authenticated, they can use PC-BSD®, even if PC-BSD® is not installed on their own computer and even if their computer does not have a hard drive."
 msgstr ""
+"Un Servidor de Escritorio de Arranque PXE de PC-BSD® le permite configurar "
+"automáticamente una red de equipos sin disco donde cada equipo tiene una "
+"tarjeta interfaz de red que es capaz de iniciar PXE. Cuando un cliente "
+"arranca desde su interfaz de red en vez que desde un disco duro, se conecta "
+"automáticamente al Servidor de Escritorio de Arranque PXE y recibe una "
+"ventana de acceso. Una vez autenticado, puede usar PC-BSD®, incluso si PC-"
+"BSD® no está instalado en su propio equipo e incluso si su equipo no tiene "
+"un disco duro."
 
 #: ../../using.rst:532
 msgid "To prepare your PC-BSD® system for a PXE Boot Desktop Server configuration, perform these tasks first:"
@@ -1576,6 +1676,9 @@ msgstr ""
 #: ../../using.rst:760
 msgid "`:wikipedia:`AES instruction set` (AESNI) support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
 msgstr ""
+"El soporte `:wikipedia:`AES instruction set` (AESNI) está cargado por "
+"defecto para procesadores Intel Core i5/i7 que soportan este set de "
+"encriptación. Este soporte acelera el encriptado y desencriptado AES."
 
 #: ../../using.rst:763
 msgid "**Automatic notification of security advisories:** :ref:`Update Manager` will automatically notify you if an update is available as the result of a `security advisory <http://www.freebsd.org/security/advisories.html>`_ that affects PC-BSD®. This allows you to keep your operating system fully patched with just the click of a mouse."

@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-12 04:18-0700\n"
-"PO-Revision-Date: 2016-04-12 15:06+0000\n"
+"POT-Creation-Date: 2016-04-12 08:20-0700\n"
+"PO-Revision-Date: 2016-04-12 16:13+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1460473596.000000\n"
+"X-POOTLE-MTIME: 1460477582.000000\n"
 
 #: ../../controlpanel.rst:5
 msgid "Control Panel"
@@ -535,6 +535,14 @@ msgstr ""
 #: ../../controlpanel.rst:245
 msgid "for boot environments to work properly, **do not delete the default ZFS mount points during installation.** The default ZFS layout ensures that when boot environments are created, the :file:`/usr/local/`, :file:`/usr/home/`, :file:`/usr/ports/`, :file:`/usr/src/` and :file:`/var/` directories remain untouched. This way, if you rollback to a previous boot environment, you will not lose data in your home directories, any installed applications, or downloaded src or ports. During installation, you can add additional mount points, just don't delete the default ones."
 msgstr ""
+"Para que los BE funcionen apropiadamente, **no elimine los puntos de montaje "
+"predeterminados de ZFS durante la instalación**. El diseño ZFS por defecto "
+"asegura que cuando los BE son creados, los directorios :file:`/usr/local/`, "
+":file:`/usr/home/`, :file:`/usr/ports/`, :file:`/usr/src/` y :file:`/var/` "
+"permanecen intactos. De esta manera, si vuelve a un BE previo, no perderá "
+"datos en su directorio personal, ni aplicaciones instaladas, ni src o ports "
+"descargados. Durante la instalación, puede añadir puntos de montaje "
+"adicionales, solamente no elimine los predeterminados."
 
 #: ../../controlpanel.rst:250
 msgid "To create and manage boot environments using a graphical interface, go to :menuselection:`Control Panel --> Boot Manager` or type :command:`pc-su pc-bootconfig`. You will be prompted to enter your password."
@@ -649,6 +657,10 @@ msgstr ""
 #: ../../controlpanel.rst:307
 msgid "To customize the appearance of the boot menu, click the \"Grub Configuration\" tab in Boot Manager to see the screen seen in :numref:`Figure %s: Managing GRUB Configuration <be3a>`."
 msgstr ""
+"Para personalizar la apariencia del menú de arranque, presione en la pestaña "
+"“Configuración de Grub” en el Gestor de Arranque para ver la pantalla "
+"mostrada en la :numref:`Figura %s: Administrando la Configuración de GRUB "
+"<be3a>`."
 
 #: ../../controlpanel.rst:313
 msgid "The fields in this screen are used to configure the:"
@@ -682,6 +694,9 @@ msgstr ""
 #: ../../controlpanel.rst:324
 msgid "**Show Timer Countdown:** if this box is unchecked, the timer countdown will not display, though you can still interrupt the boot process during the delay time."
 msgstr ""
+"**Mostrar Cuenta Regresiva:** si esta casilla no está seleccionada, el reloj "
+"de la cuenta regresiva no se mostrará, aunque usted puede todavía "
+"interrumpir el proceso de arranque durante el tiempo de retardo."
 
 #: ../../controlpanel.rst:326
 msgid "**Custom Entries:** if you have an existing GRUB configuration that you would like to add to the menu, cut and paste it into the box. Refer to the `GRUB Manual <http://www.gnu.org/software/grub/manual/grub.html>`_ for more information on creating a custom GRUB configuration."
@@ -864,6 +879,17 @@ msgstr ""
 #: ../../controlpanel.rst:444
 msgid "The \"Remote login\" tab, shown in :numref:`Figure %s: Configuring Remote Login <login3>`, is used to enable a remote user to connect to a desktop session using :wikipedia:`Virtual Network Computing` (VNC). Check the \"Enable Remote Desktop (VNC)\" box to enable this service. When you click \"Apply\", you will be prompted for your password as well as the remote login password to use for the VNC session. Reboot in order to activate the VNC service over port 5900. You will also need to open TCP port 5900 using :ref:`Firewall Manager`. You can test the connection using the \"vnc\" option of KRDC (shown in :numref:`Figure %s: Creating a Connection Using KRDC <krdc1>`) or from another VNC client."
 msgstr ""
+"La pestaña de “Acceso remoto”, mostrada en la :numref:`Figura %s: "
+"Configurando el Acceso Remoto <login3>`, se usa para habilitar que un "
+"usuario remoto se conecte a una sesión de escritorio usando :wikipedia:`"
+"Virtual Network Computing` (VNC). Seleccione la casilla “Habilitar "
+"Escritorio Remoto (VNC)” para habilitar este servicio. Cuando presione "
+"“Aplicar”, se le pedirá su contraseña así como la contraseña de acceso "
+"remoto para usar en la sesión de VNC. Reinicie para activar el servicio VNC "
+"sobre el puerto 5900. También necesitará abrir el puerto TCP 5900 usando el "
+":ref:`Administrador del Cortafuegos`. Puede probar la conexión usando la "
+"opción “vnc” de KRDC (mostrado en la :numref:`Figura %s: Creando una "
+"Conexión Usando KRDC <krdc1>`) o desde otro cliente VNC."
 
 #: ../../controlpanel.rst:454
 msgid "use **extreme caution** when enabling this option as it makes your system available to anyone over the network. There is an additional risk when a user logs in over VNC as their password is sent in clear text. If you need someone to access your PC-BSD® system to assist with troubleshooting, consider using :ref:`Remote Desktop` instead, which allows you to send an invitation to connect. Always disable any type of remote login **immediately** after finishing your troubleshooting session. If you are instead using this option to login to your desktop from a remote location such as work or school, configure your network's firewall to only allow VNC connections from the specific IP address you will be using to make the connection."
@@ -1842,6 +1868,10 @@ msgstr ""
 #: ../../controlpanel.rst:929
 msgid "You can also use the drop-down menus to change the screen resolution and color depth values. If the value you desire is not listed, it may be the selected driver does not support that resolution or depth."
 msgstr ""
+"También puede utilizar los menús desplegables para cambiar los valores de "
+"resolución de la pantalla y de profundidad de color. Si el valor deseado no "
+"está listado, puede ser que el controlador seleccionado no soporte esa "
+"resolución o profundidad."
 
 #: ../../controlpanel.rst:932
 msgid "Advanced users can select their monitor's horizontal sync and vertical refresh rate in the \"Advanced\" tab, seen in :numref:`Figure %s: Advanced Tab of Display Settings <display4>`."
@@ -2014,6 +2044,15 @@ msgstr ""
 #: ../../controlpanel.rst:1030
 msgid "When you first insert an optical media, such as a music CD or DVD video, a message will indicate that an optical disk is available and, by default, the default player application will open so that you can play the contents of the disk. The default player that is used depends upon which applications have been installed, where `VLC <http://www.videolan.org/vlc/>`_ takes precedence, followed by `SMPlayer <http://smplayer.sourceforge.net/>`_. If you close the player, you can click the \"Play\" button shown in :numref:`Figure %s: Mount Tray Example <mount1>` to restart it."
 msgstr ""
+"Cuando inserta por primera vez un medio óptico, como un CD de música o un "
+"video DVD, un mensaje le indicará que un disco óptico está disponible y, por "
+"defecto, la aplicación predeterminada para reproducirlos se abrirá para que "
+"pueda reproducir el contenido del disco. El reproductor predeterminado que "
+"se usa depende en cuales aplicaciones han sido instaladas, donde `VLC "
+"<http://www.videolan.org/vlc/>`_ toma precedencia, seguido por `SMPlayer "
+"<http://smplayer.sourceforge.net/>`_. Si cierra el reproductor, puede "
+"presionar el botón “Reproducir” mostrado en la :numref:`Figura %s: Ejemplo "
+"de Bandeja de Montaje <mount1>` para reiniciarlo."
 
 #: ../../controlpanel.rst:1035
 msgid "The following options are available in the \"More Options\" menu:"
@@ -2064,6 +2103,13 @@ msgstr ""
 #: ../../controlpanel.rst:1052
 msgid "**Change Settings:** as seen in :numref:`Figure %s: Configure Disk Space Check <mount3a>`, this screen allows you to configure whether or not optical disks automatically open using the default player, whether or not Mount Tray automatically rechecks the disk space used by mounted devices and how often to perform that check, and whether or not Mount Tray checks disk space when a disk is mounted."
 msgstr ""
+"**Cambiar Configuraciones:** como se muestra en la :numref:`Figura %s: "
+"Configurando la Revisión de Espacio en Disco <mount3a>`, esta pantalla le "
+"permite configurar si los discos ópticos se abren o no automáticamente "
+"usando el reproductor predeterminado, si la Bandeja de Montaje vuelve a "
+"checar automáticamente el espacio en disco usado por los dispositivos "
+"montados y qué tan seguido se realiza esta comprobación, y si la Bandeja de "
+"Montaje revisa o no el espacio en disco cuando un disco es montado."
 
 #: ../../controlpanel.rst:1056
 msgid "**Close Tray:** click this option to remove Mount Tray from the system tray."
@@ -2111,6 +2157,11 @@ msgstr ""
 #: ../../controlpanel.rst:1137
 msgid "any changes made using this utility can be saved as either just this login session or permanently. To make the changes permanent, click the \"Save to User Profile\" button once you are finished making your changes. Otherwise, click the \"Apply to Session\" button. If you just click the \"Close\" button, your changes will not be saved."
 msgstr ""
+"Cualquier cambio que se haga usando esta utilería se puede guardar ya sea "
+"para esta sesión o permanentemente. Para hacer los cambios permanentes, "
+"presione el botón “Guardar en el Perfil del Usuario” una vez que haya "
+"finalizado con los cambios. De otra manera, presione el botón “Aplicar a la "
+"Sesión”. Si solo presiona el botón “Cerrar”, sus cambios no se guardarán."
 
 #: ../../controlpanel.rst:1141
 msgid "Click the \"Keyboard model\" drop-down menu to select the type of keyboard. Note that the default model of \"Generic 104-key PC\" does **not** support special keys such as multimedia or Windows keys. You will need to change this default to enable support for hot keys."
@@ -2264,6 +2315,12 @@ msgstr ""
 #: ../../controlpanel.rst:1222
 msgid "The \"Configuration\" menu provides options for accessing the \"PulseAudio Mixer\" and \"PulseAudio Settings\" utilities as well as for restarting PulseAudio. PC-BSD® provides full `PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ support and these utilities can be used to configure discoverable network sound devices and mixer levels."
 msgstr ""
+"El menú de “Configuración” proporciona opciones para accesar al “Mezclador "
+"de PulseAudio” y las utilerías de “Configuración de PulseAudio”, así como "
+"para reiniciar PulseAudio. PC-BSD® proporciona soporte completo para `"
+"PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ y estas "
+"utilerías se pueden usar para configurar dispositivos de sonido que se "
+"descubran en la red y los niveles del mezclador."
 
 #: ../../controlpanel.rst:1226
 msgid "For command line only systems, type :command:`mixer` from the command line to see the current sound settings::"
@@ -2883,6 +2940,13 @@ msgstr ""
 #: ../../controlpanel.rst:1572
 msgid "The \"Advanced\" tab, seen in :numref:`Figure %s: Advanced Tab of an Ethernet Interface's Network Settings <network4>`, allows advanced users to change their :wikipedia:`MAC address` or to automatically obtain an :wikipedia:`IPv6 address`. Both boxes should remain checked unless you are an advanced user who has a reason to change the default MAC or IPv6 address and you understand how to input an appropriate replacement address."
 msgstr ""
+"La pestaña “Avanzado”, mostrada en la :numref:`Figura %s: Pestaña Avanzada "
+"de la Configuración de Red de una Interfaz Ethernet <network4>`, permite a "
+"usuarios avanzados cambiar su dirección MAC u obtener automáticamente una "
+"dirección IPv6. Ambas casillas deben permanecer seleccionadas a menos que "
+"sea un usuario avanzado que tiene una razón para cambiar la MAC "
+"predeterminada o la dirección IPv6 y entiende como ingresar un reemplazo de "
+"dirección apropiado."
 
 #: ../../controlpanel.rst:1580
 msgid "The \"Info\" tab, seen in :numref:`Figure %s: Info Tab of an Ethernet Interface's Network Settings <network5>`, will display the current network address settings and some traffic statistics."
@@ -5041,10 +5105,21 @@ msgstr ""
 #: ../../controlpanel.rst:2813
 msgid "In the example shown in :numref:`Figure %s: Reporting a Bug <report2a>`, the user has selected \"PC-BSD base system\" then \"Next\"."
 msgstr ""
+"En el ejemplo mostrado en la :numref:`Figura %s: Informando de un Error "
+"<report2a>`, el usuario ha seleccionado “Sistema Base de PC-BSD” y luego "
+"“Siguiente”."
 
 #: ../../controlpanel.rst:2815
 msgid "regardless of the selection, the resulting screen will be similar to :numref:`Figure %s: Reporting a Bug <report2a>`. The various screens only differ in which bug tracking system or mailing list is used by the development team for that component. If you select \"Desktop environment\" you will also be asked to indicate which desktop so that the correct information is displayed for that development team. Similarly, if you select \"PBI software\" you will be asked to select which PBI produces the error."
 msgstr ""
+"Independientemente de la selección, la pantalla resultante será similar a la "
+"de la :numref:`Figura %s: Informando de un Error <report2a>`. Las distintas "
+"pantallas sólo difieren según el sistema de seguimiento de errores o lista "
+"de correos que es usado por el equipo que desarrolla ese componente. Si "
+"usted selecciona “Entorno de escritorio” también se le pedirá que indique "
+"cuál es el escritorio de manera que la información correcta se muestre a ese "
+"equipo de desarrollo. De igual forma, si selecciona “Software PBI” se le "
+"preguntará qué PBI produce el error."
 
 #: ../../controlpanel.rst:2824
 msgid "If the development team has a bug tracker, its URL will be displayed. If you click the \"Launch web browser\" button, that website will be opened in the default web browser so that you can search for existing bugs and create a new bug if one does not already exist. Note that you will need to register first if this is your first bug report on that project's bug tracker and that you must be logged in in order to create a new bug."

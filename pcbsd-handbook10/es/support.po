@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-12 04:18-0700\n"
-"PO-Revision-Date: 2016-04-04 19:44+0000\n"
+"POT-Creation-Date: 2016-04-12 08:20-0700\n"
+"PO-Revision-Date: 2016-04-12 18:50+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460487043.000000\n"
 
 #: ../../support.rst:5
 msgid "Supporting PC-BSD®"
@@ -42,6 +44,15 @@ msgstr ""
 #: ../../support.rst:18
 msgid "If you have a spare system or virtual machine, you can also download and try out the latest release candidate snapshots. These versions are still in testing and have not been officially released yet. Having as many people as possible using PC-BSD® on many different hardware configurations assists the Project in finding and fixing bugs. This makes using PC-BSD® better for everyone. Subscribing to the `PC-BSD® blog <https://blog.pcbsd.org/>`_ is a good way to keep up-to-date on the availability of testing snapshots and any major bugs that affect users."
 msgstr ""
+"Si tiene un sistema libre o una máquina virtual, puede también descargar y "
+"probar la imagen candidata más reciente. Estas versiones están todavía en "
+"pruebas y aún no se ha liberado oficialmente. Tener a tantas personas como "
+"sea posible utilizando PC-BSD® en muchas configuraciones diferentes de "
+"hardware ayuda al proyecto a encontrar y arreglar errores. Esto hace que "
+"usar PC-BSD® sea mejor para todos. Suscribirse al `blog de PC-BSD® "
+"<https://blog.pcbsd.org/>`_ es una buena manera de mantenerse informado "
+"sobre las últimas imágenes disponibles y sobre cualquier error que afecte a "
+"los usuarios."
 
 #: ../../support.rst:23
 msgid "If becoming a tester interests you, subscribe to the `testing mailing list <http://lists.pcbsd.org/mailman/listinfo/testing>`_. As new testing versions become available they will be announced on this list. You will also be able to see what problems other testers are finding and can check to see if the problem exists on your hardware as well. You can also subscribe to `these RSS feeds <http://dir.gmane.org/gmane.os.pcbsd.testing>`_ if you want a quick way to keep up with the subjects being discussed on the testing mailing list."
@@ -65,6 +76,10 @@ msgstr ""
 #: ../../support.rst:30
 msgid "Before you :ref:`Report a bug`, skim through the archives of the `testing mailing list <http://lists.pcbsd.org/mailman/listinfo/testing>`_ to see if anyone else has reported a similar problem."
 msgstr ""
+"Antes de :ref:`Informar de un Error`, eche un vistazo a los archivos de la `"
+"lista de correo de los testers "
+"<http://lists.pcbsd.org/mailman/listinfo/testing>`_para ver si alguien ha "
+"informado de un problema similar."
 
 #: ../../support.rst:33
 msgid "When reporting a new issue, use a descriptive subject that includes the error and the version of PC-BSD®. Ideally, the subject is short (8 words or less) and contains key words about the error. An example would be \"AppCafe on 10.2-RELEASE-p1 fails to create jail\"."
@@ -144,6 +159,14 @@ msgstr "Interfaz de Traducción"
 #: ../../support.rst:72
 msgid "PC-BSD® uses :wikipedia:`Pootle` for managing localization of the menu screens used by the installer and the PC-BSD® utilities. Pootle makes it possible to find out if your native language has been fully localized for PC-BSD®. Pootle also makes it easy for users to check and submit translated text as it provides a web editor and commenting system. This means that translators can spend their time making and reviewing translations rather than learning how to use a translation tool."
 msgstr ""
+"PC-BSD® utiliza :wikipedia:`Pootle` para gestionar el idioma de las "
+"pantallas con menús empleadas por el instalador y por las herramientas de PC-"
+"BSD®. Pootle posibilita averiguar si hay una traducción completa a su idioma "
+"nativo de PC-BSD®. Pootle también facilita a los usuarios comprobar y enviar "
+"textos traducidos ya que proporciona un editor web y un sistema para "
+"comentarios. Esto significa que los traductores pueden dedicar su tiempo a "
+"hacer y revisar traducciones en vez de aprender a cómo usar una herramienta "
+"de traducción."
 
 #: ../../support.rst:77
 msgid "To see the status of a localization, open up the `translation website <http://translate.pcbsd.org/>`_ in a web browser, as seen in :numref:`Figure %s: The PC-BSD® Pootle Translation System <translate1>`."
@@ -298,6 +321,10 @@ msgstr ""
 #: ../../support.rst:182
 msgid "This will make an HTML version of the Guide for each of the available translations. In this example, translations are available for English (in :file:`html`), Danish, German, Spanish, French, Indonesian, Brazilian Portuguese, Turkish, and UK English. To update the HTML at a later time::"
 msgstr ""
+"Esto creará una versión HTML de la Guía para cada una de las traducciones "
+"disponibles. En este ejemplo, hay traducciones disponibles para Inglés (en "
+":file:`html`), Danés, Alemán, Español, Francés, Indonesio, Portugués de "
+"Brasil, Turco, e Inglés del Reino Unido. Para actualizar el HTML después:"
 
 #: ../../support.rst:195
 msgid "Website Translation"
@@ -315,6 +342,8 @@ msgstr ""
 #: ../../support.rst:201
 msgid "Currently, the the website is being translated to several languages, including: Dutch, French, German, Polish, Spanish, Swedish, and Turkish."
 msgstr ""
+"Actualmente, el sitio web se está traduciendo a algunos idiomas, incluyendo: "
+"Holandés, Francés, Alemán, Polaco, Español, Sueco, y Turco."
 
 #: ../../support.rst:207
 msgid "Become a Developer"
@@ -708,123 +737,145 @@ msgstr ""
 #: ../../support.rst:390
 msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 11.1a."
 msgstr ""
+"Por ejemplo, para añadir una captura de pantalla de una aplicación, suba el "
+"archivo de captura a un sitio público y accesible, y después añada la URL de "
+"la captura dentro de las comillas de la línea *PBI_SCREENSHOTS=\"\"* en el "
+"archivo :file:`pbi.conf` para ese módulo. O, para añadir una aplicación "
+"similar, ponga la categoría del paquete y nombre del paquete dentro de la "
+"línea *PBI_PLUGINS=\"\"* en el archivo :file:`pbi.conf` para ese módulo. "
+"Como ejemplo, refiérase al `pbi.conf del módulo PBI de www/firefox "
+"<https://github.com/pcbsd/pcbsd/blob/master/pbi-"
+"modules/www/firefox/pbi.conf>`_. Más información acerca de las variables "
+"disponibles en :file:`pbi.conf` puede encontrarse en la Tabla 11.1a."
 
 #: ../../support.rst:396
 msgid "**Table 11.1a: Commonly Used pbi.conf Variables**"
-msgstr ""
+msgstr "**Tabla 11.1a: Variable Comunmente Usadas en pbi.conf**"
 
 #: ../../support.rst:399
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: ../../support.rst:399
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: ../../support.rst:401
 msgid "PBI_ORIGIN="
-msgstr ""
+msgstr "PBI_ORIGIN="
 
 #: ../../support.rst:401
 msgid "mandatory; the \"category/portname\" of the FreeBSD package"
-msgstr ""
+msgstr "obligatorio; la \"categoría/nombre del port\" del paquete FreeBSD"
 
 #: ../../support.rst:403
 msgid "PBI_PROGNAME="
-msgstr ""
+msgstr "PBI_PROGNAME="
 
 #: ../../support.rst:403
 msgid "mandatory; name of the application"
-msgstr ""
+msgstr "obligatorio; nombre de la aplicación"
 
 #: ../../support.rst:405
 msgid "PBI_PROGWEB="
-msgstr ""
+msgstr "PBI_PROGWEB="
 
 #: ../../support.rst:405
 msgid "mandatory unless does not exist; website for the application"
-msgstr ""
+msgstr "obligatorio a menos que no exista; sitio web de la aplicación"
 
 #: ../../support.rst:407
 msgid "PBI_PROGAUTHOR="
-msgstr ""
+msgstr "PBI_PROGAUTHOR="
 
 #: ../../support.rst:407
 msgid "mandatory; often found at the website for the application"
-msgstr ""
+msgstr "obligatorio; casi siempre se encuentra en el sitio web de la aplicación"
 
 #: ../../support.rst:409
 msgid "PBI_LICENSE="
-msgstr ""
+msgstr "PBI_LICENSE="
 
 #: ../../support.rst:409
 msgid "the type of open source license used by the application"
-msgstr ""
+msgstr "tipo de licencia open source usada por la aplicación"
 
 #: ../../support.rst:411
 msgid "PBI_TAGS="
-msgstr ""
+msgstr "PBI_TAGS="
 
 #: ../../support.rst:411
 msgid "a comma separated list (no spaces) of search terms associated with the application"
 msgstr ""
+"una lista separada por comas (no espacios) de términos de búsqueda asociados "
+"con la aplicación"
 
 #: ../../support.rst:413
 msgid "PBI_PROGTYPE="
-msgstr ""
+msgstr "PBI_PROGTYPE="
 
 #: ../../support.rst:413
 msgid "mandatory; use \"Graphical\" or \"Text\""
-msgstr ""
+msgstr "obligatorio; use \"Gráfico\" o \"Texto\""
 
 #: ../../support.rst:415
 msgid "PBI_CATEGORY="
-msgstr ""
+msgstr "PBI_CATEGORY="
 
 #: ../../support.rst:415
 msgid "the category to place the application into; click \"Browse Categories\" within AppCafe to see the list of categories"
 msgstr ""
+"la categoría en donde se pondrá la aplicación; presione \"Buscar Categorías\""
+" en AppCafe para ver la lista de categorías."
 
 #: ../../support.rst:417
 msgid "PBI_OTHERPKGS="
-msgstr ""
+msgstr "PBI_OTHERPKGS="
 
 #: ../../support.rst:417
 msgid "a space separated list in the format \"category/portname\" of other applications to bundle into the PBI"
 msgstr ""
+"una lista separada por espacios en el formato \"categoría/nombre del port\" "
+"de otras aplicaciones que empaquetar en el PBI"
 
 #: ../../support.rst:419
 msgid "PBI_PLUGINS="
-msgstr ""
+msgstr "PBI_PLUGINS="
 
 #: ../../support.rst:419
 msgid "a space separated list in the format \"category/portname\" of similar packages"
 msgstr ""
+"una lista separada por espacios en el formato \"categoría/nombre del port\" "
+"de paquetes similares"
 
 #: ../../support.rst:421
 msgid "PBI_SCREENSHOTS="
-msgstr ""
+msgstr "PBI_SCREENSHOTS="
 
 #: ../../support.rst:421
 msgid "a space separated list of URLs to screenshots in :file:`.png` or :file:`.jpg` format"
 msgstr ""
+"una lista separada por espacios de URLs a las capturas de pantalla en "
+"formato :file:`.png` o :file:`.jpg`"
 
 #: ../../support.rst:423
 msgid "PBI_RELATED="
-msgstr ""
+msgstr "PBI_RELATED="
 
 #: ../../support.rst:423
 msgid "a space separated list in the format \"category/portname\" of similar PBIs"
 msgstr ""
+"una lista separada por espacios en el formato \"categoría/nombre del port\" "
+"de PBIs similares"
 
 #: ../../support.rst:425
-#, fuzzy
 msgid "export"
-msgstr "Exportar"
+msgstr "exportar"
 
 #: ../../support.rst:425
 msgid "mandatory; followed by a list of all of the variables used in the file"
 msgstr ""
+"obligatorio; seguido de una lista de todas las variables usadas en el archivo"
 
 #: ../../support.rst:428
 msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
@@ -853,6 +904,10 @@ msgstr ""
 #: ../../support.rst:442
 msgid "`FreeBSD Mall <https://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
 msgstr ""
+"`FreeBSD Mall <https://www.freebsdmall.com/cgi-"
+"bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-"
+"bsd?id=B3TkJm7G&mv_pc=5>`_: vende DVDs y suscripciones de PC-BSD®, "
+"calcomanías, y ropa."
 
 #: ../../support.rst:445
 msgid "Amazon: sells The Definitive Guide to PC-BSD® (hard copy and Kindle formats) as well as the Kindle versions of the PC-BSD® Handbook. Items available for purchase in your country may vary."
