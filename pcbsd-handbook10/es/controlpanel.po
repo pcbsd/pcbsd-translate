@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-12 00:18-0700\n"
-"PO-Revision-Date: 2016-04-11 21:59+0000\n"
+"POT-Creation-Date: 2016-04-12 04:18-0700\n"
+"PO-Revision-Date: 2016-04-12 15:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1460473596.000000\n"
 
 #: ../../controlpanel.rst:5
 msgid "Control Panel"
@@ -45,6 +47,9 @@ msgstr ""
 #: ../../controlpanel.rst:19
 msgid "The available utilities are divided into sections. If you click a grey section bar, you can toggle between displaying (bar has up arrow) or hiding (bar has down arrow) its icons."
 msgstr ""
+"Las utilerías disponibles están divididas en secciones. Si presiona en una "
+"barra de sección gris, puede cambiar entre mostrar (la barra tiene la flecha "
+"hacia arriba) u ocultar (la barra tiene la flecha hacia abajo) sus iconos."
 
 #: ../../controlpanel.rst:22
 msgid "The search box in the upper right can be used to find the proper control panel item if you know what you would like to configure but are uncertain which utility to use. The icon next to the search box can be used to change the size of the icons, change the view from a grid to a list, and organize the icons into a fixed layout."
@@ -74,6 +79,16 @@ msgstr ""
 #: ../../controlpanel.rst:32
 msgid "Control Panel includes a \"desktop selector\" menu which allows you to load the configuration utilities from just the operating system (as seen in the example in :numref:`Figure %s: PC-BSD® Control Panel <control1a>`), all installed desktops, or one of these installed desktops: KDE, GNOME, Cinnamon, MATE, XFCE4, LXDE, or Lumina. In the example shown in :numref:`Figure %s: Desktop Selector Menu <control2>`, the user is currently logged into the LXDE desktop but they have chosen to view the GNOME utilities. The menu icon indicates the control panel view while \"(current)\" will be beside the desktop that is presently active."
 msgstr ""
+"El Panel de Control incluye un menú “selector de escritorio” que le permite "
+"cargar las utilerías de configuración desde el sistema operativo (como se "
+"muestra en el ejemplo en la :numref:`Figura %s: Panel de Control de PC-BSD® "
+"<control1a>`), desde todos los escritorios instalados, o uno de estos "
+"escritorios instalados: KDE, GNOME, Cinnamon, MATE, XFCE4, LXDE, o Lumina. "
+"En el ejemplo mostrado en la :numref:`Figura %s: Menú Selector de Escritorio "
+"<control2>`, el usuario está conectado en el escritorio LXDE pero ha elegido "
+"ver las utilerías de GNOME. El icono del menú indica la vista del panel de "
+"control mientras “(actual)” estará junto al escritorio que está activo en "
+"este momento."
 
 #: ../../controlpanel.rst:41
 msgid "Switching between the icons in the selector changes the icons displayed within the control panel window to match those used in that desktop. If \"All desktops\" is set by the desktop selector, you will see every utility that is available, depending upon which desktops are currently installed. You can change which desktops are installed using :ref:`AppCafe®`."
@@ -206,42 +221,67 @@ msgstr "Acerca de"
 #: ../../controlpanel.rst:107
 msgid "The \"About\" icon of Control Panel can be used to quickly find information about the PC-BSD® system. To start the application, double-click its icon in Control Panel or type :command:`about-gui`. An example is seen in :numref:`Figure %s: About Information <about1a>`."
 msgstr ""
+"El icono “Acerca de” del Panel de Control puede usarse para encontrar "
+"rápidamente información acerca del sistema PC-BSD®. Para iniciar la "
+"aplicación, haga doble clic en su icono en el Panel de Control o ingrese "
+":command:`about-gui`. Un ejemplo se puede apreciar en la :numref:`Figura %s: "
+"Información Acerca de <about1a>`."
 
 #: ../../controlpanel.rst:114
 msgid "The displayed information includes the version of PC-BSD®, whether the system is using the PRODUCTION, EDGE, or ENTERPRISE package set, the hostname of the system, the underlying version of FreeBSD, the architecture, the name of the kernel (ident), the type of CPU, and the amount of installed memory."
 msgstr ""
+"La información mostrada incluye la versión de PC-BSD®, sin importar si el "
+"sistema está usando el set de paquetes PRODUCTION, EDGE, o ENTERPRISE, el "
+"nombre del equipo, la versión base de FreeBSD, la arquitectura, el nombre "
+"del kernel (ident), el tipo de CPU y la cantidad de memoria instalada."
 
 #: ../../controlpanel.rst:117
 msgid "If you click the \"Software and system components\" button, the screen shown in :numref:`Figure %s: System Components Screen <about2a>` will be displayed."
 msgstr ""
+"Si presiona el botón “Software y Componentes del Sistema”, se mostrará la "
+"pantalla mostrada en la :numref:`Figura %s: Pantalla Componentes del Sistema "
+"<about2a>`."
 
 #: ../../controlpanel.rst:123
 msgid "Click the arrow next to an entry to display or hide its its details. The following information is available:"
 msgstr ""
+"Presione la flecha junto a una entrada para mostrar u ocultar sus detalles. "
+"La siguiente información está disponible:"
 
 #: ../../controlpanel.rst:125
 msgid "**PCBSD components:** the version number for the PC-BSD® CLI and GUI utilities."
 msgstr ""
+"**Componentes PCBSD:** el número de versión de las utilerías CLI y GUI de PC-"
+"BSD®."
 
 #: ../../controlpanel.rst:127
 msgid "**Video stack:** the Xorg version number, the type and version of the loaded video driver, and the version of the loaded VirtualBox driver."
 msgstr ""
+"**Pila de Video:** el número de versión de Xorg, el tipo y versión del "
+"controlador de video cargado, y la versión del controlador de Virtualbox "
+"cargado."
 
 #: ../../controlpanel.rst:129
 msgid "**Toolkits:** the version numbers for the installed graphical toolkits."
 msgstr ""
+"**Toolkits:** los números de versión para los toolkits gráficos instalados."
 
 #: ../../controlpanel.rst:131
 msgid "**Desktops:** the version numbers of each installed desktop environment."
 msgstr ""
+"**Escritorios:** los números de versión para cada entorno de escritorio "
+"instalado."
 
 #: ../../controlpanel.rst:133
 msgid "**Office:** if an office suite is installed, its version number."
 msgstr ""
+"**Oficina:** si una suite de oficina está instalada, su número de versión."
 
 #: ../../controlpanel.rst:135
 msgid "**Scripting languages:** the version numbers of any installed scripting languages, such as Perl or Python."
 msgstr ""
+"**Lenguajes de Script:** los números de versión de cualquier lenguaje de "
+"script instalado, como Perl o Python."
 
 #: ../../controlpanel.rst:141
 msgid "Active Directory & LDAP"
