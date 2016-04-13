@@ -333,6 +333,42 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
         <translation type="unfinished">आल्ट+सी
             </translation>
     </message>
+    <message>
+        <source>MD5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>metaWidget</name>
