@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;Custom IP&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Interwał dni</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -403,7 +407,7 @@
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation>Plik serwera Life Preserver (*.lps *.LPS)</translation>
+        <translation>Plik serwera Koła Ratunkowego (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
@@ -427,7 +431,7 @@
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation>Life Preserver napotkał błąd podczas tworzenia pliku z kluczem. Proszę sprawdzić czy ustawienia są właściwe i spróbować ponownie.</translation>
+        <translation>Program Koło Ratunkowe napotkał błąd podczas tworzenia pliku z kluczem. Proszę sprawdzić czy ustawienia są właściwe i spróbować ponownie.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
@@ -443,7 +447,7 @@
     </message>
     <message>
         <source>A Life Preserver configuration file for the remote system is required. (*.lps)</source>
-        <translation>Dla zdalnego systemu wymagany jest plik konfiguracyjny Life Preserver (*.lps)</translation>
+        <translation>Dla zdalnego systemu wymagany jest plik konfiguracyjny programu Koło Ratunkowe(*.lps)</translation>
     </message>
     <message>
         <source>If you do not have this file available, please contact the administrator(s) of the backup server and request one.</source>
@@ -474,15 +478,15 @@
         <translation>Proszę się upewnić, że plik z kluczem jest w bezpiecznym miejscu(na przykład na pamięci USB zamkniętej w bezpiecznym miejscu). Administratorzy serwera kopii zapasowych nie ponoszą odpowiedzialności za utratę klucza.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Program Koło Ratunkowe napotkał błąd podczas tworzenia zdalnej kopii zapasowej. Proszę sprawdzić czy ustawienia są właściwe i spróbować ponownie.</translation>
     </message>
 </context>
 <context>
     <name>LPMain</name>
     <message>
         <source>Life Preserver</source>
-        <translation>Kamizelka Ratunkowa</translation>
+        <translation>Koło Ratunkowe</translation>
     </message>
     <message>
         <source>Refresh the UI</source>
@@ -718,11 +722,11 @@
     </message>
     <message>
         <source>%1: Disabling Life-Preserver Management</source>
-        <translation>%1: Wyłączenie zarządzania Kamizelką Ratunkową</translation>
+        <translation>%1: Wyłączenie zarządzania Kołem Ratunkowym</translation>
     </message>
     <message>
         <source>Removing Life Preserver Schedules</source>
-        <translation>Usuwanie harmonogramów Kamizelki Ratunkowej</translation>
+        <translation>Usuwanie harmonogramów programu Koło Ratunkowe</translation>
     </message>
     <message>
         <source>No Valid USB Devices</source>
@@ -961,147 +965,15 @@
         <translation>Udało się przywrócić pliki</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Wczytywanie informacji</translation>
     </message>
 </context>
 <context>
     <name>LPWizard</name>
     <message>
         <source>New Life Preserver</source>
-        <translation>Nowa Kamizelka Ratunkowa</translation>
+        <translation>Nowe Koło Ratunkowe</translation>
     </message>
     <message>
         <source>This wizard will walk you through the process of setting up a new snapshot schedule for the following ZFS dataset:</source>
@@ -1238,11 +1110,15 @@
     </message>
     <message>
         <source>Your new Life Preserver schedule is now set up! You may modify your configuration or enable advanced features such as off-site data replication at any time from within the main Life Preserver window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Harmonogram nowego Koła Ratunkowego został ustawiony! Możesz modyfikować konfigurację lub włączać zaawansowane opcje z poziomu głównego okna programu Koło Ratunkowe.</translation>
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Interwał dni</translation>
     </message>
 </context>
 <context>

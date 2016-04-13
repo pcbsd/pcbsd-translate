@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 04:13-0700\n"
+"POT-Creation-Date: 2016-04-13 08:14-0700\n"
 "PO-Revision-Date: 2016-01-12 15:41+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -149,14 +149,8 @@ msgid "Supported Hardware"
 msgstr "Hardware Soportado"
 
 #: ../../preinstall.rst:68
-msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.2R/hardware.html#proc>`_ list the amd64 processors known to work."
+msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/11.0R/hardware.html#proc>`_ list the amd64 processors known to work."
 msgstr ""
-"PC-BSD® debería instalarse en cualquier sistema que tenga un procesador de "
-"64-bits (también llamado amd64). A pesar del nombre amd64, un procesador de "
-"64-bits **no necesita** ser fabricado por AMD para ser soportado. Las `Notas "
-"de Hardware de FreeBSD "
-"<http://www.freebsd.org/releases/10.2R/hardware.html#proc>`_ listan los "
-"procesadores amd64 que se sabe funcionan."
 
 #: ../../preinstall.rst:72
 msgid "Like most open source operating systems, PC-BSD® uses X.org drivers for graphics support. PC-BSD® will automatically detect the optimal video settings for supported video drivers. You can verify that your graphics hardware is supported by clicking the :ref:`Hardware Compatibility` icon within the installer."
@@ -209,18 +203,8 @@ msgid "A list of usable graphics cards can be found on the `FreeBSD Graphics Wik
 msgstr ""
 
 #: ../../preinstall.rst:91
-msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/10.2R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
+msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/11.0R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
 msgstr ""
-"PC-BSD® tiene soporte nativo para docenas de tarjetas de red inalámbrica. "
-"Puede revisar si su tarjeta tiene un `Controlador para FreeBSD "
-"<http://www.freebsd.org/releases/10.2R/hardware.html#WLAN>`_. Si es así, "
-"simplemente “debe funcionar”. Una lista de dispositivos Atheros soportados y "
-"sus limitantes conocidas puede encontrarse en la `Wiki del Estado del "
-"Hardware Wi-Fi de Atheros "
-"<https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. Una lista "
-"de dispositivos Intel soportados y sus limitantes conocidas puede "
-"encontrarse en la `Wiki de las tarjetas iwn(4) Intel series 802.11n "
-"<https://wiki.freebsd.org/dev/iwn%284%29>`_."
 
 #: ../../preinstall.rst:96
 msgid "PC-BSD® will automatically detect available wireless networks for supported wireless devices. You can verify that your device is supported by clicking the :ref:`Hardware Compatibility` icon within the installer. If it an external wireless device, insert it before running the \"Hardware Compatibility\" utility."
@@ -241,13 +225,8 @@ msgstr ""
 ":file:`/boot/loader.conf` y reinicie para ver si marca una diferencia."
 
 #: ../../preinstall.rst:102
-msgid "If you wish to check your hardware before installing PC-BSD®, a good place to start is the `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.2R/hardware.html>`_. Another good resource is to start the installer and click the :ref:`Hardware Compatibility` icon."
+msgid "If you wish to check your hardware before installing PC-BSD®, a good place to start is the `FreeBSD Hardware Notes <http://www.freebsd.org/releases/11.0R/hardware.html>`_. Another good resource is to start the installer and click the :ref:`Hardware Compatibility` icon."
 msgstr ""
-"Si gusta revisar su hardware antes de instalar PC-BSD®, un buen lugar dónde "
-"empezar son las `Notas de Hardware de FreeBSD "
-"<http://www.freebsd.org/releases/10.2R/hardware.html>`_. Otro buen recurso "
-"es comenzar el instalador y presionar el icono :ref:`Compatibilidad de "
-"Hardware`."
 
 #: ../../preinstall.rst:106
 msgid "While most hardware \"just works\" with PC-BSD®, it is possible that you will run across a piece of hardware that does not. Remember that PC-BSD® is really FreeBSD, meaning that any hardware that works on FreeBSD will work on PC-BSD®. If you are experiencing problems with a device, start with a web search for the term \"FreeBSD\" plus the type and model of the hardware. This will let you know if there is a known issue with the device. If there are many search results, concentrate on the most recent ones as often hardware that used to be problematic has since been fixed or the missing driver will be available in an upcoming release of FreeBSD. If you experience problems with a device that should work but does not or you can not find any existing problem reports for your hardware, you can help improve hardware support for all PC-BSD® users if you :ref:`Report a bug` so that it can be addressed by the developers."

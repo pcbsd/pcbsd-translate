@@ -5,7 +5,7 @@
     <name>LPMessages</name>
     <message>
         <source>Life Preserver Messages</source>
-        <translation>Wiadomości Kamizelki Ratunkowej</translation>
+        <translation>Wiadomości programu Koło Ratunkowe</translation>
     </message>
     <message>
         <source>Messages</source>
@@ -29,15 +29,15 @@
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation>(Kamizelka Ratunkowa) Brak zawartości pliku do wyświetlenia</translation>
+        <translation>(Koło Ratunkowe) Brak zawartości pliku do wyświetlenia</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation>(Kamizelka Ratunkowa) Plik nie istnieje: %1</translation>
+        <translation>(Koło Ratunkowe) Plik nie istnieje: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation>(Kamizelka Ratunkowa) Plik nie mógł zostać otworzony: %1</translation>
+        <translation>(Koło Ratunkowe) Plik nie mógł zostać otworzony: %1</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Open Life Preserver</source>
-        <translation>Otwórz Kamizelkę Ratunkową</translation>
+        <translation>Otwórz program Koło Ratunkowe</translation>
     </message>
     <message>
         <source>View Messages</source>
