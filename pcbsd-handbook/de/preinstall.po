@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 12:13-0700\n"
+"POT-Creation-Date: 2016-04-13 12:22-0700\n"
 "PO-Revision-Date: 2015-07-12 13:36+0000\n"
 "Last-Translator: vater <vater@chelnok.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -151,7 +151,7 @@ msgid "Supported Hardware"
 msgstr "Unterstützte Hardware"
 
 #: ../../preinstall.rst:68
-msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/11.0R/hardware.html#proc>`_ list the amd64 processors known to work."
+msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.3R/hardware.html#proc>`_ list the amd64 processors known to work."
 msgstr ""
 
 #: ../../preinstall.rst:72
@@ -207,7 +207,7 @@ msgid "A list of usable graphics cards can be found on the `FreeBSD Graphics Wik
 msgstr ""
 
 #: ../../preinstall.rst:91
-msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/11.0R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
+msgid "PC-BSD® has built-in support for dozens of wireless networking cards. You can check if your card has a `FreeBSD driver <http://www.freebsd.org/releases/10.3R/hardware.html#WLAN>`_. If it does, it should \"just work\". A list of supported Atheros devices and known limitations can be found on the `Status of Atheros Wifi Hardware wiki page <https://wiki.freebsd.org/dev/ath_hal%284%29/HardwareSupport>`_. A list of supported Intel devices and known limitations can be found on the `iwn(4) Intel 802.11n series NICs wiki page <https://wiki.freebsd.org/dev/iwn%284%29>`_."
 msgstr ""
 
 #: ../../preinstall.rst:96
@@ -231,7 +231,7 @@ msgstr ""
 "einen Unterschied macht."
 
 #: ../../preinstall.rst:102
-msgid "If you wish to check your hardware before installing PC-BSD®, a good place to start is the `FreeBSD Hardware Notes <http://www.freebsd.org/releases/11.0R/hardware.html>`_. Another good resource is to start the installer and click the :ref:`Hardware Compatibility` icon."
+msgid "If you wish to check your hardware before installing PC-BSD®, a good place to start is the `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.3R/hardware.html>`_. Another good resource is to start the installer and click the :ref:`Hardware Compatibility` icon."
 msgstr ""
 
 #: ../../preinstall.rst:106
@@ -263,7 +263,7 @@ msgstr ""
 msgid "**Synaptics:** depending upon the hardware, you may or may not be able to disable the system's touchpad. This `forum post <https://forums.freebsd.org/threads/17370/#post-100670>`_ describes how to enable Synaptics and some of the :command:`sysctl` options that this feature provides."
 msgstr ""
 
-#: ../../preinstall.rst:137
+#: ../../preinstall.rst:136
 #, fuzzy
 msgid "**Optimus graphics:** the current workaround is to disable Optimus in the BIOS, set the onboard Intel video to be dominant, or to change the graphics mode to discrete."
 msgstr ""
@@ -271,33 +271,33 @@ msgstr ""
 "BIOS, set the onboard Intel video to be dominant, or to change the graphics "
 "mode to discrete."
 
-#: ../../preinstall.rst:140
+#: ../../preinstall.rst:139
 msgid "If you wish to test your laptop's hardware, use the \"Hardware Compatibility\" icon in the :ref:`Language Selection Screen` before continuing with the installation."
 msgstr ""
 "Wenn Sie die Hardware Ihres Laptops testen wollen, verwenden Sie das Symbole "
 "für \"Hardware-Kompatibilität\" bei dem :ref:`Bildschirm Sprachauswahl` "
 "bevor Sie mit der Installation fortfahren."
 
-#: ../../preinstall.rst:143
+#: ../../preinstall.rst:142
 msgid "If you would like to install PC-BSD® onto an Asus Eee PC, read the `FreeBSD Eee page <https://wiki.FreeBSD.org/AsusEee>`_ first."
 msgstr ""
 
-#: ../../preinstall.rst:145
+#: ../../preinstall.rst:144
 msgid "The `FreeBSD Tuning Power Consumption page <https://wiki.FreeBSD.org/TuningPowerConsumption>`_ has some tips for reducing power consumption."
 msgstr ""
 "Die `Seite Tuning Power Consumption im Wiki von FreeBSD (Englisch) "
 "<https://wiki.FreeBSD.org/TuningPowerConsumption>`_ hat einige Tipps zur "
 "Reduzierung des Energieverbrauchs."
 
-#: ../../preinstall.rst:149
+#: ../../preinstall.rst:148
 msgid "With regards to specific hardware, the ThinkPad T420 may panic during install. If it does, go into the BIOS and set the video mode to \"discrete\" which should allow you to complete an installation. Some Thinkpads have a BIOS bug that prevents them from booting from GPT labeled disks. If you are unable to boot into a new installation, restart the installer and go into \"Advanced Mode\" in the :ref:`Disk Selection Screen`. Make sure that the \"Partition disk with GPT\" box is unchecked. If it was checked previously, redo the installation with the box unchecked."
 msgstr ""
 
-#: ../../preinstall.rst:158
+#: ../../preinstall.rst:157
 msgid "Touch Screens"
 msgstr "Touchscreens"
 
-#: ../../preinstall.rst:160
+#: ../../preinstall.rst:159
 msgid "PC-BSD® should automatically detect USB-based touch screen devices. If your display is USB and is not auto-detected, send the output of :command:`usbconfig` and your :file:`/etc/X11/xorg.conf` file using the :ref:`Report a bug` tool."
 msgstr ""
 "PC‑BSD® sollte automatisch USB-basierende Geräte für einen Touchscreen "
@@ -305,39 +305,39 @@ msgstr ""
 "senden Sie mit dem Werkzeug :ref:`Berichten eines Fehlers` die Ausgabe von "
 ":command:`usbconfig` und Ihre Datei :file:`/etc/X11/xorg.conf`."
 
-#: ../../preinstall.rst:167
+#: ../../preinstall.rst:166
 msgid "Creating Free Space"
 msgstr ""
 
-#: ../../preinstall.rst:169
+#: ../../preinstall.rst:168
 msgid "If you wish to dual-boot PC-BSD® with an existing operating system, you must first make sure that there is either a free partition or an area of free space to install into. For example, if you are currently running a Windows operating system, it will be installed to the entire hard drive. You will need to first shrink the partition that contains the current operating system in order to make room to install PC-BSD®. Shrinking is an operation that retains the current operating system, while reducing the size of its partition. This section demonstrates how to create free space within Windows 7."
 msgstr ""
 
-#: ../../preinstall.rst:174
+#: ../../preinstall.rst:173
 msgid "**before** shrinking a partition, make sure that you first back up your valuable data to an external media such as a removable USB drive!"
 msgstr ""
 
-#: ../../preinstall.rst:176
+#: ../../preinstall.rst:175
 msgid "To shrink the drive, open Computer Management and click :menuselection:`Storage --> Disk Management`. In the example shown in :numref:`Figure %s: Viewing Disk Layout in Disk Management <partition1>`, the Windows system has three partitions: a 16GB recovery partition, a 100MB system partition, and a 450GB data partition."
 msgstr ""
 
-#: ../../preinstall.rst:184
+#: ../../preinstall.rst:183
 msgid "Since the three Windows partitions are using the entire disk, the data partition needs to be shrunk in order to create space to install PC-BSD® into. To shrink the data partition, right-click the partition, which in this example is called *Acer (C:)*, and select \"Shrink Volume\". Wait a moment as it queries the volume for available shrink space. The results will be displayed as seen in the example in :numref:`Figure %s: Available Shrink Space <shrink1>`."
 msgstr ""
 
-#: ../../preinstall.rst:192
+#: ../../preinstall.rst:191
 msgid "In this example, 321089MB of space is available. To divide the partition between Windows and PC-BSD®, change that number to *230000* and click the \"Shrink\" button. When finished, the newly created free space will be displayed, as seen in :numref:`Figure %s: Disk Now Has Free Space <shrink2>`."
 msgstr ""
 
-#: ../../preinstall.rst:199
+#: ../../preinstall.rst:198
 msgid "it is important that you **do not** choose to install PC-BSD® into any of the three Windows partitions when you get to the :ref:`Disk Selection Screen` of the installer. It is a good idea to write down the sizes of all of the partitions so that you will recognize the free space when the PC-BSD® installer displays your current partitions."
 msgstr ""
 
-#: ../../preinstall.rst:206
+#: ../../preinstall.rst:205
 msgid "Obtaining PC-BSD®"
 msgstr "Beschaffen von PC-BSD®"
 
-#: ../../preinstall.rst:208
+#: ../../preinstall.rst:207
 #, fuzzy
 msgid "PC-BSD® version numbers are similar to those used by FreeBSD. In addition, PC-BSD® provides two branches. The branch that you choose to install or upgrade to determines when you will receive updates as new features and drivers are added to the operating system. Downloadable image names include the version number, where |version| is the most recent version, and either the word :file:`RELEASE` or :file:`STABLE`, where:"
 msgstr ""
@@ -349,7 +349,7 @@ msgstr ""
 "der Version, wobei |version| die jüngste Version ist und entweder das Wort "
 ":file:`RELEASE` oder :file:`STABLE`, wobei:"
 
-#: ../../preinstall.rst:212
+#: ../../preinstall.rst:211
 msgid "**RELEASE:** indicates that new drivers and features will not be added to the operating system until the next RELEASE version becomes available and the user upgrades to that new version. If reliability is more important to you than new features or drivers, use the RELEASE version."
 msgstr ""
 "**RELEASE (Veröffentlichung):** weist darauf hin, dass neue Treiber und "
@@ -359,7 +359,7 @@ msgstr ""
 "aktualisiert.Wenn Zuverlässigkeit für Sie mehr wichtig ist als neue "
 "Funktionalitäten oder Treiber, benutzen Sie die RELEASE-Version."
 
-#: ../../preinstall.rst:215
+#: ../../preinstall.rst:214
 #, fuzzy
 msgid "**STABLE:** around the 1st of each month, :ref:`Update Manager` will provide a patch which will update the operating system to include all of the new features and drivers. If you wish to have or test the latest features and drivers as they become available and can tolerate possible breakage caused by new features being available before the next RELEASE, use the STABLE version."
 msgstr ""
@@ -371,11 +371,11 @@ msgstr ""
 "durch neue Funktionalitäten, die vor der nächsten Veröffentlichung verfügbar "
 "sind, tolerieren können, benutzen Sie die STABLE-Version."
 
-#: ../../preinstall.rst:219
+#: ../../preinstall.rst:218
 msgid "The image files for the current RELEASE can be downloaded from the `PC-BSD® website <http://www.pcbsd.org/download/>`_. Previous RELEASE versions and STABLE versions can be downloaded from the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_."
 msgstr ""
 
-#: ../../preinstall.rst:222
+#: ../../preinstall.rst:221
 #, fuzzy
 msgid "Several types of files are available for download. Before downloading a file, review the following descriptions to see which one best suits your needs:"
 msgstr ""
@@ -383,7 +383,7 @@ msgstr ""
 "file, review the following descriptions to see which one best suits your "
 "needs:"
 
-#: ../../preinstall.rst:224
+#: ../../preinstall.rst:223
 #, fuzzy
 msgid "Files beginning with :file:`PCBSD` and ending in :file:`DVD-USB.iso` contain all of the information needed to install a graphical desktop or command-line server as well as several applications during installation. This type of file can either be burned to a DVD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
 msgstr ""
@@ -398,7 +398,7 @@ msgstr ""
 "If a torrent is available, there will also be a file with the same name and "
 "a :file:`.torrent` extension."
 
-#: ../../preinstall.rst:230
+#: ../../preinstall.rst:229
 #, fuzzy
 msgid "Files beginning with :file:`TrueOS` contain a command-line installer and are used to install a command-line version of a server. This type of file can either be burned to a CD media or a USB thumb drive. There will also be associated files with the same name but ending in a :file:`.md5` or :file:`.sha256` extension. Depending upon your current operating system and its tools, you can use the value in either one of those files to determine the integrity of the download, as described in :ref:`Data Integrity Check`. If a torrent is available, there will also be a file with the same name and a :file:`.torrent` extension."
 msgstr ""
@@ -412,7 +412,7 @@ msgstr ""
 "If a torrent is available, there will also be a file with the same name and "
 "a :file:`.torrent` extension."
 
-#: ../../preinstall.rst:236
+#: ../../preinstall.rst:235
 #, fuzzy
 msgid "Files containing :file:`netinstall` in their name are used to perform a network install. These files can be burned to a CD, so are a smaller initial download size. However, they require an Internet connection during installation as the files needed by the installer will be downloaded from the Internet."
 msgstr ""
@@ -422,7 +422,7 @@ msgstr ""
 "installation as the files needed by the installer will be downloaded from "
 "the Internet."
 
-#: ../../preinstall.rst:239
+#: ../../preinstall.rst:238
 #, fuzzy
 msgid "If you plan to install a graphical desktop, download the file with :file:`PCBSD` in its name and either burn it to a DVD media or write it to a removable USB device."
 msgstr ""
@@ -430,7 +430,7 @@ msgstr ""
 ":file:`PCBSD` in its name and either burn it to a DVD media or write it to a "
 "removable USB device."
 
-#: ../../preinstall.rst:242
+#: ../../preinstall.rst:241
 #, fuzzy
 msgid "If you prefer to install a command-line only server, you can either download the same ISO or download the ISO with :file:`TRUEOS` in the name. The :file:`TRUEOS` download is smaller and can be burned to a CD or written to a removable USB device."
 msgstr ""
@@ -439,39 +439,39 @@ msgstr ""
 ":file:`TRUEOS` download is smaller and can be burned to a CD or written to a "
 "removable USB device."
 
-#: ../../preinstall.rst:245
+#: ../../preinstall.rst:244
 msgid "Pre-installed virtual images are also available, making it easy to use or try PC-BSD® in a virtual environment. Four types of images are available:"
 msgstr ""
 
-#: ../../preinstall.rst:248
+#: ../../preinstall.rst:247
 #, fuzzy
 msgid "Files ending in :file:`.ova` can be used in VirtualBox, as described in :ref:`Using the Downloadable .ova File`."
 msgstr ""
 "Files ending in :file:`.ova` can be used in VirtualBox, as described in "
 ":ref:`Using the Downloadable .ova File`."
 
-#: ../../preinstall.rst:250
+#: ../../preinstall.rst:249
 #, fuzzy
 msgid "Files ending in :file:`.vdi.xz` can be used in Virtualbox, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 msgstr ""
 "Files ending in :file:`.vdi.xz` can be used in Virtualbox, as described in "
 ":ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 
-#: ../../preinstall.rst:252
+#: ../../preinstall.rst:251
 #, fuzzy
 msgid "Files ending in :file:`.vmdk.xz` can be used in VMware, as described in :ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 msgstr ""
 "Files ending in :file:`.vmdk.xz` can be used in VMware, as described in "
 ":ref:`Using the Downloadable VirtualBox or VMWare Disk`."
 
-#: ../../preinstall.rst:254
+#: ../../preinstall.rst:253
 #, fuzzy
 msgid "Files ending in :file:`.raw.xz` can be used in Qemu and can also be converted to other virtual image formats."
 msgstr ""
 "Files ending in :file:`.raw.xz` can be used in Qemu and can also be "
 "converted to other virtual image formats."
 
-#: ../../preinstall.rst:256
+#: ../../preinstall.rst:255
 #, fuzzy
 msgid "When selecting a virtual image file, choose a format that matches your virtualization technology, and an edition that matches what you would like to use. The following editions are available:"
 msgstr ""
@@ -479,21 +479,21 @@ msgstr ""
 "virtualization technology, and an edition that matches what you would like "
 "to use. The following editions are available:"
 
-#: ../../preinstall.rst:259
+#: ../../preinstall.rst:258
 #, fuzzy
 msgid ":file:`consumer-desktop`: provides an installed version of PC-BSD® with the KDE and Fluxbox desktop environments."
 msgstr ""
 ":file:`consumer-desktop`: provides an installed version of PC-BSD® with the "
 "KDE and Fluxbox desktop environments."
 
-#: ../../preinstall.rst:261
+#: ../../preinstall.rst:260
 #, fuzzy
 msgid ":file:`trueos-server`: provides a pre-installed TrueOS® server that is command-line only."
 msgstr ""
 ":file:`trueos-server`: provides a pre-installed TrueOS® server that is "
 "command-line only."
 
-#: ../../preinstall.rst:263
+#: ../../preinstall.rst:262
 #, fuzzy
 msgid "If you downloaded an installation file, instead of a virtual image, refer to :ref:`Burning the Installation Media` for instructions on how to burn the file to bootable media."
 msgstr ""
@@ -501,19 +501,19 @@ msgstr ""
 ":ref:`Burning the Installation Media` for instructions on how to burn the "
 "file to bootable media."
 
-#: ../../preinstall.rst:266
+#: ../../preinstall.rst:265
 msgid "If you have a slow download connection or wish to support the PC-BSD® project financially, you can purchase PC-BSD® DVDs from the `FreeBSD Mall <https://www.freebsdmall.com/cgi-bin/fm/scan/su=yes/fi=prod_bsd/sf=sku/sf=title/sf=category/se=pcbsd>`_."
 msgstr ""
 
-#: ../../preinstall.rst:269
+#: ../../preinstall.rst:268
 msgid "Members of the PC-BSD® project attend many IT conferences across the globe and give out PC-BSD® DVDs at conference booths. Visiting a PC-BSD® booth is an excellent way to meet other PC-BSD® users and to get your questions answered. Check the `PC-BSD® Blog <https://blog.pcbsd.org/>`_ to see if any events are happening near you. If you are organizing a PC-BSD® booth, `contact us <http://www.pcbsd.org/support/>`_ to arrange for DVDs."
 msgstr ""
 
-#: ../../preinstall.rst:277
+#: ../../preinstall.rst:276
 msgid "Data Integrity Check"
 msgstr "Prüfung zur Integrität der Daten"
 
-#: ../../preinstall.rst:279
+#: ../../preinstall.rst:278
 #, fuzzy
 msgid "After downloading the desired file, it is a good idea to check that the file is exactly the same as the one on the PC-BSD® server. While downloading, a portion of the file may get damaged or lost, making the installation file unusable. Each PC-BSD® installation file has an associated MD5 and SHA256 checksum. If a checksum of the file you downloaded matches, your download was successful. If a checksum does not match, try downloading the file again. In order to verify a checksum, you will need to use a checksum verification utility."
 msgstr ""
@@ -526,8 +526,12 @@ msgstr ""
 "again. In order to verify a checksum, you will need to use a checksum "
 "verification utility."
 
-#: ../../preinstall.rst:284
-msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/download/>`_  only lists the SHA256 while the `PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
+#: ../../preinstall.rst:283
+msgid "you only need to verify one of the checksums. The `PC-BSD® website <http://www.pcbsd.org/download/>`_  only lists the SHA256 while the"
+msgstr ""
+
+#: ../../preinstall.rst:285
+msgid "`PC-BSD® CDN <http://iso.cdn.pcbsd.org/>`_ lists both the :file:`.md5` and the :file:`.sha256` checksum files. This section demonstrates how to verify an MD5 checksum."
 msgstr ""
 
 #: ../../preinstall.rst:288

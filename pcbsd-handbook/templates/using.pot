@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PC-BSD User Guide 11.0\n"
+"Project-Id-Version: PC-BSD User Guide 10.3\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 12:13-0700\n"
+"POT-Creation-Date: 2016-04-13 12:22-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "Java and Flash"
 msgstr ""
 
 #: ../../using.rst:14
-msgid "The IcedTea-Web PBI provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this PBI, search for \"icedtea\" within :ref:`AppCafe®`."
+msgid "IcedTea-Web provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this software, search for \"icedtea\" within :ref:`AppCafe®`."
 msgstr ""
 
 #: ../../using.rst:17
@@ -73,51 +73,51 @@ msgid "Installing Custom Fonts"
 msgstr ""
 
 #: ../../using.rst:52
-msgid "PC-BSD® installs Microsoft TrueType fonts which include the Times New Roman, Courier New, Georgia, Trebuchet MS, Comic Sans MS Arial, Arial Black, Verdana, Andale Mono, and Impact fonts."
+msgid "PC-BSD® includes `Google Noto <http://www.google.com/get/noto/>`_ which provide multi-lingual Sans and Serif fonts."
 msgstr ""
 
-#: ../../using.rst:55
+#: ../../using.rst:54
 msgid "If you have a collection of fonts that you have downloaded or purchased, you can configure your PC-BSD® system to also use these fonts. Which utility you use depends upon which window manager you have logged into."
 msgstr ""
 
-#: ../../using.rst:58
-msgid "many fonts are available from :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box in the \"App Search\" tab to search for fonts. Any font installed using AppCafe® should not require any additional configuration to \"just work\"."
+#: ../../using.rst:57
+msgid "many other fonts are available from :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" box in the \"App Search\" tab to search for fonts. Any font installed using AppCafe® should not require any additional configuration to \"just work\"."
 msgstr ""
 
-#: ../../using.rst:61
+#: ../../using.rst:60
 msgid "To install custom fonts within KDE, go to :menuselection:`System Settings --> Font Management`. In :numref:`Figure %s: Using KDE's Font Installer to Install Custom Fonts <font1>`, \"All Fonts\" is currently selected under the \"Group\" column, showing all of the fonts installed on this system."
 msgstr ""
 
-#: ../../using.rst:68
+#: ../../using.rst:67
 msgid "To install your fonts, highlight \"Personal Fonts\" under the \"Group\" column, then click the \"+Add\" button. This will allow you to browse to the font you wish to add. You can add multiple fonts in the same directory by holding down the :kbd:`Ctrl` key while making your selection. Click the \"Open\" button, which will install the font for you. When it is finished, a pop-up message will indicate that you will need to restart any open applications for the font change to take affect. Your newly installed font(s) should now show up in the \"Personal Fonts\" section in the \"Group\" column and be available to the applications you use."
 msgstr ""
 
-#: ../../using.rst:73
+#: ../../using.rst:72
 msgid "To install custom fonts within GNOME, go to :menuselection:`Activities --> Files`. Navigate to the location of the font that you would like to install and either double-click the font name or select \"Font Viewer\" from the icon's right-click menu. This will open the font in Font Viewer, allowing you to view it. If you like the font, click the \"Install Font\" button to make it available to your applications. In the example shown in :numref:`Figure %s: Using Files to Install a Custom Font <font2>`, the user is installing the BlackFlag font."
 msgstr ""
 
-#: ../../using.rst:82
+#: ../../using.rst:81
 msgid "To install custom fonts within XFCE, use :menuselection:`Applications --> System --> Thunar File Manager`. Once you browse to the location of the font and double- or right-click it, you will see the same Font Viewer used by GNOME."
 msgstr ""
 
-#: ../../using.rst:85
+#: ../../using.rst:84
 msgid "If you prefer to install fonts from the command line, become the superuser and copy the downloaded font to the :file:`/usr/local/share/fonts/` directory. Then, refresh the fonts cache::"
 msgstr ""
 
-#: ../../using.rst:94
+#: ../../using.rst:93
 msgid "Multimedia"
 msgstr ""
 
-#: ../../using.rst:96
+#: ../../using.rst:95
 msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
 msgstr ""
 
-#: ../../using.rst:100
+#: ../../using.rst:99
 msgid "If you install your web browser using AppCafe®, you should be able to play most media formats, including YouTube videos, Internet radio, and many trailer and movie sites."
 msgstr ""
 
-#: ../../using.rst:103
-msgid "If people are blue in YouTube videos, this is due to a known issue in flash which Adobe hasn't fixed for open source players. To resolve this issue, right-click an area in the video, select \"Settings\", then uncheck the box \"Enable hardware acceleration\". Alternately, use the Minitube PBI to watch YouTube."
+#: ../../using.rst:102
+msgid "If people are blue in YouTube videos, this is due to a known issue in flash which Adobe hasn't fixed for open source players. To resolve this issue, right-click an area in the video, select \"Settings\", then uncheck the box \"Enable hardware acceleration\". Alternately, install `Minitube <http://flavio.tordini.org/minitube>`_ using :ref:`AppCafe®` and use it to watch YouTube."
 msgstr ""
 
 #: ../../using.rst:106
@@ -161,11 +161,11 @@ msgid "Kodi"
 msgstr ""
 
 #: ../../using.rst:135
-msgid "`Kodi, formerly known as XBMC, <https://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats. It can play CDs and DVDs from a disk or image file and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
+msgid "`Kodi, formerly known as XBMC, <https://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats, CDs and DVDs from a disk or image file, and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
 msgstr ""
 
 #: ../../using.rst:139
-msgid "To install Kodi, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
+msgid "During the installation of PC-BSD®, the installer provided an option to install Kodi. If you wish to install Kodi afterwards, use AppCafe®. Click \"App Search\" and search for \"pcbsd-meta-kodi\". Once installed, an entry for \"Media Center\" should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start Kodi by typing :command:`kodi` from a command prompt."
 msgstr ""
 
 #: ../../using.rst:143
@@ -181,7 +181,7 @@ msgid "`Plex Home Theater <https://plex.tv/>`_ is a centralized media playback s
 msgstr ""
 
 #: ../../using.rst:155
-msgid "To install PlexHome Theater, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
+msgid "During the installation of PC-BSD®, the installer will have provided an option to install PlexHome Theater. If you wish to install it afterwards, use AppCafe®. Click the box \"Search all available PBI and packages\" and search for \"plexhometheater\". Once installed, an entry should be added to the \"Multimedia\" section of the application menu of your desktop. You can also start this application by typing :command:`plexhometheater` from a command prompt."
 msgstr ""
 
 #: ../../using.rst:159
@@ -197,7 +197,7 @@ msgid "Files and File Sharing"
 msgstr ""
 
 #: ../../using.rst:171
-msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`  to install the PBI. Once a file manager is installed, type its name if you wish to run it from another desktop."
+msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`. Once a file manager is installed, type its name if you wish to run it from another desktop."
 msgstr ""
 
 #: ../../using.rst:178
@@ -209,7 +209,7 @@ msgid "File Manager"
 msgstr ""
 
 #: ../../using.rst:181
-msgid "Desktop/PBI"
+msgid "Desktop/AppCafe"
 msgstr ""
 
 #: ../../using.rst:181
@@ -239,7 +239,7 @@ msgstr ""
 #: ../../using.rst:189
 #: ../../using.rst:197
 #: ../../using.rst:283
-msgid "PBI"
+msgid "AppCafe"
 msgstr ""
 
 #: ../../using.rst:185
@@ -274,7 +274,7 @@ msgstr ""
 
 #: ../../using.rst:191
 #: ../../using.rst:286
-msgid "GNOME, PBI"
+msgid "GNOME, AppCafe"
 msgstr ""
 
 #: ../../using.rst:191
@@ -286,7 +286,7 @@ msgid "pcmanfm"
 msgstr ""
 
 #: ../../using.rst:193
-msgid "LXDE, PBI"
+msgid "LXDE, AppCafe"
 msgstr ""
 
 #: ../../using.rst:193
@@ -300,7 +300,7 @@ msgstr ""
 
 #: ../../using.rst:195
 #: ../../using.rst:288
-msgid "XFCE, PBI"
+msgid "XFCE, AppCafe"
 msgstr ""
 
 #: ../../using.rst:195
@@ -556,7 +556,7 @@ msgid "PC-BSD® provides built-in support for accessing Windows shares, meaning 
 msgstr ""
 
 #: ../../using.rst:269
-msgid "Table 9.4c summarizes the available utilities (type a utility's name to launch it in any desktop), which desktop it installs with and whether or not a separate PBI is available, and a short description of how to access the available shares using that utility."
+msgid "Table 9.4c summarizes the available utilities (type a utility's name to launch it in any desktop), which desktop it installs with and whether or not it can be installed separately using :ref:`AppCafe®`, and a short description of how to access the available shares using that utility."
 msgstr ""
 
 #: ../../using.rst:272
@@ -568,7 +568,7 @@ msgid "**Utility**"
 msgstr ""
 
 #: ../../using.rst:275
-msgid "**Desktop/PBI**"
+msgid "**Desktop/AppCafe**"
 msgstr ""
 
 #: ../../using.rst:275
@@ -604,11 +604,11 @@ msgid "Windows Emulation"
 msgstr ""
 
 #: ../../using.rst:297
-msgid "`Wine <https://wiki.winehq.org/Main_Page>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
+msgid "`Wine <https://www.winehq.org/>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
 msgstr ""
 
 #: ../../using.rst:300
-msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <http://wiki.winehq.org/>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
+msgid "Wine is not guaranteed to work with every Windows application. If you are unsure if the application that you require is supported, search for it in the \"Browse Apps\" section of the `Wine application database <https://appdb.winehq.org/>`_. The  `Wine wiki <https://wiki.winehq.org/Main_Page>`_ contains many resources to get you started and to refer to if you encounter problems with your Windows application."
 msgstr ""
 
 #: ../../using.rst:304
@@ -1016,7 +1016,7 @@ msgid "**sudo is installed:** and configured to allow users in the *wheel* group
 msgstr ""
 
 #: ../../using.rst:760
-msgid ":wikipedia:`AES instruction set` (AESNI) support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
+msgid "`:wikipedia:`AES instruction set` (AESNI) support is loaded by default for the Intel Core i5/i7 processors that support this encryption set. This support speeds up AES encryption and decryption."
 msgstr ""
 
 #: ../../using.rst:763

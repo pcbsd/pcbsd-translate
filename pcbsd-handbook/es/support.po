@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 12:13-0700\n"
+"POT-Creation-Date: 2016-04-13 12:22-0700\n"
 "PO-Revision-Date: 2016-01-20 15:40+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -294,15 +294,15 @@ msgstr ""
 "traducida, haga lo siguiente desde la línea de comandos. Estas instrucciones "
 "son para un sistema PC-BSD®:"
 
-#: ../../support.rst:181
+#: ../../support.rst:182
 msgid "This will make an HTML version of the Guide for each of the available translations. In this example, translations are available for English (in :file:`html`), Danish, German, Spanish, French, Indonesian, Brazilian Portuguese, Turkish, and UK English. To update the HTML at a later time::"
 msgstr ""
 
-#: ../../support.rst:194
+#: ../../support.rst:195
 msgid "Website Translation"
 msgstr "Traducción del Sitio Web"
 
-#: ../../support.rst:196
+#: ../../support.rst:197
 msgid "If you are interested in translating the PC-BSD® website, send an email to the `translations mailing list <http://lists.pcbsd.org/mailman/listinfo/translations>`_. Someone will introduce you to the webmaster who will get you started on website translation."
 msgstr ""
 "Si está interesado en traducir el sitio web de PC-BSD®, mande un correo a la "
@@ -311,15 +311,15 @@ msgstr ""
 "presentará al webmaster quien lo ayudará a comenzar con la traducción del "
 "sitio web."
 
-#: ../../support.rst:200
+#: ../../support.rst:201
 msgid "Currently, the the website is being translated to several languages, including: Dutch, French, German, Polish, Spanish, Swedish, and Turkish."
 msgstr ""
 
-#: ../../support.rst:206
+#: ../../support.rst:207
 msgid "Become a Developer"
 msgstr "Conviértase en Desarrollador"
 
-#: ../../support.rst:208
+#: ../../support.rst:209
 msgid "If you like programming, and especially coding on FreeBSD, we would love to see you join the PC-BSD® team as a PC-BSD® committer. Developers who want to help improve the PC-BSD® codebase are always welcome! If you would like to participate in core development, subscribe to the `developers mailing list <http://lists.pcbsd.org/mailman/listinfo/dev>`_. Once you have signed up, feel free to browse the active tickets in the PC-BSD® `bug tracker <https://bugs.pcbsd.org/projects/pcbsd/>`_. If you see something that you want to work on, or have a proposal for a project you wish to add to PC-BSD®, please let us know via the developers list and we will be happy to help get you started."
 msgstr ""
 "Si le gusta programar, y especialmente desarrollar en FreeBSD, nos gustaría "
@@ -334,7 +334,7 @@ msgstr ""
 "añadir a PC-BSD®, por favor háganoslo saber por medio de la lista de "
 "desarrolladores y estaremos felices de ayudarle a comenzar."
 
-#: ../../support.rst:214
+#: ../../support.rst:215
 msgid "Most of the PC-BSD® specific GUI tools are developed in C++ using the Qt Libraries, and other non-GUI development is done using standard Bourne shell scripts. There may be cases where other languages or libraries are needed, but those will be evaluated on a case-by-case basis, so feel free to let us know your proposals on the developers mailing list."
 msgstr ""
 "La mayoría de las utilerías GUI específicas de PC-BSD® están desarrolladas "
@@ -344,24 +344,24 @@ msgstr ""
 "caso a caso, así que sientase libre de dejarnos saber sus propuestas en la "
 "lista de correos de desarrolladores."
 
-#: ../../support.rst:222
+#: ../../support.rst:223
 msgid "Getting the Source Code"
 msgstr "Obteniendo el Código Fuente"
 
-#: ../../support.rst:224
+#: ../../support.rst:225
 msgid "The PC-BSD® source code is available from github and :command:`git` needs to be installed in order to download the source code. When using PC-BSD®, :command:`git` is included in the base install."
 msgstr ""
 "El código fuente de PC-BSD® está disponible desde github y :command:`git` "
 "necesita ser instalado para poder descargar el código fuente. Cuando use PC-"
 "BSD®, :command:`git` ya viene incluido en la instalación básica."
 
-#: ../../support.rst:227
+#: ../../support.rst:228
 msgid "To download the source code, :command:`cd` to the directory to store the source and type::"
 msgstr ""
 "Para descargar el código fuente, haga :command:`cd` al directorio donde "
 "almacenará el código fuente y escriba:"
 
-#: ../../support.rst:231
+#: ../../support.rst:232
 msgid "This will create a directory named :file:`pcbsd/` which contains the local copy of the repository. To keep the local copy in sync with the official repository, run :command:`git pull` within the :file:`pcbsd` directory."
 msgstr ""
 "Esto creará un directorio llamado :file:`pcbsd/` que contendrá la copia "
@@ -369,7 +369,7 @@ msgstr ""
 "repositorio oficial, ejecute :command:`git pull` dentro del directorio "
 ":file:`pcbsd`."
 
-#: ../../support.rst:234
+#: ../../support.rst:235
 msgid "PC-BSD® graphical applications use Qt version 5 and their source is located in :file:`pcbsd/src-qt5/`. In order to compile the applications in this directory, install the \"PC-BSD Build Toolchain\" PBI using :ref:`AppCafe®`. To instead install this PBI from the command line, type :command:`pkg install pcbsd-toolchain`."
 msgstr ""
 "Las aplicaciones gráficas de PC-BSD® usan la versión 5 de Qt y sus fuentes "
@@ -378,31 +378,31 @@ msgstr ""
 ":ref:`AppCafe®`. Para instalar este PBI desde la línea de comandos, ingrese "
 ":command:`pkg install pcbsd-toolchain`."
 
-#: ../../support.rst:237
+#: ../../support.rst:238
 msgid "Most of the PC-BSD® source code is divided into two sub-categories:"
 msgstr ""
 "La mayoría del código fuente de PC-BSD® está dividido en dos sub categorías:"
 
-#: ../../support.rst:239
+#: ../../support.rst:240
 msgid ":file:`src-sh/` contains shell and C programs which do not include GUIs. These are the command line utilities used in TrueOS® and PC-BSD®."
 msgstr ""
 ":file:`src-sh/` contiene programas de shell y C que no incluyen GUIs. Estas "
 "son las utilerías de línea de comandos usadas en TrueOS® y PC-BSD®."
 
-#: ../../support.rst:241
+#: ../../support.rst:242
 msgid ":file:`src-qt5/` contains the Qt5-based GUIs seen in PC-BSD®."
 msgstr ""
 ":file:`src-qt5/` contiene las GUIs basadas en Qt5 contenidas en PC-BSD®."
 
-#: ../../support.rst:243
+#: ../../support.rst:244
 msgid "To compile the command line utilities::"
 msgstr "Para compilar las utilerías de línea de comandos:"
 
-#: ../../support.rst:249
+#: ../../support.rst:250
 msgid "To compile the graphical utilities::"
 msgstr "Para compilar las utilerías gráficas:"
 
-#: ../../support.rst:257
+#: ../../support.rst:258
 msgid "Several Qt IDEs are available in :ref:`AppCafe®`. The `QtCreator <http://wiki.qt.io/Category:Tools::QtCreator>`_ PBI is a full-featured IDE designed to help new Qt users get up and running faster while boosting the productivity of experienced Qt developers. `Qt Designer <http://doc.qt.io/qt-4.8/designer-manual.html>`_ is lighter weight as it is only a :file:`.ui` file editor and does not provide any other IDE functionality. To install this package, check the \"Search all available PBI and packages\" in the \"App Search\" tab of AppCafe® and search for \"qt5-designer\". Alternately, install it using :command:`pkg install qt5-designer`."
 msgstr ""
 "Algunos IDEs de Qt están disponibles en :ref:`AppCafe®`. El PBI `QtCreator "
@@ -416,7 +416,7 @@ msgstr ""
 "de Aplicaciones\" de AppCafe® y busque \"qt5-designer\". Alternativamente, "
 "instálelo usando :command:`pkg install qt5-designer`."
 
-#: ../../support.rst:263
+#: ../../support.rst:264
 msgid "If you plan to submit changes so that they can be included in PC-BSD®, fork the repository using the instructions in `fork a repo <https://help.github.com/articles/fork-a-repo>`_. Make your changes to the fork, then submit them by issuing a `git pull request <https://help.github.com/articles/using-pull-requests>`_. Once your changes have been reviewed, they will be committed or sent back with suggestions."
 msgstr ""
 "Si planea subir cambios para que puedan ser incluidos en PC-BSD®, bifurque "
@@ -427,11 +427,11 @@ msgstr ""
 "cambios hayan sido revisados, serán introducidos o regresados con "
 "sugerencias."
 
-#: ../../support.rst:272
+#: ../../support.rst:273
 msgid "Design Guidelines"
 msgstr "Lineamientos de Diseño"
 
-#: ../../support.rst:274
+#: ../../support.rst:275
 msgid "PC-BSD® is a community driven project that relies on the support of developers in the community to help in the design and implementation of new utilities and tools for PC-BSD®. The Project aims to present a unified design so that programs feel familiar to users. As an example, while programs could have \"File\", \"Main\", or \"System\" as their first entry in a menu bar, \"File\" is used as the accepted norm for the first category on the menu bar."
 msgstr ""
 "PC-BSD® es un proyecto comunitario que depende del soporte de los "
@@ -443,13 +443,13 @@ msgstr ""
 "Archivo\" es usado como la norma aceptada para la primera categoría en la "
 "barra de menú."
 
-#: ../../support.rst:278
+#: ../../support.rst:279
 msgid "This section describes a small list of guidelines for menu and program design in PC-BSD®."
 msgstr ""
 "Esta sección describe una pequeña lista de lineamientos para el diseño de "
 "menús y programas en PC-BSD®."
 
-#: ../../support.rst:280
+#: ../../support.rst:281
 msgid "Any graphical program that is a full-featured utility, such as :ref:`Life Preserver`, should have a \"File\" menu. However, file menus are not necessary for small widget programs or dialogue boxes. When making a file menu, a good rule of thumb is keep it simple. Most PC-BSD® utilities do not need more than two or three items on the file menu."
 msgstr ""
 "Cualquier programa gráfico que es una utilería llena de caracterísitcas, "
@@ -459,14 +459,14 @@ msgstr ""
 "mantenerlo simple. La mayoría de utilerías de PC-BSD® no necesitan más de "
 "dos o tres elementos en el menú archivo."
 
-#: ../../support.rst:284
+#: ../../support.rst:285
 msgid "\"Configure\" is our adopted standard for the category that contains settings or configuration-related settings. If additional categories are needed, check to see what other PC-BSD® utilities are using."
 msgstr ""
 "\"Configurar\" es nuestro estándar adoptado para la categoría que contiene "
 "las configuraciones o elementos relacionados. Si se necesitan categorías "
 "adicionales, revise qué otras están siendo usadas por utilerías de PC-BSD®."
 
-#: ../../support.rst:287
+#: ../../support.rst:288
 msgid "File menu icons are taken from the KDE Oxygen theme located in :file:`/usr/local/share/icons/oxygen`. Use these file menu icons so we do not have a bunch of different icons used for the same function. Table 11.3a lists the commonly used icons and their default file names."
 msgstr ""
 "Los iconos del menú archivo son tomados del tema Oxygen de KDE localizado en "
@@ -475,75 +475,75 @@ msgstr ""
 "Tabla 11.3a lista los iconos regularmente usados y sus nombres de archivo "
 "predeterminados."
 
-#: ../../support.rst:291
+#: ../../support.rst:292
 msgid "**Table 11.3a: Commonly Used File Menu Icons**"
 msgstr "**Tabla 11.3a: Iconos de Menú Archivo Regularmente Usados**"
 
-#: ../../support.rst:294
+#: ../../support.rst:295
 msgid "Function"
 msgstr "Función"
 
-#: ../../support.rst:294
+#: ../../support.rst:295
 msgid "File Menu Icon"
 msgstr "Icono de Menú Archivo"
 
-#: ../../support.rst:294
+#: ../../support.rst:295
 msgid "File Name"
 msgstr "Nombre de Archivo"
 
-#: ../../support.rst:296
-#: ../../support.rst:329
-#: ../../support.rst:339
+#: ../../support.rst:297
+#: ../../support.rst:330
+#: ../../support.rst:340
 msgid "Quit"
 msgstr "Salir"
 
-#: ../../support.rst:296
+#: ../../support.rst:297
 msgid "row 1, cell 2"
 msgstr "línea 1, celda 2"
 
-#: ../../support.rst:296
+#: ../../support.rst:297
 msgid "window-close.png"
 msgstr "window-close.png"
 
-#: ../../support.rst:298
-#: ../../support.rst:341
+#: ../../support.rst:299
+#: ../../support.rst:342
 msgid "Settings"
 msgstr "Opciones"
 
-#: ../../support.rst:298
+#: ../../support.rst:299
 msgid "row 2, cell 2"
 msgstr "línea 2, celda 2"
 
-#: ../../support.rst:298
+#: ../../support.rst:299
 msgid "configure.png"
 msgstr "configure.png"
 
-#: ../../support.rst:302
+#: ../../support.rst:303
 msgid "PC-BSD® utilities use these buttons as follows:"
 msgstr "Las utilerías de PC-BSD® usan estos botones como se muestra:"
 
-#: ../../support.rst:304
+#: ../../support.rst:305
 msgid "**Apply:** applies settings and leaves the window open."
 msgstr "**Aplicar:** aplica las configuraciones y deja la ventana abierta."
 
-#: ../../support.rst:306
+#: ../../support.rst:307
 msgid "**Close:** closes program without applying settings."
 msgstr "**Cerrar:** cierra un programa sin aplicar las configuraciones."
 
-#: ../../support.rst:308
+#: ../../support.rst:309
 msgid "**OK:** closes dialogue window and saves settings."
 msgstr "**OK:** cierra la ventana de diálogo y guarda las configuraciones."
 
-#: ../../support.rst:310
+#: ../../support.rst:311
 msgid "**Cancel:** closes dialog window without applying settings."
 msgstr ""
 "**Cancelar:** cierra la ventana de dialogo sin aplicar las configuraciones."
 
-#: ../../support.rst:312
+#: ../../support.rst:313
 msgid "**Save:** saves settings and closes window."
 msgstr "**Guardar:** guarda las configuraciones y cierra la ventana."
 
-#: ../../support.rst:314
+#: ../../support.rst:315
 msgid "Fully functional programs like :ref:`Life Preserver` do not use close buttons on the front of the application. Basically, whenever there is a \"File\" menu, that and an \"x\" in the top right corner of the application are used instead. Dialogues and widget programs are exceptions to this rule. A good example of a widget program would be :ref:`Update Manager`."
 msgstr ""
 "Los programas completamente funcionales como :ref:`Life Preserver` no usan "
@@ -553,7 +553,7 @@ msgstr ""
 "regla. Un buen ejemplo de un programa widget sería el :ref:`Administrador de "
 "Actualizaciones`."
 
-#: ../../support.rst:318
+#: ../../support.rst:319
 msgid "Many users benefit from keyboard shortcuts and we aim to make them available in every PC-BSD® utility. Qt makes it easy to assign keyboard shortcuts. For instance, to configure keyboard shortcuts that browse the \"File\" menu, put *&File* in the text slot for the menu entry when making the application. Whichever letter has the *&* symbol in front of it will become the hot key. You can also make a shortcut key by clicking the menu or submenu entry and assigning a shortcut key. Be careful not to duplicate hot keys or shortcut keys. Every key in a menu and submenu should have a key assigned for ease of use and accessibility. Tables 11.3b and 11.3c summarize the commonly used shortcut and hot keys."
 msgstr ""
 "Muchos usuarios se benefician de los atajos del teclado y nosotros nos "
@@ -568,88 +568,88 @@ msgstr ""
 "asignada para facilidad de uso y accesabilidad. Las tablas 11.3b y 11.3c "
 "resumen los atajos del teclado comúnmente usados."
 
-#: ../../support.rst:324
+#: ../../support.rst:325
 msgid "**Table 11.3b: Shortcut Keys**"
 msgstr "**Tabla 11.3b: Atajos de Teclado**"
 
-#: ../../support.rst:327
+#: ../../support.rst:328
 msgid "Shortcut Key"
 msgstr "Tecla de Acceso Directo"
 
-#: ../../support.rst:327
-#: ../../support.rst:337
+#: ../../support.rst:328
+#: ../../support.rst:338
 msgid "Action"
 msgstr "Acción"
 
-#: ../../support.rst:329
+#: ../../support.rst:330
 msgid "CTRL + Q"
 msgstr "CTRL + Q"
 
-#: ../../support.rst:331
+#: ../../support.rst:332
 msgid "F1"
 msgstr "F1"
 
-#: ../../support.rst:331
+#: ../../support.rst:332
 msgid "Help"
 msgstr "Ayuda"
 
-#: ../../support.rst:334
+#: ../../support.rst:335
 msgid "**Table 11.3c: Hot Keys**"
 msgstr "**Tabla 11.3c: Teclas de Atajo**"
 
-#: ../../support.rst:337
+#: ../../support.rst:338
 msgid "Hot Key"
 msgstr "Tecla de Atajo"
 
-#: ../../support.rst:339
+#: ../../support.rst:340
 msgid "Alt + Q"
 msgstr "Alt + Q"
 
-#: ../../support.rst:341
+#: ../../support.rst:342
 msgid "Alt + S"
 msgstr "Alt + S"
 
-#: ../../support.rst:343
+#: ../../support.rst:344
 msgid "Alt + I"
 msgstr "Alt + I"
 
-#: ../../support.rst:343
+#: ../../support.rst:344
 msgid "Import"
 msgstr "Importar"
 
-#: ../../support.rst:345
+#: ../../support.rst:346
 msgid "Alt + E"
 msgstr "Alt + E"
 
-#: ../../support.rst:345
+#: ../../support.rst:346
 msgid "Export"
 msgstr "Exportar"
 
-#: ../../support.rst:347
+#: ../../support.rst:348
 msgid "ALT + F"
 msgstr "ALT + F"
 
-#: ../../support.rst:347
+#: ../../support.rst:348
 msgid "File Menu"
 msgstr "Menú Archivo"
 
-#: ../../support.rst:349
+#: ../../support.rst:350
 msgid "ALT + C"
 msgstr "ALT + C"
 
-#: ../../support.rst:349
+#: ../../support.rst:350
 msgid "Configure Menu"
 msgstr "Menú Configuración"
 
-#: ../../support.rst:351
+#: ../../support.rst:352
 msgid "ALT + H"
 msgstr "ALT + H"
 
-#: ../../support.rst:351
+#: ../../support.rst:352
 msgid "Help Menu"
 msgstr "Menú Ayuda"
 
-#: ../../support.rst:354
+#: ../../support.rst:355
 msgid "When saving an application's settings, the QSettings class should be used if possible. There are two different \"organizations\", depending on whether the application is running with *root* permissions or user permissions. Use \"PCBSD\" for the organization for applications that run with user permissions and \"PCBSD-root\" for applications that are started with root permissions via :command:`sudo`. Proper use prevents the directory where settings files are saved from being locked down by *root* applications, allowing user applications to save and load their settings. Examples 11.3a and 11.3b demonstrate how to use the QSettings class for each type of permission."
 msgstr ""
 "Cuando se guardan las configuraciones de una aplicación, la clase QSettings "
@@ -664,37 +664,37 @@ msgstr ""
 "configuraciones. Los ejemplos 11.3a y 11.3b demuestran como usar la clase "
 "QSettings para cada tipo de permiso."
 
-#: ../../support.rst:360
+#: ../../support.rst:361
 msgid "**Example 11.3a: User Permission Settings**::"
 msgstr "**Ejemplo 11.3a: Configuraciones de Permisos de Usuario**:"
 
-#: ../../support.rst:365
+#: ../../support.rst:366
 msgid "**Example 11.3b: Root Permission Settings**::"
 msgstr "**Ejemplo 11.3b: Configuraciones de Permisos de Superusuario**:"
 
-#: ../../support.rst:371
+#: ../../support.rst:372
 msgid "Developers will also find the following resources helpful:"
 msgstr "Los desarrolladores también encontrarán útiles los siguientes recursos:"
 
-#: ../../support.rst:373
+#: ../../support.rst:374
 msgid "`Commits Mailing List <http://lists.pcbsd.org/mailman/listinfo/commits>`_"
 msgstr ""
 "`Lista de correos de Commits "
 "<http://lists.pcbsd.org/mailman/listinfo/commits>`_"
 
-#: ../../support.rst:375
+#: ../../support.rst:376
 msgid "`Qt 5.4 Documentation <http://doc.qt.io/qt-5/index.html>`_"
 msgstr "`Documentación de Qt 5.4 <http://doc.qt.io/qt-5/index.html>`_"
 
-#: ../../support.rst:377
+#: ../../support.rst:378
 msgid "`C++ Tutorials <http://www.cplusplus.com/doc/tutorial/>`_"
 msgstr "`Tutoriales de C++ <http://www.cplusplus.com/doc/tutorial/>`_"
 
-#: ../../support.rst:383
+#: ../../support.rst:384
 msgid "Make Minor Modifications to a PBI Module"
 msgstr "Haciendo Modificaciones Menores a un Módulo PBI"
 
-#: ../../support.rst:385
+#: ../../support.rst:386
 msgid "If you have a GitHub account and are logged in, you can contribute minor PBI changes to the `pbi-modules repository <https://github.com/pcbsd/pcbsd/tree/master/pbi-modules>`_ using a web browser. If you do not have a GitHub account, `create one <https://github.com/>`_ using a valid email address as you will need to confirm your email address."
 msgstr ""
 "Si tiene una cuenta de GitHub y está en su sesión, puede hacer cambios "
@@ -704,127 +704,127 @@ msgstr ""
 "<https://github.com/>`_ usando un correo válido ya que tendrá que confirmar "
 "su dirección de correo."
 
-#: ../../support.rst:389
-msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 11.4a."
+#: ../../support.rst:390
+msgid "For example, to add a screenshot for an application, upload the screenshot file to a publicly accessible site, then add the URL to the screenshot in between the quotes of the *PBI_SCREENSHOTS=\"\"* line in the :file:`pbi.conf` file for that module. Or, to add a similar application, put the package category and package name in between the *PBI_PLUGINS=\"\"* line in the :file:`pbi.conf` file for that module. As an example, refer to the `pbi.conf for the www/firefox PBI module <https://github.com/pcbsd/pcbsd/blob/master/pbi-modules/www/firefox/pbi.conf>`_. More information about the available :file:`pbi.conf` variables can be found in Table 11.1a."
 msgstr ""
 
-#: ../../support.rst:395
-msgid "**Table 11.4a: Commonly Used pbi.conf Variables**"
+#: ../../support.rst:396
+msgid "**Table 11.1a: Commonly Used pbi.conf Variables**"
 msgstr ""
 
-#: ../../support.rst:398
+#: ../../support.rst:399
 msgid "Variable"
 msgstr ""
 
-#: ../../support.rst:398
+#: ../../support.rst:399
 msgid "Description"
 msgstr ""
 
-#: ../../support.rst:400
+#: ../../support.rst:401
 msgid "PBI_ORIGIN="
 msgstr ""
 
-#: ../../support.rst:400
+#: ../../support.rst:401
 msgid "mandatory; the \"category/portname\" of the FreeBSD package"
 msgstr ""
 
-#: ../../support.rst:402
+#: ../../support.rst:403
 msgid "PBI_PROGNAME="
 msgstr ""
 
-#: ../../support.rst:402
+#: ../../support.rst:403
 msgid "mandatory; name of the application"
 msgstr ""
 
-#: ../../support.rst:404
+#: ../../support.rst:405
 msgid "PBI_PROGWEB="
 msgstr ""
 
-#: ../../support.rst:404
+#: ../../support.rst:405
 msgid "mandatory unless does not exist; website for the application"
 msgstr ""
 
-#: ../../support.rst:406
+#: ../../support.rst:407
 msgid "PBI_PROGAUTHOR="
 msgstr ""
 
-#: ../../support.rst:406
+#: ../../support.rst:407
 msgid "mandatory; often found at the website for the application"
 msgstr ""
 
-#: ../../support.rst:408
+#: ../../support.rst:409
 msgid "PBI_LICENSE="
 msgstr ""
 
-#: ../../support.rst:408
+#: ../../support.rst:409
 msgid "the type of open source license used by the application"
 msgstr ""
 
-#: ../../support.rst:410
+#: ../../support.rst:411
 msgid "PBI_TAGS="
 msgstr ""
 
-#: ../../support.rst:410
+#: ../../support.rst:411
 msgid "a comma separated list (no spaces) of search terms associated with the application"
 msgstr ""
 
-#: ../../support.rst:412
+#: ../../support.rst:413
 msgid "PBI_PROGTYPE="
 msgstr ""
 
-#: ../../support.rst:412
+#: ../../support.rst:413
 msgid "mandatory; use \"Graphical\" or \"Text\""
 msgstr ""
 
-#: ../../support.rst:414
+#: ../../support.rst:415
 msgid "PBI_CATEGORY="
 msgstr ""
 
-#: ../../support.rst:414
+#: ../../support.rst:415
 msgid "the category to place the application into; click \"Browse Categories\" within AppCafe to see the list of categories"
 msgstr ""
 
-#: ../../support.rst:416
+#: ../../support.rst:417
 msgid "PBI_OTHERPKGS="
 msgstr ""
 
-#: ../../support.rst:416
+#: ../../support.rst:417
 msgid "a space separated list in the format \"category/portname\" of other applications to bundle into the PBI"
 msgstr ""
 
-#: ../../support.rst:418
+#: ../../support.rst:419
 msgid "PBI_PLUGINS="
 msgstr ""
 
-#: ../../support.rst:418
+#: ../../support.rst:419
 msgid "a space separated list in the format \"category/portname\" of similar packages"
 msgstr ""
 
-#: ../../support.rst:420
+#: ../../support.rst:421
 msgid "PBI_SCREENSHOTS="
 msgstr ""
 
-#: ../../support.rst:420
+#: ../../support.rst:421
 msgid "a space separated list of URLs to screenshots in :file:`.png` or :file:`.jpg` format"
 msgstr ""
 
-#: ../../support.rst:422
+#: ../../support.rst:423
 msgid "PBI_RELATED="
 msgstr ""
 
-#: ../../support.rst:422
+#: ../../support.rst:423
 msgid "a space separated list in the format \"category/portname\" of similar PBIs"
 msgstr ""
 
-#: ../../support.rst:424
+#: ../../support.rst:425
 msgid "export"
 msgstr ""
 
-#: ../../support.rst:424
+#: ../../support.rst:425
 msgid "mandatory; followed by a list of all of the variables used in the file"
 msgstr ""
 
-#: ../../support.rst:427
+#: ../../support.rst:428
 msgid "To make the edit, click on the :file:`pbi.conf` file for the module, click the \"Edit\" button, make the change, then click the \"Commit changes\" button. This will issue a \"git pull\" request which will be reviewed by a developer who will either approve it or contact you if more information about the edit is needed. Once the request is approved, you will receive an email about the approval and the change will appear in :ref:`AppCafe®` when the next package set becomes available. How long that takes depends upon whether the user's system is set to use the PRODUCTION or EDGE package set."
 msgstr ""
 "Para hacer la edición, presione en el archivo :file:`pbi.conf` para el "
@@ -837,39 +837,39 @@ msgstr ""
 "tarde dependerá de cómo está configurado el sistema del usuario para usar el "
 "set de paquetes PRODUCCION o EDGE."
 
-#: ../../support.rst:436
+#: ../../support.rst:437
 msgid "Purchase PC-BSD® Swag"
 msgstr "Comprando Artículos de PC-BSD®"
 
-#: ../../support.rst:438
+#: ../../support.rst:439
 msgid "While PC-BSD® is free, some users may wish to purchase media or other items to show their support for the PC-BSD® Project. PC-BSD® items are available from the following websites:"
 msgstr ""
 "Mientras que PC-BSD® es gratuito, algunos usuarios podrían querer comprar "
 "discos u otros artículos para mostrar su apoyo al Proyecto PC-BSD®. Los "
 "artículos de PC-BSD® está disponibles desde los siguientes sitios web:"
 
-#: ../../support.rst:441
+#: ../../support.rst:442
 msgid "`FreeBSD Mall <https://www.freebsdmall.com/cgi-bin/fm/scan/fi=prod_bsd/tf=list_order/sf=sku/sf=title/sf=category/se=pc-bsd?id=B3TkJm7G&mv_pc=5>`_: sells PC-BSD® DVDs and subscriptions, stickers, and apparel."
 msgstr ""
 
-#: ../../support.rst:444
+#: ../../support.rst:445
 msgid "Amazon: sells The Definitive Guide to PC-BSD® (hard copy and Kindle formats) as well as the Kindle versions of the PC-BSD® Handbook. Items available for purchase in your country may vary."
 msgstr ""
 "Amazon: vende la Guía Definitiva de PC-BSD® (copia física y formatos Kindle) "
 "así como las versiones Kindle del Manual de PC-BSD®. Los artículos "
 "disponibles para compra en su país pueden cambiar."
 
-#: ../../support.rst:447
+#: ../../support.rst:448
 msgid "`The PC-BSD® Corporate Storefront <http://pcbsd.qbstores.com/>`_: sells high-quality apparel and accessories."
 msgstr ""
 "`The PC-BSD® Corporate Storefront <http://pcbsd.qbstores.com/>`_: vende ropa "
 "y accesorios de alta calidad."
 
-#: ../../support.rst:453
+#: ../../support.rst:454
 msgid "Become an Advocate"
 msgstr "Conviértase en Partidario"
 
-#: ../../support.rst:455
+#: ../../support.rst:456
 msgid "So you love PC-BSD®? Why not tell your family, friends, fellow students and colleagues about it? You will not be the only one that likes a virus-free, feature-rich, no-cost operating system. Here are some suggestions to get you started:"
 msgstr ""
 "Así que adora PC-BSD®? Por qué no les habla a su familia, amigos, compañeros "
@@ -877,21 +877,21 @@ msgstr ""
 "libre de virus, rico en características y sin costo. Aquí hay algunas "
 "sugerencias para comenzar:"
 
-#: ../../support.rst:458
+#: ../../support.rst:459
 msgid "Burn a couple of DVDs and pass them out. If your school or user group has an upcoming event where you can promote PC-BSD®, you can request additional DVDs from sales@pcbsd.com."
 msgstr ""
 "Grabe un par de DVDs y compártalos. Si su escuela o grupo de usuarios tiene "
 "un evento próximo donde pueda promover PC-BSD®, puede pedir DVDs adicionales "
 "a sales@pcbsd.com."
 
-#: ../../support.rst:461
+#: ../../support.rst:462
 msgid "Consider giving a presentation about PC-BSD® at a local community event or conference. Let us know about it and we will help you spread the word."
 msgstr ""
 "Considere dar una presentación sobre PC-BSD® en un evento local o "
 "conferencia de su comunidad. Déjenos saber sobre ella y le ayudaremos a "
 "correr la voz."
 
-#: ../../support.rst:463
+#: ../../support.rst:464
 msgid "Write a personal blog detailing your journey from your first PC-BSD® install experience to your most recent accomplishment. The blog could also be used to teach or explain how to perform tasks on PC-BSD®. A regional language blog may help build the community in your area and to find others with similar interests."
 msgstr ""
 "Escriba un blog personal detallando desde su experiencia con su primera "

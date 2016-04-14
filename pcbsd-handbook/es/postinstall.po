@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-13 12:13-0700\n"
+"POT-Creation-Date: 2016-04-13 12:22-0700\n"
 "PO-Revision-Date: 2016-01-04 22:31+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,77 +42,73 @@ msgid "This boot menu is used to display the entry for PC-BSD®, any boot enviro
 msgstr ""
 
 #: ../../postinstall.rst:25
-msgid "To pause this menu, press any key except for :kbd:`Enter`. If you have performed any updates and wish to access a previous boot environment, use the down arrow to select \"Boot Environment Menu\" and press :kbd:`Enter` to see the list of available boot environments."
+msgid "By default, this menu will display for a few seconds before continuing to boot into PC-BSD®. To pause this screen so that you can review its items, press any key (other than :kbd:`Enter`). To boot into a different operating system or boot environment, use your up and down arrows to select the desired entry then press :kbd:`Enter`."
 msgstr ""
 
 #: ../../postinstall.rst:28
-msgid "If you pause the graphical menu or change its default selection, the PC-BSD® boot options screen shown in :numref:`Figure %s:  PC-BSD® Graphical Boot Menu Options <boot2a>` will load once you press :kbd:`Enter`."
+msgid "If you press :kbd:`Enter` when the \"PC-BSD\" entry is highlighted, the PC-BSD® boot options screen shown in :numref:`Figure %s:  PC-BSD® Graphical Boot Menu Options <boot2>` will be displayed."
 msgstr ""
 
-#: ../../postinstall.rst:35
+#: ../../postinstall.rst:34
 msgid "The following boot options are available:"
 msgstr "Las siguientes opciones de arranque están disponibles:"
 
-#: ../../postinstall.rst:37
+#: ../../postinstall.rst:36
 msgid "**Normal Bootup:** continues to boot PC-BSD®."
 msgstr "**Normal Bootup:** Continúa cargando PC-BSD®."
 
-#: ../../postinstall.rst:39
+#: ../../postinstall.rst:38
 msgid "**Single User Mode:** advanced users can select this option to fix critical system failures."
 msgstr ""
 "**Single User Mode:** Los usuarios avanzados pueden seleccionar esta opción "
 "para arreglar fallas críticas del sistema."
 
-#: ../../postinstall.rst:41
+#: ../../postinstall.rst:40
 msgid "**Verbose Mode:** select this option if you would like to see more detailed messages during the boot process. This can be useful if you are troubleshooting a piece of hardware."
 msgstr ""
 "**Verbose Mode:** Seleccione esta opción si quiere ver mensajes más "
 "detallados durante el proceso de arranque. Esto puede ser útil si está "
 "resolviendo errores de una pieza de hardware."
 
-#: ../../postinstall.rst:44
+#: ../../postinstall.rst:43
 msgid "**Run the Display Wizard:** if you are unable to access the GUI due to a display setting, enable this option to boot into the display settings wizard."
 msgstr ""
 "**Run the Display Wizard:** Si no puede accesar en la GUI debido a una "
 "configuración de la pantalla, habilite esta opción para arrancar en el "
 "asistente de configuración de la pantalla."
 
-#: ../../postinstall.rst:46
+#: ../../postinstall.rst:45
 msgid "**Run X in vesa mode:** try this option if the screen goes black or the system freezes when booting into PC-BSD®."
 msgstr ""
 "**Run X in vesa mode:** Intente con esta opción si su pantalla se pone en "
 "negro o si el sistema se congela cuando arranca PC-BSD®."
 
-#: ../../postinstall.rst:48
-msgid "**Boot to console (Disable X):** boots the system to a command prompt. This is useful if you want to manually configure and test the X configuration file."
-msgstr ""
-
-#: ../../postinstall.rst:50
+#: ../../postinstall.rst:47
 msgid "Use the arrow keys to select an option then press enter to boot using that option."
 msgstr ""
 "Use las teclas de flecha para seleccionar una opción y presione Intro para "
 "arrancar usando esa opción."
 
-#: ../../postinstall.rst:52
+#: ../../postinstall.rst:49
 msgid "This menu is provided by GRUB. If you are familiar with editing GRUB, you can press :kbd:`e` to access the GRUB editor or :kbd:`c` to access the GRUB command line."
 msgstr ""
 "Este menú es desplegado por GRUB. Si está familiarizado editando GRUB, puede "
 "presionar :kbd:`e` para accesar el editor de GRUB o :kbd:`c` para accesar la "
 "línea de comandos de GRUB."
 
-#: ../../postinstall.rst:55
+#: ../../postinstall.rst:52
 msgid "The first time the boot completes, the post-installer configuration script will attempt to set the optimal display settings. A pop-up menu will ask if you would like to accept these settings. If you click \"Yes\", PC-BSD® will then proceed to the :ref:`Language Screen` so that you can perform the initial configuration of the system."
 msgstr ""
 
-#: ../../postinstall.rst:58
+#: ../../postinstall.rst:55
 msgid "Read through the rest of this section if you have encrypted your disk(s) or if you have problems setting the display settings. If you are dual booting and your other operating system was not automatically added to the graphical boot menu by the installer, refer to :ref:`Dual Booting`."
 msgstr ""
 
-#: ../../postinstall.rst:65
+#: ../../postinstall.rst:63
 msgid "If you Encrypted Your Disks"
 msgstr "Si Encriptó Sus Discos"
 
-#: ../../postinstall.rst:67
+#: ../../postinstall.rst:65
 msgid "If you selected the \"Encrypt disk with GELI\" checkbox during installation, you will need physical access to the PC-BSD® system when it boots. As the system starts to boot, it will display a message similar to the one shown in :numref:`Figure %s:  Input Password to Decrypt Master Key <encrypt1>`."
 msgstr ""
 "Si seleccionó la casilla \"Encriptar disco con GELI\" durante la "
@@ -121,15 +117,15 @@ msgstr ""
 "mostrado en la :numref:`Figura %s: Ingresando la Contraseña para "
 "Desencriptar la Llave Maestra <encrypt1>`."
 
-#: ../../postinstall.rst:74
+#: ../../postinstall.rst:72
 msgid "The boot process will wait for you to successfully input the password that you created in the installation screen shown in :numref:`Figure %s: Configure Encryption <install11a>`. If the correct password is typed in, the system will continue to boot."
 msgstr ""
 
-#: ../../postinstall.rst:81
+#: ../../postinstall.rst:79
 msgid "If Your Display is Not Automatically Detected"
 msgstr "Si Su Pantalla No es Detectada Automáticamente"
 
-#: ../../postinstall.rst:83
+#: ../../postinstall.rst:81
 msgid "If the optimal display settings can not be determined during first boot, if you select \"No\"in the \"Confirm Resolution\" screen when asked to confirm the display settings, or if you select \"Run the Display Wizard\" from the boot menu, the \"Display Settings\" screen shown in :numref:`Figure %s: Display Settings Wizard <display1>` will launch."
 msgstr ""
 "Si las configuraciones de pantalla óptimas no se pueden determinar durante "
@@ -140,14 +136,14 @@ msgstr ""
 ":numref:`Figura %s: Asistente de Configuraciones de Pantalla <display1>` se "
 "lanzará."
 
-#: ../../postinstall.rst:90
+#: ../../postinstall.rst:88
 msgid "The settings in this screen are described in more detail in :ref:`Display`. If you wish to return to this display wizard at a later time, go to :menuselection:`Control Panel --> Display`."
 msgstr ""
 "Las configuraciones en esta pantalla se describen con más detalle en "
 ":ref:`Pantalla`. Si quiere regresar a este asistente de pantalla en el "
 "futuro, vaya a :menuselection:`Panel de Control --> Pantalla`."
 
-#: ../../postinstall.rst:93
+#: ../../postinstall.rst:91
 msgid "If you change any display settings, click the \"Apply\" button for the settings to be tested. If anything goes wrong during testing, you will be taken back to the \"Display Settings\" screen so that you can try another setting. Once you are happy with the tested setting, click the \"Yes\" button to save the setting and to proceed."
 msgstr ""
 "Si cambia cualquier configuración de la pantalla, presione el botón \""
@@ -157,52 +153,52 @@ msgstr ""
 "configuración probada, presione el botón \"Sí\" para guardar la "
 "configuración y proceder."
 
-#: ../../postinstall.rst:101
+#: ../../postinstall.rst:99
 msgid "Language Screen"
 msgstr "Pantalla de Idioma"
 
-#: ../../postinstall.rst:103
+#: ../../postinstall.rst:101
 msgid "The language selection screen is seen in :numref:`Figure %s: Language Selection Screen <config1>`."
 msgstr ""
 "La pantalla de selección de idioma se muestra en la :numref:`Figura %s: "
 "Pantalla de Selección de Idioma <config1>`."
 
-#: ../../postinstall.rst:109
+#: ../../postinstall.rst:107
 msgid "This allows you to select the language you will use to access the installed system."
 msgstr ""
 "Esto le permite seleccionar el idioma que usará para accesar el sistema "
 "instalado."
 
-#: ../../postinstall.rst:111
+#: ../../postinstall.rst:109
 msgid "Once you have made your selection from the drop-down menu, click \"Next\" to go to the next configuration screen."
 msgstr ""
 "Una vez que ha realizado su selección desde el menú desplegable, presione \""
 "Siguiente\" para ir a la siguiente pantalla de configuración."
 
-#: ../../postinstall.rst:117
+#: ../../postinstall.rst:115
 msgid "Time Zone Selection Screen"
 msgstr "Pantalla de Selección de Zona Horaria"
 
-#: ../../postinstall.rst:119
+#: ../../postinstall.rst:117
 msgid "The next configuration screen, shown in :numref:`Figure %s: Select Time Zone <config2a>`, allows you to select your timezone."
 msgstr ""
 "La siguiente pantalla de configuración, mostrada en la :numref:`Figura %s: "
 "Seleccionar Zona Horaria <config2a>`, le permite seleccionar su zona horaria."
 
-#: ../../postinstall.rst:125
+#: ../../postinstall.rst:123
 msgid "Use the drop-down menu to select the city closest to your location. If the system is connected to the Internet, the installer will most likely have the correct timezone already selected."
 msgstr ""
 "Use el menú desplegable para seleccionar la ciudad más cercana a su "
 "ubicación actual. Si el sistema está conectado a Internet, el instalador "
 "tendrá casi siempre seleccionada la zona horaria ya seleccionada."
 
-#: ../../postinstall.rst:128
+#: ../../postinstall.rst:126
 msgid "If the system is dual booting and the other operating system expects the BIOS to use UTC, also check the box \"Set BIOS to UTC time\"."
 msgstr ""
 "Si el sistema es de arranque dual y el otro sistema operativo espera que la "
 "BIOS use UTC, también seleccione la casilla \"Poner BIOS en tiempo UTC\"."
 
-#: ../../postinstall.rst:130
+#: ../../postinstall.rst:128
 msgid "A default system hostname will be created for you. If you wish to change the default, type in the desired hostname in the \"System Hostname\" field. If the computer is a member of a DNS domain, you can also input the \"Domain Name\"."
 msgstr ""
 "Un nombre de equipo predeterminado será creado para usted. Si quiere "
@@ -210,35 +206,35 @@ msgstr ""
 "Equipo del Sistema\". Si la computadora es un miembro de un dominio DNS, "
 "puede también ingresar el \"Nombre de Dominio\"."
 
-#: ../../postinstall.rst:133
+#: ../../postinstall.rst:131
 msgid "When finished, click \"Next\" to proceed to the next screen."
 msgstr ""
 "Cuando termine, presione \"Siguiente\" para proceder con la pantalla "
 "siguiente."
 
-#: ../../postinstall.rst:139
+#: ../../postinstall.rst:137
 msgid "Set Root Password Screen"
 msgstr "Pantalla para Establecer Contraseña de Administrador"
 
-#: ../../postinstall.rst:141
+#: ../../postinstall.rst:139
 msgid "This configuration screen, seen in :numref:`Figure %s: Set Root Password <config3>`, requires you to set the root password."
 msgstr ""
 "Esta pantalla de configuración, mostrada en la :numref:`Figura %s: "
 "Establecer Contraseña de Root <config3>`, requiere que usted establezca la "
 "contraseña de root."
 
-#: ../../postinstall.rst:147
+#: ../../postinstall.rst:145
 msgid "The password must be a minimum of 4 characters and you are required to type it in twice to confirm the password. Click the \"Next\" button when you are finished."
 msgstr ""
 "La contraseña debe ser de al menos 4 caracteres y requiere que usted la "
 "escriba dos veces para confirmarla. Presione el botón \"Siguiente\" cuando "
 "termine."
 
-#: ../../postinstall.rst:154
+#: ../../postinstall.rst:152
 msgid "Create a User Screen"
 msgstr "Pantalla Crear Usuario"
 
-#: ../../postinstall.rst:156
+#: ../../postinstall.rst:154
 msgid "This screen is used to create the primary user account that will be used to login to the system. Set a good value for the password as it is used whenever the system indicates that administrative access is required."
 msgstr ""
 "Esta pantalla se usa para crear la cuenta del usuario primario que será "
@@ -246,38 +242,38 @@ msgstr ""
 "ya que se usará cada que el sistema indique que el acceso de administrador "
 "es requerido."
 
-#: ../../postinstall.rst:159
+#: ../../postinstall.rst:157
 msgid ":numref:`Figure %s: User Creation Screen <config4>` shows the configuration screen used to create the initial user account."
 msgstr ""
 "La :numref:`Figura %s: Pantalla de Creación de Usuarios <config4>` muestra "
 "la pantalla de configuración usada para crear la cuenta de usuario inicial."
 
-#: ../../postinstall.rst:165
+#: ../../postinstall.rst:163
 msgid "The \"User Details\" tab is used to create a login user. This screen requires you to complete the following fields:"
 msgstr ""
 "La pestaña \"Detalles del Usuario\" se usa para crear el acceso del usuario. "
 "Esta pantalla requiere que complete los siguientes campos:"
 
-#: ../../postinstall.rst:167
+#: ../../postinstall.rst:165
 msgid "**Name:** this value will be displayed in the login screen. It can be your full name and can contain capital letters and spaces."
 msgstr ""
 "**Nombre:** Este valor se desplegará en la pantalla de acceso. Puede ser su "
 "nombre completo y puede contener mayúsculas y espacios."
 
-#: ../../postinstall.rst:169
+#: ../../postinstall.rst:167
 msgid "**Username:** this is the name you will use when logging in. It can not contain spaces and is case sensitive (e.g. *Kris* is a different username than *kris*)."
 msgstr ""
 "**Nombre de Usuario:** Este es el nombre que usted usará cuando accese. No "
 "puede contener espacios y es sensible a mayúsculas (por ejemplo *Kris* es un "
 "nombre de usuario diferente a *kris*)."
 
-#: ../../postinstall.rst:172
+#: ../../postinstall.rst:170
 msgid "**Password:** this is the password you will use when logging in. You must type it twice in order to confirm it."
 msgstr ""
 "**Contraseña:** Esta es la contraseña que usará para accesar. Debe "
 "escribirla dos veces para poder confirmarla."
 
-#: ../../postinstall.rst:174
+#: ../../postinstall.rst:172
 msgid "**Specify UID:** by default, the user will be assigned the next available User ID (UID). If you need to force a specific UID, you can set it here. Note that you cannot set a UID lower than 1001 or specify a UID that is already in use by another user account."
 msgstr ""
 "**Especificar UID:** por defecto, al usuario se le asignará el siguiente ID "
@@ -285,7 +281,7 @@ msgstr ""
 "ponerlo aquí. Note que no puede poner un UID menor a 1001 o especificar un "
 "UID que ya está siendo usado por otra cuenta de usuario."
 
-#: ../../postinstall.rst:177
+#: ../../postinstall.rst:175
 msgid "PC-BSD® provides the ability to use a removable device, such as a USB stick, as the user's encrypted home directory. This is useful in a multi-user or multi-computer environment as it provides the user with secure access to their encrypted files.  When a user is configured to use :ref:`PersonaCrypt`, their username will only appear in the login menu if the removable media associated with that PC-BSD® system is inserted and they must input the password associated with the removable device in order to login."
 msgstr ""
 "PC-BSD® proporciona la habilidad de usar un dispositivo removible, como una "
@@ -297,21 +293,21 @@ msgstr ""
 "debe ingresar la contraseña asociada con el dispositivo removible para poder "
 "accesar."
 
-#: ../../postinstall.rst:182
+#: ../../postinstall.rst:180
 msgid "The \"PersonaCrypt\" tab, shown in :numref:`Figure %s: Initializing PersonaCrypt for this User <persona1>`, is used to initialize PersonaCrypt for the user."
 msgstr ""
 "La pestaña \"PersonaCrypt\", mostrada en la :numref:`Figura %s: "
 "Inicializando PersonaCrypt para este Usuario <persona1>`, se usa para "
 "inicializar PersonaCrypt para el usuario."
 
-#: ../../postinstall.rst:188
+#: ../../postinstall.rst:186
 msgid "Check the box \"Initialize PersonaCrypt Device\", insert a removable media that is large enough to hold the files you plan to store in your home directory, and click the \"Select\" button."
 msgstr ""
 "Seleccione la casilla \"Inicializar Dispositivo PersonaCrypt\", inserte el "
 "medio removible que sea tan grande como para alojar los archivos que piense "
 "almacenar en su directorio personal, y presione el botón \"Seleccionar\"."
 
-#: ../../postinstall.rst:191
+#: ../../postinstall.rst:189
 msgid "make sure you do not have any files that you wish to keep on the removable media. Initializing the media for PersonaCrypt will format the device with ZFS and encrypt it with GELI, meaning that any existing data will be destroyed."
 msgstr ""
 "Asegúrese de que no tiene ningún archivo que quiera mantener en el medio "
@@ -319,14 +315,14 @@ msgstr ""
 "con ZFS y lo encriptará con GELI, significando que cualquier dato será "
 "destruido."
 
-#: ../../postinstall.rst:194
+#: ../../postinstall.rst:192
 msgid "Input and repeat the \"Device Password\" to associate with the device. A pop-up menu will indicate that the current contents of the device will be wiped. Click \"Yes\" to initialize the device."
 msgstr ""
 "Ingrese y repita la \"Contraseña del Dispositivo\" para asociarla con el "
 "dispositivo. Un menú emergente le indicará que el contenido actual del "
 "dispositivo será eliminado. Presione \"Sí\" para inicializar el dispositivo."
 
-#: ../../postinstall.rst:197
+#: ../../postinstall.rst:195
 msgid "If you share your computer with other users, you will be able to create additional login and PersonaCrypt accounts once you are logged in using :menuselection:`Control Panel --> User Manager`. After you have created at least one user, click \"Next\" to continue to the next screen."
 msgstr ""
 "Si comparte su computadora con otros usuarios, usted podrá crear cuentas de "
@@ -335,18 +331,18 @@ msgstr ""
 "Después que haya creado por lo menos un usuario, presione \"Siguiente\" para "
 "continuar con la siguiente pantalla."
 
-#: ../../postinstall.rst:204
+#: ../../postinstall.rst:202
 msgid "Configure Audio Output"
 msgstr "Configurar Salida de Audio"
 
-#: ../../postinstall.rst:206
+#: ../../postinstall.rst:204
 msgid "The next screen, seen in :numref:`Figure %s: Configure Audio Output <audio1>`, is used to configure the default audio output."
 msgstr ""
 "La siguiente pantalla, mostrada en la :numref:`Figura %s: Configurando "
 "Salida de Audio <audio1>`, se usa para configurar la salida de audio "
 "predeterminada."
 
-#: ../../postinstall.rst:212
+#: ../../postinstall.rst:210
 msgid "Click the \"Output Device\" drop-down menu to select the desired sound device. You can click the \"Test\" button to verify the setting as a working configuration will result in a test sound. You can also use the \"Testing Volume\" slider to set the default volume level."
 msgstr ""
 "Presione \"Dispositivo de Salida\" en el menú desplegable, para seleccionar "
@@ -355,17 +351,17 @@ msgstr ""
 "sonido de prueba. Puede también usar la barra deslizable \"Probando Volumen\""
 " para fijar el nivel de volúmen predeterminado."
 
-#: ../../postinstall.rst:215
+#: ../../postinstall.rst:213
 msgid "You can view and edit these settings at a later time using the instructions in :ref:`PC-BSD Mixer Tray`."
 msgstr ""
 "Puede ver y editar estas configuraciones en el futuro usando las "
 "instrucciones en el :ref:`Mezclador de PC-BSD`."
 
-#: ../../postinstall.rst:221
+#: ../../postinstall.rst:219
 msgid "Connect to a Wireless Network"
 msgstr "Conectarse a una Red Inalámbrica"
 
-#: ../../postinstall.rst:223
+#: ../../postinstall.rst:221
 msgid "If the system has an active wireless interface, a screen similar to :numref:`Figure %s: Connect to a Wireless Network <config5>` will indicate the wireless networks which were automatically detected. Available networks will be ordered by signal strength."
 msgstr ""
 "Si el sistema tiene una interfaz inalámbrica activa, una pantalla similar a "
@@ -373,7 +369,7 @@ msgstr ""
 "le indicará las redes inalámbricas que son detectadas automáticamente. Las "
 "redes disponibles se ordenarán por la fuerza de la señal."
 
-#: ../../postinstall.rst:230
+#: ../../postinstall.rst:228
 msgid "If you would like to set the default wireless connection, highlight the network that you would like to connect to. If the network requires a password, it will prompt you to input it and will indicate the type of security used on the network. If the network you wish to connect to does not appear, try clicking the \"Rescan\" button. If you are unable to connect, or you wish to configure the connection at a later time, refer to the instructions in :ref:`Network Configuration`."
 msgstr ""
 "Si quiere establecer una conexión inalámbrica predeterminada, marque la red "
@@ -383,24 +379,24 @@ msgstr ""
 "Nuevamente\". Si no se puede conectar, o quiere configurar la conexión más "
 "tarde, refiérase a las instrucciones en :ref:`Configuración de Red`."
 
-#: ../../postinstall.rst:238
+#: ../../postinstall.rst:236
 msgid "Enable Optional Services"
 msgstr "Habilitando Servicios Opcionales"
 
-#: ../../postinstall.rst:240
+#: ../../postinstall.rst:238
 msgid "The next screen is shown in :numref:`Figure %s: Optional Services <optional1a>`."
 msgstr ""
 "La siguiente pantalla se muestra en la :numref:`Figura %s: Servicios "
 "Opcionales <optional1a>`."
 
-#: ../../postinstall.rst:246
+#: ../../postinstall.rst:244
 msgid "If you check the \"Disable IPV6\" box, the system will be configured to only support IPv4 addresses. The default is to support both IPv4 and IPv6 and to prefer IPv6 over IPv4."
 msgstr ""
 "Si selecciona la casilla \"Deshabilitar IPV6\", el sistema se configurará "
 "para soportar solamente direcciones IPv4. Lo predeterminado es soportar los "
 "dos, IPv4 e IPv6 y darle preferencia a IPv6 sobre IPv4."
 
-#: ../../postinstall.rst:248
+#: ../../postinstall.rst:246
 msgid "If you check the \"Enable SSH\" box, the SSH service will start and be configured to start whenever the system boots. It will also create the firewall rules needed to allow incoming SSH connections to the PC-BSD® system. **DO NOT check this box if you do not want to allow SSH connections to the system.**"
 msgstr ""
 "Si selecciona la casilla \"Habilitar SSH\", el servicio SSH arrancará y se "
@@ -409,7 +405,7 @@ msgstr ""
 "sistema PC-BSD®. **NO seleccione esta casilla si no quiere permitir "
 "conexiones SSH al sistema.**"
 
-#: ../../postinstall.rst:251
+#: ../../postinstall.rst:249
 msgid "When finished, click the \"Next\" button. The screen in :numref:`Figure %s: Setup is Complete <config6>` indicates that the post-installation setup is complete. Click the \"Finish\" button to access the login menu."
 msgstr ""
 "Cuando termine, presione el botón \"Siguiente\". La pantalla de la :numref:`"
@@ -417,11 +413,11 @@ msgstr ""
 "configuración post-instalación se ha completado. Presione el botón \""
 "Terminar\" para accesar al menú de inicio de sesión."
 
-#: ../../postinstall.rst:262
+#: ../../postinstall.rst:260
 msgid "Logging In"
 msgstr "Accesando"
 
-#: ../../postinstall.rst:264
+#: ../../postinstall.rst:262
 msgid "Once you have finished setting up your system, you will be presented with the PCDM (PC-BSD® Display Manager) graphical login screen. An example is seen in :numref:`Figure %s: PC-BSD® Login Screen <login1>`."
 msgstr ""
 "Una vez que ha terminado de configurar su sistema, se le presentará la "
@@ -429,14 +425,14 @@ msgstr ""
 "ejemplo se muestra en la :numref:`Figura %s: Pantalla de Inicio de Sesión de "
 "PC-BSD® <login1>`."
 
-#: ../../postinstall.rst:271
+#: ../../postinstall.rst:269
 msgid "The hostname of the system will be displayed at the top of the login window. In this example, it is *pcbsd-5320*. The login window lets you select or input the following:"
 msgstr ""
 "El nombre del equipo se desplegará en la parte superior de la ventana de "
 "acceso. En este ejemplo, es *pcbsd-5320*. La ventana de acceso le permite "
 "seleccionar o ingresar lo siguiente:"
 
-#: ../../postinstall.rst:274
+#: ../../postinstall.rst:272
 msgid "**user:** the first time you login, the \"Username\" that you created in the :ref:`Create a User Screen` will be the only available user to login as. Later, if you create additional users using :ref:`User Manager`, they will be added to the drop-down menu so you choose which user to login as. PCDM will not let you login as the *root* user. Instead, whenever you access a utility that requires administrative access, PC-BSD® will first ask you to input the password of your login account."
 msgstr ""
 "**usuario:** La primera vez que ingrese, el \"Nombre de Usuario\" que creó "
@@ -448,12 +444,12 @@ msgstr ""
 "requiera acceso administrativo, PC-BSD® primero le pedirá que ingrese la "
 "contraseña de su cuenta de acceso."
 
-#: ../../postinstall.rst:279
+#: ../../postinstall.rst:277
 msgid "**password:** input the password associated with the selected user."
 msgstr ""
 "**contraseña:** Ingrese la contraseña asociada con el usuario seleccionado."
 
-#: ../../postinstall.rst:281
+#: ../../postinstall.rst:279
 msgid "**desktop:** if you installed any desktops, use the drop-down menu to select the desktop to log into. If you did not install any desktops, :ref:`Fluxbox` will be the only available desktop. You can install or uninstall desktops using :ref:`AppCafe®`."
 msgstr ""
 "**escritorio:** Si instaló cualquier escritorio, use el menú desplegable "
@@ -461,7 +457,7 @@ msgstr ""
 "ningún escritorio, :ref:`Fluxbox` será el único escritorio disponible. Puede "
 "instalar o desinstalar escritorios usando :ref:`AppCafe®`."
 
-#: ../../postinstall.rst:284
+#: ../../postinstall.rst:282
 msgid "if you created a PersonaCrypt user, you will need to insert the PersonaCrypt device in order to login. As seen in the example in :numref:`Figure %s: PC-BSD® PersonaCrypt Login Screen <login5>`, this will add an extra field to the login screen so that you can input the password associated with the PersonaCrypt device."
 msgstr ""
 "Si usted creó un usuario de PersonaCrypt, necesitará el dispositivo "
@@ -471,46 +467,46 @@ msgstr ""
 "para que pueda ingresar la contraseña asociada con el dispositivo "
 "PersonaCrypt."
 
-#: ../../postinstall.rst:292
+#: ../../postinstall.rst:290
 msgid "The toolbar at the bottom of the screen allows you to select the following options:"
 msgstr ""
 "La barra de herramientas en la parte inferior de la pantalla le permite "
 "seleccionar las siguientes opciones:"
 
-#: ../../postinstall.rst:294
+#: ../../postinstall.rst:292
 msgid "**Locale:** if you did not set the localization during installation or wish to change it, click this icon to set the locale for the login session."
 msgstr ""
 "**Ubicación:** Si no estableció su ubicación durante la instalación o quiere "
 "cambiarla, presione este icono para establecer la ubicación para el inicio "
 "de sesión."
 
-#: ../../postinstall.rst:296
+#: ../../postinstall.rst:294
 msgid "**Keyboard Layout:** click this icon to change the keyboard layout for the login session."
 msgstr ""
 "**Diseño de Teclado:** Presione este icono para cambir el diseño del teclado "
 "para el inicio de sesión."
 
-#: ../../postinstall.rst:298
+#: ../../postinstall.rst:296
 msgid "**Restart/Shut Down:** if you wish to restart or shutdown the system without logging in, click the icon in the lower, far right corner."
 msgstr ""
 "**Reiniciar/Apagar:** Si quiere reiniciar o apagar el sistema sin accesar, "
 "presione el icono de la esquina inferior derecha."
 
-#: ../../postinstall.rst:300
+#: ../../postinstall.rst:298
 msgid "Once you have made your selections, input the password associated with the selected user and press enter or click the blue arrow icon to login."
 msgstr ""
 "Una vez que ha realizado sus selecciones, ingrese la contraseña asociada con "
 "el usuario seleccionado y presione Intro o presione el icono de la flecha "
 "azul para accesar."
 
-#: ../../postinstall.rst:304
+#: ../../postinstall.rst:302
 msgid "The first time you log in, the PC-BSD® \"Getting Started\" screen will load as seen in :numref:`Figure %s: PC-BSD® Getting Started Screen <welcome1>`."
 msgstr ""
 "La primera vez que inicie sesión, la pantalla \"Comenzando\" de PC-BSD® se "
 "mostrará como en la :numref:`Figura %s: Pantalla \"Comenzando\" de PC-BSD® "
 "<welcome1>`."
 
-#: ../../postinstall.rst:310
+#: ../../postinstall.rst:308
 msgid "If you click the \"Next\" button, you can read an overview of the utilities that are used to configure your network connection, install applications, configure your system, make a backup, and keep the system updated, as well as how to get involved with the PC-BSD® community. Check the box \"Don't show on next startup\" if you do not want to see this screen the next time you log in. To re-open the screen after checking that box, type :command:`pc-welcome`."
 msgstr ""
 "Si presiona el botón \"Siguiente\", puede leer un resumen de las utilerías "
@@ -521,18 +517,18 @@ msgstr ""
 "próxima vez que accese. Para re-abrir la pantalla despues de seleccionar la "
 "casilla, teclee :command:`pc-welcome`."
 
-#: ../../postinstall.rst:318
+#: ../../postinstall.rst:316
 msgid "Installation Troubleshooting"
 msgstr "Solución de Problemas de la Instalación"
 
-#: ../../postinstall.rst:320
+#: ../../postinstall.rst:318
 msgid "Installing PC-BSD® is usually an easy process that \"just works\". However, sometimes you will run into a problem. This section will look at solutions to the most common installation problems."
 msgstr ""
 "Instalar PC-BSD® casi siempre es un proceso fácil que, \"simplemente, "
 "funciona\". Sin embargo, algunas veces podría tener algún problema. Esta "
 "sección revisará soluciones a los problemas más comunes de la instalación."
 
-#: ../../postinstall.rst:323
+#: ../../postinstall.rst:321
 msgid "The PC-BSD® installer creates a log which keeps a record of all the steps that are completed as well as any errors. When an installation error occurs, the PC-BSD® installer will ask if you would like to generate an error report. If you click \"Yes\", a pop-up message will ask if you would like to save the error log to a USB stick. Type **y** and insert a FAT formatted USB thumb drive to copy the log."
 msgstr ""
 "El instalador de PC-BSD® crea un log que mantiene un registro de todos los "
@@ -542,18 +538,18 @@ msgstr ""
 "preguntará si quiere guardar el log del error en una memoria USB. Presione "
 "**s** e inserte una memoria USB formateada con FAT para copiar el log."
 
-#: ../../postinstall.rst:327
+#: ../../postinstall.rst:325
 msgid "While in the installer, you can read this log to see what went wrong. Click the black \"Emergency Shell and Utilities\" icon, then select \"shell\" from the \"PC-BSD Utility Menu\". You can now read the log by typing this command::"
 msgstr ""
 
-#: ../../postinstall.rst:332
+#: ../../postinstall.rst:330
 msgid "If you can not figure out how to fix the error or believe that you have discovered an installation bug, send the log that was saved on the USB stick using the instructions in :ref:`Report a Bug`."
 msgstr ""
 "Si no se le ocurre como arreglar el error o cree que ha descubierto un error "
 "en la instalación, mande el log que guardó en la memoria USB usando las "
 "instrucciones en :ref:`Reportando un Error`."
 
-#: ../../postinstall.rst:335
+#: ../../postinstall.rst:333
 msgid "If the installer does not make it to the initial GUI installer screen, try unplugging as many devices as possible, such as webcams, scanners, printers, USB mice and keyboards. If this solves the problem, plug in one piece of hardware at a time, then reboot. This will help you pinpoint which device is causing the problem."
 msgstr ""
 "Si el instalador no logra llegar a la pantalla del instalador GUI, intente "
@@ -562,7 +558,7 @@ msgstr ""
 "pieza de hardware una por una, después reinicie. Esto le ayudará a encontrar "
 "que dispositivo está causando el problema."
 
-#: ../../postinstall.rst:339
+#: ../../postinstall.rst:337
 msgid "If your computer freezes while probing hardware and unplugging extra devices does not fix the problem, it is possible that the installation media is corrupt. If the :ref:`Data Integrity check` on the file you downloaded is correct, try burning the file again at a lower speed."
 msgstr ""
 "Si su computadora se congela mientras se prueba el hardware y desconectando "
@@ -571,7 +567,7 @@ msgstr ""
 "Integridad de los Datos` en el archivo que descargó y el resultado es "
 "correcto, intente grabar nuevamente el archivo a una velocidad menor."
 
-#: ../../postinstall.rst:342
+#: ../../postinstall.rst:340
 msgid "If the system freezes and you suspect the video card to be the cause, review your system's BIOS settings. If there is a setting for video memory, set it to its highest value. Also check to see if the BIOS is set to prefer built-in graphics or a non-existent graphics card. On some systems this is determined by the order of the devices listed; in this case, make sure that the preferred device is listed first. If you can not see your BIOS settings you may need to move a jumper or remove a battery to make it revert to the default of built-in graphics; check your manual or contact your manufacturer for details."
 msgstr ""
 "Si el sistema se congela y sospecha que la tarjeta de video pueda ser la "
@@ -586,36 +582,36 @@ msgstr ""
 "gráficos integrados; revise su manual o contacte a su proveedor para más "
 "detalles."
 
-#: ../../postinstall.rst:347
-msgid "If that change did not help, try rebooting and selecting \"6. Configure Boot Options\" from the boot menu shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1b>`. This will open the screen shown in :numref:`Figure %s: PC-BSD® Boot Options <menu1>`."
+#: ../../postinstall.rst:345
+msgid "If that change did not help, reboot and select the \"6. Configure Boot Options...\" from the boot menu shown in :numref:`Figure %s: PC-BSD® Installer Boot Menu <install1b>`. This will open the screen shown in :numref:`Figure %s: PC-BSD® Boot Options <menu1>`."
 msgstr ""
 
-#: ../../postinstall.rst:354
+#: ../../postinstall.rst:352
 msgid "Press :kbd:`7` to toggle \"Off\" to \"On, then press :kbd:`Enter`. This will boot the installer using the VESA graphics driver which is supported on all systems."
 msgstr ""
 
-#: ../../postinstall.rst:356
+#: ../../postinstall.rst:354
 msgid "A not uncommon cause for problems is the LBA (Logical Block Addressing) setting in the BIOS. If your PC is not booting up before or after installation, check your BIOS and turn LBA off (do not leave it on automatic)."
 msgstr ""
 "Una causa no muy común de problemas es la configuración LBA (Logical Block "
 "Addressing) en la BIOS. Si su PC no arranca antes o después de la "
 "instalación, revise su BIOS y deshabilite LBA (no lo deje en automático)."
 
-#: ../../postinstall.rst:359
+#: ../../postinstall.rst:357
 msgid "If the SATA settings in your BIOS are set to \"compatibility\" mode, try changing this setting to \"AHCI\". If the system hangs with a BTX error, try turning off AHCI in the BIOS."
 msgstr ""
 "Si las configuraciones SATA en su BIOS están en modo \"compatibilidad\", "
 "intente cambiar esta configuración a \"AHCI\". Si el sistema se congela con "
 "un error BTX, intente deshabilitar AHCI en la BIOS."
 
-#: ../../postinstall.rst:362
+#: ../../postinstall.rst:360
 msgid "If the USB keyboard is non-functional, check if there is an option in your BIOS for \"legacy support\" in relation to the keyboard or to USB, or both. Enabling this feature in your BIOS may solve this issue."
 msgstr ""
 "Si su teclado USB no funciona, revise si hay alguna opción en su BIOS para \""
 "Soporte Legado\" en relación al teclado o a USB, o a los dos. Habilitando "
 "esta característica en su BIOS puede resolver el problema."
 
-#: ../../postinstall.rst:365
+#: ../../postinstall.rst:363
 msgid "If you boot the installer and receive a *mountroot>* command prompt, it may be due to a change in the location of the boot device. This can occur when the if the enumeration of a card reader changes. The solution is to enter *ufs:/dev/da1* at the prompt. Depending on the exact location of the boot media, it may be different than :file:`da1`. Type *?* at the prompt to display the available devices."
 msgstr ""
 "Si arranca el instalador y recibe un indicador de comando *mountroot>*, "
@@ -626,7 +622,7 @@ msgstr ""
 "Teclee *?* en el indicador de comando para mostrar los dispositivos "
 "disponibles."
 
-#: ../../postinstall.rst:369
+#: ../../postinstall.rst:367
 msgid "If none of the above has fixed your problem, search the `PC-BSD® forums <https://forums.pcbsd.org/>`_ to see if a solution exists, try a web search, or check the section on :ref:`Finding Help`."
 msgstr ""
 "Si nada de lo anterior arregla su problema, busque en los `Foros de PC-BSD® "
