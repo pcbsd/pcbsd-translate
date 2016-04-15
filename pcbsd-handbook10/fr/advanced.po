@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-15 08:17-0700\n"
+"POT-Creation-Date: 2016-04-15 12:17-0700\n"
 "PO-Revision-Date: 2016-04-15 14:40+0000\n"
 "Last-Translator: JoshDW19 <joshms@pcbsd.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -227,8 +227,9 @@ msgid "If you select \"edit\", the menu shown in :numref:`Figure %s: Edit Menu <
 msgstr ""
 
 #: ../../advanced.rst:171
+#, fuzzy
 msgid "This screen contains the following options:"
-msgstr ""
+msgstr "Ce menu initial offre les options suivantes:"
 
 #: ../../advanced.rst:173
 msgid "**disk:** used to change the disk to install into. Selecting this option will re-open the screens shown in :numref:`Figure %s: Select Installation Disk <text3>` through :numref:`Figure %s: Full Disk Encryption <text7>`, and then return you back to this menu."
