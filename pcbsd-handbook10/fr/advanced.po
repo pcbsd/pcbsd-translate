@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-04-15 04:18-0700\n"
+"POT-Creation-Date: 2016-04-15 08:17-0700\n"
 "PO-Revision-Date: 2016-04-15 14:40+0000\n"
 "Last-Translator: JoshDW19 <joshms@pcbsd.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -279,8 +279,9 @@ msgid "If you click the *utility* option in the main menu of the text based inst
 msgstr ""
 
 #: ../../advanced.rst:225
+#, fuzzy
 msgid "This screen provides the following options:"
-msgstr ""
+msgstr "Ce menu initial offre les options suivantes:"
 
 #: ../../advanced.rst:227
 msgid "**shell:** this option is useful if you are troubleshooting a PC-BSD® system that no longer boots. It will open a shell with administrative access that includes the base FreeBSD utilities. Advanced users can use this shell to try to determine what the problem is, to create a backup or copy essential files to another system, or edit configuration files with an editor such as `ee <https://www.freebsd.org/cgi/man.cgi?query=ee>`_ or :command:`vi`. When you are finished using the shell, type :command:`exit` to return to the screen shown in :numref:`Figure %s: System Utilities Menu <util1>`."
@@ -503,8 +504,9 @@ msgid "any entries you added to :file:`/usr/local/etc/grub.d/40_custom`"
 msgstr ""
 
 #: ../../advanced.rst:433
+#, fuzzy
 msgid "Creating an Automated Installation"
-msgstr ""
+msgstr ":ref:`Création d'une installation automatisée`"
 
 #: ../../advanced.rst:435
 msgid "PC-BSD® provides a set of Bourne shell scripts that allow advanced users to create automatic or customized PC-BSD® installations. :command:`pc-sysinstall` is the name of the master script; it reads a customizable configuration file and uses dozens of backend scripts to perform the installation. You can read more about this utility by typing **man pc-sysinstall**."
