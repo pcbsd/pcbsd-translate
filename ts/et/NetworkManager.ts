@@ -268,7 +268,7 @@
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Domeeninimi</translation>
     </message>
     <message>
         <source>999\.999\.999\.999</source>
@@ -276,15 +276,15 @@
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname, and domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Hostinime või domeeninime muutmiseks tuleb arvuti taaskäivitada</translation>
     </message>
     <message>
         <source>IPv4 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4-aadress:</translation>
     </message>
     <message>
         <source>IPv6 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-aadress:</translation>
     </message>
 </context>
 </TS>

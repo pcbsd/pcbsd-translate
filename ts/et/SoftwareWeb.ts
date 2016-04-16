@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="et">
 <context>
@@ -21,17 +21,17 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
         <source>Enterprise (Long Term Support)</source>
-        <translation type="unfinished"></translation>
+        <translation>Enterprise (pikaajaline tugi)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="50"/>
         <source>Production (Updates Quarterly)</source>
-        <translation type="unfinished"></translation>
+        <translation>Production (uuendused 4 korda aastas)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="57"/>
         <source>Edge (Updates Frequently)</source>
-        <translation type="unfinished"></translation>
+        <translation>Edge (sagedased uuendused)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="64"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="151"/>
         <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>Kas lubada kaugligipääs AppCafe&apos;le? Pakke ja vanglaid saab seejärel hallata veebibrauserist või telefonist.</translation>
+        <translation>Kas lubada kaugligipääs AppCafe'le? Pakke ja vanglaid saab seejärel hallata veebibrauserist või telefonist.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="161"/>
