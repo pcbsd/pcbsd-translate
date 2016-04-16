@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>CPU:</source>
-        <translation>پردازنده:</translation>
+        <translation>سخت‌افزار</translation>
     </message>
     <message>
         <source>Mem.</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>اجزای نرم افزار و سیستم...</translation>
     </message>
 </context>
 </TS>
