@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-04-12 18:51+0000\n"
+"PO-Revision-Date: 2016-04-18 18:56+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1461005819.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -23,26 +25,46 @@ msgstr "El Escritorio Lumina"
 #: ../../lumina.rst:6
 msgid "Beginning with |version|, the PC-BSD® installer installs the Lumina Desktop Environment (Lumina for short). Additional window managers can be installed using :ref:`AppCafe®`. This chapter describes the Lumina Configuration utility and the various utilities which are built into Lumina. For instructions on how to install Lumina on other operating systems or how to contribute to the Lumina Project, refer to the documentation at the `Lumina website <http://www.lumina-desktop.org>`_."
 msgstr ""
+"Comenzando con |version|, el instalador de PC-BSD® instala el Entorno de "
+"Escritorio Lumina (Lumina para abreviar). Gestores de ventanas adicionales "
+"pueden instalarse usando :ref:`AppCafe®`. Este capitulo describe la utilería "
+"de Configuración de Lumina y las diversas utilerías que están construidas "
+"dentro de Lumina. Para instrucciones sobre como instalar Lumina en otros "
+"sistemas operativos o cómo contribuir con el Proyecto Lumina, refiérase a la "
+"documentación en el `sitio web de Lumina <http://www.lumina-desktop.org>`_."
 
 #: ../../lumina.rst:10
 msgid "Lumina is a lightweight, XDG-compliant, BSD-licensed desktop environment that focuses specifically on streamlining the ability to get work done while minimizing system overhead. It is specifically designed for PC-BSD® and FreeBSD, but has also been ported to many other BSD and Linux operating systems. It is based on the Qt graphical toolkit and the Fluxbox window manager, and uses a small number of X utilities for various tasks, such as :command:`numlockx` and :command:`xscreensaver`."
 msgstr ""
+"Lumina es un entorno ligero, compatible con XDG, y de licencia BSD que se "
+"enfoca específicamente en mejorar la habilidad de dejar el trabajo hecho, a "
+"la vez que minimiza la sobrecarga en el sistema. Está diseñado "
+"específicamente para PC-BSD® y FreeBSD, pero también ha sido portado a "
+"muchos otros sistemas operativos BSD y Linux. Esta basado en el toolkit "
+"gráfico QT y el gestor de ventanas Fluxbox, y usa un pequeño conjunto de "
+"utilidades de X tales como :command:`numlockx` y :command:`xscreensaver` "
+"para llevar a cabo varias tareas."
 
 #: ../../lumina.rst:14
 msgid "Lumina's features include:"
-msgstr ""
+msgstr "Las características de Lumina incluyen:"
 
 #: ../../lumina.rst:16
 msgid "Very little system overhead."
-msgstr ""
+msgstr "Mínima sobrecarga del sistema."
 
 #: ../../lumina.rst:18
 msgid "Does not require any of desktop implementation frameworks such as DBUS, policykit, consolekit, systemd, or HALD."
 msgstr ""
+"No requiere ninguno de los frameworks de implementación de escritorios como "
+"DBUS, policykit, consolekit, systemd, o HALD."
 
 #: ../../lumina.rst:20
 msgid "Does not come bundled with any applications such as web browsers, email clients, multimedia software, or office suites. Instead, it provides utilities for configuring the desktop environment."
 msgstr ""
+"No viene empaquetado con ninguna aplicación como navegadores web, clientes "
+"de correo, software multimedia, o suites de oficina. En su lugar, "
+"proporciona utilerías para configurar el entorno de escritorio."
 
 #: ../../lumina.rst:23
 msgid "Uses a simple, `text-based configuration file for setting system-wide defaults <https://github.com/pcbsd/lumina/blob/master/lumina-desktop/defaults/luminaDesktop.conf>`_. This allows Lumina distributors to easily pre-set the Lumina defaults and interface for their distribution."
