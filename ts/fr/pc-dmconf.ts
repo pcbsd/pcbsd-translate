@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
     <name>MainWindow</name>
     <message>
         <source>Login Manager Settings</source>
-        <translation>Paramètres du Gestionnaire de Connexion</translation>
-    </message>
+        <translation>Gestionnaire de Connexion</translation>
+    <translatorcomment>Traduction écourtée pour un affichage correct du libellé dans le panneau de configuration de pc-bsd</translatorcomment></message>
     <message>
         <source>Auto login</source>
         <translation>Connexion automatique</translation>
@@ -40,8 +40,8 @@
         <translation>Divers</translation>
     </message>
     <message>
-        <source>Enable &quot;show password&quot; button</source>
-        <translation>Activer le bouton &quot;Afficher mot de passe&quot;</translation>
+        <source>Enable "show password" button</source>
+        <translation>Activer le bouton "Afficher mot de passe"</translation>
     </message>
     <message>
         <source>Display available users</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>The PCDM configuration file could not be found: %1</source>
-        <translation>Le fichier de configuration de PCDM n&apos;as pas pu être trouvé: %1</translation>
+        <translation>Le fichier de configuration de PCDM n'as pas pu être trouvé: %1</translation>
     </message>
     <message>
         <source>This application will now close</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Allow Valid Users with UID under 1000</source>
-        <translation>Autoriser les Utilisateurs Valides avec une UID inférieure à 1000</translation>
+        <translation>Autoriser des Utilisateurs Valides avec une UID inférieure à 1000</translation>
     </message>
     <message>
         <source>Additional Excluded Users</source>
