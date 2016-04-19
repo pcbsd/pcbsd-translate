@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalitzada&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Interval de dies</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -379,7 +383,7 @@
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu a punt per habilitar l&apos;emmagatzematge de dades fora de lloc?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
@@ -395,7 +399,7 @@
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Les contrasenyes de la llista no coincideixen o estan en blanc</translation>
     </message>
     <message>
         <source>Select LPS file</source>
@@ -443,15 +447,15 @@
     </message>
     <message>
         <source>A Life Preserver configuration file for the remote system is required. (*.lps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Cal un fitxer de configuració del Life Preserver per al sistema remot. (*.lps)</translation>
     </message>
     <message>
         <source>If you do not have this file available, please contact the administrator(s) of the backup server and request one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si no disposeu d&apos;aquest fitxer disponible, poseu-vos en contacte amb els administradors del servidor de còpia de seguretat i sol·liciteu-ne un.</translation>
     </message>
     <message>
         <source>If these settings don&apos;t look right, please contact the administrator of the backup server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si aquests valors no són correctes; si us plau, poseu-vos en contacte amb l&apos;administrador del servidor de còpia de seguretat.</translation>
     </message>
     <message>
         <source>Please Wait.</source>
@@ -459,11 +463,11 @@
     </message>
     <message>
         <source>Enabling off-site backup....</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitant la còpia de seguretat fora del lloc...</translation>
     </message>
     <message>
         <source>This key file is required to access/decrypt your saved data</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest fitxer de clau és necessari per accedir / desencriptar les dades desades</translation>
     </message>
     <message>
         <source>WARNING</source>
@@ -471,11 +475,11 @@
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assegureu-vos de desar aquest fitxer de clau en un lloc segur fora del disc (com ara en una memòria USB que mantingueu tancada). Els administrador del servidor de còpia de seguretat no són responsables d&apos;una clau perduda.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>El Life Preserver ha experimentat un error en intentar configurar aquesta còpia de seguretat remota. Si us plau, comproveu que la configuració és correcta i torneu-ho a intentar.</translation>
     </message>
 </context>
 <context>
@@ -522,11 +526,11 @@
     </message>
     <message>
         <source>Select the previous (older) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la instantània anterior (més antiga)</translation>
     </message>
     <message>
         <source>Select the next (more recent) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu la instantània següent (més recent)</translation>
     </message>
     <message>
         <source>Display any hidden files/folders</source>
@@ -538,7 +542,7 @@
     </message>
     <message>
         <source>Restore the selected file/folder to the live system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restaura el fitxer / carpeta seleccionat al sistema viu.</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -550,11 +554,11 @@
     </message>
     <message>
         <source>&amp;Manage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Gestiona el Pool</translation>
     </message>
     <message>
         <source>&amp;Unmanage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;No gestionis el Pool</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -590,7 +594,7 @@
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Bàsic</translation>
     </message>
     <message>
         <source>Recover File</source>
@@ -678,23 +682,23 @@
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitant la gestió del conjunt de dades: %1</translation>
     </message>
     <message>
         <source>Verify Dataset Backup Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica l&apos;eliminació de la còpia de seguretat del conjunt de dades</translation>
     </message>
     <message>
         <source>Are you sure that you wish to cancel automated snapshots and/or replication of the following dataset?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esteu segur que voleu cancel·lar les instantànies i / o la replicació automatitzats del següent conjunt de dades?</translation>
     </message>
     <message>
         <source>Verify Snapshot Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica l&apos;eliminació de la instantània</translation>
     </message>
     <message>
         <source>Do you wish to remove the local snapshots for this dataset?</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu eliminar les instantànies locals per a aquest conjunt de dades?</translation>
     </message>
     <message>
         <source>WARNING: This is a permanant change that cannot be reversed</source>
@@ -734,11 +738,11 @@
     </message>
     <message>
         <source>Select USB Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccioneu un dispositiu USB</translation>
     </message>
     <message>
         <source>Available USB Devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositius USB disponibles:</translation>
     </message>
     <message>
         <source>Success</source>
@@ -746,7 +750,7 @@
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation>El fitxer de clau pública SSH s&apos;ha copiat amb èxit al dispositiu USB.</translation>
     </message>
     <message>
         <source>Failure</source>
@@ -754,11 +758,11 @@
     </message>
     <message>
         <source>The public SSH key file could not be copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation>El fitxer de clau pública SSH no s&apos;ha pogut copiar al dispositiu USB.</translation>
     </message>
     <message>
         <source>Find Home Dir Package</source>
-        <translation type="unfinished"></translation>
+        <translation>Troba el paquet del directori personal</translation>
     </message>
     <message>
         <source>Home Dir Package (*.home.tar.gz)</source>
@@ -826,15 +830,15 @@
     </message>
     <message>
         <source>Please wait until any current resilvering or scrubs are finished before trying again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, espereu fins que qualsevol reargentament o fregada actual acabi abans de tornar-ho a intentar.</translation>
     </message>
     <message>
         <source>Are you sure you want to stop the scrub on %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Si us plau, espereu fins que acabi qualsevol reargentament o fregada actual abans de tornar-ho a intentar.</translation>
     </message>
     <message>
         <source>Trying to stop scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;està intentant aturar la fregada</translation>
     </message>
     <message>
         <source>Scrub Stopped</source>
@@ -874,35 +878,35 @@
     </message>
     <message>
         <source>The new snapshot creation has been added to the queue</source>
-        <translation type="unfinished"></translation>
+        <translation>La nova creació de la instantània s&apos;ha afegit a la cua</translation>
     </message>
     <message>
         <source>Do you wish to delete this snapshot? %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Voleu eliminar aquesta instantània? %1 (%2)</translation>
     </message>
     <message>
         <source>Snapshot Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Instantània eliminada</translation>
     </message>
     <message>
         <source>The snapshot was successfully deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>La instantània s&apos;ha eliminat correctament</translation>
     </message>
     <message>
         <source>Snapshot Removal Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Error d&apos;eliminació de la instantània</translation>
     </message>
     <message>
         <source>The snapshot removal experienced an error and it not be completed at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;eliminació de la instantània ha experimentat un error i no es es pot completar en aquest moment.</translation>
     </message>
     <message>
         <source>Replication Triggered</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;activa la replicació</translation>
     </message>
     <message>
         <source>A replication has been queued up for this dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>S&apos;ha posat a la cua una replicació per a aquest conjunt de dades</translation>
     </message>
     <message>
         <source>Configuring scrub: %1</source>
@@ -910,7 +914,7 @@
     </message>
     <message>
         <source>Removing scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminant la fregada: %1</translation>
     </message>
     <message>
         <source>%1: Disabling Scrubs</source>
@@ -942,174 +946,42 @@
     </message>
     <message>
         <source>Reset Replication Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Restableix la contrasenya de replicació</translation>
     </message>
     <message>
         <source>Invalid Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinació no vàlida</translation>
     </message>
     <message>
         <source>This is an ISCSI replication target and does not use an SSH password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquesta és una destinació de replicació iSCSI i no utilitza una clau d&apos;SSH.</translation>
     </message>
     <message>
         <source>Some file(s) could not be restored from the snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>No s&apos;han pogut restaurar alguns fitxers des de la instantània.</translation>
     </message>
     <message>
         <source>The file(s) were succesfully restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Els fitxers s&apos;han restaurat correctament</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Carregant informació</translation>
     </message>
 </context>
 <context>
     <name>LPWizard</name>
     <message>
         <source>New Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserver nou</translation>
     </message>
     <message>
         <source>This wizard will walk you through the process of setting up a new snapshot schedule for the following ZFS dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aquest assistent us guiarà durant el procés de creació d&apos;una nova programació de les instantànies per al següent conjunt de dades ZFS:</translation>
     </message>
     <message>
         <source>Snapshot schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>Planificació d&apos;instantànies</translation>
     </message>
     <message>
         <source>Snapshots can be scheduled anywhere from daily, down to every 5 minutes. Snapshots consume very little disk space, and will only grow as the current data on disk changes.  </source>
@@ -1149,35 +1021,35 @@
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantén</translation>
     </message>
     <message>
         <source>days worth of snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>dies dignes d&apos;instantànies</translation>
     </message>
     <message>
         <source>total snapshots </source>
-        <translation type="unfinished"></translation>
+        <translation>instantànies totals </translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">Cada dia</translation>
+        <translation>Cada dia</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished">@ h AP</translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Scrub schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>Planificació de fregada</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished">Habilita la fregada programada</translation>
+        <translation>Habilita la fregada programada</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished">Setmanalment</translation>
+        <translation>Cada setmana</translation>
     </message>
     <message>
         <source>Monthly</source>
@@ -1217,31 +1089,35 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished">Dissabte</translation>
+        <translation>Dissabte</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished">Diumenge</translation>
+        <translation>Diumenge</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>La fregada comprova si hi ha inconsistències i corrupció silenciosa al vostre Pool d&apos;emmagatzematge.</translation>
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les instantànies més antigues s&apos;esporgaran automàticament després d&apos;arribar al nombre de dies o el nombre total d&apos;instantànies que especifiqueu.</translation>
     </message>
     <message>
         <source>Click the Finish button to apply these settings and create the new backup schedule.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliqueu al botó d&apos;acabar per aplicar aquests paràmetres i crear una planificació de còpia de seguretat nova.</translation>
     </message>
     <message>
         <source>Your new Life Preserver schedule is now set up! You may modify your configuration or enable advanced features such as off-site data replication at any time from within the main Life Preserver window.</source>
-        <translation type="unfinished"></translation>
+        <translation>La nova programació del Life Preserver ja està configurada! Podeu modificar la configuració o habilitar les característiques avançades com ara la replicació de dades fora del lloc en qualsevol moment des de la finestra principal del Life Preserver.</translation>
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vés directament a les opcions de configuració avançada.</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Interval de dies</translation>
     </message>
 </context>
 <context>
