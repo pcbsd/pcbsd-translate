@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-04-18 20:08+0000\n"
+"PO-Revision-Date: 2016-04-20 21:50+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1461189033.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -77,38 +79,60 @@ msgstr ""
 #: ../../lumina.rst:26
 msgid "Provides a plugin-based interface design. This allows the user to make the desktop as light or heavy as desired by choosing which plugins to have running on their desktop and panels. This plugin-based system is similar to Android or other modern operating systems."
 msgstr ""
+"Proporciona un diseño de interfaz basado en plugins. Esto le permite al "
+"usuario hacer el escritorio tan ligero o pesado como lo desee, al elegir qué "
+"plugins estarán corriendo en su escritorio y paneles. Este sistema basado en "
+"plugins es similar a Android u otros sistemas operativos modernos."
 
 #: ../../lumina.rst:29
 msgid "Single, easy-to-use :ref:`Lumina Configuration` utility controls all the different configuration options for the desktop in one location."
 msgstr ""
+"Sencilla, fácil de usar, la utilería de :ref:`Configuración de Lumina` "
+"controla todas las diferentes opciones de  configuración para el escritorio "
+"en un solo lugar."
 
 #: ../../lumina.rst:31
 msgid "Intelligent \"favorites\" system for creating quick shortcuts to applications, files, and directories."
 msgstr ""
+"Sistema inteligente de \"favoritos\" para crear accesos rápidos a "
+"aplicaciones, archivos, y directorios."
 
 #: ../../lumina.rst:33
 msgid "ZFS file restore functionality through the :ref:`Insight File Manager`."
 msgstr ""
+"Funcionalidad ZFS para restaurar archivos a través del :ref:`Gestor de "
+"Archivos Insight`."
 
 #: ../../lumina.rst:35
 msgid "Simple access to operating system-specific functionality such as screen brightness, audio volume, and battery status."
 msgstr ""
+"Acceso simple para funcionalidades específicas del sistema como brillo de "
+"pantalla, volúmen del audio, y estado de la batería."
 
 #: ../../lumina.rst:37
 msgid "Multi-monitor support includes the :ref:`Lumina Xconfig` graphical utility for adding or removing monitors from the Lumina session."
 msgstr ""
+"El soporte multi monitor incluye la utilería gráfica :ref:`Lumina Xconfig` "
+"para añadir o remover monitores de la sesión de Lumina."
 
 #: ../../lumina.rst:39
 msgid "Simple system controls through the system menu for configuring audio volume, screen brightness, battery status/notifications, and workspace switching."
 msgstr ""
+"Controles simples del sistema a través del menú de sistema para configurar "
+"el volúmen del audio, brillo de pantalla, estado/notificaciones de la "
+"batería, y cambio de espacios de trabajo."
 
 #: ../../lumina.rst:41
 msgid "Total system search capabilities through :ref:`Lumina Search`, without a daemon eating memory in the background."
 msgstr ""
+"Capacidades de búsqueda total en el sistema mediante :ref:`Búsqueda de "
+"Lumina`, sin un demonio consumiendo la memoria en segundo plano."
 
 #: ../../lumina.rst:43
 msgid "Screenshot functionality through :ref:`Lumina Screenshot` which is also tied to the “Print Screen” key by default."
 msgstr ""
+"Funcionalidad de captura de pantalla mediante :ref:`Captura de Pantalla de "
+"Lumina` el cual también está vinculado a la tecla “Impr Pant” por defecto."
 
 #: ../../lumina.rst:48
 msgid "Start Menu"
