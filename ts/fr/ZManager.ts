@@ -511,11 +511,14 @@ Lisez le manuel ZFS pour plus d&apos;informations.</translation>
         <translation>Supprimer la propriété de l&apos;utilisateur</translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
-lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
+gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Active ou désactive la compression pour un jeu de données. Ces valeurs sont on, off, lz4, lzjb, zle,
+gzip and gzip-N. Actuellement, paramétrer cette propriété sur lz4, lzjb, gzip, or gzip-N a le même
+effet que paramétrer cette propriété sur on. Activer la compression sur un système de fichiers avec
+des données existantes compresse uniquement les nouvelles données. Les données existantes restent non compressées.</translation>
     </message>
 </context>
 <context>
