@@ -86,6 +86,14 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Oturum kapatıldığında silinecek geçici bir ev dizini kullan)</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Yenile</translation>
+    </message>
+    <message>
+        <source>Refresh available users</source>
+        <translation>Mevcut kullanıcıları yenile</translation>
+    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -160,6 +168,10 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Yerel ayarı değiştir (%1)</translation>
+    </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation>PCDM&apos;yi Yenile</translation>
     </message>
 </context>
 <context>
