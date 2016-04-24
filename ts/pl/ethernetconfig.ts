@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>IP:</source>
-        <translation>IP:</translation>
+        <translation>Adres IP:</translation>
     </message>
     <message>
         <source>Netmask:</source>
@@ -109,15 +109,15 @@
     </message>
     <message>
         <source>Gateway:</source>
-        <translation>Brama:</translation>
+        <translation>Brama domyślna:</translation>
     </message>
     <message>
         <source>IPv6:</source>
-        <translation>IPv6:</translation>
+        <translation>Adres IPv6:</translation>
     </message>
     <message>
         <source>Mac:</source>
-        <translation>Mac:</translation>
+        <translation>Adres MAC:</translation>
     </message>
     <message>
         <source>Media:</source>

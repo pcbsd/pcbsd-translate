@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Remove the currently selected boot environment</source>
-        <translation>Usuń aktualnie wybrane środowisko rozruchowe</translation>
+        <translation>Usuń wybrane środowisko rozruchowe</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Rename the currently selected boot environment</source>
-        <translation>Zmień nazwę aktualnie wybranego środowiska rozruchowego</translation>
+        <translation>Zmień nazwę wybranego środowiska rozruchowego</translation>
     </message>
     <message>
         <source>Activate the selected boot environment to be used as the default during bootup</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Select a font file for GRUB</source>
-        <translation>Wybierz plik czcionek dla GRUB&apos;a</translation>
+        <translation>Wybierz plik czcionek dla GRUB'a</translation>
     </message>
     <message>
         <source>Display the GRUB menu during the countdown</source>

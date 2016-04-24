@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Gateway:</source>
-        <translation>Brama:</translation>
+        <translation>Brama domyślna:</translation>
     </message>
     <message>
         <source>IPv6:</source>
@@ -458,6 +458,14 @@ Proszę skonfigurować klucz WPA-Enterprise przed zapisem!</translation>
     <message>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Enterprise (skonfigurowane)</translation>
+    </message>
+    <message>
+        <source>WPA-Enterprise is selected, but not configured!
+Please configure your WPA settings before saving!
+Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
+        <translation>Wybrano WPA-Enterprise bez należytej konfiguracji!
+Proszę skonfigurować WPA przed zapisaniem!
+Dostępne opcje to: MD5, MSCHAPV2, GTC lub OTP.</translation>
     </message>
 </context>
 </TS>

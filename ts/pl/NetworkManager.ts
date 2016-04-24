@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Gateway:</source>
-        <translation>Brama:</translation>
+        <translation>Brama domyślna:</translation>
     </message>
     <message>
         <source>Enable IPv6 support</source>
@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>IPv6 gateway:</source>
-        <translation>Brama IPv6:</translation>
+        <translation>Brama domyślna IPv6:</translation>
     </message>
     <message>
         <source>IPV6 DNS 1:</source>

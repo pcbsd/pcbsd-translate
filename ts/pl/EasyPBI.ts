@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;O</translation>
+        <translation>&amp;O Systemie</translation>
     </message>
     <message>
         <source>View additional information about EasyPBI</source>
@@ -805,7 +805,7 @@
         <translation>Narzędzie do przełączania użytkowników</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation>Pełna ścieżka do graficznego programu do przełączania użytkowników (pc-su, gksu, kdesu, qsu, etc..)</translation>
     </message>
     <message>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI wersja %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Twórz PBI szybko i prosto.</translation>
     </message>
     <message>
