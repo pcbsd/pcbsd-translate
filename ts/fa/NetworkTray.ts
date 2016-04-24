@@ -126,11 +126,11 @@
     </message>
     <message>
         <source>Hex Key</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید هکس</translation>
     </message>
     <message>
         <source>Plain Text (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>متن ساده (پیش فرض)</translation>
     </message>
 </context>
 </TS>

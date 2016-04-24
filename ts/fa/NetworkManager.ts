@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>IP address</source>
-        <translation>آدرس IP</translation>
+        <translation>نشانی IP:</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -268,23 +268,23 @@
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام دامنه:</translation>
     </message>
     <message>
         <source>999\.999\.999\.999</source>
-        <translation type="unfinished"></translation>
+        <translation>999\.999\.999\.999</translation>
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname, and domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>شما برای اعمال تغییرات نام میزبان و نام دامنه باید رایانه خود را راه اندازی مجدد کنید</translation>
     </message>
     <message>
         <source>IPv4 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>آدرس آی‌پی نسخه4:‌</translation>
     </message>
     <message>
         <source>IPv6 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>آدرس آی‌پی نسخه6:‌</translation>
     </message>
 </context>
 </TS>
