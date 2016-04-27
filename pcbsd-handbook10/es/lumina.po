@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-04-22 20:16+0000\n"
+"PO-Revision-Date: 2016-04-27 18:52+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1461783166.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -273,43 +275,85 @@ msgstr ""
 
 #: ../../lumina.rst:103
 msgid "Panel and System Tray"
-msgstr ""
+msgstr "Panel y Bandeja del Sistema"
 
 #: ../../lumina.rst:105
 msgid "By default, Lumina provides a panel at the bottom of the screen with a system tray at the far right of the panel. This section describes the default layout. For instructions on how to configure the panel to suit your needs, refer to the \"Panels\" tab :ref:`Interface` section."
 msgstr ""
+"Por defecto, Lumina proporciona un panel en la parte inferior de la pantalla "
+"con una bandeja del sistema en el extremo derecho del panel. Esta sección "
+"describe el diseño predeterminado. Para instrucciones sobre cómo configurar "
+"el panel para ajustarse a sus necesidades, refiérase a la pestaña \"Paneles\""
+" sección :ref:`Interface`."
 
 #: ../../lumina.rst:108
 msgid "As you open windows or applications, a button will be added to the section of the panel near the system menu. If the application provides an icon, the button will appear as that icon and if you mouse over it, the tooltip will show the name of the application. If you have multiple copies of an application running, it will combine all those entries into a single button and list the number of windows after the icon. If you click on a button, it will automatically make that window active and if you click it again, it will automatically minimize it. If there are multiple windows, you can select the particular window you want to activate from a drop-down menu."
 msgstr ""
+"Mientras abre ventanas o aplicaciones, un botón será añadido a la sección "
+"del panel cercano al menú sistema. Si la aplicación proporciona un icono, el "
+"botón aparecerá como ese icono y si pase el puntero del ratón sobre el, un "
+"mensaje mostrará el nombre de la aplicación. Si tiene múltiples copias de "
+"una aplicación corriendo, combinará todas esas entradas en un solo botón y "
+"listará el número de ventanas después del icono. Si presiona en un botón, "
+"automáticamente convertirá esa ventana en activa y si vuelve a presionar de "
+"nuevo, automáticamente la minimizará. Si hay múltiples ventanas, puede "
+"seleccionar la ventana en particular que quiera activar desde el menú "
+"desplegable."
 
 #: ../../lumina.rst:113
 msgid "If you right-click the title of an open window, a menu of options will appear so that you can shade, stick, maximize, iconify, raise, lower, set the window title, send the window to a workspace, layer/dock the window, set the window's transparency, remember a specified setting, or close the window."
 msgstr ""
+"Si presiona el botón derecho en el título de una ventana abierta, un menú de "
+"opciones aparecerá para que usted pueda sombrearla, pegarla, maximizarla, "
+"iconificarla, levantarla, bajarla, establecer el título de la ventana, "
+"mandar la ventana a un espacio de trabajo, poner la ventana en un dock o "
+"capa, establecer la transparencia de la ventana, recordar una configuración "
+"específica, o cerrar la ventana."
 
 #: ../../lumina.rst:116
 msgid "The system tray is located in the right portion of the panel. Any applications that register a tray icon will appear in this area. For example, on a PC-BSD system, icons will appear for Life Preserver, Mount Tray, and Update Manager. Click or right-click an icon to interact with that application directly. The current system time shown by the clock is in the default format for the current locale. If you click the clock icon and then click \"Time Zone\", a menu will open where you can select to either \"Use System Time\" or click a country name in order to select a city to change to that city's time zone."
 msgstr ""
+"La bandeja del sistema está localizada en la porción derecha del panel. "
+"Cualquier aplicación que registre, un icono de bandeja aparecerá en esta "
+"área. Por ejemplo, en un sistema PC-BSD, aparecerán iconos para Life "
+"Preserver, Bandeja de Montaje, y el Administrador de Actualizaciones. "
+"Presione o haga botón derecho en el icono para interactuar con esa "
+"aplicación directamente. La hora actual del sistema mostrada por el reloj "
+"está en el formato predeterminado para la localización actual. Si presiona "
+"el icono del reloj y presiona en \"Zona Horaria\", un menú se abrirá y podrá "
+"seleccionar ya sea \"Usar la Hora del Sistema\" o presionar un nombre de un "
+"país para seleccionar una ciudad y cambiar a la zona horaria de ese lugar."
 
 #: ../../lumina.rst:125
 msgid "Right-Click Menu"
-msgstr ""
+msgstr "Menú del Botón Derecho"
 
 #: ../../lumina.rst:127
 msgid "If you right-click the desktop, a menu of quick shortcuts will appear and the title of the menu will indicate the name of the current workspace. This section describes the default menu items. For instructions on how to configure the right-click panel to suit your needs, refer to the \"Desktop\" tab :ref:`Interface` section."
 msgstr ""
+"Si hace botón derecho en el escritorio, un menú de accesos rápidos aparecerá "
+"y el título del menú indicará el nombre del espacio de trabajo actual. Esta "
+"sección describe los elementos predeterminados del menú. Para instrucciones "
+"sobre cómo configurar el panel del botón derecho para ajustarse a sus "
+"necesidades, refiérase a la pestaña \"Escritorio\" de la sección "
+":ref:`Interface`."
 
 #: ../../lumina.rst:130
 msgid "By default, the right-click menu contains the following items:"
 msgstr ""
+"Por defecto, el menú del botón derecho contiene los siguientes elementos:"
 
 #: ../../lumina.rst:132
 msgid "**Terminal:** used to launch a system terminal. The default is :command:`xterm`, but this can be customized."
 msgstr ""
+"**Terminal:** usado para lanzar una terminal del sistema. El predeterminado "
+"es :command:`xterm`, pero esto puede personalizarse."
 
 #: ../../lumina.rst:134
 msgid "**Browse Files:** launches the default, and recommended, file manager, the :ref:`Insight File Manager`."
 msgstr ""
+"**Buscar archivos:** lanza el gestor de archivos predeterminado, y "
+"recomendado, el :ref:`Gestor de Archivos Insight`."
 
 #: ../../lumina.rst:136
 msgid "**Applications:** provides shortcuts to the operating system's graphical software management utility (if available), the control panel (if the operating system provides one), and the applications currently registered on the system, arranged by system category."
@@ -322,66 +366,142 @@ msgstr ""
 #: ../../lumina.rst:139
 msgid "**Preferences:** contains shortcuts to the screensaver preferences, :ref:`Lumina Configuration` utility, display configuration (:ref:`Lumina Xconfig`), the operating system's control panel, and for determining the version of Lumina."
 msgstr ""
+"**Preferencias:** contiene accesos a las preferencias del protector de "
+"pantalla, a la utilería de :ref:`Configuración de Lumina`, desplegar "
+"configuración (:ref:`Lumina Xconfig`), al panel de control del sistema "
+"operativo, y para determinar la versión de Lumina."
 
 #: ../../lumina.rst:142
 msgid "**Leave:** opens the system log out window, with options to log out of the desktop session, restart the system (if the user has permission), shutdown the system (if the user has permission), cancel the log out window, lock the system, or suspend the system (if the operating system supports suspend mode)."
 msgstr ""
+"**Salir:** abre la ventana de salida del sistema, con opciones para salir de "
+"la sesión del escritorio, reiniciar el sistema (si el usuario tiene permisos)"
+", apagar el sistema (si el usuario tiene permisos), cancelar la pantalla de "
+"salida, bloquear el sistema, o suspender el sistema (si el sistema operativo "
+"soporta el modo de suspensión)."
 
 #: ../../lumina.rst:149
 msgid "Lumina Configuration"
-msgstr ""
+msgstr "Configuración de Lumina"
 
 #: ../../lumina.rst:151
 msgid "The Lumina Configuration utility, shown in :numref:`Figure %s: Lumina Desktop Configuration <lumina3b>`, can be used to configure every aspect of the desktop and is the recommended way to make changes. To launch this utility, click the start menu then :menuselection:`Preferences --> Configure Desktop`, right-click the desktop and click :menuselection:`Preferences --> Desktop`, or type :command:`lumina-config` from an xterm."
 msgstr ""
+"La utilería de Configuración de Lumina, mostrada en la :numref:`Figura %s: "
+"Configuración del Escritorio de Lumina <lumina3b>`, puede usarse para "
+"configurar cada aspecto del escritorio y es la forma recomendada de realizar "
+"cambios. Para lanzar esta utilería, presione el menú inicio, después "
+":menuselection:`Preferencias --> Configurar Escritorio`, de botón derecho en "
+"el escritorio y presione :menuselection:`Preferencias --> Escritorio`, o "
+"ingrese :command:`lumina-config` desde una xterm."
 
 #: ../../lumina.rst:159
 msgid "Each of the tabs at the top configures a different area of the system, with the most frequently changed options on the left side. As changes are made, the \"Save Changes\" button at the bottom of the window becomes active. This allows the user to setup multiple changes in any tab and apply them all at the same time."
 msgstr ""
+"Cada una de las pestañas en la parte superior configura un área diferente "
+"del sistema, con las opciones más cambiadas en el lado izquierdo. Mientras "
+"se hacen los cambios, el botón \"Guardar Cambios\" en la parte inferior de "
+"la ventana, se activa. Esto le permite al usuario ajustarr múltiples cambios "
+"en cualquier pestaña y aplicarlos todos al mismo tiempo."
 
 #: ../../lumina.rst:163
 msgid "If you make any changes in any of the tabs, remember to click \"Save Changes\" before exiting this utility in order to save them."
 msgstr ""
+"Si hace cualquier cambio en cualquiera de las pestañas, recuerde presionar \""
+"Guardar Cambios\" antes de salir de esta utilería para que permanezcan."
 
 #: ../../lumina.rst:165
 msgid "The rest of this section describes the configurations that are available in each tab."
 msgstr ""
+"El resto de esta sección describe las configuraciones que están disponibles "
+"en cada pestaña."
 
 #: ../../lumina.rst:171
 msgid "Appearance"
-msgstr ""
+msgstr "Apariencia"
 
 #: ../../lumina.rst:173
 msgid "This tab is used to change the visual appearance and functionality of the desktop on a per-screen basis. The \"Wallpaper\" tab, shown in :numref:`Figure %s: Lumina Desktop Configuration <lumina3b>`, can be used to add a wallpaper (\"+\" button) or remove (\"-\" button) a wallpaper. When you click the \"+\" button, the drop-down menu can be used to select the file(s), a single directory, a directory and all of its subdirectories, or a solid color to use as the wallpaper. If multiple images are selected, the \"Rotate Background\" button can be selected as well as a specified time interval in minutes to rotate to the next image."
 msgstr ""
+"Esta pestaña es usada para cambiar la apariencia visual y funcionalidad del "
+"escritorio en una base por pantalla. La pestaña \"Fonde de Escritorio\", "
+"mostrada en la :numref:`Figura %s: Configuración del Escritorio de Lumina "
+"<lumina3b>`, puede usarse para añadir una imágen de fondo (botón \"+\") o "
+"eliminarla (botón \"-\"). Cuando presiona el botón \"+\", el menú "
+"desplegable puede usarse para seleccionar el/los archivo(s), un solo "
+"directorio, un directorio y todos sus subdirectorios, o un color sólido para "
+"usar como imágen de fondo. Si se seleccionan múltiples imágenes, el botón \""
+"Rotar Fondo\" puede seleccionarse también como un intervalo de tiempo "
+"especificado en minutos para rotar a la siguiente imágen."
 
 #: ../../lumina.rst:178
 msgid "Click the \"Layout\" drop-down menu to change the default layout of \"Automatic\" to one of the following options: \"Tile\", \"Center\", \"Top Left\", \"Top Right\", \"Bottom Left\", or \"Bottom Right\"."
 msgstr ""
+"Presione en el menú desplegable \"Diseño\" para cambiar al diseño "
+"predeterminado de \"Automático\" a una de las siguientes opciones: \""
+"Mosaico\", \"Centrado\", \"Superior Izquierda\", \"Superior Derecha\", \""
+"Inferior Izquierda\", o \"Inferior Derecha\"."
 
 #: ../../lumina.rst:180
 msgid "The options that are available when you click :menuselection:`+ --> Solid Color` are shown in :numref:`Figure %s: Modifying the Wallpaper <lumina16a>`. If you select a color and click \"OK\", it will be added as a solid color background to the wallpaper selection drop-down menu."
 msgstr ""
+"Las opciones que están disponibles cuando presiona :menuselection:`+ --> "
+"Color Sólido` se muestran en la :numref:`Figura %s: Modificando el Fondo de "
+"Escritorio <lumina16a>`. Si selecciona un color y presiona \"OK\", se "
+"añadirá como un color sólido de fondo al menú desplegable de selección del "
+"fondo de escritorio."
 
 #: ../../lumina.rst:187
 msgid "The \"Theme\" tab, shown in :numref:`Figure %s: Modifying the Theme <lumina17b>`, can be used to change the default font, font size, theme template, color scheme, icon pack, and mouse cursors."
 msgstr ""
+"La pestaña \"Tema\", mostrada en la :numref:`Figura %s: Modificando el Tema "
+"<lumina17b>`, puede usarse para cambiar la fuente por defecto, tamaño de la "
+"misma, plantilla del tema, esquema de color, paquete de iconos, y cursores "
+"del ratón."
 
 #: ../../lumina.rst:194
 msgid "It is possible to create your own \"Theme Template\" or \"Color Scheme\" by clicking the \"Edit\" button next to those options and changing the settings as necessary. :numref:`Figure %s: Using the Theme Editor <lumina18a>` shows an example of clicking the \"Edit\" button with the \"Lumina-default (System)\" theme template selected. This action opened the \"Theme Editor\" and the user has clicked the color selector (dropper icon) in the upper right corner. After selecting an item in this menu, the template controlling that selection can be edited by changing the values in the theme editor box. Note that the theme templates are written as `Qt stylesheets <http://doc.qt.io/qt-5/stylesheet.html>`_, so some scripting experience may be helpful when configuring a theme. After making your changes, you can either click the \"Save\" button to save the theme without closing the editor, or click the \"Apply\" button which will both save the theme and close the theme editor."
 msgstr ""
+"Es posible crear su propia \"Plantilla del Tema\" o \"Esquema de Color\" "
+"presionando en el botón \"Editar\" junto a esas opciones y cambiar las "
+"configuraciones según sea necesario. La :numref:`Figura %s: Usando el Editor "
+"de Temas <lumina18a>` muestra un ejemplo de presionar el botón \"Editar\" "
+"con la plantilla del tema \"Lumina-default (Sistema)\" seleccionado. Esta "
+"acción abre el \"Editor de Temas\" y el usuario ha presionado el selector de "
+"color (icono del gotero) en la esquina superior derecha. Después de "
+"seleccionar un elemento en este menú, la plantilla controlando esa selección "
+"puede ser editado al cambiar los valores en la casilla del editor de temas. "
+"Note que las plantillas de temas están escritas como `Hojas de Estilo Qt "
+"<http://doc.qt.io/qt-5/stylesheet.html>`_, así que algo de experiencia en "
+"scripting podría ser de ayuda al configurar un tema. Despues de hacer sus "
+"cambios, usted puede presionar el botón \"Guardar\" para guardar el tema sin "
+"cerrar el editor, o presionar el botón \"Aplicar\" el cual guardará el tema "
+"y cerrará el editor de temas."
 
 #: ../../lumina.rst:209
 msgid "Interface"
-msgstr ""
+msgstr "Interfaz"
 
 #: ../../lumina.rst:211
 msgid "The \"Interface\" tab is used to configure the desktop right-click menu and panel. Its \"Desktop\" tab, shown in :numref:`Figure %s: Right-Click Menu Configuration <lumina4c>`, is used to configure which items appear in the right-click menu and which items are embedded onto the desktop."
 msgstr ""
+"La pestaña \"Interfaz\" se usa para configurar el menú de botón derecho del "
+"escritorio y el panel. Su pestaña \"Escritorio\", mostrada en la :numref:`"
+"Figura %s: Configuración del Menú de Botón Derecho <lumina4c>`, se usa para "
+"configurar qué elementos aparecerán en el menú de botón derecho y que "
+"elementos están embebidos en el escritorio."
 
 #: ../../lumina.rst:218
 msgid "To add an item to the right-click menu, click the \"+\" button under the \"Quick-Access Menu\". This will open the \"Select a Plugin\" screen where you can add an application, custom app, an entry for the :ref:`Insight File Manager`, a separator, a shortcut to Settings, a terminal, or a listing of currently open applications. To remove an item from the right-click menu, highlight it and click the \"-\" button. Use the arrow buttons to change the order of the items in the right-click menu."
 msgstr ""
+"Para añadir un elemento al menú de botón derecho, presione el botón \"+\" "
+"bajo el \"Menú de Acceso Rápido\". Esto abrirá la pantalla \"Seleccione un "
+"Plugin\" donde usted puede añadir una aplicación, aplicación personalizada, "
+"una entrada para el :ref:`Gestor de Archivos Insight`, un separador, un "
+"acceso directo a Configuraciones, una terminal, o una lista de aplicaciones "
+"abiertas actualmente. Para eliminar un elemento del menú de botón derecho, "
+"selecciónelo y presione el botón \"-\". Use los botones de flechas para "
+"cambiar el orden de los elementos en el menú de botón derecho."
 
 #: ../../lumina.rst:222
 msgid "To embed a utility onto the desktop, click the \"+\" button under the \"Embedded Utilities\" frame. The following plugins can be added as an icon on the desktop: Application Launcher (opens a menu that lists which applications can be launched), Audio Player, Calendar, Desktop Icons View, Note Pad, Sample (an example of a QtQuick/QML plugin), and System Monitor (displays CPU temperature/usage, memory usage, and disk I/O). Once you click the \"Save Changes\" button, any utilities you added will appear on top of the desktop. To remove an embedded utility from the desktop, highlight its entry under \"Embedded Utilities\", click the \"-\" button, and click \"Save Changes\". Alternately, right-click the icon for the utility and select \"Remove Item\" from the right-click menu."
@@ -394,6 +514,11 @@ msgstr ""
 #: ../../lumina.rst:232
 msgid "The \"Display Desktop Folder Contents\" option is used to display each item stored in :file:`~/Desktop` as an icon on the desktop. By default, this option is selected as its box is black. If you de-select this option and click \"Save Changes\", the icons for the contents of :file:`~/Desktop` will be removed from the desktop."
 msgstr ""
+"La opción \"Mostrar Contenidos de la Carpeta Escritorio\" es usada para "
+"desplegar cada elemento guardado en :file:`~/Escritorio` como un icono en el "
+"escritorio. Por defecto, esta opción es seleccionado ya que su casilla es "
+"negra. Si desmarca esta opción y presiona \"Guardar Cambios\", los iconos "
+"para los contenidos de :file:`~/Escritorio` serán eliminados del escritorio."
 
 #: ../../lumina.rst:235
 msgid "To configure the panel, click the \"Panels\" tab which will open the screen shown in :numref:`Figure %s: Panels Tab <lumina5d>`."
@@ -505,7 +630,7 @@ msgstr ""
 
 #: ../../lumina.rst:313
 msgid "Applications"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: ../../lumina.rst:315
 msgid "The \"Applications\" tab, shown in :numref:`Figure %s: Lumina Applications Configuration <lumina6b>`, is used to configure which applications start when you login to Lumina as well as the default applications and file types."
@@ -537,7 +662,7 @@ msgstr ""
 
 #: ../../lumina.rst:349
 msgid "Shortcuts"
-msgstr ""
+msgstr "Accesos Directos"
 
 #: ../../lumina.rst:351
 msgid "The \"Shortcuts\" tab, shown in :numref:`Figure %s: Lumina Shortcuts Configuration <lumina8a>`, is used to configure various keyboard shortcuts for system or window tasks. Most of these options relate to window and workspace management, such as moving windows between workspaces, but there are also options for changing the system audio volume or screen brightness."
@@ -549,7 +674,7 @@ msgstr ""
 
 #: ../../lumina.rst:366
 msgid "Session"
-msgstr ""
+msgstr "Sesión"
 
 #: ../../lumina.rst:368
 msgid "The \"Session\" tab, shown in :numref:`Figure %s: Session General Options Tab <lumina12d>`, governs the general settings for the desktop session. These settings are usually not changed on a frequent basis."
@@ -601,7 +726,7 @@ msgstr ""
 
 #: ../../lumina.rst:418
 msgid "Lumina Utilities"
-msgstr ""
+msgstr "Utilerías de Lumina"
 
 #: ../../lumina.rst:420
 msgid "Lumina provides many built-in utilities, which are described in this chapter."
@@ -609,7 +734,7 @@ msgstr ""
 
 #: ../../lumina.rst:426
 msgid "Lumina Screenshot"
-msgstr ""
+msgstr "Captura de Pantalla de Lumina"
 
 #: ../../lumina.rst:428
 msgid "This utility can be used to take screenshots of the desktop or selected window and save them as PNG image files. To launch this utility, click the start menu and select :menuselection:`Browse Applications --> Utility --> Lumina Screenshot`, right-click the desktop and select :menuselection:`Applications --> Utility --> Lumina Screenshot`, type :command:`lumina-screenshot` from a terminal window, or press the :kbd:`Print Screen` button."
@@ -641,7 +766,7 @@ msgstr ""
 
 #: ../../lumina.rst:454
 msgid "Insight File Manager"
-msgstr ""
+msgstr "Gestor de Archivos Insight"
 
 #: ../../lumina.rst:456
 msgid "The Insight file manager, shown in :numref:`Figure %s: Insight File Manager <lumina10>`, allows the user to easily browse and modify files on the local system on a per-directory basis. To open Insight, click the start menu and select \"Browse Files\", right-click the desktop and select \"Browse Files\", or type :command:`lumina-fm` from an xterm."
@@ -681,7 +806,7 @@ msgstr ""
 
 #: ../../lumina.rst:500
 msgid "Lumina Open"
-msgstr ""
+msgstr "Lumina Abrir"
 
 #: ../../lumina.rst:502
 msgid "To open a file, directory, or URL from the command line, use :command:`lumina-open` followed by the full path to the file or the URL. This utility will look for an appropriate application to use to open the specified file or URL. If there is no default application registered for the input type, a small dialog will prompt the user to select which application to use, and optionally set it as the default application for this file type. As seen in the example shown in :numref:`Figure %s: Lumina Open <lumina11a>`, this dialog organizes the available applications into three types:"
@@ -701,7 +826,7 @@ msgstr ""
 
 #: ../../lumina.rst:524
 msgid "Lumina Search"
-msgstr ""
+msgstr "Búsqueda Lumina"
 
 #: ../../lumina.rst:526
 msgid "Lumina Search provides the ability to easily search for and launch applications or to quickly search for file and directories. The \"*\" wildcard can be used in the search terms and the search will include hidden files if the search term starts with a dot (\".\")."
