@@ -44,8 +44,12 @@
         <translation>Напомнить позже</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">8 часов {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 часа</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 часов</translation>
     </message>
 </context>
 <context>
