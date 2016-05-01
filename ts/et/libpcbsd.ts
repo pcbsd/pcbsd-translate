@@ -310,42 +310,6 @@ Kui nüüd katkestada, siis võivad pakid katki minna. Katkestada ikkagi?</trans
         <source>Alt+C</source>
         <translation>Alt+S</translation>
     </message>
-    <message>
-        <source>MD5</source>
-        <translation>MD5</translation>
-    </message>
-    <message>
-        <source>MSCHAPV2</source>
-        <translation>MSCHAPV2</translation>
-    </message>
-    <message>
-        <source>GTC</source>
-        <translation>GTC</translation>
-    </message>
-    <message>
-        <source>OTP</source>
-        <translation>OTP</translation>
-    </message>
-    <message>
-        <source>PAP</source>
-        <translation>PAP</translation>
-    </message>
-    <message>
-        <source>CHAP</source>
-        <translation>CHAP</translation>
-    </message>
-    <message>
-        <source>MSCHAP</source>
-        <translation>MSCHAP</translation>
-    </message>
-    <message>
-        <source>Phase 2 Auth:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Anonymous Identity:</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>metaWidget</name>
