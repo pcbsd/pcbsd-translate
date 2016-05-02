@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-04-29 22:28+0000\n"
+"PO-Revision-Date: 2016-05-02 19:06+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1462215996.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -521,6 +523,15 @@ msgstr ""
 #: ../../lumina.rst:228
 msgid "The following options are also available when you right-click an icon on the desktop, allowing you to customize the location and appearance of desktop icons: \"Start Moving Item\" (click the icon to lock it in place once you have moved it to the desired location), \"Start Resizing Item\" (use the mouse to increase/decrease size and click when you are finished), \"Increase Desktop Icon Sizes\" (increases all desktop icons, repeat as necessary), and \"Decrease Desktop Icon Sizes\" (decreases all desktop icons, repeat as necessary)."
 msgstr ""
+"Las siguientes opciones también están disponibles cuando hace clic derecho "
+"en un icono del escritorio, permitiéndole personalizar la posición y la "
+"apariencia de los iconos del escritorio: \"Mover Elemento\" (presione el "
+"icono para fijarlo en su lugar una vez que lo ha movido al lugar deseado), \""
+"Dimensionar Elemento\" (use el ratón para maximizar/minimizar el tamaño y "
+"presione cuando haya terminado), \"Aumentar el Tamaño de los Iconos del "
+"Escritorio\" (aumenta todos los iconos del escritorio, repita tanto como sea "
+"necesario), y \"Reduzca el Tamaño de los Iconos del Escritorio\" (reduce "
+"todos los iconos del escritorio, repita tanto como sea necesario)."
 
 #: ../../lumina.rst:232
 msgid "The \"Display Desktop Folder Contents\" option is used to display each item stored in :file:`~/Desktop` as an icon on the desktop. By default, this option is selected as its box is black. If you de-select this option and click \"Save Changes\", the icons for the contents of :file:`~/Desktop` will be removed from the desktop."
@@ -534,42 +545,72 @@ msgstr ""
 #: ../../lumina.rst:235
 msgid "To configure the panel, click the \"Panels\" tab which will open the screen shown in :numref:`Figure %s: Panels Tab <lumina5d>`."
 msgstr ""
+"Para configurar el panel. presione la pestaña \"Paneles\", que abrirá la "
+"pantalla mostrada en la :numref:`Figura %s: Pestaña Paneles <lumina5d>`."
 
 #: ../../lumina.rst:241
 msgid "This screen can be used to customize the location, alignment, size, theme, and plugins for an existing panel. The \"+\" and \"-\" icons towards the top, next to \"Panel 1\" can be used to add or remove additional panels. Panels must be aligned along a screen edge, opposite screen edges in the case of two panels, and may have any width, color, or transparency."
 msgstr ""
+"Esta pantalla puede usarse para personalizar la localización, alineación, "
+"tamaño, tema, y plugins para un panel existente. Los iconos de \"+\" y \"-\" "
+"hacia la parte superior, junto a \"Panel 1\" pueden usarse para añadir o "
+"eliminar paneles adicionales. Los paneles deben estar alineados a lo largo "
+"de un borde de la pantalla, en los bordes opuestos de la pantalla en el caso "
+"de dos paneles, y pueden tener cualquier ancho, color, o transparencia."
 
 #: ../../lumina.rst:244
 msgid "If you add additional panels, a frame, similar to \"Panel 1\", will be created for each panel, and will be labeled \"Panel 2\", \"Panel 3\", and so on. This allows you to configure each panel separately. The configuration tabs available for a panel are described below. Be sure to select the tab in the panel that you wish to customize."
 msgstr ""
+"Si añade paneles adicionales, un marco, similar al \"Panel 1\", se creará "
+"para cada panel, y se llamará \"Panel 2\", \"Panel 3\", y así sucesivamente. "
+"Esto le permite configurar cada panel por separado. Las pestañas de "
+"configuración disponibles para el panel se describen a continuación. "
+"Asegúrese de seleccionar la pestaña en el panel que quiera personalizar."
 
 #: ../../lumina.rst:247
 msgid "The \"Location\" tab (4 arrow icon) contains the following items:"
 msgstr ""
+"La pestaña \"Localización\" (icono de 4 flechas) contiene los siguientes "
+"elementos:"
 
 #: ../../lumina.rst:249
 msgid "**Edge:** this drop-down menu can be used to set the location of the panel which can be \"Top\", \"Bottom\", \"Left\", or \"Right\"."
 msgstr ""
+"**Borde:** este menú desplegable puede usarse para establecer la "
+"localización del panel, la cual puede ser \"Arriba\", \"Abajo\", \""
+"Izquierda\", o \"Derecha\"."
 
 #: ../../lumina.rst:251
 msgid "**Alignment:** this drop-down menu can be used to center the panel on the edge or pin it to one of the corners."
 msgstr ""
+"**Alineación:** este menú desplegable puede usarse para centrar el panel en "
+"el borde o pegarlo en una de las esquinas."
 
 #: ../../lumina.rst:253
 msgid "**Size:** can be used to specify the panel width in pixels and the panel length."
 msgstr ""
+"**Tamaño:** puede usarse para especificar el ancho del panel en pixeles y el "
+"largo del panel."
 
 #: ../../lumina.rst:255
 msgid "The \"Appearance\" tab (monitor icon) is shown in :numref:`Figure %s: Panels Appearance Tab <lumina19b>`."
 msgstr ""
+"La pestaña \"Apariencia\" (icono del monitor) se muestra en la :numref:`"
+"Figura %s: Pestaña de Apariencia de los Paneles <lumina19b>`."
 
 #: ../../lumina.rst:261
 msgid "If you would like the panel to be hidden unless the mouse is hovered over it, check the \"Auto-hide Panel\" box. The \"Custom Color\" option can be used to fine-tune the panel color. Click its box, then the paint icon to select the panel color."
 msgstr ""
+"Si quiere que el panel esté escondido a menos que el ratón pase sobre el, "
+"seleccione la casilla \"Ocultar Panel Automáticamente\". La opción de \""
+"Color Personalizado\" puede usarse para afinar el color del panel. Presione "
+"su caja, y luego el icono de pintura para seleccionar el color del panel."
 
 #: ../../lumina.rst:264
 msgid "The \"Plugins\" tab (puzzle icon) is shown in :numref:`Figure %s: Panels Plugins Tab <lumina20b>`."
 msgstr ""
+"La pestaña \"Plugins\" (icono de rompecabezas) se muestra en la :numref:`"
+"Figura %s: Pestaña de Plugins de los Paneles <lumina20b>`."
 
 #: ../../lumina.rst:270
 msgid "To add a plugin as an icon to the panel, click the \"+\" button below the listed plugins and select a plugin from the list that appears. The available plugins include:"
