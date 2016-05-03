@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-02 19:06+0000\n"
+"PO-Revision-Date: 2016-05-03 19:42+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1462304568.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -613,42 +615,67 @@ msgstr ""
 #: ../../lumina.rst:270
 msgid "To add a plugin as an icon to the panel, click the \"+\" button below the listed plugins and select a plugin from the list that appears. The available plugins include:"
 msgstr ""
+"Para añadir un plugin como un icono en el panel, presione el botón \"+\" "
+"debajo de los plugins listados y seleccione un plugin de la lista que "
+"aparece. Los plugins disponibles incluyen:"
 
 #: ../../lumina.rst:272
 msgid "**Application Launcher:** when you select this plugin, it will prompt you to select the application to launch. This will add a shortcut for launching the selected application to the panel."
 msgstr ""
+"**Lanzador de Aplicaciones:** cuando selecciona este plugin, le pedirá que "
+"seleccione la aplicación a lanzar. Esto añadirá un acceso directo en el "
+"panel para lanzar la aplicación seleccionada."
 
 #: ../../lumina.rst:275
 msgid "**Application Menu:** adds an application menu that contains a shortcut to your home directory, a shortcut to the operating system's graphical software management utility (if there is one), a shortcut to the operating system's Control Panel (if it provides one), and a list of installed software sorted by categories."
 msgstr ""
+"**Menú de Aplicaciones:** añade un menú de aplicaciones que contiene un "
+"acceso directo a su directorio personal, un acceso directo a la utilería "
+"gráfica de gestión de software del sistema operativo (si es que la hay), un "
+"acceso directo al Panel de Control del sistema operativo (si se proporciona "
+"uno), y una lista de software instalado, ordenado por categorías."
 
 #: ../../lumina.rst:278
 msgid "**Battery Monitor:** hover over this icon to view the current charge status of the battery. When the charge reaches 15% or below, the low battery icon will flash intermittently and will change to a low battery icon when there is less than 5% charge left."
 msgstr ""
+"**Monitor de la Batería:** pase el ratón sobre este icono para ver el estado "
+"actual de carga de la batería. Cuando la carga llega a 15% o menos, el icono "
+"de batería baja comenzará a parpadear intermitentemente y cambiará a un "
+"icono de batería baja cuando quede menos del 5% de carga."
 
 #: ../../lumina.rst:281
 msgid "**Desktop Bar:** adds a \"star\" button for automatically displaying entries for anything in the :file:`~/Desktop` folder and alternately launching the selected entry."
 msgstr ""
+"**Barra del Escritorio:** añade un botón de \"estrella\" para desplegar "
+"automáticamente entradas para todo en la carpeta :file:`~/Escritorio` y "
+"alternativamente lanzar la entrada seleccionada."
 
 #: ../../lumina.rst:283
 msgid "**Line:** adds a separator line to the panel."
-msgstr ""
+msgstr "**Linea:** añade una línea para separar en el panel."
 
 #: ../../lumina.rst:285
 msgid "**Show Desktop:** this button will hide all open windows so that only the desktop is visible. This is useful for touch screens or small devices."
 msgstr ""
+"**Mostrar Escritorio:** este botón ocultará todas las ventanas abiertas para "
+"que solo el escritorio sea visible. Esto es útil para pantallas táctiles o "
+"dispositivos pequeños."
 
 #: ../../lumina.rst:287
 msgid "**Spacer:** adds a blank area to the panel."
-msgstr ""
+msgstr "**Espaciador:** añade un área en blanco al panel."
 
 #: ../../lumina.rst:289
 msgid "**Start Menu:** adds a classic start menu as seen on other operating systems."
 msgstr ""
+"**Menú de Inicio:** añade el clásico menú de inicio como se muestra en otros "
+"sistemas operativos."
 
 #: ../../lumina.rst:291
 msgid "**System Dashboard:** used to view/modify audio volume, screen brightness, battery life, and virtual desktops."
 msgstr ""
+"**Dashboard del Sistema:** usado para ver/modificar el volúmen de audio, "
+"brillo de pantalla, vida de la batería, y los escritorios virtuales."
 
 #: ../../lumina.rst:293
 msgid "**System Tray:** provides a display area for dockable applications."
