@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
     <name>Installer</name>
     <message>
         <source>Load installation config file from USB stick</source>
-        <translation>Charger le fichier de config de l&apos;installation depuis une clé USB</translation>
+        <translation>Charger le fichier de config de l'installation depuis une clé USB</translation>
     </message>
     <message>
         <source>&amp;Load config from USB</source>
-        <translation>&amp;Charger la config depuis l&apos;USB</translation>
+        <translation>&amp;Charger la config depuis l'USB</translation>
     </message>
     <message>
         <source>Change the installation language</source>
-        <translation>Changer la langue d&apos;installation</translation>
+        <translation>Changer la langue d'installation</translation>
     </message>
     <message>
         <source>Welcome to PC-BSD! Please select your language and click next to continue.</source>
@@ -53,13 +53,13 @@
     </message>
     <message>
         <source>Your system is now being installed! This process may take a while, depending upon the installation options chosen, and system speed. You will be notified when the installation is finished.</source>
-        <translation>Votre système est en cours d&apos;installation ! Cette opération peut prendre du temps, selon les options choisies et la rapidité du système. Vous serez averti lorsque l&apos;installation sera terminée.</translation>
+        <translation>Votre système est en cours d'installation ! Cette opération peut prendre du temps, selon les options choisies et la rapidité du système. Vous serez averti lorsque l'installation sera terminée.</translation>
     </message>
     <message>
         <source>Your system is now installed!
  Click Finish to reboot. After rebooting you may eject the install media.</source>
         <translation>Votre système est maintenant installé !
- Cliquez sur Terminer pour redémarrer l&apos;ordinateur. Après le redémarrage, vous pouvez éjecter le média d&apos;installation.</translation>
+ Cliquez sur Terminer pour redémarrer l'ordinateur. Après le redémarrage, vous pouvez éjecter le média d'installation.</translation>
     </message>
     <message>
         <source>Display hardware compatibility diagnostic</source>
@@ -71,15 +71,15 @@
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation>Afficher l&apos;aide pour l&apos;écran actuel</translation>
+        <translation>Afficher l'aide pour l'écran actuel</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
-        <translation>Lancer le clavier à l&apos;écran</translation>
+        <translation>Lancer le clavier à l'écran</translation>
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation>Basculer entre la disposition clavier US et la disposition sélectionnée par l&apos;utilisateur</translation>
+        <translation>Basculer entre la disposition clavier US et la disposition sélectionnée par l'utilisateur</translation>
     </message>
     <message>
         <source>Emergency Shell and Utilities</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Cancel the installation</source>
-        <translation>Annuler l&apos;installation</translation>
+        <translation>Annuler l'installation</translation>
     </message>
     <message>
         <source>Ab&amp;ort</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>Unable to detect any disk drives! The install will now exit.</source>
-        <translation>Impossible de détecter les disques durs! L&apos;installation va maintenant se terminer.</translation>
+        <translation>Impossible de détecter les disques durs! L'installation va maintenant se terminer.</translation>
     </message>
     <message>
         <source>Unable to suggest a partition for the detected disk.</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>The original ZFS layout will be restored</source>
-        <translation>L&apos;agencement ZFS d&apos;origine sera rétablie</translation>
+        <translation>L'agencement ZFS d'origine sera rétablie</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
@@ -173,7 +173,7 @@
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
         <translation>Votre système est désormais restauré !
-Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éjecter le média d&apos;installation.</translation>
+Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éjecter le média d'installation.</translation>
     </message>
     <message>
         <source>System Restore</source>
@@ -189,11 +189,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>The installer has encountered an error and has been halted.</source>
-        <translation>L&apos;installeur a rencontré une erreur et a été arrêté.</translation>
+        <translation>L'installeur a rencontré une erreur et a été arrêté.</translation>
     </message>
     <message>
         <source>Do you want to generate an error report?</source>
-        <translation>Voulez-vous générer un rapport d&apos;erreur ?</translation>
+        <translation>Voulez-vous générer un rapport d'erreur ?</translation>
     </message>
     <message>
         <source>Restart the system now?</source>
@@ -221,7 +221,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Are you sure you want to abort this installation?</source>
-        <translation>Êtes-vous sûr de vouloir d&apos;annuler cette installation ?</translation>
+        <translation>Êtes-vous sûr de vouloir d'annuler cette installation ?</translation>
     </message>
     <message>
         <source>Warning: The selected disk / partition is less than recommended %1GB.</source>
@@ -229,7 +229,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>This will save your installation configuration to a MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation>Cela enregistrera votre configuration d&apos;installation sur une clé USB formatée MSDOSFS/FAT32. Continuer ?</translation>
+        <translation>Cela enregistrera votre configuration d'installation sur une clé USB formatée MSDOSFS/FAT32. Continuer ?</translation>
     </message>
     <message>
         <source>Please insert a USB stick now, and click OK to continue.</source>
@@ -237,11 +237,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Please enter the nickname you want to save this configuration as.</source>
-        <translation>Veuillez entrer le nom que vous souhaitez donner à l&apos;enregistrement de cette configuration.</translation>
+        <translation>Veuillez entrer le nom que vous souhaitez donner à l'enregistrement de cette configuration.</translation>
     </message>
     <message>
         <source>Failed saving config to USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation>Échec durant l&apos;enregistrement sur le support USB. Le périphérique fonctionne-t-il et est-il formaté en MSDOSFS/FAT32 ?</translation>
+        <translation>Échec durant l'enregistrement sur le support USB. Le périphérique fonctionne-t-il et est-il formaté en MSDOSFS/FAT32 ?</translation>
     </message>
     <message>
         <source>Configuration saved! You may now safely remove the USB media.</source>
@@ -249,7 +249,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>This will load a installation configuration file your MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation>Cela chargera un fichier de configuration d&apos;installation depuis votre clé USB formatée MSDOSFS/FAT32. Continuer ?</translation>
+        <translation>Cela chargera un fichier de configuration d'installation depuis votre clé USB formatée MSDOSFS/FAT32. Continuer ?</translation>
     </message>
     <message>
         <source>Please insert the USB stick now, and click OK to continue.</source>
@@ -269,7 +269,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Start the install using this config file?</source>
-        <translation>Lancer l&apos;installation en utilisant ce fichier de config ?</translation>
+        <translation>Lancer l'installation en utilisant ce fichier de config ?</translation>
     </message>
     <message>
         <source>Restoring system: %1</source>
@@ -277,15 +277,15 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Start the default Full-Disk installation now?</source>
-        <translation>Démarrer l&apos;installation sur le disque entier par défaut maintenant ?</translation>
+        <translation>Démarrer l'installation sur le disque entier par défaut maintenant ?</translation>
     </message>
     <message>
         <source>Start the Customized-Disk installation now?</source>
-        <translation>Démarrer l&apos;installation sur le disque personnalisé maintenant ?</translation>
+        <translation>Démarrer l'installation sur le disque personnalisé maintenant ?</translation>
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation>Script de configuration de l&apos;installeur PC-BSD</translation>
+        <translation>Script de configuration de l'installeur PC-BSD</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
@@ -297,42 +297,38 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation>Annuler l&apos;installation du script de configuration</translation>
+        <translation>Annuler l'installation du script de configuration</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Veuillez sélectionner le type d'installation à effectuer</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Bureau graphique</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (Bureau graphique)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Le mieux pour les serveurs et les systèmes dépourvus d'affichage</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (serveur basé console)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Restaurer depuis une sauvegarde existante</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the language you wish to perform the install with.</source>
-        <translation>Cet écran vous permet de sélectionner la langue que vous souhaitez utiliser lors de l&apos;installation.</translation>
+        <translation>Cet écran vous permet de sélectionner la langue que vous souhaitez utiliser lors de l'installation.</translation>
     </message>
     <message>
         <source>This screen allows you to select the type of system you wish to install. Clicking customize will allow you to change the selected packages for your system.</source>
@@ -344,50 +340,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
-        <translation>Votre système est désormais en cours d&apos;installation ! Prenez une tasse de café et détendez-vous, l&apos;installateur vous informera quand ce sera terminé.</translation>
+        <translation>Votre système est désormais en cours d'installation ! Prenez une tasse de café et détendez-vous, l'installateur vous informera quand ce sera terminé.</translation>
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
-        <translation>Le système a maintenant terminé l&apos;installation ! Cliquez sur Terminer pour redémarrer, et assurez-vous d&apos;enlever tous les médias d&apos;installation avant le démarrage de votre nouveau système.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Annuler</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Le système a maintenant terminé l'installation ! Cliquez sur Terminer pour redémarrer, et assurez-vous d'enlever tous les médias d'installation avant le démarrage de votre nouveau système.</translation>
     </message>
 </context>
 <context>
@@ -486,7 +443,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation>( vous pouvez écrire dans l&apos;espace en-dessous pour tester vos réglages. )</translation>
+        <translation>( vous pouvez écrire dans l'espace en-dessous pour tester vos réglages. )</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -537,7 +494,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
-        <translation>S&apos;il s&apos;agit d&apos;une installation ZFS sur un seul disque, vous pouvez continuer, sinon veuillez sélectionnez ci-dessous le mode miroir / raid et les disques.</translation>
+        <translation>S'il s'agit d'une installation ZFS sur un seul disque, vous pouvez continuer, sinon veuillez sélectionnez ci-dessous le mode miroir / raid et les disques.</translation>
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
@@ -549,11 +506,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
-        <translation>Remarque : L&apos;utilisation miroir/raidz de ZFS peut uniquement être activée lorsque vous effectuez des installations sur des disques complets</translation>
+        <translation>Remarque : L'utilisation miroir/raidz de ZFS peut uniquement être activée lorsque vous effectuez des installations sur des disques complets</translation>
     </message>
     <message>
         <source>ZFS allows the use of read-cache (L2Arc) and write log devices (ZIL). If you wish to enable either of these, please select the disks to be used below. </source>
-        <translation>ZFS permet l&apos;utilisation de cache de lecture (L2Arc) et de dispositif d&apos;écriture synchrone (ZIL). Si vous souhaitez activer un des deux, veuillez sélectionnez les disques à utiliser ci-dessous.</translation>
+        <translation>ZFS permet l'utilisation de cache de lecture (L2Arc) et de dispositif d'écriture synchrone (ZIL). Si vous souhaitez activer un des deux, veuillez sélectionnez les disques à utiliser ci-dessous.</translation>
     </message>
     <message>
         <source>Enable cache device</source>
@@ -561,11 +518,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Enable log device</source>
-        <translation>Activer périphérique d&apos;écriture synchrone</translation>
+        <translation>Activer périphérique d'écriture synchrone</translation>
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
-        <translation>PC-BSD peut encrypter vos disques en utilisant la structure GELI. C&apos;est d&apos;un cryptage complet de disque et cela requiert un mot de passe au démarrage.</translation>
+        <translation>PC-BSD peut encrypter vos disques en utilisant la structure GELI. C'est d'un cryptage complet de disque et cela requiert un mot de passe au démarrage.</translation>
     </message>
     <message>
         <source>Encrypt disk with GELI (Requires GPT disk scheme)</source>
@@ -601,7 +558,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation>Vous avez choisi le mode Expert. Dans ce mode, vous êtes en mesure de lancer une fenêtre de terminal et utilisez la ligne de commande pour partitionner manuellement votre disque. Lorsque vous aurez terminé, assurez-vous de monter votre système de fichiers dans /mnt pour commencer l&apos;installation. </translation>
+        <translation>Vous avez choisi le mode Expert. Dans ce mode, vous êtes en mesure de lancer une fenêtre de terminal et utilisez la ligne de commande pour partitionner manuellement votre disque. Lorsque vous aurez terminé, assurez-vous de monter votre système de fichiers dans /mnt pour commencer l'installation. </translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>
@@ -613,7 +570,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Use entire disk</source>
-        <translation>Utiliser l&apos;intégralité du disque</translation>
+        <translation>Utiliser l'intégralité du disque</translation>
     </message>
     <message>
         <source>Please select 2 or 4 additional drives for raidz1</source>
@@ -664,8 +621,8 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
         <translation>Montage Invalide</translation>
     </message>
     <message>
-        <source>Mount point should start with &apos;/&apos;</source>
-        <translation>Le point de montage doit commencer par &apos;/&apos;</translation>
+        <source>Mount point should start with '/'</source>
+        <translation>Le point de montage doit commencer par '/'</translation>
     </message>
     <message>
         <source>Editing:</source>
@@ -752,23 +709,15 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
         <translation>Veuillez sélectionner le disque ou la partition sur lequel vous souhaitez installer. </translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <source>Use GRUB bootloader</source>
+        <translation>Utiliser le bootloader GRUB</translation>
     </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
     <message>
         <source>This wizard will walk you though the setup of your new server. Click next to begin. </source>
-        <translation>Cet assistant vous guidera durant l&apos;installation de votre nouveau serveur. Cliquez sur suivant pour commencer. </translation>
+        <translation>Cet assistant vous guidera durant l'installation de votre nouveau serveur. Cliquez sur suivant pour commencer. </translation>
     </message>
     <message>
         <source>Please enter the root password for this server</source>
@@ -792,7 +741,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Username</source>
-        <translation>Nom d&apos;Utilisateur</translation>
+        <translation>Nom d'Utilisateur</translation>
     </message>
     <message>
         <source>Default shell</source>
@@ -800,11 +749,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation>Veuillez entrer un nom d&apos;hôte système et les préférences de connexions d&apos;accès distant.</translation>
+        <translation>Veuillez entrer un nom d'hôte système et les préférences de connexions d'accès distant.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation>Nom d&apos;hôte</translation>
+        <translation>Nom d'hôte</translation>
     </message>
     <message>
         <source>Enable remote SSH login</source>
@@ -852,42 +801,26 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Install ports tree (/usr/ports)</source>
-        <translation>Installer l&apos;arborescence des ports (/usr/ports)</translation>
+        <translation>Installer l'arborescence des ports (/usr/ports)</translation>
     </message>
     <message>
         <source>000.000.000.000</source>
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Installer AppCafe? Cela vous permet de gérer les paquets et les jails depuis un navigateur internet ou un appareil mobile.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Installer AppCafe</translation>
     </message>
 </context>
 <context>
     <name>wizardRestore</name>
     <message>
         <source>This wizard will walk you though the process of restoring your system from a Life-Preserver backup. Click next to begin. </source>
-        <translation>Cet assistant vous guidera durant le processus de restauration de votre système à partir d&apos;une sauvegarde de bouée de sauvetage. Cliquez sur suivant pour commencer. </translation>
+        <translation>Cet assistant vous guidera durant le processus de restauration de votre système à partir d'une sauvegarde de bouée de sauvetage. Cliquez sur suivant pour commencer. </translation>
     </message>
     <message>
         <source>Backup Server</source>
@@ -895,11 +828,11 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Host Name</source>
-        <translation>Nom d&apos;Hôte</translation>
+        <translation>Nom d'Hôte</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation>Nom d&apos;Utilisateur</translation>
+        <translation>Nom d'Utilisateur</translation>
     </message>
     <message>
         <source>SSH Port</source>
@@ -907,7 +840,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation>Si vous avez enregistré votre clé de bouée de sauvetage sur une clé USB, insérez-la maintenant et sélectionnez la clé USB, sinon vous pouvez utiliser l&apos;authentification par mot de passe.</translation>
+        <translation>Si vous avez enregistré votre clé de bouée de sauvetage sur une clé USB, insérez-la maintenant et sélectionnez la clé USB, sinon vous pouvez utiliser l'authentification par mot de passe.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -919,7 +852,7 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     </message>
     <message>
         <source>Use password authentication</source>
-        <translation>Utiliser l&apos;authentification par mot de passe</translation>
+        <translation>Utiliser l'authentification par mot de passe</translation>
     </message>
     <message>
         <source>The following systems are backed up on this server, select the one you wish to restore. </source>
@@ -944,8 +877,8 @@ Cliquez sur Terminer pour redémarrer. Après le redémarrage vous pouvez éject
     <message>
         <source>No Auth keys could be found on that memory stick!
 Please try another USB stick or use password authentication.</source>
-        <translation>Aucune clé d&apos;authentification n&apos;a pu être trouvé sur cette clé USB!
-Veuillez essayer une autre clé USB ou utiliser l&apos;authentification par mot de passe.</translation>
+        <translation>Aucune clé d'authentification n'a pu être trouvé sur cette clé USB!
+Veuillez essayer une autre clé USB ou utiliser l'authentification par mot de passe.</translation>
     </message>
     <message>
         <source>Connection failed!</source>
@@ -955,13 +888,13 @@ Veuillez essayer une autre clé USB ou utiliser l&apos;authentification par mot 
         <source>Could not connect to the backup server!
 Please check that the server is reachable and verify your user/password.</source>
         <translation>Impossible de se connecter au serveur de sauvegarde!
-Veuillez vérifier que le serveur est accessible et vérifiez votre nom d&apos;utilisateur/mot de passe.</translation>
+Veuillez vérifier que le serveur est accessible et vérifiez votre nom d'utilisateur/mot de passe.</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check your hostname and that the backup server is reachable.</source>
         <translation>Impossible de se connecter au serveur de sauvegarde!
-Veuillez vérifier votre nom d&apos;hôte et que le serveur de sauvegarde est accessible.</translation>
+Veuillez vérifier votre nom d'hôte et que le serveur de sauvegarde est accessible.</translation>
     </message>
     <message>
         <source>Will restore from:</source>
