@@ -44,12 +44,8 @@
         <translation>Recorda-m&apos;ho més tard</translation>
     </message>
     <message>
-        <source>4 Hours</source>
-        <translation>4 hores</translation>
-    </message>
-    <message>
-        <source>8 Hours</source>
-        <translation>8 hores</translation>
+        <source>5 Hours</source>
+        <translation type="unfinished">8 hores {5 ?}</translation>
     </message>
 </context>
 <context>
