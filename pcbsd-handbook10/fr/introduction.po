@@ -6,27 +6,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-08 04:17-0700\n"
-"PO-Revision-Date: 2015-06-29 14:01+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2016-05-08 08:19-0700\n"
+"PO-Revision-Date: 2016-05-08 18:23+0000\n"
+"Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1462731818.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
-msgstr ""
+msgstr "Préface"
 
 #: ../../introduction.rst:4
 msgid "Written by users of the PC-BSD® operating system."
-msgstr ""
+msgstr "Ecrit par les utilisateurs du système d'exploitation PC-BSD®."
 
 #: ../../introduction.rst:6
 msgid "Version |version|"
-msgstr ""
+msgstr "Version |version|"
 
 #: ../../introduction.rst:8
 msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
@@ -35,14 +37,29 @@ msgstr ""
 #: ../../introduction.rst:10
 msgid "Welcome to PC-BSD®! This Handbook covers the installation and use of PC-BSD® |version|. This Handbook is a work in progress and relies on the contributions of many individuals. If you are interested in assisting with the Handbook, refer to the documentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_. If you use IRC Freenode, you are welcome to join the #pcbsd channel where you will find other PC-BSD® users."
 msgstr ""
+"Bienvenue ! The guide couvre l'installation et l'utilisation de PC-BSD® "
+"|version|. Ce guide est continuellement mis à jour par les contribution des "
+"utilisateurs. Si vous désirez apporter votre aide, consulter la `"
+"documentation <https://github.com/pcbsd/pcbsd/blob/master/src-"
+"qt5/docs/README.md>`_. Si vous êtes familier avec IRC, vous pouvez nous "
+"rejoindre sur Freenode au salon #pcbsd où vous trouverez d'autres "
+"utilisateurs de PC-BSD®."
 
 #: ../../introduction.rst:12
 msgid "Previous versions of the Handbook in various formats and languages are available from `here <ftp://ftp.pcbsd.org/pub/handbook/>`_."
 msgstr ""
+"Les versions précédentes de ce guide, dans plusieurs formats and langues, "
+"sont disponibles `ici <ftp://ftp.pcbsd.org/pub/handbook/>`_."
 
 #: ../../introduction.rst:14
 msgid "The PC-BSD® Users Handbook is freely available for sharing and redistribution under the terms of the `Creative Commons Attribution License <https://creativecommons.org/licenses/by/4.0/>`_. This means that you have permission to copy, distribute, translate, and adapt the work as long as you attribute the PC-BSD® Project as the original source of the Handbook."
 msgstr ""
+"Le guide d'utilisation de PC-BSD® est  ouvert au partage et à la "
+"redistribution sous les termes de la licence `Creative Commons Attribution "
+"License <https://creativecommons.org/licenses/by/4.0/>`_. Cela signifie que "
+"vous avez la permission de copier, distribuer, traduire et adapter ce "
+"travail du moment que vous attribuez au projet PC-BSD® la paternité "
+"originelle de ce dernier."
 
 #: ../../introduction.rst:16
 msgid "PC-BSD® and the PC-BSD® logo are registered trademarks of `iXsystems <https://www.ixsystems.com/>`_. If you wish to use the PC-BSD® logo in your own works, ask for permission first from marketing@ixsystems.com."
@@ -154,63 +171,99 @@ msgstr ""
 
 #: ../../introduction.rst:70
 msgid "**Typographic Conventions**"
-msgstr ""
+msgstr "Conventions typographiques"
 
 #: ../../introduction.rst:72
 msgid "Names of graphical elements such as buttons, icons, fields, columns, and boxes are enclosed within quotes. For example: click the \"Browse Categories\" button."
 msgstr ""
+"Les noms des éléments graphiques comme les boutons, icônes, champs, colonnes "
+"et boites de dialogue sont entourés avec des guillemets. Par exemple: "
+"cliquez sur le bouton \"Parcourir les catégories\"."
 
 #: ../../introduction.rst:74
 msgid "Menu selections are italicized and separated by arrows. For example: :menuselection:`Control Panel --> About`."
 msgstr ""
+"Les sélections des menus sont mises en italiques et sont séparées par des "
+"flèches. Par exemple :menuselection:`Panneau de contrôle --> A propos`."
 
 #: ../../introduction.rst:76
 msgid "Commands that are mentioned within text are highlighted in :command:`bold text`. Command examples and command output are contained in green code blocks."
 msgstr ""
+"Les commandes mentionnées dans le texte sont surlignés en :command:`gras`. "
+"Les commandes d'exemple et les sorties de commandes sont contenues dans des "
+"blocs verts."
 
 #: ../../introduction.rst:78
 msgid "File names are enclosed in a blue box :file:`/like/this`."
 msgstr ""
+"Les noms de fichiers sont entourés par des boîtes bleues :file:`/comme/ceci`."
 
 #: ../../introduction.rst:80
 msgid "Keystrokes are formatted in a blue box. For example: press :kbd:`Enter`."
 msgstr ""
+"Les touches utilisent également les boîtes bleues. Par exemple: pressez "
+":kbd:`Entrée`."
 
 #: ../../introduction.rst:82
 msgid "**bold text** is used to emphasize an important point."
 msgstr ""
+"**Le texte en gras** est utilisé pour mettre en valeur un point important."
 
 #: ../../introduction.rst:84
+#, fuzzy
 msgid "*italic text* is used to represent device names or text that is input into a GUI field."
 msgstr ""
+"*Le texte en italique* est utilisé pour représenter le nom d'un périphérique "
+"ou du texte à entrer dans un champ graphique."
 
 #: ../../introduction.rst:87
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: ../../introduction.rst:89
 msgid "Welcome to PC-BSD®!"
-msgstr ""
+msgstr "Bienvenue sur PC-BSD® !"
 
 #: ../../introduction.rst:91
 msgid "`PC-BSD® <http://www.pcbsd.org/>`_ began in 2005 when Kris Moore presented the first beta version of a FreeBSD operating system pre-configured for desktop use. Since then, PC-BSD® has matured into a polished, feature-rich, free-of-charge, open source operating system that meets the desktop or server needs of the beginner to the advanced user alike."
 msgstr ""
+"`PC-BSD® <http://www.pcbsd.org/>`_ est né en 2005 quand Kris Moore présenta "
+"la première version beta d'un système basé sur FreeBSD et pré-configuré pour "
+"une utilisation de bureau. Depuis, PC-BSD®  a évolué pour devenir un système "
+"d'exploitation open-source, raffiné, riche en fonctionnalités, gratuit, "
+"adapté à une utilisation de bureau comme de serveurs et accessible aux "
+"débutants comme aux utilisateurs avancés."
 
 #: ../../introduction.rst:93
 msgid "PC-BSD® is essentially a customized installation of FreeBSD, not a forked derivative. Since the underlying FreeBSD system has been kept intact, you have a fully functional FreeBSD system under the hood. PC-BSD® provides a graphical installer which can be used to easily install a desktop or a server version of FreeBSD, known as TrueOS®. Other differences from FreeBSD include:"
 msgstr ""
+"PC-BSD® est essentiellement une installation customisée de FreeBSD, et non "
+"un fork de ce dernier. Les couches basses de FreeBSD sont laissées intactes "
+"et PC-BSD® fournit un installateur graphique utilisé pour faciliter "
+"l'installation d'un ordinateur de bureau ou un serveur (la version serveur "
+"de PC-BSD® est appelé TrueOS®). Les autres différences avec FreeBSD sont:"
 
 #: ../../introduction.rst:95
 msgid "PC-BSD® pre-configures at least one desktop environment during a desktop installation. Installed desktop environments appear in the login menu, allowing the user to select which environment to log into."
 msgstr ""
+"PC-BSD® pré-configure au moins un environnement de bureau pendant "
+"l'installation. Les environnements installés apparaissent dans le menu de "
+"connexion et permettent à l'utilisateur de sélectionner dans quel "
+"environnement il souhaite se connecter."
 
 #: ../../introduction.rst:97
 msgid "The PC-BSD® graphical installer supports additional features such as configuring ZFS and encryption during installation."
 msgstr ""
+"L'installateur graphique de PC-BSD® supporte également d'autres "
+"fonctionnalités durant l'installation comme la configuration de ZFS ou le "
+"chiffrement du disque."
 
 #: ../../introduction.rst:99
 msgid "PC-BSD® provides a graphical software management system for the desktop and a command line equivalent for the server."
 msgstr ""
+"PC-BSD® fournit un système graphique de gestion des logiciels pour "
+"l'installation de bureau et l'équivalent en ligne de commande pour "
+"l'installation de serveur."
 
 #: ../../introduction.rst:101
 msgid "PC-BSD® provides a :ref:`Control Panel` of utilities for configuring the system. The graphical versions of these utilities are available on both versions, the desktop and server."
