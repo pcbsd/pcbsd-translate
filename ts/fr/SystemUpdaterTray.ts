@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The system needs to be restarted to finish installing updates.</source>
-        <translation>Le système doit être redémarré pour terminer l&apos;installation des mises à jour.</translation>
+        <translation>Le système doit être redémarré pour terminer l'installation des mises à jour.</translation>
     </message>
     <message>
         <source>Next Reminder:</source>
@@ -44,8 +44,12 @@
         <translation>Me le Rappeler Ultérieurement</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">8 Heures {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 Heures</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 Heures</translation>
     </message>
 </context>
 <context>
@@ -60,7 +64,7 @@
     </message>
     <message>
         <source>OS Update Available: %1</source>
-        <translation>Mise à Jour de l&apos;OS Disponible : %1</translation>
+        <translation>Mise à Jour de l'OS Disponible : %1</translation>
     </message>
     <message>
         <source>System updates available</source>
@@ -72,7 +76,7 @@
     </message>
     <message>
         <source>Jail updates available</source>
-        <translation>Mises à jour de Jail disponible</translation>
+        <translation>Mises à jour de Jail disponibles</translation>
     </message>
     <message>
         <source>System up to date!</source>
@@ -80,14 +84,14 @@
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation>Impossible de déterminer l&apos;état du système.</translation>
+        <translation>Impossible de déterminer l'état du système.</translation>
     </message>
 </context>
 <context>
     <name>TrayUI</name>
     <message>
         <source>Start the Update Manager</source>
-        <translation>Lancer le Gestionnaire de Mise à Jour</translation>
+        <translation>Démarrer le Gestionnaire de Mise à Jour</translation>
     </message>
     <message>
         <source>Start the AppCafe</source>
@@ -143,7 +147,7 @@
     </message>
     <message>
         <source>Update Procedure Running</source>
-        <translation>Procédure de Mise à jour En Cours</translation>
+        <translation>Procédure de Mise à Jour En Cours</translation>
     </message>
     <message>
         <source>Routing through Tor</source>
@@ -159,7 +163,7 @@
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
-        <translation>Même pendant l&apos;utilisation de Tor il est possible de divulguer votre identité. Veuillez lire la FAQ Tor pour vous informer sur ce qu&apos;est Tor et comment l&apos;utiliser en toute sécurité.</translation>
+        <translation>Même pendant l'utilisation de Tor il est possible de divulguer votre identité. Veuillez lire la FAQ Tor pour vous informer sur ce qu'est Tor et comment l'utiliser en toute sécurité.</translation>
     </message>
     <message>
         <source>Tor FAQ: %1</source>

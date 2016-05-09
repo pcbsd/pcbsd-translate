@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Device Name:</source>
-        <translation>Nom de périphérique :</translation>
+        <translation>Nom du Périphérique :</translation>
     </message>
     <message>
         <source>IP:</source>

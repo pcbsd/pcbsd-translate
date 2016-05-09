@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Use hardware defau&amp;lt MAC address</source>
-        <translation>Utiliser l&apos;adresse &amp;MAC matérielle par défaut</translation>
+        <translation>Utiliser l&apos;adresse MAC matérielle par défaut</translation>
     </message>
     <message>
         <source>Alt+L</source>

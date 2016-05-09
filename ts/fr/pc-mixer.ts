@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="61"/>
         <source>Recording Device:</source>
-        <translation>Périphérique d&apos;enregistrement :</translation>
+        <translation>Périphérique d'enregistrement :</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="80"/>
@@ -100,7 +100,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="173"/>
         <source>pc-su pc-soundconfig</source>
-        <translation>pc-su pc-configson</translation>
+        <translation>pc-su pc-soundconfig</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="182"/>
@@ -110,7 +110,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="185"/>
         <source>pavucontrol</source>
-        <translation>VumètreAmpli</translation>
+        <translation>pavucontrol</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="194"/>
@@ -120,7 +120,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="197"/>
         <source>paprefs</source>
-        <translation>prefsampli</translation>
+        <translation>paprefs</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="202"/>
