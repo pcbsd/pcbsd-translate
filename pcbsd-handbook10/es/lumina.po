@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-05 01:44+0000\n"
+"PO-Revision-Date: 2016-05-09 20:42+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1462826556.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -701,10 +703,14 @@ msgstr "**Hora/Fecha:** muestra la hora y fecha actuales."
 #: ../../lumina.rst:302
 msgid "**User Button:** main button for accessing applications, directories, settings, and log out."
 msgstr ""
+"**Botón de Usuario:** botón principal para accesar aplicaciones, "
+"directorios, configuraciones, y salir de la sesión."
 
 #: ../../lumina.rst:304
 msgid "**Workspace Switcher:** used to switch between virtual desktops."
 msgstr ""
+"**Alternar Espacios de Trabajo:** usado para cambiar entre escritorios "
+"virtuales."
 
 #: ../../lumina.rst:306
 msgid "To remove a plugin, highlight it and click the \"-\" button below the listed plugins. The arrow buttons can be used to move the location of the plugin on the panel. The top of an ordered list corresponds to either the top of a vertical panel or the left side of a horizontal panel."
