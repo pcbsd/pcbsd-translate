@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-09 20:42+0000\n"
+"PO-Revision-Date: 2016-05-11 22:58+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463007533.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -713,6 +715,10 @@ msgstr ""
 #: ../../lumina.rst:306
 msgid "To remove a plugin, highlight it and click the \"-\" button below the listed plugins. The arrow buttons can be used to move the location of the plugin on the panel. The top of an ordered list corresponds to either the top of a vertical panel or the left side of a horizontal panel."
 msgstr ""
+"Para eliminar un plugin, selecciónelo y presione el botón \"-\" bajo la "
+"lista de plugins. Los botones de flechas pueden usarse para mover el lugar "
+"del plugin en el panel. El inicio de una lista ordenada corresponde ya sea "
+"al inicio de un panel vertical o al lado izquierdo de un panel horizontal."
 
 #: ../../lumina.rst:313
 msgid "Applications"
@@ -721,22 +727,43 @@ msgstr "Aplicaciones"
 #: ../../lumina.rst:315
 msgid "The \"Applications\" tab, shown in :numref:`Figure %s: Lumina Applications Configuration <lumina6b>`, is used to configure which applications start when you login to Lumina as well as the default applications and file types."
 msgstr ""
+"La pestaña \"Aplicaciones\", mostrada en la :numref:`Figura %s: "
+"Configuración de las Aplicaciones de Lumina <lumina6b>`, se usa para "
+"configurar cuáles aplicaciones se iniciarán cuando inicie sesión en Lumina, "
+"así como las aplicaciones predeterminadas y los tipos de archivo."
 
 #: ../../lumina.rst:322
 msgid "To prevent an application from starting automatically, uncheck its box."
 msgstr ""
+"Para prevenir que una aplicación se inicie automáticamente, desmarque su "
+"casilla."
 
 #: ../../lumina.rst:324
 msgid "To add an application to the auto-start configuration , click \"Application\" to select the application's name from a drop-down menu or click \"Binary\" or \"File\" to browse to the location of  the application or file to open. If you select a file name, Lumina will automatically open it in an application that is capable of reading the file type."
 msgstr ""
+"Para añadir una aplicación a la configuración de auto inicio, presione \""
+"Aplicación\" para seleccionar el nombre de la aplicación desde un menú "
+"desplegable o presione \"Binario\" o \"Archivo\" para buscar la localización "
+"de la aplicación o archivo a abrir. Si selecciona un nombre de archivo, "
+"Lumina automáticamente lo abrirá en una aplicación capaz de leer el tipo de "
+"archivo."
 
 #: ../../lumina.rst:327
 msgid "To configure the default applications and file types, click the \"File Defaults\" tab. In the screen shown in :numref:`Figure %s: Lumina Defaults Configuration <lumina7c>`, you can configure the default web browser, email client, file manager, and virtual terminal."
 msgstr ""
+"Para configurar las aplicaciones predeterminadas y tipos de archivo, "
+"presione la pestaña \"Predeterminados para Archivos\". En la pantalla "
+"mostrada en la :numref:`Figura %s: Configuraciones Predeterminadas de Lumina "
+"<lumina7c>`, puede configurar el navegador web predeterminado, cliente de "
+"correo, gestor de archivos, y terminal virtual."
 
 #: ../../lumina.rst:334
 msgid "Click the gear icon or the name of the existing application to select the desired application from a menu of available applications. If you wish to go back to the default application, click the current application's name, then click \"Restore Defaults\"."
 msgstr ""
+"Presione el icono del engrane o el nombre de la aplicación existente para "
+"seleccionar la aplicación deseada desde un menú de aplicaciones disponibles. "
+"Si quiere regresar a la aplicación predeterminada, presione el nombre de la "
+"aplicación actual, y presione \"Restaurar Predeterminados\"."
 
 #: ../../lumina.rst:337
 msgid "This screen can also be used to set the default application for several categories of file types. To add an application, select the file type and either click \"Set App\", which will open a drop-down menu of common applications, or \"Set Binary\", which will open a file browser so that you can browse to the path of the application."

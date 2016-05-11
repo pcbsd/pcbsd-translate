@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-11 08:17-0700\n"
-"PO-Revision-Date: 2016-05-11 17:33+0000\n"
+"POT-Creation-Date: 2016-05-11 12:17-0700\n"
+"PO-Revision-Date: 2016-05-11 21:38+0000\n"
 "Last-Translator: SmallGuy <zoreille.gfo@hotmail.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -16,15 +16,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1462988032.000000\n"
+"X-POOTLE-MTIME: 1463002722.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
-msgstr "Préface"
+msgstr "**Préface**"
 
 #: ../../introduction.rst:4
 msgid "Written by users of the PC-BSD® operating system."
-msgstr "Ecrit par les utilisateurs du système d'exploitation PC-BSD®."
+msgstr "Écrit par les utilisateurs du système d'exploitation PC-BSD®."
 
 #: ../../introduction.rst:6
 msgid "Version |version|"
@@ -63,110 +63,133 @@ msgstr ""
 #: ../../introduction.rst:16
 msgid "PC-BSD® and the PC-BSD® logo are registered trademarks of `iXsystems <https://www.ixsystems.com/>`_. If you wish to use the PC-BSD® logo in your own works, ask for permission first from marketing@ixsystems.com."
 msgstr ""
+"PC-BSD® et le logo PC-BSD® sont des marques déposées de `iXsystems "
+"<https://www.ixsystems.com/>`_. Si vous souhaitez utiliser le logo PC-BSD® "
+"dans vos propres travaux, demandez l'autorisation préalable à "
+"marketing@ixsystems.com."
 
 #: ../../introduction.rst:18
 msgid "AMD is a trademark of Advanced Micro Devices, Inc."
-msgstr ""
+msgstr "AMD est une marque de Advanced Micro Devices, Inc."
 
 #: ../../introduction.rst:20
 msgid "Apache is a trademark of The Apache Software Foundation."
-msgstr ""
+msgstr "Apache est une marque de The Apache Software Foundation."
 
 #: ../../introduction.rst:22
 msgid "AppCafe® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
+"AppCafe® est une marque déposée de `iXsystems <https://www.ixsystems.com/>`_."
 
 #: ../../introduction.rst:24
 msgid "Asus® and Eee PC® are registered trademarks of ASUSTeK® Computer Inc."
-msgstr ""
+msgstr "Asus® et Eee PC® sont des marques déposées de ASUSTeK® Computer Inc."
 
 #: ../../introduction.rst:26
 msgid "Facebook® is a registered trademark of Facebook Inc."
-msgstr ""
+msgstr "Facebook® est une marque déposée de Facebook Inc."
 
 #: ../../introduction.rst:28
 msgid "Flash® is a registered trademark of Adobe Systems Incorporated in the United States and/or other countries."
 msgstr ""
+"Flash® est une marque déposée de Adobe Systems Incorporate aux États-Unis et/"
+"ou dans d'autres pays."
 
 #: ../../introduction.rst:30
 msgid "FreeBSD® is a registered trademark of the `FreeBSD Foundation <https://www.freebsdfoundation.org/>`_."
 msgstr ""
+"FreeBSD® est une marque déposée de `FreeBSD Foundation "
+"<https://www.freebsdfoundation.org/>`_."
 
 #: ../../introduction.rst:32
 msgid "FreeNAS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
+"FreeNAS® est une marque déposée de `iXsystems <https://www.ixsystems.com/>`_."
 
 #: ../../introduction.rst:34
 msgid "IBM® is a registered trademark of International Business Machines Corporation."
 msgstr ""
+"IBM® est une marque déposée de International Business Machines Corporation."
 
 #: ../../introduction.rst:36
 msgid "Intel, the Intel logo, Pentium Inside, and Pentium are trademarks of Intel Corporation in the U.S. and/or other countries."
 msgstr ""
+"Intel, le logo Intel, Pentium Inside, et Pentium sont des marques déposées "
+"de Intel Corporation aux États-Unis et/ou autres pays."
 
 #: ../../introduction.rst:38
 msgid "Java™ is a trademark of Oracle America and/or its affiliates in the United States and other countries."
 msgstr ""
+"Java™ est une marque déposée de Oracle America et/ou ces filiales aux États-"
+"Unis et autres pays."
 
 #: ../../introduction.rst:40
 msgid "Lenovo® is a registered trademark of Lenovo."
-msgstr ""
+msgstr "Lenovo® est une marque déposée de Lenovo."
 
 #: ../../introduction.rst:42
 msgid "LinkedIn® is a registered trademark of LinkedIn Corporation."
-msgstr ""
+msgstr "LinkedIn® est une marque déposée de LinkedIn Corporation."
 
 #: ../../introduction.rst:44
 msgid "Linux® is a registered trademark of Linus Torvalds."
-msgstr ""
+msgstr "Linux® est une marque déposée de Linus Torvalds."
 
 #: ../../introduction.rst:46
 msgid "Mac and Mac OS are trademarks of Apple Inc., registered in the U.S. and other countries."
 msgstr ""
+"Mac et Mac OS sont des marques de Apple Inc., enregistrés aux États-Unis et "
+"autres pays."
 
 #: ../../introduction.rst:48
 msgid "MacBook® is a registered trademark of Apple Inc."
-msgstr ""
+msgstr "MacBook® est une marque déposée de Apple Inc."
 
 #: ../../introduction.rst:50
 msgid "MySQL is a trademark of Oracle."
-msgstr ""
+msgstr "MySQL est une marque de Oracle."
 
 #: ../../introduction.rst:52
 msgid "NVIDIA® is a trademark and/or registered trademark of NVIDIA Corporation in the U.S. and other countries."
 msgstr ""
+"NVIDIA® est une marque et/ou une marque déposée de NVIDIA Corporation aux "
+"États-Unis et autres pays."
 
 #: ../../introduction.rst:54
 msgid "PostgreSQL® is a registered trademark of the PostgreSQL Global Development Group."
 msgstr ""
+"PostgreSQL® est une marque déposée de PostgreSQL Global Development Group."
 
 #: ../../introduction.rst:56
 msgid "ThinkPad® is a registered trademark of Lenovo."
-msgstr ""
+msgstr "ThinkPad® est une marque déposée de Lenovo."
 
 #: ../../introduction.rst:58
 msgid "TrueOS® is a registered trademark of `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
+"TrueOS® est une marque déposée de `iXsystems <https://www.ixsystems.com/>`_."
 
 #: ../../introduction.rst:60
 msgid "Twitter is a trademark of Twitter, Inc. in the United States and other countries."
-msgstr ""
+msgstr "Twitter est une marque de Twitter, Inc. aux États-Unis et autres pays."
 
 #: ../../introduction.rst:62
 msgid "UNIX® is a registered trademark of The Open Group."
-msgstr ""
+msgstr "UNIX® est une marque déposée de The Open Group."
 
 #: ../../introduction.rst:64
 msgid "VirtualBox® is a registered trademark of Oracle."
-msgstr ""
+msgstr "VirtualBox® est une marque déposée de Oracle."
 
 #: ../../introduction.rst:66
 msgid "VMWare® is a registered trademark of VMWare, Inc."
-msgstr ""
+msgstr "VMWare® est une marque déposée de VMWare, Inc."
 
 #: ../../introduction.rst:68
 msgid "Windows® is a registered trademark of Microsoft Corporation in the United States and other countries."
 msgstr ""
+"Windows® est une marque déposée de Microsoft Corporation aux États-Unis et "
+"autres pays."
 
 #: ../../introduction.rst:70
 msgid "**Typographic Conventions**"
@@ -189,19 +212,19 @@ msgstr ""
 msgid "Commands that are mentioned within text are highlighted in :command:`bold text`. Command examples and command output are contained in green code blocks."
 msgstr ""
 "Les commandes mentionnées dans le texte sont surlignés en :command:`gras`. "
-"Les commandes d'exemple et les sorties de commandes sont contenues dans des "
+"Les exemples de commande et les sorties de commande sont contenues dans des "
 "blocs de code verts."
 
 #: ../../introduction.rst:78
 msgid "File names are enclosed in a blue box :file:`/like/this`."
 msgstr ""
-"Les noms de fichiers sont contenus dans des boîtes bleues "
+"Les noms de fichiers sont contenus dans des boites bleues "
 ":file:`/comme/ceci`."
 
 #: ../../introduction.rst:80
 msgid "Keystrokes are formatted in a blue box. For example: press :kbd:`Enter`."
 msgstr ""
-"Les touches sont désignées par des boîtes bleues. Par exemple: pressez "
+"Les touches sont désignées par des boites bleues. Par exemple: pressez "
 ":kbd:`Entrée`."
 
 #: ../../introduction.rst:82
@@ -227,54 +250,67 @@ msgstr "Bienvenue sur PC-BSD® !"
 msgid "`PC-BSD® <http://www.pcbsd.org/>`_ began in 2005 when Kris Moore presented the first beta version of a FreeBSD operating system pre-configured for desktop use. Since then, PC-BSD® has matured into a polished, feature-rich, free-of-charge, open source operating system that meets the desktop or server needs of the beginner to the advanced user alike."
 msgstr ""
 "`PC-BSD® <http://www.pcbsd.org/>`_ est né en 2005 quand Kris Moore présenta "
-"la première version beta d'un système basé sur FreeBSD et pré-configuré pour "
-"une utilisation de bureau. Depuis, PC-BSD®  a évolué pour devenir un système "
-"d'exploitation open-source, raffiné, riche en fonctionnalités, gratuit, "
-"adapté à une utilisation de bureau comme de serveurs et accessible aux "
-"débutants comme aux utilisateurs avancés."
+"la première version beta d'un système d'exploitation basé sur FreeBSD pré-"
+"configuré pour une utilisation d'ordinateur de bureau. Depuis, PC-BSD® est "
+"devenu un système d'exploitation open-source, raffiné, riche en "
+"fonctionnalités et gratuit qui répond aux besoins des débutants et des "
+"utilisateurs confirmés pour une utilisation comme ordinateur de bureau ou "
+"comme serveur."
 
+# au lieu de "sous capot" on pourrait dire "en coulisse"
 #: ../../introduction.rst:93
 msgid "PC-BSD® is essentially a customized installation of FreeBSD, not a forked derivative. Since the underlying FreeBSD system has been kept intact, you have a fully functional FreeBSD system under the hood. PC-BSD® provides a graphical installer which can be used to easily install a desktop or a server version of FreeBSD, known as TrueOS®. Other differences from FreeBSD include:"
 msgstr ""
 "PC-BSD® est essentiellement une installation customisée de FreeBSD, et non "
-"un fork de ce dernier. Les couches basses de FreeBSD sont laissées intactes "
-"et PC-BSD® fournit un installateur graphique utilisé pour faciliter "
-"l'installation d'un ordinateur de bureau ou un serveur (la version serveur "
-"de PC-BSD® est appelé TrueOS®). Les autres différences avec FreeBSD sont:"
+"une branche dérivée. Le système sous-jacent FreeBSD étant laissé intacte, "
+"vous avez un système FreeBSD sous le capots. PC-BSD® fournit un installeur "
+"graphique qui peut être utilisé pour installer facilement un ordinateur de "
+"bureau ou un serveur nommé TrueOS®. Les autres différences avec FreeBSD sont:"
 
 #: ../../introduction.rst:95
 msgid "PC-BSD® pre-configures at least one desktop environment during a desktop installation. Installed desktop environments appear in the login menu, allowing the user to select which environment to log into."
 msgstr ""
-"PC-BSD® pré-configure au moins un environnement de bureau pendant "
-"l'installation. Les environnements installés apparaissent dans le menu de "
-"connexion et permettent à l'utilisateur de sélectionner dans quel "
-"environnement il souhaite se connecter."
+"PC-BSD® pré-configure au moins un environnement de bureau pendant une "
+"installation  d'ordinateur de bureau. Les environnements installés "
+"apparaissent dans le menu de connexion, ce qui permet à l'utilisateur de "
+"sélectionner l'environnement dans lequel il souhaite se connecter."
 
 #: ../../introduction.rst:97
 msgid "The PC-BSD® graphical installer supports additional features such as configuring ZFS and encryption during installation."
 msgstr ""
-"L'installateur graphique de PC-BSD® supporte également d'autres "
-"fonctionnalités durant l'installation comme la configuration de ZFS ou le "
-"chiffrement du disque."
+"L'installateur graphique de PC-BSD® donne accès à des fonctionnalités "
+"additionnelles comme la configuration de ZFS ou le chiffrement."
 
 #: ../../introduction.rst:99
 msgid "PC-BSD® provides a graphical software management system for the desktop and a command line equivalent for the server."
 msgstr ""
-"PC-BSD® fournit un système graphique de gestion des logiciels pour "
-"l'installation de bureau et l'équivalent en ligne de commande pour "
-"l'installation de serveur."
+"PC-BSD® fournit un système graphique de gestion de logiciels pour "
+"l'installation d'ordinateur de bureau et l'équivalent en ligne de commande "
+"pour l'installation du serveur."
 
 #: ../../introduction.rst:101
 msgid "PC-BSD® provides a :ref:`Control Panel` of utilities for configuring the system. The graphical versions of these utilities are available on both versions, the desktop and server."
 msgstr ""
+"PC-BSD® fournit un :ref:`Panneau de Contrôle` d'utilitaires pour configurer "
+"le système. Les versions graphiques de ces utilitaires sont disponibles sur "
+"les deux versions, ordinateur et serveur."
 
 #: ../../introduction.rst:103
 msgid "PC-BSD® comes pre-configured with a number of automatic scripts to perform tasks such as connecting digital cameras or USB memory sticks."
 msgstr ""
+"PC-BSD® est pré-configuré avec de nombreux scripts automatiques pour "
+"réaliser des tâches comme connecter des appareils photos numériques ou des "
+"clés USB."
 
 #: ../../introduction.rst:105
 msgid "The PC-BSD® boot menu supports boot environments, or snapshots of the operating system, and the PC-BSD® Update Manager automatically adds a new boot environment to the boot menu before updating the operating system or software. This means that if an update fails, you can reboot into the previous version of the operating system, before the update occurred."
 msgstr ""
+"Le menu de démarrage de PC-BSD® comporte des environnements de démarrages, "
+"ou des instantanés du système d'exploitation, et le gestionnaire de mise à "
+"jour de PC-BSD® ajoute automatiquement de nouveaux environnements au menu de "
+"démarrage avant de mettre à jour le système d'exploitation ou les logiciels. "
+"Cela signifie que si une mise à jour échoue, vous pouvez redémarrer dans la "
+"version précédente du système d'exploitation, avant la mise à jour."
 
 #: ../../introduction.rst:107
 msgid "PC-BSD® started off as an independent project, but since October, 2006 PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
