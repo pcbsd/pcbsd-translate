@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 08:17-0700\n"
-"PO-Revision-Date: 2016-05-12 18:17+0000\n"
+"POT-Creation-Date: 2016-05-12 12:19-0700\n"
+"PO-Revision-Date: 2016-05-12 21:02+0000\n"
 "Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1463077069.000000\n"
+"X-POOTLE-MTIME: 1463086923.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -361,48 +361,77 @@ msgstr ""
 "applications actuellement)."
 
 #: ../../introduction.rst:129
+#, fuzzy
 msgid "**Easy to update:** PC-BSD® provides a built-in :ref:`Update Manager` that will notify you of available updates and allow you to apply operating system security fixes, bug fixes, and system enhancements as well as upgrade to newer versions of the operating system or installed software."
 msgstr ""
+"**Facile à mettre à jour:** PC-BSD® fournit un :ref:`Gestionnaire de mises à "
+"jour` qui vous notifie des mises à jour possibles et vous permet d'appliquer "
+"les correctifs de sécurité, de bug, les améliorations du système ainsi que "
+"les mises à jour vers une nouvelle version du système d'exploitation ou des "
+"logiciels installés."
 
 #: ../../introduction.rst:132
 msgid "**Virus-free:** PC-BSD® is not affected by viruses, spyware, or other malware."
 msgstr ""
+"**Sans virus:** PC-BSD® n'est pas affecté par les virus, les logiciels "
+"espions et autres logiciels malveillants."
 
 #: ../../introduction.rst:134
 msgid "**No defragmentation:** PC-BSD® hard drives do not need to be defragmented and do not slow down over time. PC-BSD® uses OpenZFS which is a self-healing filesystem."
 msgstr ""
+"**Aucune défragmentation:** avec PC-BSD®, les disques durs n'ont pas besoin "
+"d'être défragmentés et ne ralentissent pas avec le temps. PC-BSD® utilise "
+"OpenZFS qui est un système de fichiers auto-réparant."
 
 #: ../../introduction.rst:137
 msgid "**Laptop support:** provides power saving and swap space encryption and automatically switches between wired and wifi network connections."
 msgstr ""
+"**Support des ordinateurs portables:** PC-BSD® fournit un mécanisme de "
+"gestion de l'énergie, propose une partition swap chiffrée et bascule "
+"automatiquement  entre les réseaux wifi et filaires."
 
 #: ../../introduction.rst:139
 msgid "**Secure environment:** PC-BSD® provides a pre-configured firewall and a built-in host-based Intrusion Detection System."
 msgstr ""
+"**Environnement sécurisé:** PC-BSD® fournit un pare-feu pré-configuré et "
+"intègre un système de détection des intrusions."
 
 #: ../../introduction.rst:141
 msgid "**Easy system administration:** PC-BSD® provides a :ref:`Control Panel` containing many graphical tools for performing system administration tasks."
 msgstr ""
+"**Administration système simplifiée:** PC-BSD® fournit un :ref:`Panneau de "
+"contrôle` qui contient beaucoup d'outils graphiques permettant d'effectuer "
+"les tâches d'administration système."
 
 #: ../../introduction.rst:143
+#, fuzzy
 msgid "**Localization:** PC-BSD® supports a number of native languages and locales."
 msgstr ""
+"**Langues:** PC-BSD® supporte de nombreuses langues et de paramètres "
+"régionaux."
 
 #: ../../introduction.rst:145
+#, fuzzy
 msgid "**Vibrant community:** PC-BSD® has a friendly and helpful community."
 msgstr ""
+"**Une communauté vibrante:** la communauté PC-BSD® est serviable et amicale."
 
 #: ../../introduction.rst:147
 msgid "**Professional support:** professional email and phone support is available from `iXsystems <https://www.ixsystems.com/support/>`_."
 msgstr ""
+"**Support professionnel:** un email professionnel ainsi qu'un support "
+"téléphonique est disponible depuis `iXsystems "
+"<https://www.ixsystems.com/support/>`_."
 
 #: ../../introduction.rst:154
 msgid "What's New in |version|"
-msgstr ""
+msgstr "Quoi de neuf dans la version |version|"
 
 #: ../../introduction.rst:156
 msgid "The following features or enhancements were introduced for PC-BSD® |version|:"
 msgstr ""
+"Les fonctionnalités et améliorations suivantes ont été introduites dans la "
+"version |version| de PC-BSD®:"
 
 #: ../../introduction.rst:158
 msgid "Based on FreeBSD 10.3 which adds these `features <https://www.freebsd.org/releases/10.3R/relnotes.html>`_."

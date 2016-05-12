@@ -6,67 +6,82 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 08:17-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-05-12 12:19-0700\n"
+"PO-Revision-Date: 2016-05-12 22:29+0000\n"
+"Last-Translator: Sebastian <sebastian@rostwald.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463092152.000000\n"
 
 #: ../../advanced.rst:5
+#, fuzzy
 msgid "Advanced Installation Topics"
-msgstr ""
+msgstr "Fortgeschrittene Installationsthemen"
 
 #: ../../advanced.rst:7
 msgid "The previous section discussed a default installation of PC-BSD®. This section covers the following advanced installation topics:"
 msgstr ""
+"Der vorherige Abschnitt behandelte die Standardinstallation von PC-BSD®. Im "
+"Folgenden werden nun diese erweiterten Funktionen behandelt:"
 
 #: ../../advanced.rst:9
 msgid ":ref:`Using the Text Installer`"
-msgstr ""
+msgstr ":ref:`Die Textinstallation verwenden`"
 
 #: ../../advanced.rst:11
+#, fuzzy
 msgid ":ref:`Install a Server`"
-msgstr ""
+msgstr ":ref:`Einen Server installieren`"
 
 #: ../../advanced.rst:13
 msgid ":ref:`Using the TrueOS® CD`"
-msgstr ""
+msgstr ":ref:`Die TrueOS® CD verwenden`"
 
 #: ../../advanced.rst:15
 msgid ":ref:`Dual Booting`"
-msgstr ""
+msgstr ":ref:`Mehrere Betriebssysteme booten`"
 
 #: ../../advanced.rst:17
 msgid ":ref:`Creating an Automated Installation`"
-msgstr ""
+msgstr ":ref:`Eine automatisierte Installation erstellen`"
 
 #: ../../advanced.rst:23
 msgid "Using the Text Installer"
-msgstr ""
+msgstr "Die Textinstallation verwenden"
 
 #: ../../advanced.rst:25
 msgid "If you prefer to perform an installation using an ncurses menu rather than a full graphical installer, select the option \"Text Install/Emergency Console\" from the PC-BSD® installer boot menu shown in Figure 3a. Once the installer finishes loading, you will see the screen shown in :numref:`Figure %s: Text Installation Menu <text1>`."
 msgstr ""
+"Wenn Sie die Installation über ncurses-basierte Menüs einer rein grafischen "
+"Installation vorziehen, wählen Sie die Option \"Text Install/Emergency "
+"Console\" vom Startmenü des PC-BSD® Installers, das in Abbildung 3a zu sehen "
+"ist. Sobald der Installer den Ladevorgang beendet hat, sehen sie den "
+"Bildschirm in Abbildung :numref:`Figure %s: Text Installation Menu <text1>`."
 
 #: ../../advanced.rst:32
 msgid "This initial menu provides the following options:"
-msgstr ""
+msgstr "Dieses einleitende Menü bietet folgende Optionen:"
 
 #: ../../advanced.rst:34
 msgid "**install:** continues the installation using the text-based installer."
 msgstr ""
+"**install:** fährt mit der Installation unter Verwendung des textbasierten "
+"Installers fort."
 
 #: ../../advanced.rst:36
 msgid "**xorg:** launches the graphical installer described in :ref:`Installing PC-BSD®`."
 msgstr ""
+"**xorg:** Startet die grafische Installation, beschrieben in :ref:`PC-BSD® "
+"installieren`."
 
 #: ../../advanced.rst:38
 msgid "**vesa:** launches the graphical installer in VESA mode."
-msgstr ""
+msgstr "**vesa:** Startet die grafische Installation im VESA-Modus."
 
 #: ../../advanced.rst:40
 msgid "**utility:** launches the menu described in :ref:`Using the System Utilities Menu`."
