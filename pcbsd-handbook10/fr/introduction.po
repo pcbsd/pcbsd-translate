@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 04:17-0700\n"
-"PO-Revision-Date: 2016-05-12 05:43+0000\n"
-"Last-Translator: SmallGuy <zoreille.gfo@hotmail.fr>\n"
+"POT-Creation-Date: 2016-05-12 08:17-0700\n"
+"PO-Revision-Date: 2016-05-12 18:17+0000\n"
+"Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463077069.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -348,10 +350,15 @@ msgstr ""
 #: ../../introduction.rst:124
 msgid "**Easy software management:** with :ref:`AppCafe®`, installing, upgrading, and uninstalling software is safe and easy."
 msgstr ""
+"**Gestion des logiciels facilitée:** avec :ref:`AppCafe®`, installer, mettre "
+"à jour et désinstaller les logiciels est simple et sans risque."
 
 #: ../../introduction.rst:126
 msgid "**Lots of software available:** in addition to its own software, PC-BSD® can install software that has been ported to FreeBSD (currently over 24,700 applications)."
 msgstr ""
+"**De nombreux logiciels disponibles:** en plus de ses propres logiciels, PC-"
+"BSD® peut installer les logiciels qui ont été portés sur FreeBSD (26000 "
+"applications actuellement)."
 
 #: ../../introduction.rst:129
 msgid "**Easy to update:** PC-BSD® provides a built-in :ref:`Update Manager` that will notify you of available updates and allow you to apply operating system security fixes, bug fixes, and system enhancements as well as upgrade to newer versions of the operating system or installed software."
