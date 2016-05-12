@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-11 16:18-0700\n"
-"PO-Revision-Date: 2016-05-11 21:38+0000\n"
+"POT-Creation-Date: 2016-05-11 20:19-0700\n"
+"PO-Revision-Date: 2016-05-12 05:43+0000\n"
 "Last-Translator: SmallGuy <zoreille.gfo@hotmail.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463031809.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -30,7 +32,7 @@ msgstr "Version |version|"
 
 #: ../../introduction.rst:8
 msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
-msgstr ""
+msgstr "Copyright © 2005 - 2016 Le Projet PC-BSD®."
 
 #: ../../introduction.rst:10
 msgid "Welcome to PC-BSD®! This Handbook covers the installation and use of PC-BSD® |version|. This Handbook is a work in progress and relies on the contributions of many individuals. If you are interested in assisting with the Handbook, refer to the documentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_. If you use IRC Freenode, you are welcome to join the #pcbsd channel where you will find other PC-BSD® users."
@@ -312,26 +314,38 @@ msgstr ""
 #: ../../introduction.rst:107
 msgid "PC-BSD® started off as an independent project, but since October, 2006 PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
+"PC-BSD® débuta en tant que projet indépendant, mais depuis octobre 2006, PC-"
+"BSD® est soutenu et supporté financièrement par le fournisseur de solutions "
+"matérielles `iXsystems <https://www.ixsystems.com/>`_."
 
 #: ../../introduction.rst:113
 msgid "Goals and Features"
-msgstr ""
+msgstr "Objectifs et Fonctionnalités"
 
 #: ../../introduction.rst:115
 msgid "PC-BSD® provides the following features:"
-msgstr ""
+msgstr "PC-BSD® fournit les fonctionnalités suivantes:"
 
 #: ../../introduction.rst:117
 msgid "**Easy installation:** to install either a graphical desktop or command-line server version of PC-BSD®, simply insert the installation media, reboot the system to start the installer, and answer a few questions in the installation menus."
 msgstr ""
+"**Installation facile:** pour installer une version de PC-BSD® soit "
+"d'ordinateur de bureau graphique soit de serveur à ligne de commande, "
+"insérer simplement le media d'installation, redémarrer le système pour "
+"lancer l'installeur, et répondez à quelques questions dans les menus "
+"d'installation."
 
 #: ../../introduction.rst:120
 msgid "**Automatically configured hardware:** video, sound, network, and other devices are automatically configured for you."
 msgstr ""
+"**Matériel configuré automatiquement:** vidéo, son, réseau, et autres "
+"périphériques sont automatiquement configurés pour vous."
 
 #: ../../introduction.rst:122
 msgid "**Intuitive desktop interface:** PC-BSD® comes with a choice of :ref:`Desktops` to support your day-to-day computing needs."
 msgstr ""
+"**Interface de bureau intuitive:** PC-BSD® comprends un choix de "
+":ref:`bureaux` pour répondre à vos besoins informatiques de tous les jours."
 
 #: ../../introduction.rst:124
 msgid "**Easy software management:** with :ref:`AppCafe®`, installing, upgrading, and uninstalling software is safe and easy."
