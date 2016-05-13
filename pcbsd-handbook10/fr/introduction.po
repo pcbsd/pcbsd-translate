@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-13 08:18-0700\n"
-"PO-Revision-Date: 2016-05-13 17:31+0000\n"
+"POT-Creation-Date: 2016-05-13 12:19-0700\n"
+"PO-Revision-Date: 2016-05-13 21:32+0000\n"
 "Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1463160676.000000\n"
+"X-POOTLE-MTIME: 1463175128.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -699,130 +699,145 @@ msgstr ""
 #: ../../introduction.rst:246
 msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
 msgstr ""
+"Certaines fonctionnalités utilisées par BSD ont des équivalences sous Linux, "
+"mais leur nom est différent. Le tableau 1.3b  en donne quelques exemples:"
 
 #: ../../introduction.rst:248
 msgid "**Table 1.3b: Names for BSD and Linux Features**"
-msgstr ""
+msgstr "**Tableau 1.3b: Noms des fonctionnalités sur BSD et Linux**"
 
 #: ../../introduction.rst:251
 msgid "PC-BSD"
-msgstr ""
+msgstr "PC-BSD"
 
 #: ../../introduction.rst:251
 msgid "**Description**"
-msgstr ""
+msgstr "**Description**"
 
 #: ../../introduction.rst:253
 msgid "IPFW"
-msgstr ""
+msgstr "IPFW"
 
 #: ../../introduction.rst:253
 msgid "iptables"
-msgstr ""
+msgstr "iptables"
 
 #: ../../introduction.rst:253
 msgid "default firewall"
-msgstr ""
+msgstr "Pare-feu par défaut"
 
 #: ../../introduction.rst:255
 msgid ":file:`/etc/rc.d/` for operating system and :file:`/usr/local/etc/rc.d/` for applications"
 msgstr ""
+":file:`/etc/rc.d/` pour le système d'exploitation et "
+":file:`/usr/local/etc/rc.d/` pour les applications"
 
 #: ../../introduction.rst:255
 msgid ":file:`rc0.d/`, :file:`rc1.d/`, etc."
-msgstr ""
+msgstr ":file:`rc0.d/`, :file:`rc1.d/`, etc."
 
 #: ../../introduction.rst:255
+#, fuzzy
 msgid "in PC-BSD the directories containing the startup scripts do not link to runlevels as there are no runlevels; system startup scripts are separated from third-party application scripts"
 msgstr ""
+"Dans PC-BSD®, les répertoires contenant les scripts de démarrage ne sont pas "
+"liés aux runlevels parce qu'il n'existe pas de runlevels; les script de "
+"démarrage du systèmes sont séparés des scripts des applications tierces."
 
 #: ../../introduction.rst:259
 msgid ":file:`/etc/ttys` and :file:`/etc/rc.conf`"
-msgstr ""
+msgstr ":file:`/etc/ttys` et :file:`/etc/rc.conf`"
 
 #: ../../introduction.rst:259
 msgid ":command:`telinit`, :file:`init.d/`"
-msgstr ""
+msgstr ":command:`telinit`, :file:`init.d/`"
 
 #: ../../introduction.rst:259
 msgid "terminals are configured in *ttys* and *rc.conf* indicates which services will start at boot time"
 msgstr ""
+"les terminaux sont configurés dans *ttys* et le fichier *rc.conf* indiquent "
+"quels services seront lancés au démarrage"
 
 #: ../../introduction.rst:263
+#, fuzzy
 msgid "If you are comfortable with the command line, you may find that some of the commands that you are used to have different names on BSD. Table 1.3c lists some common commands and what they are used for."
 msgstr ""
+"Si vous êtes à l'aise avec la ligne de commande, vous trouverez peut-être "
+"que certaines ont des noms différents sous BSD. Le tableau 1.3c liste ces "
+"commandes et leur usage."
 
 #: ../../introduction.rst:266
+#, fuzzy
 msgid "**Table 1.3c: Common BSD and Linux Commands**"
-msgstr ""
+msgstr "**Tableau 1.3c: commandes courantes sous BSD et Linux**"
 
 #: ../../introduction.rst:269
 msgid "Command"
-msgstr ""
+msgstr "Commande"
 
 #: ../../introduction.rst:269
 msgid "**Used to:**"
-msgstr ""
+msgstr "**Utilisé pour:**"
 
 #: ../../introduction.rst:271
 msgid ":command:`dmesg`"
-msgstr ""
+msgstr ":command:`dmesg`"
 
 #: ../../introduction.rst:271
 msgid "discover what hardware was detected by the kernel"
-msgstr ""
+msgstr "savoir quel matériel a été détecté par le noyau"
 
 #: ../../introduction.rst:273
 msgid ":command:`sysctl dev`"
-msgstr ""
+msgstr ":command:`sysctl dev`"
 
 #: ../../introduction.rst:273
 msgid "display configured devices"
-msgstr ""
+msgstr "Afficher les périphériques configurés"
 
 #: ../../introduction.rst:275
 msgid ":command:`pciconf -l -cv`"
-msgstr ""
+msgstr ":command:`pciconf -l -cv`"
 
 #: ../../introduction.rst:275
 msgid "show PCI devices"
-msgstr ""
+msgstr "Afficher les périphériques PCI"
 
 #: ../../introduction.rst:277
 msgid ":command:`dmesg | grep usb`"
-msgstr ""
+msgstr ":command:`dmesg | grep usb`"
 
 #: ../../introduction.rst:277
 msgid "show USB devices"
-msgstr ""
+msgstr "Afficher les périphériques USB"
 
 #: ../../introduction.rst:279
 msgid ":command:`kldstat`"
-msgstr ""
+msgstr ":command:`kldstat`"
 
 #: ../../introduction.rst:279
 msgid "list all modules loaded in the kernel"
-msgstr ""
+msgstr "lister tous les modules chargés dans le noyau"
 
 #: ../../introduction.rst:281
 msgid ":command:`kldload <module>`"
-msgstr ""
+msgstr ":command:`kldload <module>`"
 
 #: ../../introduction.rst:281
 msgid "load a kernel module for the current session"
-msgstr ""
+msgstr "charge un module noyau pour la session courante"
 
 #: ../../introduction.rst:283
 msgid ":command:`pbi_add -r <pbiname>`"
-msgstr ""
+msgstr ":command:`pbi_add -r <pbiname>`"
 
 #: ../../introduction.rst:283
 msgid "install software from the command line"
-msgstr ""
+msgstr "installer un logiciel depuis la ligne de commande"
 
 #: ../../introduction.rst:285
 msgid ":command:`sysctl hw.realmem`"
-msgstr ""
+msgstr ":command:`sysctl hw.realmem`"
 
 #: ../../introduction.rst:285
 msgid "display hardware memory"
@@ -830,31 +845,31 @@ msgstr ""
 
 #: ../../introduction.rst:287
 msgid ":command:`sysctl hw.model`"
-msgstr ""
+msgstr ":command:`sysctl hw.model`"
 
 #: ../../introduction.rst:287
 msgid "display CPU model"
-msgstr ""
+msgstr "Afficher le modèle du CPU"
 
 #: ../../introduction.rst:289
 msgid ":command:`sysctl hw.machine_arch`"
-msgstr ""
+msgstr ":command:`sysctl hw.machine_arch`"
 
 #: ../../introduction.rst:289
 msgid "display CPU Architecture"
-msgstr ""
+msgstr "Afficher l'architecture du CPU"
 
 #: ../../introduction.rst:291
 msgid ":command:`sysctl hw.ncpu`"
-msgstr ""
+msgstr ":command:`sysctl hw.ncpu`"
 
 #: ../../introduction.rst:291
 msgid "display number of CPUs"
-msgstr ""
+msgstr "afficher le nombre de CPU"
 
 #: ../../introduction.rst:293
 msgid ":command:`uname -vm`"
-msgstr ""
+msgstr ":command:`uname -vm`"
 
 #: ../../introduction.rst:293
 msgid "get release version information"
@@ -862,7 +877,7 @@ msgstr ""
 
 #: ../../introduction.rst:295
 msgid ":command:`gpart show`"
-msgstr ""
+msgstr ":command:`gpart show`"
 
 #: ../../introduction.rst:295
 msgid "show device partition information"
@@ -870,44 +885,64 @@ msgstr ""
 
 #: ../../introduction.rst:297
 msgid ":command:`fuser`"
-msgstr ""
+msgstr ":command:`fuser`"
 
 #: ../../introduction.rst:297
 msgid "list IDs of all processes that have one or more files open"
 msgstr ""
+"liste les identifiants de tous les processus qui ont au moins un fichier "
+"ouvert"
 
 #: ../../introduction.rst:300
 msgid "The following articles and videos provide additional information about some of the differences between BSD and Linux:"
 msgstr ""
+"Les articles et vidéos ci-dessous donnent des informations supplémentaires "
+"sur les différences entre BSD et Linux:"
 
 #: ../../introduction.rst:302
 msgid "`Comparing BSD and Linux <http://www.freebsd.org/doc/en/articles/explaining-bsd/comparing-bsd-and-linux.html>`_"
 msgstr ""
+"`Comparer BSD et Linux <https://www.freebsd.org/doc/fr/articles/explaining-"
+"bsd/comparing-bsd-and-linux.html>`_"
 
 #: ../../introduction.rst:304
 msgid "`FreeBSD Quickstart Guide for Linux® Users <http://www.freebsd.org/doc/en/articles/linux-users/index.html>`_"
 msgstr ""
+"`Guide rapide pour débuter avec FreeBSD à l'attention des utilisateurs de "
+"Linux® <https://www.freebsd.org/doc/fr/articles/linux-users/index.html>`_"
 
 #: ../../introduction.rst:306
 msgid "`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
 msgstr ""
+"`BSD vs Linux <http://www.over-yonder.net/~fullermd/rants/bsd4linux/01>`_"
 
 #: ../../introduction.rst:308
+#, fuzzy
 msgid "`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
 msgstr ""
+"`Why Choose FreeBSD? <http://www.freebsd.org/advocacy/whyusefreebsd.html>`_"
 
 #: ../../introduction.rst:310
 msgid "`Interview: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-beings-interview/>`_"
 msgstr ""
+"`Interview: BSD for Human Beings <http://www.unixmen.com/bsd-for-human-"
+"beings-interview/>`_"
 
 #: ../../introduction.rst:312
 msgid "`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
 msgstr ""
+"`Video: BSD 4 Linux Users <https://www.youtube.com/watch?v=xk6ouxX51NI>`_"
 
 #: ../../introduction.rst:314
+#, fuzzy
 msgid "`Why you should use a BSD style license for your Open Source Project <http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
 msgstr ""
+"`Why you should use a BSD style license for your Open Source Project "
+"<http://www.freebsd.org/doc/en/articles/bsdl-gpl/article.html>`_"
 
 #: ../../introduction.rst:316
+#, fuzzy
 msgid "`A Sysadmin's Unixersal Translator (ROSETTA STONE) <http://bhami.com/rosetta.html>`_"
 msgstr ""
+"`A Sysadmin's Unixersal Translator (ROSETTA STONE) "
+"<http://bhami.com/rosetta.html>`_"
