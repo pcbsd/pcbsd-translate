@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-13 04:19-0700\n"
-"PO-Revision-Date: 2016-05-13 05:50+0000\n"
-"Last-Translator: SmallGuy <zoreille.gfo@hotmail.fr>\n"
+"POT-Creation-Date: 2016-05-13 08:18-0700\n"
+"PO-Revision-Date: 2016-05-13 17:31+0000\n"
+"Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463160676.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -519,19 +521,19 @@ msgstr "Système de fichier"
 
 #: ../../introduction.rst:197
 msgid "Native to"
-msgstr ""
+msgstr "Natif sur"
 
 #: ../../introduction.rst:197
 msgid "Type of non-native support"
-msgstr ""
+msgstr "Type de support non-natif"
 
 #: ../../introduction.rst:197
 msgid "**Usage notes**"
-msgstr ""
+msgstr "**Notes d'utilisation**"
 
 #: ../../introduction.rst:199
 msgid "Btrfs"
-msgstr ""
+msgstr "Btrfs"
 
 #: ../../introduction.rst:199
 #: ../../introduction.rst:203
@@ -541,18 +543,18 @@ msgstr ""
 #: ../../introduction.rst:227
 #: ../../introduction.rst:251
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 #: ../../introduction.rst:199
 #: ../../introduction.rst:201
 #: ../../introduction.rst:218
 #: ../../introduction.rst:221
 msgid "none"
-msgstr ""
+msgstr "Aucun"
 
 #: ../../introduction.rst:201
 msgid "exFAT"
-msgstr ""
+msgstr "exFAT"
 
 #: ../../introduction.rst:201
 #: ../../introduction.rst:214
@@ -560,15 +562,15 @@ msgstr ""
 #: ../../introduction.rst:223
 #: ../../introduction.rst:225
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 #: ../../introduction.rst:201
 msgid "requires a license from Microsoft"
-msgstr ""
+msgstr "Requiert une licence Microsoft"
 
 #: ../../introduction.rst:203
 msgid "EXT2"
-msgstr ""
+msgstr "EXT2"
 
 #: ../../introduction.rst:203
 #: ../../introduction.rst:205
@@ -576,11 +578,11 @@ msgstr ""
 #: ../../introduction.rst:216
 #: ../../introduction.rst:225
 msgid "r/w support loaded by default"
-msgstr ""
+msgstr "support en lecture/écriture activé par défaut"
 
 #: ../../introduction.rst:205
 msgid "EXT3"
-msgstr ""
+msgstr "EXT3"
 
 #: ../../introduction.rst:205
 msgid "since EXT3 journaling is not supported, you will not be able to mount a filesystem requiring a journal replay unless you :command:`fsck` it using an external utility such as `e2fsprogs <http://e2fsprogs.sourceforge.net>`_"
@@ -588,95 +590,111 @@ msgstr ""
 
 #: ../../introduction.rst:210
 msgid "EXT4"
-msgstr ""
+msgstr "EXT4"
 
 #: ../../introduction.rst:210
 msgid "r/o support loaded by default"
-msgstr ""
+msgstr "Support en lecture activé par défaut"
 
 #: ../../introduction.rst:210
 msgid "EXT3 journaling, extended attributes, and inodes greater than 128 bytes are not supported; EXT3 filesystems converted to EXT4 may have better performance"
-msgstr ""
+msgstr "EXT4"
 
 #: ../../introduction.rst:214
 msgid "FAT16"
-msgstr ""
+msgstr "FAT16"
 
 #: ../../introduction.rst:216
 msgid "FAT32"
-msgstr ""
+msgstr "FAT32"
 
 #: ../../introduction.rst:218
 msgid "HFS+"
-msgstr ""
+msgstr "HFS+"
 
 #: ../../introduction.rst:218
 msgid "Mac OS X"
-msgstr ""
+msgstr "Mac OS X"
 
 #: ../../introduction.rst:218
 msgid "older Mac versions might work with `hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
 msgstr ""
+"d'anciennes versions de Mac OS X peuvent éventuellement fonctionner avec `"
+"hfsexplorer <http://www.catacombae.org/hfsexplorer>`_"
 
 #: ../../introduction.rst:221
 msgid "JFS"
-msgstr ""
+msgstr "JFS"
 
 #: ../../introduction.rst:223
 msgid "NTFS5"
-msgstr ""
+msgstr "NTFS5"
 
 #: ../../introduction.rst:223
 msgid "full r/w support loaded by default"
-msgstr ""
+msgstr "support complet en lecture/écriture activé par défaut"
 
 #: ../../introduction.rst:225
 msgid "NTFS6"
-msgstr ""
+msgstr "NTFS6"
 
 #: ../../introduction.rst:227
 msgid "ReiserFS"
-msgstr ""
+msgstr "ReiserFS"
 
 #: ../../introduction.rst:227
 msgid "r/o support is loaded by default"
-msgstr ""
+msgstr "support en lecture seule activé par défaut"
 
 #: ../../introduction.rst:229
 msgid "UFS2"
-msgstr ""
+msgstr "UFS2"
 
 #: ../../introduction.rst:229
 msgid "FreeBSD"
-msgstr ""
+msgstr "FreeBSD"
 
 #: ../../introduction.rst:229
 msgid "check if your Linux distro provides ufsutils; r/w support on Mac; UFS Explorer can be used on Windows"
 msgstr ""
+"Vérifiez que votre distribution Linux fournit le paquet ufsutils; lecture/"
+"écriture sur Mac OS X; sur Windows vous pouvez utilisez UFS Explorer"
 
 #: ../../introduction.rst:231
 msgid "changed to r/o support in Mac Lion"
-msgstr ""
+msgstr "Modifié en lecture seule depuis Mac OS X Lion"
 
 #: ../../introduction.rst:233
 msgid "ZFS"
-msgstr ""
+msgstr "ZFS"
 
 #: ../../introduction.rst:233
 msgid "PC-BSD, FreeBSD"
-msgstr ""
+msgstr "PC-BSD, FreeBSD"
 
 #: ../../introduction.rst:238
 msgid "Linux and BSD use different naming conventions for devices. For example:"
 msgstr ""
+"Linux et BSD utilisent différentes conventions de nommage pour les "
+"périphériques. Par exemple:"
 
 #: ../../introduction.rst:240
 msgid "in Linux, Ethernet interfaces begin with :file:`eth`; in BSD, interface names indicate the name of the driver. For example, an Ethernet interface may be listed as :file:`re0`, indicating that it uses the Realtek :file:`re` driver. The advantage of this convention is that you can read the **man 4** page for the driver (e.g. type :command:`man 4 re`) to see which models and features are provided by that driver."
 msgstr ""
+"Avec Linux, les interface Ethernet commencent par :file:`eth`. Avec BSD, le "
+"nom de l'interface indique le nom du pilote. Par exemple, une interface "
+"Ethernet pourrait être :file:`re0`, signifiant qu'elle utilise le pilote "
+"Realtek :file:`re`. L'avantage de cette convention est que vous pouvez lire "
+"la page de **manuel 4** pour ce pilote (tapez :command:`man 4 re`) pour voir "
+"quels modèles sont supportés et quelles fonctionnalités sont fournies par ce "
+"pilote."
 
 #: ../../introduction.rst:244
 msgid "BSD disk names differ from Linux. IDE drives begin with :file:`ad` and SCSI and USB drives begin with :file:`da`."
 msgstr ""
+"Les noms des disques sous BSD diffèrent de ceux sous Linux. Les disques IDE "
+"commencent par :file:`ad` et les périphériques SCSI et USB commencent par "
+":file:`da`."
 
 #: ../../introduction.rst:246
 msgid "Some of the features used by BSD have similar counterparts to Linux, but the name of the feature is different. Table 1.3b provides some common examples:"
