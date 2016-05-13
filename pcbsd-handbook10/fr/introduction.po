@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 16:17-0700\n"
-"PO-Revision-Date: 2016-05-12 21:02+0000\n"
-"Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
+"POT-Creation-Date: 2016-05-12 20:17-0700\n"
+"PO-Revision-Date: 2016-05-13 05:50+0000\n"
+"Last-Translator: SmallGuy <zoreille.gfo@hotmail.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463118656.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -359,14 +361,13 @@ msgstr ""
 "applications actuellement)."
 
 #: ../../introduction.rst:129
-#, fuzzy
 msgid "**Easy to update:** PC-BSD® provides a built-in :ref:`Update Manager` that will notify you of available updates and allow you to apply operating system security fixes, bug fixes, and system enhancements as well as upgrade to newer versions of the operating system or installed software."
 msgstr ""
 "**Facile à mettre à jour:** PC-BSD® fournit un :ref:`Gestionnaire de mises à "
 "jour` qui vous notifie des mises à jour possibles et vous permet d'appliquer "
 "les correctifs de sécurité, de bug, les améliorations du système ainsi que "
-"les mises à jour vers une nouvelle version du système d'exploitation ou des "
-"logiciels installés."
+"les mises à niveau vers les nouvelles versions du système d'exploitation ou "
+"des logiciels installés."
 
 #: ../../introduction.rst:132
 msgid "**Virus-free:** PC-BSD® is not affected by viruses, spyware, or other malware."
@@ -379,14 +380,14 @@ msgid "**No defragmentation:** PC-BSD® hard drives do not need to be defragment
 msgstr ""
 "**Aucune défragmentation:** avec PC-BSD®, les disques durs n'ont pas besoin "
 "d'être défragmentés et ne ralentissent pas avec le temps. PC-BSD® utilise "
-"OpenZFS qui est un système de fichiers auto-réparant."
+"OpenZFS qui est un système de fichiers auto-réparable."
 
 #: ../../introduction.rst:137
 msgid "**Laptop support:** provides power saving and swap space encryption and automatically switches between wired and wifi network connections."
 msgstr ""
 "**Support des ordinateurs portables:** PC-BSD® fournit un mécanisme de "
-"gestion de l'énergie, propose une partition swap chiffrée et bascule "
-"automatiquement  entre les réseaux wifi et filaires."
+"gestion de l'énergie, propose un espace swap chiffrée et bascule "
+"automatiquement entre les réseaux wifi et filaires."
 
 #: ../../introduction.rst:139
 msgid "**Secure environment:** PC-BSD® provides a pre-configured firewall and a built-in host-based Intrusion Detection System."
@@ -398,18 +399,16 @@ msgstr ""
 msgid "**Easy system administration:** PC-BSD® provides a :ref:`Control Panel` containing many graphical tools for performing system administration tasks."
 msgstr ""
 "**Administration système simplifiée:** PC-BSD® fournit un :ref:`Panneau de "
-"contrôle` qui contient beaucoup d'outils graphiques permettant d'effectuer "
+"contrôle` qui contient de nombreux outils graphiques permettant d'effectuer "
 "les tâches d'administration système."
 
 #: ../../introduction.rst:143
-#, fuzzy
 msgid "**Localization:** PC-BSD® supports a number of native languages and locales."
 msgstr ""
-"**Langues:** PC-BSD® supporte de nombreuses langues et de paramètres "
+"**Localisation:** PC-BSD® supporte de nombreuses langues et paramètres "
 "régionaux."
 
 #: ../../introduction.rst:145
-#, fuzzy
 msgid "**Vibrant community:** PC-BSD® has a friendly and helpful community."
 msgstr ""
 "**Une communauté vibrante:** la communauté PC-BSD® est serviable et amicale."
@@ -417,7 +416,7 @@ msgstr ""
 #: ../../introduction.rst:147
 msgid "**Professional support:** professional email and phone support is available from `iXsystems <https://www.ixsystems.com/support/>`_."
 msgstr ""
-"**Support professionnel:** un email professionnel ainsi qu'un support "
+"**Support professionnel:** un courriel professionnel ainsi qu'un support "
 "téléphonique est disponible depuis `iXsystems "
 "<https://www.ixsystems.com/support/>`_."
 
@@ -434,54 +433,91 @@ msgstr ""
 #: ../../introduction.rst:158
 msgid "Based on FreeBSD 10.3 which adds these `features <https://www.freebsd.org/releases/10.3R/relnotes.html>`_."
 msgstr ""
+"Basé sur FreeBSD 10.3 qui ajoute ces `fonctionnalités "
+"<https://www.freebsd.org/releases/10.3R/relnotes.html>`_."
 
 #: ../../introduction.rst:160
 msgid "The initial boot menu has changed on the :file:`PC-BSD10.3-*` boot media."
 msgstr ""
+"Le menu de démarrage initial a changé sur le media de démarrage :file:`PC-"
+"BSD10.3-*`."
 
 #: ../../introduction.rst:162
 msgid "The LibreOffice and Office role packages have been removed from installation media in order to reduce their download size. These can be installed post-installation using :ref:`AppCafe®`."
 msgstr ""
+"Les paquets LibreOffice et Office role ont été supprimés des médias "
+"d'installation de manière à réduire leurs tailles de téléchargement. Ils "
+"peuvent être installés après l'installation en utilisant :ref:`AppCafe®`."
 
 #: ../../introduction.rst:165
 msgid "EasyPBI has been removed as it is no longer needed to add meta-data to packages."
 msgstr ""
+"EasyPBI a été supprimé car il n'est plus nécessaire pour ajouter des méta-"
+"data aux paquets."
 
 #: ../../introduction.rst:167
 msgid "The \"Plugins\" tab has been removed from :ref:`AppCafe®` as this functionality is being rewritten for the upcoming 11-RELEASE. In the interim, refer to :ref:`Managing Jails from the CLI` if you wish to manage jails on your PC-BSD® system."
 msgstr ""
+"L'onglet \"Modules\" a été supprimé de :ref:`AppCafe®` car cette "
+"fonctionnalité a été ré-écrite pour la prochaine version 11-RELEASE. Entre "
+"temps, se référer à :ref:`Gestion des Jails à la ligne de commande` si vous "
+"souhaitez gérer des jails sur votre système PC-BSD®."
 
 #: ../../introduction.rst:170
 msgid "The \"Search all available PBIs and packages\" checkbox has been renamed to \"Search all available software\" in :menuselection:`AppCafe® --> App Search`."
 msgstr ""
+"La case à cochée \"Rechercher tous les PBI et paquets disponibles\" a été "
+"renommée \"Rechercher tous les logiciels disponibles\" dans "
+":menuselection:`AppCafe® --> Rechercher Appli`."
 
 #: ../../introduction.rst:172
 msgid "The \"Auto-play optical disks\" checkbox has been added to :menuselection:`Mount Tray --> More Options --> Change Settings`."
 msgstr ""
+"La case à cochée \"Lecture automatique du disque optique\" a été ajoutée à "
+":menuselection:`Panneau de Montage --> Plus d'Options --> Modifier Réglages`."
 
 #: ../../introduction.rst:178
 msgid "PC-BSD® for Linux Users"
-msgstr ""
+msgstr "PC-BSD® pour les utilisateurs Linux"
 
 #: ../../introduction.rst:180
 msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
 msgstr ""
+"PC-BSD® est basé sur FreeBSD, signifiant que ce n'est pas une distribution "
+"Linux. Si vous avez utilisé Linux par le passé, vous trouverez que certaines "
+"fonctionnalités que vous avez utilisées ont des noms différents sur un "
+"système BSD et que certaines commandes sont différentes. Cette section "
+"couvre quelques unes de ces différences."
 
 #: ../../introduction.rst:186
 msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
 msgstr ""
+"BSD et Linux utilisent des systèmes de fichier différents durant "
+"l'installation. De nombreuses distributions Linux utilisent EXT2, EXT3, "
+"EXT4, ou ReiserFS, alors que PC-BSD® utilise OpenZFS. Cela signifie que si "
+"vous souhaitez un double démarrage avec Linux ou accéder à des données sur "
+"un disque externe qui a été formaté avec un autre système de fichier, vous "
+"devrez d'abord faire quelques recherches pour savoir si les données seront "
+"accessibles aux deux systèmes d'exploitation."
 
 #: ../../introduction.rst:190
 msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
 msgstr ""
+"Le tableau 1.3a regroupe différents systèmes de fichier communément utilisés "
+"par les ordinateurs de bureau. La plupart des gestionnaires de bureau "
+"disponibles sous PC-BSD® devraient monter automatiquement les systèmes de "
+"fichier suivants: FAT16, FAT32, EXT2, EXT3 (sans journalisation), EXT4 ("
+"lecture seule), NTFS5, NTFS6, et XFS. Se reporter à la section :ref:`"
+"Fichiers et Partage de Fichier` pour plus d'information sur les utilitaires "
+"de gestionnaire de fichier disponibles."
 
 #: ../../introduction.rst:194
 msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
-msgstr ""
+msgstr "**Tableau 1.3a: Support des systèmes de fichier sous PC-BSD®**"
 
 #: ../../introduction.rst:197
 msgid "Filesystem"
-msgstr ""
+msgstr "Système de fichier"
 
 #: ../../introduction.rst:197
 msgid "Native to"
