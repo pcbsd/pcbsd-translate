@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-14 00:17-0700\n"
-"PO-Revision-Date: 2016-02-15 04:05+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-05-14 04:19-0700\n"
+"PO-Revision-Date: 2016-05-14 14:27+0000\n"
+"Last-Translator: Sebastian <sebastian@rostwald.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463236055.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -320,6 +322,9 @@ msgstr ""
 #: ../../introduction.rst:107
 msgid "PC-BSD® started off as an independent project, but since October, 2006 PC-BSD® is financially backed and supported by the enterprise-class hardware solutions provider `iXsystems <https://www.ixsystems.com/>`_."
 msgstr ""
+"PC-BSD® war zu Beginn ein eigenständiges Projekt, doch seit Oktober 2006 "
+"wird PC-BSD® vom Anbieter für professionelle Hardwarelösungen `iXsystems "
+"<https://www.ixsystems.com/>`_ unterstützt und mitfinanziert."
 
 #: ../../introduction.rst:113
 msgid "Goals and Features"
@@ -439,22 +444,35 @@ msgstr ""
 #: ../../introduction.rst:158
 msgid "Based on FreeBSD 10.3 which adds these `features <https://www.freebsd.org/releases/10.3R/relnotes.html>`_."
 msgstr ""
+"Basiert auf FreeBSD 10.3, das um `diese Funktionen "
+"<https://www.freebsd.org/releases/10.3R/relnotes.html>`_ erweitert wurde."
 
 #: ../../introduction.rst:160
 msgid "The initial boot menu has changed on the :file:`PC-BSD10.3-*` boot media."
-msgstr ""
+msgstr "Das Bootmenü auf den :file:`PC-BSD10.3-*` Datenträgern wurde geändert."
 
 #: ../../introduction.rst:162
 msgid "The LibreOffice and Office role packages have been removed from installation media in order to reduce their download size. These can be installed post-installation using :ref:`AppCafe®`."
 msgstr ""
+"LibreOffice und die Rolle \"Büro\" wurde von den Installationsmedien "
+"entfernt, um deren Downloadgröße zu verringern. Diese Pakete konnen nach der "
+"Installation über das :ref:`AppCafe®` nachinstalliert werden."
 
 #: ../../introduction.rst:165
 msgid "EasyPBI has been removed as it is no longer needed to add meta-data to packages."
 msgstr ""
+"EeasyPBI wurde entfernt, da es nicht länger benötigt wird um Metadaten zu "
+"Paketen hinzuzufügen."
 
 #: ../../introduction.rst:167
+#, fuzzy
 msgid "The \"Plugins\" tab has been removed from :ref:`AppCafe®` as this functionality is being rewritten for the upcoming 11-RELEASE. In the interim, refer to :ref:`Managing Jails from the CLI` if you wish to manage jails on your PC-BSD® system."
 msgstr ""
+"Der \"Plugins\" Tab wurde vom :ref:`AppCafe®` entfernt, da diese "
+"funktionalität für die bevorstehende 11-RELEASE Version neu implementiert "
+"wird. In der Zwischenzeit folgen Sie bitte den Anweisungen unter :ref:`"
+"Managing Jails from the CLI` wenn Sie Ihre Jails unter PC-BSD® verwalten "
+"möchten."
 
 #: ../../introduction.rst:170
 msgid "The \"Search all available PBIs and packages\" checkbox has been renamed to \"Search all available software\" in :menuselection:`AppCafe® --> App Search`."
@@ -466,42 +484,41 @@ msgstr ""
 
 #: ../../introduction.rst:178
 msgid "PC-BSD® for Linux Users"
-msgstr "PC-BSD® für Benutzerinnen und Benutzer von Linux"
+msgstr "PC-BSD® für Benutzer von Linux"
 
 #: ../../introduction.rst:180
 msgid "PC-BSD® is based on FreeBSD, meaning that it is not a Linux distribution. If you have used Linux before, you will find that some features that you are used to have different names on a BSD system and that some commands are different. This section covers some of these differences."
 msgstr ""
-"PC-BSD® basiert auf FreeBSD, was bedeutet, dass es keine Distribution von "
-"Linux ist. Wenn Sie zuvor Linux benutzt habe, werden Sie der Meinung sein, "
-"dass einige Funktionen, die Sie benutzten, auf einem BSD-System andere Namen "
-"haben und dass einige Kommandos anders sind. Dieser Abschnitt behandelt "
-"einige dieser Unterschiede."
+"PC-BSD® basiert auf FreeBSD, ist also keine Linux-Distribution. Wenn Sie "
+"zuvor Linux verwendet haben, werden Sie feststellen, dass einige bekannte "
+"Funktionen unter BSD Systemen einen anderen Namen haben und sich manche "
+"Kommandos unterscheiden. Dieser Abschnitt behandelt einige dieser "
+"Unterschiede."
 
 #: ../../introduction.rst:186
 msgid "BSD and Linux use different filesystems during installation. Many Linux distros use EXT2, EXT3, EXT4, or ReiserFS, while PC-BSD® uses OpenZFS. This means that if you wish to dual-boot with Linux or access data on an external drive that has been formatted with another filesystem, you will want to do a bit of research first to see if the data will be accessible to both operating systems."
 msgstr ""
 "BSD und Linux benutzen unterschiedliche Dateisysteme während der "
 "Installation. Viele Linux-Distributionen verwenden EXT2, EXT3, EXT4 oder "
-"ReiserFS, während PC-BSD® OpenZFS nutzt. Das bedeutet, dass wenn sie Dual-"
-"Boot mit Linux wünschen oder auf Daten auf einer externen Festplatte "
-"zugreifen, die mit einem anderen Dateisystem formatiert wurden, werden Sie "
-"zuerst ein wenig Forschung betreiben müssen, um zu sehen, ob die Daten von "
-"beiden Betriebssystemen zugänglich sind."
+"ReiserFS, während PC-BSD® OpenZFS nutzt. Möchten Sie ein Dualboot-System mit "
+"Linux einrichten oder externe Datenträger nutzen, die mit einem anderen "
+"Dateisystem formatiert wurden, sollten Sie sich vorab Informieren ob die "
+"Daten mit beiden Betriebssystemen zugänglich sein werden."
 
 #: ../../introduction.rst:190
 msgid "Table 1.3a summarizes the various filesystems commonly used by desktop systems. Most of the desktop managers available from PC-BSD® should automatically mount the following filesystems: FAT16, FAT32, EXT2, EXT3 (without journaling), EXT4 (read-only), NTFS5, NTFS6, and XFS. See the section on :ref:`Files and File Sharing` for more information about available file manager utilities."
 msgstr ""
 "Die Tabelle 1.3a fasst die verschiedenen Dateisysteme zusammen, die häufig "
-"von Desktop-Systemen eingesetzt werden. Die meisten bei PC-BSD® verfügbaren "
-"Desktop-Verwaltungen sollten automatisch die folgenden Dateisysteme "
-"unterstützen: FAT16, FAT32, EXT2, EXT3 (ohne Journaling), EXT4 (read-only), "
-"NTFS5, NTFS6 und XFS. Schauen Sie sich den Abschnitt bei :ref:`Dateien und "
-"Teilen von Dateien` für weitere Informationen über die verfügbaren Werkzeuge "
-"dür Dateiverwaltung an."
+"von Desktop-Systemen eingesetzt werden. Die meisten in PC-BSD® verfügbaren "
+"Desktopoberflächen sollten die folgenden Dateisysteme automatisch einbinden: "
+"FAT16, FAT32, EXT2, EXT3 (ohne Journaling), EXT4 (read-only), NTFS5, NTFS6 "
+"und XFS. Beachten Sie den Abschnitt :ref:`Dateien und Teilen von Dateien` "
+"für weitere Informationen über die verfügbaren Werkzeuge für die "
+"Dateiverwaltung."
 
 #: ../../introduction.rst:194
 msgid "**Table 1.3a: Filesystem Support on PC-BSD®**"
-msgstr "**Tabelle 1.3a: Unterstützung von Dateisystemen bei PC-BSD®**"
+msgstr "**Tabelle 1.3a: Dateisystemunterstützung in PC-BSD®**"
 
 #: ../../introduction.rst:197
 msgid "Filesystem"
