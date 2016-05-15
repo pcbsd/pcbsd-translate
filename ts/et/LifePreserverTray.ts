@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="et">
 <context>
     <name>LPMessages</name>
     <message>
         <source>Life Preserver Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserveri teated</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Teated</translation>
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Logifailid</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiljutisi teateid pole</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Logifaile pole</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Faili sisu puudub</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Faili pole olemas: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Faili ei õnnestunud avada: %1</translation>
     </message>
 </context>
 <context>
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita kõiki teateid</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita ainult hoiatusi</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ära näita teateid</translation>
     </message>
     <message>
         <source>Popup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Hüpikakna sätted</translation>
     </message>
     <message>
         <source>Open Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava Life Preserver</translation>
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita teateid</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Värskenda süsteemisalv</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeg: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Süsteemi häire</translation>
     </message>
 </context>
 <context>
