@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Gunakan direktori rumah sementara yang dihapus pada log out</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Segarkan</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Segarkan PCDM</translation>
     </message>
 </context>
 <context>

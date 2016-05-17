@@ -6,39 +6,56 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-17 04:17-0700\n"
-"PO-Revision-Date: 2015-06-29 14:01+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2016-05-17 08:18-0700\n"
+"PO-Revision-Date: 2016-05-17 16:11+0000\n"
+"Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463501498.000000\n"
 
 #: ../../preinstall.rst:2
 msgid "Pre-Installation Tasks"
-msgstr ""
+msgstr "Avant de commencer"
 
 #: ../../preinstall.rst:4
 msgid "While the PC-BSD® installer is very easy to use, installing a brand new operating system can sometimes be a daunting task."
 msgstr ""
+"Même si l'installateur PC-BSD® est très simple à utiliser, installer un "
+"système d'exploitation complet peut être une tâche intimidante."
 
 #: ../../preinstall.rst:6
 msgid "Before you begin, there are a few things you should check to ensure that your system is ready to install PC-BSD®."
 msgstr ""
+"Avant de commencer, il y a certaines choses que vous devez vérifier pour "
+"vous assurez que vous système est prêt pour installer PC-BSD®."
 
 #: ../../preinstall.rst:8
 msgid "**Are you dual-booting or installing over the entire drive?** If you are dual-booting you will need to ensure that you have a primary partition available. Refer to the section on :ref:`Dual Booting`."
 msgstr ""
+"**Faites-vous un dual-boot ou installez-vous sur la totalité du disque ?** "
+"Si vous faites un dual-boot, vous devrez vous assurez que vous avez une "
+"partition primaire de libre. Référez-vous à la section :ref:`Dual Boot`."
 
 #: ../../preinstall.rst:11
 msgid "**Have you backed up your important data?** Any irreplaceable data, such as emails, bookmarks, or important files and documents should **always** be backed up to an external media, such as a removable drive or another system, **before** installing or upgrading any operating system."
 msgstr ""
+"**Avez-vous fait une sauvegarde de vos données importantes ?** Toutes les "
+"données irremplaçables comme les e-mails, les favoris, les fichiers "
+"importants et les documents doivent **toujours** être sauvegardés sur un "
+"média externe, comme un disque dur ou une clé USB, **avant** d'installer ou "
+"de mettre à jour n'importe quel système d'exploitation."
 
 #: ../../preinstall.rst:14
 msgid "If you wish to determine if your hardware is detected by PC-BSD®, start an installation and click the :ref:`Hardware Compatibility` button in the :ref:`Language Selection Screen`."
 msgstr ""
+"Pour savoir si votre matériel est correctement détecté par PC-BSD®, lancez "
+"une installation et cliquez sur le bouton :ref:`Compatibilité Matérielle` à "
+"l'écran :ref:`Sélection de la langue`."
 
 #: ../../preinstall.rst:17
 msgid "Should you run into an issue with your installation, refer to :ref:`Finding Help`."
