@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>MainWindow</name>
     <message>
         <source>About</source>
-        <translation type="unfinished">关于</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished">版本：</translation>
+        <translation>版本:</translation>
     </message>
     <message>
         <source>&lt;Unknown&gt;</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Desktop environments:</source>
-        <translation type="unfinished">桌面环境：</translation>
+        <translation>桌面环境:</translation>
     </message>
     <message>
         <source>(Please wait...)</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(unstable)</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
