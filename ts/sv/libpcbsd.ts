@@ -310,6 +310,42 @@ Om du avbryter nu kan paketen bli korrupta. Avbryt ändå?</translation>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
     </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>Fas 2 behörighetskontroll:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Anonym identitet:</translation>
+    </message>
 </context>
 <context>
     <name>metaWidget</name>
