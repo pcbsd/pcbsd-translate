@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-13 18:50+0000\n"
+"PO-Revision-Date: 2016-05-19 14:18+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1463667480.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -776,6 +778,12 @@ msgstr ""
 #: ../../lumina.rst:341
 msgid "Some applications, such as web browsers, keep their own internal lists of default applications for opening particular types of files. If you set that application to use the :command:`lumina-open` or :command:`xdg-open` utilities, it will use the default applications that are set here so that there is only a single list of default applications for the system."
 msgstr ""
+"Algunas aplicaciones, como los navegadores web, mantienen su propia lista "
+"interna de aplicaciones predeterminadas para abrir tipos de archivos "
+"particulares. Si establece esa aplicación para usar las utilerías :command"
+":`lumina-open` o :command:`xdg-open`, usará las aplicaciones predeterminadas "
+"que está establecidas aquí para que solo exista una sola lista de "
+"aplicaciones predeterminadas para el sistema."
 
 #: ../../lumina.rst:349
 msgid "Shortcuts"
@@ -784,10 +792,24 @@ msgstr "Accesos Directos"
 #: ../../lumina.rst:351
 msgid "The \"Shortcuts\" tab, shown in :numref:`Figure %s: Lumina Shortcuts Configuration <lumina8a>`, is used to configure various keyboard shortcuts for system or window tasks. Most of these options relate to window and workspace management, such as moving windows between workspaces, but there are also options for changing the system audio volume or screen brightness."
 msgstr ""
+"La pestaña \"Accesos Directos\", mostrada en la :numref:`Figura %s: "
+"Configuración de Accesos Directos en Lumina <lumina8a>`, es usada para "
+"configurar varios accesos directos del teclado para tareas del sistema o de "
+"ventana. La mayoría de estas opciones se relacionan al manejo de ventanas y "
+"espacio de trabajo, como mover ventanas entre espacios de trabajo, pero "
+"también hay opciones para cambiar el volúmen del audio del sistema o el "
+"brillo de la pantalla."
 
 #: ../../lumina.rst:355
 msgid "To create a shortcut, click the desired entry, then \"Change Shortcut\", then the key combination you wish to set. Note that any entry that already has a defined shortcut showing in the \"Keyboard Shortcut\" column  can **not** be assigned to another action. First, highlight that shortcut, click \"Clear Shortcut\", then \"Save Changes\". You can now create a new shortcut."
 msgstr ""
+"Para crear un acceso directo, presione en la entrada deseada, y luego en \""
+"Cambiar Acceso Directo\", luego la combinación de teclas que quiera "
+"establecer. Note que cualquier entrada que ya tenga un acceso directo "
+"definido y que se muestre en la columna \"Acceso Directo de Teclado\" **no** "
+"puede ser asignada a otra acción. Primero, seleccione ese acceso directo, "
+"presione \"Limpiar Acceso Directo\", y \"Guardar Cambios\". Ahora puede "
+"crear un nuevo acceso directo."
 
 #: ../../lumina.rst:366
 msgid "Session"
@@ -796,14 +818,27 @@ msgstr "Sesión"
 #: ../../lumina.rst:368
 msgid "The \"Session\" tab, shown in :numref:`Figure %s: Session General Options Tab <lumina12d>`, governs the general settings for the desktop session. These settings are usually not changed on a frequent basis."
 msgstr ""
+"La pestaña \"Sesión\", mostrada en la :numref:`Figura %s: Pestaña de "
+"Opciones Generales de la Sesión <lumina12d>`, gobierna las configuraciones "
+"generales para la sesión de escritorio. Estas configuraciones generalmente "
+"no se cambian frecuentemente."
 
 #: ../../lumina.rst:375
 msgid "The \"General Options\" tab can be used to automatically enable numlock, to play chimes when Lumina starts or exits, and to change the icon that appears  in the login menu and the start menu button. It also has options to set the time format, date format, and time display format. Buttons are available to reset these options to either the system defaults or Lumina defaults."
 msgstr ""
+"La pestaña de \"Opciones Generales\" puede usarse para habilitar "
+"automáticamente la tecla blq num, para tocar sonidos cuando Lumina inicia o "
+"sale, y para cambiar el icono que aparece en el menú de inicio de sesión y "
+"en el botón del menú inicio. También tiene opciones para establecer el "
+"formato de la hora, formato de la fecha, y el formato de presentación de la "
+"hora. Hay botones disponibles para restablecer estas opciones ya sea a los "
+"predeterminados del sistema o a los predeterminados de Lumina."
 
 #: ../../lumina.rst:378
 msgid "The \"Locale\" tab is shown in :numref:`Figure %s: Session Locale Tab <lumina21a>`."
 msgstr ""
+"La pestaña \"Localización\" se muestra en la :numref:`Figura %s: Pestaña de "
+"Localización de la Sesión <lumina21a>`."
 
 #: ../../lumina.rst:384
 msgid "The lumina-i18n package provides localization files. Once installed, this allows you to customize which locale is used for the various items listed in :numref:`Figure %s: Session Locale Tab <lumina21a>`. To install this package on a PC-BSD or FreeBSD system, use :command:`sudo pkg install lumina-i18n`. On other operating systems, use the software management tool that comes with the operating system. If the Lumina Configuration utility was open before the installation, restart it so that the list of localizations can be loaded into the drop-down menus of this screen. Since each setting has its own drop-down menu, you have the flexibility to select different locales for each item shown in this screen. Note that if you make any changes in the \"Locale\" tab, click the \"Save Changes\" button and restart Lumina so that the configured locales can be loaded."
