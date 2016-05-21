@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja">
 <context>
@@ -44,8 +44,12 @@
         <translation>後で知らせる</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">24時間 {8 ?} {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4時間</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8時間</translation>
     </message>
 </context>
 <context>
@@ -60,7 +64,7 @@
     </message>
     <message>
         <source>OS Update Available: %1</source>
-        <translatorcomment>前言撤回。文脈をよく調べると&quot;Available&quot;の訳は必要。</translatorcomment>
+        <translatorcomment>前言撤回。文脈をよく調べると"Available"の訳は必要。</translatorcomment>
         <translation>OS のアップデートがあります:</translation>
     </message>
     <message>
@@ -164,7 +168,7 @@
     </message>
     <message>
         <source>Tor FAQ: %1</source>
-        <translatorcomment>%1 には Tor プロジェクトの URL &quot;https://www.torproject.org/docs/faq.html&quot; が設定される。</translatorcomment>
+        <translatorcomment>%1 には Tor プロジェクトの URL "https://www.torproject.org/docs/faq.html" が設定される。</translatorcomment>
         <translation>Tor FAQ: %1</translation>
     </message>
     <message>
