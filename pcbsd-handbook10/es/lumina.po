@@ -1197,8 +1197,9 @@ msgid "The :command:`lumina-fileinfo` utility can be used to open a graphical wi
 msgstr ""
 
 #: ../../lumina.rst:575
+#, fuzzy
 msgid "Lumina Information"
-msgstr ""
+msgstr "Información de Archivos de Lumina"
 
 #: ../../lumina.rst:577
 msgid "This utility provides information about the version of Lumina, as well as the license, acknowledgements, and Project links. To launch this utility, right-click the desktop and select :menuselection:`Preferences --> About Lumina`, click the start menu then the question mark icon in \"Preferences\", or type :command:`lumina-info` in a terminal window. An example is shown in :numref:`Figure %s: About Lumina <about1a>`."
