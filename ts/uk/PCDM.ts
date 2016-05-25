@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Використовується тимчасовий домашній каталог що буде видалений після завершення сесії</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Оновити</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Оновити наявних користувачів</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Змінити локалізацію (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Оновити PCDM</translation>
     </message>
 </context>
 <context>
