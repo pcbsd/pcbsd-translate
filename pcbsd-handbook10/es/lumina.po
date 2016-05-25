@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-24 17:52+0000\n"
+"PO-Revision-Date: 2016-05-25 21:02+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1464210172.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -1193,11 +1195,17 @@ msgstr "Información de Archivos de Lumina"
 #: ../../lumina.rst:563
 msgid "The :command:`lumina-fileinfo` utility can be used to open a graphical window summarizing the size, permissions and ownership, creation time, and last modification time of the specified file or directory. In the example shown in in :numref:`Figure %s: Sample File Information <file1>`, the user has typed :command:`lumina-fileinfo Downloads` from a terminal window to view the file information of their :file:`~/Downloads` directory."
 msgstr ""
+"La utilería :command:`lumina-fileinfo` puede usarse para abrir una ventana "
+"gráfica resumiendo el tamaño, permisos y propiedad, hora de creación, y la "
+"hora de la última modificación del archivo o directorio especificado. En el "
+"ejemplo mostrado en la :numref:`Figura %s: Muestra de la Información del "
+"Archivo <file1>`, el usuario ha ingresado :command:`lumina-fileinfo "
+"Descargas` desde una ventana de terminal para ver la información de su "
+"directorio :file:`~/Descargas`."
 
 #: ../../lumina.rst:575
-#, fuzzy
 msgid "Lumina Information"
-msgstr "Información de Archivos de Lumina"
+msgstr "Información de Lumina"
 
 #: ../../lumina.rst:577
 msgid "This utility provides information about the version of Lumina, as well as the license, acknowledgements, and Project links. To launch this utility, right-click the desktop and select :menuselection:`Preferences --> About Lumina`, click the start menu then the question mark icon in \"Preferences\", or type :command:`lumina-info` in a terminal window. An example is shown in :numref:`Figure %s: About Lumina <about1a>`."
