@@ -7,14 +7,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-06 08:22-0700\n"
-"PO-Revision-Date: 2016-05-25 21:02+0000\n"
+"PO-Revision-Date: 2016-05-30 21:52+0000\n"
 "Last-Translator: Guillermo <garciarojas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1464645144.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -1208,67 +1210,112 @@ msgstr "Información de Lumina"
 #: ../../lumina.rst:577
 msgid "This utility provides information about the version of Lumina, as well as the license, acknowledgements, and Project links. To launch this utility, right-click the desktop and select :menuselection:`Preferences --> About Lumina`, click the start menu then the question mark icon in \"Preferences\", or type :command:`lumina-info` in a terminal window. An example is shown in :numref:`Figure %s: About Lumina <about1a>`."
 msgstr ""
+"Esta utilería proporciona información acerca de la versión de Lumina, así "
+"como la licencia, agradecimientos, y ligas al Proyecto. Para lanzar esta "
+"utilería, haga clic derecho en el escritorio y seleccione :menuselection:`"
+"Preferencias --> Acerca de Lumina`, presione el menú de inicio y luego el "
+"icono de signo de interrogación en \"Preferencias\", o ingrese :command"
+":`lumina-info` en una ventana de terminal. Un ejemplo se muestra en la "
+":numref:`Figura %s: Acerca de Lumina <about1a>`."
 
 #: ../../lumina.rst:585
 msgid "The \"General\" tab contains the following information:"
-msgstr ""
+msgstr "La pestaña \"General\" contiene la siguiente información:"
 
 #: ../../lumina.rst:587
 msgid "**Desktop Version:** indicates the version of Lumina."
-msgstr ""
+msgstr "**Versión de Escritorio:** indica la versión de Lumina."
 
 #: ../../lumina.rst:589
 msgid "**OS Build:** indicates the operating system that was used to build this version of Lumina."
 msgstr ""
+"**Compilación del SO:** indica el sistema operativo que se usó para compilar "
+"esta versión de Lumina."
 
 #: ../../lumina.rst:591
 msgid "**Qt Version:** click the \"View Information\" button to display the QT version and its license."
 msgstr ""
+"**Versión de QT:** presione el botón \"Ver Información\" para mostrar la "
+"versión de QT y su licencia."
 
 #: ../../lumina.rst:593
 msgid "**Lumina Website:** click the \"Open in web browser\" link to open `<http://lumina-desktop.org/>`_ in the default web browser."
 msgstr ""
+"**Sitio Web de Lumina:** presione la liga \"Abrir en navegador web\" para "
+"abrir `<http://lumina-desktop.org/>`_ en el navegador web predeterminado."
 
 #: ../../lumina.rst:595
 msgid "**Source Repository:** click the \"Open in web browser\" link to open `<https://github.com/pcbsd/lumina>`_ in the default web browser."
 msgstr ""
+"**Repositorio Fuente:** presione la liga \"Abrir en navegador web\" para "
+"abrir `<https://github.com/pcbsd/lumina>`_ en el navegador web "
+"predeterminado."
 
 #: ../../lumina.rst:597
 msgid "**Report a Bug:** click the \"Open in web browser\" link to open `<https://bugs.pcbsd.org/projects/pcbsd>`_ in the default web browser. Refer to :ref:`Report a Bug` for instructions on how to submit a bug report."
 msgstr ""
+"**Reportar un Error:** presione la liga \"Abrir en navegador web\" para "
+"abrir `<https://bugs.pcbsd.org/projects/pcbsd>`_ en el navegador web "
+"predeterminado. Refiérase a :ref:`Informar de un Error` para instrucciones "
+"sobre cómo levantar un reporte de error."
 
 #: ../../lumina.rst:600
 msgid "The \"License\" tab contains the license text for Lumina. Lumina is licensed under a `3-clause BSD license <http://opensource.org/licenses/BSD-3-Clause>`_."
 msgstr ""
+"La pestaña \"Licencia\" contiene el texto de licencia de Lumina. Lumina se "
+"licencia bajo una `Licencia BSD de 3 cláusulas "
+"<http://opensource.org/licenses/BSD-3-Clause>`_."
 
 #: ../../lumina.rst:602
 msgid "The \"Acknowledgements\" tab contains the following:"
-msgstr ""
+msgstr "La pestaña \"Agradecimientos\" contiene lo siguiente:"
 
 #: ../../lumina.rst:604
 msgid "**Project Lead:** the name of the Project's lead developer. Click the name to open his profile on GitHub in the default web browser."
 msgstr ""
+"**Líder del Proyecto:** el nombre del desarrollador líder del Proyecto. "
+"Presione en el nombre para abrir su perfil en GitHub en el navegador web "
+"predeterminado."
 
 #: ../../lumina.rst:606
 msgid "**Contributors:** click the \"Open in web browser\" link to open `<https://github.com/pcbsd/lumina/graphs/contributors>`_."
 msgstr ""
+"**Contribuyentes:** presione la liga \"Abrir en navegador web\" para abrir "
+"`<https://github.com/pcbsd/lumina/graphs/contributors>`_."
 
 #: ../../lumina.rst:608
 msgid "**Sponsors:** lists the project and corporate sponsors of the Lumina Project."
 msgstr ""
+"**Patrocinadores:** enlista los proyectos y corporaciones patrocinadores del "
+"Proyecto Lumina."
 
 #: ../../lumina.rst:614
 msgid "Lumina Xconfig"
-msgstr ""
+msgstr "Xconfig de Lumina"
 
 #: ../../lumina.rst:616
 msgid "The :command:`lumina-xconfig` utility is a graphical front-end to the :command:`xrandr` command line utility. It provides the ability to probe and manage any number of attached monitors. To start this utility, right-click the desktop and select :menuselection:`Preferences --> Display` or type :command:`lumina-xconfig` from a terminal window. This will open a screen similar to the one shown in :numref:`Figure %s: Configuring Monitors <lumina15a>`."
 msgstr ""
+"La utilería :command:`lumina-xconfig` es un front-end gráfico para la "
+"utilería de línea de comandos :command:`xrandr`. Proporciona la habilidad de "
+"probar y gestionar cualquier número de monitores conectados. Para iniciar "
+"esta utilería, haga clic derecho en el escritorio y seleccione "
+":menuselection:`Preferencias --> Pantalla` o ingrese :command:`lumina-"
+"xconfig` desde una ventana de terminal. Esto abrirá una pantalla similar a "
+"la mostrada en la :numref:`Figura %s: Configurando los Monitores "
+"<lumina15a>`."
 
 #: ../../lumina.rst:624
 msgid "In this example, one display input is attached to the system and its current screen resolution is displayed. If the display input supports multiple resolutions, they will appear in the \"Resolution\" drop-down menu so that you can select a different resolution."
 msgstr ""
+"En este ejemplo, una entrada de la pantalla está conectada al sistema y su "
+"resolución actual se muestra. Si la entrada de la pantalla soporta múltiples "
+"resoluciones, aparecerán en el menú desplegable \"Resoluciones\" para que "
+"pueda seleccionar una diferente."
 
 #: ../../lumina.rst:627
 msgid "If you attach another display input, the \"Add Screen\" tab is activated so that you can configure the new input's resolution and whether or not it should be the default input."
 msgstr ""
+"Si conecta otra entrada de pantalla, la pestaña \"Añadir Pantalla\" se "
+"activa para que pueda configurar la nueva resolución de la entrada y si será "
+"o no la entrada predeterminada."
