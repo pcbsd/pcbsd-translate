@@ -139,47 +139,47 @@
     </message>
     <message>
         <source>Scrub repaired %1 bad blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення виправило %1 блоків</translation>
     </message>
     <message>
         <source>Scrub repaired %1 blocks in %2 with %3 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення виправило %1 блоків в %2 з %3 помилками</translation>
     </message>
     <message>
         <source>Scrub completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення завершено</translation>
     </message>
     <message>
         <source>Scrub completed without needing repairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення завершено без необхідності виправлень</translation>
     </message>
     <message>
         <source>Scrub cancelled for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення відмінено для %1</translation>
     </message>
     <message>
         <source>Scrubbing %1: %2 (%3 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищення %1: %2 (%3 залишилося)</translation>
     </message>
     <message>
         <source>Resilvering: %1 (%2 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенесення актуальних даних: %1 (%2 залишилося)</translation>
     </message>
     <message>
         <source>Resilvering Started: %1 remaining </source>
-        <translation type="unfinished"></translation>
+        <translation>Розпочалося перенесення актуальних даних: %1 залишилося </translation>
     </message>
     <message>
         <source>Resilver completed in %1 with %2 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенесення актуальних даних завершилося в %1 з %2 помилкми</translation>
     </message>
     <message>
         <source>Resilver completed successfully in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенесення актуальних даних завершилося вдало в %1</translation>
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Пул в неробочому стані. Перегляньте додаткові помилки пристрою.</translation>
     </message>
     <message>
         <source>%1 is degraded.</source>
