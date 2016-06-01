@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="bg">
 <context>
     <name>LPClassic</name>
     <message>
         <source>Classic Home-Dir Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Класическо резервно копие на домашната директория</translation>
     </message>
     <message>
         <source>Filename:</source>
-        <translation type="unfinished"></translation>
+        <translation>Име на файл:</translation>
     </message>
     <message>
         <source>Exclude PBI Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Пренебрегване на преките пътища на PBI</translation>
     </message>
     <message>
         <source>Exclude User-Level Binaries (~/bin/)</source>
-        <translation type="unfinished"></translation>
+        <translation>Пренебрегване на изпълнимите файлове на потребителя (~/bin/)</translation>
     </message>
     <message>
         <source>Additional Excludes</source>
-        <translation type="unfinished"></translation>
+        <translation>Допълнително пренебрегване</translation>
     </message>
     <message>
         <source>Remove selected exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахване на избраното пренебрегване</translation>
     </message>
     <message>
         <source>...</source>
@@ -65,42 +65,42 @@
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменено</translation>
     </message>
     <message>
         <source>FINISHED</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАВЪРШЕНО</translation>
     </message>
     <message>
         <source>Exclude Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Пренебрегване на файлове</translation>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Всички файлове (*)</translation>
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Опаковане на домашната директория...</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>Пренебрегване на директории</translation>
     </message>
 </context>
 <context>
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки на набора от данни</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Набор от данни</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Местни снимки</translation>
     </message>
     <message>
         <source>Schedule:</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всекидневно</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почасово</translation>
     </message>
     <message>
         <source>30 minutes</source>
@@ -140,15 +140,15 @@
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Общо</translation>
     </message>
     <message>
         <source>Keep:</source>
-        <translation type="unfinished"></translation>
+        <translation>Запазване:</translation>
     </message>
     <message>
         <source>Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Копиране на данните</translation>
     </message>
     <message>
         <source>User Name</source>
@@ -160,23 +160,23 @@
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Отдалечен набор от данни</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Честота</translation>
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронизиране със снимките</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 минути</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 минути {10 ?}</translation>
     </message>
     <message>
         <source>Manual</source>
@@ -212,39 +212,39 @@
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ден от седмицата</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>Час</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation>Понеделниците</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Вторниците</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Средите</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Четвъртъците</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>Петъците</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Съботите</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Неделите</translation>
     </message>
     <message>
         <source>Replication Settings</source>
@@ -276,38 +276,42 @@
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Пренебрегнати данни</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Потребителски IP&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Интервал от дни</translation>
     </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
     <message>
         <source>ISCSI Setup Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Помошник за установка на ISCSI</translation>
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>Този инструмент ще ви преведе през стъпките, необходими за установка на напълно криптирани външни резервни копия на вашата PC-BSD система.</translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигурация на сървъра за резервни копия</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Избор</translation>
     </message>
     <message>
         <source>Detected Settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Засечени настройки:</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Цел:</translation>
     </message>
     <message>
         <source>User:</source>
@@ -347,39 +351,39 @@
     </message>
     <message>
         <source>Create Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на файл с ключ</translation>
     </message>
     <message>
         <source>On New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>На нова снимка</translation>
     </message>
     <message>
         <source>Manually Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Ръчно стартиран</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>Всекидневно</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation>Почасово</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>На всеки 30 минути</translation>
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>На всеки 10 минути</translation>
     </message>
     <message>
         <source>Ready to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>В готовност за начало</translation>
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Готови ли сте да включите външното съхранение на данни?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
@@ -419,39 +423,39 @@
     </message>
     <message>
         <source>Select GELI Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете файл с GELI ключ</translation>
     </message>
     <message>
         <source>GELI Key Files (*.key)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлове с GELI ключ (*.key)</translation>
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Програмата за съхранение в реално време отчете грешка при опита за създаване на вашият файл с ключове. Моля уверете се, че настройките ви са точни и опитайте отново.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при създаването на ключ</translation>
     </message>
     <message>
         <source>Key Created</source>
-        <translation type="unfinished"></translation>
+        <translation>Ключът е създаден</translation>
     </message>
     <message>
         <source>Your key file has been successfully created and is located in /usr/home</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлът с вашият ключ беше създаден успешно в  /usr/home</translation>
     </message>
     <message>
         <source>A Life Preserver configuration file for the remote system is required. (*.lps)</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходим е конфигурационен файл на програмата за съхранение в реално време за отдалечената система. (*.lps)</translation>
     </message>
     <message>
         <source>If you do not have this file available, please contact the administrator(s) of the backup server and request one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако не разполагате с този файл, моля свържете се с администратора на сървъра за резервни копия и го поискайте.</translation>
     </message>
     <message>
         <source>If these settings don&apos;t look right, please contact the administrator of the backup server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ако тези настройки не ви изглеждат правилни, моля свържете се с администратора на сървъра за резервни копия.</translation>
     </message>
     <message>
         <source>Please Wait.</source>
@@ -474,7 +478,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -494,39 +498,39 @@
     </message>
     <message>
         <source>Configure snapshot and replication schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигуриране на графици за снимки и копиране на данните</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Конфигуриране</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Състояние</translation>
     </message>
     <message>
         <source>System State:</source>
-        <translation type="unfinished"></translation>
+        <translation>Състояние на системата:</translation>
     </message>
     <message>
         <source>Number of Disks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Брой дискове:</translation>
     </message>
     <message>
         <source>Latest Snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Последна снимка:</translation>
     </message>
     <message>
         <source>Restore Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване на данни</translation>
     </message>
     <message>
         <source>Select the previous (older) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете предишната (по-старата) снимка</translation>
     </message>
     <message>
         <source>Select the next (more recent) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Изберете следващата (по-новата) снимка</translation>
     </message>
     <message>
         <source>Display any hidden files/folders</source>
@@ -566,39 +570,39 @@
     </message>
     <message>
         <source>&amp;Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Снимки</translation>
     </message>
     <message>
         <source>Delete Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Изтриване на снимка</translation>
     </message>
     <message>
         <source>&amp;Classic Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>Класически &amp;резервни копия</translation>
     </message>
     <message>
         <source>Com&amp;press Home Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>Компресиране на &amp;домашната директория</translation>
     </message>
     <message>
         <source>&amp;Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Затваряне на прозореца</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Разширени</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Основни</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване на файл</translation>
     </message>
     <message>
         <source>Restore Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване на набор от данни</translation>
     </message>
     <message>
         <source>Save Key to USB</source>
@@ -638,39 +642,39 @@
     </message>
     <message>
         <source>Start Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Започване на копирането на данните</translation>
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Моля изчакайте</translation>
     </message>
     <message>
         <source>No datasets available</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма налични набори от данни</translation>
     </message>
     <message>
         <source>Restoring Directory: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване на директория: %1</translation>
     </message>
     <message>
         <source>Reversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка при връщането</translation>
     </message>
     <message>
         <source>Restore Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяването беше успешно</translation>
     </message>
     <message>
         <source>Restoring file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Възстановяване на файл: %1</translation>
     </message>
     <message>
         <source>Configuring dataset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфигуриране на набор от данни: %1</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Напомняне</translation>
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
@@ -710,11 +714,11 @@
     </message>
     <message>
         <source>%1: Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: изключване на копирането на данни</translation>
     </message>
     <message>
         <source>Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Изключване на копирането на данни</translation>
     </message>
     <message>
         <source>%1: Disabling Life-Preserver Management</source>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1117,7 +989,7 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почасово</translation>
     </message>
     <message>
         <source>Daily @</source>
@@ -1161,7 +1033,7 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всекидневно</translation>
     </message>
     <message>
         <source>@ h AP</source>
@@ -1189,39 +1061,39 @@
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ден от седмицата</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Час</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Понеделниците</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вторниците</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Средите</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Четвъртъците</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Петъците</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Съботите</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неделите</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Интервал от дни</translation>
     </message>
 </context>
 <context>

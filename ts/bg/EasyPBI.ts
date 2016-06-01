@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="bg">
 <context>
     <name>BulkModuleDialog</name>
     <message>
         <source>EasyPBI: Bulk Creator</source>
-        <translation type="unfinished">EasyPBI: Bulk Creator</translation>
+        <translation>EasyPBI: Създаване наедро</translation>
     </message>
     <message>
         <source>Setup</source>
@@ -532,7 +532,7 @@
     </message>
     <message>
         <source>Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+S</translation>
     </message>
     <message>
         <source>Get FreeBSD Ports</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Shift+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Q</translation>
     </message>
     <message>
         <source>&amp;Package Module</source>
@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Shift+A</translation>
     </message>
     <message>
         <source>&amp;Refresh Module</source>
@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>Bulk Module Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Създаване на модули (наедро)</translation>
     </message>
     <message>
         <source>Fetch File List</source>
@@ -805,8 +805,8 @@
         <translation>Инструмент за смяна на потребителя</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Пълният път до графичния инструмент за &quot;Смяна на потребителя&quot; (pc-su, gksu, kdesu, qsu и др.)</translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Пълният път до графичния инструмент за "Смяна на потребителя" (pc-su, gksu, kdesu, qsu и др.)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI версия %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Създаване на PBI пакети - бързо и лесно.</translation>
     </message>
     <message>

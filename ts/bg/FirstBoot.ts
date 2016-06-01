@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="bg">
 <context>
@@ -44,8 +44,8 @@
         <translation>Парола (отново)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>Паролата за системата, или &quot;root&quot;, ви позволява да правите промени на операционната система, и трябва да бъде пазена от ненадеждни потребители.</translation>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>Паролата за системата, или "root", ви позволява да правите промени на операционната система, и трябва да бъде пазена от ненадеждни потребители.</translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,8 +68,8 @@
         <translation>Повторно &amp;сканиране</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Бяха намерени следните безжични мрежи. Кликнете тази, към която искате да се свържете. Ако искате да прескочите тази стъпка, кликнете &quot;Напред&quot; по-долу.</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Бяха намерени следните безжични мрежи. Кликнете тази, към която искате да се свържете. Ако искате да прескочите тази стъпка, кликнете "Напред" по-долу.</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
@@ -212,31 +212,31 @@
     </message>
     <message>
         <source>On this screen you will need to create a user to log into your desktop. Additional users may be created in the Control Panel.</source>
-        <translation type="unfinished"></translation>
+        <translation>В този екран трябва да създадете потребител за вписване в системата. Допълнителни потребители могат да бъдат създадени от контролния панел.</translation>
     </message>
     <message>
         <source>On this screen you may connect to an available wifi network. If you have a hidden network, it may be added later in the Network Manager.</source>
-        <translation type="unfinished"></translation>
+        <translation>В този екран можете да се свържете към  налична wifi мрежа. Ако имате скрита мрежа, можете да я добавите по-късно в мениджъра на мрежата.</translation>
     </message>
     <message>
         <source>The computer setup is now finished! Click Finish to log into your new Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Установката на компютъра завърши! Натиснете Край , за да се впишете в новата система.</translation>
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Позволява SSH достъп до тази система от отдалечени системи</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>Включване на SSH</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>Забраняване на IPv6</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Забрана на връзки чрез IPv6</translation>
     </message>
 </context>
 <context>
@@ -257,51 +257,51 @@
     <name>netKey</name>
     <message>
         <source>SSID</source>
-        <translation type="unfinished"></translation>
+        <translation>SSID</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Мрежов ключ</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show network key as text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network Key Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: The entered network keys do not match!
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки на клавиатурата</translation>
     </message>
     <message>
         <source>Key Layout</source>
