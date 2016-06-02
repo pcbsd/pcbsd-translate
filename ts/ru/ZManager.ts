@@ -493,14 +493,11 @@ Read ZFS manual for more information.</source>
         <translation>Удалить свойство пользователя</translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
-gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
+lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation>Включает или отключает сжатие для набора данных. Значения такие как on, off, lz4, lzjb, zle, gzip и gzip-N.
-В настоящее время, установка этого параметра в значения lz4, lzjb, gzip, или gzip-N имеет тот же эффект что и установка в значение on.
-Включение сжатия в файловой системе с существующими данными приведет к сжатию только новых данных.
-Существующие данные останутся несжатыми.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
