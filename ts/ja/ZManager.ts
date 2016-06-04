@@ -509,11 +509,11 @@ Read ZFS manual for more information.</source>
         <translation>ユーザープロパティを削除する</translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
-lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
+gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>データセットの圧縮の有無を設定します。値は on、off、lz4、lzjb、zle、gzip と gzip-N です。現在、このプロパティに lz4、lzjb、gzip、あるいは gzip-N を設定すると、このプロパティにon を設定することと同じ効果があります。すでにデータが存在するファイルシステムで圧縮を有効にすると、新しいデータのみを圧縮します。既存のデータは圧縮されないままです。</translation>
     </message>
 </context>
 <context>
