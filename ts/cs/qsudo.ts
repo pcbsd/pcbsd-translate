@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="cs">
 <context>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Invalid Password! Tries Left: %1</source>
-        <translation>Chybné heslo! Zbývá %1 pokusů.</translation>
+        <translation type="unfinished">Chybné heslo! Zbývá :%1 pokusů</translation>
     </message>
 </context>
 </TS>

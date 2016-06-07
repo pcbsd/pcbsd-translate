@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="cs">
 <context>
@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>What do you want to configure?</source>
-        <translation type="unfinished">Co si přejete nastavit?</translation>
+        <translation>Co si přejete nastavit?</translation>
     </message>
     <message>
         <source>Loading items...</source>
-        <translation type="unfinished"></translation>
+        <translation>Načítání položek...</translation>
     </message>
     <message>
         <source>Software and updates</source>
@@ -49,27 +49,27 @@
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit podle mřížky</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobrazit jako seznam</translation>
     </message>
     <message>
         <source>System only</source>
-        <translation type="unfinished"></translation>
+        <translation>Pouze systém</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny pracovní plochy</translation>
     </message>
     <message>
         <source>Fixed items layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Pevný vzhled položek</translation>
     </message>
     <message>
         <source>(Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Aktuální)</translation>
     </message>
 </context>
 </TS>
