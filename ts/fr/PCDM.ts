@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Utilise un répertoire personnel temporaire qui est effacé lors de la déconnexion</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Rafraîchir</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Ré-afficher les utilisateurs disponibles</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Changer les paramètres régionaux (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Rafraîchier PCDM</translation>
     </message>
 </context>
 <context>
