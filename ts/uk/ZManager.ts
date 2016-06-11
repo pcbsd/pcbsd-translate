@@ -429,8 +429,8 @@ Read ZFS manual for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
-gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
+lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
         <translation type="unfinished"></translation>
