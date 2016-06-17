@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="tr">
 <context>
@@ -44,8 +44,12 @@
         <translation>Daha Sonra Hatırlat</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">24 Saat {8 ?} {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 Saat</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 Saat</translation>
     </message>
 </context>
 <context>
@@ -91,7 +95,7 @@
     </message>
     <message>
         <source>Start the AppCafe</source>
-        <translation>AppCafe&apos;yi Başlat</translation>
+        <translation>AppCafe'yi Başlat</translation>
     </message>
     <message>
         <source>Run At Startup</source>
@@ -159,7 +163,7 @@
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
-        <translation>Tor kullanırken bile kimliğinizi sızdırmanız mümkündür. Tor&apos;un ne olduğu ve güvenli bir şekilde nasıl kullanılacağı konusunda bilgi almak için lütfen Tor SSS belgesini okuyun.</translation>
+        <translation>Tor kullanırken bile kimliğinizi sızdırmanız mümkündür. Tor'un ne olduğu ve güvenli bir şekilde nasıl kullanılacağı konusunda bilgi almak için lütfen Tor SSS belgesini okuyun.</translation>
     </message>
     <message>
         <source>Tor FAQ: %1</source>
