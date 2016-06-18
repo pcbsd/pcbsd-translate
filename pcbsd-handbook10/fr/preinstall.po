@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-18 04:19-0700\n"
-"PO-Revision-Date: 2016-05-17 16:11+0000\n"
+"POT-Creation-Date: 2016-06-18 08:18-0700\n"
+"PO-Revision-Date: 2016-06-18 16:13+0000\n"
 "Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1466266383.000000\n"
 
 #: ../../preinstall.rst:2
 msgid "Pre-Installation Tasks"
@@ -43,7 +45,7 @@ msgstr ""
 msgid "**Have you backed up your important data?** Any irreplaceable data, such as emails, bookmarks, or important files and documents should **always** be backed up to an external media, such as a removable drive or another system, **before** installing or upgrading any operating system."
 msgstr ""
 "**Avez-vous fait une sauvegarde de vos données importantes ?** Toutes les "
-"données irremplaçables comme les e-mails, les favoris, les fichiers "
+"données irremplaçables comme les emails, les favoris, les fichiers "
 "importants et les documents doivent **toujours** être sauvegardés sur un "
 "média externe, comme un disque dur ou une clé USB, **avant** d'installer ou "
 "de mettre à jour n'importe quel système d'exploitation."
@@ -58,18 +60,23 @@ msgstr ""
 #: ../../preinstall.rst:17
 msgid "Should you run into an issue with your installation, refer to :ref:`Finding Help`."
 msgstr ""
+"Si vous rencontrez des problèmes lors de l'installation, référez-vous à la "
+"section :ref:`Obtenir de l'aide` ."
 
 #: ../../preinstall.rst:19
 msgid "This section discusses the PC-BSD® hardware requirements, how to prepare the system for installation, and how to obtain and prepare the installation media."
 msgstr ""
+"Cette section décrit la configuration matérielle minimale requise pour "
+"l'installation de PC-BSD®, comment préparer le système pour l'installation, "
+"et comment obtenir et préparer le média d'installation."
 
 #: ../../preinstall.rst:25
 msgid "Minimum Requirements"
-msgstr ""
+msgstr "Configuration minimale"
 
 #: ../../preinstall.rst:27
 msgid "PC-BSD® has moderate hardware requirements and commonly uses less resources than its commercial counterparts. Before installing PC-BSD®, make sure that your hardware or virtual machine at least meets the minimum requirements. To get the most out of your PC-BSD® experience, use a system that meets the recommended system requirements."
-msgstr ""
+msgstr "PC-BSD® nécessite peu de ressources matérielles et utilise souvent"
 
 #: ../../preinstall.rst:31
 msgid "At a **bare minimum** you need to meet these requirements in order to install PC-BSD®:"
