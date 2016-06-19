@@ -510,11 +510,14 @@ Daha fazla bilgi için ZFS kılavuzunu okuyun.</translation>
         <translation>Kullanıcı özelliği sil</translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
-lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
+gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir veriseti için sıkıştırmayı etkinleştirir ya da etkisizleştirir. Değerler açık(on), kapalı(off), lz4, 
+lzjb, zle, gzip ve gzip-N şeklindedir. Şu an için bu özelliği lz4, lzjb, gzip, ya da gzip-N olarak
+ayarlamak açık olarak ayarlamakla aynı etkidedir. Mevcut verisi bulunan bir dosya sisteminde
+sıkıştırmayı etkinleştirmek yalnızca yeni veriyi sıkıştırır. Mevcut veri sıkıştırılmamış olarak kalır.</translation>
     </message>
 </context>
 <context>
