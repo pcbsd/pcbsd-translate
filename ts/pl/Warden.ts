@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -182,7 +182,7 @@
         <translation>Uprzywilejowani użytkownicy Więzienia będą mogli montować i odmontowywać system plików zfs.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
+        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
         <translation>Administrator(root) Więzienia może manipulować przydziałem quota w systemie plików celi.</translation>
     </message>
     <message>
