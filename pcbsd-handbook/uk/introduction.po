@@ -7,13 +7,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-06-21 20:18-0700\n"
-"PO-Revision-Date: 2015-12-11 12:50+0000\n"
+"POT-Creation-Date: 2016-06-22 00:17-0700\n"
+"PO-Revision-Date: 2016-06-22 11:41+0000\n"
 "Last-Translator: yurkis <yurkis@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1466595671.000000\n"
 
 #: ../../introduction.rst:2
 msgid "**Preface**"
@@ -29,7 +34,7 @@ msgstr "Версія |version|"
 
 #: ../../introduction.rst:8
 msgid "Copyright © 2005 - 2016 The PC-BSD® Project."
-msgstr ""
+msgstr "Copyright © 2005 - 2016 The PC-BSD® Project."
 
 #: ../../introduction.rst:10
 msgid "Welcome to PC-BSD®! This Handbook covers the installation and use of PC-BSD® |version|. This Handbook is a work in progress and relies on the contributions of many individuals. If you are interested in assisting with the Handbook, refer to the documentation `README <https://github.com/pcbsd/pcbsd/blob/master/src-qt5/docs/README.md>`_. If you use IRC Freenode, you are welcome to join the #pcbsd channel where you will find other PC-BSD® users."
@@ -45,7 +50,7 @@ msgstr ""
 #: ../../introduction.rst:12
 msgid "Previous versions of the Handbook in various formats and languages are available from `here <ftp://ftp.pcbsd.org/pub/handbook/>`_."
 msgstr ""
-"Попередні версії посібника у різних форматах можуть бути отримати `за цією "
+"Попередні версії посібника у різних форматах можуть бути отримані `за цією "
 "адресою <ftp://ftp.pcbsd.org/pub/handbook/>`_."
 
 #: ../../introduction.rst:14
