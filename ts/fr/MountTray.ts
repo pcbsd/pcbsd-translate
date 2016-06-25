@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fr">
 <context>
@@ -9,12 +9,11 @@
     </message>
     <message>
         <source>Open the disk tray</source>
-        <translatorcomment>Il s&apos;agit d&apos;ouvrir le panneau des disques amovibles tray=panneau et non plateau</translatorcomment>
         <translation>Ouvrir le panneau des disques amovibles</translation>
-    </message>
+    <translatorcomment>Il s'agit d'ouvrir le panneau des disques amovibles tray=panneau et non plateau</translatorcomment></message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
-        <translation>Utiliser ce périphérique automatiquement lorsqu&apos;il est connecté au système</translation>
+        <translation>Utiliser ce périphérique automatiquement lorsqu'il est connecté au système</translation>
     </message>
     <message>
         <source>Auto-Run</source>
@@ -115,11 +114,11 @@
     <name>MountTray</name>
     <message>
         <source>More Options</source>
-        <translation>Plus d&apos;Options</translation>
+        <translation>Plus d'Options</translation>
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation>Voir l&apos;Utilisation du Disque</translation>
+        <translation>Voir l'Utilisation du Disque</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -135,9 +134,8 @@
     </message>
     <message>
         <source>Close Tray</source>
-        <translatorcomment>Il s&apos;agit de fermer le panneau des disques amovibles</translatorcomment>
         <translation>Fermer le Panneau</translation>
-    </message>
+    <translatorcomment>Il s'agit de fermer le panneau des disques amovibles</translatorcomment></message>
     <message>
         <source>Please Wait</source>
         <translation>Veuillez Patienter</translation>
@@ -175,13 +173,12 @@
     </message>
     <message>
         <source>Monitor disk storage space</source>
-        <translation>Contrôler l&apos;espace de stockage du disque</translation>
+        <translation>Contrôler l'espace de stockage du disque</translation>
     </message>
     <message>
         <source>Perform check on device notifications</source>
-        <translatorcomment>Simplification de la traduction littérale</translatorcomment>
         <translation>Contrôler les notifications de périphérique</translation>
-    </message>
+    <translatorcomment>Simplification de la traduction littérale</translatorcomment></message>
     <message>
         <source>Maximum time between checks (minutes)</source>
         <translation>Temps maximum entre contrôles (minutes)</translation>
