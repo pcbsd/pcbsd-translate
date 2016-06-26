@@ -456,13 +456,5 @@ Please configure your WPA settings before saving!</source>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA-Enterprise (seadistatud)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>Valitud on WPA-Enterprise, kuid see on seadistamata!
-Palun seadista WPA enne salvestamist!
-Lubatud teise taseme valikud on MD5, MSCHAPV2, GTC või OTP.</translation>
-    </message>
 </context>
 </TS>
