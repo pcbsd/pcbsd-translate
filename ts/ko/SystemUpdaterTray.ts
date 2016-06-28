@@ -44,7 +44,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>5 Hours</source>
+        <source>4 Hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
