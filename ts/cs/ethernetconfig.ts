@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>&amp;General</source>
-        <translation>&amp;Hlavní</translation>
+        <translation>&amp;Obecné</translation>
     </message>
     <message>
         <source>Network address configuration</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Configure &amp;WPA</source>
-        <translation>Nastavení &amp;WPA            </translation>
+        <translation>Nastavení &amp;WPA</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Use hardware defau&amp;lt MAC address</source>
-        <translation>Použít &amp;standardní MAC adresu adaptéru</translation>
+        <translation>Použít standardní MAC adresu adaptéru</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Obtain IPv6 address automaticall&amp;y</source>
-        <translation>Získat IPv6 adresu automatick&amp;y</translation>
+        <translation>Získat IPv6 adresu automaticky</translation>
     </message>
     <message>
         <source>Alt+Y</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Configuration info</source>
-        <translation type="unfinished">Konfigurace info</translation>
+        <translation>Info o konfiguraci</translation>
     </message>
     <message>
         <source>Gateway:</source>
@@ -154,7 +154,7 @@
     <message>
         <source>You must enter an IP and Netmask to continue!
 </source>
-        <translation>Pro pokračování musíte vložit IP adresu a masku podsítě!
+        <translation type="unfinished">Pro pokračování musíte vložit IP adresu a masku podsítě!
 </translation>
     </message>
     <message>
@@ -171,7 +171,7 @@
     </message>
     <message>
         <source>Netmask is out of range! (</source>
-        <translation>Síťová maska mimo rozsah! (</translation>
+        <translation>Síťová maska je mimo rozsah! (</translation>
     </message>
     <message>
         <source>configuration</source>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished">999\.999\.999\.999; </translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 </TS>
