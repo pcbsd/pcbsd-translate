@@ -204,133 +204,133 @@ Please update your system</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="152"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="137"/>
         <source>System restart required to finish updates!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="161"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="146"/>
         <source>System currently performing background updates.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="169"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="154"/>
         <source>Updates Available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="174"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="159"/>
         <source>PC-BSD Patches</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="180"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="165"/>
         <source>System has updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="182"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="167"/>
         <source>System is current up to date</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="195"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="180"/>
         <source>Major OS Update: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="195"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="180"/>
         <source>Will install new FreeBSD version, apply security fixes, and update packages.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="201"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="186"/>
         <source>Install Security &amp; Package Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="201"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="186"/>
         <source>Will install all security fixes and update all packages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="205"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="190"/>
         <source>Install Security Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="205"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="190"/>
         <source>Will only install security updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="210"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="195"/>
         <source>Install Package Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="210"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="195"/>
         <source>Will only update installed packages</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="228"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="231"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="213"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="216"/>
         <source>%1 (%2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="82"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="259"/>
         <source>Please Wait</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="82"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="259"/>
         <source>Starting update procedures...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="305"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="299"/>
         <source>No update logs available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="324"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="318"/>
         <source>Auto-install all updates (including major OS upgrades)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="326"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="320"/>
         <source>Auto-install security updates only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="328"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="322"/>
         <source>Auto-install package updates only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="330"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="324"/>
         <source>Auto-install security and package updates (recommended)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="332"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="326"/>
         <source>Nothing is automatically updated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="372"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="366"/>
         <source>Your system will be switched to branch:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="375"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="369"/>
         <source>WARNING! This is an unstable version!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="377"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-updategui/mainUI.cpp" line="371"/>
         <source>Are you sure you want to change system branch?</source>
         <translation type="unfinished"></translation>
     </message>
