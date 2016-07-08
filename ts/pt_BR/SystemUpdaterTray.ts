@@ -44,12 +44,8 @@
         <translation>Lembrar mais tarde</translation>
     </message>
     <message>
-        <source>4 Hours</source>
-        <translation type="unfinished">24 horas {4 ?}</translation>
-    </message>
-    <message>
-        <source>8 Hours</source>
-        <translation type="unfinished">24 horas {8 ?}</translation>
+        <source>5 Hours</source>
+        <translation type="unfinished">24 horas {8 ?} {5 ?}</translation>
     </message>
 </context>
 <context>
