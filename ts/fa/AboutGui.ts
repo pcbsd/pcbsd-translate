@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation>اساس FreeBSD</translation>
+        <translation>پایه FreeBSD</translation>
     </message>
     <message>
         <source>Arch:</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Mem.</source>
-        <translation>حافظه.</translation>
+        <translation>حافظه</translation>
     </message>
     <message>
         <source>Back</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Desktop environments:</source>
-        <translation>محیط‌های رومیزی:</translation>
+        <translation>محیط‌های روی‌میزی:</translation>
     </message>
     <message>
         <source>(Please wait...)</source>
@@ -69,19 +69,19 @@
     </message>
     <message>
         <source>X.org server version:</source>
-        <translation>نسخه سرور X.org:</translation>
+        <translation>نسخه کارساز X.org:</translation>
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation>ابزارهای خط فرمان PC-BSD:</translation>
+        <translation>ابزارهای واسط خط فرمان PC-BSD:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
-        <translation>ابزارهای رابط کاربری PC-BSD:</translation>
+        <translation>ابزارهای واسط کاربری PC-BSD:</translation>
     </message>
     <message>
         <source>Package set:</source>
-        <translation>بسته:</translation>
+        <translation>مجموعه‌ی بسته‌ها:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation>اجزای نرم افزار و سیستم...</translation>
+        <translation>پیکرپارهای نرم‌افزاری و سامانه‌ای...</translation>
     </message>
 </context>
 </TS>

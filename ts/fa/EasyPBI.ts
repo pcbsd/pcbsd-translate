@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
     <name>BulkModuleDialog</name>
     <message>
         <source>EasyPBI: Bulk Creator</source>
-        <translation>PBIآسان : سازنده ی دسته ای</translation>
+        <translation>EasyPBI: سازنده‌ی دسته‌ای</translation>
     </message>
     <message>
         <source>Setup</source>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Base Directory</source>
-        <translation>شاخه ی پایه</translation>
+        <translation>شاخه‌ی پایه</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation>شاخه ی پایه برای ساخت ماژول ها</translation>
+        <translation>شاخه‌ی پایه برای ساخت پودمان‌ها</translation>
     </message>
     <message>
         <source>...</source>
@@ -29,31 +29,31 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>دسته بندی بسته(زمانیکه ایجاد یا استفاده می شود بعنوان زیر مجموعه ماژول)</translation>
+        <translation>رده‌ی بسته (به عنوان زیرشاخه‌ی پودمان ساخته یا استفاده خواهد شد)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
-        <translation>رونویسی ماژول های موجود</translation>
+        <translation>نوشتن روی پودمانهای موجود</translation>
     </message>
     <message>
         <source>Graphical Applications</source>
-        <translation>برنامه های گرافیکی</translation>
+        <translation>برنامه‌های گرافیکی</translation>
     </message>
     <message>
         <source>Text Applications</source>
-        <translation>برنامه های متنی</translation>
+        <translation>برنامه‌های متنی</translation>
     </message>
     <message>
         <source>Server Applications</source>
-        <translation>برنامه های سرویس دهنده</translation>
+        <translation>برنامه‌های کارساز</translation>
     </message>
     <message>
         <source>Other (libraries, meta packages, etc)</source>
-        <translation>بقیه (کتابخانه ها، بسته های meta و غیره)</translation>
+        <translation>برنامه‌های دیگر (کتابخانه‌ها، فرابسته‌ها و غیره)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>شروع</translation>
+        <translation>آغاز</translation>
     </message>
     <message>
         <source>Current Progress</source>
@@ -61,27 +61,27 @@
     </message>
     <message>
         <source>%v/%m</source>
-        <translation>%v/%m</translation>
+        <translation type="unfinished">%v/%m</translation>
     </message>
     <message>
         <source>Statistics</source>
-        <translation>آمارها</translation>
+        <translation>آمار</translation>
     </message>
     <message>
         <source>New Graphical Modules:</source>
-        <translation>ماژول های جدید گرافیکی:</translation>
+        <translation>پودمانهای جدید گرافیکی:</translation>
     </message>
     <message>
         <source>New Server Modules:</source>
-        <translation>ماژول های جدید سرویس دهنده:</translation>
+        <translation>پودمانهای جدید کارسازی:</translation>
     </message>
     <message>
         <source>New Text Modules:</source>
-        <translation>ماژول جدید متنی:</translation>
+        <translation>پودمانهای جدید متنی:</translation>
     </message>
     <message>
         <source>Pre-existing Modules:</source>
-        <translation>ماژول های موجود:</translation>
+        <translation>پودمانهای موجود از گذشته:</translation>
     </message>
     <message>
         <source>Invalid/Skipped:</source>
@@ -89,15 +89,15 @@
     </message>
     <message>
         <source>New Other Modules:</source>
-        <translation>ماژول های جدید متفرقه:</translation>
+        <translation>پودمانهای جدید دیگر:</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>توقف</translation>
+        <translation>باز ایست</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>بستن</translation>
+        <translation>ببند</translation>
     </message>
     <message>
         <source>Nothing Run Yet</source>
@@ -109,35 +109,35 @@
     </message>
     <message>
         <source>%1: Removing old module</source>
-        <translation>%1: حذف ماژول های قدیمی</translation>
+        <translation>%1: در حال پاک کردن پودمانهای قدیمی</translation>
     </message>
     <message>
         <source>%1: New graphical module</source>
-        <translation>%1: ماژول های گرافیکی جدید</translation>
+        <translation>%1: پودمانهای گرافیکی جدید</translation>
     </message>
     <message>
         <source>%1: New server module</source>
-        <translation>%1: ماژول سرویس دهنده جدید</translation>
+        <translation>%1: پودمان کارسازی جدید</translation>
     </message>
     <message>
         <source>%1: New text module</source>
-        <translation>%1: ماژول متنی جدید</translation>
+        <translation>%1: پودمان متنی جدید</translation>
     </message>
     <message>
         <source>%1: New other module</source>
-        <translation>%1: ماژول متفرقه جدید</translation>
+        <translation>%1: پودمان دیگر جدید</translation>
     </message>
     <message>
         <source>Category Stopped: %1</source>
-        <translation>دسته بندی متوقف شد: %1</translation>
+        <translation>رده متوقف شد: %1</translation>
     </message>
     <message>
         <source>Category Finished: %1</source>
-        <translation>دسته بندی پایان یافت: %1</translation>
+        <translation>رده پایان یافت: %1</translation>
     </message>
     <message>
         <source>Base Module Directory</source>
-        <translation>شاخه ماژول پایه</translation>
+        <translation>پوشه‌ی پودمان پایه</translation>
     </message>
 </context>
 <context>
@@ -156,19 +156,19 @@
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation>ذخیره کردن تنظیمات فعلی در فایل پیکربندی PBI</translation>
+        <translation>تنظیمات کنونی را در پرونده‌ی پیکربندی PBI ذخیره کن</translation>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
-        <translation>ذخیره سازی پیکربندی</translation>
+        <translation>&amp;پیکربندی را ذخیره کن</translation>
     </message>
     <message>
         <source>Port/Package</source>
-        <translation>بسته</translation>
+        <translation>بسته یا سازگاره</translation>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
-        <translation>بسته سازی PBI از روی بسته FreeBSD</translation>
+        <translation>سازگاره‌ی FreeBSD به عنوان یک PBI بسته بندی شود</translation>
     </message>
     <message>
         <source>Select a different FreeBSD package</source>
@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>ScreenShots</source>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished">دسته بندی</translation>
+        <translation>رده</translation>
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
@@ -656,39 +656,39 @@
     </message>
     <message>
         <source>Some external resources could not be found, so the EasyPBI services that use these resources have been deactivated.</source>
-        <translation type="unfinished"></translation>
+        <translation>برخی از منابع بیرونی قابل یافت نبودند، بنابراین خدماتی از EasyPBI که از این منابع استفاده می‌کنند غیر فعال سازی شده اند.</translation>
     </message>
     <message>
         <source>Please open up the EasyPBI settings to correct this deficiency.</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفاً تنظیمات EasyPBI را برای درست کردن این کمبود باز کنید. </translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>با موفقیت انجام شد</translation>
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>رونوشتی از پودمان کنونی با موفقیت در پوشه‌ی پودمان بسته‌بندی شده است.</translation>
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI: خطای اجازه</translation>
     </message>
     <message>
         <source>Could not create PBI module. Please check the directory permissions and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>پودمان PBI قابل ساخت نیست. لطفاً اجازه‌های پوشه را بررسی کرده دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>Select PBI Module Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>انتخاب پیکربندی پودمان PBI</translation>
     </message>
     <message>
         <source>PBI Configuration (pbi.conf)</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی PBI(pbi.conf)</translation>
     </message>
     <message>
         <source>EasyPBI Error</source>
-        <translation type="unfinished"></translation>
+        <translation>خطای EasyPBI</translation>
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
@@ -716,236 +716,236 @@
     </message>
     <message>
         <source>Check the file permissions and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>اجازه‌های پرونده را چک کرده دوباره تلاش کنید</translation>
     </message>
     <message>
         <source>Could not save the changes to the XDG entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتوانستم تغییرات را در وارده‌ی XDG ذخیره کنم.</translation>
     </message>
     <message>
         <source>Could not create the XDG entry.</source>
-        <translation type="unfinished"></translation>
+        <translation>نتوانستم وارده‌ی XDG را ایجاد کنم.</translation>
     </message>
     <message>
         <source>Error Saving File</source>
-        <translation type="unfinished"></translation>
+        <translation>خطا در ذخیره کردن پرونده</translation>
     </message>
     <message>
         <source>Could not save the script</source>
-        <translation type="unfinished"></translation>
+        <translation>نتوانستم پردازه را ذخیره کنم.</translation>
     </message>
     <message>
         <source>Please check the file permissions and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفاً اجازه‌های پرونده را بررسی کرده دوباره تلاش کنید</translation>
     </message>
 </context>
 <context>
     <name>NewModuleDialog</name>
     <message>
         <source>Create a new Module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FreeBSD Package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select PNG Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG icon (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>EasyPBI Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Local Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>External Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation type="unfinished"></translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local directory for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Icon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default PNG icon to use for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse local system for a default PNG icon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Default Module Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Option Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number Limits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -953,85 +953,85 @@
     </message>
     <message>
         <source>Key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invisible File Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished">مجوز</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Development History</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EasyPBI version %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
-        <translation type="unfinished"></translation>
+        <source>Create PBI's quickly and easily.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check that your EasyPBI compilation was performed correctly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>pkgSelect</name>
     <message>
         <source>Select a package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -1039,27 +1039,27 @@
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Packages Available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No package found with that term</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
