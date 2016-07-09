@@ -459,13 +459,5 @@ Please configure your WPA settings before saving!</source>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Empresarial (configurada)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>WPA-Empresarial está seleccionado, pero no configurado!
-Por favor configure sus opciones de WPA antes de guardar!
-Opciones válidas de Phase2 son MD5 o MSCHAPV2 o GTC o OTP.</translation>
-    </message>
 </context>
 </TS>
