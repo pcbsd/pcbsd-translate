@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -805,7 +805,7 @@
         <translation>ابزار تغییر کاربر</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation> مسیر کامل به ابزار گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
     </message>
     <message>
@@ -897,7 +897,7 @@
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation>گزینه‌ی پیکربندی خدمت</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -937,15 +937,15 @@
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation>بیشینه درازا:</translation>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation>متن را مخفی کن (همان گذرواژه‌ها)</translation>
     </message>
     <message>
         <source>Options List</source>
-        <translation type="unfinished"></translation>
+        <translation>فهرست گزینه‌ها</translation>
     </message>
     <message>
         <source>...</source>
@@ -953,23 +953,23 @@
     </message>
     <message>
         <source>Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید:</translation>
     </message>
     <message>
         <source>Default Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>ارزش پیش‌فرض:</translation>
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation>ComboBox (فهرست گزینه‌ی از پیش تعریف شده)</translation>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation>NumberBox (اعداد صحیح)</translation>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation>TextBox (متنی که کاربر می‌دهد)</translation>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
@@ -1011,27 +1011,27 @@
         <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
-        <translation type="unfinished"></translation>
+        <source>Create PBI's quickly and easily.</source>
+        <translation>BPIها را تند و آسان بساز.</translation>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ناتوان در بازکردن پرونده‌ی منبع: %1</translation>
     </message>
     <message>
         <source>Please check that your EasyPBI compilation was performed correctly</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفاً بازبینی کنید که فرودبری EasyBPI به درستی اجام شده باشد.</translation>
     </message>
 </context>
 <context>
     <name>pkgSelect</name>
     <message>
         <source>Select a package</source>
-        <translation type="unfinished"></translation>
+        <translation>یک بسته برگزین</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>جستجو کن</translation>
     </message>
     <message>
         <source>...</source>
@@ -1039,15 +1039,15 @@
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته‌های دسترس‌پذیر</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">بپیهای</translation>
+        <translation>بپیهای</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Packages Available</source>
