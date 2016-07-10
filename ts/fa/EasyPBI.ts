@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -783,7 +783,7 @@
     </message>
     <message>
         <source>PNG icon (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>نقشک PNG(*.png)</translation>
     </message>
 </context>
 <context>
@@ -794,39 +794,39 @@
     </message>
     <message>
         <source>Local Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>مسیر‌های محلّی</translation>
     </message>
     <message>
         <source>External Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزارهای بیرونی</translation>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزار تغییر کاربر</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation type="unfinished"></translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation> مسیر کامل به ابزار گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation type="unfinished"></translation>
+        <translation>سامانه را برای اجراپذیر محلی مرور کن.</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">برگزیدن</translation>
+        <translation>برگزین</translation>
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation>با EasyPBI سامانه را برای ابزارهای دسترسی‌پذیر بازپویش کن.</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation>آشکارسازی خودکار</translation>
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation>مسیرهای پیش‌فرض برای جستجو </translation>
     </message>
     <message>
         <source>Modules</source>
@@ -866,38 +866,38 @@
     </message>
     <message>
         <source>Select Default Module Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی پیشفرض پودمان را برگزین</translation>
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی پیش‌فرض برای پیدا کردن پرونده‌های نقشک را برگزین</translation>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌ی نقشک پیش‌فرض را برگزین</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation>نگاره‌های PNG(*.png)</translation>
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>ابزار گرافیکی تغییر کاربر را برگزین</translation>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا مطمئن هستید که می‌خواهید به مسیرهای ابزاری که خودکار آشکارسازی شده‌اند برگردید؟</translation>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation>این همه تنظیمات سفارشی‌سازی شده مسیر را برای ابزارهای بیرونی پاک می‌کند.</translation>
     </message>
 </context>
 <context>
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
@@ -937,15 +937,15 @@
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -953,23 +953,23 @@
     </message>
     <message>
         <source>Key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
@@ -1011,27 +1011,27 @@
         <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
-        <translation type="unfinished"></translation>
+        <source>Create PBI's quickly and easily.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check that your EasyPBI compilation was performed correctly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>pkgSelect</name>
     <message>
         <source>Select a package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -1039,15 +1039,15 @@
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">بپیهای</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Packages Available</source>
