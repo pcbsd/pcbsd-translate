@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation>پایه FreeBSD</translation>
+        <translation>پایه‌ی FreeBSD</translation>
     </message>
     <message>
         <source>Arch:</source>
@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Back</source>
-        <translation>بازگشت</translation>
+        <translation>بازگرد</translation>
     </message>
     <message>
         <source>Desktop environments:</source>
-        <translation>محیط‌های روی‌میزی:</translation>
+        <translation>محیط‌های رومیزی:</translation>
     </message>
     <message>
         <source>(Please wait...)</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;بستن‌</translation>
+        <translation>&amp;ببند</translation>
     </message>
     <message>
         <source>(unstable)</source>

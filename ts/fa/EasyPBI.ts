@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Base Directory</source>
-        <translation>شاخه‌ی پایه</translation>
+        <translation>پوشه‌ی پایه</translation>
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation>شاخه‌ی پایه برای ساخت پودمان‌ها</translation>
+        <translation>پوشه‌ی پایه برای ساخت پودمان‌ها</translation>
     </message>
     <message>
         <source>...</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Category</source>
-        <translation>دسته بندی</translation>
+        <translation>رده</translation>
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>رده‌ی بسته (به عنوان زیرشاخه‌ی پودمان ساخته یا استفاده خواهد شد)</translation>
+        <translation>رده‌ی بسته (به عنوان زیرپوشه‌ی پودمان، ساخته و یا استفاده خواهد شد)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
@@ -45,11 +45,11 @@
     </message>
     <message>
         <source>Server Applications</source>
-        <translation>برنامه‌های کارساز</translation>
+        <translation>برنامه‌های کارسازی</translation>
     </message>
     <message>
         <source>Other (libraries, meta packages, etc)</source>
-        <translation>برنامه‌های دیگر (کتابخانه‌ها، فرابسته‌ها و غیره)</translation>
+        <translation>برنامه‌های دیگر (کتابخانه‌ها، فرابسته‌ها، و غیره)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>%v/%m</source>
-        <translation type="unfinished">%v/%m</translation>
+        <translation>%v/%m</translation>
     </message>
     <message>
         <source>Statistics</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Stop</source>
-        <translation>باز ایست</translation>
+        <translation>بایست</translation>
     </message>
     <message>
         <source>Close</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>Checking %1</source>
-        <translation>بررسی %1</translation>
+        <translation>در حال بررسی %1</translation>
     </message>
     <message>
         <source>%1: Removing old module</source>
@@ -152,11 +152,11 @@
     </message>
     <message>
         <source>Main settings for the PBI</source>
-        <translation>تنظیمات اصلی برای PBI</translation>
+        <translation>تنظیمات اصلی برای PBI مورد نظر</translation>
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation>تنظیمات کنونی را در پرونده‌ی پیکربندی PBI ذخیره کن</translation>
+        <translation>تنظیمات کنونی را در پرونده‌ی پیکربندی PBI مورد نظر ذخیره کن</translation>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
@@ -168,35 +168,35 @@
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
-        <translation>سازگاره‌ی FreeBSD به عنوان یک PBI بسته بندی شود</translation>
+        <translation>سازگاره‌ی FreeBSD برای بسته‌بندی شدن به عنوان یک PBI</translation>
     </message>
     <message>
         <source>Select a different FreeBSD package</source>
-        <translation>بسته FreeBSD دیگری انتخاب کنید</translation>
+        <translation>بسته FreeBSD دیگری را انتخاب کن</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>تغییر</translation>
+        <translation>&amp;دگرگون کردن</translation>
     </message>
     <message>
         <source>Repository Information</source>
-        <translation>اطلاعات Repository</translation>
+        <translation>ازدایش Repository</translation>
     </message>
     <message>
         <source>Search Tags</source>
-        <translation>برچسب های جستجو</translation>
+        <translation>تگهای جستجو</translation>
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation>جدا کردن تگ های جستجو با کاما برای لیست برنامه</translation>
+        <translation>فهرست جدا شده با ویرگول تگهای جستجو برای برنامه مورد نظر</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>افزونه‌ها</translation>
+        <translation>افزایه‌ها</translation>
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
-        <translation>بسته های اختیاری برای ارائه قابلیت های اضافی به این نرم افزار</translation>
+        <translation>بسته های اختیاری برای ارائه قابلیت های اضافی به این نرم‌افزار</translation>
     </message>
     <message>
         <source>...</source>
@@ -204,23 +204,23 @@
     </message>
     <message>
         <source>ScreenShots</source>
-        <translation>عكس از صفحه</translation>
+        <translation>نماگرفت</translation>
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>
-        <translation>لیست آدرس های تصاویری از این برنامه</translation>
+        <translation>فهرست نشانی‌های نماگرفتها از این برنامه</translation>
     </message>
     <message>
         <source>Similar Apps</source>
-        <translation>برنامه های مشابه</translation>
+        <translation>برنامه‌های همانند</translation>
     </message>
     <message>
         <source>Other applications that are similar to this one</source>
-        <translation>برنامه های کاربردی دیگر که شبیه به این</translation>
+        <translation>برنامه‌های کاربردی دیگر مانند این برنامه</translation>
     </message>
     <message>
         <source>Author of the main program (or FreeBSD port maintainer instead)</source>
-        <translation>نویسنده از برنامه اصلی (و یا پورت های FreeBSD نگهدارنده آن)</translation>
+        <translation>نویسنده برنامه اصلی (و یا به جای آن نگهدارنده‌ی سازگاره‌ی FreeBSD مربوط)</translation>
     </message>
     <message>
         <source>Author</source>
@@ -228,27 +228,27 @@
     </message>
     <message>
         <source>Icon that will be used for the program (PNG resources available)</source>
-        <translation>آیکون مورد استفاده برنامه (منابع PNG موجود است)</translation>
+        <translation>نقشکی که برای این برنامه استفاده خواهد شد (منابع PNG موجود هستند)</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>آیکون</translation>
+        <translation>نقشک</translation>
     </message>
     <message>
         <source>App Type</source>
-        <translation>نوع برنامه</translation>
+        <translation>گونه‌ی برنامه</translation>
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation>یک فایل را برای آیکون برنامه انتخاب کنید (برای استفاده در میانبر ضروری است)</translation>
+        <translation>پرونده‌ای را برای استفاده به عنوان نقشک برنامه سوا کن (برای میان‌برها الزامی است) </translation>
     </message>
     <message>
         <source>No Specific Icon!</source>
-        <translation>آیکون انتخاب نشده است!</translation>
+        <translation>هیچ نقشکی مشخص نشده!</translation>
     </message>
     <message>
         <source>View Package Overrides (optional)</source>
-        <translation>نمایش Override های بسته (اختیاری)</translation>
+        <translation>دیدن باز فراخوانی‌های بسته (اختیاری)</translation>
     </message>
     <message>
         <source>Official name of the target program</source>
@@ -260,27 +260,27 @@
     </message>
     <message>
         <source>URL of the main website for the target program</source>
-        <translation>نشانی وب برنامه مقصد</translation>
+        <translation>نشانی وب‌گاه اصلی برای برنامه مقصد</translation>
     </message>
     <message>
         <source>Website</source>
-        <translation>وب سایت</translation>
+        <translation>وب‌گاه</translation>
     </message>
     <message>
         <source>URL of the main application website</source>
-        <translation>آدرس سایت اصلی برنامه</translation>
+        <translation>نشانی وب‌گاه برنامه‌ اصلی</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>مجوز</translation>
+        <translation>پروانه</translation>
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation>مجوز برنامه</translation>
+        <translation>پروانه(ها)ی برنامه</translation>
     </message>
     <message>
         <source>+ Packages</source>
-        <translation>+ بسته ها</translation>
+        <translation>+ بسته‌ها</translation>
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
@@ -743,209 +743,209 @@
     <name>NewModuleDialog</name>
     <message>
         <source>Create a new Module</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پودمان جدید بساز</translation>
     </message>
     <message>
         <source>FreeBSD Package</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته‌ی FreeBSD</translation>
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation>سازگاره‌ی FreeBSD که می‌خواهید به شکل یک PBI بسازید.</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation>پیدا کن</translation>
     </message>
     <message>
         <source>Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌ی نقشک</translation>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌ی نقشک PNG برای استفاده در PBI مورد نظر (بعداً قابل تغییر است)</translation>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پرونده‌ی PNG محلی انتخاب کن (اندازه ۶۴×۶۴ پیکسل توصیه می‌شود)</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>برگزیدن</translation>
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
-        <translation type="unfinished"></translation>
+        <translation>پودمان سریع ( تولید خودکار مقادیر را قلم بگیر)</translation>
     </message>
     <message>
         <source>Select PNG Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>برگزیدن نقشک PNG</translation>
     </message>
     <message>
         <source>PNG icon (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>EasyPBI Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>ترجیحات EasyPBI</translation>
     </message>
     <message>
         <source>Local Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>External Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation type="unfinished"></translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation>پودمانها</translation>
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی پیش‌فرض برای تمام پودمانهای PBI که ساخته می‌شوند.</translation>
     </message>
     <message>
         <source>Select a local directory for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پوشه‌ی محلی را برای پودمانهای PBI انتخاب کن.</translation>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>منابع</translation>
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه‌ی پیشفرض برای اضافه کردن نقشکها یا پرونده‌ها به یک پودمان.</translation>
     </message>
     <message>
         <source>Select a local directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پوشه‌ی محلی انتخاب کن.</translation>
     </message>
     <message>
         <source>Default Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>نقشک پیش‌فرض</translation>
     </message>
     <message>
         <source>Default PNG icon to use for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>نقشک PNG پیش‌فرض برای استفاده در پودمانهای PBI.</translation>
     </message>
     <message>
         <source>Browse local system for a default PNG icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>سامانه‌ی محلی را برای یک نقشک پیش‌فرض مرور کن.</translation>
     </message>
     <message>
         <source>Select Default Module Directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>بپیهای</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>به کار ببر</translation>
     </message>
     <message>
         <source>Option Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>سنخ گزینه</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation>شرح:</translation>
     </message>
     <message>
         <source>Number Limits</source>
-        <translation type="unfinished"></translation>
+        <translation>حدود عددی</translation>
     </message>
     <message>
         <source>Maximum:</source>
-        <translation type="unfinished"></translation>
+        <translation>بیشینه:</translation>
     </message>
     <message>
         <source>Minimum:</source>
-        <translation type="unfinished"></translation>
+        <translation>کمینه:</translation>
     </message>
     <message>
         <source>Text Options</source>
-        <translation type="unfinished"></translation>
+        <translation>گزینه‌های متن</translation>
     </message>
     <message>
         <source>Max Length:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options List</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -953,85 +953,85 @@
     </message>
     <message>
         <source>Key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (ذخیره شده به عنوان: %2)</translation>
     </message>
     <message>
         <source>New Value</source>
-        <translation type="unfinished"></translation>
+        <translation>ارزش جدید</translation>
     </message>
     <message>
         <source>Invisible File Value:</source>
-        <translation type="unfinished"></translation>
+        <translation>ارزش نامرئی پرونده:</translation>
     </message>
     <message>
         <source>New Text</source>
-        <translation type="unfinished"></translation>
+        <translation>متن جدید</translation>
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام آشکار گزینه:</translation>
     </message>
 </context>
 <context>
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation>درباره‌ی EasyPBI</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished">مجوز</translation>
+        <translation>پروانه</translation>
     </message>
     <message>
         <source>Development History</source>
-        <translation type="unfinished"></translation>
+        <translation>پیشینه‌ی توسعه</translation>
     </message>
     <message>
         <source>EasyPBI version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
-        <translation type="unfinished"></translation>
+        <source>Create PBI's quickly and easily.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please check that your EasyPBI compilation was performed correctly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>pkgSelect</name>
     <message>
         <source>Select a package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -1039,27 +1039,27 @@
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Packages Available</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ بسته‌ای دسترسی‌پذیر نیست</translation>
     </message>
     <message>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>جستجو پایان پذیرفت</translation>
     </message>
     <message>
         <source>No package found with that term</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ بسته‌ای با آن اصطلاح یافت نشد</translation>
     </message>
 </context>
 </TS>
