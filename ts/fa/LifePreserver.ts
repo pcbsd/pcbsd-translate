@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>بپیهای</translation>
     </message>
     <message>
         <source>Start</source>
@@ -81,38 +81,38 @@
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته‌بندی کردن پوشهٔ خانه...</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشهایی را کنار بگذار</translation>
     </message>
 </context>
 <context>
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>دسته‌داده پیکربندی کن</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished"></translation>
+        <translation>دسته‌داده:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>نگاره‌های آنی محلی</translation>
     </message>
     <message>
         <source>Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>خودکار</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>روزانه</translation>
     </message>
     <message>
         <source>Hourly</source>
@@ -152,45 +152,43 @@
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished">
-نام کاربر</translation>
+        <translation>نام کاربری</translation>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished">
-پورت SSH</translation>
+        <translation>درگاهی SSH</translation>
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>دسته‌دادهٔ دوردست</translation>
     </message>
     <message>
         <source>Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>بسامد</translation>
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>با نگاره‌های آنی هماهنگ کن</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>۳۰ دقیقه</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>۱۰ دقیقه</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>دستی</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بکار ببر</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ببند</translation>
     </message>
     <message>
         <source>Scrub</source>
@@ -230,39 +228,39 @@
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>چهارشنبه‌ها</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation>پنجشنبه‌ها</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation>آدینه‌ها</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>شنبه‌ها</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>یکشنبه‌ها</translation>
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظیمات رونویسی</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانهٔ رونویسی را شناسایی کن</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام میزبانی یا IP سفارشی آشکارسازی شده:</translation>
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>اس‌اس‌اچ</translation>
     </message>
     <message>
         <source>ISCSI</source>
@@ -284,124 +282,128 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
     <message>
         <source>ISCSI Setup Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>دستیار گمارش ISCSI</translation>
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>این ابزار شما را با گامهای لازم برای گماردن پشتیبانهای دوردستِ تمام رمزگذاری شده راهنمایی می‌کند.</translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی کارساز پشتیبان‌گیر</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>برگزین</translation>
     </message>
     <message>
         <source>Detected Settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>تنظیمات نمایان‌سازی شده:</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانه:</translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>کابر:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>میزبان:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه:</translation>
     </message>
     <message>
         <source>Local Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی محلی</translation>
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی پشتیبان‌گیری:</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>دسته‌دادهٔ پشتیبان‌گیری:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید پشتیبان را نگه‌دار</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید را رمزگذاری کن</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را تکرار کنید:</translation>
     </message>
     <message>
         <source>Create Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید بساز</translation>
     </message>
     <message>
         <source>On New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>در نگارهٔ آنی تازه</translation>
     </message>
     <message>
         <source>Manually Started</source>
-        <translation type="unfinished"></translation>
+        <translation>دستی آغاز شده</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation>روزانه</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">هر ساعت</translation>
+        <translation>هر ساعت</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>هر ۳۰ دقیقه</translation>
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>هر ۱۰ دقیقه</translation>
     </message>
     <message>
         <source>Ready to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>آماده‌ به کار</translation>
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا آماده هستید که انبارش برون‌محوطه‌ای داده را به کار بیاندازید؟</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished"></translation>
+        <translation>این شاید چند دم زمان ببرد...</translation>
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی در تنظیمات</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژهٔ ناروا</translation>
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌های فهرست شده یا برابر نیستند یا تهی هستند</translation>
     </message>
     <message>
         <source>Select LPS file</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ LPS را برگزین</translation>
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
@@ -476,7 +478,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -963,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1143,7 +1013,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">خودکار</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
@@ -1163,7 +1033,7 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">روزانه</translation>
     </message>
     <message>
         <source>@ h AP</source>
@@ -1207,23 +1077,23 @@
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">چهارشنبه‌ها</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">پنجشنبه‌ها</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">آدینه‌ها</translation>
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">شنبه‌ها</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">یکشنبه‌ها</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
@@ -1244,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>
