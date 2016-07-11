@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -805,7 +805,7 @@
         <translation>ابزار تغییر کاربر</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation> مسیر کامل به ابزار گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
     </message>
     <message>
@@ -949,7 +949,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Key:</source>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>BPIها را تند و آسان بساز.</translation>
     </message>
     <message>
@@ -1035,7 +1035,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Available Packages</source>
@@ -1047,7 +1047,7 @@
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>بپذیر</translation>
     </message>
     <message>
         <source>No Packages Available</source>

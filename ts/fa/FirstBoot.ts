@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -44,7 +44,7 @@
         <translation>گذرواژه (تکرار)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
         <translation>گذرواژه كاربر root یا سیستم به شما اجازه تغيير در سيستم عامل را مي دهد، از دسترس قرار دادن آن به کاربران غیرقابل اعتماد خودداری کنید. </translation>
     </message>
     <message>
@@ -68,7 +68,7 @@
         <translation>جستجوي مجدد</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
         <translation>شبكه هاي بي سيم زير پيدا شدند. برای اتصال به شبكه مورد نظر خود برروی آن كليک كنيد و اگر قصد انصراف دارید برروي دکمه بعدی كليک كنيد.</translation>
     </message>
     <message>
@@ -133,35 +133,35 @@
     </message>
     <message>
         <source>Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژهٔ دستگاه</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاهی یافت نشد</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفاً یک دستگاه جداشدنی را متصل کرده و دوباره تلاش کنید</translation>
     </message>
     <message>
         <source>Select Removable Device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه جداشدنی را برگزین</translation>
     </message>
     <message>
         <source>Warning: Any existing data on the selected device will be deleted during the user creation process.</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار: همهٔ داده‌های موجود در دستگاه گزیده شده در فرایند آفریدن کاربر پاک خواهد شد.</translation>
     </message>
     <message>
         <source>User Details</source>
-        <translation type="unfinished"></translation>
+        <translation>جزئیات کاربر</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>پرسوناکریپت</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>آزمایش</translation>
     </message>
     <message>
         <source>Output Device:</source>
@@ -177,23 +177,23 @@
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>آگاهی: تنظیمات شنیداری می‌توانند پس از این هم با آمیزندهٔ شنیداری PC-BSD تنظیم شوند.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام دامنه</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -224,19 +224,19 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -291,11 +291,11 @@
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
