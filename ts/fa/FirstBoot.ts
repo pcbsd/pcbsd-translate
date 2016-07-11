@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -44,7 +44,7 @@
         <translation>گذرواژه (تکرار)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
         <translation>گذرواژه كاربر root یا سیستم به شما اجازه تغيير در سيستم عامل را مي دهد، از دسترس قرار دادن آن به کاربران غیرقابل اعتماد خودداری کنید. </translation>
     </message>
     <message>
@@ -68,7 +68,7 @@
         <translation>جستجوي مجدد</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
         <translation>شبكه هاي بي سيم زير پيدا شدند. برای اتصال به شبكه مورد نظر خود برروی آن كليک كنيد و اگر قصد انصراف دارید برروي دکمه بعدی كليک كنيد.</translation>
     </message>
     <message>
@@ -185,15 +185,15 @@
     </message>
     <message>
         <source>Please enter a domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>لطفاً یک نام دامنه وارد کنید</translation>
     </message>
     <message>
         <source>Domain name may only contain letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>نام دامنه تنها می‌تواند حرف و شماره داشته باشد</translation>
     </message>
     <message>
         <source>Optional Services</source>
-        <translation type="unfinished"></translation>
+        <translation>خدمات اختیاری</translation>
     </message>
 </context>
 <context>
@@ -224,19 +224,19 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>به SSH اجازهٔ دسترسی به این سامانه از سامانه‌های دوردست را می‌دهد.</translation>
     </message>
     <message>
         <source>Enable SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH را به کار بیانداز</translation>
     </message>
     <message>
         <source>Disable IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 را از کار بیانداز</translation>
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation>به کار گیری اتصالات IPv6 را از کار بیانداز</translation>
     </message>
 </context>
 <context>
@@ -291,11 +291,11 @@
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>شیوهٔ امنیتی:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>برچسب متن</translation>
     </message>
 </context>
 <context>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>LPClassic</name>
     <message>
@@ -45,39 +45,39 @@
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>آغاز کن</translation>
     </message>
     <message>
         <source>Home Directory Being Archived....</source>
-        <translation type="unfinished"></translation>
+        <translation>بایگانی شدن پوشهٔ خانه...</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازه:</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بایست</translation>
     </message>
     <message>
         <source>&amp;Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پایان یافت</translation>
     </message>
     <message>
         <source>Cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>پیهوده شد</translation>
     </message>
     <message>
         <source>FINISHED</source>
-        <translation type="unfinished"></translation>
+        <translation>پایان یافت</translation>
     </message>
     <message>
         <source>Exclude Files</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌ها کنار بگذار</translation>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ پرونده‌ها (*)</translation>
     </message>
     <message>
         <source>Packaging Home Directory...</source>
@@ -116,39 +116,39 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation>هر ساعت</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>۳۰ دقیقه</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>۱۰ دقیقه</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>۵ دقیقه</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished"></translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Days</source>
-        <translation type="unfinished"></translation>
+        <translation>روز</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation>همگی</translation>
     </message>
     <message>
         <source>Keep:</source>
-        <translation type="unfinished"></translation>
+        <translation>نگه بدار:</translation>
     </message>
     <message>
         <source>Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>رونوشت</translation>
     </message>
     <message>
         <source>User Name</source>
@@ -194,39 +194,39 @@
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>بکش</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>کشیدن زمان‌بندی شده را به کار انداز</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>هفتگی</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation>ماهانه</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation>روزِ ماه</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>روزِ هفته</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>ساعت</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation>دوشنبه‌ها</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation>سه‌شنبه‌ها</translation>
     </message>
     <message>
         <source>Wednesdays</source>
@@ -266,23 +266,27 @@
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
-        <translation type="unfinished"></translation>
+        <translation>کنار گذاشته شده:</translation>
     </message>
     <message>
         <source>Remote Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>کارسازهای دوردست</translation>
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>دادهٔ کنار گذاشته شده</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;IP سفارشی سازی شده&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
     </message>
 </context>
 <context>
@@ -365,7 +369,7 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هر ساعت</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
@@ -476,7 +480,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -963,139 +967,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1119,7 +991,7 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هر ساعت</translation>
     </message>
     <message>
         <source>Daily @</source>
@@ -1131,15 +1003,15 @@
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">۳۰ دقیقه</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">۱۰ دقیقه</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">۵ دقیقه</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -1167,7 +1039,7 @@
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">@ h AP</translation>
     </message>
     <message>
         <source>Scrub schedule</source>
@@ -1175,35 +1047,35 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">کشیدن زمان‌بندی شده را به کار انداز</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">هفتگی</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ماهانه</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">روزِ ماه</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">روزِ هفته</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ساعت</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دوشنبه‌ها</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">سه‌شنبه‌ها</translation>
     </message>
     <message>
         <source>Wednesdays</source>
@@ -1244,6 +1116,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>

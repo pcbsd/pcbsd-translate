@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -116,96 +116,96 @@
     <name>KbLayoutSelectDialog</name>
     <message>
         <source>Select keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>جانمایی صفحه‌کلید را برگزین</translation>
     </message>
     <message>
         <source>Keyboard layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>چیدمان صفحه‌کلید:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>جستجو...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">11n {1?}</translation>
+        <translation>۱</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>ستون تازه</translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation>شیوهٔ چیدمان:</translation>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation>معمولی</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>از</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>شناسه</translation>
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation>زبان ورودی</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>گونه</translation>
     </message>
 </context>
 <context>
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt + Space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -309,6 +309,42 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>ام‌دی۵</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>اصالت‌سنجی گام ۲:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>کیستیِ ناشناس:</translation>
     </message>
 </context>
 <context>
