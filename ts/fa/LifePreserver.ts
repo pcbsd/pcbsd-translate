@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -427,194 +431,194 @@
     </message>
     <message>
         <source>The Life Preserver experienced an error when trying to create your key file. Please verify that your settings are accurate and try again.</source>
-        <translation>زنده‌نگهدارنده هنگام تلاش برای ساخت پروندهٔ کلید با یک نادرستی روبرو شد. خواهشمند است </translation>
+        <translation>زنده‌نگهدارنده هنگام تلاش برای ساخت پروندهٔ کلید با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی شما درست است سپس دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>Error Creating Key</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی در ساختن کلید</translation>
     </message>
     <message>
         <source>Key Created</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید ساخته شد</translation>
     </message>
     <message>
         <source>Your key file has been successfully created and is located in /usr/home</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید شما با پیروزی ساخته و در usr/home/ نهاده شده است</translation>
     </message>
     <message>
         <source>A Life Preserver configuration file for the remote system is required. (*.lps)</source>
-        <translation type="unfinished"></translation>
+        <translation>به یک پروندهٔ پیکربندی زنده‌نگه‌دارنده برای سامانهٔ راه‌دور نیاز است. (lps.*)</translation>
     </message>
     <message>
         <source>If you do not have this file available, please contact the administrator(s) of the backup server and request one.</source>
-        <translation type="unfinished"></translation>
+        <translation>اگر این پرونده برای شما دسترسی‌پذیر نیست خواهشمند است از سرپرست(ها)ی کارساز پشتیبان‌گیر، یکی بخواهید.</translation>
     </message>
     <message>
         <source>If these settings don&apos;t look right, please contact the administrator of the backup server.</source>
-        <translation type="unfinished"></translation>
+        <translation>اگر این سامانه‌بندی‌ها درست به نگر نمی‌آیند، خواهشمند است به سرپرست کارساز پشتیبان‌گیر بگویید.</translation>
     </message>
     <message>
         <source>Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>خواهشمند است بردباری کنید.</translation>
     </message>
     <message>
         <source>Enabling off-site backup....</source>
-        <translation type="unfinished"></translation>
+        <translation>به کار انداختن پشتیبان‌گیری برون‌پیرامونی...</translation>
     </message>
     <message>
         <source>This key file is required to access/decrypt your saved data</source>
-        <translation type="unfinished"></translation>
+        <translation>به این پروندهٔ کلید برای دسترسی/رمزگشایی داده‌های نگه‌داری‌شدهٔ شما نیاز است.</translation>
     </message>
     <message>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار</translation>
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
-        <translation type="unfinished"></translation>
+        <translation>بی‌گمان شوید که‌این پروندهٔ کلید را در جایی امن بیرون از دیسک نگه‌داری کنید ( مانند یک یو‌اس‌بی‌فلش‌درایو که درجایی قفل شده نگه می‌دارید). سرپرست‌(های) کارساز پشتیبان‌گیر برای گم شدن کلید پاسخگو نیستند.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>زنده‌نگه‌دارنده در هنگام در هنگام تلاش برای برپا کردن این پشتیبان راه دور با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی‌های شما درست باشند و دوباره تلاش کنید.</translation>
     </message>
 </context>
 <context>
     <name>LPMain</name>
     <message>
         <source>Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>زنده‌نگه‌دارنده</translation>
     </message>
     <message>
         <source>Refresh the UI</source>
-        <translation type="unfinished"></translation>
+        <translation>میانجی کاربر را تازه کن</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Configure snapshot and replication schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی نگارهٔ آنی گیری و رونویسی را پیکربندی کن</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پیکربندی کن</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>چگونگی</translation>
     </message>
     <message>
         <source>System State:</source>
-        <translation type="unfinished"></translation>
+        <translation>چند و چونی سامانه:</translation>
     </message>
     <message>
         <source>Number of Disks:</source>
-        <translation type="unfinished"></translation>
+        <translation>شمار گردک‌ها:</translation>
     </message>
     <message>
         <source>Latest Snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>واپسین نگاره‌های آنی:</translation>
     </message>
     <message>
         <source>Restore Data</source>
-        <translation type="unfinished"></translation>
+        <translation>داده بازگردان</translation>
     </message>
     <message>
         <source>Select the previous (older) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی پیشین (دیرینتر) را برگزین</translation>
     </message>
     <message>
         <source>Select the next (more recent) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی پسین (تازه‌تر) را برگزین</translation>
     </message>
     <message>
         <source>Display any hidden files/folders</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ پرونده‌ها/پوشه‌های پنهان را به نمایش بگذار</translation>
     </message>
     <message>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌های پنهان را نشان بده</translation>
     </message>
     <message>
         <source>Restore the selected file/folder to the live system.</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده/پوشهٔ گزیده شده را به سامانهٔ زنده بازگردان.</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بازگردان</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پرونده</translation>
     </message>
     <message>
         <source>&amp;Manage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;استخر را بگردان</translation>
     </message>
     <message>
         <source>&amp;Unmanage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation>استخ&amp;ر را نگردان</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نشان بده</translation>
     </message>
     <message>
         <source>&amp;Disks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;گردک‌ها</translation>
     </message>
     <message>
         <source>&amp;Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>نگا&amp;ره‌های آنی</translation>
     </message>
     <message>
         <source>Delete Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی را پاک‌کن</translation>
     </message>
     <message>
         <source>&amp;Classic Backups</source>
-        <translation type="unfinished"></translation>
+        <translation>پ&amp;شتیبان‌های دیرینه</translation>
     </message>
     <message>
         <source>Com&amp;press Home Dir</source>
-        <translation type="unfinished"></translation>
+        <translation>پ&amp;وشهٔ خانه را فشرده کن</translation>
     </message>
     <message>
         <source>&amp;Close Window</source>
-        <translation type="unfinished"></translation>
+        <translation>پن&amp;جره را ببند</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>پیشرفته</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>ساده</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده را بازیابی کن</translation>
     </message>
     <message>
         <source>Restore Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>دسته‌داده را بازگردانی کن</translation>
     </message>
     <message>
         <source>Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید را در USB نگهداری کن</translation>
     </message>
     <message>
         <source>Attach Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>گردک را پیوند بده</translation>
     </message>
     <message>
         <source>New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی تازه</translation>
     </message>
     <message>
         <source>&amp;Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;کلید را در USB نگه دار</translation>
     </message>
     <message>
         <source>Start Scrub</source>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>
