@@ -86,6 +86,14 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Usa un directori d&apos;inici temporal que se suprimirà en sortir</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Refresca</translation>
+    </message>
+    <message>
+        <source>Refresh available users</source>
+        <translation>Refresca els usuaris disponibles</translation>
+    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -160,6 +168,10 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Canvi de llengua (%1)</translation>
+    </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation>Refresca el PCDM</translation>
     </message>
 </context>
 <context>
