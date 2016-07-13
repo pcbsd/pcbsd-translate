@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -474,8 +478,8 @@
         <translation>بی‌گمان شوید که‌این پروندهٔ کلید را در جایی امن بیرون از دیسک نگه‌داری کنید ( مانند یک یو‌اس‌بی‌فلش‌درایو که درجایی قفل شده نگه می‌دارید). سرپرست‌(های) کارساز پشتیبان‌گیر برای گم شدن کلید پاسخگو نیستند.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>زنده‌نگه‌دارنده در هنگام در هنگام تلاش برای برپا کردن این پشتیبان راه دور با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی‌های شما درست باشند و دوباره تلاش کنید.</translation>
     </message>
 </context>
 <context>
@@ -746,99 +750,99 @@
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید همگانی SSH با پیروزی بر روی دستگاه USB رونویسی شد.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>ناکامی</translation>
     </message>
     <message>
         <source>The public SSH key file could not be copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید همگانی SSH نتوانست بر روی دستگاه USB رونویسی شود.</translation>
     </message>
     <message>
         <source>Find Home Dir Package</source>
-        <translation type="unfinished"></translation>
+        <translation>بستهٔ پوشهٔ خانه را پیدا کن</translation>
     </message>
     <message>
         <source>Home Dir Package (*.home.tar.gz)</source>
-        <translation type="unfinished"></translation>
+        <translation>بستهٔ پوشهٔ خانه (home.tar.gz.*)</translation>
     </message>
     <message>
         <source>User Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربر یافت نشد</translation>
     </message>
     <message>
         <source>The user (%1) does not exist on this system. Please create this user first and then try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربر (%1) بر روی سامانه نیست. خواهشمند است نخست این کاربر را ساخته و سپس دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>Extracting Home Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشهٔ خانه بیرون کشیده می‌شود</translation>
     </message>
     <message>
         <source>Package Extracted</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته بیرون کشیده شد</translation>
     </message>
     <message>
         <source>The package was successfully extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته با کامیابی در %1 بیرون کشیده شد</translation>
     </message>
     <message>
         <source>Package Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>ناکامی بسته</translation>
     </message>
     <message>
         <source>The package could not be extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>بسته نتوانست در %1 بیرون کشیده شود.</translation>
     </message>
     <message>
         <source>Verify Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>درستی‌سنجیِ Scrub</translation>
     </message>
     <message>
         <source>Are you sure you want to start a scrub on %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان هستید که می‌خواهید scrub را روی %1 آغاز کنید؟</translation>
     </message>
     <message>
         <source>NOTE: This may take quite a while to complete</source>
-        <translation type="unfinished"></translation>
+        <translation>آگاهی: این شاید زمانی طول بکشد تا به انجام برسد</translation>
     </message>
     <message>
         <source>Trying to start a scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>برای آغاز یک scrub تلاش می‌شود</translation>
     </message>
     <message>
         <source>Scrub Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub آغاز شد</translation>
     </message>
     <message>
         <source>A scrub has just been started on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>یک scrub تازه در %1 آغاز شده است</translation>
     </message>
     <message>
         <source>Scrub Not Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub آغاز نشده است</translation>
     </message>
     <message>
         <source>A scrub on %1 could not be started at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>یک scrub در %1 نتوانست در این زمان آغاز شود.</translation>
     </message>
     <message>
         <source>Please wait until any current resilvering or scrubs are finished before trying again.</source>
-        <translation type="unfinished"></translation>
+        <translation>خواهشمند است پیش از آنکه دوباره تلاش کنید بردباری کنید تا بازسازی یا scrubهای کنونی پایان پذیرند.</translation>
     </message>
     <message>
         <source>Are you sure you want to stop the scrub on %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان هستید که می‌خواهید scrub در %1 را بازایستانید.</translation>
     </message>
     <message>
         <source>Trying to stop scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>برای بازایستاندن scrub تلاش می‌شود</translation>
     </message>
     <message>
         <source>Scrub Stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub بازایستاد</translation>
     </message>
     <message>
         <source>The scrub on %1 has been stopped.</source>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>
