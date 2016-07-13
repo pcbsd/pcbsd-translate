@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -309,6 +309,42 @@ If you cancel now the packages may be corrupted. Cancel anyway?</source>
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>ام‌دی۵</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>اصالت‌سنجی گام ۲:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>کیستیِ ناشناس:</translation>
     </message>
 </context>
 <context>

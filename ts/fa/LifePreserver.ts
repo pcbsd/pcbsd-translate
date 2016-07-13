@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -474,8 +478,8 @@
         <translation>بی‌گمان شوید که‌این پروندهٔ کلید را در جایی امن بیرون از دیسک نگه‌داری کنید ( مانند یک یو‌اس‌بی‌فلش‌درایو که درجایی قفل شده نگه می‌دارید). سرپرست‌(های) کارساز پشتیبان‌گیر برای گم شدن کلید پاسخگو نیستند.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>زنده‌نگه‌دارنده در هنگام در هنگام تلاش برای برپا کردن این پشتیبان راه دور با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی‌های شما درست باشند و دوباره تلاش کنید.</translation>
     </message>
 </context>
 <context>
@@ -650,99 +654,99 @@
     </message>
     <message>
         <source>Restoring Directory: %1</source>
-        <translation>پوشهٔ بازگردانی شونده: %1</translation>
+        <translation>بازگردانی پوشه: %1</translation>
     </message>
     <message>
         <source>Reversion Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی در برگرداندن</translation>
     </message>
     <message>
         <source>Restore Successful</source>
-        <translation type="unfinished"></translation>
+        <translation>بازگردانی پیروزمندانه انجام شد</translation>
     </message>
     <message>
         <source>Restoring file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>بازگردانی پرونده: %1</translation>
     </message>
     <message>
         <source>Configuring dataset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی دسته‌داده: %1</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>یادآوری</translation>
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
-        <translation type="unfinished"></translation>
+        <translation>فراموش نکنید که کلید SSH را در یک یو‌اس‌بی‌فلش‌درایو نگه‌دارید تا بتوانید پس از این سامانهٔ خود را از میزبان راه دور بازگردانی کنید!!</translation>
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>به کار اندازی گردانش دسته‌داده: %1</translation>
     </message>
     <message>
         <source>Verify Dataset Backup Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>برداشتن پشتیبان دسته‌داده را درستی‌سنجی کن</translation>
     </message>
     <message>
         <source>Are you sure that you wish to cancel automated snapshots and/or replication of the following dataset?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان هستید که می‌خواهید نگاره‌های آنی و یا رونویسی دسته‌دادهٔ زیر را بهم بزنید؟</translation>
     </message>
     <message>
         <source>Verify Snapshot Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>زدودن نگارهٔ آنی را درستی‌سنجی کن</translation>
     </message>
     <message>
         <source>Do you wish to remove the local snapshots for this dataset?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا می‌خواهید نگاره‌های آنی بومی را برای این دسته‌داده بردارید؟</translation>
     </message>
     <message>
         <source>WARNING: This is a permanant change that cannot be reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار: این یک دگرگونی همیشگیِ برگشت‌ناپذیر است.</translation>
     </message>
     <message>
         <source>%1: Removing snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: برداشتن نگاره‌های آنی</translation>
     </message>
     <message>
         <source>Removing snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>برداشتن نگاره‌های آنی</translation>
     </message>
     <message>
         <source>%1: Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: از کار اندازی رونویسی</translation>
     </message>
     <message>
         <source>Disabling Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>از کار اندازی رونویسی</translation>
     </message>
     <message>
         <source>%1: Disabling Life-Preserver Management</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: از کار اندازی گردانش زنده‌نگه‌دارنده</translation>
     </message>
     <message>
         <source>Removing Life Preserver Schedules</source>
-        <translation type="unfinished"></translation>
+        <translation>از میان برداشتن زمانبندی‌های زنده‌نگه‌دارنده</translation>
     </message>
     <message>
         <source>No Valid USB Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ دستگاه یو‌اس‌بی رَوایی یافت نشد.</translation>
     </message>
     <message>
         <source>No valid USB devices could be found. Please mount a FAT32 formatted USB stick and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ دستگاه یو‌اس‌بیِ درستی یافت نشد. خواهشمند است یک یو‌اس‌بی‌فلش‌درایو با چهارچوب‌بندی FAT32 کارگذاری کنید. </translation>
     </message>
     <message>
         <source>Select USB Device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه یو‌اس‌بی را برگزین</translation>
     </message>
     <message>
         <source>Available USB Devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه‌های یو‌اس‌بی دسترس‌پذیر:</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>کامیابی</translation>
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>
