@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -474,8 +478,8 @@
         <translation>بی‌گمان شوید که‌این پروندهٔ کلید را در جایی امن بیرون از دیسک نگه‌داری کنید ( مانند یک یو‌اس‌بی‌فلش‌درایو که درجایی قفل شده نگه می‌دارید). سرپرست‌(های) کارساز پشتیبان‌گیر برای گم شدن کلید پاسخگو نیستند.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>زنده‌نگه‌دارنده در هنگام در هنگام تلاش برای برپا کردن این پشتیبان راه دور با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی‌های شما درست باشند و دوباره تلاش کنید.</translation>
     </message>
 </context>
 <context>
@@ -842,378 +846,246 @@
     </message>
     <message>
         <source>The scrub on %1 has been stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub در %1 بازایستانده شده است.</translation>
     </message>
     <message>
         <source>Scrub Not Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub اکنون انجام نمی‌شود.</translation>
     </message>
     <message>
         <source>There was no scrub running on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ scrubای در %1 انجام نمی‌شد.</translation>
     </message>
     <message>
         <source>New Snapshot Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام نگارهٔ آنیِ تازه</translation>
     </message>
     <message>
         <source>Snapshot Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام نگارهٔ آنی:</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام</translation>
     </message>
     <message>
         <source>GUI Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی میانجی کاربری گرافیکی</translation>
     </message>
     <message>
         <source>Snapshot Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی دارد گرفته می‌شود</translation>
     </message>
     <message>
         <source>The new snapshot creation has been added to the queue</source>
-        <translation type="unfinished"></translation>
+        <translation>ساخت نگارهٔ آنی جدید به ردیف افزوده شده است</translation>
     </message>
     <message>
         <source>Do you wish to delete this snapshot? %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا می‌خواهید این نگارهٔ آنی را از میان ببرید؟ %1 (%2)</translation>
     </message>
     <message>
         <source>Snapshot Removed</source>
-        <translation type="unfinished"></translation>
+        <translation>نگاره آنی از میان برداشته شد</translation>
     </message>
     <message>
         <source>The snapshot was successfully deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>نگارهٔ آنی با پیروزی از میان برداشته شد</translation>
     </message>
     <message>
         <source>Snapshot Removal Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>ناکامی در از میان برداشتن نگارهٔ آنی</translation>
     </message>
     <message>
         <source>The snapshot removal experienced an error and it not be completed at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>از میان‌ برداشتن نگارهٔ آنی با یک نادرستی روبرو شد و این بار پایان نخواهد یافت.</translation>
     </message>
     <message>
         <source>Replication Triggered</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی آغازیده شد</translation>
     </message>
     <message>
         <source>A replication has been queued up for this dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>یک‌ رونویسی برای این دسته‌داده در ردیف نهاده شده است.</translation>
     </message>
     <message>
         <source>Configuring scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub دارد پیکربندی می‌شود: %1</translation>
     </message>
     <message>
         <source>Removing scrub: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub دارد از میان برداشته می‌شود: %1</translation>
     </message>
     <message>
         <source>%1: Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>scrubها دارند از کار انداخته می‌شوند: %1</translation>
     </message>
     <message>
         <source>Disabling Scrubs</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrubها دارند از کار انداخته می‌شوند</translation>
     </message>
     <message>
         <source>pools</source>
-        <translation type="unfinished"></translation>
+        <translation>استخرها</translation>
     </message>
     <message>
         <source>Re-Initialize Replications</source>
-        <translation type="unfinished"></translation>
+        <translation>رونوشت‌ها را دوباره آماده‌سازیِ نخستین کن.</translation>
     </message>
     <message>
         <source>junk</source>
-        <translation type="unfinished"></translation>
+        <translation>ناکارآمد</translation>
     </message>
     <message>
         <source>Configuring replication settings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ساماندهی رونویسی دارد پیکربندی می‌شود: %1</translation>
     </message>
     <message>
         <source>Removing replication: %1, Host: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>رونوشت دارد از میان برداشته می‌شود: %1، میزبان: %2</translation>
     </message>
     <message>
         <source>Reset Replication Password</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژهٔ رونوشت را بازنشانی کن</translation>
     </message>
     <message>
         <source>Invalid Target</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانهٔ ناروا</translation>
     </message>
     <message>
         <source>This is an ISCSI replication target and does not use an SSH password.</source>
-        <translation type="unfinished"></translation>
+        <translation>این یک نشانهٔ رونویسی ISCSI است و گذرواژهٔ  SSHای را بکار نمی‌گیرد.</translation>
     </message>
     <message>
         <source>Some file(s) could not be restored from the snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده(ها)ای نتوانست(ند) از نگارهٔ آنی بازیابی شو(ن)د.</translation>
     </message>
     <message>
         <source>The file(s) were succesfully restored</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده(ها) با پیروزی بازیابی شد(ند)</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>داده‌ها دارند بارگیری می‌شوند</translation>
     </message>
 </context>
 <context>
     <name>LPWizard</name>
     <message>
         <source>New Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>زنده نگهدارندهٔ تازه</translation>
     </message>
     <message>
         <source>This wizard will walk you through the process of setting up a new snapshot schedule for the following ZFS dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>این دستیار شما را در فرایند برپا کردن یک زمان‌بندی تازهٔ نگارهٔ آنی برای دسته‌دادهٔ ZFS زیر همراهی می‌کند:</translation>
     </message>
     <message>
         <source>Snapshot schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی نگارهٔ آنی</translation>
     </message>
     <message>
         <source>Snapshots can be scheduled anywhere from daily, down to every 5 minutes. Snapshots consume very little disk space, and will only grow as the current data on disk changes.  </source>
-        <translation type="unfinished"></translation>
+        <translation>نگاره‌های آنی می‌توانند در هر گونه بازهٔ زمانی از هر روز گرفته تا هر ۵ دقیقه زمان‌بندی شوند. نگاره‌های آنی جای خیلی کمی را بر روی گردک می‌گیرند و تنها با دگرگونی داده بر روی گردک بزرگ می‌شوند.</translation>
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">هر ساعت</translation>
+        <translation>هر ساعت</translation>
     </message>
     <message>
         <source>Daily @</source>
-        <translation type="unfinished"></translation>
+        <translation>روزانه @</translation>
     </message>
     <message>
         <source>h AP</source>
-        <translation type="unfinished"></translation>
+        <translation>h AP</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished">۳۰ دقیقه</translation>
+        <translation>۳۰ دقیقه</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished">۱۰ دقیقه</translation>
+        <translation>۱۰ دقیقه</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished">۵ دقیقه</translation>
+        <translation>۵ دقیقه</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">خودکار</translation>
+        <translation>خودکار</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
-        <translation type="unfinished"></translation>
+        <translation>هَرَس نگارهٔ آنی</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>نگه دار</translation>
     </message>
     <message>
         <source>days worth of snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>شمار روزهای نگارهٔ آنی گرفته شده</translation>
     </message>
     <message>
         <source>total snapshots </source>
-        <translation type="unfinished"></translation>
+        <translation>شمار همهٔ نگاره‌های آنی</translation>
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished">روزانه</translation>
+        <translation>روزانه</translation>
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished">@ h AP</translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Scrub schedule</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی scrub</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished">کشیدن زمان‌بندی شده را به کار انداز</translation>
+        <translation>scrub زمان‌بندی شده را بکار انداز</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished">هفتگی</translation>
+        <translation>هفتگی</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">ماهانه</translation>
+        <translation>ماهانه</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished">روزِ ماه</translation>
+        <translation>روزِ ماه</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished">روزِ هفته</translation>
+        <translation>روزِ هفته</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished">ساعت</translation>
+        <translation>ساعت</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished">دوشنبه‌ها</translation>
+        <translation>دوشنبه‌ها</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished">سه‌شنبه‌ها</translation>
+        <translation>سه‌شنبه‌ها</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished">چهارشنبه‌ها</translation>
+        <translation>چهارشنبه‌ها</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished">پنجشنبه‌ها</translation>
+        <translation>پنجشنبه‌ها</translation>
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished">آدینه‌ها</translation>
+        <translation>آدینه‌ها</translation>
     </message>
     <message>
         <source>Saturdays</source>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">بازهٔ روزها</translation>
     </message>
 </context>
 <context>
