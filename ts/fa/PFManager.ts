@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>MainDialog</name>
     <message>
         <source>Firewall Manager</source>
-        <translation type="unfinished">
-مدیر دیوار آتش</translation>
+        <translation>گردانندهٔ دیوارِ آتش</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">
- عمومی    </translation>
+        <translation>همه‌گیر</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">
-پیکربندی</translation>
+        <translation>پیکر‌بندی</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -24,8 +21,7 @@
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished">
-دیوار آتش</translation>
+        <translation>دیوارِ آتش</translation>
     </message>
     <message>
         <source>&amp;Start</source>
@@ -41,18 +37,15 @@
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished">
-تنظیمات عمومی      </translation>
+        <translation>ساماندهی‌های فراگیر</translation>
     </message>
     <message>
         <source>Enable Firewall on startup</source>
-        <translation type="unfinished">
- فعال سازی دیوار آتش در زمان استارت آپ</translation>
+        <translation>دیوارِ آتش را در زمان بالا‌آمدن بکار انداز</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished">
-پورت</translation>
+        <translation>درگاه</translation>
     </message>
     <message>
         <source>Open Ports</source>
@@ -89,8 +82,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">
-سوال</translation>
+        <translation>پرسش</translation>
     </message>
     <message>
         <source>Success</source>
@@ -110,13 +102,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Restored.</source>
-        <translation type="unfinished">
- بازگردانی شد.</translation>
+        <translation>بازیافت شد.</translation>
     </message>
     <message>
         <source>Config file successfuly restored.</source>
-        <translation type="unfinished">
-فایل پیکربندی با موفقیت بازگردانی شد.</translation>
+        <translation>پروندهٔ پیکربندی با پیروزی بازیافت شد.</translation>
     </message>
 </context>
 </TS>

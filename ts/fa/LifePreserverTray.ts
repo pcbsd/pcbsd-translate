@@ -37,22 +37,22 @@
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(زنده‌نگه‌دارنده) پرونده نتوانست باز شود: %1</translation>
     </message>
 </context>
 <context>
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>همه را نشان بده</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>تنها هشدارها</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ</translation>
     </message>
     <message>
         <source>Popup Settings</source>
@@ -68,114 +68,114 @@
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>سینی را تازه کن</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>سینی را ببند</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>آژیر سامانه</translation>
     </message>
 </context>
 <context>
     <name>LPWatcher</name>
     <message>
         <source>New snapshot of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>برگرفت نویِ %1</translation>
     </message>
     <message>
         <source>Creating snapshot for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>برگرفت برای %1 دارد ساخته می‌شود</translation>
     </message>
     <message>
         <source>Replication Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی دارد آغاز می‌شود</translation>
     </message>
     <message>
         <source>Starting replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی برای %1 دارد آغاز می‌شود</translation>
     </message>
     <message>
         <source>Replication Log</source>
-        <translation type="unfinished"></translation>
+        <translation>سیاههٔ رونوشت</translation>
     </message>
     <message>
         <source>Finished Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی پایان پذیرفت</translation>
     </message>
     <message>
         <source>Finished replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی برای %1 پایان پذیرفت</translation>
     </message>
     <message>
         <source>Replication Failed for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی برای %1 شکست خورد</translation>
     </message>
     <message>
         <source>Logfile available at: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ سیاهه در: %1 دسترس‌پذیر است</translation>
     </message>
     <message>
         <source>Replication Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسی شکست خورد</translation>
     </message>
     <message>
         <source>Replication Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>سیاههٔ نادرستی در رونویسی</translation>
     </message>
     <message>
         <source>Replicating %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>رونویسیِ %1 دارد انجام می‌شود: %2</translation>
     </message>
     <message>
         <source>Scrub repaired %1 bad blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub شمارِ %1 تکهٔ نابسامان را بازسازی کرد</translation>
     </message>
     <message>
         <source>Scrub repaired %1 blocks in %2 with %3 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub شمارِ %1 تکه را در %2 با %3 نادرستی بازسازی کرد</translation>
     </message>
     <message>
         <source>Scrub completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub به انجام رسید</translation>
     </message>
     <message>
         <source>Scrub completed without needing repairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub بی‌نیاز به بازسازی‌ها به انجام رسید</translation>
     </message>
     <message>
         <source>Scrub cancelled for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub برای %1 بهم زده شد</translation>
     </message>
     <message>
         <source>Scrubbing %1: %2 (%3 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub دارد برای %1 انجام می‌شود: %2 (%3 مانده)</translation>
     </message>
     <message>
         <source>Resilvering: %1 (%2 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>دوباره‌سازی دارد انجام می‌شود: %1 (%2 مانده)</translation>
     </message>
     <message>
         <source>Resilvering Started: %1 remaining </source>
-        <translation type="unfinished"></translation>
+        <translation>دوباره‌سازی آغاز شد: %1 مانده</translation>
     </message>
     <message>
         <source>Resilver completed in %1 with %2 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>دوباره‌سازی در %1 با %2 نادرستی انجام شد</translation>
     </message>
     <message>
         <source>Resilver completed successfully in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>دوباره‌سازی در %1 با پیروزی انجام شد</translation>
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
