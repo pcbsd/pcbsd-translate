@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP سفارشی سازی شده&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -474,8 +478,8 @@
         <translation>بی‌گمان شوید که‌این پروندهٔ کلید را در جایی امن بیرون از دیسک نگه‌داری کنید ( مانند یک یو‌اس‌بی‌فلش‌درایو که درجایی قفل شده نگه می‌دارید). سرپرست‌(های) کارساز پشتیبان‌گیر برای گم شدن کلید پاسخگو نیستند.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>زنده‌نگه‌دارنده در هنگام در هنگام تلاش برای برپا کردن این پشتیبان راه دور با یک نادرستی روبرو شد. خواهشمند است درستی‌سنجی کنید که سامانه‌بندی‌های شما درست باشند و دوباره تلاش کنید.</translation>
     </message>
 </context>
 <context>
@@ -961,140 +965,8 @@
         <translation>پرونده(ها) با پیروزی بازیابی شد(ند)</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>داده‌ها دارند بارگیری می‌شوند</translation>
     </message>
 </context>
 <context>
@@ -1217,31 +1089,35 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished">شنبه‌ها</translation>
+        <translation>شنبه‌ها</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished">یکشنبه‌ها</translation>
+        <translation>یکشنبه‌ها</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub کردن، برای ناهمخوانی‌ها و خرابی‌های خاموش در استخر انباره‌های شما آزمایش می‌کند.</translation>
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>کهنه‌ترین برگرفت‌ها بعد از رسیدن به شمار روزها یا‌ شمار برگرفتها که شما برمی‌گزینید به شیوهٔ خودکار هرس خواهند شد.</translation>
     </message>
     <message>
         <source>Click the Finish button to apply these settings and create the new backup schedule.</source>
-        <translation type="unfinished"></translation>
+        <translation>دکمهٔ پایان را فشار دهید تا این ساماندهی‌هارا به گار گرفته و یک زمان‌بندی پشتیبان‌گیری نو درست کنید.</translation>
     </message>
     <message>
         <source>Your new Life Preserver schedule is now set up! You may modify your configuration or enable advanced features such as off-site data replication at any time from within the main Life Preserver window.</source>
-        <translation type="unfinished"></translation>
+        <translation>زمان‌بندی تازهٔ زنده‌نگه‌دارندهٔ شما اکنون برپا شده است! شما می‌توانید پیکربندی خود را دگرگون کرده و یا ویژگی‌های پیشرفته‌ای مانند رونویسی برون‌پیرامون داده را در هر زمان از درون پنجرهٔ زنده‌نگه‌دارنده بکار اندازید.</translation>
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
-        <translation type="unfinished"></translation>
+        <translation>یکراست گزینه‌های پیشرفتهٔ پیکربندی را دنبال کن.</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>بازهٔ روزها</translation>
     </message>
 </context>
 <context>
