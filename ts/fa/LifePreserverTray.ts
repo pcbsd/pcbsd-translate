@@ -13,27 +13,27 @@
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌های پیشینه‌نوشت</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>ببند</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ پیغام جدیدی نیست</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ پروندهٔ پیشینه‌نوشتی دسترس‌پذیر نیست</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation type="unfinished"></translation>
+        <translation>(زنده‌نگه‌دارنده) هیچ درونمایهٔ پرونده‌ای برای نشان دادن پدید نیست</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(زنده‌نگه‌دارنده) پرونده پدید نیست: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
