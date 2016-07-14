@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>LPMessages</name>
     <message>
         <source>Life Preserver Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>پیامهای زنده‌نگه‌دارنده</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>پیامها</translation>
     </message>
     <message>
         <source>Log Files</source>
@@ -56,15 +56,15 @@
     </message>
     <message>
         <source>Popup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ساماندهی‌های بالاپری</translation>
     </message>
     <message>
         <source>Open Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>زنده‌نگه‌دارنده را باز کن</translation>
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>پیغامها را نشان بده</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
