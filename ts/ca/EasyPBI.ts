@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ca">
 <context>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Package category (will create/use this as module subdirectory)</source>
-        <translation>Categoria del paquet (es crearà / s'utilitzarà això com subdirectori del mòdul)</translation>
+        <translation>Categoria del paquet (es crearà / s&apos;utilitzarà això com subdirectori del mòdul)</translation>
     </message>
     <message>
         <source>Overwrite existing modules</source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Nothing Run Yet</source>
-        <translation>Encara no s'ha executat res</translation>
+        <translation>Encara no s&apos;ha executat res</translation>
     </message>
     <message>
         <source>Checking %1</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>%1: New other module</source>
-        <translation>%1: nou mòdul d'un altre tipus</translation>
+        <translation>%1: nou mòdul d&apos;un altre tipus</translation>
     </message>
     <message>
         <source>Category Stopped: %1</source>
@@ -188,7 +188,7 @@
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation>Llista separada per comes d'etiquetes de cerca per a l'aplicació</translation>
+        <translation>Llista separada per comes d&apos;etiquetes de cerca per a l&apos;aplicació</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
-        <translation>Paquets opcionals que proporcionen funcionalitats addicionals a l'aplicació</translation>
+        <translation>Paquets opcionals que proporcionen funcionalitats addicionals a l&apos;aplicació</translation>
     </message>
     <message>
         <source>...</source>
@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>
-        <translation>Llista d'URL a captures de pantalla d'aquesta aplicació</translation>
+        <translation>Llista d&apos;URL a captures de pantalla d&apos;aquesta aplicació</translation>
     </message>
     <message>
         <source>Similar Apps</source>
@@ -228,7 +228,7 @@
     </message>
     <message>
         <source>Icon that will be used for the program (PNG resources available)</source>
-        <translation>Icona que s'usarà per al programa (recursos PNG disponibles)</translation>
+        <translation>Icona que s&apos;usarà per al programa (recursos PNG disponibles)</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -236,11 +236,11 @@
     </message>
     <message>
         <source>App Type</source>
-        <translation>Tipus d'aplicació</translation>
+        <translation>Tipus d&apos;aplicació</translation>
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation>Seleccioneu un fitxer per a la icona de l'aplicació (requerit per als accessos directes)</translation>
+        <translation>Seleccioneu un fitxer per a la icona de l&apos;aplicació (requerit per als accessos directes)</translation>
     </message>
     <message>
         <source>No Specific Icon!</source>
@@ -268,7 +268,7 @@
     </message>
     <message>
         <source>URL of the main application website</source>
-        <translation>URL del lloc web principal de l'aplicació</translation>
+        <translation>URL del lloc web principal de l&apos;aplicació</translation>
     </message>
     <message>
         <source>License</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation>Llicències de l'aplicació</translation>
+        <translation>Llicències de l&apos;aplicació</translation>
     </message>
     <message>
         <source>+ Packages</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Short description of the application</source>
-        <translation>Ports o paquets per instal·lar per defecte amb l'aplicació</translation>
+        <translation>Ports o paquets per instal·lar per defecte amb l&apos;aplicació</translation>
     </message>
     <message>
         <source>Description</source>
@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>Full description of the application</source>
-        <translation>Descripció sencera de l'aplicació</translation>
+        <translation>Descripció sencera de l&apos;aplicació</translation>
     </message>
     <message>
         <source>XDG Shortcuts</source>
@@ -308,11 +308,11 @@
     </message>
     <message>
         <source>Set any desktop/menu entries, and any MIME types</source>
-        <translation>Estableix qualsevol entrada d'escriptori / menú i qualssevol tipus MIME</translation>
+        <translation>Estableix qualsevol entrada d&apos;escriptori / menú i qualssevol tipus MIME</translation>
     </message>
     <message>
         <source>Create and edit desktop entries</source>
-        <translation>Creeu i editeu les entrades d'escriptori</translation>
+        <translation>Creeu i editeu les entrades d&apos;escriptori</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -328,23 +328,23 @@
     </message>
     <message>
         <source>Refresh the current list (useful if files recently modified outside of EasyPBI)</source>
-        <translation>Actualitza la llista actual (útil si els fitxers s'han modificat recentment fora de l'EasyPBI)</translation>
+        <translation>Actualitza la llista actual (útil si els fitxers s&apos;han modificat recentment fora de l&apos;EasyPBI)</translation>
     </message>
     <message>
         <source>Delete the current item from the PBI module</source>
-        <translation>Elimina l'element actual del mòdul de PBI</translation>
+        <translation>Elimina l&apos;element actual del mòdul de PBI</translation>
     </message>
     <message>
         <source>Begin creating a new XDG entry</source>
-        <translation>Comença la creació d'una nova entrada XDG</translation>
+        <translation>Comença la creació d&apos;una nova entrada XDG</translation>
     </message>
     <message>
         <source>Entry Details</source>
-        <translation>Detalls de l'entrada</translation>
+        <translation>Detalls de l&apos;entrada</translation>
     </message>
     <message>
         <source>Visible name for the item</source>
-        <translation>Nom visible per a l'element</translation>
+        <translation>Nom visible per a l&apos;element</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Binary to be run when the item is activated</source>
-        <translation>Binari per executar quan s'activi l'element</translation>
+        <translation>Binari per executar quan s&apos;activi l&apos;element</translation>
     </message>
     <message>
         <source>Auto-detected binaries for the PBI</source>
@@ -360,19 +360,19 @@
     </message>
     <message>
         <source>Custom Icon Path</source>
-        <translation>Camí d'icona personalitzat</translation>
+        <translation>Camí d&apos;icona personalitzat</translation>
     </message>
     <message>
         <source>Application Icon</source>
-        <translation>Icona de l'aplicació</translation>
+        <translation>Icona de l&apos;aplicació</translation>
     </message>
     <message>
         <source>Start the application in a terminal session</source>
-        <translation>Inicia l'aplicació en una sessió de terminal</translation>
+        <translation>Inicia l&apos;aplicació en una sessió de terminal</translation>
     </message>
     <message>
         <source>Open in Terminal</source>
-        <translation>Inicia l'aplicació en una sessió de terminal</translation>
+        <translation>Inicia l&apos;aplicació en una sessió de terminal</translation>
     </message>
     <message>
         <source>Flag this item to not be displayed at all</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
-        <translation>L'aplicació necessita privilegis d'administrador per executar-se</translation>
+        <translation>L&apos;aplicació necessita privilegis d&apos;administrador per executar-se</translation>
     </message>
     <message>
         <source>Requires Root</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation>Categoria de menú per trobar l'element.</translation>
+        <translation>Categoria de menú per trobar l&apos;element.</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>Save the item as currently shown</source>
-        <translation>Desa l'element com es mostra actualment</translation>
+        <translation>Desa l&apos;element com es mostra actualment</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation>Scripts addicionals d'instal·lació / construcció</translation>
+        <translation>Scripts addicionals d&apos;instal·lació / construcció</translation>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
@@ -440,7 +440,7 @@
     </message>
     <message>
         <source>Create the selected script</source>
-        <translation>Crea l'script seleccionat</translation>
+        <translation>Crea l&apos;script seleccionat</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Delete the selected script from the PBI module</source>
-        <translation>Elimina l'script seleccionat del mòdul de PBI</translation>
+        <translation>Elimina l&apos;script seleccionat del mòdul de PBI</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -460,7 +460,7 @@
     </message>
     <message>
         <source>Contents for the selected script</source>
-        <translation>Continguts per a l'script seleccionat</translation>
+        <translation>Continguts per a l&apos;script seleccionat</translation>
     </message>
     <message>
         <source>Service Configuration</source>
@@ -496,7 +496,7 @@
     </message>
     <message>
         <source>Remove Option</source>
-        <translation>Elimina l'opció</translation>
+        <translation>Elimina l&apos;opció</translation>
     </message>
     <message>
         <source>Create Template</source>
@@ -504,11 +504,11 @@
     </message>
     <message>
         <source>Save Script</source>
-        <translation>Desa l'script</translation>
+        <translation>Desa l&apos;script</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>Crea l'script seleccionat</translation>
+        <translation>Crea l&apos;script seleccionat</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
@@ -528,7 +528,7 @@
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
-        <translation>Obre l'editor de paràmetres de l'EasyPBI</translation>
+        <translation>Obre l&apos;editor de paràmetres de l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>Shift+S</source>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation>Recupera / actualitza l'arbre de ports de FreeBSD</translation>
+        <translation>Recupera / actualitza l&apos;arbre de ports de FreeBSD</translation>
     </message>
     <message>
         <source>New</source>
@@ -592,7 +592,7 @@
     </message>
     <message>
         <source>Close EasyPBI</source>
-        <translation>Tanca l'EasyPBI</translation>
+        <translation>Tanca l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>Shift+Q</source>
@@ -632,7 +632,7 @@
     </message>
     <message>
         <source>Load Package File List</source>
-        <translation>Tanca l'EasyPBI</translation>
+        <translation>Tanca l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>No Module Loaded</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source>Installation Scripts</source>
-        <translation>Scripts d'instal·lació</translation>
+        <translation>Scripts d&apos;instal·lació</translation>
     </message>
     <message>
         <source>Permissions Error</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation>Hi ha hagut un error intentant crear l'estructura local del directori de l'EasyPBI. Si us plau, comproveu els permisos del directori personal i reinicieu l'EasyPBI.</translation>
+        <translation>Hi ha hagut un error intentant crear l&apos;estructura local del directori de l&apos;EasyPBI. Si us plau, comproveu els permisos del directori personal i reinicieu l&apos;EasyPBI.</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
@@ -656,11 +656,11 @@
     </message>
     <message>
         <source>Some external resources could not be found, so the EasyPBI services that use these resources have been deactivated.</source>
-        <translation>No s'han pogut trobar alguns recursos externs, per això s'han desactivat els serveis de l'EasyPBI que usen aquests recursos.</translation>
+        <translation>No s&apos;han pogut trobar alguns recursos externs, per això s&apos;han desactivat els serveis de l&apos;EasyPBI que usen aquests recursos.</translation>
     </message>
     <message>
         <source>Please open up the EasyPBI settings to correct this deficiency.</source>
-        <translation>Si us plau, obriu els paràmetres de l'EasyPBI per corregir aquesta deficiència.</translation>
+        <translation>Si us plau, obriu els paràmetres de l&apos;EasyPBI per corregir aquesta deficiència.</translation>
     </message>
     <message>
         <source>Success</source>
@@ -668,7 +668,7 @@
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
-        <translation>S'ha empaquetat correctament una còpia del mòdul actual  dins del directori del mòdul.</translation>
+        <translation>S&apos;ha empaquetat correctament una còpia del mòdul actual  dins del directori del mòdul.</translation>
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Could not create PBI module. Please check the directory permissions and try again.</source>
-        <translation>No s'ha pogut crear el mòdul de PBI. Si us plau, comproveu els permisos del directori i torneu-ho a intentar.</translation>
+        <translation>No s&apos;ha pogut crear el mòdul de PBI. Si us plau, comproveu els permisos del directori i torneu-ho a intentar.</translation>
     </message>
     <message>
         <source>Select PBI Module Configuration</source>
@@ -688,11 +688,11 @@
     </message>
     <message>
         <source>EasyPBI Error</source>
-        <translation>Error de l'EasyPBI</translation>
+        <translation>Error de l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
-        <translation>El fitxer de configuració de PBI no s'ha pogut desar. Si us plau, comproveu els permisos del fitxer abans de tornar-ho a intentar.</translation>
+        <translation>El fitxer de configuració de PBI no s&apos;ha pogut desar. Si us plau, comproveu els permisos del fitxer abans de tornar-ho a intentar.</translation>
     </message>
     <message>
         <source>Screenshot URL</source>
@@ -712,7 +712,7 @@
     </message>
     <message>
         <source>Could not remove the XDG entry.</source>
-        <translation>No s'ha pogut eliminar l'entrada XDG.</translation>
+        <translation>No s&apos;ha pogut eliminar l&apos;entrada XDG.</translation>
     </message>
     <message>
         <source>Check the file permissions and try again</source>
@@ -720,11 +720,11 @@
     </message>
     <message>
         <source>Could not save the changes to the XDG entry.</source>
-        <translation>No s'han pogut desar els canvis a l'entrada XDG.</translation>
+        <translation>No s&apos;han pogut desar els canvis a l&apos;entrada XDG.</translation>
     </message>
     <message>
         <source>Could not create the XDG entry.</source>
-        <translation>No s'ha pogut crear l'entrada XDG.</translation>
+        <translation>No s&apos;ha pogut crear l&apos;entrada XDG.</translation>
     </message>
     <message>
         <source>Error Saving File</source>
@@ -732,11 +732,11 @@
     </message>
     <message>
         <source>Could not save the script</source>
-        <translation>No s'ha pogut desar l'script</translation>
+        <translation>No s&apos;ha pogut desar l&apos;script</translation>
     </message>
     <message>
         <source>Please check the file permissions and try again</source>
-        <translation>No s'ha pogut eliminar l'entrada XDG.</translation>
+        <translation>No s&apos;ha pogut eliminar l&apos;entrada XDG.</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation>Fitxer d'icona PNG per al PBI (es pot canviar després)</translation>
+        <translation>Fitxer d&apos;icona PNG per al PBI (es pot canviar després)</translation>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
@@ -775,7 +775,7 @@
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
-        <translation>Mòdul ràpid (omet el valor d'autogeneració)</translation>
+        <translation>Mòdul ràpid (omet el valor d&apos;autogeneració)</translation>
     </message>
     <message>
         <source>Select PNG Icon</source>
@@ -790,7 +790,7 @@
     <name>PreferencesDialog</name>
     <message>
         <source>EasyPBI Preferences</source>
-        <translation>Preferències de l'EasyPBI</translation>
+        <translation>Preferències de l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>Local Paths</source>
@@ -802,11 +802,11 @@
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation>Commuta la utilitat de l'usuari</translation>
+        <translation>Commuta la utilitat de l&apos;usuari</translation>
     </message>
     <message>
-        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Camí sencer a la utilitat gràfica de "commutació d'usuari" (pc-su, gksu, kdesu, qsu, etc.)</translation>
+        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Camí sencer a la utilitat gràfica de &quot;commutació d&apos;usuari&quot; (pc-su, gksu, kdesu, qsu, etc.)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation>Fes que l'EasyPBI reexamini el sistema per si hi ha utilitats disponibles.</translation>
+        <translation>Fes que l&apos;EasyPBI reexamini el sistema per si hi ha utilitats disponibles.</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation>Directori per defecte per obrir quan s'afegeixin icones / fitxers a un mòdul</translation>
+        <translation>Directori per defecte per obrir quan s&apos;afegeixin icones / fitxers a un mòdul</translation>
     </message>
     <message>
         <source>Select a local directory.</source>
@@ -870,11 +870,11 @@
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation>Seleccioneu el directori per defecte per trobar fitxers d'icones</translation>
+        <translation>Seleccioneu el directori per defecte per trobar fitxers d&apos;icones</translation>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation>Seleccioneu el fitxer d'icona per defecte</translation>
+        <translation>Seleccioneu el fitxer d&apos;icona per defecte</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
@@ -882,7 +882,7 @@
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation>Seleccioneu la utilitat gràfica de commutació d'usuari</translation>
+        <translation>Seleccioneu la utilitat gràfica de commutació d&apos;usuari</translation>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
@@ -890,7 +890,7 @@
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation>Directori per defecte per obrir quan s'afegeixin icones / fitxers a un mòdul</translation>
+        <translation>Directori per defecte per obrir quan s&apos;afegeixin icones / fitxers a un mòdul</translation>
     </message>
 </context>
 <context>
@@ -909,7 +909,7 @@
     </message>
     <message>
         <source>Option Type:</source>
-        <translation>Tipus d'opció:</translation>
+        <translation>Tipus d&apos;opció:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -945,7 +945,7 @@
     </message>
     <message>
         <source>Options List</source>
-        <translation>Llista d'opcions</translation>
+        <translation>Llista d&apos;opcions</translation>
     </message>
     <message>
         <source>...</source>
@@ -961,7 +961,7 @@
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation>Quadre combinat (llista d'opcions predefinida)</translation>
+        <translation>Quadre combinat (llista d&apos;opcions predefinida)</translation>
     </message>
     <message>
         <source>NumberBox (integers)</source>
@@ -969,11 +969,11 @@
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation>Quadre de text (text proporcionat per l'usuari)</translation>
+        <translation>Quadre de text (text proporcionat per l&apos;usuari)</translation>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
-        <translation>Quadre de text (text proporcionat per l'usuari)</translation>
+        <translation>Quadre de text (text proporcionat per l&apos;usuari)</translation>
     </message>
     <message>
         <source>New Value</source>
@@ -989,14 +989,14 @@
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation>Nom de l'opció visible:</translation>
+        <translation>Nom de l&apos;opció visible:</translation>
     </message>
 </context>
 <context>
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation>Quant a l'EasyPBI</translation>
+        <translation>Quant a l&apos;EasyPBI</translation>
     </message>
     <message>
         <source>License</source>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI versió %1</translation>
     </message>
     <message>
-        <source>Create PBI's quickly and easily.</source>
+        <source>Create PBI&apos;s quickly and easily.</source>
         <translation>Creeu PBIs de manera ràpida i fàcil.</translation>
     </message>
     <message>
@@ -1059,7 +1059,7 @@
     </message>
     <message>
         <source>No package found with that term</source>
-        <translation>No s'ha trobat cap paquet amb aquest terme.</translation>
+        <translation>No s&apos;ha trobat cap paquet amb aquest terme.</translation>
     </message>
 </context>
 </TS>
