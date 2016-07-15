@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
-        <translation type="unfinished">همچنین شما می توانید یک جدول تشخیصی با اطلاعات در مورد سیستم شما، تولید کنید . این برگه را می توان توسط تکنسین های برای مقاصد عیب یابی استفاده می شود.    </translation>
+        <translation>همچنین شما می‌توانید یک  برگهٔ کاستی‌یابی با اطلاعات در مورد سامانه‌یتان پدید آورید. این برگه می‌تواند بدست کاردان‌ها برای مقاصد عیب یابی استفاده می شود.    </translation>
     </message>
     <message>
         <source>&amp;Generate</source>
