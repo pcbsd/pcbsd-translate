@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja">
 <context>
@@ -30,8 +30,8 @@
     </message>
     <message>
         <source>Unmount</source>
-        <translation>マウント解除</translation>
-    </message>
+        <translation>取り外し</translation>
+    <translatorcomment>字数が4文字しか入れられないので、「マウント解除」から変更する。</translatorcomment></message>
     <message>
         <source>Mount</source>
         <translation>マウント</translation>
@@ -50,15 +50,15 @@
     </message>
     <message>
         <source>The device appears to be busy. Do you want to forcibly unmount the device?</source>
-        <translation>このデバイスは使用中です。強制的にマウントを解除しますか?</translation>
+        <translation>このデバイスは使用中です。強制的に取り外しますか?</translation>
     </message>
     <message>
         <source>Unmount Error</source>
-        <translation>マウント解除のエラー</translation>
+        <translation>取り外しでエラー</translation>
     </message>
     <message>
         <source>The device could not be unmounted. Please try again later</source>
-        <translation>このデバイスのマウント解除に失敗しました。もう一度やり直してください</translation>
+        <translation>このデバイスの取り外しに失敗しました。もう一度やり直してください</translation>
     </message>
     <message>
         <source>No Filesystem Detected</source>

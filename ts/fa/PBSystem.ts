@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>CMDDialog</name>
     <message>
@@ -36,11 +36,11 @@
     <name>PBSystemTab</name>
     <message>
         <source>PC-BSD System Configuration</source>
-        <translation type="unfinished">پیکربندی سیستم  PC-BSD </translation>
+        <translation>پیکربندیِ سامانهٔ PC-BSD</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">کلی        </translation>
+        <translation>همه‌گیر</translation>
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
