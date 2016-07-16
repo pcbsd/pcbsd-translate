@@ -7,33 +7,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-15 08:19-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-07-15 12:19-0700\n"
+"PO-Revision-Date: 2016-07-16 01:19+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1468631981.000000\n"
 
 #: ../../advanced.rst:5
 msgid "Advanced Installation Topics"
-msgstr ""
+msgstr "Fortgeschrittene Installationsthemen"
 
 #: ../../advanced.rst:7
 msgid "The previous section discussed a default installation of PC-BSD®. This section covers the following advanced installation topics:"
 msgstr ""
 
 #: ../../advanced.rst:9
+#, fuzzy
 msgid ":ref:`Using the Text Installer`"
-msgstr ""
+msgstr ":ref:`Verwendung des Textinstallationsprogramms`"
 
 #: ../../advanced.rst:11
 msgid ":ref:`Install a Server`"
-msgstr ""
+msgstr ":ref:`Einen Server installieren`"
 
 #: ../../advanced.rst:13
 msgid ":ref:`Using the TrueOS® CD`"
-msgstr ""
+msgstr ":ref:`Verwendung der TrueOS®-CD`"
 
 #: ../../advanced.rst:15
 msgid ":ref:`Dual Booting`"
@@ -45,7 +50,7 @@ msgstr ""
 
 #: ../../advanced.rst:23
 msgid "Using the Text Installer"
-msgstr ""
+msgstr "Verwendung des Textinstallationsprogramms"
 
 #: ../../advanced.rst:25
 msgid "If you prefer to perform an installation using an ncurses menu rather than a full graphical installer, select the option \"Text Install/Emergency Console\" from the PC-BSD® installer boot menu shown in Figure 3a. Once the installer finishes loading, you will see the screen shown in :numref:`Figure %s: Text Installation Menu <text1>`."
@@ -65,7 +70,7 @@ msgstr ""
 
 #: ../../advanced.rst:38
 msgid "**vesa:** launches the graphical installer in VESA mode."
-msgstr ""
+msgstr "**vesa:** startet das grafische Installationsprogramm im VESA-Modus."
 
 #: ../../advanced.rst:40
 msgid "**utility:** launches the menu described in :ref:`Using the System Utilities Menu`."
