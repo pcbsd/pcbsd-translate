@@ -76,11 +76,11 @@
     </message>
     <message>
         <source>CPU Type:</source>
-        <translation type="unfinished">نوع پردازشگر:   </translation>
+        <translation>گونهٔ پردازنده:</translation>
     </message>
     <message>
         <source>System Memory:</source>
-        <translation type="unfinished">حافظه سیستم:  </translation>
+        <translation>یادسپار سامانه:</translation>
     </message>
     <message>
         <source>Tasks</source>
