@@ -84,11 +84,11 @@
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished">وظایف    </translation>
+        <translation>زیرکارها</translation>
     </message>
     <message>
         <source>System Tasks</source>
-        <translation type="unfinished">وظایف سیستم</translation>
+        <translation>زیرکارهای سامانه</translation>
     </message>
     <message>
         <source>Fetch PC-BSD &amp;System Source</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+S </translation>
+        <translation>Alt+S </translation>
     </message>
     <message>
         <source>Fetch PC-BSD P&amp;orts Tree</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">متفرقه</translation>
+        <translation>دَرهم</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished">گزینه های دیگر</translation>
+        <translation>گزینه‌های دیگر</translation>
     </message>
     <message>
         <source>Force IBUS keyboard input</source>
-        <translation type="unfinished">نیروی IBUS ورودی صفحه کلید</translation>
+        <translation>به دَرآیهٔ تخته‌کلید IBUS وادار</translation>
     </message>
     <message>
         <source>Error</source>

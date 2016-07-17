@@ -1,79 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="fa">
 <context>
     <name>btmaingui</name>
     <message>
         <source>BlueTooth Manager</source>
-        <translation type="unfinished">مدیریت بلوتوث</translation>
+        <translation>گردانندهٔ BlueTooth</translation>
     </message>
     <message>
         <source>Current Settings</source>
-        <translation type="unfinished">تنظیمات فعلی</translation>
+        <translation>ساماندهی‌های کنونی</translation>
     </message>
     <message>
         <source>Computer/Device ID</source>
-        <translation type="unfinished">ID دستگاه/ كامپيوتر</translation>
+        <translation>شناسهٔ رایانه/دستگاه</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Devices Connected:</source>
-        <translation type="unfinished">دستگاه های متصل</translation>
+        <translation>دستگاه‌های پیوسته:</translation>
     </message>
     <message>
         <source>&amp;Disconnect Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start &amp;Tray Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Restart Service</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Devices</source>
-        <translation type="unfinished">دستگاه جديد</translation>
+        <translation>دستگاه‌های تازه</translation>
     </message>
     <message>
         <source>&amp;Scan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Saved Devices</source>
-        <translation type="unfinished">ذخيره كردن دستگاه ها</translation>
+        <translation>دستگاه‌های نگهداشته‌شده</translation>
     </message>
     <message>
         <source>&amp;Initiate Pairing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Remove Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Searching for discoverable Bluetooth devices</source>
-        <translation type="unfinished">جستجو برای دستگاه های بلوتوث قابل شناسایی</translation>
+        <translation>برای دستگاه‌های Bluetooth یافتنی دارد جستجو می‌شود</translation>
     </message>
     <message>
-        <source>No new Bluetooth devices discovered! Please put your device into &quot;discovery&quot; mode and rescan.</source>
-        <translation type="unfinished">دستگاه جديد كشف نشده است. لطفا دستگاه خود را در حالت قابل كشف براي ديگران قرار دهيد و دوباره جستجو كنيد.</translation>
+        <source>No new Bluetooth devices discovered! Please put your device into "discovery" mode and rescan.</source>
+        <translation>هیچ دستگاه تازه‌ای یافت نشد! خواهشمند است دستگاه خود را در نهش discovery (پیدا کردن) بنهید و دوباره پویش کنید.</translation>
     </message>
     <message>
         <source>Reading saved Bluetooth devices. Please wait.</source>
-        <translation type="unfinished">خواندن دستگاه هاي بلوتوث ذخيره شده. لطفا منتظر بمانيد.</translation>
+        <translation>دستگاه‌های Bluetooth نگه‌داشته‌شده دارند خوانده می‌شوند. خواهشمند است شکیبا باشید.</translation>
     </message>
     <message>
         <source>This program must be run with root permissions to view/edit saved configurations</source>
