@@ -77,27 +77,27 @@
     </message>
     <message>
         <source>This program must be run with root permissions to view/edit saved configurations</source>
-        <translation type="unfinished">اين برنامه به دسترسي كاربر root براي نمايش و ويرايش پيكربندي ذخيره شده دارد.</translation>
+        <translation>برای نشان دادن یا ویرایش پیکربندی‌های نگه‌داشته‌شده، این برنامه باید با دسترسی root بکار گرفته شود</translation>
     </message>
     <message>
         <source>No saved configurations found</source>
-        <translation type="unfinished">بدون تنظیمات ذخیره شده یافت نشد</translation>
+        <translation>هیچ پیکربندی نگه‌داشته‌شده‌ای یافت نشد</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">هشدار</translation>
+        <translation>هشدار</translation>
     </message>
     <message>
         <source>No device has been selected. Please choose a device first.</source>
-        <translation type="unfinished">هيچ دستگاهي انتخاب نشده. لطفا اولين دستگاه را انتخاب كنيد.</translation>
+        <translation>هیچ دستگاهی برگزیده نشده. خواهشمند است نخست یک دستگاه را برگزینید.</translation>
     </message>
     <message>
         <source>Invalid Permissions</source>
-        <translation type="unfinished">دسترسي هاي نامعتبر</translation>
+        <translation>دسترسی‌های ناروا</translation>
     </message>
     <message>
         <source>This program must be run with root permissions to save device settings</source>
-        <translation type="unfinished">اين برنامه براي ذخيره كردن تنظيمات دستگاه نياز به سطح دسترسي كاربر root دارد</translation>
+        <translation>برای نگهداری ساماندهی‌های دستگاه این برنامه باید با دسترسی root بکار انداخته شود</translation>
     </message>
     <message>
         <source>PIN Code (Examples: 0000, 1234, or none)</source>
