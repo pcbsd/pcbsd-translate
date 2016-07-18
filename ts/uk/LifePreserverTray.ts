@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>%1 is degraded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 погіршується</translation>
     </message>
     <message>
         <source>The device is faulty, and should be replaced.</source>
