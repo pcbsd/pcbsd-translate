@@ -101,31 +101,31 @@
     </message>
     <message>
         <source>PIN Code (Examples: 0000, 1234, or none)</source>
-        <translation type="unfinished">PIN کد (مثال: 0000، 1234، یا هیچ کدام)</translation>
+        <translation>شمارهٔ PIN (مانند: 0000، 1234، و یا هیچ)</translation>
     </message>
     <message>
         <source>Link Key (Leave blank for automatic)</source>
-        <translation type="unfinished">کلید لینک (براي حالت خودكار فيلد را خالي بگذاريد)</translation>
+        <translation>کلید پیوند (برای نهش خودکار تهی رها کنید)</translation>
     </message>
     <message>
         <source>Device Configuration</source>
-        <translation type="unfinished">پيكربندي دستگاه</translation>
+        <translation>پیکربندی دستگاه</translation>
     </message>
     <message>
         <source>Invalid Pin length: Defaulting to none</source>
-        <translation type="unfinished">طول نامعتبر پين: قراردادی به هیچ یک</translation>
+        <translation>درازای ناروای PIN: بر هیچ انگاشت می‌شود</translation>
     </message>
     <message>
         <source>Pairing Error</source>
-        <translation type="unfinished">خطا در يكسان سازي</translation>
+        <translation>نادرستی در جفت کردن</translation>
     </message>
     <message>
         <source>Could not pair to this device. Please verify your device configuration before trying again.</source>
-        <translation type="unfinished">نمي تواند با اين دستگاه يكسان شود. لطفا پيكربندي دستگاه ارتأیید كنيد قبل از تلاش مجدد.</translation>
+        <translation>نمی‌توان با این دستگاه جفت شد. خواهشمند است پیکربندی دستگاهتان را پیش از تلاش دوباره درستی‌سنجی کنید.</translation>
     </message>
     <message>
         <source>New Bluetooth Computer name</source>
-        <translation type="unfinished">نام جديد بلوتوث كامپيوتر</translation>
+        <translation>نام تازهٔ رایانهٔ Bluetooth</translation>
     </message>
     <message>
         <source>New Bluetooth Name</source>
