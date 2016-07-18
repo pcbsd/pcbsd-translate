@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="fa">
 <context>
     <name>BluetoothTray</name>
     <message>
         <source>New Bluetooth Device Detected</source>
-        <translation type="unfinished">دستگاه بلوتوث جديد شناسايي شد</translation>
+        <translation>دستگاه Bluetooth اِ تازه یافته شد</translation>
     </message>
     <message>
         <source>Click here to configure Bluetooth device configurations</source>
-        <translation type="unfinished">براي پيكربندي دستگاه بلوتوث اينجا كليك كنيد</translation>
+        <translation>برای پیکربندی دستگاهِ Bluetooth، اینجا را فشار دهید</translation>
     </message>
     <message>
         <source>Start Bluetooth Manager</source>
-        <translation type="unfinished">شروع مدیریت بلوتوث</translation>
+        <translation>گردانندهٔ Bluetooth را به راه انداز</translation>
     </message>
     <message>
         <source>Restart Bluetooth Services</source>
-        <translation type="unfinished">راه اندازی مجدد خدمات بلوتوث</translation>
+        <translation>دستیاری‌های Bluetooth را بازراه‌اندازی کن</translation>
     </message>
     <message>
         <source>Close Bluetooth Tray</source>
-        <translation type="unfinished">يستن جعبه بلوتوث</translation>
+        <translation>سینیِ Bluetooth را ببند</translation>
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished">لطفا صبر کنید</translation>
+        <translation>خواهشمند است بردباری کنید</translation>
     </message>
     <message>
         <source>Restarting Bluetooth Services</source>
-        <translation type="unfinished">راه اندازی مجدد خدمات بلوتوث</translation>
+        <translation>دستیاری‌های Bluetooth دارند بازراه‌اندازی می‌شوند</translation>
     </message>
 </context>
 </TS>

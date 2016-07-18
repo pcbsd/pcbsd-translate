@@ -1,51 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>pcADSLDAP</name>
     <message>
         <source>AD and LDAP Configuration</source>
-        <translation type="unfinished">پيكربندي AD و LDAP</translation>
+        <translation>پیکربندی AD و LDAP</translation>
     </message>
     <message>
         <source>Active Directory</source>
-        <translation type="unfinished">Active Directory</translation>
+        <translation>Active Directory</translation>
     </message>
     <message>
         <source>Enable Active Directory</source>
-        <translation type="unfinished">فعال كردن Active Directory</translation>
+        <translation>Active Directory را به کار انداز</translation>
     </message>
     <message>
         <source>Domain Name (DNS/Realm-Name)</source>
-        <translation type="unfinished">Domain Name (DNS/Realm-Name)</translation>
+        <translation>نام دامنه (نام DNS/گستره)</translation>
     </message>
     <message>
         <source>NetBIOS Name</source>
-        <translation type="unfinished">نام NetBIOS</translation>
+        <translation>نام NetBIOS</translation>
     </message>
     <message>
         <source>Workgroup Name</source>
-        <translation type="unfinished">نام Workgroup </translation>
+        <translation> نام گروه کاری</translation>
     </message>
     <message>
         <source>Allow Trusted Domains</source>
-        <translation type="unfinished">اجازه دامين هاي قابل اعتماد</translation>
+        <translation>بگذار دامنه‌های باورپذیر به‌کار گرفته شوند</translation>
     </message>
     <message>
         <source>Administrator Name</source>
-        <translation type="unfinished">نام كاربرAdministrator </translation>
+        <translation>نام سرپرست (Administrator)</translation>
     </message>
     <message>
         <source>Administrator Password</source>
-        <translation type="unfinished">رمزعبور كاربر Administrator </translation>
+        <translation>گذرواژهٔ سرپرست</translation>
     </message>
     <message>
         <source>Administrator Password (Confirm)</source>
-        <translation type="unfinished">رمزعبور كاربر Administrator (تكرار)</translation>
+        <translation>گذرواژهٔ سرپرست (دوباره)</translation>
     </message>
     <message>
         <source>LDAP</source>
-        <translation type="unfinished">LDAP</translation>
+        <translation>LDAP</translation>
     </message>
     <message>
         <source>Enable LDAP</source>

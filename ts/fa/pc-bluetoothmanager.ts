@@ -129,15 +129,15 @@
     </message>
     <message>
         <source>New Bluetooth Name</source>
-        <translation type="unfinished">نام جديد بلوتوث </translation>
+        <translation>نام تازهٔ Bluetoothی</translation>
     </message>
     <message>
         <source>Invalid Name</source>
-        <translation type="unfinished">نام نامعتبر</translation>
+        <translation>نام ناروا</translation>
     </message>
     <message>
         <source>Device name must not contain symbols</source>
-        <translation type="unfinished">نام دستگاه بايد فاقد نمادها باشد</translation>
+        <translation>نام دستگاه نباید دارای نماد باشد</translation>
     </message>
 </context>
 </TS>
