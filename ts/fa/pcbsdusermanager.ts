@@ -191,19 +191,19 @@
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>آلْت+أو</translation>
+        <translation>دگرساز+خ (Alt+O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;لغو</translation>
+        <translation>&amp;بهم بزن</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>دگرساز+ز (Alt+C)</translation>
     </message>
     <message>
         <source>UID:</source>
-        <translation type="unfinished"></translation>
+        <translation>شناسهٔ کاربر</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -214,23 +214,23 @@
     <name>ChangePassCode</name>
     <message>
         <source>Change Password for &apos;</source>
-        <translation type="unfinished">تغییر رمز ورود برای &apos;</translation>
+        <translation>خودکار</translation>
     </message>
     <message>
         <source>&apos;</source>
-        <translation type="unfinished">&apos;</translation>
+        <translation>&apos;</translation>
     </message>
     <message>
         <source>You must specify a password</source>
-        <translation type="unfinished">شما باید یک رمزعبور مشخص کنید</translation>
+        <translation>باید گذرواژه‌ای بدهید</translation>
     </message>
     <message>
         <source>The passwords didn&apos;t match. Both boxes most contain the same value.</source>
-        <translation type="unfinished">رمزعبورها یکسان نیستند. هر دو فیلد باید شامل مقادیر یکسانی باشند.</translation>
+        <translation>گذرواژه‌ها هم‌خوانی ندارند. نوشتن آنها باید یکسان باشد.</translation>
     </message>
     <message>
         <source>Invalid password, please choose another.</source>
-        <translation type="unfinished">رمزعبور نا معتبر, لطفا یکی دیگر انتخاب کنید.</translation>
+        <translation>گذرواژهٔ ناروا، خواهشمند است گذرواهٔ دیگری برگزینید.</translation>
     </message>
     <message>
         <source>Passwords match</source>
@@ -249,7 +249,7 @@
     <name>ChangePassDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished">تغییر رمز ورود</translation>
+        <translation>گذرواژه را دگرگون کن</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -261,7 +261,7 @@
     </message>
     <message>
         <source>O&amp;k</source>
-        <translation type="unfinished">تایید</translation>
+        <translation>&amp;باشد</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -269,11 +269,11 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;لغو</translation>
+        <translation>&amp;بهم بزن</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دگرساز+ز (Alt+C)</translation>
     </message>
 </context>
 <context>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>&amp;Users</source>
-        <translation type="unfinished">&amp;کاربران     </translation>
+        <translation>&amp;کاربرها</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -304,7 +304,7 @@
     </message>
     <message>
         <source>User ID:</source>
-        <translation type="unfinished">ID کاربر:</translation>
+        <translation>شناسهٔ کاربر:</translation>
     </message>
     <message>
         <source>Full Name:</source>
@@ -316,11 +316,11 @@
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">خط فرمان:</translation>
+        <translation>پوسته:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">گروه اصلی:</translation>
+        <translation>گروه نخستین:</translation>
     </message>
     <message>
         <source>&amp;Change Password...</source>
@@ -332,11 +332,11 @@
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation type="unfinished">&amp;گروه ها </translation>
+        <translation>&amp;گروه‌ها</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished">اضافه کردن</translation>
+        <translation>&amp;بیافزای</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -344,15 +344,15 @@
     </message>
     <message>
         <source>Available:  </source>
-        <translation type="unfinished">در دسترس:</translation>
+        <translation>دسترس‌پذیر:</translation>
     </message>
     <message>
         <source>Members:</source>
-        <translation type="unfinished">اعضا:</translation>
+        <translation>هم‌وندان:</translation>
     </message>
     <message>
         <source>PC-BSD User Manager - Advanced Mode</source>
-        <translation type="unfinished">مدیریت کاربر PC-BSD در حالت پیشرفته</translation>
+        <translation>گردانندهٔ کاربر PC-BSD - نهشِ پیشرفته</translation>
     </message>
     <message>
         <source>&amp;Simple View</source>
@@ -403,22 +403,22 @@
     </message>
     <message>
         <source>Apply pending changes?</source>
-        <translation type="unfinished">تایید کردن تغییرات در حال بررسی</translation>
+        <translation>بکار گرفتن دگرگونی‌ها؟</translation>
     </message>
     <message>
         <source>There are pending changes which have not been applied. Would you like to apply them before quitting?</source>
-        <translation type="unfinished"> تغییراتی که اعمال نمی شده است وجود دارد. آیا می خواهید به آنها را قبل از ترک اعمال می شود؟</translation>
+        <translation>دگرگونی‌هایی هستند که بکار گرفته نشده‌اند. آیا می‌خواهید پیش از بیرون رفتن آنها را بکارگیری کنید؟</translation>
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished">ویرایش کردن کاربر برای jail:</translation>
+        <translation type="unfinished">ویرایش کاربران برای Jail:</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">ورودی خوب</translation>
+        <translation>درون‌داد خوب</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -500,11 +500,11 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">خطا!</translation>
+        <translation>نادرستی!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">هشدار!</translation>
+        <translation>هشدار!</translation>
     </message>
 </context>
 <context>
@@ -539,7 +539,7 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;لغو</translation>
+        <translation>&amp;بهم بزن</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -574,15 +574,15 @@
     </message>
     <message>
         <source>&amp;Change Admin Password...</source>
-        <translation type="unfinished">&amp;تغییر رمزعبور admin..</translation>
+        <translation>&amp;گذرواژهٔ سرپرست (Admin) را دگرگون کن...</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">دگرساز+ز (Alt+C)</translation>
     </message>
     <message>
         <source>A&amp;dvanced View</source>
-        <translation type="unfinished"> جستجوی پیشرفته مشخصات</translation>
+        <translation>&amp;نمایش پیشرفته</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -594,7 +594,7 @@
     </message>
     <message>
         <source>Can administrate s&amp;ystem</source>
-        <translation type="unfinished">توانید اجرا کنید سیستم را</translation>
+        <translation>می‌تواند سامانه را سر&amp;پرستی کند</translation>
     </message>
     <message>
         <source>Alt+Y</source>
@@ -648,11 +648,11 @@
     </message>
     <message>
         <source>Error adding group...</source>
-        <translation type="unfinished">خطا در اضافه کردن گروه ...</translation>
+        <translation>نادرستی در افزودن گروه...</translation>
     </message>
     <message>
         <source>You must specify a name for your group</source>
-        <translation type="unfinished">شما باید یک نام برای گروه خود را مشخص کنید</translation>
+        <translation>شما باید نامی را برای گروه بدهید...</translation>
     </message>
     <message>
         <source>Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted</source>
