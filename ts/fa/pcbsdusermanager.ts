@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>AddDlgCode</name>
     <message>
         <source>New Group</source>
-        <translation type="unfinished">گروه جدید</translation>
+        <translation>گروه تازه</translation>
     </message>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">ورودی خوب</translation>
+        <translation>درونداد خوب</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -96,19 +96,19 @@
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
-        <translation type="unfinished">- فیلد شاخه home پر نشده است.</translation>
+        <translation>- جلوی «پوشهٔ خانه» پر نشده است.</translation>
     </message>
     <message>
         <source>- The value entered as &apos;Home Directory&apos; is not a valid path.</source>
-        <translation type="unfinished">-مقداری که برای شاخه home وارد کرده اید نامعتبر است.</translation>
+        <translation>- «پوشهٔ خانه»ی داده شده یک گذرِ رَوا نیست.</translation>
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
-        <translation type="unfinished">قرار دادن شاخه /home/ خارج مسیر پیش فرض ممکن است برای بعضی از برنام ها مشکل ایجاد کد. این امر پیشنهاد نمی شود.  </translation>
+        <translation>- نهادن پوشهٔ خانه بیرون از &apos;/home/&apos; می‌تواند برای سازگاری برخی از برنامه‌ها دشواری‌هایی بیافریند و پیشنهاد نمی‌شود.</translation>
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
-        <translation type="unfinished">-برای شاخه home یک فایل انتخاب کردی. این متغیر باید یک شاخه باشد.</translation>
+        <translation>- بجای «پوشهٔ خانه» یک پرونده گزیده شده، این پیمانه باید یک پوشه باشد.</translation>
     </message>
     <message>
         <source>
@@ -127,11 +127,11 @@
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">خطا!</translation>
+        <translation>نادرستی!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">هشدار!</translation>
+        <translation>هشدار!</translation>
     </message>
     <message>
         <source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">خط فرمان:</translation>
+        <translation>پوسته:</translation>
     </message>
     <message>
         <source>Username:</source>
@@ -175,11 +175,11 @@
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">گروه اصلی:</translation>
+        <translation>گروه نخستین:</translation>
     </message>
     <message>
         <source>New &amp;Group</source>
-        <translation type="unfinished">گروه جدید</translation>
+        <translation>گروه &amp;تازه</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -191,7 +191,7 @@
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"> Alt+O</translation>
+        <translation>آلْت+أو</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>

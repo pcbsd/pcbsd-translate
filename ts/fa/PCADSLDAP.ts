@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -113,11 +113,11 @@
     </message>
     <message>
         <source>Active Directory Configuration</source>
-        <translation type="unfinished">پيكربندي Active Directory</translation>
+        <translation>پیکربندیِ Active Directory</translation>
     </message>
     <message>
         <source>The Active Directory passwords specified do not match!</source>
-        <translation type="unfinished">رمزعبور مشخص شده Active Directory يكسان نيست!</translation>
+        <translation>گذرواژه‌های داده شده برای Active Directory، هم‌خوانی ندارند!</translation>
     </message>
 </context>
 </TS>
