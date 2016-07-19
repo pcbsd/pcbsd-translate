@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -49,67 +49,67 @@
     </message>
     <message>
         <source>Enable LDAP</source>
-        <translation type="unfinished">فعال كردن LDAP</translation>
+        <translation>LDAP را بکار انداز</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Hostname</translation>
+        <translation>نام میزبانی</translation>
     </message>
     <message>
         <source>Base DN</source>
-        <translation type="unfinished">DN پايه</translation>
+        <translation>نام جدای پایه (Base DN)</translation>
     </message>
     <message>
         <source>Allow Anon Binding</source>
-        <translation type="unfinished">اجازه دهید چند لحظه بعد اتصال</translation>
+        <translation>بگذار پیوست ناشناس انجام شود</translation>
     </message>
     <message>
         <source>Root bind DN</source>
-        <translation type="unfinished">Root bind DN</translation>
+        <translation>نام جدای پیوست ریشه (Root bind DN)</translation>
     </message>
     <message>
         <source>Root bind password</source>
-        <translation type="unfinished">رمزعبور اتصال Root</translation>
+        <translation>گذرواژهٔ پیوست ریشه (Root)</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished">مرزعبور كد شده    </translation>
+        <translation>رازگذاری گذرواژه</translation>
     </message>
     <message>
         <source>User Suffix</source>
-        <translation type="unfinished">پسوند كاربر</translation>
+        <translation>پسوند كاربر</translation>
     </message>
     <message>
         <source>Group Suffix</source>
-        <translation type="unfinished">پسوند گروه</translation>
+        <translation>پسوند گروه</translation>
     </message>
     <message>
         <source>Password Suffix</source>
-        <translation type="unfinished">پسوند رمزعبور</translation>
+        <translation>پسوند گذرواژه</translation>
     </message>
     <message>
         <source>Machine Suffix</source>
-        <translation type="unfinished">پسوند ماشين</translation>
+        <translation>پسوندِ افزار</translation>
     </message>
     <message>
         <source>Encryption Mode</source>
-        <translation type="unfinished">حالت رمزگذاری</translation>
+        <translation>نهشِ رازگذاری</translation>
     </message>
     <message>
         <source>Self Signed Certificate</source>
-        <translation type="unfinished">امضا گواهي خود</translation>
+        <translation>گواهی خود دستینه کرده</translation>
     </message>
     <message>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">پارامترهای کمکی</translation>
+        <translation>داده‌های کمکی</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;ذخيره</translation>
+        <translation>&amp;نگهداری کن</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;بستن</translation>
+        <translation>&amp;ببند</translation>
     </message>
     <message>
         <source>Active Directory Configuration</source>
