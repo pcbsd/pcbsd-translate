@@ -203,11 +203,11 @@
     </message>
     <message>
         <source>The device is unavailable and should be re-added to the pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه دسترس‌پذیر نیست و باید دوباره به استخر افزوده شود.</translation>
     </message>
     <message>
         <source>%1 is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 دسترس‌پذیر نیست.</translation>
     </message>
 </context>
 </TS>
