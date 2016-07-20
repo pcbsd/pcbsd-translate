@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -25,55 +25,55 @@
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>برگزین</translation>
     </message>
     <message>
         <source>Unmount</source>
-        <translation type="unfinished"></translation>
+        <translation>پایین بیاور</translation>
     </message>
     <message>
         <source>Mount</source>
-        <translation>سوار کن</translation>
+        <translation>بنشان</translation>
     </message>
     <message>
         <source>Device Mounted</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه نشانده شد</translation>
     </message>
     <message>
         <source>%1 has been automatically mounted on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 بر روی %2 خودکار نشانده شد</translation>
     </message>
     <message>
         <source>Device Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه دارد کار می‌کند</translation>
     </message>
     <message>
         <source>The device appears to be busy. Do you want to forcibly unmount the device?</source>
-        <translation type="unfinished"></translation>
+        <translation> گویا دستگاه دارد کار می‌کند. آیا می‌خواهید دستگاه را به زور پایین آورید؟</translation>
     </message>
     <message>
         <source>Unmount Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی در پایین آوردن</translation>
     </message>
     <message>
         <source>The device could not be unmounted. Please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان دستگاه را پایین آورد. خواهشمند است زمانی دیگر دوباره کوشش کنید.</translation>
     </message>
     <message>
         <source>No Filesystem Detected</source>
-        <translation type="unfinished"></translation>
+        <translation>سامانهٔ پرونده‌ای پیدا نشد</translation>
     </message>
     <message>
         <source>Select a filesystem to try:</source>
-        <translation type="unfinished"></translation>
+        <translation>یک سامانهٔ پرونده را برای آزمودن برگزین:</translation>
     </message>
     <message>
         <source>The device could not be mounted. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه را نمی‌توان نشاند. خواهشمند است زمانی دیگر دوباره کوشش کنید.</translation>
     </message>
     <message>
         <source>Device Mounting Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستیِ نشاندن دستگاه</translation>
     </message>
 </context>
 <context>
@@ -114,11 +114,11 @@
     <name>MountTray</name>
     <message>
         <source>More Options</source>
-        <translation type="unfinished"></translation>
+        <translation>گزینه‌های بیشتر</translation>
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation type="unfinished"></translation>
+        <translation>بکار گرفته شدن گردک را نشان بده</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -126,11 +126,11 @@
     </message>
     <message>
         <source>Load ISO File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ ISO را باربگیر</translation>
     </message>
     <message>
         <source>Change Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>سماندهی‌ها را بدگران</translation>
     </message>
     <message>
         <source>Close Tray</source>
@@ -142,58 +142,58 @@
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه‌های پیوسته شده به سامانه دارند بازپویش می‌شوند</translation>
     </message>
     <message>
         <source>Select ISO File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ ISO را برگزین</translation>
     </message>
     <message>
         <source>ISO Files (*.iso)</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌های ISO (با پسوند iso)</translation>
     </message>
     <message>
         <source>Devices Available</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه‌های دسترس‌پذیر</translation>
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه‌های تازه‌ای برای به‌کارگیری دسترس‌پذیر</translation>
     </message>
     <message>
         <source>Network Shares</source>
-        <translation type="unfinished"></translation>
+        <translation>میانوند‌های تاری</translation>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
         <source>Mount Tray Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ساماندهی‌های سینیِ نشاندن</translation>
     </message>
     <message>
         <source>Monitor disk storage space</source>
-        <translation type="unfinished"></translation>
+        <translation>پهنهٔ انبارش گردک را پایش کن</translation>
     </message>
     <message>
         <source>Perform check on device notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>پیام‌های دستگاه را وارسی کن</translation>
     </message>
     <message>
         <source>Maximum time between checks (minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>بیشترین زمان بین وارسی‌ها (دقیقه)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>بهم بزن</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>بکار بگیر</translation>
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
