@@ -460,12 +460,5 @@ Please configure your WPA settings before saving!</source>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Enterprise (設定済み)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>WPA-Enterprise が選択されていますが、設定されていません。
-保存する前に WPA の設定を行ってください。正しいフェーズ2オプションの値は MD5, MSCHAPV2, GTC, OTP です。</translation>
-    </message>
 </context>
 </TS>
