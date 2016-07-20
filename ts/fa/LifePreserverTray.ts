@@ -179,27 +179,27 @@
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>استخر نابسامان است. نادرستی(ها)ی دیگر دستگاه را ببینید.</translation>
     </message>
     <message>
         <source>%1 is degraded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 نابسامان است.</translation>
     </message>
     <message>
         <source>The device is faulty, and should be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه درست کار نمی‌کند، و باید جایگزین شود.</translation>
     </message>
     <message>
         <source>%1 is faulty.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 درست کار نمی‌کند.</translation>
     </message>
     <message>
         <source>The device was removed, and should be either be re-attached or replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه جدا شده، و باید یا دوباره پیوسته شود یا جایگزین شود.</translation>
     </message>
     <message>
         <source>%1 was removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 جدا شد.</translation>
     </message>
     <message>
         <source>The device is unavailable and should be re-added to the pool.</source>
