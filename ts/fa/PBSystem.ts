@@ -17,19 +17,19 @@
     </message>
     <message>
         <source>Getting PC-BSD Ports Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>درخت سازگاره‌های PC-BSD دارد گرفته می‌شود</translation>
     </message>
     <message>
         <source>Getting PC-BSD Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>درخت بن‌مایه‌های PC-BSD دارد گرفته می‌شود</translation>
     </message>
     <message>
         <source>Process Running</source>
-        <translation type="unfinished"></translation>
+        <translation>پردازه دارد به انجام می‌رسد</translation>
     </message>
     <message>
         <source>Please stop the current process before closing this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>خواهشمند است پردازهٔ کنونی را پیش از بستن پنجره بازایستانید.</translation>
     </message>
 </context>
 <context>
@@ -44,15 +44,15 @@
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
-        <translation>همچنین شما می‌توانید یک  برگهٔ کاستی‌یابی با اطلاعات در مورد سامانه‌یتان پدید آورید. این برگه می‌تواند بدست کاردان‌ها برای مقاصد عیب یابی استفاده می شود.    </translation>
+        <translation>همچنین شما می‌توانید یک برگهٔ کاستی‌یابی با اطلاعات در مورد سامانه‌یتان پدید آورید. این برگه می‌تواند بدست کاردان‌ها برای مقاصد عیب یابی استفاده می شود.</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پدید آور</translation>
     </message>
     <message>
         <source>PC-BSD Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>ویرایش‌های PC-BSD</translation>
     </message>
     <message>
         <source>Base:</source>
