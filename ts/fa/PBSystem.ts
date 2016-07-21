@@ -56,23 +56,23 @@
     </message>
     <message>
         <source>Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>شالوده:</translation>
     </message>
     <message>
         <source>Backend Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>افزارهای پشت پایانی:</translation>
     </message>
     <message>
         <source>Graphical Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>افزارهای نگاره‌ای:</translation>
     </message>
     <message>
         <source>System Information</source>
-        <translation type="unfinished"></translation>
+        <translation>دانسته‌های سامانه</translation>
     </message>
     <message>
         <source>FreeBSD Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>ویرایش FreeBSD:</translation>
     </message>
     <message>
         <source>CPU Type:</source>
@@ -92,7 +92,7 @@
     </message>
     <message>
         <source>Fetch PC-BSD &amp;System Source</source>
-        <translation type="unfinished"></translation>
+        <translation>بن‌مایهٔ &amp;سامانهٔ PC-BSD را بازآور</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Fetch PC-BSD P&amp;orts Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>درخت ساز&amp;گاره‌های PC-BSD را بازآور</translation>
     </message>
     <message>
         <source>Misc</source>
@@ -108,7 +108,7 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بکار بگیر</translation>
     </message>
     <message>
         <source>Other Options</source>
@@ -120,31 +120,31 @@
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی</translation>
     </message>
     <message>
         <source>Error Generating Diagnostic File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کاستی‌یابیِ نادرستی ساز</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>پیروزی</translation>
     </message>
     <message>
         <source>Diagnostic File Created: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کاستی‌یابیِ درست شده: %1</translation>
     </message>
     <message>
         <source>Process Already Running</source>
-        <translation type="unfinished"></translation>
+        <translation>پردازه از پیش دارد انجام می‌شود</translation>
     </message>
     <message>
         <source>You already have a process running. Please wait for that one to finish first.</source>
-        <translation type="unfinished"></translation>
+        <translation>شما پردازه‌ای دارید که از پیش دارد انجام می‌شود. خواهشمند است بردباری کنید تا نخست آن پایان یابد.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>ببند</translation>
     </message>
 </context>
 </TS>

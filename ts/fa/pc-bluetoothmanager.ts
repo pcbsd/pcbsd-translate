@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>ب&amp;دگران</translation>
     </message>
     <message>
         <source>Devices Connected:</source>
@@ -25,15 +25,15 @@
     </message>
     <message>
         <source>&amp;Disconnect Device</source>
-        <translation type="unfinished"/>
+        <translation>دستگاه را &amp;ناپیوسته کن</translation>
     </message>
     <message>
         <source>Start &amp;Tray Application</source>
-        <translation type="unfinished"/>
+        <translation>برنامهٔ کاربردیِ &amp;سینی را آغاز کن</translation>
     </message>
     <message>
         <source>&amp;Restart Service</source>
-        <translation type="unfinished"/>
+        <translation>دستیاری را &amp;دوباره آغاز کن</translation>
     </message>
     <message>
         <source>New Devices</source>
@@ -41,11 +41,11 @@
     </message>
     <message>
         <source>&amp;Scan</source>
-        <translation type="unfinished"/>
+        <translation>&amp;پویش کن</translation>
     </message>
     <message>
         <source>&amp;Add Device</source>
-        <translation type="unfinished"/>
+        <translation>دستگاه بی&amp;افزای</translation>
     </message>
     <message>
         <source>Saved Devices</source>
@@ -53,15 +53,15 @@
     </message>
     <message>
         <source>&amp;Initiate Pairing</source>
-        <translation type="unfinished"/>
+        <translation>&amp;جفت‌شدن را آغاز کن</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"/>
+        <translation>&amp;پیکربندی کن</translation>
     </message>
     <message>
         <source>&amp;Remove Device</source>
-        <translation type="unfinished"/>
+        <translation>دستگاه را &amp;بردار</translation>
     </message>
     <message>
         <source>Searching for discoverable Bluetooth devices</source>
