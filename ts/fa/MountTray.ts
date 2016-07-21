@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -189,11 +189,11 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation>بکار بگیر</translation>
+        <translation>بکار گیر</translation>
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>گردک‌های نوری را خودبخود پخش کن</translation>
     </message>
 </context>
 </TS>

@@ -5,15 +5,15 @@
     <name>CMDDialog</name>
     <message>
         <source>CMD Output</source>
-        <translation type="unfinished"></translation>
+        <translation>برونداد CMD</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>بای&amp;ست</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>بب&amp;ند</translation>
     </message>
     <message>
         <source>Getting PC-BSD Ports Tree</source>
