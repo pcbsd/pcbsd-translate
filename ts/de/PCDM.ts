@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Benutze ein temporäres Heimverzeichnis, das beim Ausloggen gelöscht wird.</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Auffrischen</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Auffrischen der verfügbaren Accounts</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Wechseln des Gebietsschemas (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Auffrischen von PCDM</translation>
     </message>
 </context>
 <context>
