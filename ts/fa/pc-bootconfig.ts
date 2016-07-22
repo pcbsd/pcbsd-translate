@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -119,183 +119,183 @@
     </message>
     <message>
         <source> seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>دَمک (ثانیه)</translation>
     </message>
     <message>
         <source>Font File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ دبیره(قلم)</translation>
     </message>
     <message>
         <source>Font file for GRUB to use</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ دبیره(قلم) برای بکارگیری در GRUB</translation>
     </message>
     <message>
         <source>Select a font file for GRUB</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پروندهٔ دبیره(قلم) برای GRUB برگزینید</translation>
     </message>
     <message>
         <source>Display the GRUB menu during the countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>گزینگان(منو)ِ GRUB را هنگام شمارشِ وارون نمایش بده</translation>
     </message>
     <message>
         <source>Show Timer Countdown</source>
-        <translation type="unfinished"></translation>
+        <translation>شمارش وارون زمان‌سنج را نشان بده</translation>
     </message>
     <message>
         <source>Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ زمینه</translation>
     </message>
     <message>
         <source>Theme file for GRUB to use</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ زمینه برای بکارگیری در GRUB</translation>
     </message>
     <message>
         <source>Select a theme file for GRUB</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پروندهٔ زمینه برای GRUB برگزینید</translation>
     </message>
     <message>
         <source>Save the current settings configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی ساماندهی‌های کنونی را نگه دار</translation>
     </message>
     <message>
         <source>Re-load the GRUB settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ساماندهی‌های GRUB را بازبارگیری کن</translation>
     </message>
     <message>
         <source>Custom Entries</source>
-        <translation type="unfinished"></translation>
+        <translation>دارایه‌های سفارشی</translation>
     </message>
     <message>
         <source>Save the current entry configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی درایهٔ کنونی را نگه دار</translation>
     </message>
     <message>
         <source>Re-load the GRUB entries file</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ درایه‌های GRUB را بازبارگیری کن</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;پرونده</translation>
     </message>
     <message>
         <source>&amp;Emergency Services</source>
-        <translation type="unfinished"></translation>
+        <translation>دستیاری‌های &amp;نیازین(اضطراری)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ببند</translation>
     </message>
     <message>
         <source>Re&amp;build GRUB Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>گزینگان GRUB را دوباره &amp;درست کن</translation>
     </message>
     <message>
         <source>&amp;Restore GRUB Defaults</source>
-        <translation type="unfinished"></translation>
+        <translation>پیش‌برگزیده‌های GRUB را باز&amp;یافت کن</translation>
     </message>
     <message>
         <source>Invalid Name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام ناروا</translation>
     </message>
     <message>
         <source>A Boot Environment with that name already exists, please choose a different one.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Boot Environment names may only be comprised of letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Performing Boot Environment Changes. Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New BE name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a name for the new boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Running Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot make a copy of the currently running boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot rename a boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot rename the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a new name for this boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove the boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verify BE Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Theme File (theme.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a GRUB Font File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font File (*.pf2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rebuilding GRUB menu system. Please wait.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You currently have unsaved changes in the GRUB configuration. Do you want to quit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
