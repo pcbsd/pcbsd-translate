@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <source>Display the GRUB menu during the countdown</source>
-        <translation>گزینگان(منو)ِ GRUB را هنگام شمارشِ وارون نمایش بده</translation>
+        <translation>گزینگان(منو)ِ GRUB را هنگام شمارش وارون نمایش بده</translation>
     </message>
     <message>
         <source>Show Timer Countdown</source>
@@ -199,103 +199,103 @@
     </message>
     <message>
         <source>A Boot Environment with that name already exists, please choose a different one.</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پیرامون راه‌اندازی با این نام از پیش بوده است، خواهشمند است نام دیگری برگزینید.</translation>
     </message>
     <message>
         <source>Boot Environment names may only be comprised of letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>نامهای پیرامون‌های راه‌اندازی تنها می‌توانند دارای شماره و بندواژه(حرف) باشند</translation>
     </message>
     <message>
         <source>Performing Boot Environment Changes. Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>دگرگونی‌ِ پیرامون راه‌اندازی دارد انجام می‌شود. خواهشمند است بردباری کنید.</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>کار دارد انجام می‌شود</translation>
     </message>
     <message>
         <source>New BE name</source>
-        <translation type="unfinished"></translation>
+        <translation>نام تازهٔ پیرامون راه‌اندازی</translation>
     </message>
     <message>
         <source>Choose a name for the new boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation>برای پیرامون راه‌اندازی تازه یک نام برگزینید</translation>
     </message>
     <message>
         <source>Running Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>پیرامون راه‌اندازی دارد بکار گرفته می‌شود</translation>
     </message>
     <message>
         <source>You cannot make a copy of the currently running boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید از پیرامون راه‌اندازی‌ای که اکنون دارد بکار گرفته می‌شود رونوشت بردارید!</translation>
     </message>
     <message>
         <source>You cannot rename a boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید یک پیرامون راه‌اندازی را که اکنون دارد بکار گرفته می‌شود را بازنامگذاری کنید!</translation>
     </message>
     <message>
         <source>Default Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>پیرامون راه‌اندازی پیش‌برگزیده</translation>
     </message>
     <message>
         <source>You cannot rename the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید پیرامون راه‌اندازی‌ای که اکنون پیش‌برگزیده است را بازنامگذاری کنید!</translation>
     </message>
     <message>
         <source>Choose a new name for this boot environment</source>
-        <translation type="unfinished"></translation>
+        <translation>یک نام تازه برای این پیرامونِ راه‌اندازی برگزینید</translation>
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove the boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You cannot remove the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verify BE Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Theme File (theme.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a GRUB Font File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font File (*.pf2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rebuilding GRUB menu system. Please wait.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You currently have unsaved changes in the GRUB configuration. Do you want to quit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
