@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Backend Utilities:</source>
-        <translation>افزارهای پشت پایانی:</translation>
+        <translation>کارگشاهای پشت پایانی:</translation>
     </message>
     <message>
         <source>Graphical Utilities:</source>
-        <translation>افزارهای نگاره‌ای:</translation>
+        <translation>کارگشاهای نگاره‌ای:</translation>
     </message>
     <message>
         <source>System Information</source>

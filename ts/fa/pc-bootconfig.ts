@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -247,55 +247,55 @@
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>پیرامون راه‌اندازی تک</translation>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید تنها پیرامون راه‌اندازی را بردارید!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that you are currently running!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید پیرامون راه‌اندازی‌ای که اکنون بکارگرفته شده است را بردارید!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that is currently set as the default!</source>
-        <translation type="unfinished"></translation>
+        <translation>شما نمی‌توانید پیرامون راه‌اندازی‌ای که اکنون پیش‌برگزیده است را بردارید!</translation>
     </message>
     <message>
         <source>Verify BE Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>برداشتن پیرامون راه‌اندازی را درستی‌سنجی کن</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان می‌خواهید پیرامون راه‌اندازی زیر را بردارید؟</translation>
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پروندهٔ زمینهٔ GRUB برگزین</translation>
     </message>
     <message>
         <source>Theme File (theme.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ زمینه (theme.txt)</translation>
     </message>
     <message>
         <source>Select a GRUB Font File</source>
-        <translation type="unfinished"></translation>
+        <translation>یک پروندهٔ دبیره(قلم) GRUB را برگزین</translation>
     </message>
     <message>
         <source>Font File (*.pf2)</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ دبیره(قلم) (pf2.*)</translation>
     </message>
     <message>
         <source>Rebuilding GRUB menu system. Please wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>سامانهٔ گزینگان GRUB دارد دوباره‌سازی می‌شود. خواهشمند است بردباری کنید.</translation>
     </message>
     <message>
         <source>Unsaved Changes</source>
-        <translation type="unfinished"></translation>
+        <translation>دگرگونی‌های نگه نداشته شده</translation>
     </message>
     <message>
         <source>You currently have unsaved changes in the GRUB configuration. Do you want to quit anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>شما اکنون دگرگونی‌هایی در پیکربندی GRUB دارید که نگه نداشته شده‌اند. آیا می‌خواهید در هر روی اینجا را رها کنید؟</translation>
     </message>
 </context>
 </TS>

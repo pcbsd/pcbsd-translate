@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Note: This proxy configuration is for PC-BSD specific tools and utilities. Internet aware applications may still use their own proxy configuration, which will have to be manually configured.</source>
-        <translation>توجه: این تنظیمات Proxy فقط برای برنامه ها و ابزار های مخصوص PC-BSD است. برنامه هایی که از اینترنت استفاده می کنند شاید از این پیکربندی استفاده نکنند و باید به صورت دستی پیکربندی شوند.</translation>
+        <translation>توجه: این تنظیمات Proxy فقط برای برنامه ها و کارگشاهای مخصوص PC-BSD است. برنامه هایی که از اینترنت استفاده می کنند شاید از این پیکربندی استفاده نکنند و باید به صورت دستی پیکربندی شوند.</translation>
     </message>
     <message>
         <source>&amp;Apply</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -798,15 +798,15 @@
     </message>
     <message>
         <source>External Utilities</source>
-        <translation>ابزارهای بیرونی</translation>
+        <translation>کارگشاهای بیرونی</translation>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation>ابزار تغییر کاربر</translation>
+        <translation>کارگشای تغییر کاربر</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation> مسیر کامل به ابزار گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation> مسیر کامل به کارگشای گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation>با EasyPBI سامانه را برای ابزارهای دسترسی‌پذیر بازپویش کن.</translation>
+        <translation>با EasyPBI سامانه را برای کارگشاهای دسترسی‌پذیر بازپویش کن.</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
@@ -882,15 +882,15 @@
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation>ابزار گرافیکی تغییر کاربر را برگزین</translation>
+        <translation>کارگشای گرافیکی تغییر کاربر را برگزین</translation>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation>آیا مطمئن هستید که می‌خواهید به مسیرهای ابزاری که خودکار آشکارسازی شده‌اند برگردید؟</translation>
+        <translation>آیا بی‌گمان می‌خواهید به مسیرهای کارگشاهایی که به شیوهٔ خودکار پیدا شده‌اند برگردید؟</translation>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation>این همه تنظیمات سفارشی‌سازی شده مسیر را برای ابزارهای بیرونی پاک می‌کند.</translation>
+        <translation>این همهٔ ساماندهی‌های سفارشی‌سازی شده مسیر را برای کارگشاهای بیرونی پاک می‌کند.</translation>
     </message>
 </context>
 <context>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>BPIها را تند و آسان بساز.</translation>
     </message>
     <message>

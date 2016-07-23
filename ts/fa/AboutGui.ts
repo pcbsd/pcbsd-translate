@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation>ابزارهای واسط خط فرمان PC-BSD:</translation>
+        <translation>کارگشاهای واسط خط فرمان PC-BSD:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
-        <translation>ابزارهای واسط کاربری PC-BSD:</translation>
+        <translation>کارگشاهای واسط کاربری PC-BSD:</translation>
     </message>
     <message>
         <source>Package set:</source>
