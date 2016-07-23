@@ -163,12 +163,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-netmanager/src/NetworkTray/netKey.cpp" line="44"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-netmanager/src/NetworkTray/netKey.cpp" line="43"/>
         <source>Network Key Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-netmanager/src/NetworkTray/netKey.cpp" line="44"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-netmanager/src/NetworkTray/netKey.cpp" line="43"/>
         <source>Error: The entered network keys do not match!
 </source>
         <translation type="unfinished"></translation>
