@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="et">
 <context>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="151"/>
         <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>Kas lubada kaugligipääs AppCafe'le? Pakke ja vanglaid saab seejärel hallata veebibrauserist või telefonist.</translation>
+        <translation>Kas lubada kaugligipääs AppCafe&apos;le? Pakke ja vanglaid saab seejärel hallata veebibrauserist või telefonist.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="161"/>
