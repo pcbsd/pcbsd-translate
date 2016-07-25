@@ -9,39 +9,39 @@
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
-        <translation type="unfinished"/>
+        <translation>خواهشمند است بخشی که در آن نادرستی رخ می‌دهد را برگزینید.</translation>
     </message>
     <message>
         <source>FreeBSD base system</source>
-        <translation type="unfinished"/>
+        <translation>سامانهٔ پایهٔ FreeBSD</translation>
     </message>
     <message>
         <source>PC-BSD base system</source>
-        <translation type="unfinished"/>
+        <translation>سامانهٔ پایهٔ PC-BSD</translation>
     </message>
     <message>
         <source>Xorg server</source>
-        <translation type="unfinished"/>
+        <translation>کارساز Xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished"/>
+        <translation>پیرامونِ رومیزی</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished"/>
+        <translation>نرم‌افزار FreeBSD (سازگاره‌ها یا بسته‌ها)</translation>
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished"/>
+        <translation>نرم‌افزار PC-BSD (با پسوند pbi)</translation>
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
-        <translation type="unfinished"/>
+        <translation>۱- یک گزارشِ دشواره‌ با سازوکارِ باگزیلای FreeBSD بفرست</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>۲- رایانامه‌ای به فهرست پستیِ دشواره‌های FreeBSD بفرست. تاربرگ زیر را برای</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
