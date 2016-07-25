@@ -602,7 +602,7 @@
     </message>
     <message>
         <source>C&amp;hange Password...</source>
-        <translation type="unfinished">تغییر رمزعبور... </translation>
+        <translation>گذرواژه را &amp;دگرگون کن...</translation>
     </message>
     <message>
         <source>Alt+H</source>
@@ -613,7 +613,7 @@
     <name>SimpleDlgCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">ورودی خوب</translation>
+        <translation>درونداد خوب</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -636,7 +636,7 @@
     <name>mainDlgCode</name>
     <message>
         <source>New User</source>
-        <translation type="unfinished">کاربر جدید</translation>
+        <translation>کاربر تازه</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
