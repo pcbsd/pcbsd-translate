@@ -37,48 +37,48 @@
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
-        <translation>۱- یک گزارشِ دشواره‌ با سازوکارِ باگزیلای FreeBSD بفرست</translation>
+        <translation>۱- با سازوکارِ باگزیلای FreeBSD یک گزارشِ دشواره بفرستید</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>۲- رایانامه‌ای به فهرست پستیِ دشواره‌های FreeBSD بفرست. تاربرگ زیر را برای</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;۲-رایانامه‌ای به فهرست پستیِ دشواره‌های FreeBSD بفرستید. برای هم‌بست شدن به این فهرست و یا خواندن بایگانی‌های آن از تاربرگ زیر دیدن کنید.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
-        <translation type="unfinished"/>
+        <translation>۱- با سازوکار ترَکِ PC-BSD یک گزارشِ دشواره بفرستید</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
 Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"/>
+        <translation>اگر بی‌گمان نیستید که این یک دشواره است می‌توانید دربارهٔ آن در فهرست پستی آزمودن پرسش کنید. برای هم‌بست شدن به این فهرست و یا خواندن بایگانی‌های آن از تاربرگ زیر دیدن کنید.</translation>
     </message>
     <message>
         <source>X.org server</source>
-        <translation type="unfinished"/>
+        <translation>کارسازِ X.org</translation>
     </message>
     <message>
         <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
-        <translation type="unfinished"/>
+        <translation>۱- با سازوکارِ باگزیلای freedesktop یک گزارشِ دشواره بفرستید</translation>
     </message>
     <message>
         <source>2. Send an email to the xorg testing mailing list. Visit the following web page to subscribe to or read the archives of this list</source>
-        <translation type="unfinished"/>
+        <translation>۲- یک رایانامه به فهرست پستی آزمودنِ xorg بفرستید. برای هم‌بست شدن به این فهرست و یا خواندن بایگانی‌های آن از تاربرگ زیر دیدن کنید.</translation>
     </message>
     <message>
         <source>3. If you think that problem is FreeBSD specific please report bug to freebsd-x11 maillist</source>
-        <translation type="unfinished"/>
+        <translation>۳- اگر می‌پندارید که دشواری در پیوند با FreeBSD است، خواهشمند است به فهرست پستیِ freebsd-x11 دشواره گزارش بدهید</translation>
     </message>
     <message>
         <source>4. If you think that problem is PC-BSD specific, please create a ticket on the bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>۴- اگر می‌پندارید که دشواری در پیوند با PC-BSD است، خواهشمند است یک گذرانه در پی‌گیرِ دشواره(bug tracker) بسازید.</translation>
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished"/>
+        <translation>خواهشمند است پیرامون رومیزی‌ای که مایهٔ دشواری است را برگزینید:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"/>
+        <translation>نمونهٔ تازه</translation>
     </message>
     <message>
         <source>Gnome</source>
