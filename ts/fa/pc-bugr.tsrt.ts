@@ -82,23 +82,23 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Gnome</source>
-        <translation type="unfinished"/>
+        <translation>گنوم</translation>
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation type="unfinished"/>
+        <translation>۱- رایانامه‌ای به فهرست پستی freebsd-gnome بفرستید</translation>
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>۲- یک گذرانه در پی‌گیر دشوارهٔ PC-BSD بسازید.</translation>
     </message>
     <message>
         <source>KDE</source>
-        <translation type="unfinished"/>
+        <translation>کِی‌دی‌ئی</translation>
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation type="unfinished"/>
+        <translation>۱- یک گزارش دشواره به پی‌گیرِ دشوارهٔ KDE بفرستید</translation>
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
