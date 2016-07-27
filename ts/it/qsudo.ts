@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -17,15 +17,15 @@
     </message>
     <message>
         <source>Access Denied</source>
-        <translation>Accesso Negato</translation>
+        <translation>Accesso negato</translation>
     </message>
     <message>
         <source>This user does not have administrator permissions on this system!</source>
-        <translation>Questo utente non ha permessi di amministratore su questo sistema!</translation>
+        <translation>Questo utente non ha permessi di amministrazione su questo sistema!</translation>
     </message>
     <message>
         <source>Invalid Password! Tries Left: %1</source>
-        <translation>Password Non Valida! Tentativi Rimasti: %1</translation>
+        <translation>Password non valida! Tentativi rimasti: %1</translation>
     </message>
 </context>
 </TS>

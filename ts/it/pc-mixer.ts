@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -6,12 +6,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Da</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="85"/>
         <source>L</source>
-        <translation type="unfinished">S</translation>
+        <translation type="unfinished">L</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="95"/>
@@ -21,18 +21,18 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="109"/>
         <source>R</source>
-        <translation type="unfinished">D</translation>
+        <translation type="unfinished">R</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="130"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.cpp" line="65"/>
         <source>Mute</source>
-        <translation type="unfinished">Muta</translation>
+        <translation>Muto</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.cpp" line="62"/>
         <source>Unmute</source>
-        <translation type="unfinished">Smuta</translation>
+        <translation>Non muto</translation>
     </message>
 </context>
 <context>
@@ -50,17 +50,17 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="49"/>
         <source>System Configuration</source>
-        <translation type="unfinished">Configurazione di Sistema</translation>
+        <translation>Configurazione del sistema</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="61"/>
         <source>Recording Device:</source>
-        <translation type="unfinished">Dispositivo di Cattura:</translation>
+        <translation>Dispositivo di cattura:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="80"/>
         <source>Default Tray Device:</source>
-        <translation type="unfinished">Periferica in Tray Predefinita:</translation>
+        <translation type="unfinished">Periferica in tray Predefinita:</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="93"/>
@@ -85,7 +85,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="152"/>
         <source>Close Mixer and Tray</source>
-        <translation type="unfinished">Chiudi Mixer e Tray</translation>
+        <translation>Chiudi mixer e tray</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="161"/>
@@ -95,22 +95,22 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="170"/>
         <source>Change &amp;Audio Device</source>
-        <translation type="unfinished">Cambia Periferica &amp;Audio</translation>
+        <translation>Cambia periferica &amp;audio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="173"/>
         <source>pc-su pc-soundconfig</source>
-        <translation type="unfinished"></translation>
+        <translation>pc-su pc-soundconfig</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="182"/>
         <source>&amp;PulseAudio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore di PulseAudio</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="185"/>
         <source>pavucontrol</source>
-        <translation type="unfinished"></translation>
+        <translation>pavucontrol</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="194"/>
@@ -138,7 +138,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="33"/>
         <source>Output</source>
-        <translation type="unfinished">Output</translation>
+        <translation>Uscita</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
         <name>ExeDialog</name>
         <message>
             <source>Package Executable</source>
-            <translation>Pacchetto Eseguibile</translation>
+            <translation>Pacchetto eseguibile</translation>
     </message>
         <message>
             <source>Executable Icon</source>

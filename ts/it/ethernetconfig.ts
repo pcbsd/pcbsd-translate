@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>ethernetconfig</name>
     <message>
@@ -17,19 +17,19 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Applica</translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Disable this networ&amp;k device</source>
@@ -37,19 +37,19 @@
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+D</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished">&amp;Generale</translation>
+        <translation>&amp;Generale</translation>
     </message>
     <message>
         <source>Network address configuration</source>
-        <translation type="unfinished">Configurazione indirizzi di rete</translation>
+        <translation>Configurazione indirizzi di rete</translation>
     </message>
     <message>
         <source>Assign static IP address</source>
-        <translation type="unfinished">Assegna indirizzi IP statici</translation>
+        <translation>Assegna indirizzi IP statici</translation>
     </message>
     <message>
         <source>IP:</source>
@@ -81,39 +81,39 @@
     </message>
     <message>
         <source>Custom MAC address</source>
-        <translation type="unfinished">MAC Address Personalizzato</translation>
+        <translation>Indirizzo MAC personalizzato</translation>
     </message>
     <message>
         <source>IPv6 static address</source>
-        <translation type="unfinished">Indirizzo IPv6 Statico</translation>
+        <translation>Indirizzo IPv6 statico</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished">Indirizzo:</translation>
+        <translation>Indirizzo:</translation>
     </message>
     <message>
         <source>Obtain IPv6 address automaticall&amp;y</source>
-        <translation type="unfinished">Ottieni indizzo IPv6 automaticamente</translation>
+        <translation>Ottieni indizzo IPv6 automaticamente</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <source>I&amp;nfo</source>
-        <translation type="unfinished">I&amp;nformazioni</translation>
+        <translation type="unfinished">&amp;Informazioni</translation>
     </message>
     <message>
         <source>Configuration info</source>
-        <translation type="unfinished">Informazioni sulla configurazione</translation>
+        <translation>Informazioni sulla configurazione</translation>
     </message>
     <message>
         <source>Gateway:</source>
-        <translation type="unfinished">Gateway:</translation>
+        <translation>Gateway:</translation>
     </message>
     <message>
         <source>IPv6:</source>
-        <translation type="unfinished">IPv6:</translation>
+        <translation>IPv6:</translation>
     </message>
     <message>
         <source>Mac:</source>
@@ -154,28 +154,28 @@
     <message>
         <source>You must enter an IP and Netmask to continue!
 </source>
-        <translation type="unfinished">Occorre inserire un IP e una Netmask per proseguire!
+        <translation>Occorre inserire un IP e una maschera di rete per proseguire!
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attenzione</translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>IP Address is out of range! (</source>
-        <translation type="unfinished">L&apos;indirizzo IP non è valido! (</translation>
+        <translation>L&apos;indirizzo IP non è valido! (</translation>
     </message>
     <message>
         <source>) Fields must be between 0-255.</source>
-        <translation type="unfinished">) I campi devono essere compresi tra 0 e 255.</translation>
+        <translation>) I campi devono essere compresi tra 0 e 255.</translation>
     </message>
     <message>
         <source>Netmask is out of range! (</source>
-        <translation type="unfinished">La Netmask non è valida! (</translation>
+        <translation>La maschera di rete non è valida! (</translation>
     </message>
     <message>
         <source>configuration</source>
-        <translation type="unfinished">configurazione</translation>
+        <translation>configurazione</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>

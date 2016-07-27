@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -9,11 +9,11 @@
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished">Versione:</translation>
+        <translation>Versione:</translation>
     </message>
     <message>
         <source>&lt;Unknown&gt;</source>
-        <translation type="unfinished">&lt;Sconosciuto&gt;</translation>
+        <translation>&lt;Sconosciuto&gt;</translation>
     </message>
     <message>
         <source>Host:</source>
@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>????</source>
-        <translation type="unfinished">????</translation>
+        <translation>????</translation>
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation type="unfinished">FreeBSD base</translation>
+        <translation>Base FreeBSD</translation>
     </message>
     <message>
         <source>Arch:</source>
-        <translation type="unfinished">Architettura:</translation>
+        <translation>Architettura:</translation>
     </message>
     <message>
         <source>ident</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Hardware</source>
-        <translation type="unfinished">Hardware</translation>
+        <translation>Hardware</translation>
     </message>
     <message>
         <source>CPU:</source>
@@ -49,35 +49,35 @@
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished">Indietro</translation>
+        <translation>Indietro</translation>
     </message>
     <message>
         <source>Desktop environments:</source>
-        <translation type="unfinished">Ambienti Desktop:</translation>
+        <translation>Ambienti desktop:</translation>
     </message>
     <message>
         <source>(Please wait...)</source>
-        <translation type="unfinished">(Attendere prego...)</translation>
+        <translation>(Attendere prego...)</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versione</translation>
+        <translation>Versione</translation>
     </message>
     <message>
         <source>X.org server version:</source>
-        <translation type="unfinished">Versione server X.org:</translation>
+        <translation>Versione server X.org:</translation>
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation type="unfinished">Strumenti CLI di PC-BSD:</translation>
+        <translation>Strumenti da riga di comando di PC-BSD:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
-        <translation type="unfinished">UI utilities di PC-BSD:</translation>
+        <translation>Strumenti da interfaccia grafica di PC-BSD:</translation>
     </message>
     <message>
         <source>Package set:</source>

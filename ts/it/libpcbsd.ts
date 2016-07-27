@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InternetGateway</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>(SSID required)</source>
-        <translation type="unfinished"></translation>
+        <translation>(richiesto SSID)</translation>
     </message>
     <message>
         <source>Set Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta la password:</translation>
     </message>
     <message>
         <source>WPA Password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Password WPA (facoltativa)</translation>
     </message>
     <message>
         <source>Advanced Configuration (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione avanzata (facoltativa)</translation>
     </message>
     <message>
         <source>Base IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP base:</translation>
     </message>
     <message>
         <source>192.168.0.1</source>
-        <translation type="unfinished"></translation>
+        <translation>192.168.0.1</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished"></translation>
+        <translation>Maschera di rete:</translation>
     </message>
     <message>
         <source>255.255.255.0</source>
-        <translation type="unfinished"></translation>
+        <translation>255.255.255.0</translation>
     </message>
     <message>
         <source>Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modo:</translation>
     </message>
     <message>
         <source>11g</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>11ng</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>11n</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Country Code:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2-letter country code (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply</source>
@@ -89,123 +89,123 @@
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid Password Length</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunghezza password non valida</translation>
     </message>
     <message>
         <source>WPA password must be a minimum of 8 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation>La password WPA deve essere lunga minimo 8 caratteri.</translation>
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il driver della scheda di rete senza fili non supporta la modalità "access point".</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation type="unfinished"></translation>
+        <translation>Non posso creare l'access point (wlan0 è già attiva?)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riuscito</translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSelectDialog</name>
     <message>
         <source>Select keyboard layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta mappatura della tastiera</translation>
     </message>
     <message>
         <source>Keyboard layout:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappatura della tastiera:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ricerca...</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variante:</translation>
     </message>
 </context>
 <context>
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Tasti di cambio della mappatura di tastiera.</translation>
     </message>
     <message>
         <source>Alt + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+Maiusc</translation>
     </message>
     <message>
         <source>Ctrl + Shift</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Maiusc</translation>
     </message>
     <message>
         <source>Alt + Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt + Spazio</translation>
     </message>
     <message>
         <source>Other options</source>
-        <translation type="unfinished"></translation>
+        <translation>Altre opzioni</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Backspace terminates xorg</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Alt+Backspace interrompe xorg</translation>
     </message>
 </context>
 <context>
@@ -252,39 +252,39 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     </message>
     <message>
         <source>WPA Enterprise Configuration</source>
-        <translation type="unfinished">Configurazione WPA Enterprise</translation>
+        <translation>Configurazione WPA Enterprise</translation>
     </message>
     <message>
         <source>EAP authentication method</source>
-        <translation type="unfinished">Metodo di autenticazione EAP</translation>
+        <translation>Metodo di autenticazione EAP</translation>
     </message>
     <message>
         <source>EAP-TLS</source>
-        <translation type="unfinished">EAP-TLS</translation>
+        <translation>EAP-TLS</translation>
     </message>
     <message>
         <source>EAP-TTLS</source>
-        <translation type="unfinished">EAP-TTLS</translation>
+        <translation>EAP-TTLS</translation>
     </message>
     <message>
         <source>EAP-PEAP</source>
-        <translation type="unfinished">EAP-PEAP</translation>
+        <translation>EAP-PEAP</translation>
     </message>
     <message>
         <source>EAP Identity:</source>
-        <translation type="unfinished">Identità EAP:</translation>
+        <translation>Identità EAP:</translation>
     </message>
     <message>
         <source>CA Certificate:</source>
-        <translation type="unfinished">Certificato CA:</translation>
+        <translation>Certificato CA:</translation>
     </message>
     <message>
         <source>Client Certificate:</source>
-        <translation type="unfinished">Certificato Client:</translation>
+        <translation>Certificato client:</translation>
     </message>
     <message>
         <source>Private Key File:</source>
-        <translation type="unfinished">File della Chiave Privata:</translation>
+        <translation>File per la chiave privata:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -309,6 +309,42 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     <message>
         <source>Alt+C</source>
         <translation type="unfinished">Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation type="unfinished">Autenticazione fase 2:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Identità anonima:</translation>
     </message>
 </context>
 <context>
@@ -351,11 +387,11 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     </message>
     <message>
         <source>View Packages</source>
-        <translation type="unfinished">Visualizza Pacchetti</translation>
+        <translation>Recupera pacchetti</translation>
     </message>
     <message>
         <source>Package Listing for:</source>
-        <translation type="unfinished">Elenco dei pacchetti:</translation>
+        <translation>Elenco dei pacchetti:</translation>
     </message>
 </context>
 </TS>
