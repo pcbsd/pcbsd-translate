@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Select a font file for GRUB</source>
-        <translation>Wybierz plik czcionek dla GRUB'a</translation>
+        <translation>Wybierz plik czcionek dla GRUB&apos;a</translation>
     </message>
     <message>
         <source>Display the GRUB menu during the countdown</source>
