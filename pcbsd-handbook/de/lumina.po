@@ -8,12 +8,16 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 12:13-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-07-28 17:21+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1469726505.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
@@ -29,7 +33,7 @@ msgstr ""
 
 #: ../../lumina.rst:14
 msgid "Lumina's features include:"
-msgstr ""
+msgstr "Lumina-Funktionen beinhalten:"
 
 #: ../../lumina.rst:16
 msgid "Very little system overhead."
@@ -85,7 +89,7 @@ msgstr ""
 
 #: ../../lumina.rst:48
 msgid "Start Menu"
-msgstr ""
+msgstr "Startmenü"
 
 #: ../../lumina.rst:50
 msgid ":numref:`Figure %s: Lumina Desktop <lumina1c>` shows a screenshot of Lumina on a PC-BSD® system. The user has clicked the \"fireball\" icon in order to open the start menu."
@@ -209,7 +213,7 @@ msgstr ""
 
 #: ../../lumina.rst:149
 msgid "Lumina Configuration"
-msgstr ""
+msgstr "Lumina-Konfiguration"
 
 #: ../../lumina.rst:151
 msgid "The Lumina Configuration utility, shown in :numref:`Figure %s: Lumina Desktop Configuration <lumina3b>`, can be used to configure every aspect of the desktop and is the recommended way to make changes. To launch this utility, click the start menu then :menuselection:`Preferences --> Configure Desktop`, right-click the desktop and click :menuselection:`Preferences --> Desktop`, or type :command:`lumina-config` from an xterm."
@@ -229,7 +233,7 @@ msgstr ""
 
 #: ../../lumina.rst:171
 msgid "Appearance"
-msgstr ""
+msgstr "Erscheinungsbild"
 
 #: ../../lumina.rst:173
 msgid "This tab is used to change the visual appearance and functionality of the desktop on a per-screen basis. The \"Wallpaper\" tab, shown in :numref:`Figure %s: Lumina Desktop Configuration <lumina3b>`, can be used to add a wallpaper (\"+\" button) or remove (\"-\" button) a wallpaper. When you click the \"+\" button, the drop-down menu can be used to select the file(s), a single directory, a directory and all of its subdirectories, or a solid color to use as the wallpaper. If multiple images are selected, the \"Rotate Background\" button can be selected as well as a specified time interval in minutes to rotate to the next image."
@@ -253,7 +257,7 @@ msgstr ""
 
 #: ../../lumina.rst:209
 msgid "Interface"
-msgstr ""
+msgstr "Oberfläche"
 
 #: ../../lumina.rst:211
 msgid "The \"Interface\" tab is used to configure the desktop right-click menu and panel. Its \"Desktop\" tab, shown in :numref:`Figure %s: Right-Click Menu Configuration <lumina4c>`, is used to configure which items appear in the right-click menu and which items are embedded onto the desktop."
@@ -369,7 +373,7 @@ msgstr ""
 
 #: ../../lumina.rst:300
 msgid "**Time/Date:** displays the current time and date."
-msgstr ""
+msgstr "**Zeit/Datum:** zeigt die aktuelle Uhrzeit und das Datum an."
 
 #: ../../lumina.rst:302
 msgid "**User Button:** main button for accessing applications, directories, settings, and log out."
@@ -385,7 +389,7 @@ msgstr ""
 
 #: ../../lumina.rst:313
 msgid "Applications"
-msgstr ""
+msgstr "Anwendungen"
 
 #: ../../lumina.rst:315
 msgid "The \"Applications\" tab, shown in :numref:`Figure %s: Lumina Applications Configuration <lumina6b>`, is used to configure which applications start when you login to Lumina as well as the default applications and file types."
@@ -429,7 +433,7 @@ msgstr ""
 
 #: ../../lumina.rst:366
 msgid "Session"
-msgstr ""
+msgstr "Sitzung"
 
 #: ../../lumina.rst:368
 msgid "The \"Session\" tab, shown in :numref:`Figure %s: Session General Options Tab <lumina12d>`, governs the general settings for the desktop session. These settings are usually not changed on a frequent basis."
@@ -481,7 +485,7 @@ msgstr ""
 
 #: ../../lumina.rst:418
 msgid "Lumina Utilities"
-msgstr ""
+msgstr "Lumina-Dienstprogramme"
 
 #: ../../lumina.rst:420
 msgid "Lumina provides many built-in utilities, which are described in this chapter."
@@ -489,7 +493,7 @@ msgstr ""
 
 #: ../../lumina.rst:426
 msgid "Lumina Screenshot"
-msgstr ""
+msgstr "Lumina-Bildschirmfoto"
 
 #: ../../lumina.rst:428
 msgid "This utility can be used to take screenshots of the desktop or selected window and save them as PNG image files. To launch this utility, click the start menu and select :menuselection:`Browse Applications --> Utility --> Lumina Screenshot`, right-click the desktop and select :menuselection:`Applications --> Utility --> Lumina Screenshot`, type :command:`lumina-screenshot` from a terminal window, or press the :kbd:`Print Screen` button."
@@ -581,7 +585,7 @@ msgstr ""
 
 #: ../../lumina.rst:524
 msgid "Lumina Search"
-msgstr ""
+msgstr "Lumina-Suche"
 
 #: ../../lumina.rst:526
 msgid "Lumina Search provides the ability to easily search for and launch applications or to quickly search for file and directories. The \"*\" wildcard can be used in the search terms and the search will include hidden files if the search term starts with a dot (\".\")."
@@ -609,7 +613,7 @@ msgstr ""
 
 #: ../../lumina.rst:561
 msgid "Lumina File Information"
-msgstr ""
+msgstr "Lumina-Dateiinformationen"
 
 #: ../../lumina.rst:563
 msgid "The :command:`lumina-fileinfo` utility can be used to open a graphical window summarizing the size, permissions and ownership, creation time, and last modification time of the specified file or directory. In the example shown in in :numref:`Figure %s: Sample File Information <file1>`, the user has typed :command:`lumina-fileinfo Downloads` from a terminal window to view the file information of their :file:`~/Downloads` directory."
@@ -617,7 +621,7 @@ msgstr ""
 
 #: ../../lumina.rst:575
 msgid "Lumina Information"
-msgstr ""
+msgstr "Lumina-Informationen"
 
 #: ../../lumina.rst:577
 msgid "This utility provides information about the version of Lumina, as well as the license, acknowledgements, and Project links. To launch this utility, right-click the desktop and select :menuselection:`Preferences --> About Lumina`, click the start menu then the question mark icon in \"Preferences\", or type :command:`lumina-info` in a terminal window. An example is shown in :numref:`Figure %s: About Lumina <about1a>`."

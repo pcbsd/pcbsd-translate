@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
-        <translation>1. Sottometti una segnalazione bug usando Bugzilla di FreeBSD</translation>
+        <translation>1. Sottometti una segnalazione bug tramite il Bugzilla di FreeBSD</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2. Send an email to the FreeBSD bugs mailing list. Visit the following web page to subscribe to or read the archives of this list&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>1. Submit a bug report using using PC-BSD's trac mechanism</source>
-        <translation>1. Sottometti una segnalazione bug usando il trac di PC-BSD</translation>
+        <translation>1. Sottometti una segnalazione bug tramite il trac di PC-BSD</translation>
     </message>
     <message>
         <source>If you are not sure it is a bug, you can ask about it on the PC-BSD testing mailing list. 
@@ -123,7 +123,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
-        <translation>1. Puoi segnalare un bug sul sito Sourceforge usando il bug tracker di LXDE </translation>
+        <translation>1. Puoi segnalare un bug tramite il bug tracker di LXDE  su Sourceforge </translation>
     </message>
     <message>
         <source>MATE</source>
@@ -131,7 +131,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
-        <translation>1. Puoi segnalare un bug sulla categoria MATE usando il relativo bug tracker del sito GitHub</translation>
+        <translation>1. Puoi segnalare un bug sulla categoria MATE tramite il relativo bug tracker del sito GitHub</translation>
     </message>
     <message>
         <source>Cinnamon</source>
@@ -139,7 +139,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation>1. Puoi segnalare un bug usando il bug tracker di Cinnamon su GitHub</translation>
+        <translation>1. Puoi segnalare un bug tramite il bug tracker di Cinnamon su GitHub</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>

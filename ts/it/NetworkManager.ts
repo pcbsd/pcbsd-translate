@@ -28,7 +28,7 @@
     <name>NetworkMan</name>
     <message>
         <source>PC-BSD Network Manager</source>
-        <translation type="unfinished">PC-BSD Network Manager</translation>
+        <translation>Gestore di rete di PC-BSD</translation>
     </message>
     <message>
         <source>Devices</source>

@@ -61,11 +61,11 @@
     </message>
     <message>
         <source>Enable WPA authentication</source>
-        <translation type="unfinished">Abilita l&apos;autenticazione WPA</translation>
+        <translation>Abilita l&apos;autenticazione WPA</translation>
     </message>
     <message>
         <source>Configure &amp;WPA</source>
-        <translation type="unfinished">Configura &amp;WPA            </translation>
+        <translation>Configura &amp;WPA            </translation>
     </message>
     <message>
         <source>Advanced</source>

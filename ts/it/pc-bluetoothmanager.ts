@@ -5,31 +5,31 @@
     <name>btmaingui</name>
     <message>
         <source>BlueTooth Manager</source>
-        <translation type="unfinished">Gestore BlueTooth</translation>
+        <translation>Gestore Bluetooth</translation>
     </message>
     <message>
         <source>Current Settings</source>
-        <translation type="unfinished">Impostazioni Correnti</translation>
+        <translation>Impostazioni attuali</translation>
     </message>
     <message>
         <source>Computer/Device ID</source>
-        <translation type="unfinished">ID Computer/Dispositivo</translation>
+        <translation>ID Computer/Dispositivo</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cambia</translation>
     </message>
     <message>
         <source>Devices Connected:</source>
-        <translation type="unfinished">Dispositivi Connessi:</translation>
+        <translation>Dispositivi collegati:</translation>
     </message>
     <message>
         <source>&amp;Disconnect Device</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">&amp;Scollega dispositivo</translation>
     </message>
     <message>
         <source>Start &amp;Tray Application</source>
-        <translation type="unfinished"/>
+        <translation>Avvio applicazione tray</translation>
     </message>
     <message>
         <source>&amp;Restart Service</source>
@@ -93,19 +93,19 @@
     </message>
     <message>
         <source>Invalid Permissions</source>
-        <translation type="unfinished">Autorizzazione non valida</translation>
+        <translation>Autorizzazioni non valide</translation>
     </message>
     <message>
         <source>This program must be run with root permissions to save device settings</source>
-        <translation type="unfinished">Per salvare le impostazioni del dispostivo è necessario avviare il programma con i permessi da amministratore.</translation>
+        <translation>Questo programma deve essere avviato con permessi di root per salvare le impostazioni del dispositivo.</translation>
     </message>
     <message>
         <source>PIN Code (Examples: 0000, 1234, or none)</source>
-        <translation type="unfinished">Codice PIN (Ad esempio: 0000, 1234, oppure niente)</translation>
+        <translation>Codice PIN (Ad esempio: 0000, 1234, oppure niente)</translation>
     </message>
     <message>
         <source>Link Key (Leave blank for automatic)</source>
-        <translation type="unfinished">Link Key (è automatica se lasciata bianca)</translation>
+        <translation>Chiave di link (è automatica se lasciata bianca)</translation>
     </message>
     <message>
         <source>Device Configuration</source>

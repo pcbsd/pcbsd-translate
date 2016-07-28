@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 00:20-0700\n"
-"PO-Revision-Date: 2015-06-25 22:30+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-07-28 04:19-0700\n"
+"PO-Revision-Date: 2016-07-28 17:31+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1469727114.000000\n"
 
 #: ../../controlpanel.rst:5
 msgid "Control Panel"
@@ -61,31 +65,31 @@ msgstr ""
 
 #: ../../controlpanel.rst:47
 msgid "**Software and updates**"
-msgstr ""
+msgstr "**Software und Aktualisierungen**"
 
 #: ../../controlpanel.rst:49
 msgid ":ref:`AppCafe®`"
-msgstr ""
+msgstr ":ref:`AppCafe®`"
 
 #: ../../controlpanel.rst:51
 msgid ":ref:`Update Manager`"
-msgstr ""
+msgstr ":ref:`Aktualisierungsverwaltung`"
 
 #: ../../controlpanel.rst:53
 msgid "**System management**"
-msgstr ""
+msgstr "**Systemverwaltung**"
 
 #: ../../controlpanel.rst:55
 msgid ":ref:`About`"
-msgstr ""
+msgstr ":ref:`Über`"
 
 #: ../../controlpanel.rst:57
 msgid ":ref:`Active Directory & LDAP`"
-msgstr ""
+msgstr ":ref:`Active Directory & LDAP`"
 
 #: ../../controlpanel.rst:59
 msgid ":ref:`Boot Manager`"
-msgstr ""
+msgstr ":ref:`Bootmanager`"
 
 #: ../../controlpanel.rst:61
 msgid ":ref:`Hardware Compatibility`"
@@ -93,31 +97,31 @@ msgstr ""
 
 #: ../../controlpanel.rst:63
 msgid ":ref:`Login Manager`"
-msgstr ""
+msgstr ":ref:`Anmeldungsmanager`"
 
 #: ../../controlpanel.rst:65
 msgid ":ref:`Service Manager`"
-msgstr ""
+msgstr ":ref:`Dienstverwaltung`"
 
 #: ../../controlpanel.rst:67
 msgid ":ref:`System Manager`"
-msgstr ""
+msgstr ":ref:`Systemverwaltung`"
 
 #: ../../controlpanel.rst:69
 msgid ":ref:`User Manager`"
-msgstr ""
+msgstr ":ref:`Benutzerverwaltung`"
 
 #: ../../controlpanel.rst:71
 msgid "**Hardware**"
-msgstr ""
+msgstr "**Hardware**"
 
 #: ../../controlpanel.rst:73
 msgid ":ref:`Disk Manager`"
-msgstr ""
+msgstr ":ref:`Festplattenverwaltung`"
 
 #: ../../controlpanel.rst:75
 msgid ":ref:`Display`"
-msgstr ""
+msgstr ":ref:`Anzeige`"
 
 #: ../../controlpanel.rst:77
 msgid ":ref:`Mount Tray`"
@@ -125,7 +129,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:79
 msgid ":ref:`PC-BSD Keyboard Settings`"
-msgstr ""
+msgstr ":ref:`PC-BSD-Tastatureinstellungen`"
 
 #: ../../controlpanel.rst:81
 msgid ":ref:`PC-BSD Mixer Tray`"
@@ -161,7 +165,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:97
 msgid ":ref:`Report a bug`"
-msgstr ""
+msgstr ":ref:`Fehler melden`"
 
 #: ../../controlpanel.rst:99
 msgid "This chapter describes these utilities in more detail."
@@ -169,7 +173,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:105
 msgid "About"
-msgstr ""
+msgstr "Über"
 
 #: ../../controlpanel.rst:107
 msgid "The \"About\" icon of Control Panel can be used to quickly find information about the PC-BSD® system. To start the application, double-click its icon in Control Panel or type :command:`about-gui`. An example is seen in :numref:`Figure %s: About Information <about1a>`."
@@ -417,7 +421,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:313
 msgid "The fields in this screen are used to configure the:"
-msgstr ""
+msgstr "Die Felder in diesem Bildschirm werden verwendet zum Konfigurieren von:"
 
 #: ../../controlpanel.rst:315
 msgid "**Theme File:** used to customize the look of the GRUB menu. The theme file format is described in `this section of the GRUB Manual <http://www.gnu.org/software/grub/manual/html_node/Theme-file-format.html>`_. The `GRUB 2 Theme Reference <http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference>`_ provides additional information."
@@ -469,11 +473,11 @@ msgstr ""
 
 #: ../../controlpanel.rst:361
 msgid "**N:** active now"
-msgstr ""
+msgstr "**N:** jetzt aktiv"
 
 #: ../../controlpanel.rst:363
 msgid "**-:** inactive"
-msgstr ""
+msgstr "**-:** inaktiv"
 
 #: ../../controlpanel.rst:365
 msgid "In this example, the current boot environment is called *10.1-RELEASE-p20-up-20150512_114505*, it is active now, will be used at next reboot, and it is mounted. The newly created *beforeupgrade* boot environment exists, but is inactive and unmounted. To activate the new boot environment::"
@@ -497,7 +501,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:399
 msgid "Hardware Compatibility"
-msgstr ""
+msgstr "Hardwarekompatibilität"
 
 #: ../../controlpanel.rst:401
 msgid "The PC-BSD® installer allows you to quickly determine if your system's video card, Ethernet card, wireless device, and sound card are compatible with PC-BSD®."
@@ -517,7 +521,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:423
 msgid "Login Manager"
-msgstr ""
+msgstr "Anmeldungsverwaltung"
 
 #: ../../controlpanel.rst:425
 msgid "A Login Manager utility is available in Control Panel. :numref:`Figure %s: Login Manager <login2>` shows the initial screen when you click on this icon in Control Panel or type :command:`pc-su pc-dmconf` at the command line. Note that this utility will prompt you for your password."
@@ -549,7 +553,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:466
 msgid "This screen provides the following options:"
-msgstr ""
+msgstr "Dieser Bildschirm bietet folgende Optionen:"
 
 #: ../../controlpanel.rst:468
 msgid "**Enable \"show password\" button:** by default, when a user types their password at the login prompt shown in :numref:`Figure %s: Optional Services <optional1a>`, \"*\" characters are displayed as the password is typed in order to prevent another user from seeing the password as it is typed. When the  \"Enable \"show password\" button\" box is checked, and the user clicks the lock icon next to the typed password in the login screen, the asterisks will change to reveal the password."
@@ -573,7 +577,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:497
 msgid "Service Manager"
-msgstr ""
+msgstr "Dienstverwaltung"
 
 #: ../../controlpanel.rst:499
 msgid "Service Manager, seen in :numref:`Figure %s: Managing Services Using Service Manager <service>`, provides a graphical utility for managing PC-BSD® services."
@@ -593,7 +597,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:530
 msgid "System Manager"
-msgstr ""
+msgstr "Systemverwaltung"
 
 #: ../../controlpanel.rst:532
 msgid "This section describes the various tasks that can be performed using the graphical System Manager utility. System Manager can be accessed from :menuselection:`Control Panel --> System Manager` or by typing :command:`pc-su pc-sysmanager`. You will be prompted to input your password."
@@ -617,7 +621,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:543
 msgid "the amount of physical memory"
-msgstr ""
+msgstr "die Menge des physikalischen Speichers"
 
 #: ../../controlpanel.rst:549
 msgid "The \"Generate\" button can be used to create a report that includes the following items:"
@@ -689,7 +693,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:600
 msgid "User Manager"
-msgstr ""
+msgstr "Benutzerverwaltung"
 
 #: ../../controlpanel.rst:602
 msgid "The PC-BSD® User Manager utility allows you to easily add and delete users and groups, as well as change a user's or the administrative password. To access this utility, go to :menuselection:`Control Panel --> User Manager` or type :command:`pc-su pc-usermanager`. You will need to input your password in order to access this utility."
@@ -762,6 +766,8 @@ msgstr ""
 #: ../../controlpanel.rst:674
 msgid "**Password:** the password is case-sensitive and needs to be confirmed."
 msgstr ""
+"**Passwort:** beim Passwort wird zwischen Groß-/Kleinbuchstaben "
+"unterschieden und es muss bestätigt werden."
 
 #: ../../controlpanel.rst:676
 msgid "Once you have made your selections, press the \"Save\" button to create the account."
@@ -769,7 +775,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:682
 msgid "PersonaCrypt"
-msgstr ""
+msgstr "PersonaCrypt"
 
 #: ../../controlpanel.rst:684
 msgid "Beginning with 10.1.2, PC-BSD® provides support for PersonaCrypt. A PersonaCrypt device is a removable USB media, such as a USB stick, which has been formatted with ZFS and encrypted with GELI. This device is used to hold a specific user's home directory, meaning that they can securely transport and access their personal files on any PC-BSD® 10.1.2 or higher system. This can be used, for example, to securely access one's home directory from a laptop, home computer, and work computer. The device is protected by an encryption key and a password which is, and should be, separate from the user's login password."
@@ -817,7 +823,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:727
 msgid "The following options are now available:"
-msgstr ""
+msgstr "Die folgenden Optionen sind jetzt verfügbar:"
 
 #: ../../controlpanel.rst:729
 msgid "**Export Key:** used to create a copy of the encryption key so that it can be imported for use on another PC-BSD® system."
@@ -849,7 +855,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:752
 msgid "Managing Groups"
-msgstr ""
+msgstr "Gruppen verwalten"
 
 #: ../../controlpanel.rst:754
 msgid "If you click the \"Groups\" tab, you can view all of the groups on the system, as seen in :numref:`Figure %s: Managing Groups Using User Manager <user4>`."
@@ -857,11 +863,11 @@ msgstr ""
 
 #: ../../controlpanel.rst:760
 msgid "This screen has 3 columns:"
-msgstr ""
+msgstr "Dieser Bildschirm hat 3 Spalten:"
 
 #: ../../controlpanel.rst:762
 msgid "**Groups:** shows all of the groups on the system."
-msgstr ""
+msgstr "**Gruppen:** zeigt alle Gruppen auf dem System an."
 
 #: ../../controlpanel.rst:764
 msgid "**Available:** shows all of the system and user accounts on the system in alphabetical order."
@@ -885,7 +891,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:782
 msgid "Disk Manager"
-msgstr ""
+msgstr "Festplattenverwaltung"
 
 #: ../../controlpanel.rst:784
 msgid "The PC-BSD® Disk Manager can be used to manage ZFS pools and datasets as well as the disks attached to the system. To access this utility, use :menuselection:`Control Panel --> Disk Manager` or type :command:`pc-su pc-zmanager` from within an xterm. You will need to input your password in order to access this utility."
@@ -913,7 +919,7 @@ msgstr ""
 
 #: ../../controlpanel.rst:803
 msgid "**Create a clone dataset:** creates a copy of the dataset."
-msgstr ""
+msgstr "**Klondatensatz erstellen:** erstellt eine Kopie des Datensatzes."
 
 #: ../../controlpanel.rst:805
 msgid "**Take a snapshot:** will prompt for the name of the snapshot. The field is pink to remind you to type the snapshot name in immediately after the pool name and *@* symbol. In this example, *tank1@* will be displayed in the name field. An example snapshot name could be *tan1k@snapshot1* or *tank1@201505181353* to denote the date and time the snapshot was created. The snapshot creation will be instantaneous and the new snapshot will be added to the list of datasets and will have a camera icon. Click the entry for the snapshot entry if you wish to rename it, clone it, destroy it, rollback the system to that point in time, or edit its properties. If you forget when you made the snapshot, pick \"Edit properties\" from the snapshot's right-click menu as it will show its \"creation\" property."

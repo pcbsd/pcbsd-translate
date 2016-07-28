@@ -5,31 +5,31 @@
     <name>CMDDialog</name>
     <message>
         <source>CMD Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Output CMD</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ferma</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Getting PC-BSD Ports Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto ottenendo l&apos;alberto dei port di PC-BSD</translation>
     </message>
     <message>
         <source>Getting PC-BSD Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto ottenendo il codice sorgente di PC-BSD</translation>
     </message>
     <message>
         <source>Process Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Processo in esecuzione</translation>
     </message>
     <message>
         <source>Please stop the current process before closing this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di fermare il processo corrente prima di chiudere questa finestra.</translation>
     </message>
 </context>
 <context>
@@ -72,11 +72,11 @@
     </message>
     <message>
         <source>FreeBSD Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione FreeBSD:</translation>
     </message>
     <message>
         <source>CPU Type:</source>
-        <translation type="unfinished">Tipo CPU:</translation>
+        <translation>Tipo di CPU:</translation>
     </message>
     <message>
         <source>System Memory:</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Misc</translation>
+        <translation>Varie</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -144,7 +144,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
 </context>
 </TS>

@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuno</translation>
     </message>
     <message>
         <source>Popup Settings</source>
@@ -95,27 +95,27 @@
     </message>
     <message>
         <source>Creating snapshot for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto creando uno snapshot per %1</translation>
     </message>
     <message>
         <source>Replication Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Replica in partenza</translation>
     </message>
     <message>
         <source>Starting replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto iniziando la replica per %1</translation>
     </message>
     <message>
         <source>Replication Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log di replica</translation>
     </message>
     <message>
         <source>Finished Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Replica completata</translation>
     </message>
     <message>
         <source>Finished replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ho completato la replica per %1</translation>
     </message>
     <message>
         <source>Replication Failed for %1</source>

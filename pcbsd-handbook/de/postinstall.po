@@ -7,17 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 00:20-0700\n"
-"PO-Revision-Date: 2015-06-25 22:30+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-07-28 04:19-0700\n"
+"PO-Revision-Date: 2016-07-28 17:15+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1469726104.000000\n"
 
 #: ../../postinstall.rst:5
 msgid "Post Installation Configuration and Installation Troubleshooting"
-msgstr ""
+msgstr "Nach-Installationskonfiguration und Installationsproblembehebung"
 
 #: ../../postinstall.rst:7
 msgid "Once the PC-BSD® system has finished booting for the first time, the installer will present you with some additional screens so that you can configure your system. This section describes the boot process, the post-installation configuration screens, and provides some troubleshooting tips for failed installations."
@@ -45,11 +49,11 @@ msgstr ""
 
 #: ../../postinstall.rst:34
 msgid "The following boot options are available:"
-msgstr ""
+msgstr "Die folgenden Boot-Optionen sind verfügbar:"
 
 #: ../../postinstall.rst:36
 msgid "**Normal Bootup:** continues to boot PC-BSD®."
-msgstr ""
+msgstr "**Normaler Bootvorgang:** setzt das Booten von PC-BSD® fort."
 
 #: ../../postinstall.rst:38
 msgid "**Single User Mode:** advanced users can select this option to fix critical system failures."
@@ -85,7 +89,7 @@ msgstr ""
 
 #: ../../postinstall.rst:63
 msgid "If you Encrypted Your Disks"
-msgstr ""
+msgstr "Wenn Sie Ihre Festplatten verschlüsselt haben"
 
 #: ../../postinstall.rst:65
 msgid "If you selected the \"Encrypt disk with GELI\" checkbox during installation, you will need physical access to the PC-BSD® system when it boots. As the system starts to boot, it will display a message similar to the one shown in :numref:`Figure %s:  Input Password to Decrypt Master Key <encrypt1>`."
@@ -113,7 +117,7 @@ msgstr ""
 
 #: ../../postinstall.rst:99
 msgid "Language Screen"
-msgstr ""
+msgstr "Sprachbildschirm"
 
 #: ../../postinstall.rst:101
 msgid "The language selection screen is seen in :numref:`Figure %s: Language Selection Screen <config1>`."
@@ -129,7 +133,7 @@ msgstr ""
 
 #: ../../postinstall.rst:115
 msgid "Time Zone Selection Screen"
-msgstr ""
+msgstr "Zeitzonen-Auswahlbildschirm"
 
 #: ../../postinstall.rst:117
 msgid "The next configuration screen, shown in :numref:`Figure %s: Select Time Zone <config2a>`, allows you to select your timezone."
@@ -153,7 +157,7 @@ msgstr ""
 
 #: ../../postinstall.rst:137
 msgid "Set Root Password Screen"
-msgstr ""
+msgstr "Bildschirm Root-Passwort festlegen"
 
 #: ../../postinstall.rst:139
 msgid "This configuration screen, seen in :numref:`Figure %s: Set Root Password <config3>`, requires you to set the root password."
@@ -165,7 +169,7 @@ msgstr ""
 
 #: ../../postinstall.rst:152
 msgid "Create a User Screen"
-msgstr ""
+msgstr "Bildschirm Benutzer erstellen"
 
 #: ../../postinstall.rst:154
 msgid "This screen is used to create the primary user account that will be used to login to the system. Set a good value for the password as it is used whenever the system indicates that administrative access is required."
@@ -221,7 +225,7 @@ msgstr ""
 
 #: ../../postinstall.rst:202
 msgid "Configure Audio Output"
-msgstr ""
+msgstr "Audioausgabe konfigurieren"
 
 #: ../../postinstall.rst:204
 msgid "The next screen, seen in :numref:`Figure %s: Configure Audio Output <audio1>`, is used to configure the default audio output."
@@ -237,7 +241,7 @@ msgstr ""
 
 #: ../../postinstall.rst:219
 msgid "Connect to a Wireless Network"
-msgstr ""
+msgstr "Mit einem Drahtlosnetzwerk verbinden"
 
 #: ../../postinstall.rst:221
 msgid "If the system has an active wireless interface, a screen similar to :numref:`Figure %s: Connect to a Wireless Network <config5>` will indicate the wireless networks which were automatically detected. Available networks will be ordered by signal strength."
@@ -249,7 +253,7 @@ msgstr ""
 
 #: ../../postinstall.rst:236
 msgid "Enable Optional Services"
-msgstr ""
+msgstr "Zusätzliche Dienste aktivieren"
 
 #: ../../postinstall.rst:238
 msgid "The next screen is shown in :numref:`Figure %s: Optional Services <optional1a>`."
@@ -269,7 +273,7 @@ msgstr ""
 
 #: ../../postinstall.rst:260
 msgid "Logging In"
-msgstr ""
+msgstr "Anmeldungsvorgang"
 
 #: ../../postinstall.rst:262
 msgid "Once you have finished setting up your system, you will be presented with the PCDM (PC-BSD® Display Manager) graphical login screen. An example is seen in :numref:`Figure %s: PC-BSD® Login Screen <login1>`."
@@ -325,7 +329,7 @@ msgstr ""
 
 #: ../../postinstall.rst:316
 msgid "Installation Troubleshooting"
-msgstr ""
+msgstr "Installationsproblembehebung"
 
 #: ../../postinstall.rst:318
 msgid "Installing PC-BSD® is usually an easy process that \"just works\". However, sometimes you will run into a problem. This section will look at solutions to the most common installation problems."

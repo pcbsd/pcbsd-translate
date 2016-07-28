@@ -37,11 +37,11 @@
     </message>
     <message>
         <source>Exclude a directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Escludi la cartella</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Start</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Daily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Giornaliero</translation>
     </message>
     <message>
         <source>Hourly</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
@@ -281,6 +281,10 @@
     <message>
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalizzato&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>
@@ -303,11 +307,11 @@
     </message>
     <message>
         <source>Detected Settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni rilevate:</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinazione:</translation>
     </message>
     <message>
         <source>User:</source>
@@ -474,8 +478,8 @@
         <translation>Assicurati di salvare questa chiave in una posizione sicura al di fuori del disco (come una chiavetta USB che tieni al sicuro). L&apos;amministratore/Gli amministratori del server di backup non sono responsabili di una chiave perduta.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Life Preserver ha riscontrato un problema mentre provava a configurare questo backup remoto. Si prega di verificare che le tue impostazioni sono precise e riprovare.</translation>
     </message>
 </context>
 <context>
@@ -550,11 +554,11 @@
     </message>
     <message>
         <source>&amp;Manage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Gestisci pool</translation>
     </message>
     <message>
         <source>&amp;Unmanage Pool</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Termina gestione pool</translation>
     </message>
     <message>
         <source>&amp;View</source>
@@ -594,15 +598,15 @@
     </message>
     <message>
         <source>Recover File</source>
-        <translation type="unfinished"></translation>
+        <translation>Recupera file</translation>
     </message>
     <message>
         <source>Restore Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina dataset</translation>
     </message>
     <message>
         <source>Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva chiave su USB</translation>
     </message>
     <message>
         <source>Attach Disk</source>
@@ -674,7 +678,7 @@
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
-        <translation type="unfinished"></translation>
+        <translation>Non dimenticarti di salvare la tua chiave SSH su una chiavetta USB così che puoi ripristinare il tuo sistema da remoto più tardi!!</translation>
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
@@ -878,11 +882,11 @@
     </message>
     <message>
         <source>Do you wish to delete this snapshot? %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Desideri eliminare questo snapshot? %1 (%2)</translation>
     </message>
     <message>
         <source>Snapshot Removed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snapshot eliminato</translation>
     </message>
     <message>
         <source>The snapshot was successfully deleted</source>
@@ -902,7 +906,7 @@
     </message>
     <message>
         <source>A replication has been queued up for this dataset</source>
-        <translation type="unfinished">La replica è stata accodata per questo dataset</translation>
+        <translation>La replica è stata accodata per questo dataset</translation>
     </message>
     <message>
         <source>Configuring scrub: %1</source>
@@ -922,15 +926,15 @@
     </message>
     <message>
         <source>pools</source>
-        <translation type="unfinished"></translation>
+        <translation>pool</translation>
     </message>
     <message>
         <source>Re-Initialize Replications</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinizializza repliche</translation>
     </message>
     <message>
         <source>junk</source>
-        <translation type="unfinished"></translation>
+        <translation>indesiderato</translation>
     </message>
     <message>
         <source>Configuring replication settings: %1</source>
@@ -961,140 +965,8 @@
         <translation>I file sono stati ripristinati con successo</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Caricamento informazioni</translation>
     </message>
 </context>
 <context>
@@ -1241,7 +1113,11 @@
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedi direttamente alle impostazioni di configurazione avanzate.</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>

@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>URL: </source>
-        <translation type="unfinished">URL:             </translation>
+        <translation type="unfinished">URL: </translation>
     </message>
     <message>
         <source>&lt;Author&gt;</source>
@@ -25,19 +25,19 @@
     </message>
     <message>
         <source>&lt;Web&gt;</source>
-        <translation type="unfinished">&lt;Web&gt;</translation>
+        <translation>&lt;Web&gt;</translation>
     </message>
     <message>
         <source>Valid Digital Signature</source>
-        <translation type="unfinished">Firma digitale valida            </translation>
+        <translation>Firma digitale valida            </translation>
     </message>
     <message>
         <source>I Agree</source>
-        <translation type="unfinished">Accetto</translation>
+        <translation>Accetto</translation>
     </message>
     <message>
         <source>The program is now being installed. This may take a few moments.</source>
-        <translation type="unfinished">Il programma è ora in fase di installazione. Questa operazione potrebbe richiedere alcuni istanti.</translation>
+        <translation>Il programma è ora in fase di installazione. Questa operazione potrebbe richiedere alcuni istanti.</translation>
     </message>
     <message>
         <source>&lt;Status&gt;</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Error, This application must be installed as root!</source>
-        <translation type="unfinished">Errore, questa applicazione deve essere installata come root (superutente)!            </translation>
+        <translation>Errore, questa applicazione deve essere installata come root (amministratore)!            </translation>
     </message>
     <message>
         <source>Cannot load meta data from this PBI. File corrupt / invalid.</source>

@@ -7,17 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 00:20-0700\n"
-"PO-Revision-Date: 2015-06-25 22:30+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-07-28 04:19-0700\n"
+"PO-Revision-Date: 2016-07-28 17:11+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1469725898.000000\n"
 
 #: ../../using.rst:4
 msgid "Using PC-BSD®"
-msgstr ""
+msgstr "PC-BSD® verwenden"
 
 #: ../../using.rst:6
 msgid "This section discusses how to perform common tasks that were not discussed in the :ref:`Control Panel` section."
@@ -25,7 +29,7 @@ msgstr ""
 
 #: ../../using.rst:12
 msgid "Java and Flash"
-msgstr ""
+msgstr "Java und Flash"
 
 #: ../../using.rst:14
 msgid "IcedTea-Web provides an open source Java browser plugin which automatically works with the FireFox, Chromium, and Opera web browsers without any additional configuration. To install this software, search for \"icedtea\" within :ref:`AppCafe®`."
@@ -69,7 +73,7 @@ msgstr ""
 
 #: ../../using.rst:50
 msgid "Installing Custom Fonts"
-msgstr ""
+msgstr "Benutzerdefinierte Schriftarten installieren"
 
 #: ../../using.rst:52
 msgid "PC-BSD® includes `Google Noto <http://www.google.com/get/noto/>`_ which provide multi-lingual Sans and Serif fonts."
@@ -105,7 +109,7 @@ msgstr ""
 
 #: ../../using.rst:93
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../../using.rst:95
 msgid "PC-BSD® has been pre-configured to support most multimedia formats and makes it easy to install most open source media applications using :ref:`AppCafe®`. PC-BSD® supports both `PulseAudio <https://www.freedesktop.org/wiki/Software/PulseAudio/>`_ and `OSS <http://opensound.com/>`_ so that applications using either sound server should work."
@@ -138,6 +142,8 @@ msgstr ""
 #: ../../using.rst:116
 msgid "`DeaDBeeF <http://deadbeef.sourceforge.net/screenshots.html>`_: music player that supports most audio formats."
 msgstr ""
+"`DeaDBeeF <http://deadbeef.sourceforge.net/screenshots.html>`_: "
+"Musikspieler, der die meisten Audioformate unterstützt."
 
 #: ../../using.rst:118
 msgid "`Decibel <http://decibel.silent-blade.org/index.php?n=Main.Screenshots>`_: audio player built around a highly modular structure that lets the user disable completely the features he does not need. Able to play CDs directly."
@@ -146,6 +152,8 @@ msgstr ""
 #: ../../using.rst:121
 msgid "`gtkpod <http://www.gtkpod.org/index.php?title=Screenshots>`_: graphical user interface for the Apple iPod."
 msgstr ""
+"`gtkpod <http://www.gtkpod.org/index.php?title=Screenshots>`_: grafische "
+"Benutzeroberfläche für den Apple iPod."
 
 #: ../../using.rst:123
 msgid "`Miro <http://www.getmiro.com/download/screenshots/>`_: HD video player that can play almost any video file and offers over 6,000 free Internet TV shows and video podcasts."
@@ -157,7 +165,7 @@ msgstr ""
 
 #: ../../using.rst:133
 msgid "Kodi"
-msgstr ""
+msgstr "Kodi"
 
 #: ../../using.rst:135
 msgid "`Kodi, formerly known as XBMC, <https://kodi.tv/>`_ is a GPL-licensed software media player and entertainment hub for digital media. It can play most audio and video formats, CDs and DVDs from a disk or image file, and even files inside ZIP and RAR archives. It can scan all of your media and automatically create a personalized library with album covers, descriptions, and fan art."
@@ -173,7 +181,7 @@ msgstr ""
 
 #: ../../using.rst:150
 msgid "PlexHome Theater"
-msgstr ""
+msgstr "PlexHome Theater"
 
 #: ../../using.rst:152
 msgid "`Plex Home Theater <https://plex.tv/>`_ is a centralized media playback system. The central Plex Media Server streams media to many Plex player Apps which are used to view your media library and watch shows."
@@ -193,7 +201,7 @@ msgstr ""
 
 #: ../../using.rst:169
 msgid "Files and File Sharing"
-msgstr ""
+msgstr "Dateien und Dateitausch"
 
 #: ../../using.rst:171
 msgid "Depending upon which :ref:`Desktops` you have installed, different graphical file manager utilities may already be installed for you. You do not need to be logged into a specific window manager to use an installed file manager. For example, if KDE is installed, you can run its file manager from any window manager by typing :command:`dolphin`. KDE, GNOME, LXDE, and XFCE install their own file managers while most of the other desktops assume that you will install your favorite file manager. Table 9.4a summarizes the available file managers and indicates which desktop they are installed with. Some file managers can be installed independent of a desktop using :ref:`AppCafe®`. Once a file manager is installed, type its name if you wish to run it from another desktop."
@@ -201,11 +209,11 @@ msgstr ""
 
 #: ../../using.rst:178
 msgid "**Table 9.4a: Available File Managers**"
-msgstr ""
+msgstr "**Tabelle 9.4a: Verfügbare Dateimanager**"
 
 #: ../../using.rst:181
 msgid "File Manager"
-msgstr ""
+msgstr "Dateimanager"
 
 #: ../../using.rst:181
 msgid "Desktop/AppCafe"
@@ -213,106 +221,106 @@ msgstr ""
 
 #: ../../using.rst:181
 msgid "Screenshots"
-msgstr ""
+msgstr "Bildschirmfotos"
 
 #: ../../using.rst:183
 #: ../../using.rst:277
 msgid "dolphin"
-msgstr ""
+msgstr "dolphin"
 
 #: ../../using.rst:183
 #: ../../using.rst:277
 #: ../../using.rst:281
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../../using.rst:183
 msgid "`<https://userbase.kde.org/Dolphin>`_"
-msgstr ""
+msgstr "`<https://userbase.kde.org/Dolphin>`_"
 
 #: ../../using.rst:185
 msgid "emelfm2"
-msgstr ""
+msgstr "emelfm2"
 
 #: ../../using.rst:185
 #: ../../using.rst:189
 #: ../../using.rst:197
 #: ../../using.rst:283
 msgid "AppCafe"
-msgstr ""
+msgstr "AppCafe"
 
 #: ../../using.rst:185
 msgid "`<http://emelfm2.net/wiki/ScreenShots>`_"
-msgstr ""
+msgstr "`<http://emelfm2.net/wiki/ScreenShots>`_"
 
 #: ../../using.rst:187
 msgid "caja"
-msgstr ""
+msgstr "caja"
 
 #: ../../using.rst:187
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../../using.rst:187
 msgid "`<http://mate-desktop.org/gallery/1.6/>`_"
-msgstr ""
+msgstr "`<http://mate-desktop.org/gallery/1.6/>`_"
 
 #: ../../using.rst:189
 #: ../../using.rst:283
 msgid "mucommander"
-msgstr ""
+msgstr "mucommander"
 
 #: ../../using.rst:189
 msgid "`<http://www.mucommander.com/screenshots.php>`_"
-msgstr ""
+msgstr "`<http://www.mucommander.com/screenshots.php>`_"
 
 #: ../../using.rst:191
 #: ../../using.rst:286
 msgid "nautilus"
-msgstr ""
+msgstr "nautilus"
 
 #: ../../using.rst:191
 #: ../../using.rst:286
 msgid "GNOME, AppCafe"
-msgstr ""
+msgstr "GNOME, AppCafe"
 
 #: ../../using.rst:191
 msgid "`<https://projects.gnome.org/nautilus/screenshots.html>`_"
-msgstr ""
+msgstr "`<https://projects.gnome.org/nautilus/screenshots.html>`_"
 
 #: ../../using.rst:193
 msgid "pcmanfm"
-msgstr ""
+msgstr "pcmanfm"
 
 #: ../../using.rst:193
 msgid "LXDE, AppCafe"
-msgstr ""
+msgstr "LXDE, AppCafe"
 
 #: ../../using.rst:193
 msgid "`<http://lxde.org/easy_fast_file_management_pcmanfm>`_"
-msgstr ""
+msgstr "`<http://lxde.org/easy_fast_file_management_pcmanfm>`_"
 
 #: ../../using.rst:195
 #: ../../using.rst:288
 msgid "thunar"
-msgstr ""
+msgstr "thunar"
 
 #: ../../using.rst:195
 #: ../../using.rst:288
 msgid "XFCE, AppCafe"
-msgstr ""
+msgstr "XFCE, AppCafe"
 
 #: ../../using.rst:195
 msgid "`<http://docs.xfce.org/xfce/thunar/start>`_"
-msgstr ""
+msgstr "`<http://docs.xfce.org/xfce/thunar/start>`_"
 
 #: ../../using.rst:197
 msgid "xfe"
-msgstr ""
+msgstr "xfe"
 
 #: ../../using.rst:197
 msgid "`<http://roland65.free.fr/xfe/index.php?page=screenshots>`_"
-msgstr ""
+msgstr "`<http://roland65.free.fr/xfe/index.php?page=screenshots>`_"
 
 #: ../../using.rst:200
 msgid "When working with files on your PC-BSD® system, save your own files to your home directory. Since most of the files outside of your home directory are used by the operating system and applications, you should not delete or modify any files outside of your home directory, unless you know what you are doing."
@@ -324,19 +332,19 @@ msgstr ""
 
 #: ../../using.rst:205
 msgid "**Table 9.4b: PC-BSD Directory Structure**"
-msgstr ""
+msgstr "**Tabelle 9.4b: PC-BSD-Verzeichnisstruktur**"
 
 #: ../../using.rst:208
 msgid "Directory"
-msgstr ""
+msgstr "Verzeichnis"
 
 #: ../../using.rst:208
 msgid "Contents"
-msgstr ""
+msgstr "Inhalt"
 
 #: ../../using.rst:210
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #: ../../using.rst:210
 msgid "pronounced as \"root\" and represents the beginning of the directory structure"
@@ -344,15 +352,16 @@ msgstr ""
 
 #: ../../using.rst:212
 msgid "/bin/"
-msgstr ""
+msgstr "/bin/"
 
 #: ../../using.rst:212
 msgid "applications (binaries) that were installed with the operating system"
 msgstr ""
+"Anwendungen (Programmdateien), die mit dem Betriebssystem installiert wurden"
 
 #: ../../using.rst:214
 msgid "/boot/"
-msgstr ""
+msgstr "/boot/"
 
 #: ../../using.rst:214
 msgid "stores the startup code, including kernel modules (such as hardware drivers)"
@@ -360,15 +369,15 @@ msgstr ""
 
 #: ../../using.rst:216
 msgid "/compat/linux/"
-msgstr ""
+msgstr "/compat/linux/"
 
 #: ../../using.rst:216
 msgid "Linux software compatibility files"
-msgstr ""
+msgstr "Linux-Softwarekompatibilitätsdateien"
 
 #: ../../using.rst:218
 msgid "/dev/"
-msgstr ""
+msgstr "/dev/"
 
 #: ../../using.rst:218
 msgid "files which are used by the operating system to access devices"
@@ -376,31 +385,31 @@ msgstr ""
 
 #: ../../using.rst:220
 msgid "/etc/"
-msgstr ""
+msgstr "/etc/"
 
 #: ../../using.rst:220
 msgid "operating system configuration files"
-msgstr ""
+msgstr "Betriebssystem-Konfigurationsdateien"
 
 #: ../../using.rst:222
 msgid "/etc/X11/"
-msgstr ""
+msgstr "/etc/X11/"
 
 #: ../../using.rst:222
 msgid "the :file:`xorg.conf` configuration file"
-msgstr ""
+msgstr "die :file:`xorg.conf`-Konfigurationsdatei"
 
 #: ../../using.rst:224
 msgid "/etc/rc.d/"
-msgstr ""
+msgstr "/etc/rc.d/"
 
 #: ../../using.rst:224
 msgid "operating system startup scripts"
-msgstr ""
+msgstr "Betriebssystem-Startskripte"
 
 #: ../../using.rst:226
 msgid "/home/"
-msgstr ""
+msgstr "/home/"
 
 #: ../../using.rst:226
 msgid "subdirectories for each user account; each user should store their files in their own home directory"
@@ -408,55 +417,55 @@ msgstr ""
 
 #: ../../using.rst:228
 msgid "/lib/"
-msgstr ""
+msgstr "/lib/"
 
 #: ../../using.rst:228
 msgid "operating system libraries needed for applications"
-msgstr ""
+msgstr "Für Anwendungen benötige Betriebssystem-Bibliotheken"
 
 #: ../../using.rst:230
 msgid "/libexec/"
-msgstr ""
+msgstr "/libexec/"
 
 #: ../../using.rst:230
 msgid "operating system libraries and binaries"
-msgstr ""
+msgstr "Betriebssystem-Bibliotheken und -Programmdateien"
 
 #: ../../using.rst:232
 msgid "/media/"
-msgstr ""
+msgstr "/media/"
 
 #: ../../using.rst:232
 msgid "mount point for storage media such as DVDs and USB drives"
-msgstr ""
+msgstr "Einhängepunkt für Speichermedien wie DVDs und USB-Laufwerken"
 
 #: ../../using.rst:234
 msgid "/mnt/"
-msgstr ""
+msgstr "/mnt/"
 
 #: ../../using.rst:234
 msgid "another mount point"
-msgstr ""
+msgstr "weiterer Einhängepunkt"
 
 #: ../../using.rst:236
 msgid "/proc/"
-msgstr ""
+msgstr "/proc/"
 
 #: ../../using.rst:236
 msgid "the proc filesystem required by some Linux applications"
-msgstr ""
+msgstr "das von manchen Linux-Anwendungen benötigte proc-Dateisystem"
 
 #: ../../using.rst:238
 msgid "/rescue/"
-msgstr ""
+msgstr "/rescue/"
 
 #: ../../using.rst:238
 msgid "necessary programs for emergency recovery"
-msgstr ""
+msgstr "notwendige Programme für die Notfallwiederherstellung"
 
 #: ../../using.rst:240
 msgid "/root/"
-msgstr ""
+msgstr "/root/"
 
 #: ../../using.rst:240
 msgid "administrative account's home directory"
@@ -464,7 +473,7 @@ msgstr ""
 
 #: ../../using.rst:242
 msgid "/sbin/"
-msgstr ""
+msgstr "/sbin/"
 
 #: ../../using.rst:242
 msgid "operating system applications; typically only the superuser can run these applications"
@@ -472,7 +481,7 @@ msgstr ""
 
 #: ../../using.rst:244
 msgid "/tmp/"
-msgstr ""
+msgstr "/tmp/"
 
 #: ../../using.rst:244
 msgid "temporary file storage; files stored here may disappear when the system reboots"
@@ -480,15 +489,15 @@ msgstr ""
 
 #: ../../using.rst:246
 msgid "/usr/bin/"
-msgstr ""
+msgstr "/usr/bin/"
 
 #: ../../using.rst:246
 msgid "contains most of the command line programs available to users"
-msgstr ""
+msgstr "enthält die meisten für die Benutzer verfügbaren Befehlszeilenprogramme"
 
 #: ../../using.rst:248
 msgid "/usr/local/"
-msgstr ""
+msgstr "/usr/local/"
 
 #: ../../using.rst:248
 msgid "contains the binaries, libraries, startup scripts, documentation, and configuration files used by applications installed from ports or packages"
@@ -496,23 +505,23 @@ msgstr ""
 
 #: ../../using.rst:251
 msgid "/usr/local/share/fonts/"
-msgstr ""
+msgstr "/usr/local/share/fonts/"
 
 #: ../../using.rst:251
 msgid "system wide fonts for graphical applications"
-msgstr ""
+msgstr "systemweite Schriftarten für grafische Anwendungen"
 
 #: ../../using.rst:253
 msgid "/usr/local/share/icons/"
-msgstr ""
+msgstr "/usr/local/share/icons/"
 
 #: ../../using.rst:253
 msgid "system wide icons"
-msgstr ""
+msgstr "systemweite Symbole"
 
 #: ../../using.rst:255
 msgid "/usr/ports/"
-msgstr ""
+msgstr "/usr/ports/"
 
 #: ../../using.rst:255
 msgid "location of system ports tree (if installed)"
@@ -520,7 +529,7 @@ msgstr ""
 
 #: ../../using.rst:257
 msgid "/usr/share/"
-msgstr ""
+msgstr "/usr/share/"
 
 #: ../../using.rst:257
 msgid "system documentation and man pages"
@@ -528,23 +537,23 @@ msgstr ""
 
 #: ../../using.rst:259
 msgid "/usr/sbin/"
-msgstr ""
+msgstr "/usr/sbin/"
 
 #: ../../using.rst:259
 msgid "command line programs for the superuser"
-msgstr ""
+msgstr "Befehlszeilenprogramme für den superuser"
 
 #: ../../using.rst:261
 msgid "/usr/src/"
-msgstr ""
+msgstr "/usr/src/"
 
 #: ../../using.rst:261
 msgid "location of system source code (if installed)"
-msgstr ""
+msgstr "Ort des Systemquelltextes (falls installiert)"
 
 #: ../../using.rst:263
 msgid "/var/"
-msgstr ""
+msgstr "/var/"
 
 #: ../../using.rst:263
 msgid "files that change (vary), such as log files and print jobs"
@@ -560,11 +569,11 @@ msgstr ""
 
 #: ../../using.rst:272
 msgid "**Table 9.4c: Utilities that Support Windows Shares**"
-msgstr ""
+msgstr "**Tabelle 9.4c: Dienstprogramme, die Windows-Freigaben unterstützen**"
 
 #: ../../using.rst:275
 msgid "**Utility**"
-msgstr ""
+msgstr "**Dienstprogramm**"
 
 #: ../../using.rst:275
 msgid "**Desktop/AppCafe**"
@@ -580,7 +589,7 @@ msgstr ""
 
 #: ../../using.rst:281
 msgid "konqueror"
-msgstr ""
+msgstr "konqueror"
 
 #: ../../using.rst:281
 msgid "in the location bar, type *smb:/*"
@@ -600,7 +609,7 @@ msgstr ""
 
 #: ../../using.rst:295
 msgid "Windows Emulation"
-msgstr ""
+msgstr "Windows-Emulation"
 
 #: ../../using.rst:297
 msgid "`Wine <https://www.winehq.org/>`_ is an application that allows you to create a Windows environment for installing Windows software. This can be useful if your favorite Windows game or productivity application has not been ported to Linux or BSD."
@@ -640,7 +649,7 @@ msgstr ""
 
 #: ../../using.rst:342
 msgid "Running Steam"
-msgstr ""
+msgstr "Steam ausführen"
 
 #: ../../using.rst:344
 msgid "Wine can be configured to install and run `Steam games <http://store.steampowered.com/about/>`_. Video instructions can be found at `Steam on PC-BSD - How to Get Wine Running 3D Games <https://www.youtube.com/watch?v=B04EuZ9hpAI>`_ and at `Steam on PCBSD 2 - Using Wine as a Streaming Client <http://blog.pcbsd.org/2014/12/steam-on-pcbsd-2-using-wine-as-a-streaming-client/>`_."
@@ -672,11 +681,13 @@ msgstr ""
 
 #: ../../using.rst:374
 msgid "**RDP:** uses port 3389"
-msgstr ""
+msgstr "**RDP:** verwendet Port 3389"
 
 #: ../../using.rst:376
 msgid "**VNC:** uses port 5900 (for the first connection, 5901 for the second connection, etc.)"
 msgstr ""
+"**VNC:** verwendet Port 5900 (für die erste Verbindung, 5901 für die zweite "
+"Verbindung, usw.)"
 
 #: ../../using.rst:378
 msgid "If you need to manually add a firewall rule, it is best to only allow the IP address of the computer that will be connecting. You should immediately remove or disable this firewall rule after the connection is finished so that other computers do not try to connect to the computer. Since your PC-BSD® system is considered to be the client and will be initiating the connection, you do not have to modify the firewall on the PC-BSD® system."
@@ -684,7 +695,7 @@ msgstr ""
 
 #: ../../using.rst:386
 msgid "Connecting with KRDC"
-msgstr ""
+msgstr "Mit KRDC verbinden"
 
 #: ../../using.rst:388
 msgid "KRDC can be used to initiate a connection request. This application can be installed using :ref:`AppCafe®` Check the \"Search all available PBI and packages\" box within the \"App Search\" tab to install this package."
@@ -704,7 +715,7 @@ msgstr ""
 
 #: ../../using.rst:410
 msgid "Here is a quick overview of the settings:"
-msgstr ""
+msgstr "Hier ist eine Schnellübersicht der Einstellungen:"
 
 #: ../../using.rst:412
 msgid "**Desktop resolution:** since the contents of the screen are sent over the network, select the lowest resolution that still allows you to see what is happening on the other system. If you have a very fast network connection, you can choose a higher resolution; if you find that the other system is very slow to refresh its screen, try choosing a lower resolution."
@@ -764,7 +775,7 @@ msgstr ""
 
 #: ../../using.rst:455
 msgid "Connecting with VNC"
-msgstr ""
+msgstr "Mit VNC verbinden"
 
 #: ../../using.rst:457
 msgid "If you prefer to use VNC for the connection, use :ref:`AppCafe®` to install a VNC client such as TightVNC. Before using the VNC client, ensure that the VNC server is installed and running on the remote desktop."
@@ -976,7 +987,7 @@ msgstr ""
 
 #: ../../using.rst:725
 msgid "Security"
-msgstr ""
+msgstr "Sicherheit"
 
 #: ../../using.rst:727
 msgid "Your PC-BSD® system is secure by default. This section provides an overview of the built-in security features and additional resources should you like to learn more about increasing the security of your system beyond its current level."
@@ -984,7 +995,7 @@ msgstr ""
 
 #: ../../using.rst:730
 msgid "The security features built into PC-BSD® include:"
-msgstr ""
+msgstr "Die in PC-BSD® eingebauten Sicherheitsfunktionen beinhalten:"
 
 #: ../../using.rst:732
 msgid "**Naturally immune to viruses and other malware:** most viruses are written to exploit Windows systems and do not understand the binaries or paths found on a PC-BSD® system. Antivirus software is still available in the Security section of :ref:`AppCafe®` as this can be useful if you send or forward email attachments to users running other operating systems."
@@ -1025,6 +1036,8 @@ msgstr ""
 #: ../../using.rst:767
 msgid "PC-BSD® packages are built with `LibreSSL <http://www.libressl.org/>`_ which has fewer vulnerabilities than OpenSSL."
 msgstr ""
+"PC-BSD®-Pakete sind mit `LibreSSL <http://www.libressl.org/>`_ gebaut, "
+"welches weniger Sicherheitslücken als OpenSSL hat."
 
 #: ../../using.rst:769
 msgid ":ref:`PersonaCrypt` allows a user to use a removable, encrypted device as their home directory."
@@ -1044,7 +1057,7 @@ msgstr ""
 
 #: ../../using.rst:780
 msgid "`FreeBSD Security Information <http://www.freebsd.org/security/>`_"
-msgstr ""
+msgstr "`FreeBSD-Sicherheitsinformationen <http://www.freebsd.org/security/>`_"
 
 #: ../../using.rst:782
 msgid "`Security Section of FreeBSD Handbook <http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/security.html>`_"
@@ -1052,11 +1065,11 @@ msgstr ""
 
 #: ../../using.rst:784
 msgid "`Hardening FreeBSD <http://www.bsdguides.org/2005/hardening-freebsd/>`_"
-msgstr ""
+msgstr "`FreeBSD härten <http://www.bsdguides.org/2005/hardening-freebsd/>`_"
 
 #: ../../using.rst:790
 msgid "Tor Mode"
-msgstr ""
+msgstr "Tor-Modus"
 
 #: ../../using.rst:792
 msgid "Tor mode uses `Tor <https://www.torproject.org/>`_, `socat <http://www.dest-unreach.org/socat/>`_, and a built-in script which automatically creates the necessary firewall rules to enable and disable tor mode at the user's request. While in tor mode, the firewall will redirect all outgoing port 80 (HTTP), 443 (HTTPS), and DNS traffic through the Tor transparent proxy network."
@@ -1092,7 +1105,7 @@ msgstr ""
 
 #: ../../using.rst:822
 msgid "Accessibility"
-msgstr ""
+msgstr "Barrierefreiheit"
 
 #: ../../using.rst:824
 msgid "The GNOME and KDE desktop environments provide accessibility features to assist users with vision and mobility impairments. In PC-BSD®, these desktops can be installed either during installation or afterwards using :ref:`AppCafe®`."
@@ -1132,7 +1145,7 @@ msgstr ""
 
 #: ../../using.rst:862
 msgid "KDE Accessibility Tools"
-msgstr ""
+msgstr "KDE-Barrierefreiheitswerkzeuge"
 
 #: ../../using.rst:864
 msgid "To install the KDE accessibility tools, use :ref:`AppCafe®`. Check the \"Search all available PBI and packages\" in \"App Search\" and search for the \"kdeaccessibility\" package."
@@ -1140,7 +1153,7 @@ msgstr ""
 
 #: ../../using.rst:866
 msgid "The KDE-Accessibility component installs the following software:"
-msgstr ""
+msgstr "Die KDE-Barrierefreiheitskomponente installiert die folgende software:"
 
 #: ../../using.rst:868
 msgid "`KMag <https://docs.kde.org/stable4/en/kdeaccessibility/kmag/index.html>`_: a screen magnifier. In KDE, this application is in :menuselection:`Applications --> Utilities --> Screen Magnifier` or you can type :command:`kmag` from the command line. Drag the magnifier window over the text you wish to magnify or click its \"Settings\" button to view the shortcuts for its various modes. Click :kbd:`F1` while the application is open to access the Kmagnifier Handbook."

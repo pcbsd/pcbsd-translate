@@ -7,17 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-28 00:20-0700\n"
-"PO-Revision-Date: 2015-06-25 22:30+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-07-28 04:19-0700\n"
+"PO-Revision-Date: 2016-07-28 16:47+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1469724439.000000\n"
 
 #: ../../update.rst:5
 msgid "Installing Applications and Keeping PC-BSD® Updated"
-msgstr ""
+msgstr "Anwendungen installieren und PC-BSD® aktuell halten"
 
 #: ../../update.rst:7
 msgid "Both PC-BSD® and TrueOS® provide tools to make it easy to manage software and to keep both the operating system and installed software up-to-date. PC-BSD® provides the graphical :ref:`AppCafe®` and :ref:`Update Manager` utilities for managing and upgrading software from the local system or from a web browser or mobile device. Since TrueOS® is a command-line only install and some users prefer to use command-line utilities, both PC-BSD® and TrueOS® provide the :command:`pkg` command line utility to manage software, as well as :command:`pc-updatemanager` to manage updates. If you install software using any of the tools described in this chapter, you will automatically be notified whenever a newer version of software is available."
@@ -45,7 +49,7 @@ msgstr ""
 
 #: ../../update.rst:35
 msgid "Configuring AppCafe®"
-msgstr ""
+msgstr "AppCafe® konfigurieren"
 
 #: ../../update.rst:37
 msgid "AppCafe® includes the ability to remotely manage software from another system or mobile device. During the installation of a TrueOS® server, the installer provides the ability to configure the user, password, and port number for accessing AppCafe® from any device with a web browser. On a desktop installation, AppCafe® can be run as a local application and optionally configured for remote access. To launch the AppCafe® application on a PC-BSD® desktop, double-click its icon on the Desktop, go to :menuselection:`Control Panel --> AppCafe®`, or type  :command:`appcafe` from a command prompt. When prompted, input your password. :numref:`Figure %s: Running AppCafe® from a Desktop <remote1d>` shows the initial AppCafe® screen when it is started from a desktop."
