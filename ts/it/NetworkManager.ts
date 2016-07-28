@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>DNSList</name>
     <message>
         <source>Public DNS servers</source>
-        <translation type="unfinished">Server DNS pubblici</translation>
+        <translation>Server DNS pubblici</translation>
     </message>
     <message>
         <source>You can select one of public DNS servers instead of DNS server from your ISP</source>
-        <translation type="unfinished">È possibile selezionare un Server DNS pubblico al posto del server DNS offerto dal vostro ISP</translation>
+        <translation>È possibile selezionare un Server DNS pubblico al posto del server DNS fornito dal vostro ISP</translation>
     </message>
     <message>
         <source>IP address</source>
-        <translation type="unfinished">Indirizzo IP</translation>
+        <translation>Indirizzo IP</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Provider</translation>
+        <translation>Provider</translation>
     </message>
     <message>
         <source>Location</source>
@@ -60,232 +60,231 @@
     </message>
     <message>
         <source>Network Configuration (Advanced)</source>
-        <translation type="unfinished">Configurazione di Rete (Avanzata)</translation>
+        <translation>Configurazione di rete (avanzata)</translation>
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished">Altro            </translation>
+        <translation>Altro            </translation>
     </message>
     <message>
         <source>Enable wireless / wired failover via lagg0 interface</source>
-        <translation type="unfinished">Abilita failover senza filo / con filo tramite interfaccia lagg0            </translation>
+        <translation>Abilita failover senza filo / con filo tramite interfaccia lagg0            </translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation type="unfinished">Nome di sistema
-            </translation>
+        <translation>Nome host di sistema</translation>
     </message>
     <message>
         <source>Enable Custom DNS</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita DNS personalizzati</translation>
     </message>
     <message>
         <source>DNS 1:</source>
-        <translation type="unfinished">DNS 1:</translation>
+        <translation>DNS 1:</translation>
     </message>
     <message>
         <source>Public servers</source>
-        <translation type="unfinished">Server pubblici</translation>
+        <translation>Server pubblici</translation>
     </message>
     <message>
         <source>DNS 2:</source>
-        <translation type="unfinished">DNS 2:</translation>
+        <translation>DNS 2:</translation>
     </message>
     <message>
         <source>Search Domain:</source>
-        <translation type="unfinished">Ricerca Dominio</translation>
+        <translation>Trova dominio:</translation>
     </message>
     <message>
         <source>Enable Custom Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita gateway personalizzata</translation>
     </message>
     <message>
         <source>Gateway:</source>
-        <translation type="unfinished">Gateway:</translation>
+        <translation>Gateway:</translation>
     </message>
     <message>
         <source>Enable IPv6 support</source>
-        <translation type="unfinished">Abilita supporto IPv6            </translation>
+        <translation>Abilita supporto IPv6</translation>
     </message>
     <message>
         <source>IPv6 gateway:</source>
-        <translation type="unfinished">Gateway per l&apos;IPv6:</translation>
+        <translation>Gateway per IPv6:</translation>
     </message>
     <message>
         <source>IPV6 DNS 1:</source>
-        <translation type="unfinished">DNS IPV6 1</translation>
+        <translation>DNS IPV6 1:</translation>
     </message>
     <message>
         <source>IPv6 DNS 2:</source>
-        <translation type="unfinished">DNS IPv6 2:</translation>
+        <translation>DNS IPv6 2:</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished">Proxy            </translation>
+        <translation>Proxy</translation>
     </message>
     <message>
         <source>Proxy Configuration</source>
-        <translation type="unfinished">Configurazione Proxy            </translation>
+        <translation>Configurazione proxy            </translation>
     </message>
     <message>
         <source>Server Address</source>
-        <translation type="unfinished">Indirizzo Server            </translation>
+        <translation>Indirizzo del server</translation>
     </message>
     <message>
         <source>Port Number</source>
-        <translation type="unfinished">Numero Porta            </translation>
+        <translation>Numero porta</translation>
     </message>
     <message>
         <source>Proxy Type</source>
-        <translation type="unfinished">Tipo di Proxy            </translation>
+        <translation>Tipo di proxy</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished">Basilare</translation>
+        <translation>Base</translation>
     </message>
     <message>
         <source>Digest</source>
-        <translation type="unfinished">Sommario</translation>
+        <translation>Riassunto</translation>
     </message>
     <message>
         <source>Specify a Username / Password</source>
-        <translation type="unfinished">Specifica Nome Utente / Password            </translation>
+        <translation>Specifica un nome utente / password</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome Utente            </translation>
+        <translation>Nome utente</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password            </translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Note: This proxy configuration is for PC-BSD specific tools and utilities. Internet aware applications may still use their own proxy configuration, which will have to be manually configured.</source>
-        <translation type="unfinished">Nota: questa configurazione del proxy è specifica per gli strumenti PC-BSD. Altre applicazioni con accesso ad internet potrebbero usare le proprie impostazioni proxy, che dovranno essere configurate manualmente.            </translation>
+        <translation>Nota: questa configurazione del proxy è specifica per gli strumenti PC-BSD. Altre applicazioni con accesso ad internet potrebbero usare le proprie impostazioni proxy, che dovranno essere configurate manualmente.            </translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi            </translation>
+        <translation>&amp;Chiudi            </translation>
     </message>
     <message>
         <source>Need Root Access</source>
-        <translation type="unfinished">Richiesta Accesso Root            </translation>
+        <translation>Richiede l&apos;accesso come amministratore (root)</translation>
     </message>
     <message>
         <source>This program must be run as root!</source>
-        <translation type="unfinished">Questo programma necessita di accesso root!            </translation>
+        <translation>Questo programma necessita di accesso come amministratore (root)!</translation>
     </message>
     <message>
         <source>Detecting Devices...</source>
-        <translation type="unfinished">Rilevamento Periferiche...</translation>
+        <translation>Rilevamento periferiche...</translation>
     </message>
     <message>
         <source>Unknown Wireless Device</source>
-        <translation type="unfinished">Dispositivo Senza Fili Sconosciuto</translation>
+        <translation>Dispositivo senza fili sconosciuto</translation>
     </message>
     <message>
         <source>Netmask: </source>
-        <translation type="unfinished">Maschera di rete (netmask): </translation>
+        <translation>Maschera di rete: </translation>
     </message>
     <message>
         <source>SSID:</source>
-        <translation type="unfinished">SSID:            </translation>
+        <translation>SSID:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stato:            </translation>
+        <translation>Stato:</translation>
     </message>
     <message>
         <source>Configure </source>
-        <translation type="unfinished">Configura </translation>
+        <translation>Configura </translation>
     </message>
     <message>
         <source>Device Information</source>
-        <translation type="unfinished">Informazioni Periferiche</translation>
+        <translation>Informazioni sul dispositivo</translation>
     </message>
     <message>
         <source>Enable device</source>
-        <translation type="unfinished">Abilita Periferica</translation>
+        <translation>Abilita dispositivo</translation>
     </message>
     <message>
         <source>Disable device</source>
-        <translation type="unfinished">Disabilita Periferica</translation>
+        <translation>Disattiva dispositivo</translation>
     </message>
     <message>
         <source>Disable Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita access point</translation>
     </message>
     <message>
         <source>Setup Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura access point</translation>
     </message>
     <message>
         <source>Restart the Network</source>
-        <translation type="unfinished">Riavvia la Rete</translation>
+        <translation>Riavvia la rete</translation>
     </message>
     <message>
         <source>Invalid IPv6 DNS specified</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS IPV6 specificato non valido</translation>
     </message>
     <message>
         <source>Invalid IPv6 Gateway specified</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6 Gateway specificato non valido</translation>
     </message>
     <message>
         <source>Invalid DNS specified</source>
-        <translation type="unfinished"></translation>
+        <translation>DNS specificato non valido</translation>
     </message>
     <message>
         <source>Invalid Gateway specified</source>
-        <translation type="unfinished"></translation>
+        <translation>Gateway specificato non valido</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
-        <translation type="unfinished">Inserisci il nome del host            </translation>
+        <translation>Inserisci un nome di host</translation>
     </message>
     <message>
         <source>Hostname may only contain letters and numbers</source>
-        <translation type="unfinished">Il nome del host può contenere solo lettere e numeri            </translation>
+        <translation>Il nome del host può contenere solo lettere e cifre</translation>
     </message>
     <message>
         <source>Computer Restart Required</source>
-        <translation type="unfinished">Richiesto Riavvio del Computer</translation>
+        <translation>Richiesto riavvio del computer</translation>
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname</source>
-        <translation type="unfinished">Per cambiare l&apos;hostname devi riavviare il computer</translation>
+        <translation>Devi riavviare il computer per completare il cambio del nome di host</translation>
     </message>
     <message>
         <source>Proxy enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Proxy abilitato</translation>
     </message>
     <message>
         <source>You may need to re-login for proxy settings to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Devi collegati nuovamente per attivare le impostazioni del proxy.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del dominio</translation>
     </message>
     <message>
         <source>999\.999\.999\.999</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">999\.999\.999\.999</translation>
     </message>
     <message>
         <source>You must restart your computer to finish changing your hostname, and domain name</source>
-        <translation type="unfinished"></translation>
+        <translation>Devi riavviare il computer per completare il cambio del nome del host e del nome di dominio</translation>
     </message>
     <message>
         <source>IPv4 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv4:</translation>
     </message>
     <message>
         <source>IPv6 Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv6:</translation>
     </message>
 </context>
 </TS>

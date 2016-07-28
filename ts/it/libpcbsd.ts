@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>InternetGateway</source>
-        <translation type="unfinished"></translation>
+        <translation>InternetGateway</translation>
     </message>
     <message>
         <source>(SSID required)</source>
@@ -57,31 +57,31 @@
     </message>
     <message>
         <source>11g</source>
-        <translation type="unfinished">11g</translation>
+        <translation>11g</translation>
     </message>
     <message>
         <source>11ng</source>
-        <translation type="unfinished"></translation>
+        <translation>11ng</translation>
     </message>
     <message>
         <source>11n</source>
-        <translation type="unfinished">11n</translation>
+        <translation>11n</translation>
     </message>
     <message>
         <source>Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Canale:</translation>
     </message>
     <message>
         <source>Country Code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice paese:</translation>
     </message>
     <message>
         <source>2-letter country code (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice paese da 2 lettere (facoltativo)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invalid Password Length</source>
@@ -101,11 +101,11 @@
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation>Il driver della scheda di rete senza fili non supporta la modalità &quot;access point&quot;.</translation>
+        <translation>Il driver della scheda di rete senza fili non supporta la modalità "access point".</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation>Non posso creare l&apos;access point (wlan0 è già attiva?)</translation>
+        <translation>Non posso creare l'access point (wlan0 è già attiva?)</translation>
     </message>
     <message>
         <source>Failure</source>
@@ -132,38 +132,38 @@
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice</translation>
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation>Linguaggio di input</translation>
     </message>
     <message>
         <source>Variant</source>
@@ -212,18 +212,18 @@
     <name>dialogInfoBox</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Finestra di dialogo</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
 </context>
 <context>
     <name>dialogMetaProgress</name>
     <message>
         <source>System-Packages</source>
-        <translation type="unfinished">Pacchetti di Sistema</translation>
+        <translation>Pacchetti di sistema</translation>
     </message>
     <message>
         <source>Total Progress</source>
@@ -300,38 +300,74 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     </message>
     <message>
         <source>Key Management</source>
-        <translation type="unfinished">Gestione Chiave</translation>
+        <translation>Gestione delle chiavi</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>Autenticazione fase 2:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Identità anonima:</translation>
     </message>
 </context>
 <context>
     <name>metaWidget</name>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Applica</translation>
+        <translation>Applica</translation>
     </message>
     <message>
         <source>Loading... Please wait...</source>
-        <translation type="unfinished">Caricamento...attendere...</translation>
+        <translation>Caricamento...attendere...</translation>
     </message>
     <message>
         <source>Performing system-package changes.</source>
-        <translation type="unfinished">Applicazione delle modifiche ai pacchetti di sistema.</translation>
+        <translation>Applicazione delle modifiche ai pacchetti di sistema.</translation>
     </message>
     <message>
         <source>Downloading: %1</source>
-        <translation type="unfinished">Scaricamento: %1</translation>
+        <translation>Scaricati: %1</translation>
     </message>
     <message>
         <source>System Packages</source>
-        <translation type="unfinished">Pacchetti di Sistema</translation>
+        <translation>Pacchetti di sistema</translation>
     </message>
     <message>
         <source>The meta-pkg manager returned an error. For more details please look at the log file:</source>

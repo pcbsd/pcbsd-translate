@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>LPMessages</name>
     <message>
         <source>Life Preserver Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggi di Life Preserver</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggi</translation>
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>File di log</translation>
     </message>
     <message>
         <source>Close</source>
@@ -56,42 +56,42 @@
     </message>
     <message>
         <source>Popup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazione di popup</translation>
     </message>
     <message>
         <source>Open Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri Life Preserver</translation>
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedi messaggi</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna tray</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi tray</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Allarme di sistema</translation>
     </message>
 </context>
 <context>
     <name>LPWatcher</name>
     <message>
         <source>New snapshot of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo snapshot di %1</translation>
     </message>
     <message>
         <source>Creating snapshot for %1</source>
@@ -131,63 +131,63 @@
     </message>
     <message>
         <source>Replication Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Log sugli errore di replica.</translation>
     </message>
     <message>
         <source>Replicating %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicando %1: %2</translation>
     </message>
     <message>
         <source>Scrub repaired %1 bad blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo scrub ha riparato %1 blocchi danneggiati</translation>
     </message>
     <message>
         <source>Scrub repaired %1 blocks in %2 with %3 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub ha riparato %1 blocchi su %2 con %3 errori</translation>
     </message>
     <message>
         <source>Scrub completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub completato</translation>
     </message>
     <message>
         <source>Scrub completed without needing repairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub è stato completo senza aver bisogno di riparazioni</translation>
     </message>
     <message>
         <source>Scrub cancelled for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub annullato per %1</translation>
     </message>
     <message>
         <source>Scrubbing %1: %2 (%3 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Eseguendo scrub su %1: %2 (%3 rimanenti)</translation>
     </message>
     <message>
         <source>Resilvering: %1 (%2 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resilvering: %1 (%2 rimanente)</translation>
     </message>
     <message>
         <source>Resilvering Started: %1 remaining </source>
-        <translation type="unfinished"></translation>
+        <translation>Resilvering avviato: %1 rimanente </translation>
     </message>
     <message>
         <source>Resilver completed in %1 with %2 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Resilvering completato in %1 con %2 errori</translation>
     </message>
     <message>
         <source>Resilver completed successfully in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resilver completato con successo in %1</translation>
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Il pool è in uno stato degradato. Vedi gli errori del dispositivo aggiuntivi.</translation>
     </message>
     <message>
         <source>%1 is degraded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è degradato.</translation>
     </message>
     <message>
         <source>The device is faulty, and should be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo è difettoso, e dovrebbe essere rimpiazzato.</translation>
     </message>
     <message>
         <source>%1 is faulty.</source>

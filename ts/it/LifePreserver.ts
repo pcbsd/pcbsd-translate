@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Exclude file(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Escludi file</translation>
     </message>
     <message>
         <source>Exclude a directory</source>
@@ -45,23 +45,23 @@
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avvia</translation>
     </message>
     <message>
         <source>Home Directory Being Archived....</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella personale è in archiviazione...</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione:</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ferma</translation>
     </message>
     <message>
         <source>&amp;Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Completato</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -92,11 +92,11 @@
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished">Configura il dataset</translation>
+        <translation>Configura il dataset</translation>
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished">Blocchi di dati:</translation>
+        <translation>Data set:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
@@ -104,11 +104,11 @@
     </message>
     <message>
         <source>Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pianificazione:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatico</translation>
     </message>
     <message>
         <source>Daily</source>
@@ -120,15 +120,15 @@
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuti</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuti {10 ?}</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuti {5 ?}</translation>
     </message>
     <message>
         <source>@ h AP</source>
@@ -172,35 +172,35 @@
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuti</translation>
     </message>
     <message>
         <source>10 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minuti</translation>
     </message>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuale</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita scrub pianificato</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Settimanale</translation>
     </message>
     <message>
         <source>Monthly</source>
@@ -240,15 +240,15 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation>Sabati</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation>Domeniche</translation>
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni di replica</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
@@ -281,6 +281,10 @@
     <message>
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalizzato&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>
@@ -323,19 +327,19 @@
     </message>
     <message>
         <source>Local Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione locale</translation>
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pianificazione backup:</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup Dataset:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva il file della chiave di riserva</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
@@ -375,23 +379,23 @@
     </message>
     <message>
         <source>Ready to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronto per cominciare</translation>
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei pronto per attivare lo storage dei dati dislocato?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo potrebbe richiedere un po&apos; di tempo...</translation>
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore con le impostazioni</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>Password non valide</translation>
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
@@ -467,22 +471,22 @@
     </message>
     <message>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENZIONE</translation>
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assicurati di salvare questa chiave in una posizione sicura al di fuori del disco (come una chiavetta USB che tieni al sicuro). L&apos;amministratore/Gli amministratori del server di backup non sono responsabili di una chiave perduta.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Life Preserver ha riscontrato un problema mentre provava a configurare questo backup remoto. Si prega di verificare che le tue impostazioni sono precise e riprovare.</translation>
     </message>
 </context>
 <context>
     <name>LPMain</name>
     <message>
         <source>Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Life Preserver</translation>
     </message>
     <message>
         <source>Refresh the UI</source>
@@ -522,23 +526,23 @@
     </message>
     <message>
         <source>Select the previous (older) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona lo snapshot precedente (meno recente)</translation>
     </message>
     <message>
         <source>Select the next (more recent) snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona lo snapshot successivo (più recente) </translation>
     </message>
     <message>
         <source>Display any hidden files/folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizza i file e le cartelle nascoste</translation>
     </message>
     <message>
         <source>Show Hidden Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra i file nascosti</translation>
     </message>
     <message>
         <source>Restore the selected file/folder to the live system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripristina il file/la cartella sul file system attivo.</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
@@ -606,27 +610,27 @@
     </message>
     <message>
         <source>Attach Disk</source>
-        <translation type="unfinished"></translation>
+        <translation>Collega disco</translation>
     </message>
     <message>
         <source>New Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo snapshot</translation>
     </message>
     <message>
         <source>&amp;Save Key to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salva chiave su USB</translation>
     </message>
     <message>
         <source>Start Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Avvia scrub</translation>
     </message>
     <message>
         <source>Check system data integrity</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlla l&apos;integrità dei dati di sistema</translation>
     </message>
     <message>
         <source>Classic Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Backup classico</translation>
     </message>
     <message>
         <source>&amp;Extract Home Dir</source>
@@ -634,7 +638,7 @@
     </message>
     <message>
         <source>Stop Scrub</source>
-        <translation>Ferma scansione</translation>
+        <translation>Ferma scrub</translation>
     </message>
     <message>
         <source>Start Replication</source>
@@ -646,7 +650,7 @@
     </message>
     <message>
         <source>No datasets available</source>
-        <translation type="unfinished">Nessun dataset disponibile</translation>
+        <translation>Nessun dataset disponibile</translation>
     </message>
     <message>
         <source>Restoring Directory: %1</source>
@@ -666,11 +670,11 @@
     </message>
     <message>
         <source>Configuring dataset: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurando dataset: %1</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Promemoria</translation>
     </message>
     <message>
         <source>Don&apos;t forget to save your SSH key to a USB stick so that you can restore your system from the remote host later!!</source>
@@ -742,15 +746,15 @@
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Riuscito</translation>
     </message>
     <message>
         <source>The public SSH key file was successfully copied onto the USB device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file della chiave SSH pubblica è stato copiato con successo sul dispositivo USB.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riuscito</translation>
     </message>
     <message>
         <source>The public SSH key file could not be copied onto the USB device.</source>
@@ -782,7 +786,7 @@
     </message>
     <message>
         <source>The package was successfully extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Il pacchetto è stato estratto con successo dentro %1</translation>
     </message>
     <message>
         <source>Package Failure</source>
@@ -790,67 +794,67 @@
     </message>
     <message>
         <source>The package could not be extracted within %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Il pacchetto non può essere estratto dentro %1</translation>
     </message>
     <message>
         <source>Verify Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica scrub</translation>
     </message>
     <message>
         <source>Are you sure you want to start a scrub on %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler avviare uno scrub su %1?</translation>
     </message>
     <message>
         <source>NOTE: This may take quite a while to complete</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTA: Questo potrebbe durare un po&apos; per terminare</translation>
     </message>
     <message>
         <source>Trying to start a scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Provo ad avviare uno scrub</translation>
     </message>
     <message>
         <source>Scrub Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub avviato</translation>
     </message>
     <message>
         <source>A scrub has just been started on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uno scrub è stato appena avviato su %1</translation>
     </message>
     <message>
         <source>Scrub Not Started</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub non avviato</translation>
     </message>
     <message>
         <source>A scrub on %1 could not be started at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uno scrub su %1 non può essere avviato ora.</translation>
     </message>
     <message>
         <source>Please wait until any current resilvering or scrubs are finished before trying again.</source>
-        <translation type="unfinished">Attendi finché la scansione o il resilvering è terminato prima di riprovare nuovamente.</translation>
+        <translation>Attendi finché li scrub o il resilvering è terminato prima di riprovare nuovamente.</translation>
     </message>
     <message>
         <source>Are you sure you want to stop the scrub on %1?</source>
-        <translation>Sei sicuro di voler fermare la scansione %1?</translation>
+        <translation>Sei sicuro di voler fermare lo scrub su %1?</translation>
     </message>
     <message>
         <source>Trying to stop scrub</source>
-        <translation>Fermando la scansione</translation>
+        <translation>Provo a fermare lo scrub</translation>
     </message>
     <message>
         <source>Scrub Stopped</source>
-        <translation>Scansione fermata</translation>
+        <translation>Scrub fermato</translation>
     </message>
     <message>
         <source>The scrub on %1 has been stopped.</source>
-        <translation>La scansione su %1 è stata fermata.</translation>
+        <translation>Lo scrub su %1 è stato fermato.</translation>
     </message>
     <message>
         <source>Scrub Not Running</source>
-        <translation>Scansione non in esecuzione</translation>
+        <translation>Scrub non in esecuzione</translation>
     </message>
     <message>
         <source>There was no scrub running on %1.</source>
-        <translation>Nessuna scansione era in esecuzione su %1.</translation>
+        <translation>Nessuno scrub era in esecuzione su %1.</translation>
     </message>
     <message>
         <source>New Snapshot Name</source>
@@ -862,11 +866,11 @@
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>GUI Snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Snapshot GUI</translation>
     </message>
     <message>
         <source>Snapshot Pending</source>
@@ -906,19 +910,19 @@
     </message>
     <message>
         <source>Configuring scrub: %1</source>
-        <translation>Pianificando scansione:  %1</translation>
+        <translation>Pianificando scrub:  %1</translation>
     </message>
     <message>
         <source>Removing scrub: %1</source>
-        <translation>Rimozione scansione: %1</translation>
+        <translation>Rimozione scrub: %1</translation>
     </message>
     <message>
         <source>%1: Disabling Scrubs</source>
-        <translation>%1: Disabilitando scansioni</translation>
+        <translation>%1: Disabilitando scrub</translation>
     </message>
     <message>
         <source>Disabling Scrubs</source>
-        <translation>Disabilitando scansioni</translation>
+        <translation>Disabilitando scrub</translation>
     </message>
     <message>
         <source>pools</source>
@@ -934,167 +938,35 @@
     </message>
     <message>
         <source>Configuring replication settings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurando impostazioni di replica: %1</translation>
     </message>
     <message>
         <source>Removing replication: %1, Host: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovendo replica: %1, Host: %2</translation>
     </message>
     <message>
         <source>Reset Replication Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Reimposta password di replica</translation>
     </message>
     <message>
         <source>Invalid Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinazione invalida</translation>
     </message>
     <message>
         <source>This is an ISCSI replication target and does not use an SSH password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa è una destinazione di replica su ISCSI  e non usa una password SSH.</translation>
     </message>
     <message>
         <source>Some file(s) could not be restored from the snapshot.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alcuni file non possono essere ripristinati dallo snapshot.</translation>
     </message>
     <message>
         <source>The file(s) were succesfully restored</source>
         <translation>I file sono stati ripristinati con successo</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Caricamento informazioni</translation>
     </message>
 </context>
 <context>
@@ -1105,7 +977,7 @@
     </message>
     <message>
         <source>This wizard will walk you through the process of setting up a new snapshot schedule for the following ZFS dataset:</source>
-        <translation type="unfinished">Questa procedura guidata ti condurrà attraverso il processo di impostare una nuova programmazione di snapshot per il seguente dataset ZFS:</translation>
+        <translation>Questa procedura guidata ti condurrà attraverso il processo di impostare una nuova pianificazione di snapshot per il seguente dataset ZFS:</translation>
     </message>
     <message>
         <source>Snapshot schedule</source>
@@ -1129,19 +1001,19 @@
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuti</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuti {10 ?}</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 minuti {5 ?}</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatico</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
@@ -1169,47 +1041,47 @@
     </message>
     <message>
         <source>Scrub schedule</source>
-        <translation>Pianifica scansione</translation>
+        <translation>Pianifico scrub</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita lo scrub pianificato</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished"></translation>
+        <translation>Settimanale</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">Mensilmente</translation>
+        <translation>Mensile</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished">Giorni del mese</translation>
+        <translation>Giorno del mese</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished">Giorno della settimana</translation>
+        <translation>Giorno della settimana</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"> Ore</translation>
+        <translation> ore</translation>
     </message>
     <message>
         <source>Mondays</source>
-        <translation type="unfinished">Lunedì</translation>
+        <translation>Lunedì</translation>
     </message>
     <message>
         <source>Tuesdays</source>
-        <translation type="unfinished">Martedì</translation>
+        <translation>Martedì</translation>
     </message>
     <message>
         <source>Wednesdays</source>
-        <translation type="unfinished">Mercoledì</translation>
+        <translation>Mercoledì</translation>
     </message>
     <message>
         <source>Thursdays</source>
-        <translation type="unfinished">Giovedì</translation>
+        <translation>Giovedì</translation>
     </message>
     <message>
         <source>Fridays</source>
@@ -1217,15 +1089,15 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sabati</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Domeniche</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo scrub controlla per inconsistenza e corruzione silente del tuo storage pool</translation>
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
@@ -1243,48 +1115,52 @@
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Intervallo di giorni</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Scrub Finished: %1 (%2 errors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub completato: %1 (%2 errori)</translation>
     </message>
     <message>
         <source>Scrub Cancelled: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub annullato: %1</translation>
     </message>
     <message>
         <source>Scrub Started: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Scrub avviato: %1</translation>
     </message>
     <message>
         <source>Resilver Finished: %1 (%2 errors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Resilver completato: %1 (%2 errori)</translation>
     </message>
     <message>
         <source>%1: Currently Resilvering</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: Resilvering in corso</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>No Snapshots Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun snapshot disponibile</translation>
     </message>
     <message>
         <source>Latest Replication: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultima replica: %1</translation>
     </message>
     <message>
         <source>No Successful Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna replica riuscita</translation>
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento snapshot</translation>
     </message>
 </context>
 </TS>

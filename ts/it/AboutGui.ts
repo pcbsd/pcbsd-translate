@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished">Host:</translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>????</source>
@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Mem.</source>
-        <translation type="unfinished">Mem.</translation>
+        <translation>Mem.</translation>
     </message>
     <message>
         <source>Back</source>

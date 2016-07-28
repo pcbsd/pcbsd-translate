@@ -5,15 +5,15 @@
     <name>ethernetconfig</name>
     <message>
         <source>Network Configuration</source>
-        <translation type="unfinished">Configurazione di Rete</translation>
+        <translation>Configurazione di rete</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;Ok</translation>
+        <translation>&amp;Ok</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -53,11 +53,11 @@
     </message>
     <message>
         <source>IP:</source>
-        <translation type="unfinished">IP:</translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished">Maschera di rete (netmask):</translation>
+        <translation>Maschera di rete:</translation>
     </message>
     <message>
         <source>Enable WPA authentication</source>
@@ -129,27 +129,27 @@
     </message>
     <message>
         <source>Traffic info</source>
-        <translation type="unfinished">Informazioni sul traffico</translation>
+        <translation>Informazioni sul traffico</translation>
     </message>
     <message>
         <source>Packets:</source>
-        <translation type="unfinished">Pacchetti:</translation>
+        <translation>Pacchetti:</translation>
     </message>
     <message>
         <source>Errors:</source>
-        <translation type="unfinished">Errori:</translation>
+        <translation>Errori:</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation type="unfinished">In:</translation>
+        <translation>Ingresso:</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation type="unfinished">Out:</translation>
+        <translation>Uscita:</translation>
     </message>
     <message>
         <source>Missing Fields</source>
-        <translation type="unfinished">Campi mancanti</translation>
+        <translation>Campi mancanti</translation>
     </message>
     <message>
         <source>You must enter an IP and Netmask to continue!

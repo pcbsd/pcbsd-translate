@@ -5,7 +5,7 @@
         <name>ExeDialog</name>
         <message>
             <source>Package Executable</source>
-            <translation>Pacchetto eseguibile</translation>
+            <translation type="unfinished">Pacchetto eseguibile</translation>
     </message>
         <message>
             <source>Executable Icon</source>
@@ -13,20 +13,20 @@
         </message>
         <message>
             <source>Program Name</source>
-            <translation>Nome del Programma</translation>
-        </message>
+            <translation>Nome del programma</translation>
+    </message>
         <message>
             <source>Program Executable</source>
-            <translation>Eseguibile</translation>
-        </message>
+            <translation>Eseguibile del programma</translation>
+    </message>
         <message>
             <source>Run as root</source>
-            <translation>Esegui come Root</translation>
-        </message>
+            <translation>Esegui come amministratore (root)</translation>
+    </message>
         <message>
             <source>Run in shell prompt</source>
-            <translation>Esegui in a prompt</translation>
-        </message>
+            <translation>Esegui in un prompt dei commandi</translation>
+    </message>
         <message>
             <source>&amp;Save</source>
             <translation>&amp;Salva</translation>
@@ -41,52 +41,52 @@
         </message>
         <message>
             <source>Alt+C</source>
-            <translation>Alt+A</translation>
-        </message>
+            <translation type="unfinished">Alt+C</translation>
+    </message>
         <message>
             <source>No desktop icon</source>
-            <translation>Nessuna icona nel Desktop</translation>
-        </message>
+            <translation>Nessuna icona nel desktop</translation>
+    </message>
         <message>
             <source>Icon Files</source>
-            <translation>Files Icone</translation>
-        </message>
+            <translation>File delle icone</translation>
+    </message>
         <message>
             <source>Choose an Icon</source>
-            <translation>Scegli un Icona</translation>
-        </message>
+            <translation>Scegli un icona</translation>
+    </message>
         <message>
             <source>Select Executable</source>
-            <translation>Seleziona Eseguibile</translation>
-        </message>
+            <translation>Seleziona eseguibile</translation>
+    </message>
         <message>
             <source>Startup notify</source>
-            <translation>Notifica Avvio</translation>
-        </message>
+            <translation>Notifica all'avvio</translation>
+    </message>
         <message>
             <source>Open as a link (Local documents)</source>
-            <translation>Apri come link (documenti locali)</translation>
-        </message>
+            <translation>Apri come un collegamento (documenti locali)</translation>
+    </message>
         <message>
             <source>Open as a web link (http:// or ftp://)</source>
-            <translation>Apri come web link (http:// o ftp://)</translation>
-        </message>
+            <translation>Apri come collegamento web (http:// o ftp://)</translation>
+    </message>
         <message>
             <source>No Kmenu icon</source>
             <translation>Nessuna icona nel Kmenu</translation>
         </message>
         <message>
             <source>Development</source>
-            <translation>In Programmazione</translation>
-        </message>
+            <translation>Sviluppo</translation>
+    </message>
         <message>
             <source>Editors</source>
-            <translation>Editori</translation>
-        </message>
+            <translation>Editor</translation>
+    </message>
         <message>
             <source>Edutainment</source>
-            <translation>Educazione</translation>
-        </message>
+            <translation>Intrattenimento educativo</translation>
+    </message>
         <message>
             <source>Graphics</source>
             <translation>Grafica</translation>
@@ -113,20 +113,20 @@
         </message>
         <message>
             <source>Taskbar Icon</source>
-            <translation>Icona nel Taskbar</translation>
-        </message>
+            <translation>Icona della barra delle applicazioni</translation>
+    </message>
         <message>
             <source>Kmenu Icon Placement</source>
-            <translation>Posizione Icona nel Kmenu</translation>
-        </message>
+            <translation>Posizione icona nel Kmenu</translation>
+    </message>
         <message>
             <source>Create sub-directory in KDE Kmenu directory selected below</source>
-            <translation>Crea una sub-directory nella Kmenu directory selezionata</translation>
-        </message>
+            <translation>Crea una sotto-cartella nella cartella Kmenu selezionata qui sotto</translation>
+    </message>
         <message>
             <source>Insert icon directly into KDE Kmenu directory selected below</source>
-            <translation>Inserisci un icona direttamente nella Kmenu directory selezionata</translation>
-        </message>
+            <translation>Inserisci una icona direttamente nella cartella Kmenu selezionata qui sotto</translation>
+    </message>
         <message>
             <source>Create top-level Kmenu program directory</source>
             <translation>Crea una directory in KMenu</translation>
