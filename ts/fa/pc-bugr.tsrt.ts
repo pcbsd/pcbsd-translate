@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation>پیرامونِ رومیزی</translation>
+        <translation>سپهرِ رومیزی</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
@@ -74,7 +74,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation>خواهشمند است پیرامون رومیزی‌ای که مایهٔ دشواری است را برگزینید:</translation>
+        <translation>خواهشمند است سپهرِ رومیزی‌ای که مایهٔ دشواری است را برگزینید:</translation>
     </message>
     <message>
         <source>New Item</source>
@@ -102,129 +102,129 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished"/>
+        <translation>۲- اگر می‌پندارید که دشواری در پیوند با FreeBSD است، خواهشمند است به فهرستِ پستی kde-freebsd گزارش دهید.</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>۳- اگر می‌پندارید که دشواری در پیوند با PC-BSD است، خواهشمند است یک گذرانه(ticket) در پی‌گیرِ دشوارهٔ(bug tracker) PC-BSD بسازید.</translation>
     </message>
     <message>
         <source>XFCE</source>
-        <translation type="unfinished"/>
+        <translation>اکس‌اف‌سی‌ئی</translation>
     </message>
     <message>
         <source>1. You can report a bug to XFCE bugzilla site</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید یک دشواره(bug) به تارنمای باگزیلای اکس‌اف‌سی‌ئی گزارش کنید</translation>
     </message>
     <message>
         <source>LXDE</source>
-        <translation type="unfinished"/>
+        <translation>ال‌اکس‌دی‌ئی</translation>
     </message>
     <message>
         <source>1. You can report a bug to the LXDE bug tracker at SourceForge</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید یک دشواره به پی‌گیرِ دشوارهٔ ال‌اکس‌دی‌ئی در SourceForge گزارش کنید.</translation>
     </message>
     <message>
         <source>MATE</source>
-        <translation type="unfinished"/>
+        <translation>ماته</translation>
     </message>
     <message>
         <source>1. You can report a bug on MATE GitHub bug tracker related to MATE component</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید یک دشواره در پی‌گیرِ دشوارهٔ گیت‌هابِ(GitHub) ماته در پیوند با بخش ماته گزارش دهید</translation>
     </message>
     <message>
         <source>Cinnamon</source>
-        <translation type="unfinished"/>
+        <translation>سینمن</translation>
     </message>
     <message>
         <source>1. You can report a bug using Cinnamon bug tracker on GitHub</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید با بکار گیریِ پی‌گیرِ دشوارهٔ سینمن در گیت‌هاب یک دشواره گزارش دهید</translation>
     </message>
     <message>
         <source>Unsupported desktop unvironment</source>
-        <translation type="unfinished"/>
+        <translation>سپهرِ رومیزیِ پشتیبانی نشده</translation>
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید به پی‌گیرِ دشواره یا فهرست پستیِ سپهرِ رومیزیِ خود یک دشواره گزارش دهید</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
-        <translation type="unfinished"/>
+        <translation>نرم افزارِ فری‌بی‌اس‌دی</translation>
     </message>
     <message>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید دشواری‌ها را به فهرستِ پستیِ freebsd-ports-bug گزارش کنید</translation>
     </message>
     <message>
         <source>PBI software</source>
-        <translation type="unfinished"/>
+        <translation>نرم‌افزارِ پی‌بی‌آی</translation>
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished"/>
+        <translation>خواهشمند است نرم‌افزارِ پی‌بی‌آیِ دارای دشواره برگزینید</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>نمادک</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>نرم‌افزار کابردی</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>ویرایش</translation>
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
-        <translation type="unfinished"/>
+        <translation>۱- شما می‌توانید گزارش دادنِ یک دشواره در تارنمای نرم‌افزار را بیازمایید.</translation>
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
-        <translation type="unfinished"/>
+        <translation>۲- اگر می‌پندارید که دشواری در پیوند با پی‌سی‌بی‌اس‌دی است، خواهشمند است به فهرست پستیِ pbi-bugs اِ پی‌سی‌بی‌اس‌دی گزارش کنید</translation>
     </message>
     <message>
         <source>PBI software: </source>
-        <translation type="unfinished"/>
+        <translation>نرم‌افزارِ پی‌بی‌آی:</translation>
     </message>
     <message>
         <source>Not listed here?</source>
-        <translation type="unfinished"/>
+        <translation>اینجا فهرست نشده است؟</translation>
     </message>
 </context>
 <context>
     <name>ShowInfoDialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>گفت‌وگو</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>در بریده‌دان رونویسی کن</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>ببند</translation>
     </message>
 </context>
 <context>
     <name>Toolbox</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>برگه</translation>
     </message>
     <message>
         <source>Toolbox</source>
-        <translation type="unfinished"/>
+        <translation>ابزاردان</translation>
     </message>
     <message>
         <source>Take screenshot</source>
-        <translation type="unfinished"/>
+        <translation>نماگرفت بگیر</translation>
     </message>
     <message>
         <source>dmesg output</source>
-        <translation type="unfinished"/>
+        <translation>بروندادِ dmesg</translation>
     </message>
     <message>
         <source>Xorg log</source>

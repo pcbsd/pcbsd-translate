@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Category</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>%v/%m</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Statistics</source>
@@ -148,23 +148,23 @@
     </message>
     <message>
         <source>PBI Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Main settings for the PBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Port/Package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
@@ -240,19 +240,19 @@
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Specific Icon!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View Package Overrides (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Official name of the target program</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation>Licenza/e dell&apos;applicazione</translation>
+        <translation>Licenza/e dell'applicazione</translation>
     </message>
     <message>
         <source>+ Packages</source>
@@ -284,23 +284,23 @@
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Short description of the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Full description of the application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XDG Shortcuts</source>
@@ -328,11 +328,11 @@
     </message>
     <message>
         <source>Refresh the current list (useful if files recently modified outside of EasyPBI)</source>
-        <translation>Aggiorna l&apos;elenco corrente (utile se files recentemente modificati al di fuori di EasyPBI)</translation>
+        <translation>Aggiorna l'elenco corrente (utile se files recentemente modificati al di fuori di EasyPBI)</translation>
     </message>
     <message>
         <source>Delete the current item from the PBI module</source>
-        <translation>Cancella l&apos;item corrente dal modulo PBI</translation>
+        <translation>Cancella l'item corrente dal modulo PBI</translation>
     </message>
     <message>
         <source>Begin creating a new XDG entry</source>
@@ -344,7 +344,7 @@
     </message>
     <message>
         <source>Visible name for the item</source>
-        <translation>Nome visibile per l&apos;item</translation>
+        <translation>Nome visibile per l'item</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -360,15 +360,15 @@
     </message>
     <message>
         <source>Custom Icon Path</source>
-        <translation>Percorso dell&apos;icona personalizzata</translation>
+        <translation>Percorso dell'icona personalizzata</translation>
     </message>
     <message>
         <source>Application Icon</source>
-        <translation>Icona dell&apos;applicazione</translation>
+        <translation>Icona dell'applicazione</translation>
     </message>
     <message>
         <source>Start the application in a terminal session</source>
-        <translation>Avvia l&apos;applicazione in una sessione di terminale</translation>
+        <translation>Avvia l'applicazione in una sessione di terminale</translation>
     </message>
     <message>
         <source>Open in Terminal</source>
@@ -376,15 +376,15 @@
     </message>
     <message>
         <source>Flag this item to not be displayed at all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make Invisible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
-        <translation>Per essere eseguita l&apos;applicazione richiede i privilegi di amministratore</translation>
+        <translation>Per essere eseguita l'applicazione richiede i privilegi di amministratore</translation>
     </message>
     <message>
         <source>Requires Root</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation>Categoria del menù per l&apos;item da collocare</translation>
+        <translation>Categoria del menù per l'item da collocare</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>Save the item as currently shown</source>
-        <translation>Salva l&apos;item come indicato</translation>
+        <translation>Salva l'item come indicato</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -420,27 +420,27 @@
     </message>
     <message>
         <source>Create a new item with the current settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create the selected script</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -516,11 +516,11 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Settings</source>
@@ -528,27 +528,27 @@
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get FreeBSD Ports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to create a new PBI module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create a new PBI module</source>
@@ -588,35 +588,35 @@
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shift+Q</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Package Module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress the current module for distribution</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View additional information about EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shift+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Refresh Module</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source>Installation Scripts</source>
-        <translation>Script d&apos;installazione</translation>
+        <translation>Script d'installazione</translation>
     </message>
     <message>
         <source>Permissions Error</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation>C&apos;è stato un errore durante la creazione della struttura di cartelle per EasyPBI. Si prega di controllare i permessi della tua cartella utente e riavviare EasyPBI</translation>
+        <translation>C'è stato un errore durante la creazione della struttura di cartelle per EasyPBI. Si prega di controllare i permessi della tua cartella utente e riavviare EasyPBI</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
@@ -656,47 +656,47 @@
     </message>
     <message>
         <source>Some external resources could not be found, so the EasyPBI services that use these resources have been deactivated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please open up the EasyPBI settings to correct this deficiency.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not create PBI module. Please check the directory permissions and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select PBI Module Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PBI Configuration (pbi.conf)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EasyPBI Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screenshot URL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Screenshot URL:</source>
@@ -736,42 +736,42 @@
     </message>
     <message>
         <source>Please check the file permissions and try again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NewModuleDialog</name>
     <message>
         <source>Create a new Module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FreeBSD Package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>FreeBSD port that you wish to build as a PBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Icon File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
@@ -805,48 +805,48 @@
         <translation>Cambia Strumento utente</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation>Percorso completo dello strumento grafico di cambio utente  (pc-su, gksu, kdesu, qsu, ecc..)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation>Sfoglia il sistema per l&apos;eseguibile locale.</translation>
+        <translation>Sfoglia il sistema per l'eseguibile locale.</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Detect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Modules</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local directory for PBI modules.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a local directory.</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation>Seleziona l&apos;icona predefinita</translation>
+        <translation>Seleziona l'icona predefinita</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
@@ -886,42 +886,42 @@
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Option Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number Limits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum:</source>
@@ -961,42 +961,42 @@
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Value</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Invisible File Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Text</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>aboutDialog</name>
     <message>
         <source>About EasyPBI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>License</source>
@@ -1011,7 +1011,7 @@
         <translation>Versione EasyPBI %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Genera PBI in maniera veloce e semplice.</translation>
     </message>
     <message>
@@ -1039,27 +1039,27 @@
     </message>
     <message>
         <source>Available Packages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Packages Available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Search Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No package found with that term</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
