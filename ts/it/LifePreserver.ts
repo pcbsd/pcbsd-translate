@@ -116,7 +116,7 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">Ogni ora</translation>
+        <translation>Ogni ora</translation>
     </message>
     <message>
         <source>30 minutes</source>
@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalizzato&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -311,15 +315,15 @@
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utente:</translation>
     </message>
     <message>
         <source>Host:</source>
-        <translation type="unfinished"></translation>
+        <translation>Host:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Local Configuration</source>
@@ -395,11 +399,11 @@
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Le password elencate o non coincidono o sono vuote</translation>
     </message>
     <message>
         <source>Select LPS file</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona file LPS</translation>
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
@@ -474,8 +478,8 @@
         <translation>Assicurati di salvare questa chiave in una posizione sicura al di fuori del disco (come una chiavetta USB che tieni al sicuro). L&apos;amministratore/Gli amministratori del server di backup non sono responsabili di una chiave perduta.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Life Preserver ha riscontrato un problema mentre provava a configurare questo backup remoto. Si prega di verificare che le tue impostazioni sono precise e riprovare.</translation>
     </message>
 </context>
 <context>
@@ -882,7 +886,7 @@
     </message>
     <message>
         <source>Snapshot Removed</source>
-        <translation type="unfinished">Snapshot eliminato</translation>
+        <translation>Snapshot eliminato</translation>
     </message>
     <message>
         <source>The snapshot was successfully deleted</source>
@@ -961,140 +965,8 @@
         <translation>I file sono stati ripristinati con successo</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Caricamento informazioni</translation>
     </message>
 </context>
 <context>
@@ -1217,11 +1089,11 @@
     </message>
     <message>
         <source>Saturdays</source>
-        <translation type="unfinished">Sabati</translation>
+        <translation>Sabati</translation>
     </message>
     <message>
         <source>Sundays</source>
-        <translation type="unfinished">Domeniche</translation>
+        <translation>Domeniche</translation>
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
@@ -1229,19 +1101,23 @@
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gli snapshot più vecchi saranno puliti automaticamente dopo aver raggiunto il numero di giorni o il numero totale di snapshot specificati.</translation>
     </message>
     <message>
         <source>Click the Finish button to apply these settings and create the new backup schedule.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fai click sul pulsante Fine per applicare queste impostazioni e crea una nuova pianificazione backup.</translation>
     </message>
     <message>
         <source>Your new Life Preserver schedule is now set up! You may modify your configuration or enable advanced features such as off-site data replication at any time from within the main Life Preserver window.</source>
-        <translation type="unfinished"></translation>
+        <translation>La nuova pianificazione di Life Preserver è ora configurata! Puoi modificare la tua configurazione o abilitare funzionalità avanzate come replica dei dati dislocata in ogni momento tramite la finestra principale di Life Preserver.</translation>
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation>Procedi direttamente alle impostazioni di configurazione avanzate.</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>

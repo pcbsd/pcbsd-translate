@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
-        <translation>همچنین شما می‌توانید یک برگهٔ کاستی‌یابی با اطلاعات در مورد سامانه‌یتان پدید آورید. این برگه می‌تواند بدست کاردان‌ها برای مقاصد عیب یابی استفاده می شود.</translation>
+        <translation>همچنین شما می‌توانید یک برگهٔ بازشناختی با اطلاعات در مورد سامانه‌یتان پدید آورید. این برگه می‌تواند بدست کاردان‌ها برای مقاصد عیب یابی استفاده می شود.</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Error Generating Diagnostic File</source>
-        <translation>پروندهٔ کاستی‌یابیِ نادرستی ساز</translation>
+        <translation>پروندهٔ بازشناختیِ نادرستی ساز</translation>
     </message>
     <message>
         <source>Success</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Diagnostic File Created: %1</source>
-        <translation>پروندهٔ کاستی‌یابیِ درست شده: %1</translation>
+        <translation>پروندهٔ بازشناختیِ ساخته شده: %1</translation>
     </message>
     <message>
         <source>Process Already Running</source>

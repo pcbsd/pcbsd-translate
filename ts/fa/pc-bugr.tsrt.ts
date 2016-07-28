@@ -228,46 +228,46 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Xorg log</source>
-        <translation type="unfinished"/>
+        <translation>نگاشتِ Xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
-        <translation type="unfinished"/>
+        <translation>گزارشِ بازشناختی</translation>
     </message>
     <message>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished"/>
+        <translation>گزارشِ بازشناختیِ پی‌سی‌بی‌اس‌دی</translation>
     </message>
     <message>
         <source>lsusb output</source>
-        <translation type="unfinished"/>
+        <translation>بروندادِ lsusb</translation>
     </message>
     <message>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished"/>
+        <translation>فهرست دستگاه‌های پی‌سی‌آی - PCIConf</translation>
     </message>
     <message>
         <source>Xorg version</source>
-        <translation type="unfinished"/>
+        <translation>ویرایشِ Xorg</translation>
     </message>
     <message>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished"/>
+        <translation>ویرایشِ فری‌بی‌اس‌دی (uname -a)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"/>
+        <translation>ناکامی</translation>
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>
-        <translation type="unfinished"/>
+        <translation>درست‌کردنِ برگهٔ بازشناختی شکست خورد</translation>
     </message>
 </context>
 <context>
     <name>WebURL</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>از</translation>
     </message>
     <message>
         <source>Launch web browser</source>

@@ -32,19 +32,19 @@
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished">Periferiche</translation>
+        <translation>Dispositvi</translation>
     </message>
     <message>
         <source>Local Network Adapters</source>
-        <translation type="unfinished">Adattatori di rete locale</translation>
+        <translation>Adattatori di rete locale</translation>
     </message>
     <message>
         <source>Display system tray icon</source>
-        <translation type="unfinished">Visualizza l&apos;icona nella system tray</translation>
+        <translation>Visualizza l&apos;icona nella tray di sistema</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished">&amp;Configura</translation>
+        <translation>&amp;Configura</translation>
     </message>
     <message>
         <source>Alt+C</source>

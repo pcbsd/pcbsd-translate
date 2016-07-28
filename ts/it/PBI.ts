@@ -85,27 +85,27 @@
     </message>
     <message>
         <source>Error, This application must be installed as root!</source>
-        <translation>Errore, questa applicazione deve essere installata come root (amministratore)!            </translation>
+        <translation>Errore, questa applicazione deve essere installata come root (amministratore)!</translation>
     </message>
     <message>
         <source>Cannot load meta data from this PBI. File corrupt / invalid.</source>
-        <translation type="unfinished">Non riesco a caricare i metadati di questo PBI. File corrotto o non valido.</translation>
+        <translation>Non riesco a caricare i metadati di questo PBI. File corrotto o non valido.</translation>
     </message>
     <message>
         <source>Click Next to begin the installation.</source>
-        <translation type="unfinished">Clicca "Successivo" per iniziare l'installazione            </translation>
+        <translation>Clicca "Successivo" per iniziare l'installazione</translation>
     </message>
     <message>
         <source>The pbi_add command returned an error, the source file may be corrupt or invalid.</source>
-        <translation type="unfinished">Il comando pbi_add ha restituito un errore, il file sorgente potrebbe essere corrotto o non valido.            </translation>
+        <translation>Il comando pbi_add ha restituito un errore, il file sorgente potrebbe essere corrotto o non valido. </translation>
     </message>
     <message>
         <source>Installation Finished!</source>
-        <translation type="unfinished">Installazione terminata!</translation>
+        <translation>Installazione terminata!</translation>
     </message>
     <message>
         <source>Creating menu icons and links...</source>
-        <translation type="unfinished">Creazione in corso delle icone dei menu e dei collegamenti...            </translation>
+        <translation>Sto creando le icone dei menu e dei collegamenti...</translation>
     </message>
     <message>
         <source>Merging Files...</source>
