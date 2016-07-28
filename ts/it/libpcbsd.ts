@@ -1,19 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>InternetGateway</source>
@@ -89,7 +89,7 @@
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid Password Length</source>
@@ -101,11 +101,11 @@
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation>Il driver della scheda di rete senza fili non supporta la modalità "access point".</translation>
+        <translation>Il driver della scheda di rete senza fili non supporta la modalità &quot;access point&quot;.</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation>Non posso creare l'access point (wlan0 è già attiva?)</translation>
+        <translation>Non posso creare l&apos;access point (wlan0 è già attiva?)</translation>
     </message>
     <message>
         <source>Failure</source>
@@ -132,26 +132,26 @@
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Form</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>-</source>
@@ -309,42 +309,6 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
-    </message>
-    <message>
-        <source>MD5</source>
-        <translation>MD5</translation>
-    </message>
-    <message>
-        <source>MSCHAPV2</source>
-        <translation>MSCHAPV2</translation>
-    </message>
-    <message>
-        <source>GTC</source>
-        <translation>GTC</translation>
-    </message>
-    <message>
-        <source>OTP</source>
-        <translation>OTP</translation>
-    </message>
-    <message>
-        <source>PAP</source>
-        <translation>PAP</translation>
-    </message>
-    <message>
-        <source>CHAP</source>
-        <translation>CHAP</translation>
-    </message>
-    <message>
-        <source>MSCHAP</source>
-        <translation>MSCHAP</translation>
-    </message>
-    <message>
-        <source>Phase 2 Auth:</source>
-        <translation>Autenticazione fase 2:</translation>
-    </message>
-    <message>
-        <source>Anonymous Identity:</source>
-        <translation>Identità anonima:</translation>
     </message>
 </context>
 <context>
