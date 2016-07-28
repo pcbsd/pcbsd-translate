@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>CMDDialog</name>
     <message>
@@ -36,39 +36,39 @@
     <name>PBSystemTab</name>
     <message>
         <source>PC-BSD System Configuration</source>
-        <translation type="unfinished">PC-BSD Configurazione di Sistema</translation>
+        <translation>Configurazione del sistema PC-BSD</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Generali</translation>
+        <translation>Generali</translation>
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
-        <translation type="unfinished">Puoi anche generare una scheda diagnostica, con le informazioni del tuo sistema. Questa può essere usata dai tecnici per le problematiche più disparate.</translation>
+        <translation>Puoi anche generare una scheda diagnostica, con le informazioni del tuo sistema. Questa può essere usata dai tecnici per analizzare le problematiche.</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Genera</translation>
     </message>
     <message>
         <source>PC-BSD Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Versioni PC-BSD</translation>
     </message>
     <message>
         <source>Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>Base:</translation>
     </message>
     <message>
         <source>Backend Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Strumenti di background:</translation>
     </message>
     <message>
         <source>Graphical Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Strumenti grafici:</translation>
     </message>
     <message>
         <source>System Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni di sistema</translation>
     </message>
     <message>
         <source>FreeBSD Version:</source>
@@ -108,39 +108,39 @@
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished">Altre opzioni</translation>
+        <translation>Altre opzioni</translation>
     </message>
     <message>
         <source>Force IBUS keyboard input</source>
-        <translation type="unfinished">Forza l&apos;input tastiera IBUS            </translation>
+        <translation>Forza l&apos;input da tastiera tramite IBUS</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Error Generating Diagnostic File</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore durante la generazione del file di diagnostica</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Riuscito</translation>
     </message>
     <message>
         <source>Diagnostic File Created: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Creato file di diagnostica: %1</translation>
     </message>
     <message>
         <source>Process Already Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Processo già in esecuzione</translation>
     </message>
     <message>
         <source>You already have a process running. Please wait for that one to finish first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai già un processo in esecuzione. Attendi che completi le sue attività.</translation>
     </message>
     <message>
         <source>Close</source>

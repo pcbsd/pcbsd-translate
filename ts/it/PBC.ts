@@ -41,7 +41,7 @@
         </message>
         <message>
             <source>Alt+C</source>
-            <translation type="unfinished">Alt+C</translation>
+            <translation>Alt+C</translation>
     </message>
         <message>
             <source>No desktop icon</source>

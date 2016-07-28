@@ -120,15 +120,15 @@
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished">30 minuti</translation>
+        <translation>30 minuti</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished">30 minuti {10 ?}</translation>
+        <translation>10 minuti</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished">30 minuti {5 ?}</translation>
+        <translation>5 minuti</translation>
     </message>
     <message>
         <source>@ h AP</source>
@@ -140,7 +140,7 @@
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished">Totale</translation>
+        <translation>Totale</translation>
     </message>
     <message>
         <source>Keep:</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished">Rimuovi dataset</translation>
+        <translation>Rimuovi dataset</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -252,15 +252,15 @@
     </message>
     <message>
         <source>Identify Replication Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifica la destinazione di replica</translation>
     </message>
     <message>
         <source>Detected Hostname or custom IP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome del host rilevato o IP personalizzato:</translation>
     </message>
     <message>
         <source>SSH</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH</translation>
     </message>
     <message>
         <source>ISCSI</source>
@@ -281,6 +281,10 @@
     <message>
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalizzato&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>
@@ -403,11 +407,11 @@
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation type="unfinished"></translation>
+        <translation>File del server Life Preserver (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Riutilizza i dati esistenti sul host</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
@@ -447,23 +451,23 @@
     </message>
     <message>
         <source>If you do not have this file available, please contact the administrator(s) of the backup server and request one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se non hai questo file disponibile, si prega di contattare l&apos;amministratore/gli amministratori del server di backup e di richiederne uno.</translation>
     </message>
     <message>
         <source>If these settings don&apos;t look right, please contact the administrator of the backup server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se queste impostazioni non ti sembrano corrette, si prega di contattare l&apos;amministratore del server di backup.</translation>
     </message>
     <message>
         <source>Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendere.</translation>
     </message>
     <message>
         <source>Enabling off-site backup....</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilitando il backup dislocato...</translation>
     </message>
     <message>
         <source>This key file is required to access/decrypt your saved data</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo file della chiave è richiesto per accedere/decodificare i tuoi dati memorizzati</translation>
     </message>
     <message>
         <source>WARNING</source>
@@ -474,8 +478,8 @@
         <translation>Assicurati di salvare questa chiave in una posizione sicura al di fuori del disco (come una chiavetta USB che tieni al sicuro). L&apos;amministratore/Gli amministratori del server di backup non sono responsabili di una chiave perduta.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
-        <translation type="unfinished"></translation>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <translation>Life Preserver ha riscontrato un problema mentre provava a configurare questo backup remoto. Si prega di verificare che le tue impostazioni sono precise e riprovare.</translation>
     </message>
 </context>
 <context>
@@ -542,11 +546,11 @@
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ripristina</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <source>&amp;Manage Pool</source>
@@ -678,23 +682,23 @@
     </message>
     <message>
         <source>Enabling dataset management: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilitando il gestore dei dataset: %1</translation>
     </message>
     <message>
         <source>Verify Dataset Backup Removal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verifica rimozione del backup del dataset</translation>
     </message>
     <message>
         <source>Are you sure that you wish to cancel automated snapshots and/or replication of the following dataset?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro che vuoi annullare gli snapshot e/o le repliche del seguente dataset?</translation>
     </message>
     <message>
         <source>Verify Snapshot Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifica eliminazione snapshot</translation>
     </message>
     <message>
         <source>Do you wish to remove the local snapshots for this dataset?</source>
-        <translation type="unfinished">Vuoi rimuovere i snapshot locali dal dataset?</translation>
+        <translation>Vuoi eliminare gli snapshot locali di questo dataset?</translation>
     </message>
     <message>
         <source>WARNING: This is a permanant change that cannot be reversed</source>
@@ -730,15 +734,15 @@
     </message>
     <message>
         <source>No valid USB devices could be found. Please mount a FAT32 formatted USB stick and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato trovato nessun dispositivo USB valido. Si prega di effettuare il mount di una chiavetta USB formattata in FAT32 e riprovare.</translation>
     </message>
     <message>
         <source>Select USB Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un dispositivo USB</translation>
     </message>
     <message>
         <source>Available USB Devices:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivi USB disponibili:</translation>
     </message>
     <message>
         <source>Success</source>
@@ -961,140 +965,8 @@
         <translation>I file sono stati ripristinati con successo</translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
-        <translation type="unfinished"></translation>
+        <source>Loading Information</source>
+        <translation>Caricamento informazioni</translation>
     </message>
 </context>
 <context>
@@ -1133,31 +1005,31 @@
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished">30 minuti {10 ?}</translation>
+        <translation>10 minuti</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished">30 minuti {5 ?}</translation>
+        <translation>5 minuti</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatico</translation>
+        <translation>Automatico</translation>
     </message>
     <message>
         <source>Snapshot pruning</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulizia snapshot</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Mantieni</translation>
     </message>
     <message>
         <source>days worth of snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">giorni con snapshot</translation>
     </message>
     <message>
         <source>total snapshots </source>
-        <translation type="unfinished"></translation>
+        <translation>snapshot totali </translation>
     </message>
     <message>
         <source>Daily</source>
@@ -1213,7 +1085,7 @@
     </message>
     <message>
         <source>Fridays</source>
-        <translation type="unfinished">Venerdì</translation>
+        <translation>Venerdì</translation>
     </message>
     <message>
         <source>Saturdays</source>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Intervallo di giorni</translation>
     </message>
 </context>
 <context>

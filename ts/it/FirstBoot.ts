@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>May be used when dual-booting</source>
-        <translation type="unfinished">Deve essere utilizzato in dual-booting</translation>
+        <translation>Deve essere utilizzato in dual-booting</translation>
     </message>
     <message>
         <source>Set BIOS to UTC time</source>
@@ -21,15 +21,15 @@
     </message>
     <message>
         <source>System Timezone</source>
-        <translation type="unfinished">Fuso orario del sistema</translation>
+        <translation>Fuso orario del sistema</translation>
     </message>
     <message>
         <source>Set the system timezone</source>
-        <translation type="unfinished">Imposta il fuso orario del sistema</translation>
+        <translation>Imposta il fuso orario del sistema</translation>
     </message>
     <message>
         <source>System Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome host del sistema</translation>
     </message>
     <message>
         <source>Root Password</source>
@@ -44,8 +44,8 @@
         <translation type="unfinished">Password (Ripeti)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>La password di sistema o di &quot;root&quot; permette di effettuare cambiamenti al tuo sistema operativo, e dovrebbe essere nascosta dagli utenti non fidati. </translation>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>La password di sistema o di "root" permette di effettuare cambiamenti al tuo sistema operativo, e dovrebbe essere nascosta dagli utenti non fidati. </translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,12 +68,12 @@
         <translation>&amp;Ricontrolla</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Le seguenti reti wireless sono state rilevate. Seleziona quella alla quale vuoi connetterti. Se vuoi tralasciare, clicca &quot;Avanti&quot; qui sotto. </translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Le seguenti reti wireless sono state rilevate. Seleziona quella alla quale vuoi connetterti. Se vuoi tralasciare, clicca "Avanti" qui sotto. </translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
-        <translation>L&apos;installazione é ora completata! Premi Fine per autenticarti sul tuo nuovo desktop.</translation>
+        <translation>L'installazione é ora completata! Premi Fine per autenticarti sul tuo nuovo desktop.</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation type="unfinished">Scambiare la tastiera statunitense con quella voluta dall&apos;utente</translation>
+        <translation type="unfinished">Scambiare la tastiera statunitense con quella voluta dall'utente</translation>
     </message>
     <message>
         <source>&amp;Back</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>User Details</source>
-        <translation>Dettagli dell&apos;utente</translation>
+        <translation>Dettagli dell'utente</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
@@ -161,27 +161,27 @@
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Test</translation>
     </message>
     <message>
         <source>Output Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo di uscita:</translation>
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prova volume:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura dispositivo di uscita</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: le impostazioni dell'audio possono essere regolate anche più tardi attraverso il mixer audio di PC-BSD.</translation>
     </message>
     <message>
         <source>Domain Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome di dominio</translation>
     </message>
     <message>
         <source>Please enter a domain name</source>
@@ -224,7 +224,7 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation>Permetti accesso tramite SSH al sistema da sistemi remoti</translation>
     </message>
     <message>
         <source>Enable SSH</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation>Disattiva l&apos;uso di connessioni IPv6</translation>
+        <translation>Disattiva l'uso di connessioni IPv6</translation>
     </message>
 </context>
 <context>

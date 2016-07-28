@@ -17,38 +17,38 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun messaggio recente</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun file di log disponibile</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Nessun contenuto da visualizzare</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Il file non esiste: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Il file non può essere aperto: %1</translation>
     </message>
 </context>
 <context>
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visualizza tutto</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo avvisi</translation>
     </message>
     <message>
         <source>None</source>
@@ -123,11 +123,11 @@
     </message>
     <message>
         <source>Logfile available at: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>File di log disponibile su: %1</translation>
     </message>
     <message>
         <source>Replication Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Replica fallita</translation>
     </message>
     <message>
         <source>Replication Error Log</source>
@@ -191,23 +191,23 @@
     </message>
     <message>
         <source>%1 is faulty.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è difettoso.</translation>
     </message>
     <message>
         <source>The device was removed, and should be either be re-attached or replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo è stato rimosso, e dovrebbe essere ricollegato o rimpiazzato.</translation>
     </message>
     <message>
         <source>%1 was removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è stato rimosso.</translation>
     </message>
     <message>
         <source>The device is unavailable and should be re-added to the pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo non è disponibile e dovrebbe essere riaggiunto al pool.</translation>
     </message>
     <message>
         <source>%1 is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 non è disponibile</translation>
     </message>
 </context>
 </TS>

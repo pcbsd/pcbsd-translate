@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Basic Setup</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visible Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome visibile:</translation>
     </message>
     <message>
         <source>InternetGateway</source>
@@ -85,11 +85,11 @@
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Applica</translation>
+        <translation>Applica</translation>
     </message>
     <message>
         <source>Wireless Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo senza fili: %1</translation>
     </message>
     <message>
         <source>Invalid Password Length</source>
@@ -101,11 +101,11 @@
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation>Il driver della scheda di rete senza fili non supporta la modalità &quot;access point&quot;.</translation>
+        <translation>Il driver della scheda di rete senza fili non supporta la modalità "access point".</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
-        <translation>Non posso creare l&apos;access point (wlan0 è già attiva?)</translation>
+        <translation>Non posso creare l'access point (wlan0 è già attiva?)</translation>
     </message>
     <message>
         <source>Failure</source>
@@ -132,15 +132,15 @@
     </message>
     <message>
         <source>New Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuova colonna</translation>
     </message>
     <message>
         <source>Layout variant:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Variante mappatura:</translation>
     </message>
     <message>
         <source>Typical</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipico</translation>
     </message>
 </context>
 <context>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-</source>
@@ -240,7 +240,7 @@
     <message>
         <source>Warning: Packages are still being modifed!
 If you cancel now the packages may be corrupted. Cancel anyway?</source>
-        <translation type="unfinished">Attenzione: i pacchetti sono ancora in fase di modifica!
+        <translation>Attenzione: i pacchetti sono ancora in fase di modifica!
 Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo stesso?</translation>
     </message>
 </context>
@@ -248,7 +248,7 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     <name>dialogWPAEnterprise</name>
     <message>
         <source>WPA-Enterprise Configuration</source>
-        <translation type="unfinished">Configurazione WPA-Enterprise</translation>
+        <translation>Configurazione WPA-Enterprise</translation>
     </message>
     <message>
         <source>WPA Enterprise Configuration</source>
@@ -288,15 +288,15 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished">Ripeti Password:</translation>
+        <translation>Ripeti password:</translation>
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Mostra Chiave</translation>
+        <translation>Mostra chiave</translation>
     </message>
     <message>
         <source>Key Management</source>
@@ -309,6 +309,42 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>Autenticazione fase 2:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Identità anonima:</translation>
     </message>
 </context>
 <context>
@@ -335,19 +371,19 @@ Se annulli adesso i pacchetti potrebbero risultare danneggiati. Annullare lo ste
     </message>
     <message>
         <source>The meta-pkg manager returned an error. For more details please look at the log file:</source>
-        <translation type="unfinished">Il gestore meta-pkg ha riscontrato un errore. Per ulteriori dettagli visualizza il log file:</translation>
+        <translation>Il gestore meta-pkg ha riscontrato un errore. Per ulteriori dettagli si prega di visualizzare il file di log:</translation>
     </message>
     <message>
         <source>System packages updated successfully.</source>
-        <translation type="unfinished">I Pacchetti di Sistema sono stati aggiornati con successo.</translation>
+        <translation>I pacchetti di sistema sono stati aggiornati con successo.</translation>
     </message>
     <message>
         <source>No Desktop</source>
-        <translation type="unfinished">Nessun Desktop</translation>
+        <translation>Nessun desktop</translation>
     </message>
     <message>
         <source>No desktops have been selected! Please choose at least one desktop before saving.</source>
-        <translation type="unfinished">Nessun desktop è stato selezionato! Selezionane almeno uno prima di salvare.</translation>
+        <translation>Nessun desktop è stato selezionato! Si prega di selezionarne almeno uno prima di salvare.</translation>
     </message>
     <message>
         <source>View Packages</source>

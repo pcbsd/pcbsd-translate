@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Mac:</source>
-        <translation type="unfinished">Mac:</translation>
+        <translation>Mac:</translation>
     </message>
     <message>
         <source>Media:</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
+        <translation>Stato:</translation>
     </message>
     <message>
         <source>Traffic info</source>

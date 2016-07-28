@@ -48,15 +48,15 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Device Status</source>
-        <translation type="unfinished">Stato Periferica</translation>
+        <translation>Stato dispositivo</translation>
     </message>
     <message>
         <source>MAC Address:</source>
-        <translation type="unfinished">Indirizzo MAC:</translation>
+        <translation>Indirizzo MAC:</translation>
     </message>
     <message>
         <source>Network Configuration (Advanced)</source>

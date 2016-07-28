@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
     <name>DeviceWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Open the disk tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri il tray del disco</translation>
     </message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Run</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Play</source>
@@ -57,42 +57,42 @@
     </message>
     <message>
         <source>The device could not be unmounted. Please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Filesystem Detected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a filesystem to try:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The device could not be mounted. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Device Mounting Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>FSDialog</name>
     <message>
         <source>System Disk Capacity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mount Point</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto di mount</translation>
     </message>
     <message>
         <source>Filesystem</source>
-        <translation type="unfinished"></translation>
+        <translation>File system</translation>
     </message>
     <message>
         <source>Used/Total</source>
-        <translation type="unfinished"></translation>
+        <translation>Usato/Totale</translation>
     </message>
     <message>
         <source>Percent %</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation>Mostra l&apos;occupazione del disco</translation>
+        <translation>Mostra l'occupazione del disco</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -138,42 +138,42 @@
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished"></translation>
+        <translation>Attendere</translation>
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricontrolla i dispositivi collegati al sistema</translation>
     </message>
     <message>
         <source>Select ISO File</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona file ISO</translation>
     </message>
     <message>
         <source>ISO Files (*.iso)</source>
-        <translation type="unfinished"></translation>
+        <translation>File ISO (*.iso)</translation>
     </message>
     <message>
         <source>Devices Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dispositivo disponibile</translation>
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovi dispositivi sono pronti all'uso</translation>
     </message>
     <message>
         <source>Network Shares</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SettingsDialog</name>
     <message>
         <source>Mount Tray Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Monitor disk storage space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Perform check on device notifications</source>

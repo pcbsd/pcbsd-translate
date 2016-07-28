@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="it">
 <context>
     <name>btmaingui</name>
     <message>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Devices Connected:</source>
@@ -25,51 +25,51 @@
     </message>
     <message>
         <source>&amp;Disconnect Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start &amp;Tray Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Restart Service</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Devices</source>
-        <translation type="unfinished">Nuovi Dispositivi</translation>
+        <translation>Nuovi dispositivi</translation>
     </message>
     <message>
         <source>&amp;Scan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ricerca</translation>
     </message>
     <message>
         <source>&amp;Add Device</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Aggiungi dispositivo</translation>
     </message>
     <message>
         <source>Saved Devices</source>
-        <translation type="unfinished">Dispositivi Salvati</translation>
+        <translation>Dispositivi salvati</translation>
     </message>
     <message>
         <source>&amp;Initiate Pairing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Avvia associazione</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Configura</translation>
     </message>
     <message>
         <source>&amp;Remove Device</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Rimuovi dispositivo</translation>
     </message>
     <message>
         <source>Searching for discoverable Bluetooth devices</source>
-        <translation type="unfinished">Cerca dispositivi Bluetooth disponibili</translation>
+        <translation>Ricerca i dispositivi Bluetooth disponibili</translation>
     </message>
     <message>
-        <source>No new Bluetooth devices discovered! Please put your device into &quot;discovery&quot; mode and rescan.</source>
-        <translation type="unfinished">Nessun dispositivo Bluetooth disponibile! Imposta il tuo dispositivo in modalità &quot;disponibile&quot; e riavvia la scansione.</translation>
+        <source>No new Bluetooth devices discovered! Please put your device into "discovery" mode and rescan.</source>
+        <translation>Nessun dispositivo Bluetooth disponibile! Si prega di impostare il tuo dispositivo in modalità "visibile" e riavvia la ricerca.</translation>
     </message>
     <message>
         <source>Reading saved Bluetooth devices. Please wait.</source>
@@ -109,35 +109,35 @@
     </message>
     <message>
         <source>Device Configuration</source>
-        <translation type="unfinished">Configurazione dispositivo</translation>
+        <translation>Configurazione dispositivo</translation>
     </message>
     <message>
         <source>Invalid Pin length: Defaulting to none</source>
-        <translation type="unfinished">Lunghezza Pin non valida: cancellare</translation>
+        <translation>Lunghezza pin non valida: verrà impostato come vuoto</translation>
     </message>
     <message>
         <source>Pairing Error</source>
-        <translation type="unfinished">Errore nell&apos;accoppiamento</translation>
+        <translation>Errore nell'associazione</translation>
     </message>
     <message>
         <source>Could not pair to this device. Please verify your device configuration before trying again.</source>
-        <translation type="unfinished">Impossibile associare i dispositivi. Verifica la configurazione del tuo dispositivo prima di riprovare.</translation>
+        <translation>Impossibile associare i dispositivi. Si prega di verificare la configurazione del tuo dispositivo prima di riprovare.</translation>
     </message>
     <message>
         <source>New Bluetooth Computer name</source>
-        <translation type="unfinished">Nuovo nome Bluetooth del Computer</translation>
+        <translation>Nuovo nome Bluetooth del computer</translation>
     </message>
     <message>
         <source>New Bluetooth Name</source>
-        <translation type="unfinished">Nuovo Nome del Bluetooth</translation>
+        <translation>Nuovo nome Bluetooth</translation>
     </message>
     <message>
         <source>Invalid Name</source>
-        <translation type="unfinished">Nome non valido</translation>
+        <translation>Nome non valido</translation>
     </message>
     <message>
         <source>Device name must not contain symbols</source>
-        <translation type="unfinished">Il nome del dispositivo non può contenere simboli</translation>
+        <translation>Il nome del dispositivo non può contenere simboli</translation>
     </message>
 </context>
 </TS>
