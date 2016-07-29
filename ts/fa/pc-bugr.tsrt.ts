@@ -271,34 +271,34 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished"/>
+        <translation>تارنورد را براه انداز</translation>
     </message>
 </context>
 <context>
     <name>maillist</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>برگه</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>برچسبِ نوشتاری</translation>
     </message>
     <message>
         <source>Send message to</source>
-        <translation type="unfinished"/>
+        <translation>پیغام بفرست به</translation>
     </message>
     <message>
         <source>Compose email</source>
-        <translation type="unfinished"/>
+        <translation>رایانامه آماده کن</translation>
     </message>
     <message>
         <source>Visit the following web page to subscribe or view archives.</source>
-        <translation type="unfinished"/>
+        <translation>برای همبست شدن و یا دیدن بایگانی‌ها از تاربرگ زیر دیدار کنید.</translation>
     </message>
     <message>
         <source>Launch web browser</source>
-        <translation type="unfinished"/>
+        <translation>تارنورد را براه انداز</translation>
     </message>
 </context>
 </TS>

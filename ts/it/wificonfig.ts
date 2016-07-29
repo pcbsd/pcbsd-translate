@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>dialogWPAPersonal</name>
     <message>
         <source>WPA Personal Config</source>
-        <translation type="unfinished">Configurazione personal WPA</translation>
+        <translation>Configurazione WPA Personal</translation>
     </message>
     <message>
         <source>WPA Personal Configuration</source>
-        <translation type="unfinished">Configurazione Personale WPA</translation>
+        <translation>Configurazione WPA Personal</translation>
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Chiave di rete</translation>
+        <translation>Chiave di rete</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished">Chiave di rete (ripeti)</translation>
+        <translation>Chiave di rete (ripeti)</translation>
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Mostra Chiave</translation>
+        <translation>Mostra la chiave</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>wepConfig</name>
     <message>
         <source>WEP Configuration</source>
-        <translation type="unfinished">Configurazione WEP</translation>
+        <translation>Configurazione WEP</translation>
     </message>
     <message>
         <source>Wireless Network Key</source>
-        <translation type="unfinished">Chiave Rete Wireless</translation>
+        <translation>Chiave della rete senza fili</translation>
     </message>
     <message>
         <source>Hex Key</source>
-        <translation type="unfinished">Chiave esadecimale</translation>
+        <translation>Chiave esadecimale</translation>
     </message>
     <message>
         <source>Plaintext</source>
@@ -52,11 +52,11 @@
     </message>
     <message>
         <source>Network Key</source>
-        <translation type="unfinished">Chiave di rete</translation>
+        <translation>Chiave di rete</translation>
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished">Chiave di rete (ripeti)</translation>
+        <translation>Chiave di rete (ripeti)</translation>
     </message>
     <message>
         <source>Key Index</source>
@@ -64,15 +64,15 @@
     </message>
     <message>
         <source>Show Key</source>
-        <translation type="unfinished">Mostra Chiave</translation>
+        <translation>Mostra Chiave</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -83,67 +83,67 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Chiudi</translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Disable this wireless device</source>
-        <translation type="unfinished">Disabilita questa scheda di rete Wireless</translation>
+        <translation>Disabilita questa scheda di rete senza fili</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Applica</translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished">&amp;OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation type="unfinished">&amp;Generale</translation>
+        <translation>&amp;Generale</translation>
     </message>
     <message>
         <source>(Higher connections are given priority)</source>
-        <translation type="unfinished">(Le connessioni più alte hanno la priorità)</translation>
+        <translation>(Le connessioni più alte hanno la priorità)</translation>
     </message>
     <message>
         <source>Configured Network Profiles</source>
-        <translation type="unfinished">Profile di rete configurati            </translation>
+        <translation>Profili di rete configurati</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Modifica</translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Rimuovi</translation>
+        <translation>Rimuovi</translation>
     </message>
     <message>
         <source>Available Wireless Networks</source>
-        <translation type="unfinished">Reti Wireless Disponibili</translation>
+        <translation>Reti senza fili disponibili</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Scansione</translation>
+        <translation>Rilevamento</translation>
     </message>
     <message>
         <source>Add Selected</source>
-        <translation type="unfinished">Aggiungi la selezione            </translation>
+        <translation>Aggiungi la selezione            </translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Add Hidden</source>
-        <translation type="unfinished">Aggiungi nascosti            </translation>
+        <translation>Aggiungi nascosti            </translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -155,11 +155,11 @@
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Custom MAC address</source>
-        <translation type="unfinished">Indirizzo MAC personalizzato</translation>
+        <translation>Indirizzo MAC personalizzato</translation>
     </message>
     <message>
         <source>O&amp;btain IP automatically (DHCP)</source>
@@ -167,47 +167,47 @@
     </message>
     <message>
         <source>Alt+B</source>
-        <translation type="unfinished">Alt+T</translation>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <source>Assign static IP address</source>
-        <translation type="unfinished">Assegna indirizzo IP statico</translation>
+        <translation>Assegna indirizzo IP statico</translation>
     </message>
     <message>
         <source>IP:</source>
-        <translation type="unfinished">IP:</translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>Netmask:</source>
-        <translation type="unfinished">Maschera di rete (netmask):</translation>
+        <translation>Maschera di rete:</translation>
     </message>
     <message>
         <source>Set Country Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta il codice paese</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Informazioni</translation>
+        <translation>Informazioni</translation>
     </message>
     <message>
         <source>Configuration info</source>
-        <translation type="unfinished">Informazioni sulla configurazione</translation>
+        <translation>Informazioni sulla configurazione</translation>
     </message>
     <message>
         <source>Mac/Ether:</source>
-        <translation type="unfinished">Mac/Ether:</translation>
+        <translation>Mac/Ether:</translation>
     </message>
     <message>
         <source>Gateway:</source>
-        <translation type="unfinished">Gateway:</translation>
+        <translation>Gateway:</translation>
     </message>
     <message>
         <source>IPv6:</source>
-        <translation type="unfinished">IPv6:</translation>
+        <translation>IPv6:</translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation type="unfinished">Stato:</translation>
+        <translation>Stato:</translation>
     </message>
     <message>
         <source>Media:</source>
@@ -215,79 +215,79 @@
     </message>
     <message>
         <source>Traffic info</source>
-        <translation type="unfinished">Informazioni Traffico</translation>
+        <translation>Informazioni sul traffico</translation>
     </message>
     <message>
         <source>Packets:</source>
-        <translation type="unfinished">Pacchetti:</translation>
+        <translation>Pacchetti:</translation>
     </message>
     <message>
         <source>Errors:</source>
-        <translation type="unfinished">Errori:</translation>
+        <translation>Errori:</translation>
     </message>
     <message>
         <source>In:</source>
-        <translation type="unfinished">Ricevuti:</translation>
+        <translation>Ricevuti:</translation>
     </message>
     <message>
         <source>Out:</source>
-        <translation type="unfinished">Inviati:</translation>
+        <translation>Inviati:</translation>
     </message>
     <message>
         <source>Missing Fields</source>
-        <translation type="unfinished">Campi Mancanti</translation>
+        <translation>Campi mancanti</translation>
     </message>
     <message>
         <source>You must enter an IP and Netmask to continue!
 </source>
-        <translation type="unfinished">Devi inserire un indirizzo IP ed una maschera di rete (netmask) per continuare!
+        <translation>Devi inserire un indirizzo IP ed una maschera di rete per continuare!
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>IP Address is out of range! (</source>
-        <translation type="unfinished">Indirizzo IP fuori dall&apos;intervallo! (</translation>
+        <translation>L&apos;indirizzo IP è fuori dall&apos;intervallo! (</translation>
     </message>
     <message>
         <source>) Fields must be between 0-255.</source>
-        <translation type="unfinished">) I campi devono essere tra 0 e 255</translation>
+        <translation>) I campi devono essere tra 0 e 255.</translation>
     </message>
     <message>
         <source>Netmask is out of range! (</source>
-        <translation type="unfinished">Maschera di rete e&apos; fuori dall&apos;intervallo! (</translation>
+        <translation>La maschera di rete è fuori dall&apos;intervallo! (</translation>
     </message>
     <message>
         <source>Network Name</source>
-        <translation type="unfinished">Nome della rete</translation>
+        <translation>Nome della rete</translation>
     </message>
     <message>
         <source>Please enter the name of the network you wish to add</source>
-        <translation type="unfinished">Inserire, per favore, il nome della rete che vuoi aggiungere            </translation>
+        <translation>Si prega di inserire il nome della rete che vuoi aggiungere</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>You already have a wireless network with this SSID! Please remove it first.
 </source>
-        <translation type="unfinished">Esiste già una rete wireless con questo SSID! Si prega prima di rimuoverla.
+        <translation>Esiste già una rete wireless con questo SSID! Si prega prima di rimuoverla.
 </translation>
     </message>
     <message>
         <source>Unknown Wireless Device</source>
-        <translation type="unfinished">Dispositivi Wireless Sconosciuti</translation>
+        <translation>Dispositivo senza fili sconosciuto</translation>
     </message>
     <message>
         <source>Add &amp;network</source>
-        <translation type="unfinished">Aggiungi &amp;rete            </translation>
+        <translation type="unfinished">Aggiungi &amp;rete</translation>
     </message>
     <message>
         <source>WPA Configuration</source>
-        <translation type="unfinished">Configurazione WPA            </translation>
+        <translation>Configurazione WPA            </translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
@@ -298,67 +298,67 @@
     <name>wifiscanssid</name>
     <message>
         <source>Scan for Wireless networks</source>
-        <translation type="unfinished">Scansione di reti Wireless</translation>
+        <translation>Rileva reti senza fili</translation>
     </message>
     <message>
         <source>Available wireless networks</source>
-        <translation type="unfinished">Rete Wireless disponibili</translation>
+        <translation>Reti senza fili disponibili</translation>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation type="unfinished">&amp;Riscannerizza</translation>
+        <translation>&amp;Rileva nuovamente</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Seleziona</translation>
+        <translation>Seleziona</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Scanning for wireless networks...</source>
-        <translation type="unfinished">Scansione reti wireless in corso...</translation>
+        <translation>Sto rilevando le reti senza fili...</translation>
     </message>
     <message>
         <source>Select a wireless network to connect.</source>
-        <translation type="unfinished">Seleziona una rete wireless a cui connettersi.</translation>
+        <translation>Seleziona una rete senza fili a cui collegarsi.</translation>
     </message>
     <message>
         <source>No wireless networks found!</source>
-        <translation type="unfinished">Nessuna rete wireless trovata!</translation>
+        <translation>Nessuna rete senza fili trovata!</translation>
     </message>
     <message>
         <source>No selection</source>
-        <translation type="unfinished">Nessuna selezione</translation>
+        <translation>Nessuna selezione</translation>
     </message>
     <message>
         <source>Error: You must select a network to connect!
 </source>
-        <translation type="unfinished">Errore: Selezionare una rete per connettersi!</translation>
+        <translation>Errore: Selezionare una rete per collegarsi!</translation>
     </message>
 </context>
 <context>
     <name>wifiselectiondialog</name>
     <message>
         <source>Select Wireless Network</source>
-        <translation type="unfinished">Seleziona Rete Wireless</translation>
+        <translation>Seleziona la rete senza fili</translation>
     </message>
     <message>
         <source>Selected Wireless Network</source>
-        <translation type="unfinished">Seleziona Rete Wireless</translation>
+        <translation>Seleziona la rete senza fili</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation type="unfinished">Scansione</translation>
+        <translation>Rilevamento</translation>
     </message>
     <message>
         <source>Using BSSID</source>
@@ -366,97 +366,105 @@
     </message>
     <message>
         <source>Network Security</source>
-        <translation type="unfinished">Network Security</translation>
+        <translation>Sicurezza della rete</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Disabilitato</translation>
+        <translation>Disabilitato</translation>
     </message>
     <message>
         <source>WEP</source>
-        <translation type="unfinished">WEP</translation>
+        <translation>WEP</translation>
     </message>
     <message>
         <source>WPA Personal</source>
-        <translation type="unfinished">WPA Personale</translation>
+        <translation>WPA Personal</translation>
     </message>
     <message>
         <source>WPA Enterprise</source>
-        <translation type="unfinished">WPA Enterprise</translation>
+        <translation>WPA Enterprise</translation>
     </message>
     <message>
         <source>Configure</source>
-        <translation type="unfinished">Configura</translation>
+        <translation>Configura</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Aggiungi</translation>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>No SSID!</source>
-        <translation type="unfinished">No SSID!</translation>
+        <translation>Nessun SSID!</translation>
     </message>
     <message>
         <source>Error: You must select a wireless network to connect!
 </source>
-        <translation type="unfinished">Errore: È necessario selezionare una rete wireless per la connessione! 
+        <translation>Errore: È necessario selezionare una rete senza fili per collegarsi!
 </translation>
     </message>
     <message>
         <source>Invalid BSSID!</source>
-        <translation type="unfinished">BSSID non valido!</translation>
+        <translation>BSSID non valido!</translation>
     </message>
     <message>
         <source>Error: The specified BSSID appears invalid. It must be in the format xx:xx:xx:xx:xx:xx
 </source>
-        <translation type="unfinished">Errore: Il BSSID specificato appare non valido.Deve essere nel formato xx:xx:xx:xx:xx:xx
+        <translation>Errore: Il BSSID specificato appare non valido. Deve essere nel formato xx:xx:xx:xx:xx:xx
 </translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>WEP is selected, but not configured!
 Please configure your WEP key before saving!</source>
-        <translation type="unfinished">WEP selezionata, ma non configurata!
+        <translation>WEP selezionato, ma non configurato!
 Configura la chiave WEP prima di salvare!</translation>
     </message>
     <message>
         <source>WPA-Personal is selected, but not configured!
 Please configure your WPA key before saving!</source>
-        <translation type="unfinished">WPA-Personale selezionata, ma non configurata!
+        <translation>WPA-Personal selezionato, ma non configurato!
 Configura la chiave WPA prima di salvare!</translation>
     </message>
     <message>
         <source>WPA-Enterprise is selected, but not configured!
 Please configure your WPA settings before saving!</source>
-        <translation type="unfinished">WPA-Enterprise selezionata, ma non configurata!
+        <translation>WPA-Enterprise selezionato, ma non configuratoa!
 Configura la chiave WPA prima di salvare!</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Salva</translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>WEP (Configured)</source>
-        <translation type="unfinished">WEP (configurato)</translation>
+        <translation>WEP (configurato)</translation>
     </message>
     <message>
         <source>WPA Personal (Configured)</source>
-        <translation type="unfinished">WPA Personalizzato (configurato)</translation>
+        <translation>WPA Personal (configurato)</translation>
     </message>
     <message>
         <source>WPA Enterprise (Configured)</source>
-        <translation type="unfinished">WPA Enterprise (configurato)</translation>
+        <translation>WPA Enterprise (configurato)</translation>
+    </message>
+    <message>
+        <source>WPA-Enterprise is selected, but not configured!
+Please configure your WPA settings before saving!
+Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
+        <translation>WPA-Enterprise selezionato,a non configurato!
+Si prega di configurare le tue impostazioni WPA prima di salvare!
+Opzioni valide per la fase 2 sono MD5 o MSCHAPV2 o GTC o OTP.</translation>
     </message>
 </context>
 </TS>
