@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Replication Failed for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Replica fallita per %1</translation>
     </message>
     <message>
         <source>Logfile available at: %1</source>

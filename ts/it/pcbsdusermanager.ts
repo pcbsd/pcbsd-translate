@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>AddDlgCode</name>
     <message>
         <source>New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo gruppo</translation>
     </message>
     <message>
         <source>Good Input</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
         <source>New Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nuovo gruppo</translation>
     </message>
     <message>
         <source>Please enter a name for your new group</source>

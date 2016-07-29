@@ -69,15 +69,15 @@
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished">Esperto</translation>
+        <translation>Avanzate</translation>
     </message>
     <message>
         <source>Use hardware defau&amp;lt MAC address</source>
-        <translation type="unfinished">Usa hardware MAC Address di defau&amp;lt</translation>
+        <translation type="unfinished">Usa hardware MAC Address predefinito</translation>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <source>Custom MAC address</source>

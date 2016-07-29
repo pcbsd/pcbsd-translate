@@ -1,67 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>pcADSLDAP</name>
     <message>
         <source>AD and LDAP Configuration</source>
-        <translation type="unfinished">Configurazione AD e LDAP</translation>
+        <translation>Configurazione AD e LDAP</translation>
     </message>
     <message>
         <source>Active Directory</source>
-        <translation type="unfinished">Active Directory</translation>
+        <translation>Active Directory</translation>
     </message>
     <message>
         <source>Enable Active Directory</source>
-        <translation type="unfinished">Permetti Active Directory</translation>
+        <translation>Permetti Active Directory</translation>
     </message>
     <message>
         <source>Domain Name (DNS/Realm-Name)</source>
-        <translation type="unfinished">Nome Dominio (DNS/Realm-Nome)</translation>
+        <translation>Nome dominio (DNS/Realm-Name)</translation>
     </message>
     <message>
         <source>NetBIOS Name</source>
-        <translation type="unfinished">Nome NetBIOS</translation>
+        <translation>Nome NetBIOS</translation>
     </message>
     <message>
         <source>Workgroup Name</source>
-        <translation type="unfinished">Nome Workgroup</translation>
+        <translation>Nome del gruppo di lavoro</translation>
     </message>
     <message>
         <source>Allow Trusted Domains</source>
-        <translation type="unfinished">Consenti Domini Fidati</translation>
+        <translation>Consenti domini fidati</translation>
     </message>
     <message>
         <source>Administrator Name</source>
-        <translation type="unfinished">Nome Amministratore</translation>
+        <translation>Nome dell'amministratore</translation>
     </message>
     <message>
         <source>Administrator Password</source>
-        <translation type="unfinished">Password Amministratore</translation>
+        <translation>Password dell'amministratore</translation>
     </message>
     <message>
         <source>Administrator Password (Confirm)</source>
-        <translation type="unfinished">Password Amministratore (Conferma)</translation>
+        <translation>Password dell'amministratore (conferma)</translation>
     </message>
     <message>
         <source>LDAP</source>
-        <translation type="unfinished">LDAP</translation>
+        <translation>LDAP</translation>
     </message>
     <message>
         <source>Enable LDAP</source>
-        <translation type="unfinished">Permetti LDAP</translation>
+        <translation>Permetti LDAP</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished">Hostname</translation>
+        <translation>Hostname</translation>
     </message>
     <message>
         <source>Base DN</source>
-        <translation type="unfinished">Base DN</translation>
+        <translation>Base DN</translation>
     </message>
     <message>
         <source>Allow Anon Binding</source>
-        <translation type="unfinished">Consenti Anon Binding</translation>
+        <translation type="unfinished">Consenti binding anonimi</translation>
     </message>
     <message>
         <source>Root bind DN</source>
@@ -69,27 +69,27 @@
     </message>
     <message>
         <source>Root bind password</source>
-        <translation type="unfinished">Root bind password</translation>
+        <translation type="unfinished">Password di bind root</translation>
     </message>
     <message>
         <source>Password Encryption</source>
-        <translation type="unfinished">Cripta Password</translation>
+        <translation>Cifratura password</translation>
     </message>
     <message>
         <source>User Suffix</source>
-        <translation type="unfinished">Suffisso Utente</translation>
+        <translation>Suffisso utente</translation>
     </message>
     <message>
         <source>Group Suffix</source>
-        <translation type="unfinished">Suffisso Gruppo</translation>
+        <translation>Suffisso gruppo</translation>
     </message>
     <message>
         <source>Password Suffix</source>
-        <translation type="unfinished">Suffisso Password</translation>
+        <translation>Suffisso password</translation>
     </message>
     <message>
         <source>Machine Suffix</source>
-        <translation type="unfinished">Suffisso Macchina</translation>
+        <translation>Suffisso macchina</translation>
     </message>
     <message>
         <source>Encryption Mode</source>
@@ -97,27 +97,27 @@
     </message>
     <message>
         <source>Self Signed Certificate</source>
-        <translation type="unfinished">Certificato Auto Firmato</translation>
+        <translation>Certificato self signed</translation>
     </message>
     <message>
         <source>Auxiliary Parameters</source>
-        <translation type="unfinished">Parametri Ausiliari</translation>
+        <translation>Parametri ausiliari</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Salva</translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Active Directory Configuration</source>
-        <translation type="unfinished">Configurazione Active Directory</translation>
+        <translation>Configurazione di Active Directory</translation>
     </message>
     <message>
         <source>The Active Directory passwords specified do not match!</source>
-        <translation type="unfinished">La password di Active Directory specificata non corrisponde!</translation>
+        <translation>La password di Active Directory specificata non corrisponde!</translation>
     </message>
 </context>
 </TS>

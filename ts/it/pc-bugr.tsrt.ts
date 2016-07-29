@@ -5,35 +5,35 @@
     <name>MainWindow</name>
     <message>
         <source>PC-BSD bug reporting tool</source>
-        <translation type="unfinished"/>
+        <translation>Strumento di segnalazione bug di PC-BSD</translation>
     </message>
     <message>
         <source>Please select the component where the error occurs.</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di selezionare il componente dove si è verificato l'errore</translation>
     </message>
     <message>
         <source>FreeBSD base system</source>
-        <translation type="unfinished"/>
+        <translation>Sistema base di FreeBSD</translation>
     </message>
     <message>
         <source>PC-BSD base system</source>
-        <translation type="unfinished"/>
+        <translation>Sistema base di PC-BSD</translation>
     </message>
     <message>
         <source>Xorg server</source>
-        <translation type="unfinished"/>
+        <translation>Server Xorg</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished"/>
+        <translation>Ambiente desktop</translation>
     </message>
     <message>
         <source>FreeBSD software (ports/packages)</source>
-        <translation type="unfinished"/>
+        <translation>Software FreeBSD (port/pacchetti)</translation>
     </message>
     <message>
         <source>PC-BSD software (pbi)</source>
-        <translation type="unfinished"/>
+        <translation>Software PC-BSD (pbi)</translation>
     </message>
     <message>
         <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
@@ -75,39 +75,39 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Please select which desktop environment causes the issue:</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di selezionare quale ambiente desktop ha causato l'anomalia:</translation>
     </message>
     <message>
         <source>New Item</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Nuovo elemento</translation>
     </message>
     <message>
         <source>Gnome</source>
-        <translation type="unfinished"/>
+        <translation>Gnome</translation>
     </message>
     <message>
         <source>1. Send an email to the freebsd-gnome mail list</source>
-        <translation type="unfinished"/>
+        <translation>1. Invia un email alla mailing list di freebsd-gnome</translation>
     </message>
     <message>
         <source>2. Create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>2. Crea un ticket sul bug tracker di PC-BSD</translation>
     </message>
     <message>
         <source>KDE</source>
-        <translation type="unfinished"/>
+        <translation>KDE</translation>
     </message>
     <message>
         <source>1. Submit a bug report to the KDE bug tracker</source>
-        <translation type="unfinished"/>
+        <translation>1. Sottometti una segnalazione bug sul bug tracker di KDE</translation>
     </message>
     <message>
         <source>2. If you think that problem is FreeBSD specific please report to the kde-freebsd mailing list</source>
-        <translation type="unfinished"/>
+        <translation>2. Se pensi che il problema sia specifico di FreeBSD si prega di segnalarlo alla mailing list di kde-freebsd.</translation>
     </message>
     <message>
         <source>3.If you think that problem is PC-BSD specific, please create a ticket on the PC-BSD bug tracker.</source>
-        <translation type="unfinished"/>
+        <translation>3. Se pensi che sia un problema specifico di PC-BSD, si prega di aprire un ticket sul bug tracker di PC-BSD</translation>
     </message>
     <message>
         <source>XFCE</source>
@@ -147,39 +147,39 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>1. You may report a bug to your favorite desktop environment bug tracker / mail list</source>
-        <translation type="unfinished"/>
+        <translation>1. Puoi segnalare un bug del tuo ambiente desktop preferito sulla mailing list / bug tracker relativo</translation>
     </message>
     <message>
         <source>FreeBSD software</source>
-        <translation type="unfinished"/>
+        <translation>Software FreeBSD</translation>
     </message>
     <message>
         <source>1. You can report issues to freebsd-ports-bugs mailing lists</source>
-        <translation type="unfinished"/>
+        <translation>1. Puoi segnalare anomalie sulla mailing list di freebsd-ports-bugs</translation>
     </message>
     <message>
         <source>PBI software</source>
-        <translation type="unfinished"/>
+        <translation>Software PBI</translation>
     </message>
     <message>
         <source>Please select PBI software with bug</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di selezionare il software PBI con il bug</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Icona</translation>
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Applicazione</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Versione</translation>
     </message>
     <message>
         <source>1. You can try to report a bug at software site</source>
-        <translation type="unfinished"/>
+        <translation>1. Puoi provare a segnalare il bug sul sito del software</translation>
     </message>
     <message>
         <source>2.If you think that problem is PC-BSD specific please report to the PCBSD pbi-bugs mailing list</source>
@@ -225,39 +225,39 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>dmesg output</source>
-        <translation type="unfinished"/>
+        <translation>Output dmesg</translation>
     </message>
     <message>
         <source>Xorg log</source>
-        <translation type="unfinished"/>
+        <translation>Log Xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>
-        <translation type="unfinished"/>
+        <translation>Foglio diagnostico</translation>
     </message>
     <message>
         <source>PCBSD diagnostic report</source>
-        <translation type="unfinished"/>
+        <translation>Foglio diagnostico di PC-BSD</translation>
     </message>
     <message>
         <source>lsusb output</source>
-        <translation type="unfinished"/>
+        <translation>Output di lsusb</translation>
     </message>
     <message>
         <source>PCI devices list - PCIConf</source>
-        <translation type="unfinished"/>
+        <translation>List dei dispositivi PCI - PCIConf</translation>
     </message>
     <message>
         <source>Xorg version</source>
-        <translation type="unfinished"/>
+        <translation>Versione Xorg</translation>
     </message>
     <message>
         <source>FreeBSD version  (uname -a)</source>
-        <translation type="unfinished"/>
+        <translation>Versione FreeBSD  (uname -a)</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"/>
+        <translation>Non riuscito</translation>
     </message>
     <message>
         <source>Failed to create diagnostic sheet</source>

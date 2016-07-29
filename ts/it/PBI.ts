@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Vendor: </source>
-        <translation type="unfinished">Produttore:             </translation>
+        <translation>Fornitore: </translation>
     </message>
     <message>
         <source>URL: </source>
-        <translation type="unfinished">URL: </translation>
+        <translation>URL: </translation>
     </message>
     <message>
         <source>&lt;Author&gt;</source>
@@ -145,11 +145,11 @@
     </message>
     <message>
         <source>Invalid digital signature</source>
-        <translation type="unfinished">Firma digitale non valida</translation>
+        <translation>Firma digitale non valida</translation>
     </message>
     <message>
         <source>This application has a bad or unknown digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
-        <translation type="unfinished">Questa applicazione ha una firma digitale errata o sconosciuta. Installare applicazioni da sorgenti sconosciute potrebbe essere pericoloso. Continuare con l'installazione?            </translation>
+        <translation>Questa applicazione ha una firma digitale errata o sconosciuta. Installare applicazioni da sorgenti sconosciute potrebbe essere pericoloso. Continuare con l'installazione?    </translation>
     </message>
 </context>
 </TS>

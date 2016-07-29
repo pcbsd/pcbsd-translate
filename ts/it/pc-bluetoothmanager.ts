@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>&amp;Restart Service</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Riavvia servizio</translation>
     </message>
     <message>
         <source>New Devices</source>
@@ -73,23 +73,23 @@
     </message>
     <message>
         <source>Reading saved Bluetooth devices. Please wait.</source>
-        <translation type="unfinished">Lettura dei dispositivi Bluetooth salvati. Attendere.</translation>
+        <translation>Lettura dei dispositivi Bluetooth salvati. Attendere.</translation>
     </message>
     <message>
         <source>This program must be run with root permissions to view/edit saved configurations</source>
-        <translation type="unfinished">Per visualizzare/modificare le configurazioni salvate, questo programma deve essere avviato con permessi da amministratore</translation>
+        <translation>Per visualizzare/modificare le configurazioni salvate, questo programma deve essere avviato con permessi da amministratore</translation>
     </message>
     <message>
         <source>No saved configurations found</source>
-        <translation type="unfinished">Nessuna configurazione salvata trovata</translation>
+        <translation>Nessuna configurazione trovata</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished">Attenzione</translation>
+        <translation>Attenzione</translation>
     </message>
     <message>
         <source>No device has been selected. Please choose a device first.</source>
-        <translation type="unfinished">Nessun dispositivo è stato selezionato. Seleziona un dispositivo prima.</translation>
+        <translation>Nessun dispositivo è stato selezionato. Si prega di selezionare un dispositivo prima.</translation>
     </message>
     <message>
         <source>Invalid Permissions</source>

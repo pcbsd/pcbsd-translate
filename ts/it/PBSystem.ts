@@ -80,27 +80,27 @@
     </message>
     <message>
         <source>System Memory:</source>
-        <translation type="unfinished">Memoria di Sistema:</translation>
+        <translation>Memoria di sistema:</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished">Tasks</translation>
+        <translation>Attività</translation>
     </message>
     <message>
         <source>System Tasks</source>
-        <translation type="unfinished">Attività di sistema</translation>
+        <translation>Attività di sistema</translation>
     </message>
     <message>
         <source>Fetch PC-BSD &amp;System Source</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recupera il &amp;sorgente di PC-BSD</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Fetch PC-BSD P&amp;orts Tree</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recupera l&apos;albero dei &amp;port di PC-BSD</translation>
     </message>
     <message>
         <source>Misc</source>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>MainDialog</name>
     <message>
         <source>Firewall Manager</source>
-        <translation type="unfinished">Amministra il Firewall</translation>
+        <translation>Gestore Firewall</translation>
     </message>
     <message>
         <source>General</source>
@@ -13,63 +13,63 @@
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ripristina la configurazione predefinita</translation>
     </message>
     <message>
         <source>Firewall</source>
-        <translation type="unfinished">Firewall</translation>
+        <translation>Firewall</translation>
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Avvia</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ferma</translation>
     </message>
     <message>
         <source>Re&amp;start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ri&amp;avvia</translation>
     </message>
     <message>
         <source>General settings</source>
-        <translation type="unfinished">Impostazioni generali</translation>
+        <translation>Impostazioni generali</translation>
     </message>
     <message>
         <source>Enable Firewall on startup</source>
-        <translation type="unfinished">Abilita il Firewall all&apos;avvio del computer</translation>
+        <translation>Abilita il firewall all&apos;avvio del computer</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation type="unfinished">Porta</translation>
+        <translation>Porta</translation>
     </message>
     <message>
         <source>Open Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Porte aperte</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo</translation>
     </message>
     <message>
         <source>Close Selected Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi le porte selezionate</translation>
     </message>
     <message>
         <source>Open Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta aperta</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota: Queste impostazioni sono solo usate quando il sistema non è instradato attraverso Tor</translation>
     </message>
 </context>
 <context>
@@ -77,36 +77,36 @@
     <message>
         <source>This will turn off the firewall completely.
 Are you sure?</source>
-        <translation type="unfinished">Consente di disattivare il firewall completamente.
+        <translation>Il firewall sarà completamente disabilitato. 
 Sei sicuro?</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished">Domanda</translation>
+        <translation>Domanda</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Successo</translation>
+        <translation>Successo</translation>
     </message>
     <message>
         <source>Restarted successfuly!</source>
-        <translation type="unfinished">Riavviato con successo!</translation>
+        <translation>Riavviato con successo!</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">Fallimento</translation>
+        <translation>Non riuscito</translation>
     </message>
     <message>
         <source>Failed to restart!</source>
-        <translation type="unfinished">Riavvio non riuscito!</translation>
+        <translation>Riavvio non riuscito!</translation>
     </message>
     <message>
         <source>Restored.</source>
-        <translation type="unfinished">Ripristinato.</translation>
+        <translation>Ripristinato.</translation>
     </message>
     <message>
         <source>Config file successfuly restored.</source>
-        <translation type="unfinished">File di configurazione ripristinato con successo.</translation>
+        <translation>File di configurazione ripristinato con successo.</translation>
     </message>
 </context>
 </TS>
