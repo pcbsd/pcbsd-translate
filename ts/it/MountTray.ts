@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Auto-Run</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>The device could not be unmounted. Please try again later</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Filesystem Detected</source>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation>Mostra l'occupazione del disco</translation>
+        <translation>Mostra l&apos;occupazione del disco</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation>Nuovi dispositivi sono pronti all'uso</translation>
+        <translation>Nuovi dispositivi sono pronti all&apos;uso</translation>
     </message>
     <message>
         <source>Network Shares</source>
