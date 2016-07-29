@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Delete the current item from the PBI module</source>
-        <translation>حذف آیتم در حال حاضر از ماژول PBI</translation>
+        <translation>حذف نمونهٔ کنونی از ماژول PBI</translation>
     </message>
     <message>
         <source>Begin creating a new XDG entry</source>
@@ -344,7 +344,7 @@
     </message>
     <message>
         <source>Visible name for the item</source>
-        <translation>نام قابل مشاهده برای آیتم</translation>
+        <translation>نام قابل مشاهده برای نمونه</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -352,7 +352,7 @@
     </message>
     <message>
         <source>Binary to be run when the item is activated</source>
-        <translation>دودویی اجرا می شود هنگامی که آیتم فعال است</translation>
+        <translation>دودویی اجرا می شود هنگامی که نمونه فعال است</translation>
     </message>
     <message>
         <source>Auto-detected binaries for the PBI</source>
@@ -805,7 +805,7 @@
         <translation>کارگشای تغییر کاربر</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation> مسیر کامل به کارگشای گرافیکی تغییر کاربر (qsu ،kdesu ،gksu ،pc-su ...)</translation>
     </message>
     <message>
@@ -1011,7 +1011,7 @@
         <translation>EasyPBI نسخه‌ی %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>BPIها را تند و آسان بساز.</translation>
     </message>
     <message>

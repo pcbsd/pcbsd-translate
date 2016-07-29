@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
     <name>MainWindow</name>
     <message>
         <source>PC-BSD Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>میزِ مهارِ پی‌سی-بی‌اس‌دی</translation>
     </message>
     <message>
         <source>What do you want to configure?</source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Loading items...</source>
-        <translation type="unfinished"></translation>
+        <translation>نمونه‌ها دارند بارگذاری می‌شوند...</translation>
     </message>
     <message>
         <source>Software and updates</source>
@@ -41,35 +41,35 @@
     </message>
     <message>
         <source>Normal icons</source>
-        <translation type="unfinished"></translation>
+        <translation>نمادک‌های ساده</translation>
     </message>
     <message>
         <source>Large icons</source>
-        <translation type="unfinished"></translation>
+        <translation>نمادک‌های بزرگ</translation>
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش چهارخانه</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش فهرست‌وار</translation>
     </message>
     <message>
         <source>System only</source>
-        <translation type="unfinished"></translation>
+        <translation>ویژهٔ سامانه</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ رومیزی‌ها</translation>
     </message>
     <message>
         <source>Fixed items layout</source>
-        <translation type="unfinished"></translation>
+        <translation>آرایش نمونه‌های ایستا</translation>
     </message>
     <message>
         <source>(Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>(کنونی)</translation>
     </message>
 </context>
 </TS>
