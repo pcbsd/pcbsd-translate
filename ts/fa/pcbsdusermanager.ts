@@ -13,86 +13,86 @@
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگاه خالی است</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه تنها بندواژه(حرف) و شماره می‌پذیرد</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>این نام کاربری بکار گرفته شده است، خواهشمند است نام کاربری دیگری برگزینید.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی دارند</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی ندارند</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>دروندادِ بی‌ارزش</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه نباید دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه بکار گرفته خواهد شد</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانیِ بی‌ارزش!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه نیست ولی ساخته خواهد شد</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation>گذاشتن پوشهٔ خانه بیرون از «/home/» می‌تواند مایهٔ دشواری‌های همسازی برای برخی برنامه‌ها شود. پیشنهاد نمی‌شود</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished"></translation>
+        <translation>در نشانی درخواست شده یک پرونده است (نه یک پوشه!)</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی‌های زیر هنگام تلاش برای افزودن یک کاربر تازه رخ داد:</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی‌های ناآشفته‌گر زیر هنگام تلاش برای افزودن کاربری جدید رخ داد، آیا می‌خواهید همچنان این کار را دنبال کنید؟</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>- جایگاهِ «نام کاربر» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>- جایگاهِ «نام کاربر» تنها می‌تواند دارای بندواژه(حرف) و شماره باشد (و نه جدایی).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>- نام کاربری‌ای که شما برگزیده‌اید از پیش بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>- جایگاه «همهٔ نام» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>- جایگاه «همهٔ نام» نمی‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
@@ -113,17 +113,17 @@
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>- هر دو گذرواژه باید پر شوند.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>- گذرواژه‌ها همخوانی ندارند، خواهشمند است دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished"></translation>
+        <translation>- گذرواژهٔ نارَوا</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -136,26 +136,26 @@
     <message>
         <source>
  - UID is already in use, please pick a different one</source>
-        <translation type="unfinished"></translation>
+        <translation>- شناسهٔ کاربر بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید</translation>
     </message>
 </context>
 <context>
     <name>AddUserUI</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربر بیافزای</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگاه تهی است</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را با بازنویسی پشتیبانی کنید:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ نامِ شما:</translation>
     </message>
     <message>
         <source>Shell:</source>
@@ -163,15 +163,15 @@
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام کاربری:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشهٔ خانه:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
@@ -183,11 +183,11 @@
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نگه دار</translation>
     </message>
     <message>
         <source>Alt+O</source>
@@ -207,7 +207,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>خودکار</translation>
     </message>
 </context>
 <context>
@@ -234,15 +234,15 @@
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی دارند</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی ندارند</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>دروندادِ بی‌ارزش</translation>
     </message>
 </context>
 <context>
@@ -253,11 +253,11 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه:</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را با دوباره نویسی پشتیبانی کنید:</translation>
     </message>
     <message>
         <source>O&amp;k</source>
@@ -265,7 +265,7 @@
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -280,7 +280,7 @@
     <name>MainDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>گردانندهٔ کاربرِ پی‌سی-بی‌اس‌دی</translation>
     </message>
     <message>
         <source>&amp;Users</source>
@@ -288,15 +288,15 @@
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>بی&amp;افزای</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بردار</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -308,11 +308,11 @@
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ نام:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشهٔ خانه:</translation>
     </message>
     <message>
         <source>Shell:</source>
@@ -324,11 +324,11 @@
     </message>
     <message>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را &amp;جایگزین کن...</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
@@ -356,7 +356,7 @@
     </message>
     <message>
         <source>&amp;Simple View</source>
-        <translation type="unfinished"></translation>
+        <translation>نمایش &amp;ساده</translation>
     </message>
     <message>
         <source>Alt+V</source>
@@ -364,7 +364,7 @@
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Export Key</source>
@@ -391,7 +391,7 @@
     <name>PCBSDUserManager</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">گردانندهٔ کاربرِ پی‌سی-بی‌اس‌دی</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -422,81 +422,81 @@
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگاه پر نشده است</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه تنها می‌تواند بندواژه(حرف) و شماره بپذیرد</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>این نام کاربری از پیش بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی دارند</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه‌ها همخوانی ندارند</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>دروندادِ بی‌ارزش</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه نمی‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی‌های زیر هنگام افزودن یک کاربر رخ داد:</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">نادرستی‌های ناآشفته‌گر زیر هنگام تلاش برای افزودن کاربری جدید رخ داد، آیا می‌خواهید همچنان این کار را دنبال کنید؟</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- جایگاهِ «نام کاربر» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- جایگاهِ «نام کاربر» تنها می‌تواند دارای بندواژه(حرف) و شماره باشد (و نه جدایی).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- نام کاربری‌ای که شما برگزیده‌اید از پیش بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- جایگاه «همهٔ نام» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">- جایگاه «همهٔ نام» نمی‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>- هر دو جایگاهِ گذرواژه باید پر شود.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>- گذرواژه‌ها همخوانی ندارند، خواهشمند است دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished"></translation>
+        <translation>- گذرواژهٔ ناروا</translation>
     </message>
     <message>
         <source>Error!</source>
@@ -511,27 +511,27 @@
     <name>SimpleAddDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربر بیافزای</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ نام:</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه پر نشده است</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished"></translation>
+        <translation>نام کاربری:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه:</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;نگه دار</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -554,19 +554,19 @@
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">گردانندهٔ کاربرِ پی‌سی-بی‌اس‌دی</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">بی&amp;افزای</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;بردار</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -590,7 +590,7 @@
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>همهٔ نام:</translation>
     </message>
     <message>
         <source>Can administrate s&amp;ystem</source>
@@ -617,19 +617,19 @@
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگاه پر نشده است</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه تنها می‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>پاک کردن پوشهٔ خانه؟</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation>پاک کردن پوشهٔ خانه برای </translation>
     </message>
 </context>
 <context>
@@ -640,11 +640,11 @@
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>پاک کردن پوشهٔ خانه؟</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">پاک کردن پوشهٔ خانه برای </translation>
     </message>
     <message>
         <source>Error adding group...</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">پوشه بکار گرفته خواهد شد</translation>
     </message>
     <message>
         <source>The field is empty</source>
@@ -684,27 +684,27 @@
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished"></translation>
+        <translation>نشانیِ نارَوا!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>پوشه نیست، ولی ساخته خواهد شد</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation>گذاشتن پوشهٔ خانه بیرون از «/home/» می‌تواند دشواری‌های همسازی‌ برای برخی برنامه‌ها پیش آورد. پیشنهاد نمی‌شود!</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished"></translation>
+        <translation>در نشانی درخواست شده یک پرونده است (نه یک پوشه!)</translation>
     </message>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">ورودی خوب</translation>
+        <translation>درونداد خوب</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>این جایگاه نمی‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>Import PersonaCrypt Key</source>
@@ -780,7 +780,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">گذرواژه:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>

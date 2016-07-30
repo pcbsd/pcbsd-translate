@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -27,12 +27,12 @@
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.ui" line="130"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.cpp" line="65"/>
         <source>Mute</source>
-        <translation>بی آوا</translation>
+        <translation>بی آوا کن</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/DeviceWidget.cpp" line="62"/>
         <source>Unmute</source>
-        <translation>با آوا</translation>
+        <translation>با آوا کن</translation>
     </message>
 </context>
 <context>
@@ -70,7 +70,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="105"/>
         <source>Test</source>
-        <translation>آزمایش</translation>
+        <translation>آزمایش کن</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="128"/>
@@ -90,42 +90,42 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="161"/>
         <source>&amp;Quit Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>آمیزنده را &amp;رها کن</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="170"/>
         <source>Change &amp;Audio Device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه &amp;شنیداری را جایگزین کن</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="173"/>
         <source>pc-su pc-soundconfig</source>
-        <translation type="unfinished"></translation>
+        <translation>pc-su pc-soundconfig</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="182"/>
         <source>&amp;PulseAudio Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>آمیزندهٔ &amp;پالس‌اُدیو</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="185"/>
         <source>pavucontrol</source>
-        <translation type="unfinished"></translation>
+        <translation>pavucontrol</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="194"/>
         <source>PulseAudio &amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ساماندهی‌های پالس‌اُدیو</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="197"/>
         <source>paprefs</source>
-        <translation type="unfinished"></translation>
+        <translation>paprefs</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerGUI.ui" line="202"/>
         <source>Restart PulseAudio</source>
-        <translation type="unfinished"></translation>
+        <translation>پالس‌اُدیو را دوباره آغاز کن</translation>
     </message>
 </context>
 <context>
@@ -133,12 +133,12 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="20"/>
         <source>Mixer</source>
-        <translation type="unfinished">آمیزنده</translation>
+        <translation>آمیزنده</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-mixer/MixerTray.cpp" line="33"/>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation>برونداد</translation>
     </message>
 </context>
 </TS>
