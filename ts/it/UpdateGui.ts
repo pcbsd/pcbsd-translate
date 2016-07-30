@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -107,7 +107,7 @@ Si prega di aggiornare il sistema</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic updates are started in the background 20 minutes after the system boot (and every 24 hours of uptime)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gli aggiornamenti atuomatici partono in background 20 minuti dopo l'avvio del sistema (e ogni 24 ore)&lt;/p&gt;&lt;/body&gt;&lt;/html</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gli aggiornamenti atuomatici partono in background 20 minuti dopo l&apos;avvio del sistema (e ogni 24 ore)&lt;/p&gt;&lt;/body&gt;&lt;/html</translation>
     </message>
     <message>
         <source>Close Window</source>
