@@ -368,38 +368,38 @@
     </message>
     <message>
         <source>Export Key</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید را برونبَری کن</translation>
     </message>
     <message>
         <source>Import Key</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید را درونبَری کن</translation>
     </message>
     <message>
         <source>Disable Key (No Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید را از کار بیانداز (بی هیچ داده‌ای)</translation>
     </message>
     <message>
         <source>Disable Key (Import Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید را از کار بیانداز (داده را درونبَری کن)</translation>
     </message>
     <message>
         <source>Initialize Device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه را آمادهٔ کار کن</translation>
     </message>
 </context>
 <context>
     <name>PCBSDUserManager</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished">گردانندهٔ کاربرِ پی‌سی-بی‌اس‌دی</translation>
+        <translation>گردانندهٔ کاربرِ PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>ب&amp;کار ببر</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>ب&amp;بند</translation>
     </message>
     <message>
         <source>Apply pending changes?</source>
@@ -456,22 +456,22 @@
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished">نادرستی‌های ناآشفته‌گر زیر هنگام تلاش برای افزودن کاربری جدید رخ داد، آیا می‌خواهید همچنان این کار را دنبال کنید؟</translation>
+        <translation>نادرستی‌های ناآشفته‌گر زیر هنگام تلاش برای افزودن کاربری جدید رخ دادند، آیا می‌خواهید همچنان این کار را دنبال کنید؟</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished">- جایگاهِ «نام کاربر» پر نشده است.</translation>
+        <translation>- جایگاهِ «نام کاربر» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished">- جایگاهِ «نام کاربر» تنها می‌تواند دارای بندواژه(حرف) و شماره باشد (و نه جدایی).</translation>
+        <translation>- جایگاهِ «نام کاربر» تنها می‌تواند دارای بندواژه(حرف) و شماره باشد (و نه جدایی).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished">- نام کاربری‌ای که شما برگزیده‌اید از پیش بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید.</translation>
+        <translation>- نام کاربری‌ای که شما برگزیده‌اید از پیش بکار گرفته شده است، خواهشمند است یکی دیگر برگزینید.</translation>
     </message>
     <message>
         <source>
@@ -547,18 +547,18 @@
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را دوباره بنویسید:</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished">گردانندهٔ کاربرِ پی‌سی-بی‌اس‌دی</translation>
+        <translation>گردانندهٔ کاربرِ PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">بی&amp;افزای</translation>
+        <translation>بی&amp;افزای</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -644,7 +644,7 @@
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished">پاک کردن پوشهٔ خانه برای </translation>
+        <translation>پوشهٔ خانه را پاک کن برای </translation>
     </message>
     <message>
         <source>Error adding group...</source>
@@ -656,23 +656,23 @@
     </message>
     <message>
         <source>Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted</source>
-        <translation type="unfinished">نام گروه نا معتبر مشخص شده است. نام گروه فقط باید شامل عدد و حروف باشد. فاصله مجاز نیست</translation>
+        <translation>نام گروهِ بی‌ارزشی گمارده شده. نام گروه‌ها تنها می‌تواند دارای بندواژه(حرف) و شماره باشد. بی هیچ ناپیوستگی‌ای</translation>
     </message>
     <message>
         <source>The group &apos;</source>
-        <translation type="unfinished">گروه  </translation>
+        <translation>گروهِ «</translation>
     </message>
     <message>
         <source>&apos; already exists, please choose a different name</source>
-        <translation type="unfinished">قبلا موجود است، لطفا نام دیگری انتخاب کنید</translation>
+        <translation>» از پیش بوده است، خواشمند است نام دیگری برگزینید.</translation>
     </message>
     <message>
         <source>New Group</source>
-        <translation type="unfinished">گروه جدید</translation>
+        <translation>گروهِ تازه</translation>
     </message>
     <message>
         <source>Please enter a name for your new group</source>
-        <translation type="unfinished">لطفا یک نام برای گروه جدید خود وارد کنید</translation>
+        <translation>خواهشمند است نامی برای گروه تازهٔ خود بدهید</translation>
     </message>
     <message>
         <source>Directory will be used</source>
