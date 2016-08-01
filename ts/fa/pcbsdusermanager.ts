@@ -752,119 +752,119 @@
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will only de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان هستید که می‌خواهید دستگاه PersonaCrypt خود را برای این کاربر از کار بیاندازید؟ این کار کلیدِ شما را تنها در این سامانه از کار خواهد انداخت (دستگاه PersonaCrypt همچنان در سامانه‌های دیگر کاربرد خواهد داشت).</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key has been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>کلیدِ کاربرِ PersonaCrypt از کار انداخته شده است.</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key could not be removed. Do you have the proper permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>کلیدِ کاربرِ PersonaCrypt برداشته نمی‌شود. آیا روادید(اجازه)های درست برای این کار را دارید؟</translation>
     </message>
     <message>
         <source>PersonaCrypt Device Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه PersonaCrypt پیدا نشد</translation>
     </message>
     <message>
         <source>Please ensure that your PersonaCrypt device is connected to the system and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>خواهشمند است بی‌گمان شوید که دستگاه PersonaCrypt شما به سامانه پیوسته شده است و دوباره تلاش کنید.</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will merge the data from the device onto your system and de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا بی‌گمان هستید که می‌خواهید دستگاه PersonaCrypt خود را برای این کاربر از کار بیاندازید؟ این کار داده را از دستگاه در سامانه‌یتان می‌آمیزد و کلیدتان را بر روی این سامانه از کار می‌اندازد (دستگاه PersonaCrypt همچنان بر روی سامانه‌های دیگر کاربرد خواهد داشت).</translation>
     </message>
     <message>
         <source>PersonaCrypt Access</source>
-        <translation type="unfinished"></translation>
+        <translation>دسترسی PersonaCrypt</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">گذرواژه:</translation>
+        <translation>گذرواژه:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>داده‌ٔ این کاربر در سامانه آمیخته شده است و کلید سامانه از کار انداخته شده است</translation>
     </message>
     <message>
         <source>The PersonaCrypt user data could not be merged onto the system. Invalid Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>دادهٔ کاربرِ PersonaCrypt در سامانه آمیخته نمی‌شود. گذرواژهٔ نادرست؟</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>هیچ دستگاهی پیدا نشد</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>خواهشمند است یک دستگاهِ جدا شدنی پیوند داده و دوباره تلاش کنید</translation>
     </message>
     <message>
         <source>Select a device</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاهی را برگزینید</translation>
     </message>
     <message>
         <source>Warning 1: All the contents of the device will be wiped during PersonaCrypt initialization.</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار ۱: همهٔ درونمایهٔ دستگاه در آماده سازیِ PersonaCrypt پاک خواهد شد.</translation>
     </message>
     <message>
         <source>Warning 2: Device size needs to be larger than the current home dir.</source>
-        <translation type="unfinished"></translation>
+        <translation>هشدار ۲: اندازهٔ دستگاه باید بیشتر از اندازهٔ پوشهٔ خانهٔ کنونی باشد.</translation>
     </message>
     <message>
         <source>Home Dir Size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>اندازهٔ پوشهٔ خانه: %1</translation>
     </message>
     <message>
         <source>Create Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه برای دستگاه درست کن</translation>
     </message>
     <message>
         <source>Invalid Password or Match - try again</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژهٔ ناروا یا ناهمخوانی - دوباره تلاش کنید</translation>
     </message>
     <message>
         <source>Repeat Password</source>
-        <translation type="unfinished"></translation>
+        <translation>گذرواژه را دوباره بنویسید</translation>
     </message>
     <message>
         <source>Are you ready to start the device initialization? (This may take a few minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>آیا برای آماده‌سازیِ دستگاه آماده‌اید؟ (این کار می‌تواند چند دَم(دقیقه) به درازا بکشد)</translation>
     </message>
     <message>
         <source>Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاه: %1</translation>
     </message>
     <message>
         <source>User: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربر: %2</translation>
     </message>
     <message>
         <source>Current User Data: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>داده‌های کاربرِ کنونی: %3</translation>
     </message>
     <message>
         <source>PersonaCrypt Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt آماده است</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستی</translation>
     </message>
     <message>
         <source>Could not create a temporary file for personacrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>نمی‌توان پرونده‌ای گذرا برای personacrypt درست کرد</translation>
     </message>
     <message>
         <source>The PersonaCrypt device was successfully initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاهِ PersonaCrypt با پیروزی آماده‌سازی شد</translation>
     </message>
     <message>
         <source>The PersonaCrypt device could not be initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>دستگاهِ PersonaCrypt نتوانست آماده‌سازی شود</translation>
     </message>
     <message>
         <source>New User (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>کاربرِ تازه (%1)</translation>
     </message>
 </context>
 </TS>
