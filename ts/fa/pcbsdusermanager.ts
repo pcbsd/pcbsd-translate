@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">دگرساز+ز (Alt+C)</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>User ID:</source>
@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished">Alt+D</translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Available:  </source>
@@ -360,7 +360,7 @@
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished">Alt+V </translation>
+        <translation>Alt+V </translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
@@ -411,7 +411,7 @@
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished">ویرایش کاربران برای Jail:</translation>
+        <translation>ویرایش کاربران برای Jail:</translation>
     </message>
 </context>
 <context>
@@ -476,12 +476,12 @@
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">- جایگاه «همهٔ نام» پر نشده است.</translation>
+        <translation>- جایگاه «نام و نامِ خانوادگی» پر نشده است.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">- جایگاه «همهٔ نام» نمی‌تواند دارای ! @ یا : باشد</translation>
+        <translation>- جایگاه «نام و نامِ خانوادگی» نمی‌تواند دارای ! @ یا : باشد</translation>
     </message>
     <message>
         <source>
@@ -535,7 +535,7 @@
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -543,7 +543,7 @@
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished">Alt+N</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
@@ -562,15 +562,15 @@
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;بردار</translation>
+        <translation>&amp;بردار</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>&amp;Change Admin Password...</source>
@@ -578,7 +578,7 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">دگرساز+ز (Alt+C)</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>A&amp;dvanced View</source>
@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished">Alt+D</translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Full Name:</source>
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+Y</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <source>C&amp;hange Password...</source>
@@ -606,7 +606,7 @@
     </message>
     <message>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+H</translation>
+        <translation>Alt+H</translation>
     </message>
 </context>
 <context>
@@ -676,11 +676,11 @@
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished">پوشه بکار گرفته خواهد شد</translation>
+        <translation>پوشه بکار گرفته خواهد شد</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>جایگاه پر نشده است</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
@@ -708,47 +708,47 @@
     </message>
     <message>
         <source>Import PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>کلیدِ PersonaCrypt درونبَری کن</translation>
     </message>
     <message>
         <source>Key Files (*.key);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>پرونده‌های کلید (key.*);; همهٔ پرونده‌ها (*)</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>پیروزی</translation>
     </message>
     <message>
         <source>The key file was imported successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید با پیروزی درونبَری شد.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>ناکامی</translation>
     </message>
     <message>
         <source>The key file could not be imported. Please ensure you are using a valid file.</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ کلید نتوانست درونبَری شود. خواهشمند است بی‌گمان شوید که پروندهٔ درستی را بکار می‌برید.</translation>
     </message>
     <message>
         <source>Save PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>کلید PersonaCrypt را نگه دار</translation>
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>نادرستیِ پرونده‌ای</translation>
     </message>
     <message>
         <source>Output file could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>پروندهٔ بروندادی باز نمی‌شود:</translation>
     </message>
     <message>
         <source>The PersonaCrypt key has been saved successfully:</source>
-        <translation type="unfinished"></translation>
+        <translation>کلیدِ PersonaCrypt با پیروزی نگه داشته شده است:</translation>
     </message>
     <message>
         <source>Disable PersonaCrypt?</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt را از کار بیاندازم؟</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will only de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
