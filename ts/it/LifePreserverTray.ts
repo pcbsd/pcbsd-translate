@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Log Files</source>
-        <translation>File di log</translation>
+        <translation>File di registro</translation>
     </message>
     <message>
         <source>Close</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation>Nessun file di log disponibile</translation>
+        <translation>Nessun file di registro disponibile</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <source>Replication Log</source>
-        <translation>Log di replica</translation>
+        <translation>Registro della replica</translation>
     </message>
     <message>
         <source>Finished Replication</source>
@@ -123,7 +123,7 @@
     </message>
     <message>
         <source>Logfile available at: %1</source>
-        <translation>File di log disponibile su: %1</translation>
+        <translation>File di registro disponibile su: %1</translation>
     </message>
     <message>
         <source>Replication Failed</source>
@@ -131,7 +131,7 @@
     </message>
     <message>
         <source>Replication Error Log</source>
-        <translation>Log sugli errore di replica.</translation>
+        <translation>Registro sugli errore di replica.</translation>
     </message>
     <message>
         <source>Replicating %1: %2</source>

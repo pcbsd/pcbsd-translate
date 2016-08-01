@@ -13,332 +13,337 @@
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo accetta solo lettere e cifre</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo nome utente è già in uso; si prega di sceglierne un altro.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished">Le password corrispondono</translation>
+        <translation>Le password corrispondono</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Le password non corrispondono</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished">Input non valido</translation>
+        <translation>Immissione non valida</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo campo non può contenere ! @ o :</translation>
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella sarà utilizzata</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished">Percorso non valido!</translation>
+        <translation>Percorso non valido!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella non esiste, ma sarà creata</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished">Porre la home directory fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi. NON RACCOMANDATO</translation>
+        <translation>Porre la directory personale fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi. NON RACCOMANDATO</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished">Il percorso richiesto è un file (non una cartella!)</translation>
+        <translation>Il percorso richiesto è un file (non una cartella!)</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti errori sono accaduti quando si è tentato di aggiungere un nuovo utente:
+</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti errori non critici sono accaduti quando si è tentato di inserire un nuovo utente; vuoi continuare?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Utente&apos; non è stato compilato.</translation>
+        <translation>
+ - Il campo &apos;Nome utente&apos; non è stato compilato.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Il campo &apos;Nome utente&apos; può contenere solo lettere e cifre (non spazi).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished">
- - Il Nome Utente scelto è già in uso, si prega di sceglierne un altro.</translation>
+        <translation>
+ - Il nome utente scelto è già in uso, si prega di sceglierne un altro.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Completo&apos; non è stato compilato.</translation>
+        <translation>
+ - Il campo &apos;Nome completo&apos; non è stato compilato.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Completo&apos; non può contenere ! @ o :</translation>
+        <translation>
+ - Il campo &apos;Nome completo&apos; non può contenere ! @ o :</translation>
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
-        <translation type="unfinished">- Il campo &apos;Home Directory&apos; non è stato compilato.</translation>
+        <translation>- Il campo &apos;Cartella personale&apos; non è stato compilato.</translation>
     </message>
     <message>
         <source>- The value entered as &apos;Home Directory&apos; is not a valid path.</source>
-        <translation type="unfinished">Il valore introdotto come &apos;Home Directory&apos; non è un percorso valido</translation>
+        <translation>- Il valore introdotto come &apos;Cartella personale&apos; non è un percorso valido.</translation>
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
-        <translation type="unfinished">Porre la home directory fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi e NON è RACCOMANDATO.</translation>
+        <translation>- Porre la cartella personale fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi e NON È RACCOMANDATO.</translation>
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
-        <translation type="unfinished">- Un file è stato selezionato come &apos;Home Directory&apos;, questo valore deve essere una directory.</translation>
+        <translation>- Un file è stato selezionato come &apos;Cartella personale&apos;; questo valore deve essere una cartella.</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished">
- - Entrambi i campi password devono essere compilati.</translation>
+        <translation>
+- Entrambi i campi password devono essere compilati.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Le password non coincidono, si prega di riprovare.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished">
- - Password non valida</translation>
+        <translation>
+- Password non valida</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Errore!</translation>
+        <translation>Errore!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Attenzione!</translation>
+        <translation>Attenzione!</translation>
     </message>
     <message>
         <source>
  - UID is already in use, please pick a different one</source>
-        <translation type="unfinished"></translation>
+        <translation>
+ - Questo UID è già in uso, si prega di selezionarne un&apos;altro</translation>
     </message>
 </context>
 <context>
     <name>AddUserUI</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Aggiungi Utente</translation>
+        <translation>Aggiungi utente</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Conferma Password:</translation>
+        <translation>Conferma password:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome completo:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Shell:</translation>
+        <translation>Terminale:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Nome Utente (username):</translation>
+        <translation>Nome utente:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished">Cartella Utente:</translation>
+        <translation>Cartella personale:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Gruppo Primario:</translation>
+        <translation>Gruppo primario:</translation>
     </message>
     <message>
         <source>New &amp;Group</source>
-        <translation type="unfinished">Nuovo &amp;Gruppo:</translation>
+        <translation>Nuovo &amp;gruppo:</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Annulla</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>UID:</source>
-        <translation type="unfinished"></translation>
+        <translation>UID:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatico</translation>
     </message>
 </context>
 <context>
     <name>ChangePassCode</name>
     <message>
         <source>Change Password for &apos;</source>
-        <translation type="unfinished">Cambia password per &apos;</translation>
+        <translation>Cambia password per &apos;</translation>
     </message>
     <message>
         <source>&apos;</source>
-        <translation type="unfinished">&apos;</translation>
+        <translation>&apos;</translation>
     </message>
     <message>
         <source>You must specify a password</source>
-        <translation type="unfinished">Devi specificare una password</translation>
+        <translation>Devi specificare una password</translation>
     </message>
     <message>
         <source>The passwords didn&apos;t match. Both boxes most contain the same value.</source>
-        <translation type="unfinished">Le password non corrispondono. Entrambi i campi devono contenere lo stesso valore.</translation>
+        <translation>Le password non corrispondono. Entrambi i campi devono contenere lo stesso valore.</translation>
     </message>
     <message>
         <source>Invalid password, please choose another.</source>
-        <translation type="unfinished">Password non valida, si prega di sceglierne un&apos;altra.</translation>
+        <translation>Password non valida, si prega di sceglierne un&apos;altra.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished">Le password corrispondono</translation>
+        <translation>Le password corrispondono</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Le password non coincidono</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished">Input non valido</translation>
+        <translation>Immissione non valida.</translation>
     </message>
 </context>
 <context>
     <name>ChangePassDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished">Cambia Password</translation>
+        <translation>Cambia password</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Conferma Password:</translation>
+        <translation>Conferma password:</translation>
     </message>
     <message>
         <source>O&amp;k</source>
-        <translation type="unfinished">O&amp;k</translation>
+        <translation>O&amp;k</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Annulla</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>MainDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore degli utenti di PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Users</source>
-        <translation type="unfinished">&amp;Utenti</translation>
+        <translation>&amp;Utenti</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aggiungi</translation>
+        <translation>&amp;Aggiungi</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Rimuovi</translation>
+        <translation>&amp;Rimuovi</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>User ID:</source>
-        <translation type="unfinished">ID Utente:</translation>
+        <translation>ID utente:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome completo:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished">Cartella Utente:</translation>
+        <translation>Cartella utente:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Shell:</translation>
+        <translation>Terminale:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Gruppo Primario:</translation>
+        <translation>Gruppo primario:</translation>
     </message>
     <message>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cambia password...</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation type="unfinished">Gr&amp;uppi</translation>
+        <translation>&amp;Gruppi</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
@@ -346,279 +351,283 @@
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Available:  </source>
-        <translation type="unfinished">Disponibile:  </translation>
+        <translation>Disponibile:  </translation>
     </message>
     <message>
         <source>Members:</source>
-        <translation type="unfinished">Membri:</translation>
+        <translation>Membri:</translation>
     </message>
     <message>
         <source>PC-BSD User Manager - Advanced Mode</source>
-        <translation type="unfinished">PC-BSD Amministrazione Utenti - Modo Avanzato</translation>
+        <translation>Gestore degli utenti di PC-BSD - Modalità avanzata</translation>
     </message>
     <message>
         <source>&amp;Simple View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista &amp;semplice</translation>
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished">Alt+V</translation>
+        <translation>Alt+V</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Export Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta chiave</translation>
     </message>
     <message>
         <source>Import Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa chiave</translation>
     </message>
     <message>
         <source>Disable Key (No Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita chiave (nessun dato)</translation>
     </message>
     <message>
         <source>Disable Key (Import Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Disabilita chiave (importa dati)</translation>
     </message>
     <message>
         <source>Initialize Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizializza il dispositivo</translation>
     </message>
 </context>
 <context>
     <name>PCBSDUserManager</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore degli utenti di PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Applica</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Apply pending changes?</source>
-        <translation type="unfinished">Applicare i cambiamenti in sospeso?</translation>
+        <translation>Applicare le modifiche in sospeso?</translation>
     </message>
     <message>
         <source>There are pending changes which have not been applied. Would you like to apply them before quitting?</source>
-        <translation type="unfinished">Ci sono cambiamenti in sospeso che non sono stati applicare. Vuoi renderli effettivi prima di uscire?</translation>
+        <translation>Ci sono modifiche in sospeso che non sono state applicate. Vuoi renderle effettive prima di uscire?</translation>
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished">Modifica Utenti per la Jail:</translation>
+        <translation>Modifica gli utenti per la jail:</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished">Buon Inserimento</translation>
+        <translation type="unfinished">Buon inserimento</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo può accettare solo lettere e cifre</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo nome utente è già in uso. Si prega di sceglierne un altro.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished">Le password corrispondono</translation>
+        <translation>Le password corrispondono</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Le password non corrispondono</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished">Input non valido</translation>
+        <translation>Immissione non valida</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo non deve contenere ! @ o :</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti errori sono accaduti quando si è tentato di aggiungere un nuovo utente:
+</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti errori non critici sono accaduti quando si è tentato di aggiungere un nuovo utente; vuoi continuare?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Utente&apos; non è stato compilato.</translation>
+        <translation>
+- Il campo &apos;Nome utente&apos; non è stato compilato.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Il campo &apos;Nome utente&apos; può contenere solo lettere e cifre (non spazi).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished">
- - Il Nome Utente scelto è già in uso, si prega di sceglierne un altro.</translation>
+        <translation>
+- Il nome utente scelto è già in uso, si prega di sceglierne un altro.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Completo&apos; non è stato compilato.</translation>
+        <translation>
+- Il campo &apos;Nome completo&apos; non è stato compilato.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished">
- - Il campo &apos;Nome Completo&apos; non può contenere ! @ o :</translation>
+        <translation>
+- Il campo &apos;Nome completo&apos; non può contenere ! @ o :</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished">
- - Entrambi i campi password devono essere compilati.</translation>
+        <translation>
+- Entrambi i campi password devono essere compilati.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Le password non corrispondono, si prega di riprovare.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished">
- - Password non valida</translation>
+        <translation>
+- Password non valida</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished">Errore!</translation>
+        <translation>Errore!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished">Attenzione!</translation>
+        <translation>Attenzione!</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Aggiungi Utente</translation>
+        <translation>Aggiungi utente</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome completo:</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Nome Utente (username):</translation>
+        <translation>Nome utente:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Annulla</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished">Alt+N</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Conferma Password:</translation>
+        <translation>Conferma password:</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestore degli utenti di PC-BSD</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aggiungi</translation>
+        <translation>&amp;Aggiungi</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+A</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Rimuovi</translation>
+        <translation>&amp;Rimuovi</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>&amp;Change Admin Password...</source>
-        <translation type="unfinished">&amp;Cambia Password per l&apos;Amministratore...</translation>
+        <translation>&amp;Cambia password dell&apos;amministratore...</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>A&amp;dvanced View</source>
-        <translation type="unfinished">Visiali&amp;zzazione Avanzata</translation>
+        <translation type="unfinished">Visiali&amp;zzazione avanzata</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome completo:</translation>
     </message>
     <message>
         <source>Can administrate s&amp;ystem</source>
-        <translation type="unfinished">Puo&apos; amministrare il s&amp;istema</translation>
+        <translation type="unfinished">Può amministrare il s&amp;istema</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+I</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <source>C&amp;hange Password...</source>
-        <translation type="unfinished">Cambia Pass&amp;word...</translation>
+        <translation type="unfinished">Cambia la pass&amp;word...</translation>
     </message>
     <message>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+W</translation>
+        <translation>Alt+H</translation>
     </message>
 </context>
 <context>
@@ -629,86 +638,86 @@
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo non deve contenere ! @ o :</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina la cartella personale?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished">Cancellare la directory home di </translation>
+        <translation>Elimina la cartella personale per </translation>
     </message>
 </context>
 <context>
     <name>mainDlgCode</name>
     <message>
         <source>New User</source>
-        <translation type="unfinished">Nuovo Utente</translation>
+        <translation>Nuovo utente</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminare la cartella personale?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished">Cancellare la directory home di </translation>
+        <translation>Elimina la cartella personale per </translation>
     </message>
     <message>
         <source>Error adding group...</source>
-        <translation type="unfinished">Errore nell&apos;aggiungere il gruppo...</translation>
+        <translation>Errore durante l&apos;aggiunta del gruppo...</translation>
     </message>
     <message>
         <source>You must specify a name for your group</source>
-        <translation type="unfinished">Si deve specificare un nome per il gruppo</translation>
+        <translation>Devi specificare un nome per il gruppo</translation>
     </message>
     <message>
         <source>Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted</source>
-        <translation type="unfinished">Il nome gruppo specificato non è valido. I nomi dei gruppi possono contenere solo lettere e numeri. Gli spazi NON sono ammessi</translation>
+        <translation>Il nome del gruppo specificato non è valido. I nomi dei gruppi possono contenere solo lettere e cifre. Gli spazi NON sono ammessi</translation>
     </message>
     <message>
         <source>The group &apos;</source>
-        <translation type="unfinished">Il gruppo &apos;</translation>
+        <translation>Il gruppo &apos;</translation>
     </message>
     <message>
         <source>&apos; already exists, please choose a different name</source>
-        <translation type="unfinished">&apos; esiste già, si prega di sceglierne un altro</translation>
+        <translation>&apos; esiste già, si prega di sceglierne un altro</translation>
     </message>
     <message>
         <source>New Group</source>
-        <translation type="unfinished">Nuovo gruppo</translation>
+        <translation>Nuovo gruppo</translation>
     </message>
     <message>
         <source>Please enter a name for your new group</source>
-        <translation type="unfinished">Inserisci un nome per il nuovo Gruppo</translation>
+        <translation>Inserisci un nome per il tuo nuovo gruppo</translation>
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella sarà utilizzata</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Il campo è vuoto</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished">Percorso non valido!</translation>
+        <translation>Percorso non valido!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>La cartella non esiste, ma sarà creata</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished">Porre la home directory fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi. NON RACCOMANDATO</translation>
+        <translation>Porre la cartella utente fuori da &apos;/home/&apos; può causare problemi di compatibilità con alcuni programmi. NON RACCOMANDATO</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished">Il percorso richiesto è un file (non una cartella!)</translation>
+        <translation>Il percorso richiesto è un file (non una cartella!)</translation>
     </message>
     <message>
         <source>Good Input</source>
@@ -716,167 +725,167 @@
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo campo non deve contenere @ o :</translation>
     </message>
     <message>
         <source>Import PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa la chiave PersonaCrypt</translation>
     </message>
     <message>
         <source>Key Files (*.key);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>File di chiavi (*.key);; Tutti i file (*)</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Riuscito</translation>
     </message>
     <message>
         <source>The key file was imported successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file della chiave è stato importato con successo.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riuscito</translation>
     </message>
     <message>
         <source>The key file could not be imported. Please ensure you are using a valid file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file della chiave non può essere importato. Si prega di verificare se si sta usando il file valido.</translation>
     </message>
     <message>
         <source>Save PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva chiave PersonaCrypt</translation>
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di file</translation>
     </message>
     <message>
         <source>Output file could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file di output non può essere aperto:</translation>
     </message>
     <message>
         <source>The PersonaCrypt key has been saved successfully:</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiave PersonaCrypt è stata salvata con successo:</translation>
     </message>
     <message>
         <source>Disable PersonaCrypt?</source>
-        <translation type="unfinished"></translation>
+        <translation>Disattiva PersonaCrypt?</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will only de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler disabilitare il tuo dispositivo PersonaCrypt per questo utente? Sarà disabilitata solo la tua chiave su questo sistema (il dispositivo PersonaCrypt sarà ancora utilizzabile su altri sistemi).</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key has been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiave PersonaCrypt è stata disattivata.</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key could not be removed. Do you have the proper permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>La chiave dell&apos;utente con PersonaCrypt non può essere rimossa. Hai i permessi necessari?</translation>
     </message>
     <message>
         <source>PersonaCrypt Device Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo PersonaCrypt non trovato</translation>
     </message>
     <message>
         <source>Please ensure that your PersonaCrypt device is connected to the system and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Assicurati che il tuo dispositivo PersonaCrypt è collegato al sistema e riprova.</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will merge the data from the device onto your system and de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler disattivare il tuo dispositivo PersonaCrypt per questo utente? I dati del dispositivo saranno uniti al tuo sistema e sarà disattivata la chiave su questo sistema (il dispositivo PersonaCrypt sarà ancora utilizzabile su altri sistemi).</translation>
     </message>
     <message>
         <source>PersonaCrypt Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Accesso PersonaCrypt</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Password:</translation>
+        <translation>Password:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>I dati per questo utente saranno uniti al sistema e la chiave del sistema è stata disattivata</translation>
     </message>
     <message>
         <source>The PersonaCrypt user data could not be merged onto the system. Invalid Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>I dati dell&apos;utente con PersonaCrypt non possono essere uniti sul sistema. La password non è valida?</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dispositivo trovato</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Si prega di collegare un dispositivo rimovibile e di riprovare</translation>
     </message>
     <message>
         <source>Select a device</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un dispositivo</translation>
     </message>
     <message>
         <source>Warning 1: All the contents of the device will be wiped during PersonaCrypt initialization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Primo avviso: Tutti i contenuti del dispositivo saranno distrutti durante l&apos;inizializzazione di PersonaCrypt.</translation>
     </message>
     <message>
         <source>Warning 2: Device size needs to be larger than the current home dir.</source>
-        <translation type="unfinished"></translation>
+        <translation>Secondo avviso: La dimensione del dispositivo deve essere più grande della dimensione attuale della tua cartella personale.</translation>
     </message>
     <message>
         <source>Home Dir Size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione cartella personale: %1</translation>
     </message>
     <message>
         <source>Create Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea una password per il dispositivo</translation>
     </message>
     <message>
         <source>Invalid Password or Match - try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Password non valida o non corrispondente - riprova</translation>
     </message>
     <message>
         <source>Repeat Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Ripeti password</translation>
     </message>
     <message>
         <source>Are you ready to start the device initialization? (This may take a few minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei pronto per l&apos;inizializzazione del dispositivo? (può richiedere alcuni minuti)</translation>
     </message>
     <message>
         <source>Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo: %1</translation>
     </message>
     <message>
         <source>User: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Utente: %2</translation>
     </message>
     <message>
         <source>Current User Data: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati attuali dell&apos;utente: %3</translation>
     </message>
     <message>
         <source>PersonaCrypt Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt pronto</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <source>Could not create a temporary file for personacrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Non posso creare un file temporaneo per PersonaCrypt</translation>
     </message>
     <message>
         <source>The PersonaCrypt device was successfully initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo PersonaCrypt è stato inizializzato con successo</translation>
     </message>
     <message>
         <source>The PersonaCrypt device could not be initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo PersonaCrypt non può essere inizializzato</translation>
     </message>
     <message>
         <source>New User (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo utente (%1)</translation>
     </message>
 </context>
 </TS>

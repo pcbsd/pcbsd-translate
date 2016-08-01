@@ -229,7 +229,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <source>Xorg log</source>
-        <translation>Log Xorg</translation>
+        <translation>Registro di Xorg</translation>
     </message>
     <message>
         <source>Diagnostic report</source>

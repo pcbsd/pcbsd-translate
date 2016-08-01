@@ -80,42 +80,42 @@
     </message>
     <message>
         <source>Server Application</source>
-        <translation type="unfinished"/>
+        <translation>Applicazione server</translation>
     </message>
     <message>
         <source>PC-BSD Recommendation</source>
-        <translation type="unfinished"/>
+        <translation>Consigliato da PC-BSD</translation>
     </message>
     <message>
         <source>Currently Installed</source>
-        <translation type="unfinished"/>
+        <translation>Attualmente installato</translation>
     </message>
 </context>
 <context>
     <name>MainUI</name>
     <message>
         <source>AppCafe</source>
-        <translation type="unfinished"/>
+        <translation>AppCafe</translation>
     </message>
     <message>
         <source>Start Updates</source>
-        <translation type="unfinished"/>
+        <translation>Avvia aggiornamenti</translation>
     </message>
     <message>
         <source>Application updates are available!</source>
-        <translation type="unfinished"/>
+        <translation>Gli aggiornamenti per l'applicazione sono disponibili!</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Installato</translation>
     </message>
     <message>
         <source>Application Details</source>
-        <translation type="unfinished"/>
+        <translation>Impostazioni dell'applicazione</translation>
     </message>
     <message>
         <source>Program Name</source>
-        <translation type="unfinished"/>
+        <translation>Nome del programma</translation>
     </message>
     <message>
         <source>Version</source>
@@ -155,35 +155,35 @@
     </message>
     <message>
         <source>Back to previous application</source>
-        <translation type="unfinished"/>
+        <translation>Ritorna all'applicazione precedente</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Home</translation>
     </message>
     <message>
         <source>Browse Categories</source>
-        <translation type="unfinished"/>
+        <translation>Sfoglia le categorie</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Categoria</translation>
     </message>
     <message>
         <source>App</source>
-        <translation type="unfinished"/>
+        <translation>App</translation>
     </message>
     <message>
         <source>Search Here</source>
-        <translation type="unfinished"/>
+        <translation>Cerca qui</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Cerca</translation>
     </message>
     <message>
         <source>PC-BSD Recommendations</source>
@@ -223,39 +223,39 @@
     </message>
     <message>
         <source>Launch</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Avvia</translation>
     </message>
     <message>
         <source>Contact Maintainer</source>
-        <translation type="unfinished"/>
+        <translation>Contatta il manuntentore</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Scorciatoie</translation>
     </message>
     <message>
         <source>Create a new jail and install this application into that jail</source>
-        <translation type="unfinished"/>
+        <translation>Crea un nuovo jail ed installa questa applicazione dentro quel jail</translation>
     </message>
     <message>
         <source>Install in Jail</source>
-        <translation type="unfinished"/>
+        <translation>Installa nel jail</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Versione:</translation>
     </message>
     <message>
         <source>Application Information</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni sull'applicazione</translation>
     </message>
     <message>
         <source>Platform:</source>
-        <translation type="unfinished"/>
+        <translation>Piattaforma:</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Licenza:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -295,39 +295,39 @@
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;File</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Configura</translation>
     </message>
     <message>
         <source>Browser View</source>
-        <translation type="unfinished"/>
+        <translation>Vista browser</translation>
     </message>
     <message>
         <source>Install View</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Vista d'installazione</translation>
     </message>
     <message>
         <source>toolBar</source>
-        <translation type="unfinished"/>
+        <translation>toolBar</translation>
     </message>
     <message>
         <source>&amp;Import PBI List</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Importa la lista PBI</translation>
     </message>
     <message>
         <source>&amp;Export PBI List</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Esporta la lista PBI</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">&amp;Esci</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Repository &amp;Settings</source>
@@ -367,36 +367,37 @@
     </message>
     <message>
         <source>Show Orphan Packages</source>
-        <translation type="unfinished"/>
+        <translation>Mostra i pacchetti orfani</translation>
     </message>
     <message>
         <source>Vulnerability Info</source>
-        <translation type="unfinished"/>
+        <translation>Informazioni sulla vulnerabilità</translation>
     </message>
     <message>
         <source>Caution</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Avvertenza</translation>
     </message>
     <message>
         <source>Jail Installation Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avviso d'installazione jail</translation>
     </message>
     <message>
         <source>Jail Check</source>
-        <translation type="unfinished"/>
+        <translation>Verifica jail</translation>
     </message>
     <message>
         <source>Refresh the list of available jails.</source>
-        <translation type="unfinished"/>
+        <translation>Ricarica la lista dei jail disponibili.</translation>
     </message>
     <message>
         <source>Reboot Required</source>
-        <translation type="unfinished"/>
+        <translation>Riavvio richiesto</translation>
     </message>
     <message>
         <source>The system is waiting to reboot from previous updates!
 Please restart the computer before installing new software.</source>
-        <translation type="unfinished"/>
+        <translation>Il sistema sta aspettando il riavvio dagli aggiornamenti precedenti!
+Si prega di riavviare il computer prima di installare nuovo software.</translation>
     </message>
     <message>
         <source>System</source>
@@ -436,39 +437,39 @@ Please restart the computer before installing new software.</source>
     </message>
     <message>
         <source>Export PBI File List</source>
-        <translation type="unfinished"/>
+        <translation>Esporta la lista dei file PBI</translation>
     </message>
     <message>
         <source>Export Error</source>
-        <translation type="unfinished"/>
+        <translation>Errore d'esportazione</translation>
     </message>
     <message>
         <source>There was an error exporting the PBI list</source>
-        <translation type="unfinished"/>
+        <translation>Si è verificato un errore durante l'esportazione della lista PBI</translation>
     </message>
     <message>
         <source>Please make sure that you have the proper directory permissions and try again</source>
-        <translation type="unfinished"/>
+        <translation>Assicurati di avere i permessi appropriati per la cartella e riprova</translation>
     </message>
     <message>
         <source>Please Wait</source>
-        <translation type="unfinished"/>
+        <translation>Attendere</translation>
     </message>
     <message>
         <source>You currently have actions pending/running. Please wait until they finish first.</source>
-        <translation type="unfinished"/>
+        <translation>Hai attualmente azioni sospese/in corso. Si prega di aspettare il loro completamento.</translation>
     </message>
     <message>
         <source>Installing or updating applications into a jail will automatically synchronize the package repository configuration within the jail to the current system configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Installare o aggiornare applicazioni dentro un jail sincronizzerà automaticamente la configurazione del repository del pacchetto, all'interno di tale jail, alla configurazione attuale di sistema.</translation>
     </message>
     <message>
         <source>Desktop Icons</source>
-        <translation type="unfinished"/>
+        <translation>Icone del desktop</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Aggiungi</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -497,319 +498,321 @@ Please restart the computer before installing new software.</source>
     <message>
         <source>Do you want to try launching your default email client? 
  You must have this setup within your current desktop environment for this to work properly. If not, you can send an email to the address below manually.</source>
-        <translation type="unfinished"/>
+        <translation>Vuoi provare ad avviare il tuo client email predefinito? 
+ Lo devi aver configurato all'interno del tuo ambiente desktop affinché funzioni correttamente. Se non lo è, puoi inviare manualmente un email all'indirizzo qui sotto.</translation>
     </message>
     <message>
         <source>Author Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Autore sconosciuto</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Sconosciuto</translation>
     </message>
     <message>
         <source>Working</source>
-        <translation type="unfinished"/>
+        <translation>Sto lavorando</translation>
     </message>
     <message>
         <source>Install Now!</source>
-        <translation type="unfinished"/>
+        <translation>Installa ora!</translation>
     </message>
     <message>
         <source>Searching the application database. Please Wait....</source>
-        <translation type="unfinished"/>
+        <translation>Cerco sul database dell'applicazione. Attendere...</translation>
     </message>
     <message>
         <source>No Search Results Found for the term: %1</source>
-        <translation type="unfinished"/>
+        <translation>Nessun risultato trovato per il termine: %1</translation>
     </message>
     <message>
         <source>Are you sure you want to install this application?</source>
-        <translation type="unfinished"/>
+        <translation>Sei sicuro di voler installare l'applicazione?</translation>
     </message>
     <message>
         <source>Into jail: %1</source>
-        <translation type="unfinished"/>
+        <translation>Dentro la jail: %1</translation>
     </message>
     <message>
         <source>Verify Installation</source>
-        <translation type="unfinished"/>
+        <translation>Verifica installazione</translation>
     </message>
     <message>
         <source>This will install the application into a new jail, separate from the main system.
  Do you wish to continue?</source>
-        <translation type="unfinished"/>
+        <translation>Sarà installata l'applicazione in un nuovo jail, separato dal sistema principale.
+ Vuoi continuare?</translation>
     </message>
     <message>
         <source>Please wait. Downloading Screenshot.</source>
-        <translation type="unfinished"/>
+        <translation>Attendere. Sto scaricando le schermate.</translation>
     </message>
     <message>
         <source>Server Timeout</source>
-        <translation type="unfinished"/>
+        <translation>Tempo scaduto per il server</translation>
     </message>
     <message>
         <source>Access Denied</source>
-        <translation type="unfinished"/>
+        <translation>Accesso negato</translation>
     </message>
     <message>
         <source>Screenshot Not Found</source>
-        <translation type="unfinished"/>
+        <translation>Schermata non trovata</translation>
     </message>
     <message>
         <source>Network Error</source>
-        <translation type="unfinished"/>
+        <translation>Errore di rete</translation>
     </message>
     <message>
         <source>Could not load screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Non posso caricare la schermata</translation>
     </message>
     <message>
         <source>Applications Available: %1</source>
-        <translation type="unfinished"/>
+        <translation>Applicazioni disponibili: %1</translation>
     </message>
     <message>
         <source>Total Packages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Pacchetti totali: %1</translation>
     </message>
     <message>
         <source>Please verify the following removals:</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di verificare le seguenti rimozioni:</translation>
     </message>
     <message>
         <source>Also Removes: %1</source>
-        <translation type="unfinished"/>
+        <translation>Rimuoverà anche: %1</translation>
     </message>
     <message>
         <source>Invalid Removal</source>
-        <translation type="unfinished"/>
+        <translation>Rimozione non valida</translation>
     </message>
     <message>
         <source>These applications are required by the base PC-BSD system and cannot be removed</source>
-        <translation type="unfinished"/>
+        <translation>Queste applicazioni sono necessarie per il sistema base di PC-BSD e non possono essere rimosse</translation>
     </message>
     <message>
         <source>Verify PBI Removal</source>
-        <translation type="unfinished"/>
+        <translation>Verifica la rimozione del PBI</translation>
     </message>
 </context>
 <context>
     <name>MigrateUI</name>
     <message>
         <source>AppCafe Migration</source>
-        <translation type="unfinished"/>
+        <translation>Migrazione AppCafe</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Avvia</translation>
     </message>
     <message>
         <source>Migration to new PBI system is required!!</source>
-        <translation type="unfinished"/>
+        <translation>È richiesta la migrazione al nuovo sistema PBI!!</translation>
     </message>
     <message>
         <source>Restart System</source>
-        <translation type="unfinished"/>
+        <translation>Riavvia il sistema</translation>
     </message>
     <message>
         <source>Computer restart is recommended!</source>
-        <translation type="unfinished"/>
+        <translation>È raccomandato il riavvio del computer!</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>File</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Esci</translation>
     </message>
     <message>
         <source>Downloading: %1 (%2% of %3)</source>
-        <translation type="unfinished"/>
+        <translation>Sto scaricando: %1 (%2% di %3) </translation>
     </message>
     <message>
         <source>required by:</source>
-        <translation type="unfinished"/>
+        <translation>richiesto da:</translation>
     </message>
 </context>
 <context>
     <name>PBIBackend</name>
     <message>
         <source>Initializing</source>
-        <translation type="unfinished"/>
+        <translation>Sto inizializzando</translation>
     </message>
     <message>
         <source>Starting UI</source>
-        <translation type="unfinished"/>
+        <translation>Sto avviando l'interfaccia utente</translation>
     </message>
     <message>
         <source>Pending Installation</source>
-        <translation type="unfinished"/>
+        <translation>Installazione sospesa</translation>
     </message>
     <message>
         <source>Pending Removal</source>
-        <translation type="unfinished"/>
+        <translation>Rimozione sospesa</translation>
     </message>
     <message>
         <source>No applications to install from this list.</source>
-        <translation type="unfinished"/>
+        <translation>Nessun applicazione da installare da questa lista.</translation>
     </message>
     <message>
         <source>Results:</source>
-        <translation type="unfinished"/>
+        <translation>Risultati:</translation>
     </message>
     <message>
         <source>Unavailable Apps: %1</source>
-        <translation type="unfinished"/>
+        <translation>Applicazioni non disponibili: %1</translation>
     </message>
     <message>
         <source>Currently Installed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Attualmente installato: %1</translation>
     </message>
     <message>
         <source>Import Results</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Importa risultati</translation>
     </message>
     <message>
         <source>Are you sure you wish to install these applications?</source>
-        <translation type="unfinished"/>
+        <translation>Sei sicuro di voler installare queste applicazioni?</translation>
     </message>
     <message>
         <source>Updating Index</source>
-        <translation type="unfinished"/>
+        <translation>Sto aggiornando l'indice</translation>
     </message>
     <message>
         <source>Starting Installation</source>
-        <translation type="unfinished"/>
+        <translation>Sto avviando l'installazione</translation>
     </message>
     <message>
         <source>Starting Removal</source>
-        <translation type="unfinished"/>
+        <translation>Sto avviando la rimozione</translation>
     </message>
     <message>
         <source>Installing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sto installando: %1</translation>
     </message>
     <message>
         <source>Removing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sto rimuovendo: %1</translation>
     </message>
     <message>
         <source>Downloading %1 (%2% of %3)</source>
-        <translation type="unfinished"/>
+        <translation>Sto scaricando %1 (%2 su %3)</translation>
     </message>
     <message>
         <source>Process Crashed</source>
-        <translation type="unfinished"/>
+        <translation>Il processo è andato in crash</translation>
     </message>
     <message>
         <source>The process for %1 has quit unexpectedly. Please restart this operation at a later time.</source>
-        <translation type="unfinished"/>
+        <translation>Il processo per %1 è uscito inaspettatamente. Si prega di riavviare l'operazione in un secondo momento.</translation>
     </message>
     <message>
         <source>Installation Failure</source>
-        <translation type="unfinished"/>
+        <translation>Installazione non riuscita</translation>
     </message>
     <message>
         <source>The following application installation experienced an error: %1</source>
-        <translation type="unfinished"/>
+        <translation>La seguente installazione dell'applicazione ha riscontrato un errore: %1</translation>
     </message>
     <message>
         <source>Please try again later.</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di riprovare più tardi.</translation>
     </message>
     <message>
         <source>Removal Failure</source>
-        <translation type="unfinished"/>
+        <translation>Rimozione fallita</translation>
     </message>
     <message>
         <source>The following application removal experienced an error: %1</source>
-        <translation type="unfinished"/>
+        <translation>La seguente rimozione dell'applicazione ha riscontrato un errore: %1</translation>
     </message>
     <message>
         <source>Loading Database</source>
-        <translation type="unfinished"/>
+        <translation>Sto caricando il database</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Updating Index</source>
-        <translation type="unfinished"/>
+        <translation>Sto aggiornando l'indice</translation>
     </message>
     <message>
         <source>Failed to update index!</source>
-        <translation type="unfinished"/>
+        <translation>Non sono riuscito ad aggiornare l'indice!</translation>
     </message>
     <message>
         <source>Failed to contact the index server. Please check your network connection before trying to install / update applications.</source>
-        <translation type="unfinished"/>
+        <translation>Non sono riuscito a contattare il server per l'indice. Si prega di verificare la tua connessione di rete prima di riprovare ad installare / aggiornare applicazioni.</translation>
     </message>
 </context>
 <context>
     <name>SSDialog</name>
     <message>
         <source>Application Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Schermata dell'applicazione</translation>
     </message>
     <message>
         <source>Close Screenshot</source>
-        <translation type="unfinished"/>
+        <translation>Nascondi la schermata</translation>
     </message>
 </context>
 <context>
     <name>UpdateDialog</name>
     <message>
         <source>Application Updates</source>
-        <translation type="unfinished"/>
+        <translation>Aggiornamenti dell'applicazione</translation>
     </message>
     <message>
         <source>Performing system application updates:  Please wait.</source>
-        <translation type="unfinished"/>
+        <translation>Sto effettuando gli aggiornamenti all'applicazione di sistema:  Attendere</translation>
     </message>
     <message>
         <source>Overview</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Panoramica</translation>
     </message>
     <message>
         <source>Update Details</source>
-        <translation type="unfinished"/>
+        <translation>Dettagli dell'aggiornamento</translation>
     </message>
     <message>
         <source>Restart System</source>
-        <translation type="unfinished"/>
+        <translation>Riavvia il sistema</translation>
     </message>
     <message>
         <source>Return to AppCafe</source>
-        <translation type="unfinished"/>
+        <translation>Ritorna a AppCafe</translation>
     </message>
     <message>
         <source>Initializing Updates...</source>
-        <translation type="unfinished"/>
+        <translation>Sto inizializzando gli aggiornamenti...</translation>
     </message>
     <message>
         <source>Finishing update checks</source>
-        <translation type="unfinished"/>
+        <translation>Sto completando i controlli dell'aggiornamento</translation>
     </message>
     <message>
         <source>Downloading %1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>Sto scaricando %1 (%2)</translation>
     </message>
     <message>
         <source>Failure!</source>
-        <translation type="unfinished"/>
+        <translation>Non riuscito!</translation>
     </message>
     <message>
         <source>Please check the log for details.</source>
-        <translation type="unfinished"/>
+        <translation>Si prega di verificare il registro per dettagli.</translation>
     </message>
     <message>
         <source>Success!</source>
-        <translation type="unfinished"/>
+        <translation>Riuscito!</translation>
     </message>
     <message>
         <source>Restarting your computer now is generally recommended.</source>
-        <translation type="unfinished"/>
+        <translation>È consigliato riavviare ora il tuo computer.</translation>
     </message>
 </context>
 </TS>

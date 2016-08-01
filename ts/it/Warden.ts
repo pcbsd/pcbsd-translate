@@ -1,193 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="it">
 <context>
     <name>dialogConfig</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Salva</translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+S</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancella</translation>
+        <translation>&amp;Annulla</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Jail Network Interface</source>
-        <translation type="unfinished">Interfaccia Jail Network</translation>
+        <translation>Interfaccia di rete del jail</translation>
     </message>
     <message>
         <source>Jail Directory</source>
-        <translation type="unfinished">Directory Jail</translation>
+        <translation>Cartella del jail</translation>
     </message>
     <message>
         <source>Temp Directory</source>
-        <translation type="unfinished">Directory Temp</translation>
+        <translation>Cartella temporanea</translation>
     </message>
     <message>
         <source>Select Jail Directory</source>
-        <translation type="unfinished">Seleziona Directory Jail</translation>
+        <translation>Seleziona la cartella del jail</translation>
     </message>
     <message>
         <source>Select Temp Directory</source>
-        <translation type="unfinished">Seleziona Directory Temp</translation>
+        <translation>Seleziona la cartella temporanea</translation>
     </message>
 </context>
 <context>
     <name>dialogDisplayOutput</name>
     <message>
         <source>Command Output</source>
-        <translation type="unfinished">Comando Output</translation>
+        <translation>Output del comando</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+C</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>dialogEditIP</name>
     <message>
         <source>Jail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione del jail</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opzioni</translation>
     </message>
     <message>
         <source>Enable VNET / VIMAGE support</source>
-        <translation type="unfinished"></translation>
+        <translation>Abilita il supporto VNET / VIMAGE</translation>
     </message>
     <message>
         <source>IPv4</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv4</translation>
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv4 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv4 Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6 Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias del bridge IPv6</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Aggiungi</translation>
+        <translation>&amp;Aggiungi</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Rimuovi</translation>
+        <translation>&amp;Rimuovi</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permessi</translation>
     </message>
     <message>
         <source>The following permissions can be enabled or disabled for this jail. For more details hover over each item or refer to the jail manpage.</source>
-        <translation type="unfinished"></translation>
+        <translation>I seguenti permessi possono essere attivati o disattivati per questo jail. Per maggior dettagli, passa il cursore sopra ogni elemento o consulta il manpage del jail.</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Salva</translation>
+        <translation>&amp;Salva</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Cancella</translation>
+        <translation type="unfinished">&amp;Annulla</translation>
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un processo all'interno del jail ha accesso alle primitive System V IPC.</translation>
     </message>
     <message>
         <source>The prison root is allowed to create raw sockets. Enables ping / traceroute.</source>
-        <translation type="unfinished"></translation>
+        <translation>L'amministratore root della prigione è autorizzato a creare socket raw. Abilita ping / traceroute.</translation>
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
-        <translation type="unfinished"></translation>
+        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warden</source>
@@ -195,39 +195,39 @@
     </message>
     <message>
         <source>Invalid IPv4 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo Ipv4 non valido!</translation>
     </message>
     <message>
         <source>Invalid IPv4 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo di bridge IPv4 non valido!</translation>
     </message>
     <message>
         <source>Invalid IPv4 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo del router IPv4 non valido!</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv6 non valido!</translation>
     </message>
     <message>
         <source>Invalid IPv6 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo del bridge IPv6 non valido!</translation>
     </message>
     <message>
         <source>Invalid IPv6 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo del router IPv6 non valido!</translation>
     </message>
     <message>
         <source>Add IP</source>
-        <translation type="unfinished">Aggiungi IP</translation>
+        <translation>Aggiungi IP</translation>
     </message>
     <message>
         <source>IP Address:</source>
-        <translation type="unfinished">Indirizzo IP:</translation>
+        <translation>Indirizzo IP:</translation>
     </message>
     <message>
         <source>Please enter a valid IPV4 or IPV6 address!</source>
-        <translation type="unfinished">Inserisci un indirizzo IPV4 o IPV6 valido!</translation>
+        <translation>Inserisci un indirizzo IPV4 o IPV6 valido!</translation>
     </message>
 </context>
 <context>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
@@ -273,35 +273,35 @@
     <name>dialogTemplates</name>
     <message>
         <source>Jail Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Template del jail</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished">Aggiungi un nuovo Jail</translation>
+        <translation>Aggiungi un nuovo jail</translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
-        <translation type="unfinished">Rimuovi il Jail selezionato</translation>
+        <translation>Rimuovi il jail selezionato</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Chiudi</translation>
+        <translation>&amp;Chiudi</translation>
     </message>
     <message>
         <source>System Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versione di sistema</translation>
     </message>
     <message>
         <source>What version do you wish to fetch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quale versione vorresti recuperare?</translation>
     </message>
     <message>
         <source>Template Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomignolo del template</translation>
     </message>
     <message>
         <source>Enter a nickname for this template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci un nomignolo per questo template:</translation>
     </message>
 </context>
 <context>
@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished">Inizia all&apos;avvio:</translation>
+        <translation type="unfinished">Inizia all'avvio:</translation>
     </message>
     <message>
         <source>Network Information</source>
@@ -340,39 +340,39 @@
     </message>
     <message>
         <source>Active Connections:</source>
-        <translation type="unfinished">Connessioni Attive:</translation>
+        <translation>Connessioni attive:</translation>
     </message>
     <message>
         <source>IPs:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP:</translation>
     </message>
     <message>
         <source>Listening on Ports:</source>
-        <translation type="unfinished">Ascolto delle Porte:</translation>
+        <translation>In ascolto sulle porte:</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Strumenti</translation>
+        <translation>Strumenti</translation>
     </message>
     <message>
         <source>Jail Management</source>
-        <translation type="unfinished">Gestione Jail</translation>
+        <translation>Gestione del jail</translation>
     </message>
     <message>
         <source>User Administrator</source>
-        <translation type="unfinished">Utente Amministratore</translation>
+        <translation>Utente amministratore</translation>
     </message>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished">Gestore servizi</translation>
+        <translation>Gestore dei servizi</translation>
     </message>
     <message>
         <source>Launch Terminal</source>
-        <translation type="unfinished">Avvia Terminale</translation>
+        <translation>Avvia il terminale</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished">Controlla Aggiornamenti</translation>
+        <translation>Ricerca degli aggiornamenti</translation>
     </message>
     <message>
         <source>Utilities</source>
@@ -412,43 +412,43 @@
     </message>
     <message>
         <source>Scheduled Snapshots</source>
-        <translation type="unfinished">Snapshots pianificati</translation>
+        <translation>Snapshot pianificati</translation>
     </message>
     <message>
         <source>Snapshot Frequency</source>
-        <translation type="unfinished">Frequenza Snapshot</translation>
+        <translation>Frequenza snapshot</translation>
     </message>
     <message>
         <source>Days to keep</source>
-        <translation type="unfinished">Giorni da mantenere</translation>
+        <translation>Giorni da mantenere</translation>
     </message>
     <message>
         <source>Installed Jails</source>
-        <translation type="unfinished">Jails installati</translation>
+        <translation>Jail installati</translation>
     </message>
     <message>
         <source>Start the selected jail</source>
-        <translation type="unfinished">Avvia il jail selezionato</translation>
+        <translation>Avvia il jail selezionato</translation>
     </message>
     <message>
         <source>&amp;Start Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Avvia jail</translation>
     </message>
     <message>
         <source>Configure the jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Configura il jail</translation>
     </message>
     <message>
         <source>J&amp;ail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione del jail</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished">Aggiungi un nuovo Jail</translation>
+        <translation>Aggiungi un nuovo jail</translation>
     </message>
     <message>
         <source>&amp;New Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove the selected Jail</source>
@@ -456,7 +456,7 @@
     </message>
     <message>
         <source>&amp;Remove Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;File</source>
@@ -464,11 +464,11 @@
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exit</source>
@@ -480,43 +480,43 @@
     </message>
     <message>
         <source>&amp;Refresh Jails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Aggiorna</translation>
+        <translation>Ricarica</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Impostazioni</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished">Configurazione</translation>
+        <translation>Configurazione</translation>
     </message>
     <message>
         <source>&amp;Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Importa un jail</translation>
     </message>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished">Importa Jail</translation>
+        <translation>Importa un jail</translation>
     </message>
     <message>
         <source>&amp;Template Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Gestore dei modelli</translation>
     </message>
     <message>
         <source>&lt;- Please select a jail</source>
-        <translation type="unfinished">&lt;- Seleziona un jail</translation>
+        <translation>&lt;- Si prega di selezionare un jail</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished">Warden</translation>
+        <translation>Warden</translation>
     </message>
     <message>
         <source>No valid network interface specified! Select one now?</source>
-        <translation type="unfinished">Nessuna interfaccia network valida specificata! Selezionarne una ora?</translation>
+        <translation>Nessuna interfaccia di rete valida specificata! Selezionarne una ora?</translation>
     </message>
     <message>
         <source>Updates available!</source>
@@ -524,7 +524,7 @@
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop the selected jail</source>
@@ -552,39 +552,39 @@
     </message>
     <message>
         <source>Clone this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Clona questo jail</translation>
     </message>
     <message>
         <source>Delete Jail</source>
-        <translation type="unfinished">Elimina Jail</translation>
+        <translation>Elimina il jail</translation>
     </message>
     <message>
         <source>Stopping Jail</source>
-        <translation type="unfinished">Arrestando Jail</translation>
+        <translation>Sto fermando il jail</translation>
     </message>
     <message>
         <source>Stopping Jail:</source>
-        <translation type="unfinished">Arrestando Jail:</translation>
+        <translation>Sto fermando il jail:</translation>
     </message>
     <message>
         <source>Starting Jail</source>
-        <translation type="unfinished">Avviando Jail</translation>
+        <translation>Sto avviando il jail</translation>
     </message>
     <message>
         <source>Starting Jail:</source>
-        <translation type="unfinished">Avviando Jail:</translation>
+        <translation>Sto avviando il jail:</translation>
     </message>
     <message>
         <source>Choose a directory to save the finished .wdn file:</source>
-        <translation type="unfinished">Selezionare una directory per salvare il file .wdn completato:</translation>
+        <translation>Scegli una cartella per salvare il file .wdn completato:</translation>
     </message>
     <message>
         <source>Exporting Jail:</source>
-        <translation type="unfinished">Esportando Jail:</translation>
+        <translation>Sto esportando il jail:</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the jail</source>
-        <translation type="unfinished">Sei sicuro di voler eliminare il jail</translation>
+        <translation>Sei sicuro di voler eliminare il jail</translation>
     </message>
     <message>
         <source>Deleting Jail</source>
@@ -612,43 +612,43 @@
     </message>
     <message>
         <source>No label</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No snapshots available. You may create one below.</source>
-        <translation type="unfinished">Nessuno snapshots disponibile. Devi crearne uno di seguito.</translation>
+        <translation>Nessun snapshot disponibile. Devi crearne uno di seguito.</translation>
     </message>
     <message>
         <source>No jail selected!</source>
-        <translation type="unfinished">Nessun jail selezionato!</translation>
+        <translation>Nessun jail selezionato!</translation>
     </message>
     <message>
         <source>Working on jail:</source>
-        <translation type="unfinished">Lavorando su jail:</translation>
+        <translation>Sto lavorando sul jail:</translation>
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci un nome di host per il jail clonato</translation>
     </message>
     <message>
         <source>Cloned jail hostname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome di host del jail clonato:</translation>
     </message>
     <message>
         <source>Creating new snapshot... Please wait...</source>
-        <translation type="unfinished">Creazione nuovo snapshot... Attendere...</translation>
+        <translation>Sto creando un nuovo snapshot... Attendere...</translation>
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Commento dello snapshot</translation>
     </message>
     <message>
         <source>Are you sure you want to revert to the snapshot:</source>
-        <translation type="unfinished">Sei sicuro di voler ripristinare lo snapshot:</translation>
+        <translation>Sei sicuro di voler ripristinare lo snapshot:</translation>
     </message>
     <message>
         <source>Any newer snapshots will be lost, and the jail will be restarted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni nuovo snapshot sarà perso, e il jail verrà riavviato!</translation>
     </message>
     <message>
         <source>Reverting snapshot... Please wait...</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname</source>
@@ -698,31 +698,31 @@
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv6</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo IPv4</translation>
     </message>
     <message>
         <source>Please select the type of jail you want to create. </source>
-        <translation type="unfinished">Seleziona il tipo di jail che vuoi creare. </translation>
+        <translation>Si prega di selezionare il tipo di jail che si vuole creare. </translation>
     </message>
     <message>
         <source>Jail Type</source>
-        <translation type="unfinished">Tipo di Jail</translation>
+        <translation>Tipo di jail</translation>
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
-        <translation type="unfinished"></translation>
+        <translation>Jail tradizione (sicura, adatta per i servizi)</translation>
     </message>
     <message>
         <source>Install PKGNG and PC-BSD utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Options</source>
@@ -766,19 +766,19 @@
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation type="unfinished">Inizia jail all&apos;avvio del sistema</translation>
+        <translation type="unfinished">Inizia jail all'avvio del sistema</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname cannot contain spaces!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname already used!</source>
@@ -794,11 +794,11 @@
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Script</source>

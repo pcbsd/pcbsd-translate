@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -11,7 +11,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="34"/>
         <source>Please select the component where the error occurs.</source>
-        <translation>Si prega di selezionare il componente dove avviene l&apos;errore.</translation>
+        <translation>Si prega di selezionare il componente dove avviene l'errore.</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="69"/>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="174"/>
-        <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
+        <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
         <translation>1. Sottometti una segnalazione bug tramite BugZilla di FreeBSD</translation>
     </message>
     <message>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="243"/>
-        <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
+        <source>1. Submit a bug report using using PC-BSD's bug tracker</source>
         <translation>1. Sottometti una segnalazione bug tramite il bug tracker di PC-BSD</translation>
     </message>
     <message>
@@ -76,7 +76,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="316"/>
-        <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
+        <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
         <translation>1. Sottometti una segnalazione bug tramite il BugZilla di FreeDesktop</translation>
     </message>
     <message>
@@ -291,7 +291,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="125"/>
         <source>Xorg log</source>
-        <translation>Log Xorg</translation>
+        <translation>Registro di Xorg</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.ui" line="130"/>
@@ -324,12 +324,12 @@ Visit the following web page to subscribe to or read the archives of this list</
         <translation>Versione FreeBSD  (uname -a)</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
         <source>Failure</source>
         <translation>Non riuscito</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
         <source>Failed to create diagnostic sheet</source>
         <translation>Creazione foglio diagnostico non riuscito</translation>
     </message>
