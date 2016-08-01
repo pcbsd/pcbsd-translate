@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -44,8 +44,8 @@
         <translation>Lösenord (Upprepa)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>System eller &quot;root&quot; lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>System eller "root" lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,8 +68,8 @@
         <translation>&amp;Scanna igen</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på &quot;Nästa&quot;.</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på "Nästa".</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
@@ -109,7 +109,7 @@
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt användare behöver samma UID på alla system som de används</translation>
     </message>
     <message>
         <source>Specify UID</source>
@@ -117,7 +117,7 @@
     </message>
     <message>
         <source>Initialize PersonaCrypt Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Initialisera PersonaCrypt enheten</translation>
     </message>
     <message>
         <source>Select</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>User-portion of the disk encryption key</source>
-        <translation type="unfinished"></translation>
+        <translation>Användardel av diskkrypteringsnyckel</translation>
     </message>
     <message>
         <source>Device Password</source>
@@ -141,15 +141,15 @@
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Koppla in en flyttbar enhet och försök igen</translation>
     </message>
     <message>
         <source>Select Removable Device</source>
-        <translation>Välj Flyttbar enhet</translation>
+        <translation>Välj flyttbar enhet</translation>
     </message>
     <message>
         <source>Warning: Any existing data on the selected device will be deleted during the user creation process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varning: All befintlig data på den valda enheten tas bort under användarskapandeprocessen.</translation>
     </message>
     <message>
         <source>User Details</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notera: Ljudinställningar kan även justeras senare genom PC-BSD ljudmixer.</translation>
     </message>
     <message>
         <source>Domain Name</source>
@@ -224,7 +224,7 @@
     </message>
     <message>
         <source>Allows SSH access to this system from remote systems</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable SSH</source>
@@ -236,7 +236,7 @@
     </message>
     <message>
         <source>Disable the use of IPv6 connections</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>

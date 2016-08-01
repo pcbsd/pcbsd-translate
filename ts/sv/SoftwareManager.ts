@@ -41,11 +41,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Verkställ</translation>
     </message>
     <message>
         <source>New Repo URL</source>
@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <source>New Repo Name</source>
@@ -61,11 +61,11 @@
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation>Namn:</translation>
     </message>
     <message>
         <source>Invalid Name: Try Again</source>
-        <translation type="unfinished"/>
+        <translation>Ogiltigt namn: Försök igen</translation>
     </message>
 </context>
 <context>
@@ -84,18 +84,18 @@
     </message>
     <message>
         <source>PC-BSD Recommendation</source>
-        <translation type="unfinished"/>
+        <translation>PC-BSD rekommendation</translation>
     </message>
     <message>
         <source>Currently Installed</source>
-        <translation type="unfinished"/>
+        <translation>För närvarande installerade</translation>
     </message>
 </context>
 <context>
     <name>MainUI</name>
     <message>
         <source>AppCafe</source>
-        <translation type="unfinished"/>
+        <translation>AppCafe</translation>
     </message>
     <message>
         <source>Start Updates</source>
@@ -139,15 +139,15 @@
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Alla</translation>
     </message>
     <message>
         <source>Perform actions on checked applications</source>
-        <translation type="unfinished"/>
+        <translation>Utför åtgärder på markerade program</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished"/>
+        <translation>Åtgärder</translation>
     </message>
     <message>
         <source>Browse For Apps</source>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Back to previous application</source>
-        <translation type="unfinished"/>
+        <translation>Tillbaka till tidigare program</translation>
     </message>
     <message>
         <source>...</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Hem</translation>
     </message>
     <message>
         <source>Browse Categories</source>
@@ -171,11 +171,11 @@
     </message>
     <message>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategori</translation>
     </message>
     <message>
         <source>App</source>
-        <translation type="unfinished"/>
+        <translation>App</translation>
     </message>
     <message>
         <source>Search Here</source>

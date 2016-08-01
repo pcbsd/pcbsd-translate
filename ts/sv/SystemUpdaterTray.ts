@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -44,8 +44,12 @@
         <translation>Påminn mig senare</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">24 timmar {8 ?} {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 timmar</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 timmar</translation>
     </message>
 </context>
 <context>
@@ -159,7 +163,7 @@
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Även vid användning av Tor kan din identitet läcka. Läs igenom Tor FAQ för information om vad Tor är och hur det används säkert.</translation>
     </message>
     <message>
         <source>Tor FAQ: %1</source>
@@ -167,7 +171,7 @@
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>
-        <translation type="unfinished"></translation>
+        <translation>Notera: Efter att Tor aktiverats kan det ta någon minut att koppla upp till Tor nätverket.</translation>
     </message>
     <message>
         <source>Enable Tor?</source>

@@ -29,22 +29,22 @@
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Inget filinnehåll att visa</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Filen finns inte: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life Preserver) Filen kunde inte öppnas: %1</translation>
     </message>
 </context>
 <context>
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alla</translation>
     </message>
     <message>
         <source>Warnings Only</source>
@@ -84,26 +84,26 @@
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Systemvarning</translation>
     </message>
 </context>
 <context>
     <name>LPWatcher</name>
     <message>
         <source>New snapshot of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny snapshot av %1</translation>
     </message>
     <message>
         <source>Creating snapshot for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa snapshot för %1</translation>
     </message>
     <message>
         <source>Replication Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikation startar</translation>
     </message>
     <message>
         <source>Starting replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Startar replikation för %1</translation>
     </message>
     <message>
         <source>Replication Log</source>
@@ -127,15 +127,15 @@
     </message>
     <message>
         <source>Replication Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikation misslyckades</translation>
     </message>
     <message>
         <source>Replication Error Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikeringfellogg</translation>
     </message>
     <message>
         <source>Replicating %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikera %1: %2</translation>
     </message>
     <message>
         <source>Scrub repaired %1 bad blocks</source>

@@ -79,44 +79,48 @@
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Fältet &quot;Användarnamn&quot; får bara innehålla bokstäver och nummer (inte mellanslag).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Användarnamnet du har valt används redan, välj ett annat.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished">
-- Fältet &apos;Namn&apos; är inte ifyllt.</translation>
+        <translation>
+- Fältet &apos;Fullständigt namn&apos; är inte ifyllt.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Fältet &quot;Fullständigt namn&quot; får inte innehålla ! @ eller :</translation>
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
-        <translation type="unfinished">- Fältet &apos;Hemkatalog&apos; har inte fyllts i.</translation>
+        <translation>- Fältet &quot;Hemkatalog&quot; har inte fyllts i.</translation>
     </message>
     <message>
         <source>- The value entered as &apos;Home Directory&apos; is not a valid path.</source>
-        <translation type="unfinished">- Värdet som angavs som &apos;Hem Mapp&apos; är inte en giltig sökväg.</translation>
+        <translation>- Värdet som angavs som &quot;Hemkatalog&quot; är inte en giltig sökväg.</translation>
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
-        <translation type="unfinished">- Placering av hemkatalogen utanför &apos;/home/&apos; kan orsaka kompatibilitetsproblem med vissa program och NOT RECOMMENDED.</translation>
+        <translation>- Placering av hemkatalogen utanför &apos;/home/&apos; kan orsaka kompatibilitetsproblem med vissa program och är INTE REKOMMENDERAT.</translation>
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
-        <translation type="unfinished">- En fil har valts som &apos;Hemkatalog&apos;, detta värde måste vara en katalog.</translation>
+        <translation>- En fil har valts som &quot;Hemkatalog&quot;, detta värde måste vara en katalog.</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Båda lösenordsfälten måste fyllas i.</translation>
     </message>
     <message>
         <source>
@@ -171,7 +175,7 @@
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemkatalog:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -316,7 +320,7 @@
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hemkatalog:</translation>
     </message>
     <message>
         <source>Shell:</source>
@@ -472,12 +476,14 @@
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+- Fältet &quot;Användarnamn&quot; får bara innehålla bokstäver och nummer (inte mellanslag).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+- Användarnamnet du har valt används redan, välj ett annat.</translation>
     </message>
     <message>
         <source>
@@ -488,12 +494,14 @@
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+- Fältet &quot;Fullständigt namn&quot; får inte innehålla ! @ eller :</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+- Båda lösenordsfälten måste fyllas i.</translation>
     </message>
     <message>
         <source>
