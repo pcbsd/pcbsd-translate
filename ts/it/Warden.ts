@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -83,43 +83,43 @@
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv4 Default Router (Requires VNET)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">IPv6</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Indirizzo IPv6</translation>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv6 Default Router (Requires VNET)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Aliases</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv4 Aliases</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Alias del bridge IPv6 {4 ?}</translation>
     </message>
     <message>
         <source>IPv6 Aliases</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
@@ -151,43 +151,43 @@
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
-        <translation>Un processo all'interno del jail ha accesso alle primitive System V IPC.</translation>
+        <translation>Un processo all&apos;interno del jail ha accesso alle primitive System V IPC.</translation>
     </message>
     <message>
         <source>The prison root is allowed to create raw sockets. Enables ping / traceroute.</source>
-        <translation>L'amministratore root della prigione è autorizzato a creare socket raw. Abilita ping / traceroute.</translation>
+        <translation>L&apos;amministratore root della prigione è autorizzato a creare socket raw. Abilita ping / traceroute.</translation>
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
-        <translation type="unfinished"/>
+        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Warden</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -250,7 +250,7 @@
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Indirizzo IPv4</translation>
     </message>
     <message>
         <source>...</source>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished">Inizia all'avvio:</translation>
+        <translation type="unfinished">Inizia all&apos;avvio:</translation>
     </message>
     <message>
         <source>Network Information</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>&amp;New Jail</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
@@ -456,7 +456,7 @@
     </message>
     <message>
         <source>&amp;Remove Jail</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -464,11 +464,11 @@
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exit</source>
@@ -480,7 +480,7 @@
     </message>
     <message>
         <source>&amp;Refresh Jails</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -524,7 +524,7 @@
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop the selected jail</source>
@@ -612,7 +612,7 @@
     </message>
     <message>
         <source>No label</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No snapshots available. You may create one below.</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname</source>
@@ -718,11 +718,11 @@
     </message>
     <message>
         <source>Install PKGNG and PC-BSD utilities</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Jail Options</source>
@@ -766,19 +766,19 @@
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation type="unfinished">Inizia jail all'avvio del sistema</translation>
+        <translation type="unfinished">Inizia jail all&apos;avvio del sistema</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname cannot contain spaces!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hostname already used!</source>
@@ -794,11 +794,11 @@
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished">Indirizzo IPv6 non valido!</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Script</source>

@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-07-31 20:18-0700\n"
-"PO-Revision-Date: 2016-06-18 16:13+0000\n"
+"POT-Creation-Date: 2016-08-01 00:19-0700\n"
+"PO-Revision-Date: 2016-08-01 10:40+0000\n"
 "Last-Translator: walafc0 <pierre-yves.peneau@lirmm.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1470048015.000000\n"
 
 #: ../../preinstall.rst:2
 msgid "Pre-Installation Tasks"
@@ -79,56 +81,76 @@ msgstr "PC-BSD® nécessite peu de ressources matérielles et utilise souvent"
 #: ../../preinstall.rst:31
 msgid "At a **bare minimum** you need to meet these requirements in order to install PC-BSD®:"
 msgstr ""
+"**Au minimum**, vous devez impérativement avoir la configuration suivante "
+"pour installer PC-BSD®: "
 
 #: ../../preinstall.rst:33
 #: ../../preinstall.rst:43
 msgid "64-bit processor"
-msgstr ""
+msgstr "Processeur 64-bit"
 
 #: ../../preinstall.rst:35
 msgid "1 GB RAM"
-msgstr ""
+msgstr "1Go de RAM"
 
 #: ../../preinstall.rst:37
 msgid "20GB of free hard drive space on a primary partition for a TrueOS® server installation"
 msgstr ""
+"20Go d'espace disque disponible sur une partition primaire pour une "
+"installation de TrueOS®"
 
 #: ../../preinstall.rst:39
 #: ../../preinstall.rst:49
 msgid "Network card"
-msgstr ""
+msgstr "Une carte réseau"
 
 #: ../../preinstall.rst:41
 msgid "The following are the minimum **recommended** requirements. More RAM and available disk space will improve your computing experience:"
 msgstr ""
+"La configuration suivante est le minimum **recommandé**. Plus de RAM ou "
+"d'espace disque amélioreront votre expérience utilisateur de PC-BSD®:"
 
 #: ../../preinstall.rst:45
 msgid "4 GB of RAM"
-msgstr ""
+msgstr "4Go de RAM"
 
 #: ../../preinstall.rst:47
 msgid "50GB of free hard drive space on a primary partition for a desktop installation"
 msgstr ""
+"50Go d'espace disque disponible sur une partition primaire pour une "
+"installation de bureau"
 
 #: ../../preinstall.rst:51
 msgid "Sound card"
-msgstr ""
+msgstr "Une carte son"
 
 #: ../../preinstall.rst:53
 msgid "NVIDIA 3D-accelerated video card"
-msgstr ""
+msgstr "Une carte vidéo NVIDIA 3D"
 
 #: ../../preinstall.rst:55
 msgid "The PC-BSD® installer's hardware check will display a warning message if the selected partition contains less than 20GB for a server installation or less than 50GB for a desktop installation. The installation itself does not require this much disk space. Instead, the minimum recommendation is to provide sufficient room for the installation of multiple desktops, applications, and to store local ZFS snapshots and boot environments."
 msgstr ""
+"L'installateur de PC-BSD® vérifie le matériel présent et affiche un message "
+"d'erreur si la partition sélectionnée contient moins de 20Go de RAM pour une "
+"installation serveur ou moins de 50Go de RAM pour une installation de "
+"bureau. L'installation en soit ne nécessite pas beaucoup d'espace disque. La "
+"configuration recommandée permet de prévoir assez de place pour installer "
+"plusieurs bureaux, des applications, stocker les environnements de démarrage "
+"et les instantanés ZFS."
 
 #: ../../preinstall.rst:59
 msgid "You can never have too much RAM, so install as much as you can afford. To play modern video games, you should use a fast CPU. If you want to create a collection of music and movies on your computer, you will want a large disk which can be internal or external."
 msgstr ""
+"Vous ne pouvez jamais avoir trop de RAM donc installer autant que vous "
+"pouvez vous le permettre. Pour jouer à des jeux vidéos récents, vous devriez "
+"utiliser un CPU rapide. Si vous désirez créer une collection de musiques et "
+"de films sur votre ordinateur, vous aurez besoin d'un espace disque "
+"conséquent (interne ou externe)."
 
 #: ../../preinstall.rst:66
 msgid "Supported Hardware"
-msgstr ""
+msgstr "Matériel pris en charge"
 
 #: ../../preinstall.rst:68
 msgid "PC-BSD® should install on any system containing a 64-bit (also called amd64) processor. Despite the amd64 name, a 64-bit processor does **not need** to be manufactured by AMD in order to be supported. The `FreeBSD Hardware Notes <http://www.freebsd.org/releases/10.3R/hardware.html#proc>`_ list the amd64 processors known to work."
