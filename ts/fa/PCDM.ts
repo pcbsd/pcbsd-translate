@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -86,6 +86,14 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>یک پوشهٔ خانهٔ گذرا بکار ببر (که در برون‌نویسی پاک خواهد شد)</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation>بازآوری کن</translation>
+    </message>
+    <message>
+        <source>Refresh available users</source>
+        <translation>کاربران دسترس‌پذیر را بازآوری کن</translation>
+    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -159,80 +167,84 @@
     </message>
     <message>
         <source>Change locale (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>بوم را جایگزین کن (%1)</translation>
+    </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation>PCDM را بازآوری کن</translation>
     </message>
 </context>
 <context>
     <name>loginDelay</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>گفت‌وگو</translation>
     </message>
     <message>
         <source>%v/%m seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>%v/%m دمک(ثانیه)</translation>
     </message>
     <message>
         <source>Cancel Login</source>
-        <translation type="unfinished"></translation>
+        <translation>درون‌نویسی را بهم بزن</translation>
     </message>
     <message>
         <source>Login Now</source>
-        <translation type="unfinished"></translation>
+        <translation>اکنون درون‌نویسی کن</translation>
     </message>
     <message>
         <source>PCDM Automatic Login</source>
-        <translation type="unfinished"></translation>
+        <translation>درون‌نویسی خودکار PCDM</translation>
     </message>
 </context>
 <context>
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>ساماندهی‌ِ تخته‌کلید</translation>
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>جانماییِ کلید</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"></translation>
+        <translation>گونه</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>widgetLocale</name>
     <message>
         <source>Select Locale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current Locale</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 </TS>
