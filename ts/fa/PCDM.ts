@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>یک پوشهٔ خانهٔ گذرا بکار ببر (که در برون‌نویسی پاک خواهد شد)</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>بازآوری کن</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>کاربران دسترس‌پذیر را بازآوری کن</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -169,10 +161,6 @@
         <source>Change locale (%1)</source>
         <translation>بوم را جایگزین کن (%1)</translation>
     </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>PCDM را بازآوری کن</translation>
-    </message>
 </context>
 <context>
     <name>loginDelay</name>
@@ -213,38 +201,38 @@
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>widgetLocale</name>
     <message>
         <source>Select Locale</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Current Locale</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -459,13 +459,5 @@ Lūdzu, nokonfigurējiet WPA iestatījumus pirms saglabāšanas!</translation>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Enterprise (nokonfigurēts)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>Ir atlasīts WPA-Enterprise, bet tas nav konfigurēts!
-Lūdzu, nokonfigurējiet WPA iestatījumus pirms saglabāt!
-Phase2 derīgās vērtības ir: MD5, MSCHAPV2, GTC vai OTP.</translation>
-    </message>
 </context>
 </TS>
