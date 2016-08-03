@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Close the Network Monitor</source>
-        <translation>Stäng Nätverks Övervakaren</translation>
+        <translation>Stäng nätverksövervakaren</translation>
     </message>
 </context>
 <context>

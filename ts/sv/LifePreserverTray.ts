@@ -13,19 +13,19 @@
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggfiler</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga nya meddelanden</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen loggfil tillgänglig</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
@@ -107,23 +107,23 @@
     </message>
     <message>
         <source>Replication Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikationslogg</translation>
     </message>
     <message>
         <source>Finished Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförd replikation</translation>
     </message>
     <message>
         <source>Finished replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutförd replikation för %1</translation>
     </message>
     <message>
         <source>Replication Failed for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikation misslyckades för %1</translation>
     </message>
     <message>
         <source>Logfile available at: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Loggfil tillgänglig på: %1</translation>
     </message>
     <message>
         <source>Replication Failed</source>
@@ -139,27 +139,27 @@
     </message>
     <message>
         <source>Scrub repaired %1 bad blocks</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubba reparerade %1 dåliga block</translation>
     </message>
     <message>
         <source>Scrub repaired %1 blocks in %2 with %3 errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubba reparerade %1 block i %2 med %3 fel</translation>
     </message>
     <message>
         <source>Scrub completed</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubbning slutförd</translation>
     </message>
     <message>
         <source>Scrub completed without needing repairs</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubbning slutförd utan att behöva reparationer</translation>
     </message>
     <message>
         <source>Scrub cancelled for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubbning avbruten för %1</translation>
     </message>
     <message>
         <source>Scrubbing %1: %2 (%3 remaining)</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubbning %1: %2 (%3 återstår)</translation>
     </message>
     <message>
         <source>Resilvering: %1 (%2 remaining)</source>
@@ -179,35 +179,35 @@
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Poolen är i ett försämrat tillstånd. Se ytterligare enhets fel.</translation>
     </message>
     <message>
         <source>%1 is degraded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är försämrad.</translation>
     </message>
     <message>
         <source>The device is faulty, and should be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten är felaktig, och bör bytas ut.</translation>
     </message>
     <message>
         <source>%1 is faulty.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är felaktig.</translation>
     </message>
     <message>
         <source>The device was removed, and should be either be re-attached or replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten avlägsnades, och bör antingen sättas tillbaka eller bytas.</translation>
     </message>
     <message>
         <source>%1 was removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 togs bort.</translation>
     </message>
     <message>
         <source>The device is unavailable and should be re-added to the pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten är inte tillgänglig och bör åter läggas till poolen.</translation>
     </message>
     <message>
         <source>%1 is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är inte tillgänglig.</translation>
     </message>
 </context>
 </TS>

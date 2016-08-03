@@ -99,43 +99,43 @@
     </message>
     <message>
         <source>Start Updates</source>
-        <translation type="unfinished"/>
+        <translation>Starta uppdateringar</translation>
     </message>
     <message>
         <source>Application updates are available!</source>
-        <translation type="unfinished"/>
+        <translation>Programuppdateringar är tillgängliga!</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Installerade</translation>
     </message>
     <message>
         <source>Application Details</source>
-        <translation type="unfinished"/>
+        <translation>Programdetaljer</translation>
     </message>
     <message>
         <source>Program Name</source>
-        <translation type="unfinished"/>
+        <translation>Programnamn</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Storlek</translation>
     </message>
     <message>
         <source>Architecture</source>
-        <translation type="unfinished"/>
+        <translation>Arkitektur</translation>
     </message>
     <message>
         <source>Check/Uncheck all applications</source>
-        <translation type="unfinished"/>
+        <translation>Markera/Avmarkera alla program</translation>
     </message>
     <message>
         <source>All</source>
@@ -151,7 +151,7 @@
     </message>
     <message>
         <source>Browse For Apps</source>
-        <translation type="unfinished"/>
+        <translation>Bläddra efter appar </translation>
     </message>
     <message>
         <source>Back to previous application</source>
@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>Browse Categories</source>
-        <translation type="unfinished"/>
+        <translation>Bläddra bland kategorier</translation>
     </message>
     <message>
         <source>Category</source>
@@ -179,23 +179,23 @@
     </message>
     <message>
         <source>Search Here</source>
-        <translation type="unfinished"/>
+        <translation>Sök här</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"/>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>PC-BSD Recommendations</source>
-        <translation type="unfinished"/>
+        <translation>PC-BSD rekommendationer</translation>
     </message>
     <message>
         <source>Application Spotlight</source>
-        <translation type="unfinished"/>
+        <translation>Utvalda program</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Ny</translation>
     </message>
     <message>
         <source>No applications in this category match the current browser view options.</source>
@@ -275,7 +275,7 @@
     </message>
     <message>
         <source>Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Insticksmoduler</translation>
     </message>
     <message>
         <source>Similar</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -300,32 +300,28 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>Avbröt konfigurationsskripts installation</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Välj typen av installation som ska genomföras</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Grafiskt skrivbord</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (Grafiskt skrivbord)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Bäst för servers och system utan skärm</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (Konsol baserad server)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Återställ från en existerande backup </translation>
     </message>
 </context>
 <context>
@@ -349,45 +345,6 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>Systemet är nu färdiginstallerat! Klicka på Slutför för att starta om och kom ihåg att ta ut eventuellt installationsmedia innan du startar om.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -664,8 +621,8 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>Ogiltig montering</translation>
     </message>
     <message>
-        <source>Mount point should start with &apos;/&apos;</source>
-        <translation>Monteringspunkt ska starta med &apos;/&apos;</translation>
+        <source>Mount point should start with '/'</source>
+        <translation>Monteringspunkt ska starta med '/'</translation>
     </message>
     <message>
         <source>Editing:</source>
@@ -733,7 +690,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Add additional disks to zpool</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ytterligare diskar till zpool</translation>
     </message>
     <message>
         <source>stripe</source>
@@ -741,7 +698,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ytterligare diskar till stripe</translation>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
@@ -752,16 +709,8 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>Välj hårddisken eller partitionen som du vill installera till.</translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <source>Use GRUB bootloader</source>
+        <translation>Använd GRUB bootloader</translation>
     </message>
 </context>
 <context>
@@ -859,28 +808,12 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Installera AppCafe? Detta tillåter dig att hantera paket och jails från en webbläsare eller mobil enhet.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Installera AppCafe</translation>
     </message>
 </context>
 <context>

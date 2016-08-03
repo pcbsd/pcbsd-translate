@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -11,32 +11,32 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="28"/>
         <source>Repository Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Förrådsinställningar</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="34"/>
         <source>Note: It may take a couple minutes to apply changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notera: Det kan ta några minuter att tillämpa ändringarna</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="43"/>
         <source>Enterprise (Long Term Support)</source>
-        <translation type="unfinished"></translation>
+        <translation>Företag (Långtidssupport)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="50"/>
         <source>Production (Updates Quarterly)</source>
-        <translation type="unfinished"></translation>
+        <translation>Produktion (Uppdateras kvartalsvis)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="57"/>
         <source>Edge (Updates Frequently)</source>
-        <translation type="unfinished"></translation>
+        <translation>Edge (Uppdateras ofta)</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="64"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="71"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="161"/>
         <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.ui" line="173"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="293"/>
         <source>New Repo URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny förråds URL</translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-softweb/configDlg.cpp" line="293"/>

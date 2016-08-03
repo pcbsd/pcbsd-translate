@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
     <name>APSetupDialog</name>
     <message>
         <source>Setup Wireless Access Point</source>
-        <translation>Ställ in trådlös accesspunkt</translation>
+        <translation>Konfigurera trådlös accesspunkt</translation>
     </message>
     <message>
         <source>Basic Setup</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>2-letter country code (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>Landskod (frivillig)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -101,7 +101,7 @@
     </message>
     <message>
         <source>Wireless driver does not support hosting a wireless access point.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trådlösa drivrutinen har inte stöd för att vara värd åt en trådlös åtkomstpunkt.</translation>
     </message>
     <message>
         <source>Could not create access point (is wlan0 already active?)</source>
@@ -147,7 +147,7 @@
     <name>KbLayoutSetupWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Input language</source>
-        <translation type="unfinished"></translation>
+        <translation>Inmatningsspråk</translation>
     </message>
     <message>
         <source>Variant</source>
@@ -174,18 +174,18 @@
     <name>KbOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>KbSimpleOptionsWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Keyboard layout switch keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt + Shift</source>
@@ -309,6 +309,42 @@ Om du avbryter nu kan paketen bli korrupta. Avbryt ändå?</translation>
     <message>
         <source>Alt+C</source>
         <translation>Alt+C</translation>
+    </message>
+    <message>
+        <source>MD5</source>
+        <translation>MD5</translation>
+    </message>
+    <message>
+        <source>MSCHAPV2</source>
+        <translation>MSCHAPV2</translation>
+    </message>
+    <message>
+        <source>GTC</source>
+        <translation>GTC</translation>
+    </message>
+    <message>
+        <source>OTP</source>
+        <translation>OTP</translation>
+    </message>
+    <message>
+        <source>PAP</source>
+        <translation>PAP</translation>
+    </message>
+    <message>
+        <source>CHAP</source>
+        <translation>CHAP</translation>
+    </message>
+    <message>
+        <source>MSCHAP</source>
+        <translation>MSCHAP</translation>
+    </message>
+    <message>
+        <source>Phase 2 Auth:</source>
+        <translation>Fas 2 behörighetskontroll:</translation>
+    </message>
+    <message>
+        <source>Anonymous Identity:</source>
+        <translation>Anonym identitet:</translation>
     </message>
 </context>
 <context>

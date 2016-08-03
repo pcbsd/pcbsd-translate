@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen finns inte, men kommer skapas</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation>Placering av hemkatalogen utanför &apos;/home/&apos; kan orsaka kompatibilitetsproblem med vissa program och är INTE REKOMMENDERAT</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
@@ -74,7 +74,8 @@
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- Fältet &quot;Användarnamn&quot; har inte fyllts i.</translation>
     </message>
     <message>
         <source>
@@ -125,7 +126,7 @@
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösenorden stämmer inte överens, försök igen.</translation>
     </message>
     <message>
         <source>
@@ -144,7 +145,8 @@
     <message>
         <source>
  - UID is already in use, please pick a different one</source>
-        <translation type="unfinished"></translation>
+        <translation>
+- UID används redan, välj ett annat</translation>
     </message>
 </context>
 <context>
@@ -471,7 +473,8 @@
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+- Fältet &quot;Användarnamn&quot; har inte fyllts i.</translation>
     </message>
     <message>
         <source>
@@ -506,7 +509,7 @@
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lösenorden stämmer inte överens, försök igen.</translation>
     </message>
     <message>
         <source>
@@ -704,11 +707,11 @@
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Katalogen finns inte, men kommer skapas</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Placering av hemkatalogen utanför &apos;/home/&apos; kan orsaka kompatibilitetsproblem med vissa program och är INTE REKOMMENDERAT</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>

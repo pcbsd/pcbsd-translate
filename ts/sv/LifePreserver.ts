@@ -5,7 +5,7 @@
     <name>LPClassic</name>
     <message>
         <source>Classic Home-Dir Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Klassisk Hemkatalogs säkerhetskopiering</translation>
     </message>
     <message>
         <source>Filename:</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Exclude User-Level Binaries (~/bin/)</source>
-        <translation type="unfinished"></translation>
+        <translation>Exkludera användarnivå binärer (~/bin/)</translation>
     </message>
     <message>
         <source>Additional Excludes</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>Remove selected exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort markerade exkludera</translation>
     </message>
     <message>
         <source>...</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Home Directory Being Archived....</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemkatalog blir arkiverad...</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Paketerar Hemkatalog...</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
@@ -192,11 +192,11 @@
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrubba</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera schemalagd skrubbning</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -276,11 +276,15 @@
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Undantagna data</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Anpassat IP&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation>Tidsinterval i dagar</translation>
     </message>
 </context>
 <context>
@@ -291,11 +295,11 @@
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>Detta verktyg kommer att guida dig genom de nödvändiga stegen för att upprätta fullt krypterade säkerhetskopior på annan plats av ditt PC-BSD-system.</translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguration av säkerhetskopieringsserver</translation>
     </message>
     <message>
         <source>Select</source>
@@ -474,7 +478,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1173,7 +1045,7 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktivera schemalagd skrubbning</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -1242,6 +1114,10 @@
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished">Tidsinterval i dagar</translation>
     </message>
 </context>
 <context>

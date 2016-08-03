@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Other Options</source>
-        <translation>Andra Alternativ</translation>
+        <translation>Andra alternativ</translation>
     </message>
     <message>
         <source>Force IBUS keyboard input</source>

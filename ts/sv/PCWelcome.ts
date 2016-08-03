@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Don&apos;t show on next startup</source>
-        <translation>Visa inte vid nästa start</translation>
+        <translation>Visa inte vid nästa uppstart</translation>
     </message>
     <message>
         <source>&amp;Next</source>
