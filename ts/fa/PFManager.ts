@@ -29,11 +29,11 @@
     </message>
     <message>
         <source>Sto&amp;p</source>
-        <translation type="unfinished"></translation>
+        <translation>بازای&amp;ست</translation>
     </message>
     <message>
         <source>Re&amp;start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;دوباره آغاز کن</translation>
     </message>
     <message>
         <source>General settings</source>
