@@ -53,31 +53,31 @@
     </message>
     <message>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>خوش آمدید!</translation>
     </message>
     <message>
         <source>Getting Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>پیوسته شدن</translation>
     </message>
     <message>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>برنامه‌های کاربردی کارگذاری کنید</translation>
     </message>
     <message>
         <source>Configure Your System</source>
-        <translation type="unfinished"></translation>
+        <translation>سامانهٔ خود را پیکربندی کنید</translation>
     </message>
     <message>
         <source>Preserve Your Files</source>
-        <translation type="unfinished"></translation>
+        <translation>از پرونده‌هایتان نگهداری کنید</translation>
     </message>
     <message>
         <source>Stay up to Date</source>
-        <translation type="unfinished"></translation>
+        <translation>به‌روز بمانید</translation>
     </message>
     <message>
         <source>Get Involved</source>
-        <translation type="unfinished"></translation>
+        <translation>درگیر شوید</translation>
     </message>
 </context>
 </TS>
