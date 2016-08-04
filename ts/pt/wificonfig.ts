@@ -459,11 +459,5 @@ Por favor configure a sua chave WPA antes de salvar!</translation>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Empresarial (Configurado)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 </TS>
