@@ -44,8 +44,12 @@
         <translation>稍後再說</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">24 小時 {8 ?} {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation type="unfinished">24 小時 {4 ?}</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation type="unfinished">24 小時 {8 ?}</translation>
     </message>
 </context>
 <context>
