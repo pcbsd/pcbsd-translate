@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="bg">
 <context>
@@ -44,8 +44,8 @@
         <translation>Парола (отново)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>Паролата за системата, или &quot;root&quot;, ви позволява да правите промени на операционната система, и трябва да бъде пазена от ненадеждни потребители.</translation>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>Паролата за системата, или "root", ви позволява да правите промени на операционната система, и трябва да бъде пазена от ненадеждни потребители.</translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,8 +68,8 @@
         <translation>Повторно &amp;сканиране</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Бяха намерени следните безжични мрежи. Кликнете тази, към която искате да се свържете. Ако искате да прескочите тази стъпка, кликнете &quot;Напред&quot; по-долу.</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Бяха намерени следните безжични мрежи. Кликнете тази, към която искате да се свържете. Ако искате да прескочите тази стъпка, кликнете "Напред" по-долу.</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
@@ -243,14 +243,14 @@
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Затваряне</translation>
+        <translation>&amp;Затваряне</translation>
     </message>
 </context>
 <context>
@@ -265,36 +265,37 @@
     </message>
     <message>
         <source>Network Key (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Мрежов ключ (повторно)</translation>
     </message>
     <message>
         <source>Show network key as text</source>
-        <translation type="unfinished"></translation>
+        <translation>Показване на мрежовия ключ като текст</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Прилагане</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Network Key Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка с мрежовия ключ</translation>
     </message>
     <message>
         <source>Error: The entered network keys do not match!
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Грешка: Въведените мрежови ключове не съвпадат!
+</translation>
     </message>
     <message>
         <source>Security Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Вид сигурност:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстов етикет</translation>
     </message>
 </context>
 <context>

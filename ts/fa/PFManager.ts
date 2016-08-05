@@ -57,19 +57,19 @@
     </message>
     <message>
         <source>Close Selected Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>درگاهی‌های گزیده شده را ببند</translation>
     </message>
     <message>
         <source>Open Port</source>
-        <translation type="unfinished"></translation>
+        <translation>درگاهی باز کن</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>ببند</translation>
     </message>
     <message>
         <source>Note: These settings are only used when the system is not being routed through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>آگاهی: این ساماندهی‌ها تنها زمانی بکار گرفته می‌شوند که سامانه بدست Tor راه‌گزینی شود</translation>
     </message>
 </context>
 <context>
