@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="de">
 <context>
@@ -72,7 +72,7 @@ physical pool size, quotas, reservations, and other datasets within the pool.</s
     </message>
     <message>
         <source>If this property is set to off, the file system cannot be mounted,
-and is ignored by 'zfs mount -a'.  Setting this property to off is
+and is ignored by &apos;zfs mount -a&apos;.  Setting this property to off is
 similar to setting the mountpoint property to none, except that the
 dataset still has a normal mountpoint property, which can be inherited
 Setting this property to off allows datasets to be used solely as a
@@ -80,7 +80,7 @@ mechanism to inherit properties. One example of setting canmount=off is
 to have two datasets with the same mountpoint, so that the children of
 both datasets appear in the same directory, but might have different
 inherited characteristics.</source>
-        <translation>Wenn diese Einstellung deaktiviert ist, kann das Dateisystem nicht eingehängt werden und wird von 'zfs mount -a' ignoriert. Dies entspricht der Einstellung des Einhängepunkts auf „none“ – mit dem Unterschied, dass der Datensatz weiterhin eine normale, vererbbare Einhängepunkt-Eigenschaft besitzt. Die Deaktivierung dieser Option erlaubt Datensätze, welche ausschließlich als Eigenschafts-vererbende Mechanismen benutzt werden können. Zwei Datensätze können somit beispielsweise den gleichen Einhängepunkt besitzen, wodurch die Kinder beider Datensätze im gleichen Verzeichnis erscheinen, jedoch unterschiedlich vererbte Eigenschaften besitzen.</translation>
+        <translation>Wenn diese Einstellung deaktiviert ist, kann das Dateisystem nicht eingehängt werden und wird von &apos;zfs mount -a&apos; ignoriert. Dies entspricht der Einstellung des Einhängepunkts auf „none“ – mit dem Unterschied, dass der Datensatz weiterhin eine normale, vererbbare Einhängepunkt-Eigenschaft besitzt. Die Deaktivierung dieser Option erlaubt Datensätze, welche ausschließlich als Eigenschafts-vererbende Mechanismen benutzt werden können. Zwei Datensätze können somit beispielsweise den gleichen Einhängepunkt besitzen, wodurch die Kinder beider Datensätze im gleichen Verzeichnis erscheinen, jedoch unterschiedlich vererbte Eigenschaften besitzen.</translation>
     </message>
     <message>
         <source>Controls the checksum used to verify data integrity. The default
@@ -194,7 +194,7 @@ mit der Option -r oder -f). Nicht geklonte Dateisysteme haben keine Quelle.</tra
 This property enforces a hard limit on the amount of disk space used,
 including all space consumed by descendents, such as file systems and snapshots.
 Setting a quota on a descendent of a dataset that already has a quota does not
-override the ancestor's quota, but rather imposes an additional limit.</source>
+override the ancestor&apos;s quota, but rather imposes an additional limit.</source>
         <translation>Limitiert die Menge an Festplattenplatz welche ein Dataset und seine Erben
 nutzen können. Diese Eigenschaft erzwingt ein Hardlimit auf die Menge des
 genutzten Festplattenplatzes, inklusive des gesamten Platzes der von den
@@ -249,8 +249,8 @@ genutzt wird.</translation>
 including descendents, such as snapshots and clones. When the amount of disk
 space used is below this value, the dataset is treated as if it were taking up
 the amount of space specified by refreservation. The refreservation reservation
-is accounted for in the parent dataset's disk space used, and counts against
-the parent dataset's quotas and reservations.
+is accounted for in the parent dataset&apos;s disk space used, and counts against
+the parent dataset&apos;s quotas and reservations.
 If refreservation is set, a snapshot is only allowed if enough free pool space
 is available outside of this reservation to accommodate the current number of
 referenced bytes in the dataset.</source>
@@ -268,8 +268,8 @@ der referenzierten Bytes im Dataset aufnehmen zu können.</translation>
         <source>Sets the minimum amount of disk space guaranteed to a dataset and its descendents.
 When the amount of disk space used is below this value, the dataset is treated as if
 it were using the amount of space specified by its reservation. Reservations are
-accounted for in the parent dataset's disk space used, and count against the parent
-dataset's quotas and reservations.</source>
+accounted for in the parent dataset&apos;s disk space used, and count against the parent
+dataset&apos;s quotas and reservations.</source>
         <translation>Legt das Minimum an garantiertem Speicherplatz eines Datasets und dessen Abkömmlingen
 fest. Wenn die Anzahl genutzten Speicherplatzes unter diesem Wert liegt, wird das Dataset
 so behandelt, als wenn es die Menge Speicherplatz benutzen würde, welche in seiner
@@ -317,7 +317,7 @@ zfs share command mit diesen Optionen aktiviert.</translation>
     </message>
     <message>
         <source>Read-only property that identifies the amount of disk space that is used by
-children of this dataset, which would be freed if all the dataset's children
+children of this dataset, which would be freed if all the dataset&apos;s children
 were destroyed.</source>
         <translation>Schreibgeschützte Eigenschaft die angibt wieviel Speichplatz von Kindern
 dieses Datasets genutzt wird. Dieser wird frei, wenn alle Kinder dieses
@@ -341,8 +341,8 @@ und wie viel Speicherplatz freigegeben würde, wenn die RefReservierung gelösch
     <message>
         <source>Read-only property that identifies the amount of disk space that is consumed
 by snapshots of a dataset. In particular, it is the amount of disk space that
-would be freed if all of this dataset's snapshots were destroyed. Note that
-this value is not simply the sum of the snapshots' used properties, because
+would be freed if all of this dataset&apos;s snapshots were destroyed. Note that
+this value is not simply the sum of the snapshots&apos; used properties, because
 space can be shared by multiple snapshots.</source>
         <translation>Schreibgeschützte Eigenschaft, die angibt wie viel Speicherplatz von
 Snapshots dieses Datensatzes belegt wird, und wie viel Speicherplatz
@@ -490,14 +490,11 @@ Für weitergehende Informationen lesen Sie das ZFS manual.</translation>
         <translation>Benutzereigenschaft löschen</translation>
     </message>
     <message>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
-gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
+lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
-        <translation>Schaltet Kompression für einen Datensatz an oder aus. Erlaubte Werte sind
-an, aus, lz4, lzjb, zle, gzip und gzip-N. Derzeit haben die Werte lz4, lzjb, gzip und gzip-N
-denselben Effekt wie der Wert an. Einschalten der Kompression belässt bestehende
-Daten unkomprimiert, nur neu hinzugefügte Daten werden komprimiert.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -810,16 +807,16 @@ durch explizites Setzen des Wertes geändert werden.</translation>
     <message>
         <source>The current on-disk version of the pool. This can be increased, but
 never decreased. The preferred method of updating pools is with the
-"zpool upgrade" command, though this property can be used when a
+&quot;zpool upgrade&quot; command, though this property can be used when a
 specific version is needed for backwards compatibility. This property
 can be any number between 1 and the current version reported by
-"zpool upgrade -v".</source>
+&quot;zpool upgrade -v&quot;.</source>
         <translation>Die derzeitige Version des Pools auf der Festplatte. Diese kann
 erhöht, aber niemals verringert werden. Die bevorzugte Methode, einen
-Pool zu aktualisieren, ist "zpool upgrade". Dies kann auch genutzt werden,
+Pool zu aktualisieren, ist &quot;zpool upgrade&quot;. Dies kann auch genutzt werden,
 wenn eine spezifische Version zur Rückwärtskompatibilität benötigt wird.
 Dieser Wert kann jede Zahl zwischen 1 und der aktuellen Version,
-ausgegeben durch "zpool upgrade -v", sein.</translation>
+ausgegeben durch &quot;zpool upgrade -v&quot;, sein.</translation>
     </message>
     <message>
         <source>Identifies the default bootable dataset for the root pool. This
@@ -838,20 +835,20 @@ definierten Berechtigungen des Datasets erhält. Siehe zfs(8) für
 weitere Informationen zur Administration mit ZFS delegation.</translation>
     </message>
     <message>
-        <source>Controls automatic device replacement. If set to "off", device
+        <source>Controls automatic device replacement. If set to &quot;off&quot;, device
 replacement must be initiated by the administrator by using the
-"zpool replace" command. If set to "on", any new device, found in the
+&quot;zpool replace&quot; command. If set to &quot;on&quot;, any new device, found in the
 same physical location as a device that previously belonged to the
 pool, is automatically formatted and replaced. The default behavior
-is "off".  This property can also be referred to by its shortened
-column name, "replace".</source>
-        <translation>Kontrolliert das automatische Ersetzen von Geräten. Wenn auf "Aus"
+is &quot;off&quot;.  This property can also be referred to by its shortened
+column name, &quot;replace&quot;.</source>
+        <translation>Kontrolliert das automatische Ersetzen von Geräten. Wenn auf &quot;Aus&quot;
 gesetzt, muss der Austausch durch den Administrator mithilfe von
-"zpool replace" ausgelöst werden. Wird der Wert auf "Ein" gesetzt,
+&quot;zpool replace&quot; ausgelöst werden. Wird der Wert auf &quot;Ein&quot; gesetzt,
 wird jedes neue Gerät, das an der selben physischen Position eines zuvor
 entfernten Pool-Mitglieds erkannt wird, automatisch formatiert und ersetzt.
-Das Standardverhalten ist "Aus".   Auf diesen Wert kann auch durch die
-Spalte "replace" verwiesen werden.</translation>
+Das Standardverhalten ist &quot;Aus&quot;.   Auf diesen Wert kann auch durch die
+Spalte &quot;replace&quot; verwiesen werden.</translation>
     </message>
     <message>
         <source>Controls the location of where the pool configuration is cached.
@@ -861,9 +858,9 @@ in this cache are automatically imported when the system boots. Some
 environments, such as install and clustering, need to cache this
 information in a different location so that pools are not automatically
 imported. Setting this property caches the pool configuration
-in a different location that can later be imported with "zpool import
--c".  Setting it to the special value "none" creates a temporary pool
-that is never cached, and the special value '' (empty string) uses
+in a different location that can later be imported with &quot;zpool import
+-c&quot;.  Setting it to the special value &quot;none&quot; creates a temporary pool
+that is never cached, and the special value &apos;&apos; (empty string) uses
 the default location.</source>
         <translation>Bestimmt den Ort, an dem die Pool-Konfiguration zwischengespeichert
 wird. Um alle Pools beim Systemstart zu erkennen, wird eine Kopie des
@@ -873,8 +870,8 @@ importiert. Manche Umgebungen, wie Installer und Cluster, müssen
 diesen Cache an einem anderen Ort speichern, damit die Pools nicht
 automatisch importiert werden. Das Setzen dieses Merkmals speichert
 den Cache der Pool-Konfiguration an einem anderen Ort, damit dieser
-später mittels "zpool import -c" importiert werden kann.  Der spezielle
-Wert "none" erzeugt einen temporären Pool, dessen Cache niemals
+später mittels &quot;zpool import -c&quot; importiert werden kann.  Der spezielle
+Wert &quot;none&quot; erzeugt einen temporären Pool, dessen Cache niemals
 gespeichert wird. Bleibt der Wert leer, wird der standardmäßige
 Speicherort verwendet.</translation>
     </message>
@@ -914,27 +911,27 @@ Gibt eine Meldung auf der Konsole aus und erzeugt ein Systemabbild
     </message>
     <message>
         <source>Controls whether information about snapshots associated with this
-pool is output when "zfs list" is run without the -t option. The
+pool is output when &quot;zfs list&quot; is run without the -t option. The
 default value is off.</source>
         <translation>Bestimmt ob Informationen zu Snapshots dieses Pools angezeigt
-werden, wenn "zfs list" ohne die Option -t ausgeführt wird. Der
-Standardwert ist "aus".</translation>
+werden, wenn &quot;zfs list&quot; ohne die Option -t ausgeführt wird. Der
+Standardwert ist &quot;aus&quot;.</translation>
     </message>
     <message>
         <source>Controls automatic pool expansion when the underlying LUN is grown.
-If set to "on", the pool will be resized according to the size of the
+If set to &quot;on&quot;, the pool will be resized according to the size of the
 expanded device. If the device is part of a mirror or raidz then all
 devices within that mirror/raidz group must be expanded before the
 new space is made available to the pool. The default behavior is
-"off".  This property can also be referred to by its shortened column
+&quot;off&quot;.  This property can also be referred to by its shortened column
 name, expand.</source>
         <translation>Steuert die automatische Vergrößerung des Pools, wenn die
-zugrundeliegende LUN vergrößert wird. Wenn auf "ein" gesetzt,
+zugrundeliegende LUN vergrößert wird. Wenn auf &quot;ein&quot; gesetzt,
 wird der Pool auf die neue Größe des Gerätes vergrößert. Wenn
 das Gerät Mitglied eines Spiegels oder raidz ist, müssen alle Geräte
 innerhalb dieses Spiegels/raidz-Verbundes vergrößert werden, bevor
 der zusätzliche Speicherplatz im Pool verfügbar wird. Das Standard-
-verhalten ist "aus".  Die Spalte "expand" bezieht sich auf diesen Wert.</translation>
+verhalten ist &quot;aus&quot;.  Die Spalte &quot;expand&quot; bezieht sich auf diesen Wert.</translation>
     </message>
     <message>
         <source>Threshold for the number of block ditto copies. If the reference
@@ -1378,10 +1375,10 @@ OK to destroy the slice/partition?</source>
 OK zum Zerstören des Slices/der Partition?</translation>
     </message>
     <message>
-        <source>An error was detected while executing '%1':
+        <source>An error was detected while executing &apos;%1&apos;:
 
 </source>
-        <translation>Fehler bei der Ausführung von '%1':
+        <translation>Fehler bei der Ausführung von &apos;%1&apos;:
 
 </translation>
     </message>
@@ -1390,18 +1387,18 @@ OK zum Zerstören des Slices/der Partition?</translation>
         <translation>Fehlerbericht</translation>
     </message>
     <message>
-        <source>An error was detected while executing 'zpool':
+        <source>An error was detected while executing &apos;zpool&apos;:
 
 </source>
-        <translation>Fehler bei der Ausführung von 'zpool':
+        <translation>Fehler bei der Ausführung von &apos;zpool&apos;:
 
 </translation>
     </message>
     <message>
-        <source>An error was detected while executing 'zfs':
+        <source>An error was detected while executing &apos;zfs&apos;:
 
 </source>
-        <translation>Fehler bei der Ausführung von 'zfs':
+        <translation>Fehler bei der Ausführung von &apos;zfs&apos;:
 
 </translation>
     </message>
@@ -1415,7 +1412,7 @@ OK zum Zerstören des Slices/der Partition?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to destroy the pool will leave the pool in the state it was when imported, not necessarily destroyed.</source>
-        <translation>Der Pool wurde Schreibgeschützt importiert. Der Versuch ihn zu zerstören wird ihn im selben Zustand belassen, wie er importiert wurde. Dieser ist nicht unbedingt "zerstört".</translation>
+        <translation>Der Pool wurde Schreibgeschützt importiert. Der Versuch ihn zu zerstören wird ihn im selben Zustand belassen, wie er importiert wurde. Dieser ist nicht unbedingt &quot;zerstört&quot;.</translation>
     </message>
     <message>
         <source>Attach mirror devices to </source>
@@ -1423,7 +1420,7 @@ OK zum Zerstören des Slices/der Partition?</translation>
     </message>
     <message>
         <source>The pool was imported in read-only mode, therefore attempting to export the pool will leave the pool in the state it was when imported, not necessarily exported.</source>
-        <translation>Der Pool wurde Schreibgeschützt importiert, daher wird der Pool beim Export im selben Zustand bleiben, in dem er sich beim Import befand. Dieser ist nicht unbedingt "exportiert".</translation>
+        <translation>Der Pool wurde Schreibgeschützt importiert, daher wird der Pool beim Export im selben Zustand bleiben, in dem er sich beim Import befand. Dieser ist nicht unbedingt &quot;exportiert&quot;.</translation>
     </message>
     <message>
         <source>Recover destroyed pool as...</source>
@@ -1434,7 +1431,7 @@ OK zum Zerstören des Slices/der Partition?</translation>
         <translation>Pool importieren als...</translation>
     </message>
     <message>
-        <source>This pool had been destroyed, and its disks may have been reused. Attempting to recover will destroy any new data that could've been stored in the devices that were reused and cannot be recovered.
+        <source>This pool had been destroyed, and its disks may have been reused. Attempting to recover will destroy any new data that could&apos;ve been stored in the devices that were reused and cannot be recovered.
 Proceed with recovery?</source>
         <translation>Dieser Pool wurde zerstört und die Geräte möglicherweise wiederverwendet. Beim Versuch den Pool wiederherzustellen werden alle Daten, die zwischenzeitlich auf den wiederverwendeten Geräten gespeichert wurden, endgültig zerstört.
 Wiederherstellung fortsetzen?</translation>
