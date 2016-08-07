@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>پیکربندی پیش‌داده را باز&amp;گردان</translation>
     </message>
     <message>
         <source>Firewall</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;آغاز کن</translation>
     </message>
     <message>
         <source>Sto&amp;p</source>
@@ -49,11 +49,11 @@
     </message>
     <message>
         <source>Open Ports</source>
-        <translation type="unfinished"></translation>
+        <translation>درگاهی‌های باز</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished"></translation>
+        <translation>گونه</translation>
     </message>
     <message>
         <source>Close Selected Ports</source>
@@ -77,8 +77,7 @@
     <message>
         <source>This will turn off the firewall completely.
 Are you sure?</source>
-        <translation type="unfinished">این کار دیوار آتش را کاملا خاموش می کند.
-آیا مطمئن هستید؟</translation>
+        <translation>این کار آتش‌بند را یکسره خاموش می‌کند.آیا بی‌گمان هستید؟</translation>
     </message>
     <message>
         <source>Question</source>
@@ -86,19 +85,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">موفقیت آمیز</translation>
+        <translation>پیروزی</translation>
     </message>
     <message>
         <source>Restarted successfuly!</source>
-        <translation type="unfinished">با موفقیت راه اندازی مجدد شد!</translation>
+        <translation>با پیروزی دوباره آغاز شد!</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished">شکست خورد</translation>
+        <translation>شکست</translation>
     </message>
     <message>
         <source>Failed to restart!</source>
-        <translation type="unfinished">راه اندازی مجدد شکست خورد!</translation>
+        <translation>دوباره آغاز کردن شکست خورد!</translation>
     </message>
     <message>
         <source>Restored.</source>
