@@ -459,13 +459,5 @@ Lütfen kaydetmeden önce WPA ayarlarınızı yapılandırın!</translation>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Kurumsal (Yapılandırılmış)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>WPA-Kurumsal seçildi, ancak yapılandırılmadı!
-Lütfen kaydetmeden önce WPA ayarlarınızı yapılandırın!
-Geçerli Aşama2 seçenekleri MD5, MSCHAPV2, GTC ya da OTP şeklindedir.</translation>
-    </message>
 </context>
 </TS>
