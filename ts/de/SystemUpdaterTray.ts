@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="de">
 <context>
@@ -44,8 +44,12 @@
         <translation>Später erneut erinnern</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">8 Stunden {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 Stunden</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 Stunden</translation>
     </message>
 </context>
 <context>
