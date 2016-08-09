@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Parar</translation>
     </message>
     <message>
         <source>&amp;Finished</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Data Set:</source>
-        <translation type="unfinished">Conjunto de dados:</translation>
+        <translation>Conjunto de dados:</translation>
     </message>
     <message>
         <source>Local Snapshots</source>
@@ -196,7 +196,7 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilitar programação</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -248,7 +248,7 @@
     </message>
     <message>
         <source>Replication Settings</source>
-        <translation type="unfinished">Configurações da replicação</translation>
+        <translation>Configurações da replicação</translation>
     </message>
     <message>
         <source>Identify Replication Target</source>
@@ -264,22 +264,26 @@
     </message>
     <message>
         <source>ISCSI</source>
-        <translation type="unfinished"></translation>
+        <translation>ISCSI</translation>
     </message>
     <message>
         <source>Excluded:</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluído:</translation>
     </message>
     <message>
         <source>Remote Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidores remotos</translation>
     </message>
     <message>
         <source>Excluded Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados excluídos</translation>
     </message>
     <message>
         <source>&lt;Custom IP&gt;</source>
+        <translation>&lt;IP personalizado&gt;</translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -291,11 +295,11 @@
     </message>
     <message>
         <source>This utility will guide you through the steps necessary to setup fully-encrypted, offsite backups of your PC-BSD system. </source>
-        <translation type="unfinished"></translation>
+        <translation>Esse serviço irá guia-lo nos passos necessários para criptografar totalmente e fazer os backups externos do seu sistema PC-BSD. </translation>
     </message>
     <message>
         <source>Backup Server Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuração do servido de backup</translation>
     </message>
     <message>
         <source>Select</source>
@@ -327,15 +331,15 @@
     </message>
     <message>
         <source>Backup Schedule:</source>
-        <translation type="unfinished"></translation>
+        <translation>Programação de backup:</translation>
     </message>
     <message>
         <source>Backup Dataset:</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de dados de backup:</translation>
     </message>
     <message>
         <source>Save Backup Key File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Salvar Arquivo de Backup</translation>
     </message>
     <message>
         <source>Encrypt Key File</source>
@@ -343,7 +347,7 @@
     </message>
     <message>
         <source>Repeat Password:</source>
-        <translation type="unfinished">Repetir senha:</translation>
+        <translation>Repetir senha:</translation>
     </message>
     <message>
         <source>Create Key File</source>
@@ -387,7 +391,7 @@
     </message>
     <message>
         <source>Error With Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro na configuração</translation>
     </message>
     <message>
         <source>Invalid Passwords</source>
@@ -395,7 +399,7 @@
     </message>
     <message>
         <source>The passwords listed either do not match or are blank</source>
-        <translation type="unfinished"></translation>
+        <translation>As senhas listadas não coincidem ou estão em branco</translation>
     </message>
     <message>
         <source>Select LPS file</source>
@@ -474,7 +478,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1173,7 +1045,7 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Habilitar programação</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -1241,6 +1113,10 @@
     </message>
     <message>
         <source>Proceed directly to the advanced configuration options.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interval of Days</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
