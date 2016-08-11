@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="nl">
 <context>
     <name>LPMessages</name>
     <message>
@@ -9,23 +9,23 @@
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Berichten</translation>
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Logbestanden</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluiten</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen recente berichten</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen logbestanden beschikbaar</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
@@ -44,19 +44,19 @@
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles tonen</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen waarschuwingen</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen</translation>
     </message>
     <message>
         <source>Popup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pop-upinstellingen</translation>
     </message>
     <message>
         <source>Open Life Preserver</source>
@@ -64,19 +64,19 @@
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Berichten bekijken</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Ververs lade</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit lade</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
@@ -107,19 +107,19 @@
     </message>
     <message>
         <source>Replication Log</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicatie-logbestand</translation>
     </message>
     <message>
         <source>Finished Replication</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicatie voltooid</translation>
     </message>
     <message>
         <source>Finished replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicatie voltooid voor %1</translation>
     </message>
     <message>
         <source>Replication Failed for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicatie mislukt voor %1</translation>
     </message>
     <message>
         <source>Logfile available at: %1</source>
@@ -127,7 +127,7 @@
     </message>
     <message>
         <source>Replication Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Replicatie mislukt</translation>
     </message>
     <message>
         <source>Replication Error Log</source>
