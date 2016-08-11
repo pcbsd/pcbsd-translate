@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-11 00:20-0700\n"
-"PO-Revision-Date: 2016-08-11 10:41+0000\n"
+"POT-Creation-Date: 2016-08-11 04:19-0700\n"
+"PO-Revision-Date: 2016-08-11 16:48+0000\n"
 "Last-Translator: Manhfe <manfhe@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1470934117.000000\n"
 
 #: ../../advanced.rst:5
 msgid "Advanced Installation Topics"
@@ -95,7 +99,6 @@ msgstr ""
 "tela."
 
 #: ../../advanced.rst:47
-#, fuzzy
 msgid "If you keep the default selection of \"install\", the next screen will prompt to install a desktop or a server, as seen in :numref:`Figure %s: Select Desktop or Server <text2>`."
 msgstr ""
 "Se manter a opção padrão de \"instalar\", na próxima tela será perguntado "
@@ -128,10 +131,22 @@ msgstr ""
 #: ../../advanced.rst:66
 msgid "Select the disk to install into and press :kbd:`Enter`. In the next screen, the installer will display all available primary or GPT partitions. In the example shown in :numref:`Figure %s: Select Partition <text4>`, there is only one partition and the installer has selected the default of installing to the entire disk. **If you have multiple partitions and disks, carefully select the disk and partition to install to.**"
 msgstr ""
+"Selecione o disco para instalar e pressione a tecla :kbd:`Enter`. Na próxima "
+"tela, o instalador exibirá as partições primária ou GPT. No exemplo "
+"demonstrado na `Imagem :numref: %s: Selecionar Partição <text4>`, têm "
+"somente uma partição e o instalador selecionou o padrão de instalar no disco "
+"todo. **Se você tiver varias partições e discos, selecione com cuidado o "
+"disco e partição onde será instalado.**"
 
 #: ../../advanced.rst:74
 msgid "The next screen, shown in :numref:`Figure %s: Select Disk Format <text5>`, is used to select the type of disk format. If the installation disk or partition is larger than 2 TB, *GPT* **must** be selected. Otherwise, selecting *GPT* should work for most modern hardware. When installing on older hardware, or if the newly installed system will not boot after selecting *GPT*, select *MBR* instead."
 msgstr ""
+"A próxima tela, como demonstra na `Imagem :numref: %s: Selecionar Formato do "
+"Disco <text5>`, é usada para selecionar o tipo do formato do disco. Se a "
+"instalação for em um disco ou partição maior que 2 TB, a opção *GPT* **deve**"
+" ser selecionada. A opção *GPT* deverá funcionar para maioria dos hardwares "
+"modernos. Ao instalar em hardwares antigos, ou se o sistema não iniciar ao "
+"selecionar *GPT*, selecione *MBR*."
 
 #: ../../advanced.rst:84
 msgid "The next screen, shown in :numref:`Figure %s: Select Boot Manager <text6>`, is used to select whether or not to use the GRUB boot manager."
