@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -300,32 +300,28 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>Avbröt konfigurationsskripts installation</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Välj typen av installation som ska genomföras</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Grafiskt skrivbord</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (Grafiskt skrivbord)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Bäst för servers och system utan skärm</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (Konsol baserad server)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Återställ från en existerande backup </translation>
     </message>
 </context>
 <context>
@@ -349,45 +345,6 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>Systemet är nu färdiginstallerat! Klicka på Slutför för att starta om och kom ihåg att ta ut eventuellt installationsmedia innan du startar om.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Avbryt</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -529,7 +486,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Force ZFS 4K block size</source>
-        <translation>Tvinga ZFS 4k block size</translation>
+        <translation>Tvinga ZFS 4K block size</translation>
     </message>
     <message>
         <source>ZFS pool name</source>
@@ -545,7 +502,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
-        <translation>Vad god välj minst 1 ytterligare enhet för spegling</translation>
+        <translation>Vad god välj minst 1 ytterligare disk för spegling</translation>
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
@@ -561,7 +518,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Enable log device</source>
-        <translation>Akivera logg enhet</translation>
+        <translation>Aktivera logg enhet</translation>
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
@@ -609,7 +566,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
-        <translation>Vad god kontrollera enhetssummeringen nedan och klicka på fortsätt för att spara inställningarna.</translation>
+        <translation>Vad god kontrollera disksummeringen nedan och klicka på verkställ för att spara inställningarna.</translation>
     </message>
     <message>
         <source>Use entire disk</source>
@@ -657,19 +614,19 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please enter the new mount-point:</source>
-        <translation>Vad god ange ny monteringspunkt:</translation>
+        <translation>Vad god ange den nya monteringspunkten:</translation>
     </message>
     <message>
         <source>Invalid Mount</source>
         <translation>Ogiltig montering</translation>
     </message>
     <message>
-        <source>Mount point should start with &apos;/&apos;</source>
-        <translation>Monteringspunkt ska starta med &apos;/&apos;</translation>
+        <source>Mount point should start with '/'</source>
+        <translation>Monteringspunkt ska starta med '/'</translation>
     </message>
     <message>
         <source>Editing:</source>
-        <translation>Redigerar:</translation>
+        <translation>Redigera:</translation>
     </message>
     <message>
         <source>Enter SWAP size</source>
@@ -752,16 +709,8 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>Välj hårddisken eller partitionen som du vill installera till.</translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <source>Use GRUB bootloader</source>
+        <translation>Använd GRUB bootloader</translation>
     </message>
 </context>
 <context>
@@ -772,7 +721,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Please enter the root password for this server</source>
-        <translation>Vad god ange rootlösenordet för denna servern</translation>
+        <translation>Vad god ange ett rootlösenord för denna servern</translation>
     </message>
     <message>
         <source>Password</source>
@@ -796,11 +745,11 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Default shell</source>
-        <translation>Standard skal:</translation>
+        <translation>Standard skal</translation>
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation>Vad god ange systemets värdnamn och inställningar för fjärranslutning.</translation>
+        <translation>Vad god ange ett värdnamn och välj inställningar för fjärranslutning.</translation>
     </message>
     <message>
         <source>Hostname</source>
@@ -808,7 +757,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>Enable remote SSH login</source>
-        <translation>Aktivera remote SSH login</translation>
+        <translation>Aktivera fjärr SSH inloggning</translation>
     </message>
     <message>
         <source>Please select a network device to configure for this system.</source>
@@ -859,28 +808,12 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Installera AppCafe? Detta tillåter dig att hantera paket och jails från en webbläsare eller mobil enhet.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Installera AppCafe</translation>
     </message>
 </context>
 <context>
@@ -907,7 +840,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation>Om du har sparat din Life-Preserver nyckel på en USB-Sticka, stoppa in den nu och välj USB-nyckel, annars kan du använda lösenordsautentisering.</translation>
+        <translation>Om du har sparat din Life-Preserver nyckel på ett USB-minne, stoppa in det nu och välj USB-minne, annars kan du använda lösenordsautentisering.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
@@ -923,7 +856,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>The following systems are backed up on this server, select the one you wish to restore. </source>
-        <translation>Följande system backas upp på den här servern, väljer du den som du vill återställa. </translation>
+        <translation>Följande system backas upp på den här servern, välj det som du vill återställa. </translation>
     </message>
     <message>
         <source>Restore System Selection</source>
@@ -935,7 +868,7 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     </message>
     <message>
         <source>The system is ready to be restored, click Finish to continue.</source>
-        <translation>Systemet är redo att bli återställt, klicka på Avsluta för att fortsätta.</translation>
+        <translation>Systemet är redo att bli återställt, klicka på Verkställ för att fortsätta.</translation>
     </message>
     <message>
         <source>No keys found!</source>
@@ -944,8 +877,8 @@ Klicka på Avsluta för att starta om. Efter omstarten kan du ta ut installation
     <message>
         <source>No Auth keys could be found on that memory stick!
 Please try another USB stick or use password authentication.</source>
-        <translation>Inga Auth nycklar kunde hittas på denna USB-sticka!
-Testa med en annan USB-Sticka eller använd lösenordsautentisering.</translation>
+        <translation>Inga Autentiserings nycklar kunde hittas på detta USB-minne!
+Testa med ett annat USB-minne eller använd lösenordsautentisering.</translation>
     </message>
     <message>
         <source>Connection failed!</source>
