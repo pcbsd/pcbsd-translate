@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Используйте временный домашний каталог, который удалится при выходе их системы)</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Обновить</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Обновить доступных пользователей</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Изменить локализацию (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Обновить PCDM</translation>
     </message>
 </context>
 <context>
