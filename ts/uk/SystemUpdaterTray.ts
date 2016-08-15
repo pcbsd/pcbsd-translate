@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="uk">
 <context>
@@ -44,12 +44,8 @@
         <translation>Нагадати пізніше</translation>
     </message>
     <message>
-        <source>4 Hours</source>
-        <translation>4 год.</translation>
-    </message>
-    <message>
-        <source>8 Hours</source>
-        <translation>8 год.</translation>
+        <source>5 Hours</source>
+        <translation type="unfinished">8 год. {5 ?}</translation>
     </message>
 </context>
 <context>
@@ -155,7 +151,7 @@
     </message>
     <message>
         <source>Check Tor connection</source>
-        <translation>Перевірити з'єднання Tor</translation>
+        <translation>Перевірити з&apos;єднання Tor</translation>
     </message>
     <message>
         <source>(Routing through Tor)</source>
@@ -171,7 +167,7 @@
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>
-        <translation>Примітка: Після увімкнення Tor може пройти хвилина або більше на з'єднання з мережею Tor.</translation>
+        <translation>Примітка: Після увімкнення Tor може пройти хвилина або більше на з&apos;єднання з мережею Tor.</translation>
     </message>
     <message>
         <source>Enable Tor?</source>
