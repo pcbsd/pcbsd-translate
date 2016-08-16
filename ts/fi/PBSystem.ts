@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>CMDDialog</name>
     <message>
         <source>CMD Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Komennon tuloste</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pysäytä</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>Getting PC-BSD Ports Tree</source>

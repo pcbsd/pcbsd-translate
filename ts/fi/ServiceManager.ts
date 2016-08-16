@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>ServiceManager</name>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished">Palveluidenhallinta</translation>
+        <translation>Palvelunhallinta</translation>
     </message>
     <message>
         <source>The following services are available on this system</source>
-        <translation type="unfinished">Seuraavat palvelut on asennettu tähän järjestelmään</translation>
+        <translation>Järjestelmässä ovat saatavilla seuraavat palvelut</translation>
     </message>
     <message>
         <source>SDIR</source>
-        <translation type="unfinished">SDIR</translation>
+        <translation>SDIR</translation>
     </message>
     <message>
         <source>TAG</source>
-        <translation type="unfinished">TAG</translation>
+        <translation>TAG</translation>
     </message>
     <message>
         <source>Service Name</source>
-        <translation type="unfinished">Palvelun nimi</translation>
+        <translation>Palvelun nimi</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished">Käynnissä</translation>
+        <translation>Käynnissä</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Käytössä</translation>
+        <translation>Käytössä</translation>
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käynnistä</translation>
     </message>
     <message>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä &amp;uudelleen</translation>
     </message>
     <message>
         <source>&amp;Enable Service</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ota palvelu käyttöön</translation>
     </message>
     <message>
         <source>&amp;Disable Service</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poista palvelu käytöstä</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ysäytä</translation>
     </message>
     <message>
         <source>Managing services for Warden Jail:</source>
@@ -57,54 +57,54 @@
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished">Tarkistaa...</translation>
+        <translation>Tarkistetaan...</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">Poissa käytöstä</translation>
+        <translation>Ei käytössä</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tuntematon</translation>
+        <translation>Tuntematon</translation>
     </message>
     <message>
         <source>Stopped</source>
-        <translation type="unfinished">Pysähtynyt</translation>
+        <translation>Pysähtynyt</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
 </context>
 <context>
     <name>progressUI</name>
     <message>
         <source>Service</source>
-        <translation type="unfinished">Palvelu</translation>
+        <translation>Palvelu</translation>
     </message>
     <message>
         <source>Service Action in progress...</source>
-        <translation type="unfinished">Palvelun toimintoa suoritetaan</translation>
+        <translation>Palvelun toiminto käynnissä…</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished">Epäonnistui</translation>
+        <translation>Epäonnistui</translation>
     </message>
     <message>
         <source>The specified command failed.</source>
-        <translation type="unfinished">Komennon suoritus epäonnistui</translation>
+        <translation>Komennon suoritus epäonnistui.</translation>
     </message>
     <message>
         <source>Finished</source>
-        <translation type="unfinished">Valmis</translation>
+        <translation>Valmis</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Sulje</translation>
+        <translation>Sulje</translation>
     </message>
 </context>
 </TS>
