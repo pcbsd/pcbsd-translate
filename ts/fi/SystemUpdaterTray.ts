@@ -1,177 +1,181 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>DialogReminder</name>
     <message>
         <source>System Restart Required</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä on käynnistettävä uudelleen</translation>
     </message>
     <message>
         <source>The system needs to be restarted to finish installing updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä on käynnistettävä uudelleen asennuksen viimeistelemiseksi.</translation>
     </message>
     <message>
         <source>Next Reminder:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraava muistutus:</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei koskaan</translation>
     </message>
     <message>
         <source>30 Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuutin kuluttua</translation>
     </message>
     <message>
         <source>1 Hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 tunnin kuluttua</translation>
     </message>
     <message>
         <source>12 Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 tunnin kuluttua</translation>
     </message>
     <message>
         <source>24 Hours</source>
-        <translation type="unfinished"></translation>
+        <translation>24 tunnin kuluttua</translation>
     </message>
     <message>
         <source>Reboot Now!</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä uudelleen nyt!</translation>
     </message>
     <message>
         <source>Remind Me Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Muistuta myöhemmin</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished"></translation>
+        <source>4 Hours</source>
+        <translation>4 tunnin kuluttua</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 tunnin kuluttua</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Reboot required to finish updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivityksen viimeistely vaatii uudelleenkäynnistystä</translation>
     </message>
     <message>
         <source>Performing background updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritetaan taustapäivityksiä</translation>
     </message>
     <message>
         <source>OS Update Available: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttöjärjestelmäpäivitys saatavilla: %1</translation>
     </message>
     <message>
         <source>System updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmäpäivityksiä saatavilla</translation>
     </message>
     <message>
         <source>Package updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakettien päivityksiä saatavilla</translation>
     </message>
     <message>
         <source>Jail updates available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System up to date!</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä on ajan tasalla!</translation>
     </message>
     <message>
         <source>Unable to determine system status</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän tilaa ei saada selville</translation>
     </message>
 </context>
 <context>
     <name>TrayUI</name>
     <message>
         <source>Start the Update Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä päivitysten hallinta</translation>
     </message>
     <message>
         <source>Start the AppCafe</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä AppCafe</translation>
     </message>
     <message>
         <source>Run At Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä käynnistettäessä</translation>
     </message>
     <message>
         <source>Display Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä ilmoitukset</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopeta</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkista päivitykset</translation>
     </message>
     <message>
         <source>Check Jails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Update: Everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattipäivitä: Kaikki</translation>
     </message>
     <message>
         <source>Auto-Update: Security Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattipäivitä: Vain turvapäivitykset</translation>
     </message>
     <message>
         <source>Auto-Update: Packages Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattipäivitä: Vain paketit</translation>
     </message>
     <message>
         <source>Auto-Update: Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattipäivitä: Ei käytössä</translation>
     </message>
     <message>
         <source>Auto-Update: Security &amp; Packages</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattipäivitä: Turvapäivitykset ja paketit</translation>
     </message>
     <message>
         <source>Last Update: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Viimeisin päivitys: %1</translation>
     </message>
     <message>
         <source>Updates Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivityksiä saatavilla</translation>
     </message>
     <message>
         <source>Update Procedure Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivitys käynnissä</translation>
     </message>
     <message>
         <source>Routing through Tor</source>
-        <translation type="unfinished"></translation>
+        <translation>Reititetään Torin kautta</translation>
     </message>
     <message>
         <source>Check Tor connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkista Tor-yhteys</translation>
     </message>
     <message>
         <source>(Routing through Tor)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Reititetään Torin kautta)</translation>
     </message>
     <message>
         <source>Even while using Tor it is possible to leak your identity. Please read through the Tor FAQ for information on what Tor is and how to use it safely.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toriakin käytettäessä henkilöytesi voi paljastua. Lue Torin FAQista lisätietoa siitä, mikä Tor on ja miten sitä käytetään turvallisesti.</translation>
     </message>
     <message>
         <source>Tor FAQ: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Torin FAQ: %1</translation>
     </message>
     <message>
         <source>Note: After enabling Tor, it may take a minute or so to connect to the Tor network</source>
-        <translation type="unfinished"></translation>
+        <translation>Huomaa: Kun Tor on käytössä, Tor-verkkoon yhdistäminen voi kestää jonkin verran.</translation>
     </message>
     <message>
         <source>Enable Tor?</source>
-        <translation type="unfinished"></translation>
+        <translation>Otetaanko Tor käyttöön?</translation>
     </message>
 </context>
 </TS>

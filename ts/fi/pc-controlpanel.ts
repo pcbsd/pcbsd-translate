@@ -1,75 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>MainWindow</name>
     <message>
         <source>PC-BSD Control Panel</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD:n ohjauskeskus</translation>
     </message>
     <message>
         <source>What do you want to configure?</source>
-        <translation type="unfinished">Mitä haluat konfiguroida?</translation>
+        <translation>Mitä asetuksia haluat muuttaa?</translation>
     </message>
     <message>
         <source>Loading items...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan tietueita…</translation>
     </message>
     <message>
         <source>Software and updates</source>
-        <translation type="unfinished">Sovellukset ja päivitykset</translation>
+        <translation>Sovellukset ja päivitykset</translation>
     </message>
     <message>
         <source>System management</source>
-        <translation type="unfinished">Järjestelmänhallinta</translation>
+        <translation>Järjestelmänhallinta</translation>
     </message>
     <message>
         <source>Hardware</source>
-        <translation type="unfinished">Laitteisto</translation>
+        <translation>Laitteisto</translation>
     </message>
     <message>
         <source>Networking</source>
-        <translation type="unfinished">Verkkotyökalut</translation>
+        <translation>Verkko</translation>
     </message>
     <message>
         <source>Desktop environment</source>
-        <translation type="unfinished">Työpöytäympäristö</translation>
+        <translation>Työpöytäympäristö</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Työkalut</translation>
+        <translation>Työkalut</translation>
     </message>
     <message>
         <source>Normal icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Tavalliset kuvakkeet</translation>
     </message>
     <message>
         <source>Large icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Suuret kuvakkeet</translation>
     </message>
     <message>
         <source>Grid view</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruudukkonäkymä</translation>
     </message>
     <message>
         <source>List view</source>
-        <translation type="unfinished"></translation>
+        <translation>Luettelonäkymä</translation>
     </message>
     <message>
         <source>System only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain järjestelmä</translation>
     </message>
     <message>
         <source>All desktops</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaikki työpöydät</translation>
     </message>
     <message>
         <source>Fixed items layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiinteä tietueasettelu</translation>
     </message>
     <message>
         <source>(Current)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nykyinen)</translation>
     </message>
 </context>
 </TS>

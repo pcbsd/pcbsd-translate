@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -18,7 +18,7 @@
     <message>
         <source>Host:</source>
         <translatorcomment>Osoite? IP?</translatorcomment>
-        <translation type="unfinished">Verkkonimi:</translation>
+        <translation>Verkkonimi:</translation>
     </message>
     <message>
         <source>????</source>
@@ -26,11 +26,11 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation type="unfinished">FreeBSD järjestelmä</translation>
+        <translation>FreeBSD-perusjärjestelmä</translation>
     </message>
     <message>
         <source>Arch:</source>
-        <translation type="unfinished">Arkkitehtuuri:</translation>
+        <translation>Arkkitehtuuri:</translation>
     </message>
     <message>
         <source>ident</source>
@@ -58,7 +58,7 @@
     </message>
     <message>
         <source>(Please wait...)</source>
-        <translation type="unfinished">(Odota ole hyvä...)</translation>
+        <translation>(Odota…)</translation>
     </message>
     <message>
         <source>Name</source>
@@ -70,23 +70,23 @@
     </message>
     <message>
         <source>X.org server version:</source>
-        <translation type="unfinished">X.org serveriversio:</translation>
+        <translation>X.org-palvelimen versio:</translation>
     </message>
     <message>
         <source>PC-BSD CLI utilities:</source>
-        <translation type="unfinished">PC-BSD komentoriviapuohjelmat:</translation>
+        <translation>PC-BSD:n komentoriviohjelmat:</translation>
     </message>
     <message>
         <source>PC-BSD UI utilities:</source>
-        <translation type="unfinished">PC-BSD käyttöliittymäapuohjelmat:</translation>
+        <translation>PC-BSD:n käyttöliittymäohjelmat:</translation>
     </message>
     <message>
         <source>Package set:</source>
-        <translation type="unfinished">Pakettien kokoonpano:</translation>
+        <translation>Pakettikokoelma:</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>(unstable)</source>
@@ -94,11 +94,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(LTS)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohjelma- ja järjestelmäosat…</translation>
     </message>
 </context>
 </TS>
