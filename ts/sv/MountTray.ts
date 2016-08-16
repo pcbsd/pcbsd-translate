@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
     <name>DeviceWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open the disk tray</source>
@@ -13,11 +13,11 @@
     </message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
-        <translation type="unfinished"></translation>
+        <translation>Använd automatisk denna enhet när den är ansluten till systemet</translation>
     </message>
     <message>
         <source>Auto-Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Autostart</translation>
     </message>
     <message>
         <source>Play</source>
@@ -37,11 +37,11 @@
     </message>
     <message>
         <source>Device Mounted</source>
-        <translation type="unfinished"></translation>
+        <translation>Enhet monterad</translation>
     </message>
     <message>
         <source>%1 has been automatically mounted on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 har blivit automatiskt monterad på %2</translation>
     </message>
     <message>
         <source>Device Busy</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>The device appears to be busy. Do you want to forcibly unmount the device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten verkar vara upptagen. Vill du tvinga avmontering av enheten?</translation>
     </message>
     <message>
         <source>Unmount Error</source>
@@ -57,7 +57,7 @@
     </message>
     <message>
         <source>The device could not be unmounted. Please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten kunde inte avmonteras. Försök igen senare</translation>
     </message>
     <message>
         <source>No Filesystem Detected</source>
@@ -65,15 +65,15 @@
     </message>
     <message>
         <source>Select a filesystem to try:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The device could not be mounted. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enheten kunde inte monteras. Försök igen senare.</translation>
     </message>
     <message>
         <source>Device Mounting Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid enhetsmontering</translation>
     </message>
 </context>
 <context>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network Shares</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Auto-play optical disks</source>
-        <translation type="unfinished"></translation>
+        <translation>Autospela optiska skivor</translation>
     </message>
 </context>
 </TS>

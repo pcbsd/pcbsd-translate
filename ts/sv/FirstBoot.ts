@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Welcome to your new PC-BSD system! You may change your language above, and click next to begin the setup process.</source>
-        <translation>Välkommen till dit nya PC-BSD system! Du kan ändra ditt språk ovan, klicka sedan på nästa för att starta installationsprocessen.</translation>
+        <translation>Välkommen till ditt nya PC-BSD system! Du kan ändra ditt språk ovan, och klicka på nästa för att starta installationsprocessen.</translation>
     </message>
     <message>
         <source>May be used when dual-booting</source>
@@ -21,7 +21,7 @@
     </message>
     <message>
         <source>System Timezone</source>
-        <translation>Systemets Tidszon</translation>
+        <translation>Systemets tidszon</translation>
     </message>
     <message>
         <source>Set the system timezone</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>Root Password</source>
-        <translation>Root Lösenord</translation>
+        <translation>Root lösenord</translation>
     </message>
     <message>
         <source>Password</source>
@@ -44,8 +44,8 @@
         <translation>Lösenord (Upprepa)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>System eller &quot;root&quot; lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>System eller "root" lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,8 +68,8 @@
         <translation>&amp;Scanna igen</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på &quot;Nästa&quot;.</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på "Nästa".</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation>Visa hjälpen för aktuellt fönster</translation>
+        <translation>Visa hjälp för den aktuellt skärmen</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation>Växla mellan US layout och användar vald layout</translation>
+        <translation>Växla mellan US layout och användarvald layout</translation>
     </message>
     <message>
         <source>&amp;Back</source>
