@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="174"/>
-        <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
+        <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
         <translation>۱- با بکارگیریِ سازوکارِ باگزیلای فری‌بی‌اس‌دی یک گزارشِ دشواره بفرستید.</translation>
     </message>
     <message>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="243"/>
-        <source>1. Submit a bug report using using PC-BSD's bug tracker</source>
+        <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
         <translation>۱- با بکارگیری پی‌گیرِ دشوارهٔ پی‌سی-بی‌اس‌دی یک گزارش دشواره بفرستید.</translation>
     </message>
     <message>
@@ -75,7 +75,7 @@ Visit the following web page to subscribe to or read the archives of this list</
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/mainwindow.ui" line="316"/>
-        <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
+        <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
         <translation>۱- یک گزارشِ دشواره با سازوکارِ باگزیلای فری‌دسکتاپ بفرست.</translation>
     </message>
     <message>
@@ -323,12 +323,12 @@ Visit the following web page to subscribe to or read the archives of this list</
         <translation>نگارشِ فری‌بی‌اس‌دی (uname -a)</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
         <source>Failure</source>
         <translation>ناکامی</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
         <source>Failed to create diagnostic sheet</source>
         <translation>درست کردنِ برگهٔ بازشناختی شکست خورد</translation>
     </message>
