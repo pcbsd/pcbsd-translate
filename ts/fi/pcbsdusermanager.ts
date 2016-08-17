@@ -1,267 +1,269 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>AddDlgCode</name>
     <message>
         <source>New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi ryhmä</translation>
     </message>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollinen syöte</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kentässä saa olla vain kirjaimia ja numeroita</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä käyttäjätunnus on jo käytössä: valitse toinen</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat täsmäävät</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat eivät täsmää</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen syöte</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Kenttä ei saa sisältää merkkejä ! @ :</translation>
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytetään kansiota</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen sijainti!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota ei ole olemassa mutta se luodaan</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotikansion sijoittaminen /home-haaran ulkopuolelle voi aiheuttaa yhteensopivuusongelmia. TÄTÄ EI SUOSITELLA!</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Annettu sijainti on tiedosto (ei kansio)</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Uutta käyttäjää lisättäessä sattuivat seuraavat virheet:
+</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Uutta käyttäjää lisättäessä sattuivat seuraavat ei-kriittiset virheet. Haluatko jatkaa?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Käyttäjätunnus-kenttää ei ole täytetty.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>– Käyttäjätunnus-kenttä saa sisältää vain kirjaimia ja numeroita (ei välilyöntejä)</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Valitsemasi käyttäjätunnus on jo käytössä: valitse toinen.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Koko nimi -kenttää ei ole täytetty.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>– Koko nimi -kenttä ei saa sisältää merkkejä ! @ :</translation>
     </message>
     <message>
         <source>- The &apos;Home Directory&apos; field has not been filled in.</source>
-        <translation type="unfinished">- Kotihakemisto kenttää ei ole täytetty.</translation>
+        <translation>– Kotikansio-kenttää ei ole täytetty.</translation>
     </message>
     <message>
         <source>- The value entered as &apos;Home Directory&apos; is not a valid path.</source>
-        <translation type="unfinished">- Kotihakemiston kentän asetettu arvo ei kelpaa poluksi.</translation>
+        <translation>– Kotikansio-kentän arvo ei ole kelvollinen sijainti.</translation>
     </message>
     <message>
         <source>- Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs and is NOT RECOMMENDED.</source>
-        <translation type="unfinished">- Kotikansion sijoittaminen /home/-polun ulkopuolelle voi aiheuttaa yhteensopivuusongelmia joidenkin ohjelmien kanssa. Ei suositeltavaa!</translation>
+        <translation>– Kotikansion sijoittaminen /home-kansion ulkopuolelle voi aiheuttaa yhteensopivuusongelmia. TÄTÄ EI SUOSITELLA.</translation>
     </message>
     <message>
         <source>- A file was selected as &apos;Home Directory&apos;, this value must be a directory.</source>
-        <translation type="unfinished">- Tiedosto valittu kotihakemistoksi, arvon tulee olla hakemisto.</translation>
+        <translation>– Kotikansioksi valittu tiedosto eikä kansiota.</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Kumpikin salasanakenttä on täytettävä.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Salasanat eivät täsmää: yritä uudestaan.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished"></translation>
+        <translation>– Virheellinen salasana</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus!</translation>
     </message>
     <message>
         <source>
  - UID is already in use, please pick a different one</source>
-        <translation type="unfinished"></translation>
+        <translation>– UID on jo käytössä: valitse toinen</translation>
     </message>
 </context>
 <context>
     <name>AddUserUI</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Lisää käyttäjä</translation>
+        <translation>Lisää käyttäjä</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Salasana uudelleen:</translation>
+        <translation>Vahvista salasana:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko nimi:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Komentotulkki:</translation>
+        <translation>Komentotulkki:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Käyttäjätunnus:</translation>
+        <translation>Käyttäjätunnus:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotikansio:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Salasana:</translation>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Ensisijainen ryhmä:</translation>
+        <translation>Ensisijainen ryhmä:</translation>
     </message>
     <message>
         <source>New &amp;Group</source>
-        <translation type="unfinished">Uusi &amp;ryhmä</translation>
+        <translation>Uusi &amp;ryhmä</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tallenna</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished">Alt+O</translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>UID:</source>
-        <translation type="unfinished"></translation>
+        <translation>UID:</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaattinen</translation>
     </message>
 </context>
 <context>
     <name>ChangePassCode</name>
     <message>
         <source>Change Password for &apos;</source>
-        <translation type="unfinished">Vaihda käyttäjän &apos;</translation>
+        <translation>Vaihda käyttäjän ”</translation>
     </message>
     <message>
         <source>&apos;</source>
-        <translation type="unfinished">&apos; salasanaa</translation>
+        <translation>” salasanaa</translation>
     </message>
     <message>
         <source>You must specify a password</source>
-        <translation type="unfinished">Sinun tulee antaa salasana</translation>
+        <translation>Salasana on annettava</translation>
     </message>
     <message>
         <source>The passwords didn&apos;t match. Both boxes most contain the same value.</source>
-        <translation type="unfinished">Salasanat eivät vastanneet. Molempien kenttien tulee sisältää sama arvo.</translation>
+        <translation>Salasanat eivät täsmää. Kummassakin kentässä on oltava sama arvo.</translation>
     </message>
     <message>
         <source>Invalid password, please choose another.</source>
-        <translation type="unfinished">Virheellinen salasana. Ole hyvä, ja valitse toinen.</translation>
+        <translation>Virheellinen salasana: valitse jokin muu.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat täsmäävät</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat eivät täsmää</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen syöte</translation>
     </message>
 </context>
 <context>
     <name>ChangePassDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished">Vaihda salasanaa</translation>
+        <translation>Vaihda salasana</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Salasana:</translation>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Salasana uudelleen:</translation>
+        <translation>Vahvista salasana:</translation>
     </message>
     <message>
         <source>O&amp;k</source>
-        <translation type="unfinished">O&amp;k</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -269,54 +271,54 @@
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>MainDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD:n käyttäjienhallinta</translation>
     </message>
     <message>
         <source>&amp;Users</source>
-        <translation type="unfinished">&amp;Käyttäjät</translation>
+        <translation>&amp;Käyttäjät</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lisää</translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Poista</translation>
+        <translation>&amp;Poista</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>User ID:</source>
-        <translation type="unfinished">Käyttäjän ID:</translation>
+        <translation>Käyttäjän ID:</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko nimi:</translation>
     </message>
     <message>
         <source>Home Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotikansio:</translation>
     </message>
     <message>
         <source>Shell:</source>
-        <translation type="unfinished">Komentotulkki:</translation>
+        <translation>Komentotulkki:</translation>
     </message>
     <message>
         <source>Primary Group:</source>
@@ -340,7 +342,7 @@
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Alt+D</translation>
     </message>
     <message>
         <source>Available:  </source>
@@ -368,170 +370,176 @@
     </message>
     <message>
         <source>Export Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie avain</translation>
     </message>
     <message>
         <source>Import Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo avain</translation>
     </message>
     <message>
         <source>Disable Key (No Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista avain käytöstä (ei tietoja)</translation>
     </message>
     <message>
         <source>Disable Key (Import Data)</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista avain käytöstä (tuo tiedot)</translation>
     </message>
     <message>
         <source>Initialize Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Alusta laite</translation>
     </message>
 </context>
 <context>
     <name>PCBSDUserManager</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD:n käyttäjienhallinta</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käytä</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>Apply pending changes?</source>
-        <translation type="unfinished">Suorita odottavat muutokset</translation>
+        <translation>Toteutetaanko odottavat muutokset?</translation>
     </message>
     <message>
         <source>There are pending changes which have not been applied. Would you like to apply them before quitting?</source>
-        <translation type="unfinished">Kaikkia muutoksia ei ole suoritettu. Haluatko että ne suoritetaan ennenkuin ohjelma suljetaan?</translation>
+        <translation>Joitakin odottavia muutoksia ei ole vielä toteutettu. Haluatko toteuttaa ne ennen lopetusta?</translation>
     </message>
     <message>
         <source>Editing Users for Jail:</source>
-        <translation type="unfinished">Muokataan jail-käyttäjiä:</translation>
+        <translation>Muokataan vankilakäyttäjiä:</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollinen syöte</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>This field can only accept letters and numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kentässä saa olla vain kirjaimia ja numeroita</translation>
     </message>
     <message>
         <source>This username is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjätunnus on jo käytössä: valitse toinen.</translation>
     </message>
     <message>
         <source>Passwords match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat täsmäävät</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasanat eivät täsmää</translation>
     </message>
     <message>
         <source>Invalid input</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen syöte</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Kentässä ei saa olla merkkejä ! @ :</translation>
     </message>
     <message>
         <source>The following errors occurred while trying to add a new user:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Uutta käyttäjää lisättäessä sattuivat seuraavat virheet:
+</translation>
     </message>
     <message>
         <source>The following non-critical errors occurred while trying to add a new user, do you wish to continue?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Uutta käyttäjää lisättäessä sattuivat seuraavat ei-kriittiset virheet. Haluatko jatkaa?
+</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+– Käyttäjätunnus-kenttää ei ole täytetty.</translation>
     </message>
     <message>
         <source>
 - The &apos;Username&apos; field may only contain letters and numbers (not spaces).</source>
-        <translation type="unfinished"></translation>
+        <translation>
+– Käyttäjätunnus-kentässä saa olla vain kirjaimia ja numeroita (ei välilyöntejä).</translation>
     </message>
     <message>
         <source>
 - The username you have chosen is already in use, please choose another.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+– Valitsemasi käyttäjätunnus on jo käytössä: valitse toinen.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field has not been filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+– Koko nimi -kenttää ei ole täytetty.</translation>
     </message>
     <message>
         <source>
 - The &apos;Full Name&apos; field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>– Koko nimi -kenttä ei saa sisältää merkkejä ! @ :</translation>
     </message>
     <message>
         <source>
 - Both password fields must be filled in.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Kumpikin salasanakenttä on täytettävä.</translation>
     </message>
     <message>
         <source>
 - Passwords don&apos;t match, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>– Salasanat eivät täsmää: yritä uudestaan.</translation>
     </message>
     <message>
         <source>
 - Invalid password</source>
-        <translation type="unfinished"></translation>
+        <translation>– Virheellinen salasana</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe!</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus!</translation>
     </message>
 </context>
 <context>
     <name>SimpleAddDlg</name>
     <message>
         <source>Add User</source>
-        <translation type="unfinished">Lisää käyttäjä</translation>
+        <translation>Lisää käyttäjä</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko nimi:</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Käyttäjätunnus:</translation>
+        <translation>Käyttäjätunnus:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Salasana:</translation>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tallenna</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -554,7 +562,7 @@
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">PC-BSD:n käyttäjienhallinta</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -578,293 +586,293 @@
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>A&amp;dvanced View</source>
-        <translation type="unfinished">&amp;Monipuolinen näkymä</translation>
+        <translation>T&amp;arkempi näkymä</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Full Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko nimi:</translation>
     </message>
     <message>
         <source>Can administrate s&amp;ystem</source>
-        <translation type="unfinished">Voi ylläpitää &amp;järjestelmää</translation>
+        <translation>Voi &amp;ylläpitää järjestelmää</translation>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation type="unfinished">Alt+J</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <source>C&amp;hange Password...</source>
-        <translation type="unfinished">Vai&amp;hda salasanaa...</translation>
+        <translation>Vai&amp;hda salasana...</translation>
     </message>
     <message>
         <source>Alt+H</source>
-        <translation type="unfinished">Alt+H</translation>
+        <translation>Alt+H</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlgCode</name>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollinen syöte</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Kenttä ei saa sisältää merkkejä ! @ :</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaanko kotikansio?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kotikansio käyttäjältä </translation>
     </message>
 </context>
 <context>
     <name>mainDlgCode</name>
     <message>
         <source>New User</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi käyttäjä</translation>
     </message>
     <message>
         <source>Delete Home Directory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaanko kotikansio?</translation>
     </message>
     <message>
         <source>Delete the home directory for </source>
-        <translation type="unfinished"></translation>
+        <translation>Poista kotikansio käyttäjältä </translation>
     </message>
     <message>
         <source>Error adding group...</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe lisättäessä ryhmää…</translation>
     </message>
     <message>
         <source>You must specify a name for your group</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryhmälle on annettava nimi</translation>
     </message>
     <message>
         <source>Invalid group name specified. Group names may contain only letters and number. Spaces are NOT permitted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryhmän nimi on virheellinen. Ryhmien nimissä saa olla vain kirjaimia ja numeroita, ei esimerkiksi välilyöntejä.</translation>
     </message>
     <message>
         <source>The group &apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryhmä ”</translation>
     </message>
     <message>
         <source>&apos; already exists, please choose a different name</source>
-        <translation type="unfinished"></translation>
+        <translation>” on jo olemasssa: valitse toinen nimi</translation>
     </message>
     <message>
         <source>New Group</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi ryhmä</translation>
     </message>
     <message>
         <source>Please enter a name for your new group</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna uudelle ryhmälle nimi</translation>
     </message>
     <message>
         <source>Directory will be used</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota käytetään</translation>
     </message>
     <message>
         <source>The field is empty</source>
-        <translation type="unfinished">Kenttä on tyhjä</translation>
+        <translation>Kenttä on tyhjä</translation>
     </message>
     <message>
         <source>Invalid Path!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen sijainti!</translation>
     </message>
     <message>
         <source>Directory does not exist, but will be made</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansiota ei ole olemassa mutta se luodaan</translation>
     </message>
     <message>
         <source>Placing home directory outside &apos;/home/&apos; can cause compatibility problems with some programs. NOT RECOMMENDED</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotikansion sijoittaminen /home-kansion ulkopuolelle voi aiheuttaa yhteensopivuusongelmia. TÄTÄ EI SUOSITELLA.</translation>
     </message>
     <message>
         <source>Requested path is a file (not a directory!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Annettu sijainti on tiedosto (ei kansio)</translation>
     </message>
     <message>
         <source>Good Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollinen syöte</translation>
     </message>
     <message>
         <source>This field may not contain ! @ or :</source>
-        <translation type="unfinished"></translation>
+        <translation>Kenttä ei saa sisältää merkkejä ! @ :</translation>
     </message>
     <message>
         <source>Import PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo PersonaCrypt-avain</translation>
     </message>
     <message>
         <source>Key Files (*.key);; All Files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaintiedostot (*.key);; Kaikki tiedostot (*)</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Onnistui</translation>
     </message>
     <message>
         <source>The key file was imported successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaintiedoston tuonti onnistui.</translation>
     </message>
     <message>
         <source>Failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Epäonnistuminen</translation>
     </message>
     <message>
         <source>The key file could not be imported. Please ensure you are using a valid file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaintiedostoa ei voitu tuoda. Varmista, että tarjoat oikeaa tiedostoa.</translation>
     </message>
     <message>
         <source>Save PersonaCrypt Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tallenna PersonaCrypt-avain</translation>
     </message>
     <message>
         <source>File Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedostovirhe</translation>
     </message>
     <message>
         <source>Output file could not be opened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulostiedostoa ei voitu avata:</translation>
     </message>
     <message>
         <source>The PersonaCrypt key has been saved successfully:</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-avaimen tallennus onnistui:</translation>
     </message>
     <message>
         <source>Disable PersonaCrypt?</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaanko PersonaCrypt käytöstä?</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will only de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa PersonaCrypt-laitteen tämän käyttäjän käytöstä? Tämä passivoi vain avaimen tähän järjestelmään; PersonaCrypt-laite on yhä muiden järjestelmien käytettävissä.</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key has been disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-käyttäjäavain on poistettu käytöstä.</translation>
     </message>
     <message>
         <source>The PersonaCrypt user key could not be removed. Do you have the proper permissions?</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-käyttäjäavainta ei voitu poistaa. Onko sinulla riittävät käyttöoikeudet?</translation>
     </message>
     <message>
         <source>PersonaCrypt Device Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-laitetta ei löytynyt</translation>
     </message>
     <message>
         <source>Please ensure that your PersonaCrypt device is connected to the system and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varmista, että PersonaCrypt-laite on kytketty järjestelmään ja yritä uudestaan.</translation>
     </message>
     <message>
         <source>Are you sure you want to disable your PersonaCrypt device for this user? This will merge the data from the device onto your system and de-activate your key on this system (the PersonaCrypt device will still be usable on other systems).</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa PersonaCrypt-laitteen tämän käyttäjän käytöstä? Tämä yhdistää laitteen tiedot järjestelmään ja passivoi järjestelmäavaimen; PersonaCrypt-laite on yhä muiden järjestelmien käytettävissä.</translation>
     </message>
     <message>
         <source>PersonaCrypt Access</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-saanti</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Salasana:</translation>
+        <translation>Salasana:</translation>
     </message>
     <message>
         <source>The data for this user has been merged onto the system and the system key has been disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjän tiedot on yhdistetty järjestelmään ja järjestelmäavain poistettu käytöstä</translation>
     </message>
     <message>
         <source>The PersonaCrypt user data could not be merged onto the system. Invalid Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCryptin käyttäjätietoja ei voitu yhdistää järjestelmään. Oliko salasana väärin?</translation>
     </message>
     <message>
         <source>No Devices Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Laitteita ei löytynyt</translation>
     </message>
     <message>
         <source>Please connect a removable device and try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdistä irrotettava laite ja yritä uudestaan</translation>
     </message>
     <message>
         <source>Select a device</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse laite</translation>
     </message>
     <message>
         <source>Warning 1: All the contents of the device will be wiped during PersonaCrypt initialization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus 1: Laitteen koko sisältö pyyhitään PersonaCrypt-alustuksen aikana.</translation>
     </message>
     <message>
         <source>Warning 2: Device size needs to be larger than the current home dir.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus 2: Laitteen on oltava kooltaan nykyistä kotikansiota suurempi.</translation>
     </message>
     <message>
         <source>Home Dir Size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotikansion koko: %1</translation>
     </message>
     <message>
         <source>Create Device Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo laitesalasana</translation>
     </message>
     <message>
         <source>Invalid Password or Match - try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen salasana tai salasanat eivät täsmää: yritä uudestaan</translation>
     </message>
     <message>
         <source>Repeat Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasana (uudelleen)</translation>
     </message>
     <message>
         <source>Are you ready to start the device initialization? (This may take a few minutes)</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletko valmis aloittamaan laitteen alustuksen? (Tämä vie joitakin minuutteja)</translation>
     </message>
     <message>
         <source>Device: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Laite: %1</translation>
     </message>
     <message>
         <source>User: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjä: %2</translation>
     </message>
     <message>
         <source>Current User Data: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjän nykyiset tiedot: %3</translation>
     </message>
     <message>
         <source>PersonaCrypt Ready</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt on valmis</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Could not create a temporary file for personacrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei voitu luoda tilapäistiedostoa PersonaCryptille</translation>
     </message>
     <message>
         <source>The PersonaCrypt device was successfully initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-laitteen alustus onnistui</translation>
     </message>
     <message>
         <source>The PersonaCrypt device could not be initialized</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt-laitteen alustus epäonnistui</translation>
     </message>
     <message>
         <source>New User (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi käyttäjä (%1)</translation>
     </message>
 </context>
 </TS>
