@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fi">
 <context>
     <name>LPMessages</name>
     <message>
         <source>Life Preserver Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Life-Preserverin viestit</translation>
     </message>
     <message>
         <source>Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Viestit</translation>
     </message>
     <message>
         <source>Log Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokitiedostot</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje</translation>
     </message>
     <message>
         <source>No recent messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei uusia viestejä</translation>
     </message>
     <message>
         <source>No Log Files Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei lokitiedostoja saatavilla</translation>
     </message>
     <message>
         <source>(Life Preserver) No file contents to display</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life-Preserver) Ei näytettävää tiedostosisältöä</translation>
     </message>
     <message>
         <source>(Life Preserver) File does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life-Preserver) Tiedostoa ei ole olemassa: %1</translation>
     </message>
     <message>
         <source>(Life Preserver) File could not be opened: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>(Life-Preserver) Tiedostoa ei voitu avata: %1</translation>
     </message>
 </context>
 <context>
     <name>LPTray</name>
     <message>
         <source>Show all</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kaikki</translation>
     </message>
     <message>
         <source>Warnings Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Vain varoitukset</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei mitään</translation>
     </message>
     <message>
         <source>Popup Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponnahdusasetukset</translation>
     </message>
     <message>
         <source>Open Life Preserver</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa Life-Preserver</translation>
     </message>
     <message>
         <source>View Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä viestit</translation>
     </message>
     <message>
         <source>Refresh Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkistä ilmoitusaluekuvake</translation>
     </message>
     <message>
         <source>Close Tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje ilmoitusaluekuvake</translation>
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aika: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1: %2</translation>
     </message>
     <message>
         <source>System Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän hälytys</translation>
     </message>
 </context>
 <context>
@@ -99,11 +99,11 @@
     </message>
     <message>
         <source>Replication Starting</source>
-        <translation type="unfinished"></translation>
+        <translation>Replikointi käynnistyy</translation>
     </message>
     <message>
         <source>Starting replication for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistetään replikointia kohteelle %1</translation>
     </message>
     <message>
         <source>Replication Log</source>
@@ -179,35 +179,35 @@
     </message>
     <message>
         <source>The pool is in a degraded state. See additional device error(s).</source>
-        <translation type="unfinished"></translation>
+        <translation>Poolin tila on rikkonainen. Tarkasta laitteiston muut virheet.</translation>
     </message>
     <message>
         <source>%1 is degraded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 on rikkonainen.</translation>
     </message>
     <message>
         <source>The device is faulty, and should be replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laite on viallinen ja tulisi vaihtaa.</translation>
     </message>
     <message>
         <source>%1 is faulty.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 on viallinen.</translation>
     </message>
     <message>
         <source>The device was removed, and should be either be re-attached or replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laite on poistettu ja tulisi joko liittää uudelleen tai vaihtaa.</translation>
     </message>
     <message>
         <source>%1 was removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 on poistettu.</translation>
     </message>
     <message>
         <source>The device is unavailable and should be re-added to the pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laite ei ole käytettävissä ja tulisi palauttaa pooliin.</translation>
     </message>
     <message>
         <source>%1 is unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ei ole käytettävissä.</translation>
     </message>
 </context>
 </TS>

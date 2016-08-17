@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -172,7 +172,7 @@
     <message>
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translatorcomment>tarvitaanko &quot;nyt&quot; sanaa?</translatorcomment>
+        <translatorcomment>tarvitaanko "nyt" sanaa?</translatorcomment>
         <translation>Järjestelmäsi on nyt palautettu!
 Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen jälkeen voit poistaa asennusmedian.</translation>
     </message>
@@ -258,7 +258,7 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Failed loading saved config file from the USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished">Tallennetun konfiguraatio tiedoston lataaminen USB-medialta epäonnistui. Onko laite toimiva ja formatoitu MSDOSFS/FAT32 tiedostojärjestelmän muotoon?</translation>
+        <translation>Tallennetun asetustiedoston lataus USB-tietovälineeltä epäonnistui. Toimiiko laite ja onko se MS-DOS/FAT32-alustettu?</translation>
     </message>
     <message>
         <source>Configuration loaded! You may now safely remove the USB media.</source>
@@ -301,109 +301,66 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>Peruttiin asetusskriptiasennus</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Valitse toteutettavan asennuksen tyyppi</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Graafinen työpöytä</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation>PC-BSD (graafinen työpöytä)</translation>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation>Paras palvelimiin ja näytöttömiin järjestelmiin</translation>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation>TrueOS (konsoliperustainen palvelin)</translation>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation>Palauta varmuuskopiosta</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>This screen allows you to select the language you wish to perform the install with.</source>
-        <translation type="unfinished">Tässä näkymässä voit valita asennusohjelmassa käytetyn kielen.</translation>
+        <translation>Tässä näkymässä voit valita kielen, jolla haluat tehdä asennuksen.</translation>
     </message>
     <message>
         <source>This screen allows you to select the type of system you wish to install. Clicking customize will allow you to change the selected packages for your system.</source>
-        <translation type="unfinished">Tässä näkymässä voit valita minkä tyyppisen järjestelmän asennat. Painamalla Muokkaa, voit muokata asennettavia paketteja vielä tarkemmin.</translation>
+        <translation>Tässä näkymässä voit valita, mitkä paketit haluat asentaa. Napsauta ”Mukauta” muuttaaksesi järjestelmääsi valittuja paketteja.</translation>
     </message>
     <message>
         <source>This screen will display the currently selected disk options. Clicking customize will allow you to change the target disk, file-systems and more.</source>
-        <translation type="unfinished">Tässä näymässä näet miten järjestelmä asennetaan levylle. Painamalla Muokkaa, voit muokata levyä, jolle asennus tehdään, tiedostojärjestelmää ja muitakin asetuksia.</translation>
+        <translation>Tämä näkymä näyttää valitut levyasetukset. Napsauta ”Mukauta” muuttaaksesi kohdelevyä, -tiedostojärjestelmää tai muuta.</translation>
     </message>
     <message>
         <source>Your system is now installing! Go grab a cup of coffee and relax, the installer will notify you when it is finished.</source>
-        <translation type="unfinished">Järjestelmääsi asennetaan parhaillaan! Käy hakemassa kahvia ja rentoudu. Asennusohjelma ilmoittaa, kun se on valmis.</translation>
+        <translation>Järjestelmääsi asennetaan! Käy vaikka kahvilla ja rentoudu. Ohjelma ilmoittaa, kun asennus on valmis.</translation>
     </message>
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
-        <translation type="unfinished">Asennus on nyt valmis! Paina Lopeta käynnistääksesi uudelleen. Varmista, että poistat asennus median, ennen kuin käynnistät uuden järjestelmäsi.</translation>
-    </message>
-</context>
-<context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peru</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Asennus on nyt valmis! Käynnistä uudelleen napsauttamalla ”Valmis”. Varmista että poistat kaikki asennustietovälineet ennen uudelleenkäynnistystä.</translation>
     </message>
 </context>
 <context>
     <name>dialogCheckHardware</name>
     <message>
         <source>Detected hardware devices</source>
-        <translation type="unfinished">Havaitut laitteet</translation>
+        <translation>Havaitut laitteet</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>Video driver:</source>
-        <translation type="unfinished">Video-ohjain:</translation>
+        <translation>Näyttöajuri:</translation>
     </message>
     <message>
         <source>Video resolution:</source>
@@ -502,19 +459,19 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     <name>wizardDisk</name>
     <message>
         <source>This wizard will walk you through the disk setup process. Please choose the setup mode you wish to use.</source>
-        <translation>Tämä toiminto opastaa sinua levyn asetuksessa. Valitse asetustila, jota haluat käyttää.</translation>
+        <translation>Tämä ohjattu toiminto auttaa sinua levyn asetuksessa. Valitse asennustapa, jota haluat käyttää.</translation>
     </message>
     <message>
         <source>Setup Mode</source>
-        <translation type="unfinished">Asennustila</translation>
+        <translation>Asennustapa</translation>
     </message>
     <message>
         <source>Basic (New to BSD or disk partitioning)</source>
-        <translation type="unfinished">Perus (Uusi BSD:n käyttäjä tai levyn partitioimisessa)</translation>
+        <translation>Tavallinen (BSD on sinulle outo tai haluat osioida levyn)</translation>
     </message>
     <message>
         <source>Advanced (Experienced with file-systems)</source>
-        <translation type="unfinished">Edistynyt (Tiedostojärjestelmät ovat tuttuja)</translation>
+        <translation>Edistynyt (tiedostojärjestelmät ovat tuttuja)</translation>
     </message>
     <message>
         <source>FreeBSD Experts (CLI manual mode)</source>
@@ -566,51 +523,51 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD voi salata levysi GELI-kehystä käyttäen. Kyseessä on koko levyn salaus, joka vaatii salasanan käynnistettäessä.</translation>
     </message>
     <message>
         <source>Encrypt disk with GELI (Requires GPT disk scheme)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salaa levy GELIllä (vaatii GPT-levymallin)</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasana</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasana (uudelleen)</translation>
     </message>
     <message>
         <source>Below you may adjust the file-system mount points. For most users the defaults will work best. </source>
-        <translation type="unfinished">Alla voit muokata tiedostojärjestelmän liitospisteitä. Useimmille käyttäjille oletusasetukset toimivat parhaiten.</translation>
+        <translation>Alla voit muokata tiedostojärjestelmän liitospisteitä. Useimmat käyttäjät voivat tyytyä oletusasetuksiin. </translation>
     </message>
     <message>
         <source>(MB)</source>
-        <translation type="unfinished">(MB)</translation>
+        <translation>(Mt)</translation>
     </message>
     <message>
         <source>Swap Size</source>
-        <translation type="unfinished">Swapin koko</translation>
+        <translation>Sivutuksen koko</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lisää</translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Poista</translation>
+        <translation>&amp;Poista</translation>
     </message>
     <message>
         <source>You have chosen Expert mode. In this mode you are able to launch a terminal window and use the command-line to manually partition your disk. When you are finished, make sure to mount your filesystems to /mnt to begin the installation. </source>
-        <translation type="unfinished">Olet valinnut asiantuntijoille suunnatun käyttötilan. Tässä käyttötilassa, voit käynnistää komentorivin ja antaa osiointikomennot käsin. Kun olet valmis, varmista että olet liittänyt tiedostojärjestelmän liitospisteeseen /mnt ennen asennuksen aloittamista.</translation>
+        <translation>Olet valinnut asiantuntijatilan. Tässä tilassa voit käynnistää pääteikkunan ja osioida levysi itse komentoriviltä. Kun olet valmis, varmista, että olet liittänyt tiedostojärjestelmäsi /mnt-liitospisteeseen ennen kuin aloitat asennuksen.</translation>
     </message>
     <message>
         <source>&amp;Launch terminal</source>
-        <translation type="unfinished">&amp;Käynnistä komentorivi</translation>
+        <translation>Käynnistä &amp;pääte</translation>
     </message>
     <message>
         <source>Please check the disk summary below and click finish to save your settings. </source>
-        <translation type="unfinished">Ole hyvä, ja tarkista alla oleva levyn yhteenveto. Paina Lopeta tallentaaksesi asetukset.</translation>
+        <translation>Käy läpi levyn yhteenveto alta ja tallenna asetuksesi napsauttamalla ”Valmis”. </translation>
     </message>
     <message>
         <source>Use entire disk</source>
@@ -662,51 +619,51 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Invalid Mount</source>
-        <translation type="unfinished">Liitos ei kelpaa</translation>
+        <translation>Virheellinen liitospiste</translation>
     </message>
     <message>
-        <source>Mount point should start with &apos;/&apos;</source>
-        <translation type="unfinished">Liitospisteen tulisi alkaa &apos;/&apos;-merkillä</translation>
+        <source>Mount point should start with '/'</source>
+        <translation>Liitospisteen tulee alkaa /-merkillä</translation>
     </message>
     <message>
         <source>Editing:</source>
-        <translation type="unfinished">Muokkaa:</translation>
+        <translation>Muokataan:</translation>
     </message>
     <message>
         <source>Enter SWAP size</source>
-        <translation type="unfinished">Anna SWAP-partition koko</translation>
+        <translation>Anna sivutuskoko</translation>
     </message>
     <message>
         <source>Size (MB)</source>
-        <translation type="unfinished">Koko (MB)</translation>
+        <translation>Koko (Mt)</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished">Asennetaan /mnt-kansioon liitettyyn tiedostojärjestelmään</translation>
+        <translation>Asennetaan /mnt-kansioon liitettyyn tiedostojärjestelmään</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished">Levy asetetaan seuraavasti:</translation>
+        <translation>Levy asetetaan seuraavasti:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished">Levy:</translation>
+        <translation>Levy:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished">Peilaus:</translation>
+        <translation>Peilaus:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished">Partitio:</translation>
+        <translation>Osio:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished">Tiedostojärjestelmä:</translation>
+        <translation>Tiedostojärjestelmä:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Koko:</translation>
+        <translation>Koko:</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
@@ -738,11 +695,11 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>stripe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
@@ -753,67 +710,59 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>Valitse levy tai osio, jolle haluat asentaa.</translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <source>Use GRUB bootloader</source>
+        <translation>Käytä Grub-käynnistyslatainta</translation>
     </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
     <message>
         <source>This wizard will walk you though the setup of your new server. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä opastettu toiminto auttaa sinua uuden palvelimesi asettamisessa. Jatka painamalla ”Seuraava”. </translation>
     </message>
     <message>
         <source>Please enter the root password for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna palvelimen pääkäyttäjän (root) salasana</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasana</translation>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasana (uudelleen)</translation>
     </message>
     <message>
         <source>Please create a user for this server</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo tähän palvelimeen käyttäjätunnus</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjätunnus</translation>
     </message>
     <message>
         <source>Default shell</source>
-        <translation type="unfinished"></translation>
+        <translation>Oletuskomentotulkki</translation>
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna järjestelmän verkkonimi ja miten siihen etäkirjaudutaan.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimi</translation>
     </message>
     <message>
         <source>Enable remote SSH login</source>
-        <translation type="unfinished"></translation>
+        <translation>Salli SSH-etäkirjautuminen</translation>
     </message>
     <message>
         <source>Please select a network device to configure for this system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse järjestelmästä asetettava verkkolaite.</translation>
     </message>
     <message>
         <source>Network Interface</source>
@@ -860,63 +809,47 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Asennetaanko AppCafe? Sillä voit hallita paketteja ja vankiloita verkkoselaimesta tai mobiililaitteesta.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation>Asenna AppCafe</translation>
     </message>
 </context>
 <context>
     <name>wizardRestore</name>
     <message>
         <source>This wizard will walk you though the process of restoring your system from a Life-Preserver backup. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä opastettu toimisto auttaa sinua järjestelmäsi palautuksessa Life-Preserver-varmuuskopiosta. Aloita painamalla ”Seuraava”. </translation>
     </message>
     <message>
         <source>Backup Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Varmuuskopiopalvelin</translation>
     </message>
     <message>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimi</translation>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjätunnus</translation>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH-portti</translation>
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos tallensit Life-Preserver-avaimesi USB-asemalle, liitä se nyt ja valitse USB-avain. Mussa tapauksessa halunnet käyttää salasanatunnistautumista.</translation>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Palvelimeen tunnistautuminen</translation>
     </message>
     <message>
         <source>Use USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä USB-avainta</translation>
     </message>
     <message>
         <source>Use password authentication</source>
