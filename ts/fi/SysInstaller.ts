@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
     <name>Installer</name>
     <message>
         <source>Load installation config file from USB stick</source>
-        <translation type="unfinished">Lataa asennuskonfiguraatio USB-tikulta</translation>
+        <translation>Lataa asennustiedot USB-tikulta</translation>
     </message>
     <message>
         <source>&amp;Load config from USB</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lataa asetukset USB:stä</translation>
     </message>
     <message>
         <source>Change the installation language</source>
-        <translation type="unfinished">Vaihda asennuskieltä</translation>
+        <translation>Vaihda asennuskieltä</translation>
     </message>
     <message>
         <source>Welcome to PC-BSD! Please select your language and click next to continue.</source>
-        <translation type="unfinished">Tervetuloa PC-BSD:n pariin. Valitse asennuskieli ja paina Seuraava jatkaaksesi.</translation>
+        <translation>Tervetuloa PC-BSD:hen! Valitse asennuskieli ja jatka napsauttamalla ”Seuraava”.</translation>
     </message>
     <message>
         <source>&lt;Version&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Versio&gt;</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation type="unfinished">Yhteenveto</translation>
+        <translation>Yhteenveto</translation>
     </message>
     <message>
         <source>System Selection</source>
-        <translation type="unfinished">Järjestelmän valinta</translation>
+        <translation>Järjestelmän valinta</translation>
     </message>
     <message>
         <source>Restore from Life-Preserver backup</source>
-        <translation type="unfinished">Palauta Life-Preserver varmuuskopiosta</translation>
+        <translation>Palauta Life-Preserver-varmuuskopio</translation>
     </message>
     <message>
         <source>&amp;Customize</source>
-        <translation type="unfinished">&amp;Muokkaa</translation>
+        <translation>&amp;Mukauta</translation>
     </message>
     <message>
         <source>Disk Selection</source>
-        <translation type="unfinished">Levyn valinta</translation>
+        <translation>Levyn valinta</translation>
     </message>
     <message>
         <source>&amp;Save Config to USB</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tallenna asetukset USB:hen</translation>
     </message>
     <message>
         <source>Installation</source>
-        <translation type="unfinished">Asennus</translation>
+        <translation>Asennus</translation>
     </message>
     <message>
         <source>Your system is now being installed! This process may take a while, depending upon the installation options chosen, and system speed. You will be notified when the installation is finished.</source>
-        <translation type="unfinished">Käyttöjärjestelmää asennetaan! Valinnoistasi ja tietokoneesi nopeudesta riippuen, tähän voi kulua pidemmänkin aikaa. Sinulle ilmoitetaan kun asennus on valmis.</translation>
+        <translation>Käyttöjärjestelmää asennetaan! Toimenpide voi kestää jonkin aikaa asennusvalintojesi ja koneen nopeuden mukaan. Saat ilmoituksen, kun asennus on valmis.</translation>
     </message>
     <message>
         <source>Your system is now installed!
@@ -63,198 +63,198 @@
     </message>
     <message>
         <source>Display hardware compatibility diagnostic</source>
-        <translation type="unfinished">Näytä laitteiston yhteensopivuus diagnostiikka</translation>
+        <translation>Näytä laitteiston yhteensopivuusdiagnostiikka</translation>
     </message>
     <message>
         <source>Manage network connectivity</source>
-        <translation type="unfinished">Hallitse verkkoyhteyksiä</translation>
+        <translation>Verkkoyhteyksien hallinta</translation>
     </message>
     <message>
         <source>Display help for the current screen</source>
-        <translation type="unfinished">Näytä tämän näkymän ohjeet</translation>
+        <translation>Näytä tämän näkymän ohjeet</translation>
     </message>
     <message>
         <source>Launch the on-screen keyboard</source>
-        <translation type="unfinished">Avaa näppäimistö näytölle</translation>
+        <translation>Avaa virtuaalinäppäimistö</translation>
     </message>
     <message>
         <source>Switch between US layout and user selected layout</source>
-        <translation type="unfinished">Vaihda näppäinasettelua</translation>
+        <translation>Vaihda amerikkalaisen ja käyttäjän valitseman näppäimistöasettelun välillä</translation>
     </message>
     <message>
         <source>Emergency Shell and Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Vikatilan komentotulkki ja työkalut</translation>
     </message>
     <message>
         <source>Cancel the installation</source>
-        <translation type="unfinished">Peruuta asennus</translation>
+        <translation>Peru asennus</translation>
     </message>
     <message>
         <source>Ab&amp;ort</source>
-        <translation type="unfinished">&amp;Keskeytä</translation>
+        <translation>&amp;Keskeytä</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished">&amp;Edellinen</translation>
+        <translation>&amp;Takaisin</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished">&amp;Seuraava</translation>
+        <translation>&amp;Seuraava</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Versio:</translation>
     </message>
     <message>
         <source>PC-BSD Installer</source>
-        <translation type="unfinished">PC-BSD asennusohjelma</translation>
+        <translation>PC-BSD:n asennusohjelma</translation>
     </message>
     <message>
         <source>Unable to detect any disk drives! The install will now exit.</source>
-        <translation type="unfinished">Levyjä ei kyetty tunnistamaan! Asennusohjelma lopetetaan.</translation>
+        <translation>Levyjä ei kyetty tunnistamaan! Asennusohjelma lopetetaan.</translation>
     </message>
     <message>
         <source>Unable to suggest a partition for the detected disk.</source>
-        <translation type="unfinished">Valitulle levylle ei kyetty ehdottamaan partitiota.</translation>
+        <translation>Valitulle levylle ei kyetty ehdottamaan osiota.</translation>
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation>Asennetaan /mnt-kansioon liitettyyn tiedostojärjestelmään</translation>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Levy asetetaan seuraavasti:</translation>
     </message>
     <message>
         <source>Disk:</source>
-        <translation type="unfinished">Levy:</translation>
+        <translation>Levy:</translation>
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished"></translation>
+        <translation>Peilaus:</translation>
     </message>
     <message>
         <source>Partition:</source>
-        <translation type="unfinished">Partitio:</translation>
+        <translation>Osio:</translation>
     </message>
     <message>
         <source>FileSystem:</source>
-        <translation type="unfinished">Tiedostojärjestelmä:</translation>
+        <translation>Tiedostojärjestelmä:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Koko:</translation>
+        <translation>Koko:</translation>
     </message>
     <message>
         <source>ZFS Datasets:</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-tietojoukot:</translation>
     </message>
     <message>
         <source>The original ZFS layout will be restored</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkuperäinen ZFS-asettelu palautetaan</translation>
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-tietojoukot:&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished">Liitos:</translation>
+        <translation>Liitospiste:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinnat:</translation>
     </message>
     <message>
         <source>Start the restore now?</source>
-        <translation type="unfinished">Aloita palautus nyt?</translation>
+        <translation>Aloitetaanko palautus?</translation>
     </message>
     <message>
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translatorcomment>tarvitaanko &quot;nyt&quot; sanaa?</translatorcomment>
+        <translatorcomment>tarvitaanko "nyt" sanaa?</translatorcomment>
         <translation>Järjestelmäsi on nyt palautettu!
 Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen jälkeen voit poistaa asennusmedian.</translation>
     </message>
     <message>
         <source>System Restore</source>
-        <translation type="unfinished">Järjestelmän palautus</translation>
+        <translation>Järjestelmän palautus</translation>
     </message>
     <message>
         <source>Your system is now being restored, this may take a while depending upon the size of your backup and network conditions.</source>
-        <translation type="unfinished">Järjestelmääsi palautetaan. Tähän voi kulua jonkin aikaa, riippuen palautuksen koosta ja verkon tilasta.</translation>
+        <translation>Järjestelmääsi palautetaan. Tähän voi kulua jonkin verran aikaa palautuksen koon ja verkon tilan mukaan.</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished">Epäonnistui!</translation>
+        <translation>Epäonnistui!</translation>
     </message>
     <message>
         <source>The installer has encountered an error and has been halted.</source>
-        <translation type="unfinished">Asennusohjelma pysähtyi virheeseen.</translation>
+        <translation>Asennusohjelma kohtasi virheen ja lopetettiin.</translation>
     </message>
     <message>
         <source>Do you want to generate an error report?</source>
-        <translation type="unfinished">Haluatko luoda virheraportin?</translation>
+        <translation>Haluatko luoda virheraportin?</translation>
     </message>
     <message>
         <source>Restart the system now?</source>
-        <translation type="unfinished">Uudelleenkäynnistä tietokone?</translation>
+        <translation>Käynnistetäänkö järjestelmä uudelleen?</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished">&amp;Lopeta</translation>
+        <translation>&amp;Lopeta</translation>
     </message>
     <message>
         <source>Extracting system...</source>
-        <translation type="unfinished"></translation>
+        <translation>Puretaan järjestelmää…</translation>
     </message>
     <message>
         <source>Installing system... This may take a while...</source>
-        <translation type="unfinished">Asentaa järjestelmää... Tähän voi kulua aikaa...</translation>
+        <translation>Asennetaan järjestelmää… Tähän voi mennä hetki…</translation>
     </message>
     <message>
         <source>Installing packages... This may take a while...</source>
-        <translation type="unfinished">Asennetaan paketteja... Tähän voi kulua aikaa...</translation>
+        <translation>Asennetaan paketteja… Tähän voi mennä hetki…</translation>
     </message>
     <message>
         <source>Installing meta-package: %1</source>
-        <translation type="unfinished">Asennetaan meta-pakettia: %1</translation>
+        <translation>Asennetaan metapakettia: %1</translation>
     </message>
     <message>
         <source>Are you sure you want to abort this installation?</source>
-        <translation type="unfinished">Oletko varma, että haluat keskeyttää asennuksen?</translation>
+        <translation>Haluatko varmasti keskeyttää asennuksen?</translation>
     </message>
     <message>
         <source>Warning: The selected disk / partition is less than recommended %1GB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus: valitulla levyllä tai osiolla on tilaa vähemmän kuin suositellut %1 Gt.</translation>
     </message>
     <message>
         <source>This will save your installation configuration to a MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished">Tämä tallentaa asennuskonfiguraation MSDOSFS/FAT32 formatoidulle USB-tikulle. Jatketaanko?</translation>
+        <translation>Tämä tallentaa asennustiedot MS-DOS/FAT32-alustetulle USB-tikulle. Jatketaanko?</translation>
     </message>
     <message>
         <source>Please insert a USB stick now, and click OK to continue.</source>
-        <translation type="unfinished">Ole hyvä, ja kiinnitä USB-tikku nyt. Paina OK jatkaaksesi.</translation>
+        <translation>Liitä USB-tikku nyt ja jatka painamalla ”OK”.</translation>
     </message>
     <message>
         <source>Please enter the nickname you want to save this configuration as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna tälle asetukselle kutsumanimi.</translation>
     </message>
     <message>
         <source>Failed saving config to USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
-        <translation type="unfinished">Konfiguraation tallennus USB-medialle epäonnistui. Varmista, että laite on toimiva ja tiedostojärjestelmä on formatoitu MSDOSFS/FAT32 muotoon.</translation>
+        <translation>Asetusten tallentaminen USB-tietovälineelle epäonnistui. Toimiiko laite ja onko se MS-DOS/FAT32-alustettu?</translation>
     </message>
     <message>
         <source>Configuration saved! You may now safely remove the USB media.</source>
-        <translation type="unfinished">Konfiguraatio on tallennettu! Voit nyt poistaa USB-median turvallisesti.</translation>
+        <translation>Asetukset on tallennettu! Voit nyt turvallisesti irrottaa USB-tietovälineen.</translation>
     </message>
     <message>
         <source>This will load a installation configuration file your MSDOSFS/FAT32 formatted USB stick. Continue?</source>
-        <translation type="unfinished">Tämä lataa asennuskonfiguraation sinun MSDOSFS/FAT32 formatoidulle USB-tikulle. Jatketaanko?</translation>
+        <translation>Tämä lataa asennustiedot MS-DOS/FAT32-alustetulta USB-tikulta. Jatketaanko?</translation>
     </message>
     <message>
         <source>Please insert the USB stick now, and click OK to continue.</source>
-        <translation type="unfinished">Ole hyvä, ja kiinnitä USB-tikku nyt. Paina OK jatkaaksesi.</translation>
+        <translation>Liitä USB-tikku nyt ja jatka napsauttamalla ”OK”.</translation>
     </message>
     <message>
         <source>Failed loading saved config file from the USB media. Is the device working and formatted MSDOSFS/FAT32?</source>
@@ -262,71 +262,67 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Configuration loaded! You may now safely remove the USB media.</source>
-        <translation type="unfinished">Konfiguraatio ladattu! Voit nyt postaa USB-median turvallisesti.</translation>
+        <translation>Asetukset ladattu! Voit nyt poistaa USB-tietovälineen turvallisesti.</translation>
     </message>
     <message>
         <source>Config File:</source>
-        <translation type="unfinished">Konfiguraatio tiedosto:</translation>
+        <translation>Asetustiedosto:</translation>
     </message>
     <message>
         <source>Start the install using this config file?</source>
-        <translation type="unfinished">Aloita asennus käyttämällä tätä konfiguraatio tiedostoa?</translation>
+        <translation>Käynnistetäänkö asennus tämän asetustiedoston tiedoin?</translation>
     </message>
     <message>
         <source>Restoring system: %1</source>
-        <translation type="unfinished">Palautetaan järjestelmää: %1</translation>
+        <translation>Palautetaan järjestelmää: %1</translation>
     </message>
     <message>
         <source>Start the default Full-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistetäänkö oletusarvoinen asennus koko levylle?</translation>
     </message>
     <message>
         <source>Start the Customized-Disk installation now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistetäänkö asennus mukautetuin levyasetuksin?</translation>
     </message>
     <message>
         <source>PC-BSD Installer Config Script</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD:n asennusohjelman asetusskripti</translation>
     </message>
     <message>
         <source>Disk Management Utility</source>
-        <translation type="unfinished"></translation>
+        <translation>Levynhallintatyökalu</translation>
     </message>
     <message>
         <source>Failed reading /tmp/pc-sys/</source>
-        <translation type="unfinished"></translation>
+        <translation>Luku epäonnistui: /tmp/pc-sys/</translation>
     </message>
     <message>
         <source>Canceled config script install</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruttiin asetusskriptiasennus</translation>
     </message>
     <message>
-        <source>Desktop (PC-BSD)</source>
-        <translation type="unfinished"></translation>
+        <source>Please select the type of installation to perform</source>
+        <translation>Valitse toteutettavan asennuksen tyyppi</translation>
     </message>
     <message>
-        <source>Server (TrueOS)</source>
-        <translation type="unfinished"></translation>
+        <source>Graphical desktop</source>
+        <translation>Graafinen työpöytä</translation>
     </message>
     <message>
-        <source>Customize the selected system</source>
-        <translation type="unfinished"></translation>
+        <source>PC-BSD (Graphical desktop)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>PC-BSD Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>Best for servers and headless systems</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>TrueOS Package Selection</source>
-        <translation type="unfinished"></translation>
+        <source>TrueOS (Console based server)</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <source>The following meta-pkgs will be installed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
-        <translation type="unfinished"></translation>
+        <source>Restore from an existing backup</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -353,45 +349,6 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
 </context>
 <context>
-    <name>desktopSelection</name>
-    <message>
-        <source>System Package Configuration</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Available System Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
-    </message>
-    <message>
-        <source>No Desktop</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View Packages</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Package Listing for:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>dialogCheckHardware</name>
     <message>
         <source>Detected hardware devices</source>
@@ -407,102 +364,102 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Video resolution:</source>
-        <translation type="unfinished">Videon resoluutio:</translation>
+        <translation>Näyttötarkkuus:</translation>
     </message>
     <message>
         <source>No ethernet detected</source>
-        <translation type="unfinished">Ethernetiä ei tunnistettu</translation>
+        <translation>Lankaverkkoa ei tunnistettu</translation>
     </message>
     <message>
         <source>Ethernet device:</source>
-        <translation type="unfinished">Ethernet-laite:</translation>
+        <translation>Ethernet-laite:</translation>
     </message>
     <message>
         <source>No wifi detected</source>
-        <translation type="unfinished">Wifiä ei tunnistettu</translation>
+        <translation>Langatonta verkkoa ei tunnistettu</translation>
     </message>
     <message>
         <source>Wifi device:</source>
-        <translation type="unfinished">Wifi-laite:</translation>
+        <translation>Langaton verkkolaite:</translation>
     </message>
     <message>
         <source>No sound detected</source>
-        <translation type="unfinished">Äänilaitetta ei tunnistettu</translation>
+        <translation>Äänilaitetta ei tunnistettu</translation>
     </message>
     <message>
         <source>Sound device:</source>
-        <translation type="unfinished">Äänilaite:</translation>
+        <translation>Äänilaite:</translation>
     </message>
 </context>
 <context>
     <name>dialogFSSize</name>
     <message>
         <source>Size:</source>
-        <translation type="unfinished">Koko:</translation>
+        <translation>Koko:</translation>
     </message>
     <message>
         <source>MB</source>
-        <translation type="unfinished">MB</translation>
+        <translation>Mt</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Ok</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
+        <translation>&amp;Peru</translation>
     </message>
 </context>
 <context>
     <name>dialogHelp</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
 </context>
 <context>
     <name>dialogInfoBox</name>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
 </context>
 <context>
     <name>widgetKeyboard</name>
     <message>
         <source>Keyboard Settings</source>
-        <translation type="unfinished">Näppäimistön asetukset</translation>
+        <translation>Näppäimistöasetukset</translation>
     </message>
     <message>
         <source>Key Layout</source>
-        <translation type="unfinished">Näppäinasettelu</translation>
+        <translation>Näppäimistöasettelu</translation>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished">Muunnos</translation>
+        <translation>Muunnelma</translation>
     </message>
     <message>
         <source>Keyboard Model</source>
-        <translation type="unfinished">Näppäimistön malli</translation>
+        <translation>Näppäimistön malli</translation>
     </message>
     <message>
         <source>( you may type into the space below to test your selected settings. )</source>
-        <translation type="unfinished">( voit kirjoittaa alla olevaan tilaan testataksesi asetusia )</translation>
+        <translation>(voit kokeilla valittuja asetuksia kirjoittamalla alla olevaan tilaan)</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished">&amp;Käytä</translation>
+        <translation>&amp;Käytä</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
 </context>
 <context>
     <name>wizardDisk</name>
     <message>
         <source>This wizard will walk you through the disk setup process. Please choose the setup mode you wish to use.</source>
-        <translation type="unfinished">Tämä avustaja kuljettaa sinut levyn asetusten valintaprosessin läpi. Ole hyvä, ja valitse missä moodissa haluat avustajan toimivan.</translation>
+        <translation>Tämä toiminto opastaa sinua levyn asetuksessa. Valitse asetustila, jota haluat käyttää.</translation>
     </message>
     <message>
         <source>Setup Mode</source>
@@ -518,67 +475,67 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>FreeBSD Experts (CLI manual mode)</source>
-        <translation type="unfinished">FreeBSD asiantuntija (Komentoriviä käyttämällä)</translation>
+        <translation>FreeBSD-asiantuntija (komentorivitila)</translation>
     </message>
     <message>
         <source>Selected Disk</source>
-        <translation type="unfinished">Valitty levy</translation>
+        <translation>Valittu levy</translation>
     </message>
     <message>
         <source>Selected Partition</source>
-        <translation type="unfinished">Valittu partitio</translation>
+        <translation>Valittu osio</translation>
     </message>
     <message>
         <source>Force ZFS 4K block size</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakota 4 kt ZFS-lohkokoko</translation>
     </message>
     <message>
         <source>ZFS pool name</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-poolin nimi</translation>
     </message>
     <message>
         <source>If this is a single disk ZFS install, you can continue, otherwise please select the mirror / raid mode and disks below. </source>
-        <translation type="unfinished"></translation>
+        <translation>Jos tämä on yhden levyn ZFS-asennus, voit jatkaa. Muussa tapauksessa valitse peilaus- ja RAID-tila ja levyt alta. </translation>
     </message>
     <message>
         <source>ZFS Virtual Device Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-virtuaalilaitetila</translation>
     </message>
     <message>
         <source>Please select at least 1 other drive for mirroring</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse vähintään yksi toinen levy peilaamista varten</translation>
     </message>
     <message>
         <source>Note: Using ZFS mirror/raidz can only be enabled when doing full-disk installations</source>
-        <translation type="unfinished"></translation>
+        <translation>Huomaa: ZFS:n peilauksen/raidz:n voi ottaa käyttöön vain koko levyn asennuksissa</translation>
     </message>
     <message>
         <source>ZFS allows the use of read-cache (L2Arc) and write log devices (ZIL). If you wish to enable either of these, please select the disks to be used below. </source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS sallii lukuvälimuistin (L2Arc) sekä kirjoituslokilaitteiden (ZIL) käytön. Jos haluat ottaa kumman tahansa käyttöön, valitse käytettävät levyt alta. </translation>
     </message>
     <message>
         <source>Enable cache device</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä välimuistilaitetta</translation>
     </message>
     <message>
         <source>Enable log device</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä lokilaitetta</translation>
     </message>
     <message>
         <source>PC-BSD can encrypt your disks using the GELI framework. This is full-disk encryption and will require a password at startup.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Encrypt disk with GELI (Requires GPT disk scheme)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Below you may adjust the file-system mount points. For most users the defaults will work best. </source>
@@ -614,59 +571,59 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Use entire disk</source>
-        <translation type="unfinished">Käytä levy kokonaan</translation>
+        <translation>Käytä koko levyä</translation>
     </message>
     <message>
         <source>Please select 2 or 4 additional drives for raidz1</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse kaksi tai neljä lisälevyä raidz1:tä varten</translation>
     </message>
     <message>
         <source>Please select 3, 5, or 9 additional drives for raidz2</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse 3, 5 tai 9 lisälevyä raidz2:ta varten</translation>
     </message>
     <message>
         <source>Please select 4, 6, or 10 additional drives for raidz3</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse 4, 6 tai 10 lisälevyä raidz3:a varten</translation>
     </message>
     <message>
         <source>ZFS Mounts</source>
-        <translation type="unfinished">ZFS Liitokset</translation>
+        <translation>ZFS-liitokset</translation>
     </message>
     <message>
         <source>ZFS Options</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-valinnat</translation>
     </message>
     <message>
         <source>The original system datasets / mount-points will be automatically restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän alkuperäiset tietojoukot ja liitospisteet palautetaan automaattisesti.</translation>
     </message>
     <message>
         <source>Resizing</source>
-        <translation type="unfinished">Muokkaa kokoa</translation>
+        <translation>Muutetaan kokoa</translation>
     </message>
     <message>
         <source>Remove mount-point</source>
-        <translation type="unfinished">Poista liitospiste</translation>
+        <translation>Poista liitospiste</translation>
     </message>
     <message>
         <source>Are you sure you want to remove this mount point?</source>
-        <translation type="unfinished">Oletko varma, että haluat poistaa tämän liitospisteen?</translation>
+        <translation>Haluatko varmasti poistaa tämän liitospisteen?</translation>
     </message>
     <message>
         <source>Enter mount-point</source>
-        <translation type="unfinished">Kirjoita liitospiste</translation>
+        <translation>Anna liitospiste</translation>
     </message>
     <message>
         <source>Please enter the new mount-point:</source>
-        <translation type="unfinished">Ole hyvä, ja kirjoita uusi liitospiste:</translation>
+        <translation>Anna uusi liitospiste:</translation>
     </message>
     <message>
         <source>Invalid Mount</source>
         <translation type="unfinished">Liitos ei kelpaa</translation>
     </message>
     <message>
-        <source>Mount point should start with &apos;/&apos;</source>
-        <translation type="unfinished">Liitospisteen tulisi alkaa &apos;/&apos;-merkillä</translation>
+        <source>Mount point should start with '/'</source>
+        <translation type="unfinished">Liitospisteen tulisi alkaa '/'-merkillä</translation>
     </message>
     <message>
         <source>Editing:</source>
@@ -682,11 +639,11 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Installing to file-system mounted at /mnt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The disk will be setup with the following configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disk:</source>
@@ -694,7 +651,7 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>Mirroring:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Partition:</source>
@@ -710,312 +667,290 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>ZFS Datasets:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>ZFS-tietojoukot:&lt;br&gt;</translation>
     </message>
     <message>
         <source>Mount:</source>
-        <translation type="unfinished">Liitos:</translation>
+        <translation>Liitospiste:</translation>
     </message>
     <message>
         <source>Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinnat:</translation>
     </message>
     <message>
         <source>Partition Scheme</source>
-        <translation type="unfinished"></translation>
+        <translation>Osiomalli</translation>
     </message>
     <message>
         <source>GPT (Best for new hardware)</source>
-        <translation type="unfinished"></translation>
+        <translation>GPT (paras uudelle laitteistolle)</translation>
     </message>
     <message>
         <source>MBR (Legacy)</source>
-        <translation type="unfinished"></translation>
+        <translation>MBR (perinteinen)</translation>
     </message>
     <message>
         <source>Add additional disks to zpool</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää lisälevyjä zpooliin</translation>
     </message>
     <message>
         <source>stripe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
-        <translation type="unfinished"></translation>
+        <translation>Osion uusi koko (kaikkiaan)</translation>
     </message>
     <message>
         <source>Please select the disk or partition you wish to install onto. </source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse levy tai osio, jolle haluat asentaa.</translation>
     </message>
     <message>
-        <source>Target Installation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>UEFI (Modern motherboards)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>BIOS (Legacy motherboards)</source>
-        <translation type="unfinished"></translation>
+        <source>Use GRUB bootloader</source>
+        <translation>Käytä Grub-käynnistyslatainta</translation>
     </message>
 </context>
 <context>
     <name>wizardFreeBSD</name>
     <message>
         <source>This wizard will walk you though the setup of your new server. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter the root password for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Password (Repeat)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please create a user for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default shell</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please enter a system hostname and remote login preference.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable remote SSH login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select a network device to configure for this system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkoliitäntä</translation>
     </message>
     <message>
         <source>IP Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IP-osoite</translation>
     </message>
     <message>
         <source>Netmask</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkopeite</translation>
     </message>
     <message>
         <source>Nameserver (DNS)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nimipalvelin (DNS)</translation>
     </message>
     <message>
         <source>Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdyskäytävä</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-osoite</translation>
     </message>
     <message>
         <source>IPv6 Gateway</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-yhdyskäytävä</translation>
     </message>
     <message>
         <source>IPv6 Nameserver</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-nimipalvelin</translation>
     </message>
     <message>
         <source>Please select any optional features to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse asennettavat valinnaiset piirteet.</translation>
     </message>
     <message>
         <source>Install ports tree (/usr/ports)</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna ports-puu (/usr/ports)</translation>
     </message>
     <message>
         <source>000.000.000.000</source>
-        <translation type="unfinished"></translation>
+        <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation>Asennetaanko AppCafe? Sillä voit hallita paketteja ja vankiloita verkkoselaimesta tai mobiililaitteesta.</translation>
     </message>
     <message>
-        <source>Enable AppCafe Remote</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Password:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Username:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Repeat:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Port</source>
-        <translation type="unfinished"></translation>
+        <source>Install AppCafe</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>wizardRestore</name>
     <message>
         <source>This wizard will walk you though the process of restoring your system from a Life-Preserver backup. Click next to begin. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Backup Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Host Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SSH Port</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If you saved your Life-Preserver key onto a USB drive, insert it now and select USB key, otherwise you may wish to use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Server Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use USB key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use password authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä salasanatunnistautumista</translation>
     </message>
     <message>
         <source>The following systems are backed up on this server, select the one you wish to restore. </source>
-        <translation type="unfinished"></translation>
+        <translation>Palvelimeen on varmistettu seuraavat järjestelmät. Valitse, minkä haluat palauttaa. </translation>
     </message>
     <message>
         <source>Restore System Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta järjestelmävalinta</translation>
     </message>
     <message>
         <source>Restore Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Palautuksen yhteenveto</translation>
     </message>
     <message>
         <source>The system is ready to be restored, click Finish to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmä on valmis palautettavaksi. Jatka painamalla ”Valmis”.</translation>
     </message>
     <message>
         <source>No keys found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaimia ei löytynyt!</translation>
     </message>
     <message>
         <source>No Auth keys could be found on that memory stick!
 Please try another USB stick or use password authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muistitikulta ei löytynyt tunnistusavaimia.
+Yritä toista tikkua tai käytä salasanatunnistautumista.</translation>
     </message>
     <message>
         <source>Connection failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdistäminen epäonnistui!</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check that the server is reachable and verify your user/password.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varmuuskopiopalvelimeen yhdistäminen epäonnistui.
+Varmista, että palvelin on tavoitettavissa ja tarkista käyttäjätunnuksesi ja salasanasi.</translation>
     </message>
     <message>
         <source>Could not connect to the backup server!
 Please check your hostname and that the backup server is reachable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varmuuskopiopalvelimeen ei saatu yhteyttä.Tarkista konenimi sekä varmuuskopiopalvelimen tavoitettavuus.</translation>
     </message>
     <message>
         <source>Will restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palautetaan lähteestä:</translation>
     </message>
     <message>
         <source>Select the SSH key to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse käytettävä SSH-avain</translation>
     </message>
     <message>
         <source>Key File:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaintiedosto:</translation>
     </message>
     <message>
         <source>To get started with a system restore, please select the type of backup to restore from:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aloita järjestelmän palautus valitsemalla palautettavan varmuuskopion tyyppi:</translation>
     </message>
     <message>
         <source>Encrypted iSCSI Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>Salattu iSCSI-palautus</translation>
     </message>
     <message>
         <source>Please select the *.lpiscsi file</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse *.lpiscsi-tiedosto</translation>
     </message>
     <message>
         <source>Browse for local file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selaa paikalliseen tiedostoon</translation>
     </message>
     <message>
         <source>Import from USB key</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo USB-tikulta</translation>
     </message>
     <message>
         <source>Please enter the password to unlock the lpiscsi file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna lpiscsi-tiedoston salasana:</translation>
     </message>
     <message>
         <source>SSH Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>SSH-palautus</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedosto</translation>
     </message>
     <message>
         <source>LP iSCSI Settings (*.lpiscsi)</source>
-        <translation type="unfinished"></translation>
+        <translation>LP iSCSI -asetukset (*.lpiscsi)</translation>
     </message>
     <message>
         <source>Select the .lpiscsi to use</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse käytettävä .lpiscsi-tiedosto</translation>
     </message>
     <message>
         <source>ISCSI File:</source>
-        <translation type="unfinished"></translation>
+        <translation>iSCSI-tiedosto:</translation>
     </message>
 </context>
 </TS>

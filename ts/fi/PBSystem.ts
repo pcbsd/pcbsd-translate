@@ -21,82 +21,82 @@
     </message>
     <message>
         <source>Getting PC-BSD Sources</source>
-        <translation type="unfinished"></translation>
+        <translation>Noudetaan PC-BSD:n lähdekoodeja</translation>
     </message>
     <message>
         <source>Process Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimenpide käynnissä</translation>
     </message>
     <message>
         <source>Please stop the current process before closing this window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytä nykyinen toimenpide ennen tämän ikkunan sulkemista.</translation>
     </message>
 </context>
 <context>
     <name>PBSystemTab</name>
     <message>
         <source>PC-BSD System Configuration</source>
-        <translation type="unfinished">PC-BSD Järjestelmän Asetukset</translation>
+        <translation>PC-BSD:n järjestelmäasetukset</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Yleinen</translation>
+        <translation>Yleistä</translation>
     </message>
     <message>
         <source>You may also generate a diagnostic sheet, with information about your system. This sheet can be used by technicians for troubleshooting purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voit myös tuottaa järjestelmäsi diagnostiikkatiedot. Tukihenkilöt voivat käyttää niitä hyväkseen vianjäljityksessä.</translation>
     </message>
     <message>
         <source>&amp;Generate</source>
-        <translation type="unfinished"></translation>
+        <translation>T&amp;uota</translation>
     </message>
     <message>
         <source>PC-BSD Versions</source>
-        <translation type="unfinished"></translation>
+        <translation>PC-BSD:n versiot</translation>
     </message>
     <message>
         <source>Base:</source>
-        <translation type="unfinished"></translation>
+        <translation>Perusta:</translation>
     </message>
     <message>
         <source>Backend Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Taustaosatyökalut:</translation>
     </message>
     <message>
         <source>Graphical Utilities:</source>
-        <translation type="unfinished"></translation>
+        <translation>Graafiset työkalut:</translation>
     </message>
     <message>
         <source>System Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmätiedot</translation>
     </message>
     <message>
         <source>FreeBSD Version:</source>
-        <translation type="unfinished"></translation>
+        <translation>FreeBSD:n versio:</translation>
     </message>
     <message>
         <source>CPU Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskusyksikön tyyppi:</translation>
     </message>
     <message>
         <source>System Memory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän muisti:</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished">Tehtävät</translation>
+        <translation>Tehtävät</translation>
     </message>
     <message>
         <source>System Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmätehtävät</translation>
     </message>
     <message>
         <source>Fetch PC-BSD &amp;System Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouda PC-&amp;BSD-järjestelmän lähdekoodit</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+T</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>Fetch PC-BSD P&amp;orts Tree</source>
@@ -104,47 +104,47 @@
     </message>
     <message>
         <source>Misc</source>
-        <translation type="unfinished"></translation>
+        <translation>Sekalaista</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käytä</translation>
     </message>
     <message>
         <source>Other Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Muita valintoja</translation>
     </message>
     <message>
         <source>Force IBUS keyboard input</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakota IBUS-näppäimistösyöte</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe</translation>
     </message>
     <message>
         <source>Error Generating Diagnostic File</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe tuotettaessa diagnostiikkatiedostoa</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Onnistui</translation>
     </message>
     <message>
         <source>Diagnostic File Created: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnostiikkatiedosto luotu: %1</translation>
     </message>
     <message>
         <source>Process Already Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimenpide on jo käynnissä</translation>
     </message>
     <message>
         <source>You already have a process running. Please wait for that one to finish first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimenpide on jo käynnissä. Odota sen päättymistä.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulje</translation>
     </message>
 </context>
 </TS>

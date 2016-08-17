@@ -267,7 +267,7 @@
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -322,51 +322,51 @@
     </message>
     <message>
         <source>Primary Group:</source>
-        <translation type="unfinished">Ensisijainen ryhmä:</translation>
+        <translation>Ensisijainen ryhmä:</translation>
     </message>
     <message>
         <source>&amp;Change Password...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vaihda salasana…</translation>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation type="unfinished">Alt+R</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <source>&amp;Groups</source>
-        <translation type="unfinished">R&amp;yhmät</translation>
+        <translation>&amp;Ryhmät</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished">L&amp;isää</translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation type="unfinished">Alt+D</translation>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <source>Available:  </source>
-        <translation type="unfinished">Saatavilla:</translation>
+        <translation>Käytettävissä:  </translation>
     </message>
     <message>
         <source>Members:</source>
-        <translation type="unfinished">Jäsenet:</translation>
+        <translation>Jäsenet:</translation>
     </message>
     <message>
         <source>PC-BSD User Manager - Advanced Mode</source>
-        <translation type="unfinished">PC-BSD:n käyttäjienhallinta - Monipuolinen tila</translation>
+        <translation>PC-BSD:n käyttäjienhallinta – Tarkempi tila</translation>
     </message>
     <message>
         <source>&amp;Simple View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Yksinkertainen näkymä</translation>
     </message>
     <message>
         <source>Alt+V</source>
-        <translation type="unfinished">Alt+N</translation>
+        <translation>Alt+V</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>PersonaCrypt</translation>
     </message>
     <message>
         <source>Export Key</source>
@@ -539,50 +539,50 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Tallenna</translation>
+        <translation>&amp;Tallenna</translation>
     </message>
     <message>
         <source>Alt+K</source>
-        <translation type="unfinished">Alt+K</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Peruuta</translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation type="unfinished">Alt+U</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <source>Confirm Password:</source>
-        <translation type="unfinished">Salasana uudelleen:</translation>
+        <translation>Vahvista salasana:</translation>
     </message>
 </context>
 <context>
     <name>SimpleDlg</name>
     <message>
         <source>PC-BSD User Manager</source>
-        <translation type="unfinished">PC-BSD:n käyttäjienhallinta</translation>
+        <translation>PC-BSD:n käyttäjienhallinta</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lisää</translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation type="unfinished">Alt+L</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Poista</translation>
+        <translation>&amp;Poista</translation>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation type="unfinished">Alt+P</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <source>&amp;Change Admin Password...</source>
-        <translation type="unfinished">&amp;Vaihda pääkäyttäjän salasanaa</translation>
+        <translation>Vaihda &amp;pääkäyttäjän salasana</translation>
     </message>
     <message>
         <source>Alt+C</source>
