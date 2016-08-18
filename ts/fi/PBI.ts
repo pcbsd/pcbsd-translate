@@ -1,155 +1,155 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="fi">
 <context>
     <name>PBI</name>
     <message>
         <source>PBI Installer</source>
-        <translation type="unfinished"></translation>
+        <translation>PBI-asennin</translation>
     </message>
     <message>
         <source>Preparing to install PROGNAME</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmistaudutaan asentamaan PROGNAME</translation>
     </message>
     <message>
         <source>Vendor: </source>
-        <translation type="unfinished"></translation>
+        <translation>Toimittaja: </translation>
     </message>
     <message>
         <source>URL: </source>
-        <translation type="unfinished"></translation>
+        <translation>Verkko-osoite: </translation>
     </message>
     <message>
         <source>&lt;Author&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Tekijä&gt;</translation>
     </message>
     <message>
         <source>&lt;Web&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Verkkosivu&gt;</translation>
     </message>
     <message>
         <source>Valid Digital Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollinen digitaalinen allekirjoitus</translation>
     </message>
     <message>
         <source>I Agree</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyväksyn</translation>
     </message>
     <message>
         <source>The program is now being installed. This may take a few moments.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohjelmaa asennetaan. Tämä voi kestää hetken.</translation>
     </message>
     <message>
         <source>&lt;Status&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Tila&gt;</translation>
     </message>
     <message>
         <source>&lt;progress&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;edistyminen&gt;</translation>
     </message>
     <message>
-        <source>&lt;b&gt;&lt;font size=&quot;+1&quot;&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click &quot;Finish&quot; to exit.</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b&gt;&lt;font size="+1"&gt;Installation complete! &lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Click "Finish" to exit.</source>
+        <translation>&lt;b&gt;&lt;font size="+1"&gt;Asennus on valmis!&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Lopeta napsauttamalla ”Valmis”.</translation>
     </message>
     <message>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe!</translation>
     </message>
     <message>
         <source>Cannot locate PBI file:</source>
-        <translation type="unfinished"></translation>
+        <translation>PBI-tiedostoa ei löydy:</translation>
     </message>
     <message>
         <source>Warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Varoitus!</translation>
     </message>
     <message>
         <source>The program</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohjelma</translation>
     </message>
     <message>
         <source>is already installed. Overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>on jo asennettu. Korvataanko se?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Peru</translation>
     </message>
     <message>
         <source>Error while running pbi_add!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe suoritettaessa pbi_add-komentoa!</translation>
     </message>
     <message>
         <source>Error, This application must be installed as root!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe: Tämä sovellus täytyy asentaa pääkäyttäjänä!</translation>
     </message>
     <message>
         <source>Cannot load meta data from this PBI. File corrupt / invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>PBI:stä ei voida ladata metatietoja. Tiedosto on vioittunut tai virheellinen.</translation>
     </message>
     <message>
         <source>Click Next to begin the installation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä asennus napsauttamalla ”Seuraava”.</translation>
     </message>
     <message>
         <source>The pbi_add command returned an error, the source file may be corrupt or invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>pbi_add-komento palautti virheen: lähdetiedosto voi olla vioittunut tai virheellinen.</translation>
     </message>
     <message>
         <source>Installation Finished!</source>
-        <translation type="unfinished"></translation>
+        <translation>Asennus on valmis!</translation>
     </message>
     <message>
         <source>Creating menu icons and links...</source>
-        <translation type="unfinished"></translation>
+        <translation>Luodaan valikkokuvakkeita ja -linkkejä…</translation>
     </message>
     <message>
         <source>Merging Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdistetään tiedostoja…</translation>
     </message>
     <message>
         <source>Registering installation and cleanup...</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekisteröidään asennusta ja siivotaan…</translation>
     </message>
     <message>
         <source>Preparing to install...</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmistaudutaan asentamaan…</translation>
     </message>
     <message>
         <source>Cancel Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation>Peru vahvistus</translation>
     </message>
     <message>
         <source>Are you sure you wish to cancel?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti perua?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluan</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>En halua</translation>
     </message>
     <message>
         <source>No digital signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei digitaalista allekirjoitusta</translation>
     </message>
     <message>
         <source>This application has no digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
-        <translation type="unfinished"></translation>
+        <translation>Sovelluksella ei näy olevan digitaalista allekirjoitusta. Sovellusten asentaminen tuntemattomista lähteistä voi olla vaarallista. Jatketaanko asennusta? </translation>
     </message>
     <message>
         <source>Invalid digital signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen digitaalinen allekirjoitus</translation>
     </message>
     <message>
         <source>This application has a bad or unknown digital signature. Installing applications from unknown sources can be dangerous. Continue with the install? </source>
-        <translation type="unfinished"></translation>
+        <translation>Sovelluksella on huono tai tuntematon digitaalinen allekirjoitus. Sovellusten asentaminen tuntemattomista lähteistä voi olla vaarallista. Jatketaanko asennusta? </translation>
     </message>
 </context>
 </TS>

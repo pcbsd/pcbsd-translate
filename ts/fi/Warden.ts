@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
     <name>dialogConfig</name>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Tallenna</translation>
+        <translation>&amp;Tallenna</translation>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation type="unfinished">Alt+T</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Jail Network Interface</source>
-        <translation type="unfinished">Jail:n verkkolaite</translation>
+        <translation>Vankilan verkkoliitäntä</translation>
     </message>
     <message>
         <source>Jail Directory</source>
-        <translation type="unfinished">Jail:n kansio</translation>
+        <translation>Vankilakansio</translation>
     </message>
     <message>
         <source>Temp Directory</source>
-        <translation type="unfinished">Väliaikainen kansio</translation>
+        <translation>Väliaikaiskansio</translation>
     </message>
     <message>
         <source>Select Jail Directory</source>
-        <translation type="unfinished">Valitse Jail:n kansio</translation>
+        <translation>Valitse vankilakansio</translation>
     </message>
     <message>
         <source>Select Temp Directory</source>
-        <translation type="unfinished">Valitse väliaikainen kansio</translation>
+        <translation>Valitse väliaikaiskansio</translation>
     </message>
 </context>
 <context>
     <name>dialogDisplayOutput</name>
     <message>
         <source>Command Output</source>
-        <translation type="unfinished">Komennon tuloste</translation>
+        <translation>Komennon tuloste</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>dialogEditIP</name>
     <message>
         <source>Jail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan asetukset</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Valinnat</translation>
     </message>
     <message>
         <source>Enable VNET / VIMAGE support</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä VNET/VIMAGE-tukea</translation>
     </message>
     <message>
         <source>IPv4</source>
-        <translation type="unfinished">IPv4</translation>
+        <translation>IPv4</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
@@ -83,170 +83,170 @@
     </message>
     <message>
         <source>IPv4 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4-sillan osoite (vaatii VNETin)</translation>
     </message>
     <message>
         <source>IPv4 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4-oletusreititin (vaatii VNETin)</translation>
     </message>
     <message>
         <source>IPv6</source>
-        <translation type="unfinished">IPv6</translation>
+        <translation>IPv6</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">IPv4 osoite {6 ?}</translation>
+        <translation>IPv6-osoite</translation>
     </message>
     <message>
         <source>IPv6 Bridge Address (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-sillan osoite (vaatii VNETin)</translation>
     </message>
     <message>
         <source>IPv6 Default Router (Requires VNET)</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-oletusreititin (vaatii VNETin)</translation>
     </message>
     <message>
         <source>Aliases</source>
-        <translation type="unfinished">Aliakset</translation>
+        <translation>Aliakset</translation>
     </message>
     <message>
         <source>IPv4 Aliases</source>
-        <translation type="unfinished">IPv4 aliakset</translation>
+        <translation>IPv4-aliakset</translation>
     </message>
     <message>
         <source>IPv4 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv4-sillan aliakset</translation>
     </message>
     <message>
         <source>IPv6 Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-aliakset</translation>
     </message>
     <message>
         <source>IPv6 Bridge Aliases</source>
-        <translation type="unfinished"></translation>
+        <translation>IPv6-sillan aliakset</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Poista</translation>
     </message>
     <message>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttöoikeudet</translation>
     </message>
     <message>
         <source>The following permissions can be enabled or disabled for this jail. For more details hover over each item or refer to the jail manpage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seuraavat oikeudet voidaan ottaa käyttöön tai poistaa käytöstä vankilassa. Saat lisätietoja leijumalla hiirellä kohdan yllä tai katsomalla man-sivuilta.</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished">&amp;Tallenna</translation>
+        <translation>&amp;Tallenna</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan prosessilla on pääsy System V:n IPC-primitiiveihin.</translation>
     </message>
     <message>
         <source>The prison root is allowed to create raw sockets. Enables ping / traceroute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan pääkäyttäjä saa luoda raakoja pistokkeita. Mahdollistaa pingin/tracerouten.</translation>
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun parametri on asetettu, käyttäjät nähdään etuoikeutetuiksi ja he voivat käsitellä järjestelmätiedostojen lippuja kern.securelevel-asetuksen tavallisissa rajoissa.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa vankilaystävällisiksi merkittyjä tiedostojärjestelmiä.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa devfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa nullfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa procfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa zfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
-        <translation type="unfinished"></translation>
+        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
+        <translation>Vankilan pääkäyttäjä voi hallita vankilan tiedostojärjestelmien levykiintiöitä.</translation>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä sallii pääsyn sellaisten yhteyskäytäntöjen pinoihin, joihin ei ole lisätty vankilatoiminnallisuutta.</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished"></translation>
+        <translation>Warden</translation>
     </message>
     <message>
         <source>Invalid IPv4 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv4-osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv4 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv4-sillan osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv4 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv4-reitittimen osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv6-osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv6 bridge address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv6-sillan osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv6 router address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv6-reitittimen osoite!</translation>
     </message>
     <message>
         <source>Add IP</source>
-        <translation type="unfinished">Lisää IP</translation>
+        <translation>Lisää IP</translation>
     </message>
     <message>
         <source>IP Address:</source>
-        <translation type="unfinished">IP osoite:</translation>
+        <translation>IP-osoite:</translation>
     </message>
     <message>
         <source>Please enter a valid IPV4 or IPV6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna kelvollinen IPv4- tai IPv6-osoite!</translation>
     </message>
 </context>
 <context>
     <name>dialogImport</name>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo vankila</translation>
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished"></translation>
+        <translation>Anna uudelle vankilalle kutsumanimi. Tuodun vankilan IP:tä tai verkkonimeä voi muuttaa. Sisäiset viittaukset aiempaan IP:hen tai verkkonimeen täytyy muuttaa erikseen tuonnin jälkeen.</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Peru</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
@@ -254,451 +254,451 @@
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation>…</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimi</translation>
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
-        <translation type="unfinished"></translation>
+        <translation>999\.999\.999\.999; </translation>
     </message>
 </context>
 <context>
     <name>dialogTemplates</name>
     <message>
         <source>Jail Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilamallit</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää uusi vankila</translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista valittu vankila</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished">&amp;Sulje</translation>
+        <translation>&amp;Sulje</translation>
     </message>
     <message>
         <source>System Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestelmän versio</translation>
     </message>
     <message>
         <source>What version do you wish to fetch?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minkä version haluat noutaa?</translation>
     </message>
     <message>
         <source>Template Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>Mallin kutsumanimi</translation>
     </message>
     <message>
         <source>Enter a nickname for this template:</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna mallille kutsumanimi:</translation>
     </message>
 </context>
 <context>
     <name>dialogWarden</name>
     <message>
         <source>The Warden</source>
-        <translation type="unfinished"></translation>
+        <translation>Vartija</translation>
     </message>
     <message>
         <source>Working on Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Työskennellään vankilassa</translation>
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Tietoa</translation>
     </message>
     <message>
         <source>Jail Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size on Disk:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Network Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Active Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>IPs:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Listening on Ports:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Management</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Launch Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä pääte</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkista päivitykset</translation>
     </message>
     <message>
         <source>Utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Työkalut</translation>
     </message>
     <message>
         <source>Export Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie vankila</translation>
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilannekuvat</translation>
     </message>
     <message>
         <source>Restore existing snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Palauta olemassa oleva tilannekuva</translation>
     </message>
     <message>
         <source>R&amp;estore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Palauta</translation>
     </message>
     <message>
         <source>Create a new snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo uusi tilannekuva</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lisää</translation>
     </message>
     <message>
         <source>Delete the snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista tilannekuva</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;oista</translation>
     </message>
     <message>
         <source>Scheduled Snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajastetut tilannekuvat</translation>
     </message>
     <message>
         <source>Snapshot Frequency</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilannekuvien tiheys</translation>
     </message>
     <message>
         <source>Days to keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Säilytyspäivät</translation>
     </message>
     <message>
         <source>Installed Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>Asennetut vankilat</translation>
     </message>
     <message>
         <source>Start the selected jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä valittu vankila</translation>
     </message>
     <message>
         <source>&amp;Start Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Käynnistä vankila</translation>
     </message>
     <message>
         <source>Configure the jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan asetukset</translation>
     </message>
     <message>
         <source>J&amp;ail Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Vankilan asetukset</translation>
     </message>
     <message>
         <source>Add a new Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää uusi vankila</translation>
     </message>
     <message>
         <source>&amp;New Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Uusi vankila</translation>
     </message>
     <message>
         <source>Remove the selected Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista valittu vankila</translation>
     </message>
     <message>
         <source>&amp;Remove Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;oista vankila</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tiedosto</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asetukset</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Lopeta</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopeta</translation>
     </message>
     <message>
         <source>New Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi vankila</translation>
     </message>
     <message>
         <source>&amp;Refresh Jails</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Virkistä vankilat</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Virkistä</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Asetukset</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset</translation>
     </message>
     <message>
         <source>&amp;Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tuo vankila</translation>
     </message>
     <message>
         <source>Import Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuo vankila</translation>
     </message>
     <message>
         <source>&amp;Template Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mallien hallinta</translation>
     </message>
     <message>
         <source>&lt;- Please select a jail</source>
-        <translation type="unfinished"></translation>
+        <translation>← Valitse vankila</translation>
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No valid network interface specified! Select one now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Updates available!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop the selected jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stop this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start update manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toggle Autostart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export jail to .wdn file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Jail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stopping Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytetään vankilaa</translation>
     </message>
     <message>
         <source>Stopping Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytetään vankilaa:</translation>
     </message>
     <message>
         <source>Starting Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistetään vankilaa</translation>
     </message>
     <message>
         <source>Starting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistetään vankilaa:</translation>
     </message>
     <message>
         <source>Choose a directory to save the finished .wdn file:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse kansio, johon tallentaa valmis .wdn-tiedosto:</translation>
     </message>
     <message>
         <source>Exporting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viedään vankilaa:</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa vankilan</translation>
     </message>
     <message>
         <source>Deleting Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaan vankilaa</translation>
     </message>
     <message>
         <source>Deleting Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaan vankilaa:</translation>
     </message>
     <message>
         <source>Select warden jail package</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Loading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan…</translation>
     </message>
     <message>
         <source>Loading snapshots...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladataan tilannekuvia…</translation>
     </message>
     <message>
         <source>For snapshot support you must be using ZFS</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilannekuvatuen saadaksesi sinun on käytettävä ZFS:ää</translation>
     </message>
     <message>
         <source>No label</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei selitettä</translation>
     </message>
     <message>
         <source>No snapshots available. You may create one below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei tilannekuvia saatavilla. Voit luoda sellaisen alta.</translation>
     </message>
     <message>
         <source>No jail selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilaa ei ole valittu!</translation>
     </message>
     <message>
         <source>Working on jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Työskennellään vankilassa:</translation>
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna monistetun vankilan verkkonimi</translation>
     </message>
     <message>
         <source>Cloned jail hostname:</source>
-        <translation type="unfinished"></translation>
+        <translation>Monistetun vankilan verkkonimi:</translation>
     </message>
     <message>
         <source>Creating new snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Luodaan uutta tilannekuvaa… Odota…</translation>
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilannekuvan huomautukset</translation>
     </message>
     <message>
         <source>Are you sure you want to revert to the snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti palata tilannekuvaan:</translation>
     </message>
     <message>
         <source>Any newer snapshots will be lost, and the jail will be restarted!</source>
-        <translation type="unfinished"></translation>
+        <translation>Uudemmat tilannekuvat menetetään ja vankila käynnistetään uudelleen!</translation>
     </message>
     <message>
         <source>Reverting snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reverting snapshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Palautetaan tilannekuvia</translation>
     </message>
     <message>
         <source>Reverting to snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Palautetaan tilannekuvaan:</translation>
     </message>
     <message>
         <source>Are you sure you want to remove the snapshot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa tilannekuvan:</translation>
     </message>
     <message>
         <source>Removing snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Poistetaan tilannekuvaa… Odota…</translation>
     </message>
 </context>
 <context>
     <name>dialogWorking</name>
     <message>
         <source>Working</source>
-        <translation type="unfinished"></translation>
+        <translation>Työskennellään</translation>
     </message>
 </context>
 <context>
     <name>wizardNewJail</name>
     <message>
         <source>New Jail Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Opastettu vankilan luonti</translation>
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä opastettu toiminto auttaa sinua uuden vankilan luonnissa. Anna ensin verkkonimi ja IP-osoite, jotka eivät ole ennestään käytössä. Jos aiot käyttää vankilassa IPv6:ta, valitse IPv6-osoitteen kenttä ja anna kelvollinen IPv6-osoite. Napsauta ”Seuraava”, kun olet valmis.</translation>
     </message>
     <message>
         <source>Hostname</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimi</translation>
     </message>
     <message>
         <source>Jailbird</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanki</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">IPv4 osoite {6 ?}</translation>
+        <translation>IPv6-osoite</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
@@ -706,107 +706,107 @@
     </message>
     <message>
         <source>Please select the type of jail you want to create. </source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse luotavan vankilan tyyppi. </translation>
     </message>
     <message>
         <source>Jail Type</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan tyyppi</translation>
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Install PKGNG and PC-BSD utilities</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Root Password (Confirm)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select the Linux install script to use for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jail Options</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan valinnat</translation>
     </message>
     <message>
         <source>Include system source</source>
-        <translation type="unfinished"></translation>
+        <translation>Ota mukaan järjestelmän lähdekoodit</translation>
     </message>
     <message>
         <source>Include ports tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Ota mukaan ports-puu</translation>
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä vankila järjestelmää käynnistettäessä</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytä järjestelmän versiota (oletus)</translation>
     </message>
     <message>
         <source>Hostname cannot contain spaces!</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimessä ei saa olla välilyöntejä!</translation>
     </message>
     <message>
         <source>Hostname cannot contain special characters!</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimessä ei saa olla erikoismerkkejä!</translation>
     </message>
     <message>
         <source>Hostname already used!</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkonimi on jo käytössä!</translation>
     </message>
     <message>
         <source>IP already used!</source>
-        <translation type="unfinished"></translation>
+        <translation>IP on jo käytössä!</translation>
     </message>
     <message>
         <source>Invalid IP address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IP-osoite!</translation>
     </message>
     <message>
         <source>Invalid IPv6 address!</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen IPv6-osoite!</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta vielä vankilan muut valinnat.</translation>
     </message>
     <message>
         <source>Select Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse skripti</translation>
     </message>
     <message>
         <source>Linux install files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Linuxin asennustiedostot (*)</translation>
     </message>
 </context>
 </TS>
