@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_BR">
 <context>
@@ -376,7 +376,7 @@
     </message>
     <message>
         <source>Flag this item to not be displayed at all</source>
-        <translatorcomment>Poderia ser &quot;Marcar este item para não ser exibido de maneira alguma&quot;</translatorcomment>
+        <translatorcomment>Poderia ser "Marcar este item para não ser exibido de maneira alguma"</translatorcomment>
         <translation>Sinalizar esse item para que ele não seja exibido de forma alguma</translation>
     </message>
     <message>
@@ -776,7 +776,7 @@
     </message>
     <message>
         <source>Quick Module (Skip value auto-generation)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select PNG Icon</source>
@@ -806,8 +806,8 @@
         <translation>Utilitário de troca de usuário</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Caminho completo para o utilitário gráfico &quot;troca de usuário&quot; (pc-su, gksu, kdesu, qsu, etc..)</translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Caminho completo para o utilitário gráfico "troca de usuário" (pc-su, gksu, kdesu, qsu, etc..)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -966,11 +966,11 @@
     </message>
     <message>
         <source>NumberBox (integers)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
@@ -982,7 +982,7 @@
     </message>
     <message>
         <source>Invisible File Value:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Text</source>
@@ -990,7 +990,7 @@
     </message>
     <message>
         <source>Visible Option Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -1012,8 +1012,8 @@
         <translation>EasyPBI versão %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
-        <translation>Cria PBI&apos;s de forma rápida e fácil.</translation>
+        <source>Create PBI's quickly and easily.</source>
+        <translation>Cria PBI's de forma rápida e fácil.</translation>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
