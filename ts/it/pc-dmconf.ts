@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -40,8 +40,8 @@
         <translation>Varie</translation>
     </message>
     <message>
-        <source>Enable "show password" button</source>
-        <translation>Abilita il tasto "Mostra password"</translation>
+        <source>Enable &quot;show password&quot; button</source>
+        <translation>Abilita il tasto &quot;Mostra password&quot;</translation>
     </message>
     <message>
         <source>Display available users</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>This application will now close</source>
-        <translation>L'applicazione verrà ora chiusa</translation>
+        <translation>L&apos;applicazione verrà ora chiusa</translation>
     </message>
     <message>
         <source>Password Request</source>
@@ -73,11 +73,11 @@
     </message>
     <message>
         <source>Please enter the login password for this user</source>
-        <translation>Inserire la password d'accesso per questo utente</translation>
+        <translation>Inserire la password d&apos;accesso per questo utente</translation>
     </message>
     <message>
         <source>Please enter the remote login password</source>
-        <translation>Si prega di inserire la password d'accesso remoto</translation>
+        <translation>Si prega di inserire la password d&apos;accesso remoto</translation>
     </message>
     <message>
         <source>Allow Stealth Sessions</source>
