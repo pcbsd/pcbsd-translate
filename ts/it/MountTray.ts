@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -118,7 +118,7 @@
     </message>
     <message>
         <source>View Disk Usage</source>
-        <translation>Mostra l'occupazione del disco</translation>
+        <translation>Mostra l&apos;occupazione del disco</translation>
     </message>
     <message>
         <source>Rescan Devices</source>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation>Nuovi dispositivi sono pronti all'uso</translation>
+        <translation>Nuovi dispositivi sono pronti all&apos;uso</translation>
     </message>
     <message>
         <source>Network Shares</source>
