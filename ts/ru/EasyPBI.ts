@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ru">
 <context>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Base Directory in which to create modules</source>
-        <translation>Основной каталог, в котором создаются модули</translation>
+        <translation>Базовый каталог, в котором создаются модули</translation>
     </message>
     <message>
         <source>...</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>Invalid/Skipped:</source>
-        <translation>Недействительно/Пропущено:</translation>
+        <translation>Недействительно или пропущено:</translation>
     </message>
     <message>
         <source>New Other Modules:</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Save the current settings to the PBI configuration file</source>
-        <translation>Сохранить текущие параметры в конфигурационном файле PBI</translation>
+        <translation>Сохранить текущие настройки в файле конфигурации PBI</translation>
     </message>
     <message>
         <source>&amp;Save Configuration</source>
@@ -164,7 +164,7 @@
     </message>
     <message>
         <source>Port/Package</source>
-        <translation>Порт/Пакет</translation>
+        <translation>Порт или пакет</translation>
     </message>
     <message>
         <source>FreeBSD port to be packaged as a PBI</source>
@@ -176,23 +176,23 @@
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>Изменить[&amp;C]</translation>
+        <translation>&amp;Изменить</translation>
     </message>
     <message>
         <source>Repository Information</source>
-        <translation>Информация репозитория</translation>
+        <translation>Сведения о репозитории</translation>
     </message>
     <message>
         <source>Search Tags</source>
-        <translation>Поиск тегов</translation>
+        <translation>Поисковые метки</translation>
     </message>
     <message>
         <source>Comma-separated list of search tags for the application</source>
-        <translation>Разделенный запятыми список поисковых тегов для приложения</translation>
+        <translation>Разделенный запятыми список поисковых меток для приложения</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Плагины</translation>
+        <translation>Надстройки</translation>
     </message>
     <message>
         <source>Optional Packages that provide additional functionality to this application</source>
@@ -208,7 +208,7 @@
     </message>
     <message>
         <source>List of URLs to screenshots of this application</source>
-        <translation>Список URL-адресов скриншотов этого приложения</translation>
+        <translation>Список URL-адресов снимков этого приложения</translation>
     </message>
     <message>
         <source>Similar Apps</source>
@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>Author of the main program (or FreeBSD port maintainer instead)</source>
-        <translation>Главный автор программы (или FreeBSD порт сопровождающий)</translation>
+        <translation>Автор основной программы (или сопровождающий порта FreeBSD)</translation>
     </message>
     <message>
         <source>Author</source>
@@ -228,11 +228,11 @@
     </message>
     <message>
         <source>Icon that will be used for the program (PNG resources available)</source>
-        <translation>Иконка, которая будет использоваться для программы (доступные PNG ресурсы)</translation>
+        <translation>Значок, который будет использоваться программой (доступны PNG ресурсы)</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Иконка</translation>
+        <translation>Значок</translation>
     </message>
     <message>
         <source>App Type</source>
@@ -240,11 +240,11 @@
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation>Выберите файл для использования в качестве значка программы (необходимо для ярлыков)</translation>
+        <translation>Укажите файл для использования в качестве значка программы (необходимо для ярлыков)</translation>
     </message>
     <message>
         <source>No Specific Icon!</source>
-        <translation>Нет определенных иконок!</translation>
+        <translation>Значок не указан!</translation>
     </message>
     <message>
         <source>View Package Overrides (optional)</source>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Official name of the target program</source>
-        <translation>Официальное имя целевой программы</translation>
+        <translation>Официальное имя программы назначения</translation>
     </message>
     <message>
         <source>Name</source>
@@ -260,7 +260,7 @@
     </message>
     <message>
         <source>URL of the main website for the target program</source>
-        <translation>URL-адрес главного сайта целевой программы</translation>
+        <translation>URL-адрес основного сайта программы назначения</translation>
     </message>
     <message>
         <source>Website</source>
@@ -284,7 +284,7 @@
     </message>
     <message>
         <source>Additional ports/packages to be installed with this application by default</source>
-        <translation>Дополнительные порты/пакеты, которые будут установлены по умолчанию с этим приложением</translation>
+        <translation>Дополнительные порты или пакеты, которые будут установлены по умолчанию с этим приложением</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -308,7 +308,7 @@
     </message>
     <message>
         <source>Set any desktop/menu entries, and any MIME types</source>
-        <translation>Установить любые записи на рабочий стол / в меню и любые MIME типы</translation>
+        <translation>Установить любые записи на рабочий стол или в меню и любые MIME типы</translation>
     </message>
     <message>
         <source>Create and edit desktop entries</source>
@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>Entry Details</source>
-        <translation>Ввести подробности</translation>
+        <translation>Сведения записи</translation>
     </message>
     <message>
         <source>Visible name for the item</source>
@@ -348,27 +348,27 @@
     </message>
     <message>
         <source>Executable</source>
-        <translation>Исполнимый</translation>
+        <translation>Исполняемый</translation>
     </message>
     <message>
         <source>Binary to be run when the item is activated</source>
-        <translation>Бинарный файл будет запущен, когда элемент будет активирован</translation>
+        <translation>Двоичный файл будет запущен, когда элемент будет активирован</translation>
     </message>
     <message>
         <source>Auto-detected binaries for the PBI</source>
-        <translation>Автоматическое обнаружение бинарных файлов для PBI</translation>
+        <translation>Автоматическое обнаружение двочиных файлов для PBI</translation>
     </message>
     <message>
         <source>Custom Icon Path</source>
-        <translation>Путь для иконки</translation>
+        <translation>Расположение указываемого значка</translation>
     </message>
     <message>
         <source>Application Icon</source>
-        <translation>Иконка приложения</translation>
+        <translation>Значок приложения</translation>
     </message>
     <message>
         <source>Start the application in a terminal session</source>
-        <translation>Запустить приложение в сессии терминала</translation>
+        <translation>Запустить приложение в сеансе терминала</translation>
     </message>
     <message>
         <source>Open in Terminal</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
-        <translation>Для запуска приложения нужны привилегии администратора</translation>
+        <translation>Для запуска приложения необходимы полномочия администратора</translation>
     </message>
     <message>
         <source>Requires Root</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation>Категория меню для этого элемента будет расположена.</translation>
+        <translation>Расположение элемента в категории меню.</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>Сохранить[&amp;S]</translation>
+        <translation>&amp;Сохранить</translation>
     </message>
     <message>
         <source>Create a new item with the current settings</source>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>Добавить[&amp;A]</translation>
+        <translation>&amp;Добавить</translation>
     </message>
     <message>
         <source>Scripts</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Additional installation/build scripts</source>
-        <translation>Дополнительная установка/построение сценария</translation>
+        <translation>Дополнительные сценарии установки и сборки</translation>
     </message>
     <message>
         <source>Choose a script that you wish to create or edit</source>
@@ -444,7 +444,7 @@
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation>Создать[&amp;C]</translation>
+        <translation>&amp;Создать</translation>
     </message>
     <message>
         <source>Delete the selected script from the PBI module</source>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Удалить[&amp;R]</translation>
+        <translation>&amp;Удалить</translation>
     </message>
     <message>
         <source>Save the current text as the selected script</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Service Configuration</source>
-        <translation>Служба конфигурации</translation>
+        <translation>Настройка служб</translation>
     </message>
     <message>
         <source>Visual Options</source>
@@ -472,7 +472,7 @@
     </message>
     <message>
         <source>Configuration Scripts</source>
-        <translation>Конфигурация сценария</translation>
+        <translation>Сценарии конфигурации</translation>
     </message>
     <message>
         <source>Key</source>
@@ -508,15 +508,15 @@
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>Файл[&amp;F]</translation>
+        <translation>&amp;Файл</translation>
     </message>
     <message>
         <source>&amp;Configure</source>
-        <translation>Конфигурировать[&amp;C]</translation>
+        <translation>&amp;Настроить</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;Помощь</translation>
+        <translation>&amp;Справка</translation>
     </message>
     <message>
         <source>toolBar</source>
@@ -524,7 +524,7 @@
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>Настройки[&amp;S]</translation>
+        <translation>&amp;Настройки</translation>
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
@@ -540,15 +540,15 @@
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation>Получить/обновить дерево портов FreeBSD</translation>
+        <translation>Получить и обновить дерево портов FreeBSD</translation>
     </message>
     <message>
         <source>New</source>
-        <translation>Новый</translation>
+        <translation>Создать</translation>
     </message>
     <message>
         <source>Click to create a new PBI module</source>
-        <translation>Нажмите, чтобы создать новый модуль PBI</translation>
+        <translation>Щёлкните, чтобы создать новый модуль PBI</translation>
     </message>
     <message>
         <source>Create a new PBI module</source>
@@ -568,15 +568,15 @@
     </message>
     <message>
         <source>History</source>
-        <translation>История</translation>
+        <translation>Журнал</translation>
     </message>
     <message>
         <source>Free&amp;BSD Ports</source>
-        <translation>Порты FreeBSD[&amp;B]</translation>
+        <translation>Порты FreeBSD</translation>
     </message>
     <message>
         <source>Open up freshports.org for additional port information</source>
-        <translation>Открыть freshports.org для дополнительной информации о порте</translation>
+        <translation>Открыть freshports.org для ознакомления с дополнительными сведениями о порте</translation>
     </message>
     <message>
         <source>&amp;PBI Modules</source>
@@ -600,7 +600,7 @@
     </message>
     <message>
         <source>&amp;Package Module</source>
-        <translation>Модуль-пакет[&amp;P]</translation>
+        <translation>&amp;Модуль пакета</translation>
     </message>
     <message>
         <source>Compress the current module for distribution</source>
@@ -608,11 +608,11 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>Рассказать о[&amp;A]</translation>
+        <translation>&amp;Сведения</translation>
     </message>
     <message>
         <source>View additional information about EasyPBI</source>
-        <translation>Просмотр дополнительной информации о EasyPBI</translation>
+        <translation>Просмотр дополнительных сведений о EasyPBI</translation>
     </message>
     <message>
         <source>Shift+A</source>
@@ -640,15 +640,15 @@
     </message>
     <message>
         <source>Installation Scripts</source>
-        <translation>Установочные сценарии</translation>
+        <translation>Сценарии установки</translation>
     </message>
     <message>
         <source>Permissions Error</source>
-        <translation>Ошибка прав доступа</translation>
+        <translation>Ошибка разрешений</translation>
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation>Ошибка при попытке создать локальную структуру каталогов EasyPBI. Пожалуйста, проверьте права доступа в Вашем домашнем каталоге и перезапустите EasyPBI.</translation>
+        <translation>Ошибка при попытке создать локальную структуру каталогов EasyPBI. Пожалуйста, проверьте разрешения доступа вашего домашнего каталога и перезапустите EasyPBI.</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
@@ -664,7 +664,7 @@
     </message>
     <message>
         <source>Success</source>
-        <translation>Успешно</translation>
+        <translation>Выполнено</translation>
     </message>
     <message>
         <source>A copy of the current module has been successfully packaged  within the module directory.</source>
@@ -672,11 +672,11 @@
     </message>
     <message>
         <source>EasyPBI: Permissions Error</source>
-        <translation>EasyPBI: Ошибка прав доступа</translation>
+        <translation>EasyPBI: Ошибка разрешений доступа</translation>
     </message>
     <message>
         <source>Could not create PBI module. Please check the directory permissions and try again.</source>
-        <translation>Не удалось создать модуль PBI. Пожалуйста, проверьте права доступа для каталога и попробуйте еще раз.</translation>
+        <translation>Не удалось создать модуль PBI. Пожалуйста, проверьте разрешения доступа для каталога и попробуйте еще раз.</translation>
     </message>
     <message>
         <source>Select PBI Module Configuration</source>
@@ -692,23 +692,23 @@
     </message>
     <message>
         <source>The PBI configuration file could not be saved. Please check your file permissions before trying again.</source>
-        <translation>Файл конфигурации PBI не может быть сохранен. Пожалуйста, проверьте права доступа к файлам и попробуйте еще раз.</translation>
+        <translation>Файл конфигурации PBI не может быть сохранен. Пожалуйста, проверьте разрешения доступа к файлам и попробуйте еще раз.</translation>
     </message>
     <message>
         <source>Screenshot URL</source>
-        <translation>Скриншот URL-адреса</translation>
+        <translation>URL-адрес снимка экрана</translation>
     </message>
     <message>
         <source>Screenshot URL:</source>
-        <translation>Скриншот URL-адреса:</translation>
+        <translation>URL-адрес снимка экрана:</translation>
     </message>
     <message>
         <source>Find Icon File</source>
-        <translation>Найти файл иконки</translation>
+        <translation>Найти файл значка</translation>
     </message>
     <message>
         <source>PNG Icon (*.png)</source>
-        <translation>Иконка PNG (*.png)</translation>
+        <translation>Значок PNG (*.png)</translation>
     </message>
     <message>
         <source>Could not remove the XDG entry.</source>
@@ -716,7 +716,7 @@
     </message>
     <message>
         <source>Check the file permissions and try again</source>
-        <translation>Проверьте права доступа к файлам и попробуйте еще раз</translation>
+        <translation>Проверьте разрешения доступа к файлам и попробуйте еще раз</translation>
     </message>
     <message>
         <source>Could not save the changes to the XDG entry.</source>
@@ -736,7 +736,7 @@
     </message>
     <message>
         <source>Please check the file permissions and try again</source>
-        <translation>Пожалуйста, проверьте права доступа к файлам и попробуйте еще раз</translation>
+        <translation>Пожалуйста, проверьте разрешения доступа к файлам и попробуйте еще раз</translation>
     </message>
 </context>
 <context>
@@ -759,11 +759,11 @@
     </message>
     <message>
         <source>Icon File</source>
-        <translation>Файл иконки</translation>
+        <translation>Файл значка</translation>
     </message>
     <message>
         <source>PNG icon file to use for the PBI (can be changed later)</source>
-        <translation>PNG файл иконки, используемый для PBI (может быть изменен позже)</translation>
+        <translation>Файл значка PNG используемый для PBI (может быть изменен позже)</translation>
     </message>
     <message>
         <source>Select a local PNG file (64x64 pixel size recommended)</source>
@@ -779,34 +779,34 @@
     </message>
     <message>
         <source>Select PNG Icon</source>
-        <translation>Выбрать иконку PNG</translation>
+        <translation>Выберите значок PNG</translation>
     </message>
     <message>
         <source>PNG icon (*.png)</source>
-        <translation>Иконка PNG (*.png)</translation>
+        <translation>Значок PNG (*.png)</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>EasyPBI Preferences</source>
-        <translation>Предпочтения EasyPBI</translation>
+        <translation>Параметры EasyPBI</translation>
     </message>
     <message>
         <source>Local Paths</source>
-        <translation>Локальные пути</translation>
+        <translation>Локальные расположения</translation>
     </message>
     <message>
         <source>External Utilities</source>
-        <translation>Внешние утилиты</translation>
+        <translation>Внешние средства</translation>
     </message>
     <message>
         <source>Switch User Utility</source>
-        <translation>Утилита переключения пользователей</translation>
+        <translation>Средство переключения пользователей</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Полный путь к графической утилите &quot;переключения пользователей&quot; (pc-su, gksu, kdesu, qsu, и т.д..)</translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Полный адрес расположения средства графического "переключения пользователей" (pc-su, gksu, kdesu, qsu, и т.д.)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -818,7 +818,7 @@
     </message>
     <message>
         <source>Have EasyPBI re-scan the system for available utilities.</source>
-        <translation>EasyPBI повторно просканирует систему по наличию доступных утилит.</translation>
+        <translation>EasyPBI повторно проверит систему на наличие доступных средств.</translation>
     </message>
     <message>
         <source>Auto-Detect</source>
@@ -826,7 +826,7 @@
     </message>
     <message>
         <source>Default Search Paths</source>
-        <translation>Путь поиска по умолчанию</translation>
+        <translation>Адреса расположения для поиска по умолчанию</translation>
     </message>
     <message>
         <source>Modules</source>
@@ -834,7 +834,7 @@
     </message>
     <message>
         <source>Default directory for all PBI modules to be created</source>
-        <translation>Будет создан каталог по умолчанию для всех модулей PBI</translation>
+        <translation>Каталог для всех создаваемых модулей PBI по умолчанию</translation>
     </message>
     <message>
         <source>Select a local directory for PBI modules.</source>
@@ -846,7 +846,7 @@
     </message>
     <message>
         <source>Default directory to open when adding icons/files to a module</source>
-        <translation>Открываемый по умолчанию каталог при добавлении иконок/файлов в модуль</translation>
+        <translation>Открываемый по умолчанию каталог при добавлении значков и файлов в модуль</translation>
     </message>
     <message>
         <source>Select a local directory.</source>
@@ -854,15 +854,15 @@
     </message>
     <message>
         <source>Default Icon</source>
-        <translation>Иконка по умолчанию</translation>
+        <translation>Значок по умолчанию</translation>
     </message>
     <message>
         <source>Default PNG icon to use for PBI modules.</source>
-        <translation>Иконка PNG по умолчанию, используемая в модулях PBI.</translation>
+        <translation>Значок PNG по умолчанию, используемый в модулях PBI.</translation>
     </message>
     <message>
         <source>Browse local system for a default PNG icon.</source>
-        <translation>Просмотреть систему для иконки PNG по умолчанию.</translation>
+        <translation>Просмотреть систему на наличие значка PNG по умолчанию.</translation>
     </message>
     <message>
         <source>Select Default Module Directory</source>
@@ -870,11 +870,11 @@
     </message>
     <message>
         <source>Select Default Directory To Find Icon Files</source>
-        <translation>Выбрать каталог для поиска файлов иконок по умолчанию</translation>
+        <translation>Выбрать каталог для поиска файлов значков по умолчанию</translation>
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation>Выбрать файл иконки по умолчанию</translation>
+        <translation>Выбрать файл значка по умолчанию</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
@@ -882,11 +882,11 @@
     </message>
     <message>
         <source>Select Graphical Switch-User Utility</source>
-        <translation>Выбрать графическую утилиту переключения пользователей</translation>
+        <translation>Выбрать средство графического переключения пользователей</translation>
     </message>
     <message>
         <source>Are you sure you wish to return to the automatically detected utility paths?</source>
-        <translation>Вы уверены, что хотите вернуться к автоматически обнаруженным путям утилит?</translation>
+        <translation>Вы действительно хотите вернуться к автоматически определённым адресам расположений средств?</translation>
     </message>
     <message>
         <source>This will remove any customized path settings for the external utilities.</source>
@@ -897,7 +897,7 @@
     <name>SConfigDialog</name>
     <message>
         <source>Service Configuration Option</source>
-        <translation>Опции служб конфигуриции</translation>
+        <translation>Параметр настройки служб</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -909,7 +909,7 @@
     </message>
     <message>
         <source>Option Type:</source>
-        <translation>Тип опции:</translation>
+        <translation>Тип параметра:</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -933,7 +933,7 @@
     </message>
     <message>
         <source>Text Options</source>
-        <translation>Текстовые опции</translation>
+        <translation>Параметры текста</translation>
     </message>
     <message>
         <source>Max Length:</source>
@@ -941,11 +941,11 @@
     </message>
     <message>
         <source>Hide Text (I.E. passwords)</source>
-        <translation>Скрытый текст (как пароль)</translation>
+        <translation>Скрытый текст (например: пароли)</translation>
     </message>
     <message>
         <source>Options List</source>
-        <translation>Список опций</translation>
+        <translation>Список параметров</translation>
     </message>
     <message>
         <source>...</source>
@@ -961,7 +961,7 @@
     </message>
     <message>
         <source>ComboBox (pre-defined option list)</source>
-        <translation>Комбинированное поле (список предопределенных опций)</translation>
+        <translation>Комбинированное поле (список предварительно заданных параметров)</translation>
     </message>
     <message>
         <source>NumberBox (integers)</source>
@@ -1011,7 +1011,7 @@
         <translation>Версия EasyPBI %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Создание PBI быстро и легко.</translation>
     </message>
     <message>

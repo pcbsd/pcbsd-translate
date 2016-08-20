@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ru">
 <context>
@@ -21,11 +21,11 @@
     </message>
     <message>
         <source>System Timezone</source>
-        <translation>Часовая зона системы</translation>
+        <translation>Системный часовой пояс</translation>
     </message>
     <message>
         <source>Set the system timezone</source>
-        <translation>Установить часовую зону системы</translation>
+        <translation>Использовать системный часовой пояс</translation>
     </message>
     <message>
         <source>System Hostname</source>
@@ -44,7 +44,7 @@
         <translation>Пароль (повторите)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
         <translation>Пароль системного администратора («root»), позволяет вам вносить изменения в систему. Необходимо сохранять пароль в безопасном месте.</translation>
     </message>
     <message>
@@ -65,10 +65,10 @@
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation>Обновить [&amp;R]</translation>
+        <translation>&amp;Обновить</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
         <translation>Найдены следующие беспроводные сети. Щелкните по сети, к которой вы хотите подключиться или нажмите «Далее», чтобы пропустить этот шаг. </translation>
     </message>
     <message>
@@ -89,11 +89,11 @@
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation>Назад [&amp;B]</translation>
+        <translation>&amp;Назад</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation>Далее [&amp;N]</translation>
+        <translation>&amp;Далее</translation>
     </message>
     <message>
         <source>Please enter a hostname</source>
@@ -105,11 +105,11 @@
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation>Завершить [&amp;F]</translation>
+        <translation>&amp;Готово</translation>
     </message>
     <message>
         <source>PersonaCrypt users need the same UID for every system on which they are used</source>
-        <translation>Пользователяь PersonaCrypt нужно UID для каждой системы, на которой они используются</translation>
+        <translation>Пользователям PersonaCrypt необходим одинаковый UID для каждой системы, на которой она используются.</translation>
     </message>
     <message>
         <source>Specify UID</source>
@@ -153,7 +153,7 @@
     </message>
     <message>
         <source>User Details</source>
-        <translation>Подробности пользователя</translation>
+        <translation>Сведения о пользователе</translation>
     </message>
     <message>
         <source>PersonaCrypt</source>
@@ -169,15 +169,15 @@
     </message>
     <message>
         <source>Testing Volume:</source>
-        <translation>Тестирование размера:</translation>
+        <translation>Тестирование громкости:</translation>
     </message>
     <message>
         <source>Configure Audio Output</source>
-        <translation>Настройка аудио вывода</translation>
+        <translation>Настройка вывода звука</translation>
     </message>
     <message>
         <source>Note: Audio settings can also be adjusted later through the PC-BSD audio mixer.</source>
-        <translation>Примечание: Установки аудио могут быть скорректированы позднее через аудио микшер PC-BSD.</translation>
+        <translation>Примечание: Настройки звука могут быть настроены позже в микшере звука PC-BSD.</translation>
     </message>
     <message>
         <source>Domain Name</source>

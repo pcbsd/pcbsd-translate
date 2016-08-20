@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>Obtain IPv6 address automaticall&amp;y</source>
-        <translation>Автоматически получать IPv6-адрес&amp;</translation>
+        <translation>Получить адрес IPv6 &amp;автоматически</translation>
     </message>
     <message>
         <source>Alt+Y</source>
@@ -129,7 +129,7 @@
     </message>
     <message>
         <source>Traffic info</source>
-        <translation>Информация о сетевой трафике</translation>
+        <translation>Сведения об обмене данными</translation>
     </message>
     <message>
         <source>Packets:</source>
