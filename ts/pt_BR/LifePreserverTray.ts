@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo: %1</translation>
     </message>
     <message>
         <source>%1: %2</source>

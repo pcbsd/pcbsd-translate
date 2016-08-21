@@ -5,7 +5,7 @@
     <name>LPClassic</name>
     <message>
         <source>Classic Home-Dir Backup</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasta clássica de backup do usuário</translation>
     </message>
     <message>
         <source>Filename:</source>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>&amp;Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Terminado</translation>
     </message>
     <message>
         <source>Cancelled</source>
@@ -81,7 +81,7 @@
     </message>
     <message>
         <source>Packaging Home Directory...</source>
-        <translation type="unfinished"></translation>
+        <translation>Empacotando o diretório da página inicial</translation>
     </message>
     <message>
         <source>Exclude Directories</source>
@@ -92,7 +92,7 @@
     <name>LPConfig</name>
     <message>
         <source>Configure Dataset</source>
-        <translation type="unfinished">Configurar o conjunto de dados</translation>
+        <translation>Configurar o conjunto de dados</translation>
     </message>
     <message>
         <source>Data Set:</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>@ h AP</source>
-        <translation type="unfinished">@ h AP</translation>
+        <translation>@ h AP</translation>
     </message>
     <message>
         <source>Days</source>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>Replication</source>
-        <translation type="unfinished">Replicação</translation>
+        <translation>Replicação</translation>
     </message>
     <message>
         <source>User Name</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Remote Dataset</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjunto de dados remotos</translation>
     </message>
     <message>
         <source>Frequency</source>
@@ -168,7 +168,7 @@
     </message>
     <message>
         <source>Sync with snapshots</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar com snapshots</translation>
     </message>
     <message>
         <source>30 Minutes</source>
@@ -192,11 +192,11 @@
     </message>
     <message>
         <source>Scrub</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished">Habilitar programação</translation>
+        <translation>Habilitar limoeza programada</translation>
     </message>
     <message>
         <source>Weekly</source>
@@ -282,6 +282,10 @@
         <source>&lt;Custom IP&gt;</source>
         <translation>&lt;IP personalizado&gt;</translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LPISCSIWizard</name>
@@ -355,7 +359,7 @@
     </message>
     <message>
         <source>Manually Started</source>
-        <translation type="unfinished">Iniciado manualmente</translation>
+        <translation>Iniciado manualmente</translation>
     </message>
     <message>
         <source>Daily</source>
@@ -363,15 +367,15 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">De hora em hora</translation>
+        <translation>De hora em hora</translation>
     </message>
     <message>
         <source>Every 30 Minutes</source>
-        <translation type="unfinished">A cada 30 minutos</translation>
+        <translation>A cada 30 minutos</translation>
     </message>
     <message>
         <source>Every 10 Minutes</source>
-        <translation type="unfinished">A cada 10 minutos</translation>
+        <translation>A cada 10 minutos</translation>
     </message>
     <message>
         <source>Ready to begin</source>
@@ -379,11 +383,11 @@
     </message>
     <message>
         <source>Are to ready to enable off-site data storage?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Você está pronto para permitir o armazenamento de dados externamente?</translation>
     </message>
     <message>
         <source>This may take a few moments...</source>
-        <translation type="unfinished">Isto pode levar alguns instantes...</translation>
+        <translation>Isto pode levar algum tempo...</translation>
     </message>
     <message>
         <source>Error With Settings</source>
@@ -403,15 +407,15 @@
     </message>
     <message>
         <source>Life Preserver Server File (*.lps *.LPS)</source>
-        <translation type="unfinished">Arquivo de servidor Life Preserver (*.lps *.LPS)</translation>
+        <translation>Arquivo do servidor salva-vidas (*.lps *.LPS)</translation>
     </message>
     <message>
         <source>Re-use existing data on the host</source>
-        <translation type="unfinished"></translation>
+        <translation>Reutilizar dados existentes no host</translation>
     </message>
     <message>
         <source>GELI Encryption File:</source>
-        <translation type="unfinished">Arquivo de criptografia GELI:</translation>
+        <translation>Arquivo de criptografia GELI:</translation>
     </message>
     <message>
         <source>Select GELI File</source>
@@ -455,26 +459,26 @@
     </message>
     <message>
         <source>Please Wait.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor, aguarde.</translation>
     </message>
     <message>
         <source>Enabling off-site backup....</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitando backup externo</translation>
     </message>
     <message>
         <source>This key file is required to access/decrypt your saved data</source>
-        <translation type="unfinished"></translation>
+        <translation>Este arquivo chave é necessária para acessar/descriptografar os dados salvos</translation>
     </message>
     <message>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>ATENÇÃO</translation>
     </message>
     <message>
         <source>Make sure to save this key file to a safe location off-disk (like a USB stick you keep locked up). The administrator(s) of the backup server are not responsible for a lost key.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certifique-se de salvar o arquivo chave em um local seguro fora do disco (Por exemplo: em um USB externo que você mantenha seguro). O(s) Administrador(s) do backup do servidor não são responsáveis pela perda da chave.</translation>
     </message>
     <message>
-        <source>The Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
+        <source>Life Preserver experienced an error when trying to setup this remote backup. Please verify that your settings are accurate and try again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -961,139 +965,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Detach Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Set Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading zpool information</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach New Disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No available disks could be found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detected Disks:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attached</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was added to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Attach Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be attached to %2.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Removal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure that you want to remove %1 from %2?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CAUTION: This disk can only be re-attached later as a brand new disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Detaching disk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 was removed from %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Removal Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be removed from %2 at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 offline?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk offline</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been taken offline.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Offline Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be taken offline at this time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Verify Disk Online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you wish to set %1 online?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Setting disk online</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Success</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Success: %1 has been set online.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disk Online Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure: %1 could not be set online at this time.</source>
+        <source>Loading Information</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1117,15 +989,15 @@
     </message>
     <message>
         <source>Hourly</source>
-        <translation type="unfinished">De hora em hora</translation>
+        <translation>De hora em hora</translation>
     </message>
     <message>
         <source>Daily @</source>
-        <translation type="unfinished">Diariamente @</translation>
+        <translation>Diariamente @</translation>
     </message>
     <message>
         <source>h AP</source>
-        <translation type="unfinished">h AP</translation>
+        <translation>h AP</translation>
     </message>
     <message>
         <source>30 minutes</source>
@@ -1173,27 +1045,27 @@
     </message>
     <message>
         <source>Enable scheduled scrub</source>
-        <translation type="unfinished">Habilitar programação</translation>
+        <translation>Habilitar limpeza programada</translation>
     </message>
     <message>
         <source>Weekly</source>
-        <translation type="unfinished">Semanalmente</translation>
+        <translation>Semanalmente</translation>
     </message>
     <message>
         <source>Monthly</source>
-        <translation type="unfinished">Mensalmente</translation>
+        <translation>Mensalmente</translation>
     </message>
     <message>
         <source>Day of month</source>
-        <translation type="unfinished">Dia do mês</translation>
+        <translation>Dia do mês</translation>
     </message>
     <message>
         <source>Day of week</source>
-        <translation type="unfinished">Dia da semana</translation>
+        <translation>Dia da semana</translation>
     </message>
     <message>
         <source> Hour</source>
-        <translation type="unfinished"> Hora</translation>
+        <translation> Hora</translation>
     </message>
     <message>
         <source>Mondays</source>
@@ -1225,7 +1097,7 @@
     </message>
     <message>
         <source>Scrubbing checks for inconsistencies and silent corruption on your storage pool.</source>
-        <translation type="unfinished"></translation>
+        <translation>A limpeza verifica a inconsistências e a corrupção silenciosa no pool de armazenamento.</translation>
     </message>
     <message>
         <source>The oldest snapshots will be auto-pruned after reaching either the number of days or the total number of snapshots that you specify.</source>
@@ -1243,6 +1115,10 @@
         <source>Proceed directly to the advanced configuration options.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Interval of Days</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -1252,19 +1128,19 @@
     </message>
     <message>
         <source>Scrub Cancelled: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpeza cancelada: %1</translation>
     </message>
     <message>
         <source>Scrub Started: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpeza iniciada: %1</translation>
     </message>
     <message>
         <source>Resilver Finished: %1 (%2 errors)</source>
-        <translation type="unfinished"></translation>
+        <translation>Reconstrução finalizada: %1 (%2 erros)</translation>
     </message>
     <message>
         <source>%1: Currently Resilvering</source>
-        <translation type="unfinished"></translation>
+        <translation>%1&quot; Reconstrução atual</translation>
     </message>
     <message>
         <source>%1: %2</source>
