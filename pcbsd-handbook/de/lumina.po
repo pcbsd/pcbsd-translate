@@ -8,16 +8,20 @@ msgstr ""
 "Project-Id-Version: PC-BSD User Guide 11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-13 12:13-0700\n"
-"PO-Revision-Date: 2016-07-28 17:21+0000\n"
+"PO-Revision-Date: 2016-08-21 12:11+0000\n"
 "Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1471781487.000000\n"
 
 #: ../../lumina.rst:4
 msgid "The Lumina Desktop"
-msgstr ""
+msgstr "Die Lumina-Arbeitsfläche"
 
 #: ../../lumina.rst:6
 msgid "Beginning with |version|, the PC-BSD® installer installs the Lumina Desktop Environment (Lumina for short). Additional window managers can be installed using :ref:`AppCafe®`. This chapter describes the Lumina Configuration utility and the various utilities which are built into Lumina. For instructions on how to install Lumina on other operating systems or how to contribute to the Lumina Project, refer to the documentation at the `Lumina website <http://www.lumina-desktop.org>`_."
@@ -33,7 +37,7 @@ msgstr "Lumina-Funktionen beinhalten:"
 
 #: ../../lumina.rst:16
 msgid "Very little system overhead."
-msgstr ""
+msgstr "Sehr wenig Systemverwaltungsdaten."
 
 #: ../../lumina.rst:18
 msgid "Does not require any of desktop implementation frameworks such as DBUS, policykit, consolekit, systemd, or HALD."
@@ -177,7 +181,7 @@ msgstr ""
 
 #: ../../lumina.rst:125
 msgid "Right-Click Menu"
-msgstr ""
+msgstr "Rechtsklickmenü"
 
 #: ../../lumina.rst:127
 msgid "If you right-click the desktop, a menu of quick shortcuts will appear and the title of the menu will indicate the name of the current workspace. This section describes the default menu items. For instructions on how to configure the right-click panel to suit your needs, refer to the \"Desktop\" tab :ref:`Interface` section."
@@ -185,7 +189,7 @@ msgstr ""
 
 #: ../../lumina.rst:130
 msgid "By default, the right-click menu contains the following items:"
-msgstr ""
+msgstr "Standardmäßig beinhaltet das Rechtsklickmenü die folgenden Elemente:"
 
 #: ../../lumina.rst:132
 msgid "**Terminal:** used to launch a system terminal. The default is :command:`xterm`, but this can be customized."
@@ -337,7 +341,7 @@ msgstr ""
 
 #: ../../lumina.rst:283
 msgid "**Line:** adds a separator line to the panel."
-msgstr ""
+msgstr "**Linie:** fügt eine Trennlinie zur Leiste hinzu."
 
 #: ../../lumina.rst:285
 msgid "**Show Desktop:** this button will hide all open windows so that only the desktop is visible. This is useful for touch screens or small devices."
@@ -417,7 +421,7 @@ msgstr ""
 
 #: ../../lumina.rst:349
 msgid "Shortcuts"
-msgstr ""
+msgstr "Tastenkombinationen"
 
 #: ../../lumina.rst:351
 msgid "The \"Shortcuts\" tab, shown in :numref:`Figure %s: Lumina Shortcuts Configuration <lumina8a>`, is used to configure various keyboard shortcuts for system or window tasks. Most of these options relate to window and workspace management, such as moving windows between workspaces, but there are also options for changing the system audio volume or screen brightness."
@@ -521,7 +525,7 @@ msgstr ""
 
 #: ../../lumina.rst:454
 msgid "Insight File Manager"
-msgstr ""
+msgstr "Insight-Dateimanager"
 
 #: ../../lumina.rst:456
 msgid "The Insight file manager, shown in :numref:`Figure %s: Insight File Manager <lumina10>`, allows the user to easily browse and modify files on the local system on a per-directory basis. To open Insight, click the start menu and select \"Browse Files\", right-click the desktop and select \"Browse Files\", or type :command:`lumina-fm` from an xterm."
@@ -625,11 +629,11 @@ msgstr ""
 
 #: ../../lumina.rst:585
 msgid "The \"General\" tab contains the following information:"
-msgstr ""
+msgstr "Der Tab \"Allgemein\" enthält die folgenden Informationen:"
 
 #: ../../lumina.rst:587
 msgid "**Desktop Version:** indicates the version of Lumina."
-msgstr ""
+msgstr "**Arbeitsflächenversion:** zeigt die Version von Lumina an."
 
 #: ../../lumina.rst:589
 msgid "**OS Build:** indicates the operating system that was used to build this version of Lumina."

@@ -7,13 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-20 20:19-0700\n"
-"PO-Revision-Date: 2015-06-25 22:30+0000\n"
-"Last-Translator: vater <vater@chelnok.de>\n"
+"POT-Creation-Date: 2016-08-21 00:19-0700\n"
+"PO-Revision-Date: 2016-08-21 11:25+0000\n"
+"Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1471778722.000000\n"
 
 #: ../../desktops.rst:5
 msgid "Desktops"
@@ -46,6 +50,11 @@ msgstr ""
 #: ../../desktops.rst:26
 msgid "Even more desktops are available for installation from :ref:`AppCafe®`. These can be browsed in the \"X11 - Window Managers\" category. Note that if the desktop is not described in this chapter, it will not automatically be added to the login menu."
 msgstr ""
+"Weitere Arbeitsflächenumgebungen stehen zur Installation in :ref:`AppCafe®` "
+"bereit. Diese können in der Kategorie \"X11 - Fenstermanager\" durchsucht "
+"werden. Beachten Sie, dass Arbeitsflächenumgebungen, die nicht in diesem "
+"Kapitel beschrieben werden, nicht automatisch zum Anmeldemenü hinzugefügt "
+"werden."
 
 #: ../../desktops.rst:33
 msgid "Awesome"
@@ -54,10 +63,16 @@ msgstr ""
 #: ../../desktops.rst:35
 msgid "The `awesome window manager <https://awesomewm.org/>`_ is highly configurable and primarily targeted at power users who prefer to use the command line within their graphical environment."
 msgstr ""
+"Der `Awesom-Fenstermanager <https://awesomewm.org/>`_ ist hochgradig "
+"anpassbar und richtet sich primär an erfahrene Benutzer, welche die "
+"Befehlszeile innerhalb ihrer grafischen Umgebung bevorzugen."
 
 #: ../../desktops.rst:38
 msgid ":numref:`Figure %s: Awesome Window Manager on PC-BSD® <awesome1>` shows a screenshot of Awesome running on PC-BSD® |version|. The user has right-clicked the desktop in order to launch the awesome application manager."
 msgstr ""
+":numref:`Figur %s: Awesome Fenstermanager auf PC-BSD® <awesome1>` zeigt ein "
+"Bildschirmfoto von Awesome unter PC-BSD® |version|. Der Benutzer hat per "
+"Rechtsklick auf die Arbeitsfläche den Awesome-Anwendungsmanager gestartet."
 
 #: ../../desktops.rst:45
 msgid "If you click :menuselection:`awesome --> manual`, the man page for awesome will open in a terminal. If you click :menuselection:`awesome --> edit config`, the awesome configuration file will open in the :command:`nano` text editor. The numbers in the upper left corner represent virtual desktops. For example, you can have different terminals open in each virtual desktop."

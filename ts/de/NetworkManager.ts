@@ -5,7 +5,7 @@
     <name>DNSList</name>
     <message>
         <source>Public DNS servers</source>
-        <translation>öffentliche Server für DNS</translation>
+        <translation>Öffentliche DNS-Server</translation>
     </message>
     <message>
         <source>You can select one of public DNS servers instead of DNS server from your ISP</source>
