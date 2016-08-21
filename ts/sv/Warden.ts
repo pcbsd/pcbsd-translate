@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -182,7 +182,7 @@
         <translation>Priviligerade användare i ett jail kommer kunna montera och demontera zfs filsystem.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
+        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
         <translation>Fängelse root kan administrera kvoter på jailets filsystem.            </translation>
     </message>
     <message>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>Start the selected jail</source>
-        <translation>Starta det valda jail'et</translation>
+        <translation>Starta det valda jail&apos;et</translation>
     </message>
     <message>
         <source>&amp;Start Jail</source>
@@ -436,7 +436,7 @@
     </message>
     <message>
         <source>Configure the jail</source>
-        <translation>Konfiguera jail'et</translation>
+        <translation>Konfiguera jail&apos;et</translation>
     </message>
     <message>
         <source>J&amp;ail Configuration</source>
@@ -524,11 +524,11 @@
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop the selected jail</source>
-        <translation type="unfinished">Stoppa det valda jail'et</translation>
+        <translation type="unfinished">Stoppa det valda jail&apos;et</translation>
     </message>
     <message>
         <source>Stop this Jail</source>
@@ -628,7 +628,7 @@
     </message>
     <message>
         <source>Enter hostname for cloned jail</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloned jail hostname:</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source>Snapshot comment</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to revert to the snapshot:</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>Any newer snapshots will be lost, and the jail will be restarted!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reverting snapshot... Please wait...</source>
