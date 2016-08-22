@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_BR">
 <context>
@@ -376,7 +376,7 @@
     </message>
     <message>
         <source>Flag this item to not be displayed at all</source>
-        <translatorcomment>Poderia ser "Marcar este item para não ser exibido de maneira alguma"</translatorcomment>
+        <translatorcomment>Poderia ser &quot;Marcar este item para não ser exibido de maneira alguma&quot;</translatorcomment>
         <translation>Sinalizar esse item para que ele não seja exibido de forma alguma</translation>
     </message>
     <message>
@@ -806,8 +806,8 @@
         <translation>Utilitário de troca de usuário</translation>
     </message>
     <message>
-        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Caminho completo para o utilitário gráfico "troca de usuário" (pc-su, gksu, kdesu, qsu, etc..)</translation>
+        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Caminho completo para o utilitário gráfico &quot;troca de usuário&quot; (pc-su, gksu, kdesu, qsu, etc..)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -1012,8 +1012,8 @@
         <translation>EasyPBI versão %1</translation>
     </message>
     <message>
-        <source>Create PBI's quickly and easily.</source>
-        <translation>Cria PBI's de forma rápida e fácil.</translation>
+        <source>Create PBI&apos;s quickly and easily.</source>
+        <translation>Cria PBI&apos;s de forma rápida e fácil.</translation>
     </message>
     <message>
         <source>Unable to open resource file: %1</source>
