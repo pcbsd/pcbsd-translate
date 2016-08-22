@@ -459,13 +459,5 @@ Määritä WPA-asetukset ennen tallennusta!</translation>
         <source>WPA Enterprise (Configured)</source>
         <translation>WPA Enterprise (asetettu)</translation>
     </message>
-    <message>
-        <source>WPA-Enterprise is selected, but not configured!
-Please configure your WPA settings before saving!
-Valid Phase2 options are MD5 or MSCHAPV2 or GTC or OTP.</source>
-        <translation>WPA Enterprise on valittu muttei asetettu.
-Tee WPA-asetukset ennen tallennusta.
-Sallitut vaiheen 2 valinnat ovat MD5, MSCHAPV2, GTC tai OTP.</translation>
-    </message>
 </context>
 </TS>
