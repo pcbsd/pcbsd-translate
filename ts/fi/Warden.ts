@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -182,7 +182,7 @@
         <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa zfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
+        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
         <translation>Vankilan pääkäyttäjä voi hallita vankilan tiedostojärjestelmien levykiintiöitä.</translation>
     </message>
     <message>
@@ -262,7 +262,7 @@
     </message>
     <message>
         <source>Jail Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan nimi</translation>
     </message>
     <message>
         <source>999\.999\.999\.999; </source>
@@ -320,51 +320,51 @@
     </message>
     <message>
         <source>Jail Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan tiedot</translation>
     </message>
     <message>
         <source>Jail Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan tyyppi:</translation>
     </message>
     <message>
         <source>Size on Disk:</source>
-        <translation type="unfinished"></translation>
+        <translation>Koko levyllä:</translation>
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä käynnistyksen yhteydessä</translation>
     </message>
     <message>
         <source>Network Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkkotiedot</translation>
     </message>
     <message>
         <source>Active Connections:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiivisia yhteyksiä:</translation>
     </message>
     <message>
         <source>IPs:</source>
-        <translation type="unfinished"></translation>
+        <translation>IP-itä:</translation>
     </message>
     <message>
         <source>Listening on Ports:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuuntelee portteja:</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Työkalut</translation>
     </message>
     <message>
         <source>Jail Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan hallinta</translation>
     </message>
     <message>
         <source>User Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Käyttäjähallinta</translation>
     </message>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Palvelunhallinta</translation>
     </message>
     <message>
         <source>Launch Terminal</source>
@@ -512,51 +512,51 @@
     </message>
     <message>
         <source>Warden</source>
-        <translation type="unfinished">Warden</translation>
+        <translation>Vartija</translation>
     </message>
     <message>
         <source>No valid network interface specified! Select one now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelvollista verkkoliitäntää ei annettu! Valitaanko nyt?</translation>
     </message>
     <message>
         <source>Updates available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivityksiä saatavilla!</translation>
     </message>
     <message>
         <source>&amp;Stop Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pysäytä vankila</translation>
     </message>
     <message>
         <source>Stop the selected jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytä valittu vankila</translation>
     </message>
     <message>
         <source>Stop this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Pysäytä tämä vankila</translation>
     </message>
     <message>
         <source>Start this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä tämä vankila</translation>
     </message>
     <message>
         <source>Start update manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Käynnistä päivitystenhallinta</translation>
     </message>
     <message>
         <source>Toggle Autostart</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta tai poista automaattikäynnistys</translation>
     </message>
     <message>
         <source>Export jail to .wdn file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vie vankila .wdn-tiedostoon</translation>
     </message>
     <message>
         <source>Clone this Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Monista tämä vankila</translation>
     </message>
     <message>
         <source>Delete Jail</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista vankila</translation>
     </message>
     <message>
         <source>Stopping Jail</source>
@@ -596,7 +596,7 @@
     </message>
     <message>
         <source>Select warden jail package</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse vartijan vankilapaketti</translation>
     </message>
     <message>
         <source>Loading...</source>
@@ -652,7 +652,7 @@
     </message>
     <message>
         <source>Reverting snapshot... Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Palautetaan tilannekuvaa... Odota...</translation>
     </message>
     <message>
         <source>Reverting snapshot</source>
@@ -714,43 +714,43 @@
     </message>
     <message>
         <source>Traditional Jail (Secure, best for services)</source>
-        <translation type="unfinished"></translation>
+        <translation>Perinteinen vankila (turvallinen, paras palveluille)</translation>
     </message>
     <message>
         <source>Install PKGNG and PC-BSD utilities</source>
-        <translation type="unfinished"></translation>
+        <translation>Asenna PKGNG ja PC-BSD-työkalut</translation>
     </message>
     <message>
         <source>Jail Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Vankilan versio</translation>
     </message>
     <message>
         <source>Ports Jail (Insecure, allows running X applications)</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrosvankila (ei turvallinen, sallii X-sovellukset)</translation>
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation type="unfinished"></translation>
+        <translation>Linux-vankila (Linux vankilassa) – kokeellinen!</translation>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
-        <translation type="unfinished"></translation>
+        <translation>Anna seuraavaksi tämän vankilan pääkäyttäjän salasana. </translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Pääkäyttäjän salasana</translation>
     </message>
     <message>
         <source>Root Password (Confirm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pääkäyttäjän salasana (uudelleen)</translation>
     </message>
     <message>
         <source>Please select the Linux install script to use for this jail.</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse vankilan käyttämä Linux-asennusskripti</translation>
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta nyt tämän vankilan muut valinnat. Huomaa, että järjestelmän lähdekoodien sisällyttäminen edellyttää, että ne löytyvät /usr/src-puusta.</translation>
     </message>
     <message>
         <source>Jail Options</source>
