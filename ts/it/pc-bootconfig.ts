@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -24,7 +24,7 @@
     <name>QObject</name>
     <message>
         <source>This application requires administrator privileges for operation.</source>
-        <translation>Questa applicazione richiede privilegi di amministratore per l'operazione.</translation>
+        <translation>Questa applicazione richiede privilegi di amministratore per l&apos;operazione.</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -39,11 +39,11 @@
     </message>
     <message>
         <source>Boot Environments</source>
-        <translation>Ambienti d'avvio</translation>
+        <translation>Ambienti d&apos;avvio</translation>
     </message>
     <message>
         <source>Create a new boot environment</source>
-        <translation>Crea un nuovo ambiente d'avvio</translation>
+        <translation>Crea un nuovo ambiente d&apos;avvio</translation>
     </message>
     <message>
         <source>Add</source>
@@ -51,7 +51,7 @@
     </message>
     <message>
         <source>Remove the currently selected boot environment</source>
-        <translation>Elimina l'ambiente d'avvio selezionato</translation>
+        <translation>Elimina l&apos;ambiente d&apos;avvio selezionato</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -59,7 +59,7 @@
     </message>
     <message>
         <source>Make a copy of the selected boot environment</source>
-        <translation>Copia l'ambiente d'avvio selezionato</translation>
+        <translation>Copia l&apos;ambiente d&apos;avvio selezionato</translation>
     </message>
     <message>
         <source>...</source>
@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>Rename the currently selected boot environment</source>
-        <translation>Rinomina l'ambiente d'avvio selezionato</translation>
+        <translation>Rinomina l&apos;ambiente d&apos;avvio selezionato</translation>
     </message>
     <message>
         <source>Activate the selected boot environment to be used as the default during bootup</source>
-        <translation>Attiva l'ambiente di avvio selezionato da usare come predefinito all'avvio</translation>
+        <translation>Attiva l&apos;ambiente di avvio selezionato da usare come predefinito all&apos;avvio</translation>
     </message>
     <message>
         <source>Name</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Maximum auto-generated boot environments:</source>
-        <translation>Numero massimo di ambienti d'avvio generati automaticamente:</translation>
+        <translation>Numero massimo di ambienti d&apos;avvio generati automaticamente:</translation>
     </message>
     <message>
         <source>GRUB Configuration</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Amount of time before the default option is started (0 deactivates automatic booting)</source>
-        <translation>Tempo prima che l'opzione predefinita venga avviata (0 disattiva l'avvio automatico)</translation>
+        <translation>Tempo prima che l&apos;opzione predefinita venga avviata (0 disattiva l&apos;avvio automatico)</translation>
     </message>
     <message>
         <source> seconds</source>
@@ -179,7 +179,7 @@
     </message>
     <message>
         <source>&amp;Emergency Services</source>
-        <translation type="unfinished">&amp;Servizi d'emergenza</translation>
+        <translation type="unfinished">&amp;Servizi d&apos;emergenza</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -199,15 +199,15 @@
     </message>
     <message>
         <source>A Boot Environment with that name already exists, please choose a different one.</source>
-        <translation>Esiste già un'ambiente di avvio con quel nome, si prega di sceglierne uno differente.</translation>
+        <translation>Esiste già un&apos;ambiente di avvio con quel nome, si prega di sceglierne uno differente.</translation>
     </message>
     <message>
         <source>Boot Environment names may only be comprised of letters and numbers</source>
-        <translation>I nomi dell'ambiente d'avvio possono contenere solo lettere o cifre</translation>
+        <translation>I nomi dell&apos;ambiente d&apos;avvio possono contenere solo lettere o cifre</translation>
     </message>
     <message>
         <source>Performing Boot Environment Changes. Please Wait.</source>
-        <translation>Effettuando i cambiamenti all'ambiente d'avvio. Attendere.</translation>
+        <translation>Effettuando i cambiamenti all&apos;ambiente d&apos;avvio. Attendere.</translation>
     </message>
     <message>
         <source>Working</source>
@@ -219,47 +219,47 @@
     </message>
     <message>
         <source>Choose a name for the new boot environment</source>
-        <translation>Scegli un nome per il nuovo ambiente d'avvio</translation>
+        <translation>Scegli un nome per il nuovo ambiente d&apos;avvio</translation>
     </message>
     <message>
         <source>Running Boot Environment</source>
-        <translation>Ambiente d'avvio in esecuzione</translation>
+        <translation>Ambiente d&apos;avvio in esecuzione</translation>
     </message>
     <message>
         <source>You cannot make a copy of the currently running boot environment!</source>
-        <translation>Non puoi copiare l'ambiente d'avvio attualmente in esecuzione!</translation>
+        <translation>Non puoi copiare l&apos;ambiente d&apos;avvio attualmente in esecuzione!</translation>
     </message>
     <message>
         <source>You cannot rename a boot environment that you are currently running!</source>
-        <translation>Non puoi rinominare un ambiente d'avvio attualmente in esecuzione!</translation>
+        <translation>Non puoi rinominare un ambiente d&apos;avvio attualmente in esecuzione!</translation>
     </message>
     <message>
         <source>Default Boot Environment</source>
-        <translation>Ambiente d'avvio predefinito</translation>
+        <translation>Ambiente d&apos;avvio predefinito</translation>
     </message>
     <message>
         <source>You cannot rename the boot environment that is currently set as the default!</source>
-        <translation>Non puoi rinominare un ambiente d'avvio che è stato impostato come predefinito!</translation>
+        <translation>Non puoi rinominare un ambiente d&apos;avvio che è stato impostato come predefinito!</translation>
     </message>
     <message>
         <source>Choose a new name for this boot environment</source>
-        <translation>Scegli un nuovo nome per questo ambiente d'avvio</translation>
+        <translation>Scegli un nuovo nome per questo ambiente d&apos;avvio</translation>
     </message>
     <message>
         <source>Single Boot Environment</source>
-        <translation>Ambiente d'avvio singolo</translation>
+        <translation>Ambiente d&apos;avvio singolo</translation>
     </message>
     <message>
         <source>You cannot remove your only boot environment!</source>
-        <translation>Non puoi rimuovere il tuo unico ambiente d'avvio!</translation>
+        <translation>Non puoi rimuovere il tuo unico ambiente d&apos;avvio!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that you are currently running!</source>
-        <translation>Non puoi rimuovere l'ambiente d'avvio attualmente in esecuzione!</translation>
+        <translation>Non puoi rimuovere l&apos;ambiente d&apos;avvio attualmente in esecuzione!</translation>
     </message>
     <message>
         <source>You cannot remove the boot environment that is currently set as the default!</source>
-        <translation>Non puoi rimuovere l'ambiente d'avvio che è stato impostato come predefinito!</translation>
+        <translation>Non puoi rimuovere l&apos;ambiente d&apos;avvio che è stato impostato come predefinito!</translation>
     </message>
     <message>
         <source>Verify BE Removal</source>
@@ -267,7 +267,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete the following boot environment?</source>
-        <translation>Sei sicuro di voler eliminare il seguente ambiente d'avvio?</translation>
+        <translation>Sei sicuro di voler eliminare il seguente ambiente d&apos;avvio?</translation>
     </message>
     <message>
         <source>Select a GRUB Theme File</source>
