@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -40,7 +40,7 @@
     </message>
     <message>
         <source>Login to the system with the current user and password</source>
-        <translation>Accedi al sistema con l'utente e password attuale</translation>
+        <translation>Accedi al sistema con l&apos;utente e password attuale</translation>
     </message>
     <message>
         <source>Password</source>
@@ -52,7 +52,7 @@
     </message>
     <message>
         <source>Login password for the selected user</source>
-        <translation>Password d'accesso per l'utente attuale</translation>
+        <translation>Password d&apos;accesso per l&apos;utente attuale</translation>
     </message>
     <message>
         <source>Available users</source>
@@ -76,7 +76,7 @@
     </message>
     <message>
         <source>Please connect your PersonaCrypt device to start login procedures.</source>
-        <translation>Si prega di collegarsi sul dispositivo PersonaCrypt per avviare le procedure d'accesso.</translation>
+        <translation>Si prega di collegarsi sul dispositivo PersonaCrypt per avviare le procedure d&apos;accesso.</translation>
     </message>
     <message>
         <source>Stealth Session</source>
@@ -84,15 +84,7 @@
     </message>
     <message>
         <source>Use a temporary home directory which is deleted on log out)</source>
-        <translation>Usa una cartella personale temporanea che sarà eliminata all'uscita)</translation>
-    </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Ricarica</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Ricarica gli utenti disponibili</translation>
+        <translation>Usa una cartella personale temporanea che sarà eliminata all&apos;uscita)</translation>
     </message>
 </context>
 <context>
@@ -169,10 +161,6 @@
         <source>Change locale (%1)</source>
         <translation>Cambia lingua (%1)</translation>
     </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Ricarica PCDM</translation>
-    </message>
 </context>
 <context>
     <name>loginDelay</name>
@@ -186,7 +174,7 @@
     </message>
     <message>
         <source>Cancel Login</source>
-        <translation>Annulla l'accesso</translation>
+        <translation>Annulla l&apos;accesso</translation>
     </message>
     <message>
         <source>Login Now</source>
