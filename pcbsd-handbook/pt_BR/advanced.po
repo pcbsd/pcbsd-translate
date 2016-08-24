@@ -7,17 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-24 04:19-0700\n"
+"POT-Creation-Date: 2016-08-24 08:19-0700\n"
 "PO-Revision-Date: 2016-08-24 18:23+0000\n"
 "Last-Translator: Manhfe <manfhe@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1472063009.000000\n"
 
 #: ../../advanced.rst:5
 msgid "Advanced Installation Topics"
@@ -168,7 +164,6 @@ msgstr ""
 "A próxima tela, como demonstra na `Imagem :numref: %s: Encriptação Total do "
 "Disco <text7>`."
 
-# Instrução redundante. Poderia ser mais especifico para montar/conectar disco/partição.
 #: ../../advanced.rst:98
 msgid "This screen provides the option to encrypt the selected disk(s) with the FreeBSD `GELI <https://www.freebsd.org/cgi/man.cgi?query=geli/qgit/>`_ framework. If you keep the default of *Yes* and press enter, you will be prompted to enter and confirm a passphrase. You will be prompted to enter this passphrase whenever you boot into PC-BSD®. This means that if someone else boots your computer, they will not be able to boot into PC-BSD® if they do not know your passphrase. **However, if you forget your passphrase, you will not be able to access PC-BSD® either.** For these reasons, it is important to choose a good passphrase that other users will not guess and which you will not forget. Passphrases are case-sensitive and can contain spaces. The passphrase should be memorable to you, such as a line from a song or piece of literature, but hard to guess in that people who know you should not be able to guess your favorite line from a song or piece of literature."
 msgstr ""
