@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.1.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-24 20:19-0700\n"
-"PO-Revision-Date: 2016-08-25 11:04+0000\n"
+"POT-Creation-Date: 2016-08-25 00:20-0700\n"
+"PO-Revision-Date: 2016-08-25 12:35+0000\n"
 "Last-Translator: Manhfe <manfhe@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1472123040.000000\n"
+"X-POOTLE-MTIME: 1472128530.000000\n"
 
 #: ../../advanced.rst:5
 msgid "Advanced Installation Topics"
@@ -213,28 +213,28 @@ msgstr "confirmar a senha do *root* (colocar a mesma)"
 #: ../../advanced.rst:117
 msgid "the username to use when logging into the server (as *root* logins are discouraged)"
 msgstr ""
-"o nome do usuário para usar quando fazer login no servidor (fazer logins "
-"como *root* não é recomendado)"
+"o nome do usuário para quando acessar o servidor (fazer logins como *root* "
+"não é recomendado)"
 
 #: ../../advanced.rst:119
 msgid "the password to use when logging into the server"
-msgstr ""
+msgstr "a senha para acessar o servidor"
 
 #: ../../advanced.rst:121
 msgid "confirm the password to use when logging into the server"
-msgstr ""
+msgstr "confirmar a senha de acesso do servidor"
 
 #: ../../advanced.rst:123
 msgid "the real name for the user who logs into the server (can contain spaces)"
-msgstr ""
+msgstr "o nome real para o usuário que acessa o servidor (pode conter espaços)"
 
 #: ../../advanced.rst:125
 msgid "the default shell for the user's login"
-msgstr ""
+msgstr "a interface de linha de comando padrão para o usuário"
 
 #: ../../advanced.rst:127
 msgid "the hostname for the server"
-msgstr ""
+msgstr "o nome para o servidor"
 
 #: ../../advanced.rst:129
 msgid "whether or not you wish to enable networking. If you press \"Yes\", you can either select \"auto\" to enable DHCP on all interfaces or select an interface to statically configure. If you select an interface, you will be prompted to enter the IP address, subnet mask, IP address of the DNS server, and the IP address of the default gateway."
