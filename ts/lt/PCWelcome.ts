@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="lt">
 <context>
     <name>welcomeWizard</name>
     <message>
         <source>Welcome to PC-BSD</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveiki atvykę į PC-BSD</translation>
     </message>
     <message>
         <source>If you are new to PC-BSD, please take a few moments to read through the following getting started pages for a quick introduction of your new Operating System. </source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>If your computer is connected via network cable it will be auto-configured with DHCP. Wireless users may search for and connect to wifi networks by clicking the wireless tray icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeigu jūsų kompiuteris yra prijungtas per tinklo kabelį, jam bus automatiškai konfigūruojama DHCP. Belaidžio ryšio naudotojai gali ieškoti ir prisijungti prie belaidžių tinklų, spusteldami dėkle ant belaidžio ryšio piktogramos:</translation>
     </message>
     <message>
         <source>Looking for additional software? PC-BSD includes the &quot;AppCafe&quot; which lets you search for and install applications with ease.</source>
@@ -37,47 +37,47 @@
     </message>
     <message>
         <source>Don&apos;t show on next startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerodyti kito paleidimo metu</translation>
     </message>
     <message>
         <source>&amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kitas</translation>
     </message>
     <message>
         <source>&amp;Back</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atgal</translation>
     </message>
     <message>
         <source>&amp;Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Baigti</translation>
     </message>
     <message>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sveiki!</translation>
     </message>
     <message>
         <source>Getting Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Prisijungimas prie tinklo</translation>
     </message>
     <message>
         <source>Install Applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Įdiekite programas</translation>
     </message>
     <message>
         <source>Configure Your System</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigūruokite savo sistemą</translation>
     </message>
     <message>
         <source>Preserve Your Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Išsaugokite savo failus</translation>
     </message>
     <message>
         <source>Stay up to Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Išlikite atsinaujinę</translation>
     </message>
     <message>
         <source>Get Involved</source>
-        <translation type="unfinished"></translation>
+        <translation>Įsitraukite</translation>
     </message>
 </context>
 </TS>
