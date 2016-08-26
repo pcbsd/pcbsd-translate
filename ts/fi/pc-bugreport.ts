@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -36,7 +36,7 @@
         <translation>PC-BSD:n ohjelmistot (PBI)</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using FreeBSD's Bugzilla mechanism</source>
+        <source>1. Submit a bug report using FreeBSD&apos;s Bugzilla mechanism</source>
         <translation>1. Jätä vikaraportti FreeBSD:n Bugzilla-työkalulla</translation>
     </message>
     <message>
@@ -50,7 +50,7 @@ Listalle voi liittyä tai sen arkistoja lukea alla olevalta verkkosivulta.</tran
         <translation>X.org-palvelin</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using using freedesktop's bugzilla mechanism</source>
+        <source>1. Submit a bug report using using freedesktop&apos;s bugzilla mechanism</source>
         <translation>1. Jätä vikaraportti freedesktopin Bugzilla-työkalulla</translation>
     </message>
     <message>
@@ -186,7 +186,7 @@ Listalle voi liittyä tai sen arkistoja lukea alla olevalta verkkosivulta.</tran
         <translation>2. Lähetä sähköpostia FreeBSD:n bugs-postilistalle. Listalle voi liittyä ja sen arkistoja lukea seuraavalta verkkosivulta.</translation>
     </message>
     <message>
-        <source>1. Submit a bug report using using PC-BSD's bug tracker</source>
+        <source>1. Submit a bug report using using PC-BSD&apos;s bug tracker</source>
         <translation>1. Jätä vikailmoitus PC-BSD:n vikajäljittimellä.</translation>
     </message>
 </context>
