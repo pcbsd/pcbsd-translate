@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -182,7 +182,7 @@
         <translation>Vankilan etuoikeutetut käyttäjät voivat liittää ja irrottaa zfs-tiedostojärjestelmän.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
+        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
         <translation>Vankilan pääkäyttäjä voi hallita vankilan tiedostojärjestelmien levykiintiöitä.</translation>
     </message>
     <message>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Select a file to use for the application icon (required for shortcuts)</source>
-        <translation>Seleziona un file da utilizzare per l&apos;icona dell&apos;applicazione (richiesto per i collegamenti)</translation>
+        <translation>Seleziona un file da utilizzare per l'icona dell'applicazione (richiesto per i collegamenti)</translation>
     </message>
     <message>
         <source>No Specific Icon!</source>
@@ -276,7 +276,7 @@
     </message>
     <message>
         <source>Application license(s)</source>
-        <translation>Licenza/e dell&apos;applicazione</translation>
+        <translation>Licenza/e dell'applicazione</translation>
     </message>
     <message>
         <source>+ Packages</source>
@@ -292,7 +292,7 @@
     </message>
     <message>
         <source>Short description of the application</source>
-        <translation>Breve descrizione dell&apos;applicazione</translation>
+        <translation>Breve descrizione dell'applicazione</translation>
     </message>
     <message>
         <source>Description</source>
@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>Full description of the application</source>
-        <translation>Descrizione completa dell&apos;applicazione</translation>
+        <translation>Descrizione completa dell'applicazione</translation>
     </message>
     <message>
         <source>XDG Shortcuts</source>
@@ -328,11 +328,11 @@
     </message>
     <message>
         <source>Refresh the current list (useful if files recently modified outside of EasyPBI)</source>
-        <translation>Aggiorna l&apos;elenco corrente (utile se files recentemente modificati al di fuori di EasyPBI)</translation>
+        <translation>Aggiorna l'elenco corrente (utile se files recentemente modificati al di fuori di EasyPBI)</translation>
     </message>
     <message>
         <source>Delete the current item from the PBI module</source>
-        <translation>Cancella l&apos;item corrente dal modulo PBI</translation>
+        <translation>Cancella l'item corrente dal modulo PBI</translation>
     </message>
     <message>
         <source>Begin creating a new XDG entry</source>
@@ -344,7 +344,7 @@
     </message>
     <message>
         <source>Visible name for the item</source>
-        <translation>Nome visibile per l&apos;item</translation>
+        <translation>Nome visibile per l'item</translation>
     </message>
     <message>
         <source>Executable</source>
@@ -360,15 +360,15 @@
     </message>
     <message>
         <source>Custom Icon Path</source>
-        <translation>Percorso dell&apos;icona personalizzata</translation>
+        <translation>Percorso dell'icona personalizzata</translation>
     </message>
     <message>
         <source>Application Icon</source>
-        <translation>Icona dell&apos;applicazione</translation>
+        <translation>Icona dell'applicazione</translation>
     </message>
     <message>
         <source>Start the application in a terminal session</source>
-        <translation>Avvia l&apos;applicazione in una sessione di terminale</translation>
+        <translation>Avvia l'applicazione in una sessione di terminale</translation>
     </message>
     <message>
         <source>Open in Terminal</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>Application needs administrator privileges to run</source>
-        <translation>Per essere eseguita l&apos;applicazione richiede i privilegi di amministratore</translation>
+        <translation>Per essere eseguita l'applicazione richiede i privilegi di amministratore</translation>
     </message>
     <message>
         <source>Requires Root</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>Menu category for the item to be located.</source>
-        <translation>Categoria del menù per l&apos;item da collocare</translation>
+        <translation>Categoria del menù per l'item da collocare</translation>
     </message>
     <message>
         <source>Possible Menu categories</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>Save the item as currently shown</source>
-        <translation>Salva l&apos;item come indicato</translation>
+        <translation>Salva l'item come indicato</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -528,7 +528,7 @@
     </message>
     <message>
         <source>Open up the EasyPBI settings editor</source>
-        <translation>Apri l&apos;editor delle impostazioni di EasyPBI</translation>
+        <translation>Apri l'editor delle impostazioni di EasyPBI</translation>
     </message>
     <message>
         <source>Shift+S</source>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>Fetch/update the FreeBSD ports tree</source>
-        <translation>Recupera/aggiorna tutto l&apos;albero dei port di FreeBSD</translation>
+        <translation>Recupera/aggiorna tutto l'albero dei port di FreeBSD</translation>
     </message>
     <message>
         <source>New</source>
@@ -640,7 +640,7 @@
     </message>
     <message>
         <source>Installation Scripts</source>
-        <translation>Script d&apos;installazione</translation>
+        <translation>Script d'installazione</translation>
     </message>
     <message>
         <source>Permissions Error</source>
@@ -648,7 +648,7 @@
     </message>
     <message>
         <source>There was an error trying to create the local EasyPBI directory structure. Please check the permissions for your home directory and restart EasyPBI.</source>
-        <translation>C&apos;è stato un errore durante la creazione della struttura di cartelle per EasyPBI. Si prega di controllare i permessi della tua cartella utente e riavviare EasyPBI</translation>
+        <translation>C'è stato un errore durante la creazione della struttura di cartelle per EasyPBI. Si prega di controllare i permessi della tua cartella utente e riavviare EasyPBI</translation>
     </message>
     <message>
         <source>Resources Unavailable</source>
@@ -805,12 +805,12 @@
         <translation>Cambia Strumento utente</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
         <translation>Percorso completo dello strumento grafico di cambio utente  (pc-su, gksu, kdesu, qsu, ecc..)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
-        <translation>Sfoglia il sistema per l&apos;eseguibile locale.</translation>
+        <translation>Sfoglia il sistema per l'eseguibile locale.</translation>
     </message>
     <message>
         <source>Select</source>
@@ -874,7 +874,7 @@
     </message>
     <message>
         <source>Select Default Icon FIle</source>
-        <translation>Seleziona l&apos;icona predefinita</translation>
+        <translation>Seleziona l'icona predefinita</translation>
     </message>
     <message>
         <source>PNG Images (*.png)</source>
@@ -969,7 +969,7 @@
     </message>
     <message>
         <source>TextBox (user-supplied text)</source>
-        <translation>TextBox (testo fornito dall&apos;utente)</translation>
+        <translation>TextBox (testo fornito dall'utente)</translation>
     </message>
     <message>
         <source>%1 (saved as: %2)</source>
@@ -1011,7 +1011,7 @@
         <translation>Versione EasyPBI %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Genera PBI in maniera veloce e semplice.</translation>
     </message>
     <message>
