@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -45,7 +45,7 @@
         <translation>Salasana (uudelleen)</translation>
     </message>
     <message>
-        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
         <translation>Järjestelmän pääkäyttäjän (”root”) salasanalla voi tehdä muutoksia järjestelmään; tämä salasana tulisi pitää salassa. </translation>
     </message>
     <message>
@@ -70,8 +70,8 @@
         <translation>Etsi &amp;uudelleen</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
-        <translation>Löydettiin seuraavat langattomat verkot. Valitse se, johon haluat yhdistää. Voit myös ohittaa vaiheen valitsemalla &apos;”Seuraava”.</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <translation>Löydettiin seuraavat langattomat verkot. Valitse se, johon haluat yhdistää. Voit myös ohittaa vaiheen valitsemalla '”Seuraava”.</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
