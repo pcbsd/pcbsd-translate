@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ja">
 <context>
@@ -30,9 +30,8 @@
     </message>
     <message>
         <source>Unmount</source>
-        <translatorcomment>字数が4文字しか入れられないので、「マウント解除」から変更する。</translatorcomment>
         <translation>取り外し</translation>
-    </message>
+    <translatorcomment>字数が4文字しか入れられないので、「マウント解除」から変更する。</translatorcomment></message>
     <message>
         <source>Mount</source>
         <translation>マウント</translation>
