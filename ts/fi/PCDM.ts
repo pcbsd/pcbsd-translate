@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -86,14 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Käytä väliaikaista kotikansiota, joka poistetaan ulos kirjauduttaessa.)</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>Päivitä</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translation>Päivitä saatavilla olevat käyttäjät</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -168,10 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Vaihda maa-asetuksia (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translation>Päivitä PCDM</translation>
     </message>
 </context>
 <context>
