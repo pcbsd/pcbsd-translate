@@ -86,6 +86,14 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>Lietojiet pagaidu mājas katalogu, kas tiks izdzēsts pie atteikšanās no sistēmas)</translation>
     </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Atsvaidzināt</translation>
+    </message>
+    <message>
+        <source>Refresh available users</source>
+        <translation>Atsvaidzināt pieejamos lietotājus</translation>
+    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -160,6 +168,10 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>Mainīt lokalizāciju (%1)</translation>
+    </message>
+    <message>
+        <source>Refresh PCDM</source>
+        <translation>Atsvaidzināt PCDM</translation>
     </message>
 </context>
 <context>
