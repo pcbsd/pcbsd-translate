@@ -6,15 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-27 20:19-0700\n"
-"PO-Revision-Date: 2016-08-09 17:20+0000\n"
+"POT-Creation-Date: 2016-08-28 00:20-0700\n"
+"PO-Revision-Date: 2016-08-28 09:04+0000\n"
 "Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.12.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1472375057.000000\n"
 
 #: ../../advanced.rst:5
 #, fuzzy
@@ -143,11 +145,11 @@ msgstr ""
 
 #: ../../advanced.rst:113
 msgid "the *root* password"
-msgstr ""
+msgstr "das *root*-Passwort"
 
 #: ../../advanced.rst:115
 msgid "confirm the *root* password (enter the same value)"
-msgstr ""
+msgstr "bestätigen Sie das *root*-Passwort (gleichen Wert eingeben)"
 
 #: ../../advanced.rst:117
 msgid "the username to use when logging into the server (as *root* logins are discouraged)"
@@ -171,7 +173,7 @@ msgstr ""
 
 #: ../../advanced.rst:127
 msgid "the hostname for the server"
-msgstr ""
+msgstr "der Hostname für den Server"
 
 #: ../../advanced.rst:129
 msgid "whether or not you wish to enable networking. If you press \"Yes\", you can either select \"auto\" to enable DHCP on all interfaces or select an interface to statically configure. If you select an interface, you will be prompted to enter the IP address, subnet mask, IP address of the DNS server, and the IP address of the default gateway."
@@ -260,7 +262,7 @@ msgstr ""
 
 #: ../../advanced.rst:214
 msgid "Using the System Utilities Menu"
-msgstr ""
+msgstr "Verwendung des Menüs Systemdienstprogramme"
 
 #: ../../advanced.rst:216
 msgid "The text installer contains some handy tools for troubleshooting and fixing an existing PC-BSD® or TrueOS® installation."
@@ -293,7 +295,7 @@ msgstr ""
 
 #: ../../advanced.rst:246
 msgid "Install a Server"
-msgstr ""
+msgstr "Einen Server installieren"
 
 #: ../../advanced.rst:248
 msgid "The :ref:`System Selection Screen` of the PC-BSD® installer can be used to install TrueOS®, a FreeBSD-based server operating system, rather than a PC-BSD® desktop operating system."
@@ -379,10 +381,14 @@ msgstr ""
 #: ../../advanced.rst:316
 msgid "**AUTO-DHCP:** will configure every active interface for DHCP and for IPv4"
 msgstr ""
+"**AUTO-DHCP:** wird jede aktive Schnittstelle für DHCP und für IPv4 "
+"konfigurieren"
 
 #: ../../advanced.rst:318
 msgid "**IPv6-SLAAC:** will configure every active interface for DHCP and for IPv6"
 msgstr ""
+"**IPv6-SLAAC:** wird jede aktive Schnittstelle für DHCP und für IPv6 "
+"konfigurieren"
 
 #: ../../advanced.rst:320
 msgid "Alternately, select the device name for the interface that you wish to manually configure and input the IPv4 and/or IPv6 addressing information. When finished, click \"Next\" to proceed to the screen shown in :numref:`Figure %s: Configure Remote Access to AppCafe <server6>`."
@@ -470,7 +476,7 @@ msgstr ""
 
 #: ../../advanced.rst:410
 msgid "GRUB Boot Loader"
-msgstr ""
+msgstr "GRUB-Bootloader"
 
 #: ../../advanced.rst:412
 msgid "PC-BSD® uses a customized version of the GRUB boot-loader to provide ZFS boot environment support, which is used as part of the system updating mechanism. PC-BSD® requires that its version of GRUB be installed as the primary boot-loader on the disk. **Using another boot-loader will break this critical functionality, and is strongly discouraged.**"
@@ -486,7 +492,7 @@ msgstr ""
 
 #: ../../advanced.rst:423
 msgid "name of the operating system"
-msgstr ""
+msgstr "Name des Betriebssystems"
 
 #: ../../advanced.rst:425
 msgid "output of the :command:`gpart show` and :command:`glabel list` commands"
@@ -497,9 +503,8 @@ msgid "any entries you added to :file:`/usr/local/etc/grub.d/40_custom`"
 msgstr ""
 
 #: ../../advanced.rst:433
-#, fuzzy
 msgid "Creating an Automated Installation"
-msgstr ":ref:`Eine automatisierte Installation erstellen`"
+msgstr "Eine automatisierte Installation erstellen"
 
 #: ../../advanced.rst:435
 msgid "PC-BSD® provides a set of Bourne shell scripts that allow advanced users to create automatic or customized PC-BSD® installations. :command:`pc-sysinstall` is the name of the master script; it reads a customizable configuration file and uses dozens of backend scripts to perform the installation. You can read more about this utility by typing **man pc-sysinstall**."
@@ -544,6 +549,8 @@ msgstr ""
 #: ../../advanced.rst:464
 msgid "**Table 5.5a: Available Variables for Customizing a PC-BSD® Installation**"
 msgstr ""
+"**Tabelle 5.5a: Verfügbare Variablen zum Anpassen einer PC-"
+"BSD®-Installation**"
 
 #: ../../advanced.rst:467
 #: ../../advanced.rst:621
@@ -558,15 +565,15 @@ msgstr ""
 #: ../../advanced.rst:467
 #: ../../advanced.rst:621
 msgid "Description"
-msgstr ""
+msgstr "Beschreibung"
 
 #: ../../advanced.rst:469
 msgid "hostname="
-msgstr ""
+msgstr "Hostname="
 
 #: ../../advanced.rst:469
 msgid "should be unique for the network"
-msgstr ""
+msgstr "sollte für das Netzwerk einzigartig sein"
 
 #: ../../advanced.rst:469
 msgid "optional as installer will auto\\-generate a hostname if empty"
@@ -582,7 +589,7 @@ msgstr ""
 
 #: ../../advanced.rst:471
 msgid "sets the installation type"
-msgstr ""
+msgstr "legt die Installationsart fest"
 
 #: ../../advanced.rst:473
 msgid "installLocation="
@@ -605,7 +612,7 @@ msgstr ""
 #: ../../advanced.rst:577
 #: ../../advanced.rst:625
 msgid "\"yes\" or \"no\""
-msgstr ""
+msgstr "\"ja\" oder \"nein\""
 
 #: ../../advanced.rst:475
 msgid "set to \"no\" for automated installs without user input"
@@ -613,7 +620,7 @@ msgstr ""
 
 #: ../../advanced.rst:477
 msgid "netDev="
-msgstr ""
+msgstr "netDev="
 
 #: ../../advanced.rst:477
 msgid "\"AUTO-DHCP\" or FreeBSD interface name"
@@ -625,7 +632,7 @@ msgstr ""
 
 #: ../../advanced.rst:479
 msgid "netIP="
-msgstr ""
+msgstr "netIP="
 
 #: ../../advanced.rst:479
 msgid "IP address of interface used during installation"
@@ -682,7 +689,7 @@ msgstr ""
 
 #: ../../advanced.rst:489
 msgid "IP address of interface or \"DHCP\""
-msgstr ""
+msgstr "IP-Adresse oder Schnittstelle für \"DHCP\""
 
 #: ../../advanced.rst:489
 #: ../../advanced.rst:491
@@ -725,7 +732,7 @@ msgstr ""
 
 #: ../../advanced.rst:499
 msgid "partition="
-msgstr ""
+msgstr "Partition="
 
 #: ../../advanced.rst:499
 msgid "\"all\", \"free\", \"s1\", \"s2\", \"s3\", \"s4\", or \"image\""
@@ -737,11 +744,11 @@ msgstr ""
 
 #: ../../advanced.rst:501
 msgid "\"MBR\" or \"GPT\""
-msgstr ""
+msgstr "\"MBR\" oder \"GPT\""
 
 #: ../../advanced.rst:501
 msgid "partition scheme type"
-msgstr ""
+msgstr "Partitionsschematyp"
 
 #: ../../advanced.rst:503
 msgid "mirror="
@@ -749,7 +756,7 @@ msgstr ""
 
 #: ../../advanced.rst:503
 msgid "FreeBSD disk device name (e.g. *ad1*)"
-msgstr ""
+msgstr "FreeBSD-Festplattenname (z.B. *ad1*)"
 
 #: ../../advanced.rst:503
 msgid "sets the target disk for the mirror (i.e. the second disk)"
@@ -769,7 +776,7 @@ msgstr ""
 
 #: ../../advanced.rst:507
 msgid "bootManager="
-msgstr ""
+msgstr "bootManager="
 
 #: ../../advanced.rst:507
 msgid "\"none\", \"bsd\", or \"GRUB\""
@@ -805,7 +812,7 @@ msgstr ""
 
 #: ../../advanced.rst:513
 msgid "password value"
-msgstr ""
+msgstr "Passwortwert"
 
 #: ../../advanced.rst:513
 msgid "at boot time, system will prompt for this password in order to mount the associated GELI encrypted partition"
@@ -829,7 +836,7 @@ msgstr ""
 
 #: ../../advanced.rst:517
 msgid "source to be used for installation"
-msgstr ""
+msgstr "für die Installation verwendete Quelle"
 
 #: ../../advanced.rst:519
 msgid "localPath="
@@ -849,7 +856,7 @@ msgstr ""
 
 #: ../../advanced.rst:521
 msgid "\"PCBSD\" or \"FreeBSD\""
-msgstr ""
+msgstr "\"PCBSD\" oder \"FreeBSD\""
 
 #: ../../advanced.rst:521
 msgid "determines whether this is a desktop or a server install"
@@ -861,7 +868,7 @@ msgstr ""
 
 #: ../../advanced.rst:523
 msgid "e.g. \"fbsd-release.tbz\""
-msgstr ""
+msgstr "z.B. \"fbsd-release.tbz\""
 
 #: ../../advanced.rst:523
 msgid "only set if using a customized installer archive"
@@ -923,7 +930,7 @@ msgstr ""
 #: ../../advanced.rst:587
 #: ../../advanced.rst:593
 msgid "username"
-msgstr ""
+msgstr "Benutzername"
 
 #: ../../advanced.rst:533
 #: ../../advanced.rst:535
@@ -937,15 +944,15 @@ msgstr ""
 
 #: ../../advanced.rst:535
 msgid "IP address of rsync server"
-msgstr ""
+msgstr "IP-Adresse des rsync-Servers"
 
 #: ../../advanced.rst:537
 msgid "rsyncPort="
-msgstr ""
+msgstr "rsyncPort="
 
 #: ../../advanced.rst:537
 msgid "port number"
-msgstr ""
+msgstr "Portnummer"
 
 #: ../../advanced.rst:539
 msgid "installComponents="
@@ -953,7 +960,7 @@ msgstr ""
 
 #: ../../advanced.rst:539
 msgid "e.g. \"amarok,firefox,ports\""
-msgstr ""
+msgstr "z.B. \"amarok,firefox,ports\""
 
 #: ../../advanced.rst:539
 msgid "components must exist in */PCBSD/pc-sysinstall/components/*; typically, *installPackages=* is used instead"
@@ -965,7 +972,7 @@ msgstr ""
 
 #: ../../advanced.rst:541
 msgid "e.g. \"Xorg cabextract"
-msgstr ""
+msgstr "z.B. \"Xorg cabextract"
 
 #: ../../advanced.rst:541
 msgid "list of traditional or pkg packages to install; requires *pkgExt=*"
@@ -977,7 +984,7 @@ msgstr ""
 
 #: ../../advanced.rst:543
 msgid "\".txz\" or \".tbz\""
-msgstr ""
+msgstr "\".txz\" oder \".tbz\""
 
 #: ../../advanced.rst:543
 msgid "specify the extension used by the type of package to be installed"
@@ -997,7 +1004,7 @@ msgstr ""
 
 #: ../../advanced.rst:547
 msgid "password"
-msgstr ""
+msgstr "Passwort"
 
 #: ../../advanced.rst:547
 msgid "set the root password of the installed system to the specified string"
@@ -1034,11 +1041,11 @@ msgstr ""
 
 #: ../../advanced.rst:553
 msgid "description"
-msgstr ""
+msgstr "Beschreibung"
 
 #: ../../advanced.rst:553
 msgid "description text can include spaces"
-msgstr ""
+msgstr "Beschreibungstext darf Leerzeichen enthalten"
 
 #: ../../advanced.rst:555
 msgid "userPass="
@@ -1046,7 +1053,7 @@ msgstr ""
 
 #: ../../advanced.rst:555
 msgid "password of user"
-msgstr ""
+msgstr "Passwort des Benutzers"
 
 #: ../../advanced.rst:557
 msgid "userEncPass"
@@ -1062,7 +1069,7 @@ msgstr ""
 
 #: ../../advanced.rst:559
 msgid "e.g. \"/bin/csh\""
-msgstr ""
+msgstr "z.B. \"/bin/csh\""
 
 #: ../../advanced.rst:559
 msgid "path to default shell"
@@ -1078,7 +1085,7 @@ msgstr ""
 
 #: ../../advanced.rst:561
 msgid "path to home directory"
-msgstr ""
+msgstr "Pfad zum persönlichen Verzeichnis"
 
 #: ../../advanced.rst:563
 msgid "defaultGroup="
@@ -1090,7 +1097,7 @@ msgstr ""
 
 #: ../../advanced.rst:563
 msgid "default group"
-msgstr ""
+msgstr "Standardgruppe"
 
 #: ../../advanced.rst:565
 msgid "userGroups="
@@ -1131,7 +1138,7 @@ msgstr ""
 
 #: ../../advanced.rst:571
 msgid "full path to script"
-msgstr ""
+msgstr "Vollständiger Pfad zum Skript"
 
 #: ../../advanced.rst:571
 msgid "runs specified script within chroot of the installed system, after the installation is complete"
@@ -1151,7 +1158,7 @@ msgstr ""
 
 #: ../../advanced.rst:575
 msgid "e.g. \"America/New_York\""
-msgstr ""
+msgstr "z.B. \"Amerika/New_York\""
 
 #: ../../advanced.rst:575
 msgid "location must exist in :file:`/usr/share/zoneinfo/`"
@@ -1192,7 +1199,7 @@ msgstr ""
 
 #: ../../advanced.rst:583
 msgid "e.g. \"pc104\""
-msgstr ""
+msgstr "z.B. \"pc104\""
 
 #: ../../advanced.rst:583
 msgid "updates the system's Xorg config to set the keyboard model"
@@ -1220,11 +1227,11 @@ msgstr ""
 
 #: ../../advanced.rst:589
 msgid "sshHost="
-msgstr ""
+msgstr "sshHost="
 
 #: ../../advanced.rst:589
 msgid "hostname or IP address"
-msgstr ""
+msgstr "Hostname oder IP-Adresse"
 
 #: ../../advanced.rst:589
 msgid "the address of the remote server when using *installMode=zfsrestore*"
@@ -1232,11 +1239,12 @@ msgstr ""
 
 #: ../../advanced.rst:591
 msgid "sshPort="
-msgstr ""
+msgstr "sshPort="
 
+# Missing dot after "g" in source string.
 #: ../../advanced.rst:591
 msgid "e.g \"22\""
-msgstr ""
+msgstr "z.B. \"22\""
 
 #: ../../advanced.rst:591
 msgid "the SSH port number of the remote server when using *installMode=zfsrestore*"
@@ -1256,7 +1264,7 @@ msgstr ""
 
 #: ../../advanced.rst:595
 msgid "e.g. \"/root/id_rsa\""
-msgstr ""
+msgstr "z.B. \"/root/id_rsa\""
 
 #: ../../advanced.rst:595
 msgid "path to the SSH key file on the remote server when using *installMode=zfsrestore*"
@@ -1305,6 +1313,7 @@ msgstr ""
 #: ../../advanced.rst:618
 msgid "**Table 5.5b: Additional Variables for Automated Installations**"
 msgstr ""
+"**Tabelle 5.5b: Zusätzliche Variablen für automatisierte Installationen**"
 
 #: ../../advanced.rst:623
 msgid "pc_config"
@@ -1312,7 +1321,7 @@ msgstr ""
 
 #: ../../advanced.rst:623
 msgid "URL or /path/to/file"
-msgstr ""
+msgstr "URL oder /Pfad/zur/Datei"
 
 #: ../../advanced.rst:623
 msgid "location of customized :file:`pc-sysinstall.conf`"
@@ -1357,11 +1366,11 @@ msgstr ""
 #: ../../advanced.rst:631
 #: ../../advanced.rst:633
 msgid "IP address"
-msgstr ""
+msgstr "IP-Adresse"
 
 #: ../../advanced.rst:631
 msgid "DNS server to use"
-msgstr ""
+msgstr "Zu verwendender DNS-Server"
 
 #: ../../advanced.rst:633
 msgid "nic_gateway"
@@ -1377,7 +1386,7 @@ msgstr ""
 
 #: ../../advanced.rst:639
 msgid "from a CD, DVD, or USB media"
-msgstr ""
+msgstr "von einer CD, DVD oder einem USB-Medium"
 
 #: ../../advanced.rst:641
 msgid "from an installation directory on an HTTP, FTP, SSH+rsync, or a :ref:`PXE Boot Install Server`"
@@ -1418,6 +1427,8 @@ msgstr ""
 #: ../../advanced.rst:679
 msgid "**runScript=** make sure the script exists in the specified path"
 msgstr ""
+"**runScript=** stellen Sie sicher, dass das Sktipt unter dem angegebenen "
+"Pfad vorhanden ist"
 
 #: ../../advanced.rst:681
 msgid "**runExtCommand=** make sure the command exists in the specified path"
@@ -1430,6 +1441,8 @@ msgstr ""
 #: ../../advanced.rst:689
 msgid "You can then use your favorite burning utility to burn the ISO to the media."
 msgstr ""
+"Sie können anschließend Ihr Lieblingsbrennprogramm verwenden, um die ISO auf "
+"das Medium zu brennen."
 
 #: ../../advanced.rst:691
 msgid "To begin an installation that requires user interaction::"

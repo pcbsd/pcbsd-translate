@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
@@ -44,8 +44,8 @@
         <translation>Lösenord (Upprepa)</translation>
     </message>
     <message>
-        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
-        <translation>System eller "root" lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
+        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <translation>System eller &quot;root&quot; lösenordet tillåter dig att göra ändringar till ditt operativsystem, det bör hållas ifrån obehöriga användare. </translation>
     </message>
     <message>
         <source>Create a User</source>
@@ -68,8 +68,8 @@
         <translation>&amp;Scanna igen</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
-        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på "Nästa".</translation>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
+        <translation>Följande trådlösa nätverk hittades. Klicka på det du vill ansluta till. Om du vill hoppa över detta, klicka på &quot;Nästa&quot;.</translation>
     </message>
     <message>
         <source>Setup is now complete! Press Finish to login to your new desktop.</source>
