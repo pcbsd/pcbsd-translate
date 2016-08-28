@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PC-BSD User Guide 10.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-08-28 00:20-0700\n"
+"POT-Creation-Date: 2016-08-28 04:19-0700\n"
 "PO-Revision-Date: 2016-08-28 09:04+0000\n"
 "Last-Translator: Atalanttore2 <atalanttore@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -659,8 +659,9 @@ msgid "netNameServer="
 msgstr ""
 
 #: ../../advanced.rst:483
+#, fuzzy
 msgid "IP address of DNS server"
-msgstr ""
+msgstr "IP-Adresse des rsync-Servers"
 
 #: ../../advanced.rst:485
 msgid "netDefaultRouter="
@@ -722,8 +723,9 @@ msgid "disk0="
 msgstr ""
 
 #: ../../advanced.rst:497
+#, fuzzy
 msgid "FreeBSD disk device name, (e.g. *ad0*)"
-msgstr ""
+msgstr "FreeBSD-Festplattenname (z.B. *ad1*)"
 
 #: ../../advanced.rst:497
 #: ../../advanced.rst:499
@@ -939,8 +941,9 @@ msgid "set when using *installMedium=rsync*"
 msgstr ""
 
 #: ../../advanced.rst:535
+#, fuzzy
 msgid "rsyncHost="
-msgstr ""
+msgstr "rsyncPort="
 
 #: ../../advanced.rst:535
 msgid "IP address of rsync server"
@@ -1024,8 +1027,9 @@ msgid "set root password to specified encrypted string"
 msgstr ""
 
 #: ../../advanced.rst:551
+#, fuzzy
 msgid "userName="
-msgstr ""
+msgstr "Benutzername"
 
 #: ../../advanced.rst:551
 msgid "case sensitive value"
@@ -1088,8 +1092,9 @@ msgid "path to home directory"
 msgstr "Pfad zum persönlichen Verzeichnis"
 
 #: ../../advanced.rst:563
+#, fuzzy
 msgid "defaultGroup="
-msgstr ""
+msgstr "Standardgruppe"
 
 #: ../../advanced.rst:563
 msgid "e.g. \"wheel\""
@@ -1241,7 +1246,6 @@ msgstr ""
 msgid "sshPort="
 msgstr "sshPort="
 
-# Missing dot after "g" in source string.
 #: ../../advanced.rst:591
 msgid "e.g \"22\""
 msgstr "z.B. \"22\""
@@ -1421,8 +1425,11 @@ msgid "**installComponents=** make sure that any extra components you wish to in
 msgstr ""
 
 #: ../../advanced.rst:677
+#, fuzzy
 msgid "**runCommand=** make sure the command exists in the specified path"
 msgstr ""
+"**runScript=** stellen Sie sicher, dass das Sktipt unter dem angegebenen "
+"Pfad vorhanden ist"
 
 #: ../../advanced.rst:679
 msgid "**runScript=** make sure the script exists in the specified path"
@@ -1431,8 +1438,11 @@ msgstr ""
 "Pfad vorhanden ist"
 
 #: ../../advanced.rst:681
+#, fuzzy
 msgid "**runExtCommand=** make sure the command exists in the specified path"
 msgstr ""
+"**runScript=** stellen Sie sicher, dass das Sktipt unter dem angegebenen "
+"Pfad vorhanden ist"
 
 #: ../../advanced.rst:683
 msgid "If the installation media is a CD or DVD, you will need to create a bootable media that contains the files in your directory. To create a bootable ISO::"
