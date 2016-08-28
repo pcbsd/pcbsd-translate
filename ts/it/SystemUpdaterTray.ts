@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>The system needs to be restarted to finish installing updates.</source>
-        <translation>Il sistema deve essere riavviato per completare l&apos;installazione degli aggiornamenti.</translation>
+        <translation>Il sistema deve essere riavviato per completare l'installazione degli aggiornamenti.</translation>
     </message>
     <message>
         <source>Next Reminder:</source>
@@ -44,8 +44,12 @@
         <translation>Ricordamelo più avanti</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">8 ore {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 ore</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 ore</translation>
     </message>
 </context>
 <context>
@@ -95,7 +99,7 @@
     </message>
     <message>
         <source>Run At Startup</source>
-        <translation>Esegui all&apos;avvio</translation>
+        <translation>Esegui all'avvio</translation>
     </message>
     <message>
         <source>Display Notifications</source>
