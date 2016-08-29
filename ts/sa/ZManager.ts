@@ -47,13 +47,13 @@
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.ui" line="124"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1107"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1108"/>
         <source>Inherit from parent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.ui" line="144"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1110"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1111"/>
         <source>Revert changes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -110,14 +110,14 @@ checksums is NOT a recommended practice.</source>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="145"/>
-        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, 
-gzip and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
+        <source>Enables or disables compression for a dataset. The values are on, off, lz4, lzjb, zle, gzip,
+lz4 and gzip-N. Currently, setting this property to lz4, lzjb, gzip, or gzip-N has the same
 effect as setting this property to on. Enabling compression on a file system with
 existing data only compresses new data. Existing data remains uncompressed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="172"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="173"/>
         <source>Read-only property that identifies the compression ratio achieved for a dataset,
 expressed as a multiplier. Compression can be enabled by the zfs set compression=on
 dataset command. The value is calculated from the logical size of all files and the
@@ -126,7 +126,7 @@ the compression property.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="187"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="188"/>
         <source>Sets the number of copies of user data per file system. These copies
 are in addition to any pool-level redundancy. Disk space used by
 multiple copies of user data is charged to the corresponding file and
@@ -137,12 +137,12 @@ on an existing file system only affects newly written data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="208"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="209"/>
         <source>Read-only property that identifies the date and time that a dataset was created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="216"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="217"/>
         <source>Configures deduplication for a dataset. The default value is off.
 The default deduplication checksum is sha256 (this may change in the
 future).  When dedup is enabled, the checksum defined here overrides
@@ -154,24 +154,24 @@ are identical.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="236"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="237"/>
         <source>The devices property is currently not supported on FreeBSD.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="246"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="247"/>
         <source>Controls whether processes can be executed from within this file
 system. The default value is on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="259"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="260"/>
         <source>Read-only property that indicates whether a file system, clone, or snapshot
 is currently mounted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="270"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="271"/>
         <source>Controls the mount point used for this file system. When the mountpoint property
 is changed for a file system, the file system and any descendents that inherit the
 mount point are unmounted. If the new value is legacy, then they remain unmounted.
@@ -181,7 +181,7 @@ In addition, any shared file systems are unshared and shared in the new location
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="287"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="288"/>
         <source>Controls what is cached in the primary cache (ARC). Possible values are all,
 none, and metadata. If set to all, both user data and metadata are cached. If
 set to none, neither user data nor metadata is cached. If set to metadata, only
@@ -189,7 +189,7 @@ metadata is cached.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="301"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="302"/>
         <source>Read-only property for cloned file systems or volumes that identifies
 the snapshot from which the clone was created. The origin cannot be
 destroyed (even with the -r or -f option) as long as a clone exists.
@@ -197,7 +197,7 @@ Non-cloned file systems have an origin of none.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="314"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="315"/>
         <source>Limits the amount of disk space a dataset and its descendents can consume.
 This property enforces a hard limit on the amount of disk space used,
 including all space consumed by descendents, such as file systems and snapshots.
@@ -206,13 +206,13 @@ override the ancestor&apos;s quota, but rather imposes an additional limit.</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="325"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="326"/>
         <source>Controls whether a dataset can be modified. When set to on,
 no modifications can be made.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="335"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="336"/>
         <source>Specifies a suggested block size for files in the file system. This
 property is designed solely for use with database workloads that
 access files in fixed-size records.  ZFS automatically tunes block
@@ -225,21 +225,21 @@ The size specified must be a power of two greater than or equal to
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="354"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="355"/>
         <source>Read-only property that identifies the amount of data accessible by a
 dataset, which might or might not be shared with other datasets in the
 pool.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="364"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="365"/>
         <source>Sets the amount of disk space that a dataset can consume. This property
 enforces a hard limit on the amount of space used. This hard limit does
 not include disk space used by descendents, such as snapshots and clones.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="374"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="375"/>
         <source>Sets the minimum amount of disk space that is guaranteed to a dataset, not
 including descendents, such as snapshots and clones. When the amount of disk
 space used is below this value, the dataset is treated as if it were taking up
@@ -252,7 +252,7 @@ referenced bytes in the dataset.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="390"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="391"/>
         <source>Sets the minimum amount of disk space guaranteed to a dataset and its descendents.
 When the amount of disk space used is below this value, the dataset is treated as if
 it were using the amount of space specified by its reservation. Reservations are
@@ -261,19 +261,19 @@ dataset&apos;s quotas and reservations.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="403"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="404"/>
         <source>Controls what is cached in the secondary cache (L2ARC). Possible values are all, none,
 and metadata. If set to all, both user data and metadata are cached. If set to none,
 neither user data nor metadata is cached. If set to metadata, only metadata is cached.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="415"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="416"/>
         <source>Controls whether the setuid bit is honored in a file system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="425"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="426"/>
         <source>Controls whether a file system is available over NFS and what
 options are used. If set to on, the zfs share command is invoked
 with no options. Otherwise, the zfs share command is invoked with
@@ -281,48 +281,48 @@ options equivalent to the contents of this property.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="435"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="436"/>
         <source>The sharesmb property has currently no effect on FreeBSD.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="444"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="445"/>
         <source>Controls whether the .zfs directory is hidden or visible in the root of the file system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="453"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="454"/>
         <source>Read-only property that identifies the dataset type as filesystem (file system or clone), volume, or snapshot.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="460"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="461"/>
         <source>Read-only property that identifies the amount of disk space consumed by a dataset and all its descendents.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="468"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="469"/>
         <source>Read-only property that identifies the amount of disk space that is used by
 children of this dataset, which would be freed if all the dataset&apos;s children
 were destroyed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="477"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="478"/>
         <source>Read-only property that identifies the amount of disk space that is used by
 a dataset itself, which would be freed if the dataset was destroyed, after
 first destroying any snapshots and removing any refreservation reservations.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="486"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="487"/>
         <source>Read-only property that identifies the amount of disk space that is used by a
 refreservation set on a dataset, which would be freed if the refreservation was
 removed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="494"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="495"/>
         <source>Read-only property that identifies the amount of disk space that is consumed
 by snapshots of a dataset. In particular, it is the amount of disk space that
 would be freed if all of this dataset&apos;s snapshots were destroyed. Note that
@@ -331,62 +331,62 @@ space can be shared by multiple snapshots.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="504"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="505"/>
         <source>Identifies the on-disk version of a file system, which is independent of the
 pool version. This property can only be set to a later version that is available
 from the supported software release.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="513"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="514"/>
         <source>For volumes, specifies the logical size of the volume.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="520"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="521"/>
         <source>For volumes, specifies the block size of the volume.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="527"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="528"/>
         <source>Indicates whether a dataset has been added to a jail.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="536"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="542"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="548"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="555"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="561"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="635"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="537"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="543"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="549"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="556"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="562"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="636"/>
         <source>This property is not supported on FreeBSD.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="568"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="569"/>
         <source>The file system is marked to be destroyed after unmount.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="576"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="577"/>
         <source>The compression ratio achieved for the referenced space of this
 dataset, expressed as a multiplier.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="584"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="585"/>
         <source>The amount of referenced space written to this dataset since the
 previous snapshot.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="591"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="592"/>
         <source>This property is set to the number of user holds on this snapshot.
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="598"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="599"/>
         <source>Provide a hint to ZFS about handling of synchronous requests in this
 dataset.  If logbias is set to latency (the default), ZFS will use
 pool log devices (if configured) to handle the requests at low
@@ -396,7 +396,7 @@ for global pool throughput and efficient use of resources.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="611"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="612"/>
         <source>Controls the behavior of synchronous requests (e.g.  fsync(2),
 O_DSYNC). This property accepts the following values:
 standard  This is the POSIX specified behavior of ensuring all
@@ -416,66 +416,66 @@ disabled  Disables synchronous requests. File system transactions
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="641"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="647"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="642"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="648"/>
         <source>This property cannot be changed after the system is created.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="748"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="749"/>
         <source>User Property</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="750"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="751"/>
         <source>Unknown property or information not available.
 Read ZFS manual for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="972"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="990"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1030"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1044"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="973"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="991"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1031"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1045"/>
         <source>[Invalid]</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1008"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1065"/>
-        <source>[Inherit]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1009"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1066"/>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1180"/>
-        <source>[Added]</source>
+        <source>[Inherit]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1010"/>
         <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1067"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1181"/>
+        <source>[Added]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1011"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1068"/>
         <source>[Changed]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1057"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1058"/>
         <source>User property</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1098"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1099"/>
         <source>Device Menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1104"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1105"/>
         <source>Add new user property</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1105"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-zmanager/dialogfsprop.cpp" line="1106"/>
         <source>Delete user property</source>
         <translation type="unfinished"></translation>
     </message>
