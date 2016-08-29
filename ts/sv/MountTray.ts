@@ -1,11 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv">
 <context>
     <name>DeviceWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open the disk tray</source>
@@ -65,7 +65,7 @@
     </message>
     <message>
         <source>Select a filesystem to try:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The device could not be mounted. Please try again later.</source>
@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>New Devices are available for use</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network Shares</source>
