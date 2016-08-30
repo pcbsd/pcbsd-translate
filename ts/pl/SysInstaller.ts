@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="pl">
 <context>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Welcome to PC-BSD! Please select your language and click next to continue.</source>
-        <translation>Witamy w PC-BSD! Proszę wybrać język i kliknąć "Dalej", aby kontynuować.</translation>
+        <translation>Witamy w PC-BSD! Proszę wybrać język i kliknąć &quot;Dalej&quot;, aby kontynuować.</translation>
     </message>
     <message>
         <source>&lt;Version&gt;</source>
@@ -59,7 +59,7 @@
         <source>Your system is now installed!
  Click Finish to reboot. After rebooting you may eject the install media.</source>
         <translation>Twój system został zainstalowany!
- Kliknij "Zakończ", aby zrestartować komputer. Po restarcie można wysunąć nośnik instalacyjny.</translation>
+ Kliknij &quot;Zakończ&quot;, aby zrestartować komputer. Po restarcie można wysunąć nośnik instalacyjny.</translation>
     </message>
     <message>
         <source>Display hardware compatibility diagnostic</source>
@@ -173,7 +173,7 @@
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
         <translation>System został przywrócony!
-Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośnik instalacyjny.</translation>
+Kliknij &quot;Zakończ&quot;, aby zrestartować system. Po restarcie można usunąć nośnik instalacyjny.</translation>
     </message>
     <message>
         <source>System Restore</source>
@@ -300,28 +300,32 @@ Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośn
         <translation>Zaniechano instalacji za pomocą skryptu konfiguracyjnego</translation>
     </message>
     <message>
-        <source>Please select the type of installation to perform</source>
-        <translation>Proszę wybrać odpowiedni rodzaj instalacji do wykonania</translation>
+        <source>Desktop (PC-BSD)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Graphical desktop</source>
-        <translation>Środowisko graficzne</translation>
+        <source>Server (TrueOS)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PC-BSD (Graphical desktop)</source>
-        <translation>PC-BSD (interfejs graficzny)</translation>
+        <source>Customize the selected system</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Best for servers and headless systems</source>
-        <translation>Doskonała opcja dla serwerów i systemów typu headless</translation>
+        <source>PC-BSD Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TrueOS (Console based server)</source>
-        <translation>TrueOS (serwer ze środowiskiem tekstowym)</translation>
+        <source>TrueOS Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore from an existing backup</source>
-        <translation>Przywróć z istniejącej kopi zapasowej</translation>
+        <source>The following meta-pkgs will be installed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -345,6 +349,45 @@ Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośn
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>System został zainstalowany! Kliknij Zakończ, aby zrestartować i pamiętaj o usunięciu wszystkich nośników instalacyjnych przed uruchomieniem nowego systemu.</translation>
+    </message>
+</context>
+<context>
+    <name>desktopSelection</name>
+    <message>
+        <source>System Package Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available System Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Zaniechaj</translation>
+    </message>
+    <message>
+        <source>No Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package Listing for:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -621,8 +664,8 @@ Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośn
         <translation>Błędny punkt montowania</translation>
     </message>
     <message>
-        <source>Mount point should start with '/'</source>
-        <translation>Punkt montowania powinien się zaczynać od '/'</translation>
+        <source>Mount point should start with &apos;/&apos;</source>
+        <translation>Punkt montowania powinien się zaczynać od &apos;/&apos;</translation>
     </message>
     <message>
         <source>Editing:</source>
@@ -709,8 +752,16 @@ Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośn
         <translation>Wybierz dysk lub partycję do instalacji. </translation>
     </message>
     <message>
-        <source>Use GRUB bootloader</source>
-        <translation>Użyj programu rozruchowego GRUB</translation>
+        <source>Target Installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UEFI (Modern motherboards)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIOS (Legacy motherboards)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -808,12 +859,28 @@ Kliknij "Zakończ", aby zrestartować system. Po restarcie można usunąć nośn
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>Zainstalować AppCafe? Pozwoli to na zarządzanie paczkami i więzieniami z poziomu przeglądarki internetowej lub urządzenia mobilnego.</translation>
+        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install AppCafe</source>
-        <translation>Zainstaluj AppCafe</translation>
+        <source>Enable AppCafe Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
