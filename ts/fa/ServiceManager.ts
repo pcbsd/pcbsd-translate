@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="fa">
 <context>
     <name>ServiceManager</name>
     <message>
         <source>Service Manager</source>
-        <translation type="unfinished">مدیریت سرویس</translation>
+        <translation>گردانندهٔ دستیاری</translation>
     </message>
     <message>
         <source>The following services are available on this system</source>
