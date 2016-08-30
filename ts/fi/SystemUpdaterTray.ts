@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -44,8 +44,12 @@
         <translation>Muistuta myöhemmin</translation>
     </message>
     <message>
-        <source>5 Hours</source>
-        <translation type="unfinished">8 tunnin kuluttua {5 ?}</translation>
+        <source>4 Hours</source>
+        <translation>4 tunnin kuluttua</translation>
+    </message>
+    <message>
+        <source>8 Hours</source>
+        <translation>8 tunnin kuluttua</translation>
     </message>
 </context>
 <context>
@@ -72,7 +76,7 @@
     </message>
     <message>
         <source>Jail updates available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System up to date!</source>
@@ -111,7 +115,7 @@
     </message>
     <message>
         <source>Check Jails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Auto-Update: Everything</source>
