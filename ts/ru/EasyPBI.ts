@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="ru">
 <context>
@@ -805,8 +805,8 @@
         <translation>Средство переключения пользователей</translation>
     </message>
     <message>
-        <source>Full path to the graphical &quot;switch user&quot; utility (pc-su, gksu, kdesu, qsu, etc..)</source>
-        <translation>Полный адрес расположения средства графического &quot;переключения пользователей&quot; (pc-su, gksu, kdesu, qsu, и т.д.)</translation>
+        <source>Full path to the graphical "switch user" utility (pc-su, gksu, kdesu, qsu, etc..)</source>
+        <translation>Полный адрес расположения средства графического "переключения пользователей" (pc-su, gksu, kdesu, qsu, и т.д.)</translation>
     </message>
     <message>
         <source>Browse system for the local binary.</source>
@@ -1011,7 +1011,7 @@
         <translation>Версия EasyPBI %1</translation>
     </message>
     <message>
-        <source>Create PBI&apos;s quickly and easily.</source>
+        <source>Create PBI's quickly and easily.</source>
         <translation>Создание PBI быстро и легко.</translation>
     </message>
     <message>
