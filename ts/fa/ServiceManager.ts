@@ -9,19 +9,19 @@
     </message>
     <message>
         <source>The following services are available on this system</source>
-        <translation type="unfinished">سرویس های زیر برای این سیستم موجود هستند</translation>
+        <translation>دستیاری‌های زیرین در این سامانه در دسترس هستند</translation>
     </message>
     <message>
         <source>SDIR</source>
-        <translation type="unfinished">SDIR</translation>
+        <translation>SDIR</translation>
     </message>
     <message>
         <source>TAG</source>
-        <translation type="unfinished">تگ</translation>
+        <translation>TAG</translation>
     </message>
     <message>
         <source>Service Name</source>
-        <translation type="unfinished">نام سرویس</translation>
+        <translation>نامِ دستیاری</translation>
     </message>
     <message>
         <source>Running</source>
