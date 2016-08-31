@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -33,15 +33,15 @@
     </message>
     <message>
         <source>Administrator Name</source>
-        <translation>Nome dell&apos;amministratore</translation>
+        <translation>Nome dell'amministratore</translation>
     </message>
     <message>
         <source>Administrator Password</source>
-        <translation>Password dell&apos;amministratore</translation>
+        <translation>Password dell'amministratore</translation>
     </message>
     <message>
         <source>Administrator Password (Confirm)</source>
-        <translation>Password dell&apos;amministratore (conferma)</translation>
+        <translation>Password dell'amministratore (conferma)</translation>
     </message>
     <message>
         <source>LDAP</source>
