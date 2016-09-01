@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished">در حال اجرا</translation>
+        <translation>دارد کار می‌کند</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">فعال</translation>
+        <translation>توانا شده</translation>
     </message>
     <message>
         <source>&amp;Start</source>
