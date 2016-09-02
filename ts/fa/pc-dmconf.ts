@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -40,7 +40,7 @@
         <translation>گوناگون</translation>
     </message>
     <message>
-        <source>Enable "show password" button</source>
+        <source>Enable &quot;show password&quot; button</source>
         <translation>دکمهٔ «گذرواژه را نشان بده» را بکار انداز</translation>
     </message>
     <message>
