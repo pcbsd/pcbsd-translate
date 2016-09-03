@@ -33,39 +33,39 @@
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;آغاز کن</translation>
     </message>
     <message>
         <source>&amp;Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;دوباره آغاز کن</translation>
     </message>
     <message>
         <source>&amp;Enable Service</source>
-        <translation type="unfinished"></translation>
+        <translation>دستیاری را &amp;توانا کن</translation>
     </message>
     <message>
         <source>&amp;Disable Service</source>
-        <translation type="unfinished"></translation>
+        <translation>دستیاری را &amp;ناتوان کن</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;بِایست</translation>
     </message>
     <message>
         <source>Managing services for Warden Jail:</source>
-        <translation type="unfinished"></translation>
+        <translation>گرداندن دستیاری‌ها برای بازداشتگاهِ Warden:</translation>
     </message>
     <message>
         <source>Checking...</source>
-        <translation type="unfinished">در حال بررسی ...</translation>
+        <translation>دارم می‌آزمایم...</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation type="unfinished">غیرفعال</translation>
+        <translation>ناتوان شده</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">نامعلوم</translation>
+        <translation>ناشناخته</translation>
     </message>
     <message>
         <source>Stopped</source>
