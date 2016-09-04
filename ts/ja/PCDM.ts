@@ -86,15 +86,6 @@
         <source>Use a temporary home directory which is deleted on log out)</source>
         <translation>ログアウト時に削除されるホームディレクトリーを使用します)</translation>
     </message>
-    <message>
-        <source>Refresh</source>
-        <translation>更新</translation>
-    </message>
-    <message>
-        <source>Refresh available users</source>
-        <translatorcomment>ツールチップの表示</translatorcomment>
-        <translation>ユーザー一覧を更新します</translation>
-    </message>
 </context>
 <context>
     <name>PCDMgui</name>
@@ -169,11 +160,6 @@
     <message>
         <source>Change locale (%1)</source>
         <translation>ロケールを変更 (%1)</translation>
-    </message>
-    <message>
-        <source>Refresh PCDM</source>
-        <translatorcomment>ユーザー作成などを反映させるためにPCDMを再起動するメニュー項目の名前</translatorcomment>
-        <translation>PCDM のリフレッシュ</translation>
     </message>
 </context>
 <context>
