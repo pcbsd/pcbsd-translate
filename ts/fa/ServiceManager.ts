@@ -33,11 +33,11 @@
     </message>
     <message>
         <source>&amp;Start</source>
-        <translation>&amp;آغاز کن</translation>
+        <translation>&amp;بکار بیانداز</translation>
     </message>
     <message>
         <source>&amp;Restart</source>
-        <translation>&amp;دوباره آغاز کن</translation>
+        <translation>&amp;دوباره بکار بیانداز</translation>
     </message>
     <message>
         <source>&amp;Enable Service</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation>&amp;بِایست</translation>
+        <translation>&amp;از کار بیانداز</translation>
     </message>
     <message>
         <source>Managing services for Warden Jail:</source>
@@ -69,22 +69,22 @@
     </message>
     <message>
         <source>Stopped</source>
-        <translation type="unfinished">متوقف شده</translation>
+        <translation>از کار انداخته شده</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">بستن</translation>
+        <translation>ببند</translation>
     </message>
 </context>
 <context>
     <name>progressUI</name>
     <message>
         <source>Service</source>
-        <translation type="unfinished">سرویس</translation>
+        <translation>دستیاری</translation>
     </message>
     <message>
         <source>Service Action in progress...</source>
-        <translation type="unfinished">اقدام سرویس در حال انجام است...</translation>
+        <translation>کنشِ دستیاری اکنون دارد روی می‌دهد...</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
