@@ -324,12 +324,12 @@ Visit the following web page to subscribe to or read the archives of this list</
         <translation>Versão BSDGratuita (unome -a)</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
         <source>Failure</source>
         <translation>Falha</translation>
     </message>
     <message>
-        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="98"/>
+        <location filename="../../../../tank/pcbsd-translate/pcbsd-git/src-qt5/pc-bugreport/toolbox.cpp" line="95"/>
         <source>Failed to create diagnostic sheet</source>
         <translation>Falha ao criar a página de diagnóstico</translation>
     </message>
