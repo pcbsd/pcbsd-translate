@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it">
 <context>
@@ -151,11 +151,11 @@
     </message>
     <message>
         <source>A process within the jail has access to System V IPC primitives.</source>
-        <translation>Un processo all'interno del jail ha accesso alle primitive System V IPC.</translation>
+        <translation>Un processo all&apos;interno del jail ha accesso alle primitive System V IPC.</translation>
     </message>
     <message>
         <source>The prison root is allowed to create raw sockets. Enables ping / traceroute.</source>
-        <translation>L'amministratore root della prigione è autorizzato a creare socket raw. Abilita ping / traceroute.</translation>
+        <translation>L&apos;amministratore root della prigione è autorizzato a creare socket raw. Abilita ping / traceroute.</translation>
     </message>
     <message>
         <source>When this parameter is set, such users are treated as privileged, and may manipulate system file flags subject to the usual constraints on kern.securelevel.</source>
@@ -163,31 +163,31 @@
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount file system types marked as jail-friendly.</source>
-        <translation>Gli utenti privilegiati all'interno della jail saranno in grado di montare e smontare i tipi di file system marcati come jail-friendly.</translation>
+        <translation>Gli utenti privilegiati all&apos;interno della jail saranno in grado di montare e smontare i tipi di file system marcati come jail-friendly.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the devfs file system.</source>
-        <translation>Gli utenti privilegiati all'interno della jail saranno in grado di montare e monstare il file system devfs.</translation>
+        <translation>Gli utenti privilegiati all&apos;interno della jail saranno in grado di montare e monstare il file system devfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the nullfs file system.</source>
-        <translation>Gli utenti privilegiati all'interno del jail saranno in grado di montare e smontare il file system nullfs.</translation>
+        <translation>Gli utenti privilegiati all&apos;interno del jail saranno in grado di montare e smontare il file system nullfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the procfs file system.</source>
-        <translation>Gli utenti privilegiati all'interno del jail saranno in grado di montare e smontare il file system procfs.</translation>
+        <translation>Gli utenti privilegiati all&apos;interno del jail saranno in grado di montare e smontare il file system procfs.</translation>
     </message>
     <message>
         <source>Privileged users inside the jail will be able to mount and unmount the zfs file system.</source>
-        <translation>Gli utenti privilegiati all'interno della jail sono in grado di montare e smontare il file system zfs.</translation>
+        <translation>Gli utenti privilegiati all&apos;interno della jail sono in grado di montare e smontare il file system zfs.</translation>
     </message>
     <message>
-        <source>The prison root may administer quotas on the jail's filesystem(s).</source>
-        <translation>L'amministratore root della prigione può amministrare le quota sul file system del jail.</translation>
+        <source>The prison root may administer quotas on the jail&apos;s filesystem(s).</source>
+        <translation>L&apos;amministratore root della prigione può amministrare le quota sul file system del jail.</translation>
     </message>
     <message>
         <source>This allows access to other protocol stacks that have not had jail functionality added to them.</source>
-        <translation>Permetterà l'accesso agli altri insiemi di protocolli che non hanno una funzionalità di jail aggiunta a loro.</translation>
+        <translation>Permetterà l&apos;accesso agli altri insiemi di protocolli che non hanno una funzionalità di jail aggiunta a loro.</translation>
     </message>
     <message>
         <source>Warden</source>
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>Enter the nickname for this new jail. You have the option to change the IP / Hostname of the imported jail. Any internal references to the old IP / hostname may still need to be changed after importing. </source>
-        <translation>Inserisci il nomignolo per questo nuovo jail. Hai l'opzione di cambiare il IP / nome del host del jail importato. Ogni referenza interna al vecchio IP / nome del host potrebbe richiedere il cambio dopo l'importazione. </translation>
+        <translation>Inserisci il nomignolo per questo nuovo jail. Hai l&apos;opzione di cambiare il IP / nome del host del jail importato. Ogni referenza interna al vecchio IP / nome del host potrebbe richiedere il cambio dopo l&apos;importazione. </translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Start at boot:</source>
-        <translation>Inizia all'avvio:</translation>
+        <translation>Inizia all&apos;avvio:</translation>
     </message>
     <message>
         <source>Network Information</source>
@@ -544,7 +544,7 @@
     </message>
     <message>
         <source>Toggle Autostart</source>
-        <translation type="unfinished">Cambia stato dell'avvio atuomatico</translation>
+        <translation type="unfinished">Cambia stato dell&apos;avvio atuomatico</translation>
     </message>
     <message>
         <source>Export jail to .wdn file</source>
@@ -686,7 +686,7 @@
     </message>
     <message>
         <source>This wizard will walk you through creating a new jail. First, enter a hostname and IP address not currently in use on the network. If you plan to use IPv6 to access the jail, check the IPv6 Address box and input a valid IPv6 address. When finished, click Next to continue.</source>
-        <translation>Questa procedura guidata ti guiderà attraverso la creazione di un nuovo jail. Prima, inserisci un nome del host e un indirizzo IP non in uso su questa rete. Se hai intenzione di usare IPv6 per accedere al jail, spunta la voce 'Indirizzo IPv6' e inserisci un indirizzo IPv6 valido. Quando hai finito, fai click su "Successivo" per continuare.</translation>
+        <translation>Questa procedura guidata ti guiderà attraverso la creazione di un nuovo jail. Prima, inserisci un nome del host e un indirizzo IP non in uso su questa rete. Se hai intenzione di usare IPv6 per accedere al jail, spunta la voce &apos;Indirizzo IPv6&apos; e inserisci un indirizzo IPv6 valido. Quando hai finito, fai click su &quot;Successivo&quot; per continuare.</translation>
     </message>
     <message>
         <source>Hostname</source>
@@ -730,19 +730,19 @@
     </message>
     <message>
         <source>Linux Jail (Run Linux within a jail) - Experimental!</source>
-        <translation>Jail di Linux (Esegui Linux all'interno di una jail) - Sperimentale!</translation>
+        <translation>Jail di Linux (Esegui Linux all&apos;interno di una jail) - Sperimentale!</translation>
     </message>
     <message>
         <source>Next enter the root password for this jail. </source>
-        <translation>Poi, inserirsci la password dell'amministratore root per questo jail.  </translation>
+        <translation>Poi, inserirsci la password dell&apos;amministratore root per questo jail.  </translation>
     </message>
     <message>
         <source>Root Password</source>
-        <translation>Password dell'amministratore root</translation>
+        <translation>Password dell&apos;amministratore root</translation>
     </message>
     <message>
         <source>Root Password (Confirm)</source>
-        <translation>Password dell'amministratore root (conferma)</translation>
+        <translation>Password dell&apos;amministratore root (conferma)</translation>
     </message>
     <message>
         <source>Please select the Linux install script to use for this jail.</source>
@@ -750,7 +750,7 @@
     </message>
     <message>
         <source>Please take a moment and set any other options for this jail. Note that including the system source option requires that they be present in /usr/src. </source>
-        <translation>Si prega di prendersi un momento e imposta ogni altra opzione per questa jail. Si fa presente che l'opzione di inclusione del sorgente di sstema richiede che esso sia presente in /usr/src. </translation>
+        <translation>Si prega di prendersi un momento e imposta ogni altra opzione per questa jail. Si fa presente che l&apos;opzione di inclusione del sorgente di sstema richiede che esso sia presente in /usr/src. </translation>
     </message>
     <message>
         <source>Jail Options</source>
@@ -762,11 +762,11 @@
     </message>
     <message>
         <source>Include ports tree</source>
-        <translation>Includi l'alberto dei port</translation>
+        <translation>Includi l&apos;alberto dei port</translation>
     </message>
     <message>
         <source>Start jail at system bootup</source>
-        <translation>Avvia il jail all'avvio del sistema</translation>
+        <translation>Avvia il jail all&apos;avvio del sistema</translation>
     </message>
     <message>
         <source>Use system version (default)</source>
