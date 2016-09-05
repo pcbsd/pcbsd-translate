@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fa">
 <context>
@@ -44,7 +44,7 @@
         <translation>گذرواژه (تکرار)</translation>
     </message>
     <message>
-        <source>The system or "root" password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
+        <source>The system or &quot;root&quot; password allows you to make changes to your operating system, and should be kept from non-trusted users. </source>
         <translation>گذرواژه كاربر root یا سیستم به شما اجازه تغيير در سيستم عامل را مي دهد، از دسترس قرار دادن آن به کاربران غیرقابل اعتماد خودداری کنید. </translation>
     </message>
     <message>
@@ -68,7 +68,7 @@
         <translation>جستجوي مجدد</translation>
     </message>
     <message>
-        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click "Next" below. </source>
+        <source>The following wireless networks were found. Click the one you wish to connect to. If you wish to skip, click &quot;Next&quot; below. </source>
         <translation>شبكه هاي بي سيم زير پيدا شدند. برای اتصال به شبكه مورد نظر خود برروی آن كليک كنيد و اگر قصد انصراف دارید برروي دکمه بعدی كليک كنيد.</translation>
     </message>
     <message>
