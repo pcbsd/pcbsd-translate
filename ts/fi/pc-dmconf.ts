@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -40,7 +40,7 @@
         <translation>Sekalaista</translation>
     </message>
     <message>
-        <source>Enable &quot;show password&quot; button</source>
+        <source>Enable "show password" button</source>
         <translation>Ota ”Näytä salasana” -painike käyttöön</translation>
     </message>
     <message>
