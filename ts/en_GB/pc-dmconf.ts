@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="en_GB">
 <context>
@@ -40,8 +40,8 @@
         <translation>Misc</translation>
     </message>
     <message>
-        <source>Enable "show password" button</source>
-        <translation>Enable "show password" button</translation>
+        <source>Enable &quot;show password&quot; button</source>
+        <translation>Enable &quot;show password&quot; button</translation>
     </message>
     <message>
         <source>Display available users</source>

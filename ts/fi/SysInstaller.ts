@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="fi">
 <context>
@@ -172,7 +172,7 @@
     <message>
         <source>Your system is now restored!
 Click Finish to reboot. After rebooting you may eject the install media.</source>
-        <translatorcomment>tarvitaanko "nyt" sanaa?</translatorcomment>
+        <translatorcomment>tarvitaanko &quot;nyt&quot; sanaa?</translatorcomment>
         <translation>Järjestelmäsi on nyt palautettu!
 Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen jälkeen voit poistaa asennusmedian.</translation>
     </message>
@@ -301,28 +301,32 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>Peruttiin asetusskriptiasennus</translation>
     </message>
     <message>
-        <source>Please select the type of installation to perform</source>
-        <translation>Valitse toteutettavan asennuksen tyyppi</translation>
+        <source>Desktop (PC-BSD)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Graphical desktop</source>
-        <translation>Graafinen työpöytä</translation>
+        <source>Server (TrueOS)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>PC-BSD (Graphical desktop)</source>
-        <translation>PC-BSD (graafinen työpöytä)</translation>
+        <source>Customize the selected system</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Best for servers and headless systems</source>
-        <translation>Paras palvelimiin ja näytöttömiin järjestelmiin</translation>
+        <source>PC-BSD Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TrueOS (Console based server)</source>
-        <translation>TrueOS (konsoliperustainen palvelin)</translation>
+        <source>TrueOS Package Selection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restore from an existing backup</source>
-        <translation>Palauta varmuuskopiosta</translation>
+        <source>The following meta-pkgs will be installed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Performing a restore from a Life-Preserver backup. Click next to start the restore wizard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -346,6 +350,45 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     <message>
         <source>The system is now finished installing! Click Finish to reboot, and be sure to eject any install media before booting into your new system.</source>
         <translation>Asennus on nyt valmis! Käynnistä uudelleen napsauttamalla ”Valmis”. Varmista että poistat kaikki asennustietovälineet ennen uudelleenkäynnistystä.</translation>
+    </message>
+</context>
+<context>
+    <name>desktopSelection</name>
+    <message>
+        <source>System Package Configuration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Available System Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the software to install. Post-install you may also add / remove software via the Package Manager (desktop) or &quot;pkg&quot; command (server).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Peru</translation>
+    </message>
+    <message>
+        <source>No Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No desktops have been selected! Please choose at least one desktop to continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Packages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Package Listing for:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -622,7 +665,7 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>Virheellinen liitospiste</translation>
     </message>
     <message>
-        <source>Mount point should start with '/'</source>
+        <source>Mount point should start with &apos;/&apos;</source>
         <translation>Liitospisteen tulee alkaa /-merkillä</translation>
     </message>
     <message>
@@ -695,11 +738,11 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
     </message>
     <message>
         <source>stripe</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please select the additional disks to stripe</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Partition Size (Total)</source>
@@ -710,8 +753,16 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>Valitse levy tai osio, jolle haluat asentaa.</translation>
     </message>
     <message>
-        <source>Use GRUB bootloader</source>
-        <translation>Käytä Grub-käynnistyslatainta</translation>
+        <source>Target Installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UEFI (Modern motherboards)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BIOS (Legacy motherboards)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -809,12 +860,28 @@ Paina Lopeta käynnistääksesi tietokoneen uudelleen. Uudelleenkäynnistämisen
         <translation>000.000.000.000</translation>
     </message>
     <message>
-        <source>Install AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
-        <translation>Asennetaanko AppCafe? Sillä voit hallita paketteja ja vankiloita verkkoselaimesta tai mobiililaitteesta.</translation>
+        <source>Allow remote access to AppCafe? This allows you to manage packages and jails from a web-browser or mobile device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Install AppCafe</source>
-        <translation>Asenna AppCafe</translation>
+        <source>Enable AppCafe Remote</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
