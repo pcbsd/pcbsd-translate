@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="uk">
 <context>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Automatically use this device when it is attached to the system</source>
-        <translation>Автоматично використовувати цей диск коли він буде під&apos;єднаний</translation>
+        <translation>Автоматично використовувати цей диск коли він буде під'єднаний</translation>
     </message>
     <message>
         <source>Auto-Run</source>
@@ -80,7 +80,7 @@
     <name>FSDialog</name>
     <message>
         <source>System Disk Capacity</source>
-        <translation>Об&apos;єм системного диску</translation>
+        <translation>Об'єм системного диску</translation>
     </message>
     <message>
         <source>Mount Point</source>
@@ -142,7 +142,7 @@
     </message>
     <message>
         <source>Rescanning devices attached to the system</source>
-        <translation>Пересканування пристроїв під&apos;єднаних до комп&apos;ютера</translation>
+        <translation>Пересканування пристроїв під'єднаних до комп'ютера</translation>
     </message>
     <message>
         <source>Select ISO File</source>
