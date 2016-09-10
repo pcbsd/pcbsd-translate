@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
 <TS version="2.1" language="hr">
 <context>
     <name>MainWindow</name>
     <message>
         <source>About</source>
-        <translation>O programu</translation>
+        <translation>O... (više)</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Host:</source>
-        <translation>Host:</translation>
+        <translation>Domaćin:</translation>
     </message>
     <message>
         <source>????</source>
@@ -25,7 +25,7 @@
     </message>
     <message>
         <source>FreeBSD base</source>
-        <translation>FreeBSD baza</translation>
+        <translation>FreeBSD osnova</translation>
     </message>
     <message>
         <source>Arch:</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>ident</source>
-        <translation>ident</translation>
+        <translation>identifikator</translation>
     </message>
     <message>
         <source>Hardware</source>
@@ -93,11 +93,11 @@
     </message>
     <message>
         <source>(LTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(DP)</translation>
     </message>
     <message>
         <source>Software and system components...</source>
-        <translation type="unfinished"></translation>
+        <translation>Programske i sistemske komponente</translation>
     </message>
 </context>
 </TS>
