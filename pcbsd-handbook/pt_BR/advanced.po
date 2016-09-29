@@ -238,11 +238,11 @@ msgstr ""
 
 #: ../../advanced.rst:133
 msgid "whether or not you want to enable SSH access to the server."
-msgstr ""
+msgstr "se deseja ou não para permitir o acesso para o servidor SSH."
 
 #: ../../advanced.rst:135
 msgid "For both a desktop and a server install, the next screen is shown in :numref:`Figure %s: Configure Remote Access to AppCafe <text8>`."
-msgstr ""
+msgstr "Tanto para a área de trabalho e um servidor de instalação, a próxima tela é mostrada na :numref:`Figure %s: Configure Remote Access to AppCafe <text8>`."
 
 #: ../../advanced.rst:141
 msgid "If you would like to manage installed software or jails from your phone or a remote system, press enter to select the default option of *Yes*. If you only plan to use :ref:`AppCafe®` from the system you are installing, arrow over to *No* instead."
