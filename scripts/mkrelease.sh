@@ -4,7 +4,7 @@ PATH="${PATH}:/usr/local/bin" ; export PATH
 
 PROGDIR="`pwd`/.."
 if [ ! -e "${PROGDIR}/scripts/sync-pcbsd.sh" ] ; then
-   echo "Error: Run as ./mkrelease.sh"
+   echo "Erro: Execute como ./mkrelease.sh"
    exit 1
 fi
 
@@ -30,4 +30,4 @@ do
    if [ $? -ne 0 ] ; then exit 1; fi
 done
 
-echo "Translation files created at: $TARGETDIR"
+echo "Arquivos de tradução criado dia: $TARGETDIR"
