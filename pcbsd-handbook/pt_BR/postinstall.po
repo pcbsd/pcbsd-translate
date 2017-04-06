@@ -17,7 +17,7 @@ msgstr ""
 
 #: ../../postinstall.rst:5
 msgid "Post Installation Configuration and Installation Troubleshooting"
-msgstr ""
+msgstr "Pós instalalçai Configuração e informação para Resolução de Problemas"
 
 #: ../../postinstall.rst:7
 msgid "Once the PC-BSD® system has finished booting for the first time, the installer will present you with some additional screens so that you can configure your system. This section describes the boot process, the post-installation configuration screens, and provides some troubleshooting tips for failed installations."
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../postinstall.rst:14
 msgid "Booting Into PC-BSD®"
-msgstr ""
+msgstr "Incie o boot do PC-BSD®"
 
 #: ../../postinstall.rst:16
 msgid "After installation, PC-BSD® will reboot and display the graphical PC-BSD® bootloader menu shown in :numref:`Figure %s: PC-BSD® Graphical Boot Menu <boot1a>`."
